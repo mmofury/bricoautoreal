@@ -1,0 +1,120 @@
+{
+  "productName": "Traverse",
+  "searchText": "Traverse",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:27:16.165Z",
+  "productId": 754,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Pièces de carrosserie/ailes/pares-chocs": {
+          "categoryId": null,
+          "categoryName": "Pièces de carrosserie/ailes/pares-chocs",
+          "level": 2,
+          "children": {
+            "Traverse": {
+              "categoryId": 100743,
+              "categoryName": "Body Parts/Wing/Bumper",
+              "level": 2,
+              "children": {
+                "Barre latérale / transversale": {
+                  "categoryId": null,
+                  "categoryName": "Barre latérale / transversale",
+                  "level": 4,
+                  "children": {
+                    "Traverse": {
+                      "categoryId": 100155,
+                      "categoryName": "Side/Cross Member",
+                      "level": 3,
+                      "children": [],
+                      "productId": 754
+                    }
+                  }
+                }
+              },
+              "productId": 754
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Système bielle-manivelle": {
+          "categoryId": null,
+          "categoryName": "Système bielle-manivelle",
+          "level": 2,
+          "children": {
+            "Outil de mont., bague d’étanchéité/vilebrequin/palier guide": {
+              "categoryId": 100515,
+              "categoryName": "Crankshaft Drive",
+              "level": 2,
+              "children": {
+                "Outils": {
+                  "categoryId": null,
+                  "categoryName": "Outils",
+                  "level": 4,
+                  "children": {
+                    "Outil de mont., bague d’étanchéité/vilebrequin/palier guide": {
+                      "categoryId": 706358,
+                      "categoryName": "Tools",
+                      "level": 3,
+                      "children": [],
+                      "productId": 9408
+                    }
+                  }
+                }
+              },
+              "productId": 9408
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carrosserie [ID: 100001] (Niveau 1)\n│   └── Pièces de carrosserie/ailes/pares-chocs (Niveau 2)\n│       └── Body Parts/Wing/Bumper [ID: 100743] (Niveau 2) → ProductId: 754\n│           └── Barre latérale / transversale (Niveau 4)\n│               └── Side/Cross Member [ID: 100155] (Niveau 3) → ProductId: 754\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Système bielle-manivelle (Niveau 2)\n        └── Crankshaft Drive [ID: 100515] (Niveau 2) → ProductId: 9408\n            └── Outils (Niveau 4)\n                └── Tools [ID: 706358] (Niveau 3) → ProductId: 9408",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Pièces de carrosserie/ailes/pares-chocs",
+        "Body Parts/Wing/Bumper"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100743
+      ],
+      "finalCategoryId": 100743,
+      "productId": 754
+    },
+    {
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Crankshaft Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100515
+      ],
+      "finalCategoryId": 100515,
+      "productId": 9408
+    }
+  ],
+  "productIdsInArbo": [
+    754,
+    9408
+  ],
+  "matchedProductIds": [
+    754
+  ]
+}

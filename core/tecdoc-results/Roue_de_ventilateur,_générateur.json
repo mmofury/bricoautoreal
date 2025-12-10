@@ -1,0 +1,69 @@
+{
+  "productName": "Roue de ventilateur, générateur",
+  "searchText": "Roue de ventilateur, générateur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:12:09.267Z",
+  "productId": 1110,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Alternateur / composants": {
+          "categoryId": null,
+          "categoryName": "Alternateur / composants",
+          "level": 2,
+          "children": {
+            "Roue de ventilateur, générateur": {
+              "categoryId": 100041,
+              "categoryName": "Alternator/Parts",
+              "level": 2,
+              "children": {
+                "Composants": {
+                  "categoryId": null,
+                  "categoryName": "Composants",
+                  "level": 4,
+                  "children": {
+                    "Roue de ventilateur, générateur": {
+                      "categoryId": 100352,
+                      "categoryName": "Generator/ Alternator Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1110
+                    }
+                  }
+                }
+              },
+              "productId": 1110
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Alternateur / composants (Niveau 2)\n        └── Alternator/Parts [ID: 100041] (Niveau 2) → ProductId: 1110\n            └── Composants (Niveau 4)\n                └── Generator/ Alternator Parts [ID: 100352] (Niveau 3) → ProductId: 1110",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Alternateur / composants",
+        "Alternator/Parts"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100041
+      ],
+      "finalCategoryId": 100041,
+      "productId": 1110
+    }
+  ],
+  "productIdsInArbo": [
+    1110
+  ],
+  "matchedProductIds": [
+    1110
+  ]
+}

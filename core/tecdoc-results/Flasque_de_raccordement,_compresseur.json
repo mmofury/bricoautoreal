@@ -1,0 +1,54 @@
+{
+  "productName": "Flasque de raccordement, compresseur",
+  "searchText": "Flasque de raccordement, compresseur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:40:56.969Z",
+  "productId": 2916,
+  "arborescence": {
+    "Climatisation": {
+      "categoryId": 100243,
+      "categoryName": "Climatisation",
+      "level": 1,
+      "children": {
+        "Compresseur / composants": {
+          "categoryId": null,
+          "categoryName": "Compresseur / composants",
+          "level": 2,
+          "children": {
+            "Flasque de raccordement, compresseur": {
+              "categoryId": 100354,
+              "categoryName": "Compressor/Parts",
+              "level": 2,
+              "children": [],
+              "productId": 2916
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Climatisation [ID: 100243] (Niveau 1)\n    └── Compresseur / composants (Niveau 2)\n        └── Compressor/Parts [ID: 100354] (Niveau 2) → ProductId: 2916",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Climatisation",
+        "Compresseur / composants",
+        "Compressor/Parts"
+      ],
+      "categoryIds": [
+        100243,
+        null,
+        100354
+      ],
+      "finalCategoryId": 100354,
+      "productId": 2916
+    }
+  ],
+  "productIdsInArbo": [
+    2916
+  ],
+  "matchedProductIds": [
+    2916
+  ]
+}

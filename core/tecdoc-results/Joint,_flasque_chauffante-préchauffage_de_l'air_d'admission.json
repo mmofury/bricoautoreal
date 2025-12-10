@@ -1,0 +1,119 @@
+{
+  "productName": "Joint, flasque chauffante-préchauffage de l'air d'admission",
+  "searchText": "Joint, flasque chauffante-préchauffage de l'air d'admission",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:55:49.910Z",
+  "productId": 4105,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Joint, flasque chauffante-préchauffage de l'air d'admission": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Composants de porte-injecteur / Injecteur": {
+                  "categoryId": null,
+                  "categoryName": "Composants de porte-injecteur / Injecteur",
+                  "level": 4,
+                  "children": {
+                    "Joint, flasque chauffante-préchauffage de l'air d'admission": {
+                      "categoryId": 102800,
+                      "categoryName": "Nozzle and Holder Assembly/Nozzle Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4105
+                    }
+                  }
+                }
+              },
+              "productId": 4105
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Alimentation en air": {
+          "categoryId": null,
+          "categoryName": "Alimentation en air",
+          "level": 2,
+          "children": {
+            "Joint, flasque chauffante-préchauffage de l'air d'admission": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Préchauffement de l'air d'admission": {
+                  "categoryId": null,
+                  "categoryName": "Préchauffement de l'air d'admission",
+                  "level": 4,
+                  "children": {
+                    "Joint, flasque chauffante-préchauffage de l'air d'admission": {
+                      "categoryId": 102872,
+                      "categoryName": "Intake-Air Preheating",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4105
+                    }
+                  }
+                }
+              },
+              "productId": 4105
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carburation [ID: 100254] (Niveau 1)\n│   └── Mélange air-carburant (Niveau 2)\n│       └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 4105\n│           └── Composants de porte-injecteur / Injecteur (Niveau 4)\n│               └── Nozzle and Holder Assembly/Nozzle Parts [ID: 102800] (Niveau 3) → ProductId: 4105\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Alimentation en air (Niveau 2)\n        └── Air Supply [ID: 100383] (Niveau 2) → ProductId: 4105\n            └── Préchauffement de l'air d'admission (Niveau 4)\n                └── Intake-Air Preheating [ID: 102872] (Niveau 3) → ProductId: 4105",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 4105
+    },
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 4105
+    }
+  ],
+  "productIdsInArbo": [
+    4105
+  ],
+  "matchedProductIds": [
+    4105
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Joint d'étanchéité, palpeur de réservoir",
+  "searchText": "Joint d'étanchéité, palpeur de réservoir",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:53:05.720Z",
+  "productId": 148,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Capteur de niveau de carburant": {
+          "categoryId": null,
+          "categoryName": "Capteur de niveau de carburant",
+          "level": 2,
+          "children": {
+            "Joint d'étanchéité, palpeur de réservoir": {
+              "categoryId": 100268,
+              "categoryName": "Fuel Sender Unit",
+              "level": 2,
+              "children": [],
+              "productId": 148
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Alimentation carburant [ID: 100214] (Niveau 1)\n    └── Capteur de niveau de carburant (Niveau 2)\n        └── Fuel Sender Unit [ID: 100268] (Niveau 2) → ProductId: 148",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Capteur de niveau de carburant",
+        "Fuel Sender Unit"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100268
+      ],
+      "finalCategoryId": 100268,
+      "productId": 148
+    }
+  ],
+  "productIdsInArbo": [
+    148
+  ],
+  "matchedProductIds": [
+    148
+  ]
+}

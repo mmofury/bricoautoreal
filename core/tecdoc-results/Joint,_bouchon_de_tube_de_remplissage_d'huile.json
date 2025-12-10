@@ -1,0 +1,112 @@
+{
+  "productName": "Joint, bouchon de tube de remplissage d'huile",
+  "searchText": "Joint, bouchon de tube de remplissage d'huile",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:54:34.887Z",
+  "productId": 598,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Culasse / pieces de montage": {
+          "categoryId": null,
+          "categoryName": "Culasse / pieces de montage",
+          "level": 2,
+          "children": {
+            "Joint, bouchon de tube de remplissage d'huile": {
+              "categoryId": 100373,
+              "categoryName": "Cylinder Head/Attachment Parts",
+              "level": 2,
+              "children": {
+                "Couvercle de remplissage d'huile/joint": {
+                  "categoryId": null,
+                  "categoryName": "Couvercle de remplissage d'huile/joint",
+                  "level": 4,
+                  "children": {
+                    "Joint, bouchon de tube de remplissage d'huile": {
+                      "categoryId": 100379,
+                      "categoryName": "Oil Filler Cap/Seal",
+                      "level": 3,
+                      "children": [],
+                      "productId": 598
+                    }
+                  }
+                }
+              },
+              "productId": 598
+            }
+          }
+        },
+        "Joints": {
+          "categoryId": null,
+          "categoryName": "Joints",
+          "level": 2,
+          "children": {
+            "Joint, bouchon de tube de remplissage d'huile": {
+              "categoryId": 100223,
+              "categoryName": "Gaskets",
+              "level": 2,
+              "children": {
+                "Joint de circuit d'huile": {
+                  "categoryId": null,
+                  "categoryName": "Joint de circuit d'huile",
+                  "level": 4,
+                  "children": {
+                    "Joint, bouchon de tube de remplissage d'huile": {
+                      "categoryId": 100684,
+                      "categoryName": "Oil Circuit Seals",
+                      "level": 3,
+                      "children": [],
+                      "productId": 598
+                    }
+                  }
+                }
+              },
+              "productId": 598
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    ├── Culasse / pieces de montage (Niveau 2)\n    │   └── Cylinder Head/Attachment Parts [ID: 100373] (Niveau 2) → ProductId: 598\n    │       └── Couvercle de remplissage d'huile/joint (Niveau 4)\n    │           └── Oil Filler Cap/Seal [ID: 100379] (Niveau 3) → ProductId: 598\n    └── Joints (Niveau 2)\n        └── Gaskets [ID: 100223] (Niveau 2) → ProductId: 598\n            └── Joint de circuit d'huile (Niveau 4)\n                └── Oil Circuit Seals [ID: 100684] (Niveau 3) → ProductId: 598",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Culasse / pieces de montage",
+        "Cylinder Head/Attachment Parts"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100373
+      ],
+      "finalCategoryId": 100373,
+      "productId": 598
+    },
+    {
+      "path": [
+        "Moteur",
+        "Joints",
+        "Gaskets"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100223
+      ],
+      "finalCategoryId": 100223,
+      "productId": 598
+    }
+  ],
+  "productIdsInArbo": [
+    598
+  ],
+  "matchedProductIds": [
+    598
+  ]
+}

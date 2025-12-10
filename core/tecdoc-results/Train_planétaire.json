@@ -1,0 +1,113 @@
+{
+  "productName": "Train planétaire",
+  "searchText": "Train planétaire",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:26:59.748Z",
+  "productId": 4097,
+  "arborescence": {
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Boîte de vitesses manuelle": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesses manuelle",
+          "level": 2,
+          "children": {
+            "Train planétaire": {
+              "categoryId": 100239,
+              "categoryName": "Manual Transmission",
+              "level": 2,
+              "children": {
+                "Carter/composants": {
+                  "categoryId": null,
+                  "categoryName": "Carter/composants",
+                  "level": 4,
+                  "children": {
+                    "Train planétaire": {
+                      "categoryId": 100774,
+                      "categoryName": "Transmission Housing/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4097
+                    }
+                  }
+                }
+              },
+              "productId": 4097
+            }
+          }
+        },
+        "Boîte de vitesses manuelle robotisée (BVR)": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesses manuelle robotisée (BVR)",
+          "level": 2,
+          "children": {
+            "Train planétaire, boîte de vitesses manuelle robotisée (BVR)": {
+              "categoryId": 706584,
+              "categoryName": "Automated manual transmission (AMT)",
+              "level": 2,
+              "children": {
+                "Carter/composants": {
+                  "categoryId": null,
+                  "categoryName": "Carter/composants",
+                  "level": 4,
+                  "children": {
+                    "Train planétaire, boîte de vitesses manuelle robotisée (BVR)": {
+                      "categoryId": 706586,
+                      "categoryName": "Transmission Housing/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60275
+                    }
+                  }
+                }
+              },
+              "productId": 60275
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Boîte de vitesses [ID: 100238] (Niveau 1)\n    ├── Boîte de vitesses manuelle (Niveau 2)\n    │   └── Manual Transmission [ID: 100239] (Niveau 2) → ProductId: 4097\n    │       └── Carter/composants (Niveau 4)\n    │           └── Transmission Housing/Parts [ID: 100774] (Niveau 3) → ProductId: 4097\n    └── Boîte de vitesses manuelle robotisée (BVR) (Niveau 2)\n        └── Automated manual transmission (AMT) [ID: 706584] (Niveau 2) → ProductId: 60275\n            └── Carter/composants (Niveau 4)\n                └── Transmission Housing/Parts [ID: 706586] (Niveau 3) → ProductId: 60275",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesses manuelle",
+        "Manual Transmission"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        100239
+      ],
+      "finalCategoryId": 100239,
+      "productId": 4097
+    },
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesses manuelle robotisée (BVR)",
+        "Automated manual transmission (AMT)"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        706584
+      ],
+      "finalCategoryId": 706584,
+      "productId": 60275
+    }
+  ],
+  "productIdsInArbo": [
+    4097,
+    60275
+  ],
+  "matchedProductIds": [
+    4097
+  ]
+}

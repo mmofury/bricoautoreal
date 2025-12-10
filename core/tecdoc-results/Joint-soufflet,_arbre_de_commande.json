@@ -1,0 +1,54 @@
+{
+  "productName": "Joint-soufflet, arbre de commande",
+  "searchText": "Joint-soufflet, arbre de commande",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:57:01.289Z",
+  "productId": 193,
+  "arborescence": {
+    "Entraînement des roues": {
+      "categoryId": 100014,
+      "categoryName": "Entraînement des roues",
+      "level": 1,
+      "children": {
+        "Soufflet": {
+          "categoryId": null,
+          "categoryName": "Soufflet",
+          "level": 2,
+          "children": {
+            "Joint-soufflet, arbre de commande": {
+              "categoryId": 100074,
+              "categoryName": "Bellow",
+              "level": 2,
+              "children": [],
+              "productId": 193
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement des roues [ID: 100014] (Niveau 1)\n    └── Soufflet (Niveau 2)\n        └── Bellow [ID: 100074] (Niveau 2) → ProductId: 193",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des roues",
+        "Soufflet",
+        "Bellow"
+      ],
+      "categoryIds": [
+        100014,
+        null,
+        100074
+      ],
+      "finalCategoryId": 100074,
+      "productId": 193
+    }
+  ],
+  "productIdsInArbo": [
+    193
+  ],
+  "matchedProductIds": [
+    193
+  ]
+}

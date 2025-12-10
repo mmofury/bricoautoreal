@@ -1,0 +1,82 @@
+{
+  "productName": "Joint, carter d'embrayage",
+  "searchText": "Joint, carter d'embrayage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:55:00.916Z",
+  "productId": 3986,
+  "arborescence": {
+    "Embrayage / composants": {
+      "categoryId": 100050,
+      "categoryName": "Embrayage / composants",
+      "level": 1,
+      "children": {
+        "Carter d'embrayage": {
+          "categoryId": null,
+          "categoryName": "Carter d'embrayage",
+          "level": 2,
+          "children": {
+            "Joint, carter d'embrayage": {
+              "categoryId": 102877,
+              "categoryName": "Clutch Housing",
+              "level": 2,
+              "children": [],
+              "productId": 3986
+            }
+          }
+        },
+        "Joints/Kits de joints": {
+          "categoryId": null,
+          "categoryName": "Joints/Kits de joints",
+          "level": 2,
+          "children": {
+            "Joint, carter d'embrayage": {
+              "categoryId": 102784,
+              "categoryName": "Gaskets/Gasket Sets",
+              "level": 2,
+              "children": [],
+              "productId": 3986
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Embrayage / composants [ID: 100050] (Niveau 1)\n    ├── Carter d'embrayage (Niveau 2)\n    │   └── Clutch Housing [ID: 102877] (Niveau 2) → ProductId: 3986\n    └── Joints/Kits de joints (Niveau 2)\n        └── Gaskets/Gasket Sets [ID: 102784] (Niveau 2) → ProductId: 3986",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Embrayage / composants",
+        "Carter d'embrayage",
+        "Clutch Housing"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        102877
+      ],
+      "finalCategoryId": 102877,
+      "productId": 3986
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Joints/Kits de joints",
+        "Gaskets/Gasket Sets"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        102784
+      ],
+      "finalCategoryId": 102784,
+      "productId": 3986
+    }
+  ],
+  "productIdsInArbo": [
+    3986
+  ],
+  "matchedProductIds": [
+    3986
+  ]
+}

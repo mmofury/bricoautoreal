@@ -1,0 +1,76 @@
+{
+  "productName": "Électricité centrale",
+  "searchText": "Électricité centrale",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:38:28.702Z",
+  "productId": 1443,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Électricité centrale": {
+          "categoryId": null,
+          "categoryName": "Électricité centrale",
+          "level": 2,
+          "children": {
+            "Électricité centrale": {
+              "categoryId": 100708,
+              "categoryName": "Central Electrics",
+              "level": 2,
+              "children": [],
+              "productId": 1443
+            },
+            "Kit réparation de câble, electricité centrale": {
+              "categoryId": 100708,
+              "categoryName": "Central Electrics",
+              "level": 2,
+              "children": [],
+              "productId": 6348
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Électricité centrale (Niveau 2)\n        ├── Central Electrics [ID: 100708] (Niveau 2) → ProductId: 1443\n        └── Central Electrics [ID: 100708] (Niveau 2) → ProductId: 6348",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Électricité centrale",
+        "Central Electrics"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100708
+      ],
+      "finalCategoryId": 100708,
+      "productId": 1443
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Électricité centrale",
+        "Central Electrics"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100708
+      ],
+      "finalCategoryId": 100708,
+      "productId": 6348
+    }
+  ],
+  "productIdsInArbo": [
+    1443,
+    6348
+  ],
+  "matchedProductIds": [
+    1443
+  ]
+}

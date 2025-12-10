@@ -1,0 +1,112 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.300Z",
+  "manufacturer": "GOUPIL",
+  "countGroups": 7,
+  "groups": [
+    {
+      "manufacturerId": 4752,
+      "manufacturerName": "GOUPIL",
+      "groupKey": "G2",
+      "displayName": "G2",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41199,
+          "modelName": "G2 Camion plate-forme/Châssis",
+          "modelYearFrom": "2020-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4752,
+      "manufacturerName": "GOUPIL",
+      "groupKey": "G3",
+      "displayName": "G3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41207,
+          "modelName": "G3 Camion plate-forme/Châssis",
+          "modelYearFrom": "2002-01-01",
+          "modelYearTo": "2016-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4752,
+      "manufacturerName": "GOUPIL",
+      "groupKey": "G3L",
+      "displayName": "G3L",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41208,
+          "modelName": "G3L Camion plate-forme/Châssis",
+          "modelYearFrom": "2002-01-01",
+          "modelYearTo": "2016-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4752,
+      "manufacturerName": "GOUPIL",
+      "groupKey": "G4",
+      "displayName": "G4",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38208,
+          "modelName": "G4 Camion plate-forme/Châssis",
+          "modelYearFrom": "2016-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4752,
+      "manufacturerName": "GOUPIL",
+      "groupKey": "G4L",
+      "displayName": "G4L",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41196,
+          "modelName": "G4L Camion plate-forme/Châssis",
+          "modelYearFrom": "2018-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4752,
+      "manufacturerName": "GOUPIL",
+      "groupKey": "G5",
+      "displayName": "G5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38211,
+          "modelName": "G5 Camion plate-forme/Châssis",
+          "modelYearFrom": "2016-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4752,
+      "manufacturerName": "GOUPIL",
+      "groupKey": "G6",
+      "displayName": "G6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41197,
+          "modelName": "G6 Camion plate-forme/Châssis",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

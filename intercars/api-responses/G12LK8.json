@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G12LK8",
+      "index": "FE179957",
+      "tecDoc": "179957",
+      "tecDocProd": "101",
+      "articleNumber": "179957",
+      "brand": "FEBI",
+      "shortDescription": "Gasket, throttle body",
+      "description": "Intake manifold housing gasket fits: FORD GALAXY I, GALAXY MK I, SEAT ALHAMBRA, LEON, TOLEDO II, VW BORA, BORA I, GOLF IV, NEW BEETLE, PASSAT B5.5, SHARAN, SHARAN/MINIVAN 2.3/2.8/3.2 03.99-09.10",
+      "customsCode": "40169300",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_60677",
+          "primary": false,
+          "name": {
+            "en": "Seal Ring, throttle body"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_8257",
+          "primary": true,
+          "name": {
+            "en": "Gasket, throttle body"
+          }
+        }
+      ]
+    }
+  ]
+}

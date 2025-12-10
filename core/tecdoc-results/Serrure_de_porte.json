@@ -1,0 +1,328 @@
+{
+  "productName": "Serrure de porte",
+  "searchText": "Serrure de porte",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:15:37.267Z",
+  "productId": 1361,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Outillage de montage, serrure de porte/boîtier du cylindre": {
+              "categoryId": 103132,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4657
+            }
+          }
+        }
+      }
+    },
+    "Outils spéciaux": {
+      "categoryId": 706365,
+      "categoryName": "Outils spéciaux",
+      "level": 1,
+      "children": {
+        "Outils spéciaux carrosserie": {
+          "categoryId": null,
+          "categoryName": "Outils spéciaux carrosserie",
+          "level": 2,
+          "children": {
+            "Outillage de montage, serrure de porte/boîtier du cylindre": {
+              "categoryId": 706366,
+              "categoryName": "Body Special Tools",
+              "level": 2,
+              "children": {
+                "Verrouillage": {
+                  "categoryId": null,
+                  "categoryName": "Verrouillage",
+                  "level": 4,
+                  "children": {
+                    "Outillage de montage, serrure de porte/boîtier du cylindre": {
+                      "categoryId": 706367,
+                      "categoryName": "Locking System",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4657
+                    }
+                  }
+                }
+              },
+              "productId": 4657
+            }
+          }
+        }
+      }
+    },
+    "Verrouillage": {
+      "categoryId": 100685,
+      "categoryName": "Verrouillage",
+      "level": 1,
+      "children": {
+        "Composants": {
+          "categoryId": null,
+          "categoryName": "Composants",
+          "level": 2,
+          "children": {
+            "Excentrique, serrure de porte": {
+              "categoryId": 100766,
+              "categoryName": "Parts",
+              "level": 2,
+              "children": [],
+              "productId": 60763
+            },
+            "Interrupteur, serrure de porte": {
+              "categoryId": 100766,
+              "categoryName": "Parts",
+              "level": 2,
+              "children": [],
+              "productId": 1774
+            },
+            "Kit réparation de câble, serrure de porte": {
+              "categoryId": 100766,
+              "categoryName": "Parts",
+              "level": 2,
+              "children": [],
+              "productId": 60769
+            }
+          }
+        },
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Outillage de montage, serrure de porte/boîtier du cylindre": {
+              "categoryId": 103234,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4657
+            }
+          }
+        },
+        "Serrure extérieure": {
+          "categoryId": null,
+          "categoryName": "Serrure extérieure",
+          "level": 2,
+          "children": {
+            "Goupille de verrouillage, serrure de porte": {
+              "categoryId": 100687,
+              "categoryName": "Exterior Locks",
+              "level": 2,
+              "children": [],
+              "productId": 60088
+            },
+            "Kit de réparation, serrure de porte": {
+              "categoryId": 100687,
+              "categoryName": "Exterior Locks",
+              "level": 2,
+              "children": [],
+              "productId": 60764
+            },
+            "Kit réparation de câble, serrure de porte": {
+              "categoryId": 100687,
+              "categoryName": "Exterior Locks",
+              "level": 2,
+              "children": [],
+              "productId": 60769
+            },
+            "Serrure de porte": {
+              "categoryId": 100687,
+              "categoryName": "Exterior Locks",
+              "level": 2,
+              "children": [],
+              "productId": 1361
+            },
+            "Serrure de porte coulissante": {
+              "categoryId": 100687,
+              "categoryName": "Exterior Locks",
+              "level": 2,
+              "children": [],
+              "productId": 61339
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carrosserie [ID: 100001] (Niveau 1)\n│   └── Outils (Niveau 2)\n│       └── Tools [ID: 103132] (Niveau 2) → ProductId: 4657\n\n├── Outils spéciaux [ID: 706365] (Niveau 1)\n│   └── Outils spéciaux carrosserie (Niveau 2)\n│       └── Body Special Tools [ID: 706366] (Niveau 2) → ProductId: 4657\n│           └── Verrouillage (Niveau 4)\n│               └── Locking System [ID: 706367] (Niveau 3) → ProductId: 4657\n\n└── Verrouillage [ID: 100685] (Niveau 1)\n    ├── Composants (Niveau 2)\n    │   ├── Parts [ID: 100766] (Niveau 2) → ProductId: 60763\n    │   ├── Parts [ID: 100766] (Niveau 2) → ProductId: 1774\n    │   └── Parts [ID: 100766] (Niveau 2) → ProductId: 60769\n    ├── Outils (Niveau 2)\n    │   └── Tools [ID: 103234] (Niveau 2) → ProductId: 4657\n    └── Serrure extérieure (Niveau 2)\n        ├── Exterior Locks [ID: 100687] (Niveau 2) → ProductId: 60088\n        ├── Exterior Locks [ID: 100687] (Niveau 2) → ProductId: 60764\n        ├── Exterior Locks [ID: 100687] (Niveau 2) → ProductId: 60769\n        ├── Exterior Locks [ID: 100687] (Niveau 2) → ProductId: 1361\n        └── Exterior Locks [ID: 100687] (Niveau 2) → ProductId: 61339",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        103132
+      ],
+      "finalCategoryId": 103132,
+      "productId": 4657
+    },
+    {
+      "path": [
+        "Outils spéciaux",
+        "Outils spéciaux carrosserie",
+        "Body Special Tools"
+      ],
+      "categoryIds": [
+        706365,
+        null,
+        706366
+      ],
+      "finalCategoryId": 706366,
+      "productId": 4657
+    },
+    {
+      "path": [
+        "Verrouillage",
+        "Composants",
+        "Parts"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100766
+      ],
+      "finalCategoryId": 100766,
+      "productId": 60763
+    },
+    {
+      "path": [
+        "Verrouillage",
+        "Composants",
+        "Parts"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100766
+      ],
+      "finalCategoryId": 100766,
+      "productId": 1774
+    },
+    {
+      "path": [
+        "Verrouillage",
+        "Composants",
+        "Parts"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100766
+      ],
+      "finalCategoryId": 100766,
+      "productId": 60769
+    },
+    {
+      "path": [
+        "Verrouillage",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        103234
+      ],
+      "finalCategoryId": 103234,
+      "productId": 4657
+    },
+    {
+      "path": [
+        "Verrouillage",
+        "Serrure extérieure",
+        "Exterior Locks"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100687
+      ],
+      "finalCategoryId": 100687,
+      "productId": 60088
+    },
+    {
+      "path": [
+        "Verrouillage",
+        "Serrure extérieure",
+        "Exterior Locks"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100687
+      ],
+      "finalCategoryId": 100687,
+      "productId": 60764
+    },
+    {
+      "path": [
+        "Verrouillage",
+        "Serrure extérieure",
+        "Exterior Locks"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100687
+      ],
+      "finalCategoryId": 100687,
+      "productId": 60769
+    },
+    {
+      "path": [
+        "Verrouillage",
+        "Serrure extérieure",
+        "Exterior Locks"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100687
+      ],
+      "finalCategoryId": 100687,
+      "productId": 1361
+    },
+    {
+      "path": [
+        "Verrouillage",
+        "Serrure extérieure",
+        "Exterior Locks"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100687
+      ],
+      "finalCategoryId": 100687,
+      "productId": 61339
+    }
+  ],
+  "productIdsInArbo": [
+    1361,
+    1774,
+    4657,
+    60088,
+    60763,
+    60764,
+    60769,
+    61339
+  ],
+  "matchedProductIds": [
+    1361
+  ]
+}

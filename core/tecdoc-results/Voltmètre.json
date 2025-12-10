@@ -1,0 +1,104 @@
+{
+  "productName": "Voltmètre",
+  "searchText": "Voltmètre",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:35:48.315Z",
+  "productId": 987,
+  "arborescence": {
+    "Système d'information et de communication": {
+      "categoryId": 100339,
+      "categoryName": "Système d'information et de communication",
+      "level": 1,
+      "children": {
+        "Instruments": {
+          "categoryId": null,
+          "categoryName": "Instruments",
+          "level": 2,
+          "children": {
+            "Voltmètre": {
+              "categoryId": 100693,
+              "categoryName": "Instruments",
+              "level": 2,
+              "children": [],
+              "productId": 987
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Instruments": {
+          "categoryId": null,
+          "categoryName": "Instruments",
+          "level": 2,
+          "children": {
+            "Voltmètre": {
+              "categoryId": 100322,
+              "categoryName": "Instruments",
+              "level": 2,
+              "children": {
+                "Instruments indicateurs": {
+                  "categoryId": null,
+                  "categoryName": "Instruments indicateurs",
+                  "level": 4,
+                  "children": {
+                    "Voltmètre": {
+                      "categoryId": 100555,
+                      "categoryName": "Gauges",
+                      "level": 3,
+                      "children": [],
+                      "productId": 987
+                    }
+                  }
+                }
+              },
+              "productId": 987
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Système d'information et de communication [ID: 100339] (Niveau 1)\n│   └── Instruments (Niveau 2)\n│       └── Instruments [ID: 100693] (Niveau 2) → ProductId: 987\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Instruments (Niveau 2)\n        └── Instruments [ID: 100322] (Niveau 2) → ProductId: 987\n            └── Instruments indicateurs (Niveau 4)\n                └── Gauges [ID: 100555] (Niveau 3) → ProductId: 987",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système d'information et de communication",
+        "Instruments",
+        "Instruments"
+      ],
+      "categoryIds": [
+        100339,
+        null,
+        100693
+      ],
+      "finalCategoryId": 100693,
+      "productId": 987
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Instruments",
+        "Instruments"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100322
+      ],
+      "finalCategoryId": 100322,
+      "productId": 987
+    }
+  ],
+  "productIdsInArbo": [
+    987
+  ],
+  "matchedProductIds": [
+    987
+  ]
+}

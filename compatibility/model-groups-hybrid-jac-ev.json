@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.350Z",
+  "manufacturer": "JAC EV",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 6903,
+      "manufacturerName": "JAC EV",
+      "groupKey": "AIPAO",
+      "displayName": "AIPAO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45116,
+          "modelName": "AIPAO",
+          "modelYearFrom": "2024-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6903,
+      "manufacturerName": "JAC EV",
+      "groupKey": "HUAXIANZI",
+      "displayName": "HUAXIANZI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 90023,
+          "modelName": "HUAXIANZI",
+          "modelYearFrom": "2024-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6903,
+      "manufacturerName": "JAC EV",
+      "groupKey": "YIWEI",
+      "displayName": "YIWEI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44544,
+          "modelName": "YIWEI 3",
+          "modelYearFrom": "2023-06-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

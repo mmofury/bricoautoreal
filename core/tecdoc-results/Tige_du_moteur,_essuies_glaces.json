@@ -1,0 +1,54 @@
+{
+  "productName": "Tige du moteur, essuies glaces",
+  "searchText": "Tige du moteur, essuies glaces",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:26:03.661Z",
+  "productId": 3857,
+  "arborescence": {
+    "Nettoyage des vitres": {
+      "categoryId": 100018,
+      "categoryName": "Nettoyage des vitres",
+      "level": 1,
+      "children": {
+        "Tringlerie d'essuie-glace / commande": {
+          "categoryId": null,
+          "categoryName": "Tringlerie d'essuie-glace / commande",
+          "level": 2,
+          "children": {
+            "Tige du moteur, essuies glaces": {
+              "categoryId": 100137,
+              "categoryName": "Wiper Linkage/Drive",
+              "level": 2,
+              "children": [],
+              "productId": 3857
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Nettoyage des vitres [ID: 100018] (Niveau 1)\n    └── Tringlerie d'essuie-glace / commande (Niveau 2)\n        └── Wiper Linkage/Drive [ID: 100137] (Niveau 2) → ProductId: 3857",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Nettoyage des vitres",
+        "Tringlerie d'essuie-glace / commande",
+        "Wiper Linkage/Drive"
+      ],
+      "categoryIds": [
+        100018,
+        null,
+        100137
+      ],
+      "finalCategoryId": 100137,
+      "productId": 3857
+    }
+  ],
+  "productIdsInArbo": [
+    3857
+  ],
+  "matchedProductIds": [
+    3857
+  ]
+}

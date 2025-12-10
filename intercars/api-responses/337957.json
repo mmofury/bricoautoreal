@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "337957",
+      "index": "HAZ 794-1",
+      "tecDoc": "794-1",
+      "tecDocProd": "4808",
+      "articleNumber": "794-1",
+      "brand": "HAZET",
+      "shortDescription": "Engine maintenance tools",
+      "description": "",
+      "packageWeight": "0,280",
+      "packageWidth": "10,000",
+      "packageDepth": "10,000",
+      "packageHeight": "10,000",
+      "customsCode": "90328900",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4490",
+          "primary": false,
+          "name": {
+            "en": "Piston Ring Compressor"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91778",
+          "primary": true,
+          "name": {
+            "en": "Engine maintenance tools"
+          }
+        }
+      ]
+    }
+  ]
+}

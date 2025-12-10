@@ -1,0 +1,120 @@
+{
+  "productName": "Manchon de raccord, conduite du liquide de refroidissement",
+  "searchText": "Manchon de raccord, conduite du liquide de refroidissement",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:13:34.835Z",
+  "productId": 1989,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Carburateurs": {
+          "categoryId": null,
+          "categoryName": "Carburateurs",
+          "level": 2,
+          "children": {
+            "Manchon de raccord, conduite du liquide de refroidissement": {
+              "categoryId": 102903,
+              "categoryName": "Carburettor System",
+              "level": 2,
+              "children": {
+                "Composants du carburateur": {
+                  "categoryId": null,
+                  "categoryName": "Composants du carburateur",
+                  "level": 4,
+                  "children": {
+                    "Manchon de raccord, conduite du liquide de refroidissement": {
+                      "categoryId": 102906,
+                      "categoryName": "Carburettor Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1989
+                    }
+                  }
+                }
+              },
+              "productId": 1989
+            }
+          }
+        }
+      }
+    },
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Tuyauterie et brides": {
+          "categoryId": null,
+          "categoryName": "Tuyauterie et brides",
+          "level": 2,
+          "children": {
+            "Manchon de raccord, conduite du liquide de refroidissement": {
+              "categoryId": 100099,
+              "categoryName": "Hoses/Pipes/Flanges",
+              "level": 2,
+              "children": {
+                "Raccord": {
+                  "categoryId": null,
+                  "categoryName": "Raccord",
+                  "level": 4,
+                  "children": {
+                    "Manchon de raccord, conduite du liquide de refroidissement": {
+                      "categoryId": 706709,
+                      "categoryName": "Connection Piece",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60577
+                    }
+                  }
+                }
+              },
+              "productId": 60577
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carburation [ID: 100254] (Niveau 1)\n│   └── Carburateurs (Niveau 2)\n│       └── Carburettor System [ID: 102903] (Niveau 2) → ProductId: 1989\n│           └── Composants du carburateur (Niveau 4)\n│               └── Carburettor Parts [ID: 102906] (Niveau 3) → ProductId: 1989\n\n└── Refroidissement [ID: 100007] (Niveau 1)\n    └── Tuyauterie et brides (Niveau 2)\n        └── Hoses/Pipes/Flanges [ID: 100099] (Niveau 2) → ProductId: 60577\n            └── Raccord (Niveau 4)\n                └── Connection Piece [ID: 706709] (Niveau 3) → ProductId: 60577",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Carburateurs",
+        "Carburettor System"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102903
+      ],
+      "finalCategoryId": 102903,
+      "productId": 1989
+    },
+    {
+      "path": [
+        "Refroidissement",
+        "Tuyauterie et brides",
+        "Hoses/Pipes/Flanges"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100099
+      ],
+      "finalCategoryId": 100099,
+      "productId": 60577
+    }
+  ],
+  "productIdsInArbo": [
+    1989,
+    60577
+  ],
+  "matchedProductIds": [
+    1989
+  ]
+}

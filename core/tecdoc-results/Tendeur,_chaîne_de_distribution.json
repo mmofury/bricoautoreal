@@ -1,0 +1,188 @@
+{
+  "productName": "Tendeur, chaîne de distribution",
+  "searchText": "Tendeur, chaîne de distribution",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:25:18.668Z",
+  "productId": 571,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Distribution moteur": {
+          "categoryId": null,
+          "categoryName": "Distribution moteur",
+          "level": 2,
+          "children": {
+            "Rail tendeur, chaîne de distribution": {
+              "categoryId": 100003,
+              "categoryName": "Engine Timing",
+              "level": 2,
+              "children": {
+                "Chaîne de distribution/tension/guidage": {
+                  "categoryId": null,
+                  "categoryName": "Chaîne de distribution/tension/guidage",
+                  "level": 4,
+                  "children": {
+                    "Rail tendeur, chaîne de distribution": {
+                      "categoryId": 100403,
+                      "categoryName": "Timing Chain/Tensioner/Guide",
+                      "level": 3,
+                      "children": {
+                        "Culbuteur/levier oscillant/pièce de press°": {
+                          "categoryId": null,
+                          "categoryName": "Culbuteur/levier oscillant/pièce de press°",
+                          "level": 6,
+                          "children": {
+                            "Rail tendeur, chaîne de distribution": {
+                              "categoryId": 101485,
+                              "categoryName": "Slide Rail",
+                              "level": 4,
+                              "children": [],
+                              "productId": 2937
+                            }
+                          }
+                        }
+                      },
+                      "productId": 2937
+                    }
+                  }
+                }
+              },
+              "productId": 2937
+            },
+            "Revêtemt. rail tendeur, chaîne de distribution": {
+              "categoryId": 100003,
+              "categoryName": "Engine Timing",
+              "level": 2,
+              "children": {
+                "Chaîne de distribution/tension/guidage": {
+                  "categoryId": null,
+                  "categoryName": "Chaîne de distribution/tension/guidage",
+                  "level": 4,
+                  "children": {
+                    "Revêtemt. rail tendeur, chaîne de distribution": {
+                      "categoryId": 100403,
+                      "categoryName": "Timing Chain/Tensioner/Guide",
+                      "level": 3,
+                      "children": {
+                        "Culbuteur/levier oscillant/pièce de press°": {
+                          "categoryId": null,
+                          "categoryName": "Culbuteur/levier oscillant/pièce de press°",
+                          "level": 6,
+                          "children": {
+                            "Revêtemt. rail tendeur, chaîne de distribution": {
+                              "categoryId": 101485,
+                              "categoryName": "Slide Rail",
+                              "level": 4,
+                              "children": [],
+                              "productId": 2938
+                            }
+                          }
+                        }
+                      },
+                      "productId": 2938
+                    }
+                  }
+                }
+              },
+              "productId": 2938
+            },
+            "Tendeur, chaîne de distribution": {
+              "categoryId": 100003,
+              "categoryName": "Engine Timing",
+              "level": 2,
+              "children": {
+                "Chaîne de distribution/tension/guidage": {
+                  "categoryId": null,
+                  "categoryName": "Chaîne de distribution/tension/guidage",
+                  "level": 4,
+                  "children": {
+                    "Tendeur, chaîne de distribution": {
+                      "categoryId": 100403,
+                      "categoryName": "Timing Chain/Tensioner/Guide",
+                      "level": 3,
+                      "children": {
+                        "Tendeur de chaînes": {
+                          "categoryId": null,
+                          "categoryName": "Tendeur de chaînes",
+                          "level": 6,
+                          "children": {
+                            "Tendeur, chaîne de distribution": {
+                              "categoryId": 100414,
+                              "categoryName": "Timing Chain Tensioner",
+                              "level": 4,
+                              "children": [],
+                              "productId": 571
+                            }
+                          }
+                        }
+                      },
+                      "productId": 571
+                    }
+                  }
+                }
+              },
+              "productId": 571
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Distribution moteur (Niveau 2)\n        ├── Engine Timing [ID: 100003] (Niveau 2) → ProductId: 2937\n        │   └── Chaîne de distribution/tension/guidage (Niveau 4)\n        │       └── Timing Chain/Tensioner/Guide [ID: 100403] (Niveau 3) → ProductId: 2937\n        │           └── Culbuteur/levier oscillant/pièce de press° (Niveau 6)\n        │               └── Slide Rail [ID: 101485] (Niveau 4) → ProductId: 2937\n        ├── Engine Timing [ID: 100003] (Niveau 2) → ProductId: 2938\n        │   └── Chaîne de distribution/tension/guidage (Niveau 4)\n        │       └── Timing Chain/Tensioner/Guide [ID: 100403] (Niveau 3) → ProductId: 2938\n        │           └── Culbuteur/levier oscillant/pièce de press° (Niveau 6)\n        │               └── Slide Rail [ID: 101485] (Niveau 4) → ProductId: 2938\n        └── Engine Timing [ID: 100003] (Niveau 2) → ProductId: 571\n            └── Chaîne de distribution/tension/guidage (Niveau 4)\n                └── Timing Chain/Tensioner/Guide [ID: 100403] (Niveau 3) → ProductId: 571\n                    └── Tendeur de chaînes (Niveau 6)\n                        └── Timing Chain Tensioner [ID: 100414] (Niveau 4) → ProductId: 571",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Engine Timing"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100003
+      ],
+      "finalCategoryId": 100003,
+      "productId": 2937
+    },
+    {
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Engine Timing"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100003
+      ],
+      "finalCategoryId": 100003,
+      "productId": 2938
+    },
+    {
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Engine Timing"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100003
+      ],
+      "finalCategoryId": 100003,
+      "productId": 571
+    }
+  ],
+  "productIdsInArbo": [
+    571,
+    2937,
+    2938
+  ],
+  "matchedProductIds": [
+    571
+  ]
+}

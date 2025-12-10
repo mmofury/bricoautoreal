@@ -1,0 +1,84 @@
+{
+  "productName": "Tampon, fixation du carter d'huile",
+  "searchText": "Tampon, fixation du carter d'huile",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:24:48.840Z",
+  "productId": 3513,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Lubrification": {
+          "categoryId": null,
+          "categoryName": "Lubrification",
+          "level": 2,
+          "children": {
+            "Tampon, fixation du carter d'huile": {
+              "categoryId": 100245,
+              "categoryName": "Lubrication",
+              "level": 2,
+              "children": {
+                "Carter d'huile et pièces de montage": {
+                  "categoryId": null,
+                  "categoryName": "Carter d'huile et pièces de montage",
+                  "level": 4,
+                  "children": {
+                    "Tampon, fixation du carter d'huile": {
+                      "categoryId": 100475,
+                      "categoryName": "Oil Sump/Attachment Parts",
+                      "level": 3,
+                      "children": {
+                        "Carter d'huile": {
+                          "categoryId": null,
+                          "categoryName": "Carter d'huile",
+                          "level": 6,
+                          "children": {
+                            "Tampon, fixation du carter d'huile": {
+                              "categoryId": 100489,
+                              "categoryName": "Oil Sump",
+                              "level": 4,
+                              "children": [],
+                              "productId": 3513
+                            }
+                          }
+                        }
+                      },
+                      "productId": 3513
+                    }
+                  }
+                }
+              },
+              "productId": 3513
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Lubrification (Niveau 2)\n        └── Lubrication [ID: 100245] (Niveau 2) → ProductId: 3513\n            └── Carter d'huile et pièces de montage (Niveau 4)\n                └── Oil Sump/Attachment Parts [ID: 100475] (Niveau 3) → ProductId: 3513\n                    └── Carter d'huile (Niveau 6)\n                        └── Oil Sump [ID: 100489] (Niveau 4) → ProductId: 3513",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Lubrification",
+        "Lubrication"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100245
+      ],
+      "finalCategoryId": 100245,
+      "productId": 3513
+    }
+  ],
+  "productIdsInArbo": [
+    3513
+  ],
+  "matchedProductIds": [
+    3513
+  ]
+}

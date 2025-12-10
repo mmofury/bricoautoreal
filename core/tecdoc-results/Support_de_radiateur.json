@@ -1,0 +1,112 @@
+{
+  "productName": "Support de radiateur",
+  "searchText": "Support de radiateur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:20:06.734Z",
+  "productId": 476,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Avant du véhicule": {
+          "categoryId": null,
+          "categoryName": "Avant du véhicule",
+          "level": 2,
+          "children": {
+            "Support de radiateur": {
+              "categoryId": 101648,
+              "categoryName": "Vehicle Front",
+              "level": 2,
+              "children": {
+                "Composants/suppléments": {
+                  "categoryId": null,
+                  "categoryName": "Composants/suppléments",
+                  "level": 4,
+                  "children": {
+                    "Support de radiateur": {
+                      "categoryId": 101673,
+                      "categoryName": "Parts",
+                      "level": 3,
+                      "children": {
+                        "Fixation de radiateur": {
+                          "categoryId": null,
+                          "categoryName": "Fixation de radiateur",
+                          "level": 6,
+                          "children": {
+                            "Support de radiateur": {
+                              "categoryId": 101775,
+                              "categoryName": "Radiator Mounting",
+                              "level": 4,
+                              "children": [],
+                              "productId": 476
+                            }
+                          }
+                        }
+                      },
+                      "productId": 476
+                    }
+                  }
+                }
+              },
+              "productId": 476
+            }
+          }
+        },
+        "Fixation de radiateur": {
+          "categoryId": null,
+          "categoryName": "Fixation de radiateur",
+          "level": 2,
+          "children": {
+            "Support de radiateur": {
+              "categoryId": 100217,
+              "categoryName": "Radiator Mounting",
+              "level": 2,
+              "children": [],
+              "productId": 476
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    ├── Avant du véhicule (Niveau 2)\n    │   └── Vehicle Front [ID: 101648] (Niveau 2) → ProductId: 476\n    │       └── Composants/suppléments (Niveau 4)\n    │           └── Parts [ID: 101673] (Niveau 3) → ProductId: 476\n    │               └── Fixation de radiateur (Niveau 6)\n    │                   └── Radiator Mounting [ID: 101775] (Niveau 4) → ProductId: 476\n    └── Fixation de radiateur (Niveau 2)\n        └── Radiator Mounting [ID: 100217] (Niveau 2) → ProductId: 476",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Avant du véhicule",
+        "Vehicle Front"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101648
+      ],
+      "finalCategoryId": 101648,
+      "productId": 476
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Fixation de radiateur",
+        "Radiator Mounting"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100217
+      ],
+      "finalCategoryId": 100217,
+      "productId": 476
+    }
+  ],
+  "productIdsInArbo": [
+    476
+  ],
+  "matchedProductIds": [
+    476
+  ]
+}

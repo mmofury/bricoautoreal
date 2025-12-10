@@ -1,0 +1,54 @@
+{
+  "productName": "Aide à la traction, hayon",
+  "searchText": "Aide à la traction, hayon",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T18:49:09.636Z",
+  "productId": 60401,
+  "arborescence": {
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Aide de fermeture/commande de porte": {
+          "categoryId": null,
+          "categoryName": "Aide de fermeture/commande de porte",
+          "level": 2,
+          "children": {
+            "Aide à la traction, hayon": {
+              "categoryId": 100836,
+              "categoryName": "Door Closing Aid/Door Actuation",
+              "level": 2,
+              "children": [],
+              "productId": 60401
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Systèmes de confort [ID: 100335] (Niveau 1)\n    └── Aide de fermeture/commande de porte (Niveau 2)\n        └── Door Closing Aid/Door Actuation [ID: 100836] (Niveau 2) → ProductId: 60401",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Systèmes de confort",
+        "Aide de fermeture/commande de porte",
+        "Door Closing Aid/Door Actuation"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        100836
+      ],
+      "finalCategoryId": 100836,
+      "productId": 60401
+    }
+  ],
+  "productIdsInArbo": [
+    60401
+  ],
+  "matchedProductIds": [
+    60401
+  ]
+}

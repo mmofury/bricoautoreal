@@ -1,0 +1,54 @@
+{
+  "productName": "Support, câble de connexion ABS",
+  "searchText": "Support, câble de connexion ABS",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:21:13.528Z",
+  "productId": 60547,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Réglage du comportement dynamique": {
+          "categoryId": null,
+          "categoryName": "Réglage du comportement dynamique",
+          "level": 2,
+          "children": {
+            "Support, câble de connexion ABS": {
+              "categoryId": 100038,
+              "categoryName": "Drive Dynamics Control",
+              "level": 2,
+              "children": [],
+              "productId": 60547
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif de freinage [ID: 100006] (Niveau 1)\n    └── Réglage du comportement dynamique (Niveau 2)\n        └── Drive Dynamics Control [ID: 100038] (Niveau 2) → ProductId: 60547",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Réglage du comportement dynamique",
+        "Drive Dynamics Control"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100038
+      ],
+      "finalCategoryId": 100038,
+      "productId": 60547
+    }
+  ],
+  "productIdsInArbo": [
+    60547
+  ],
+  "matchedProductIds": [
+    60547
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Kit de disques d'embrayage",
+  "searchText": "Kit de disques d'embrayage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:59:52.551Z",
+  "productId": 5170,
+  "arborescence": {
+    "Embrayage / composants": {
+      "categoryId": 100050,
+      "categoryName": "Embrayage / composants",
+      "level": 1,
+      "children": {
+        "Disque d'embrayage": {
+          "categoryId": null,
+          "categoryName": "Disque d'embrayage",
+          "level": 2,
+          "children": {
+            "Kit de disques d'embrayage": {
+              "categoryId": 100053,
+              "categoryName": "Clutch Disc",
+              "level": 2,
+              "children": [],
+              "productId": 5170
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Embrayage / composants [ID: 100050] (Niveau 1)\n    └── Disque d'embrayage (Niveau 2)\n        └── Clutch Disc [ID: 100053] (Niveau 2) → ProductId: 5170",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Embrayage / composants",
+        "Disque d'embrayage",
+        "Clutch Disc"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100053
+      ],
+      "finalCategoryId": 100053,
+      "productId": 5170
+    }
+  ],
+  "productIdsInArbo": [
+    5170
+  ],
+  "matchedProductIds": [
+    5170
+  ]
+}

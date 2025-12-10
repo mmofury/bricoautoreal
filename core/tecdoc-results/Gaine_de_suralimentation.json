@@ -1,0 +1,367 @@
+{
+  "productName": "Gaine de suralimentation",
+  "searchText": "Gaine de suralimentation",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:41:58.997Z",
+  "productId": 3314,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Gaine de suralimentation": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Débitmètre d'air": {
+                  "categoryId": null,
+                  "categoryName": "Débitmètre d'air",
+                  "level": 4,
+                  "children": {
+                    "Gaine de suralimentation": {
+                      "categoryId": 102806,
+                      "categoryName": "Mass Air Flow Sensor/Volume Air Flow Sensor",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3314
+                    }
+                  }
+                }
+              },
+              "productId": 3314
+            }
+          }
+        }
+      }
+    },
+    "Échappement": {
+      "categoryId": 100004,
+      "categoryName": "Échappement",
+      "level": 1,
+      "children": {
+        "Turbocompresseur": {
+          "categoryId": null,
+          "categoryName": "Turbocompresseur",
+          "level": 2,
+          "children": {
+            "Bride de fixation, gaine de suralimentation": {
+              "categoryId": 100872,
+              "categoryName": "Charger",
+              "level": 2,
+              "children": [],
+              "productId": 3741
+            },
+            "Gaine de suralimentation": {
+              "categoryId": 100872,
+              "categoryName": "Charger",
+              "level": 2,
+              "children": [],
+              "productId": 3314
+            },
+            "Pince de maintien, tuyau d'air de suralimentation": {
+              "categoryId": 100872,
+              "categoryName": "Charger",
+              "level": 2,
+              "children": [],
+              "productId": 61066
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Alimentation en air": {
+          "categoryId": null,
+          "categoryName": "Alimentation en air",
+          "level": 2,
+          "children": {
+            "Bague d'étanchéité, gaine de suralimentation": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Suralimentation": {
+                  "categoryId": null,
+                  "categoryName": "Suralimentation",
+                  "level": 4,
+                  "children": {
+                    "Bague d'étanchéité, gaine de suralimentation": {
+                      "categoryId": 100390,
+                      "categoryName": "Charging (supercharged/turbocharged)",
+                      "level": 3,
+                      "children": {
+                        "Tube d'air de suralimentation": {
+                          "categoryId": null,
+                          "categoryName": "Tube d'air de suralimentation",
+                          "level": 6,
+                          "children": {
+                            "Bague d'étanchéité, gaine de suralimentation": {
+                              "categoryId": 102076,
+                              "categoryName": "Charge Air Hose",
+                              "level": 4,
+                              "children": [],
+                              "productId": 3980
+                            }
+                          }
+                        }
+                      },
+                      "productId": 3980
+                    }
+                  }
+                }
+              },
+              "productId": 3980
+            },
+            "Bride de fixation, gaine de suralimentation": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Suralimentation": {
+                  "categoryId": null,
+                  "categoryName": "Suralimentation",
+                  "level": 4,
+                  "children": {
+                    "Bride de fixation, gaine de suralimentation": {
+                      "categoryId": 100390,
+                      "categoryName": "Charging (supercharged/turbocharged)",
+                      "level": 3,
+                      "children": {
+                        "Compresseur/composants": {
+                          "categoryId": null,
+                          "categoryName": "Compresseur/composants",
+                          "level": 6,
+                          "children": {
+                            "Bride de fixation, gaine de suralimentation": {
+                              "categoryId": 100391,
+                              "categoryName": "Charger/-parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 3741
+                            }
+                          }
+                        }
+                      },
+                      "productId": 3741
+                    }
+                  }
+                }
+              },
+              "productId": 3741
+            },
+            "Gaine de suralimentation": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Suralimentation": {
+                  "categoryId": null,
+                  "categoryName": "Suralimentation",
+                  "level": 4,
+                  "children": {
+                    "Gaine de suralimentation": {
+                      "categoryId": 100390,
+                      "categoryName": "Charging (supercharged/turbocharged)",
+                      "level": 3,
+                      "children": {
+                        "Tube d'air de suralimentation": {
+                          "categoryId": null,
+                          "categoryName": "Tube d'air de suralimentation",
+                          "level": 6,
+                          "children": {
+                            "Gaine de suralimentation": {
+                              "categoryId": 102076,
+                              "categoryName": "Charge Air Hose",
+                              "level": 4,
+                              "children": [],
+                              "productId": 3314
+                            }
+                          }
+                        }
+                      },
+                      "productId": 3314
+                    }
+                  }
+                }
+              },
+              "productId": 3314
+            },
+            "Pince de maintien, tuyau d'air de suralimentation": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Suralimentation": {
+                  "categoryId": null,
+                  "categoryName": "Suralimentation",
+                  "level": 4,
+                  "children": {
+                    "Pince de maintien, tuyau d'air de suralimentation": {
+                      "categoryId": 100390,
+                      "categoryName": "Charging (supercharged/turbocharged)",
+                      "level": 3,
+                      "children": {
+                        "Compresseur/composants": {
+                          "categoryId": null,
+                          "categoryName": "Compresseur/composants",
+                          "level": 6,
+                          "children": {
+                            "Pince de maintien, tuyau d'air de suralimentation": {
+                              "categoryId": 100391,
+                              "categoryName": "Charger/-parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 61066
+                            }
+                          }
+                        }
+                      },
+                      "productId": 61066
+                    }
+                  }
+                }
+              },
+              "productId": 61066
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carburation [ID: 100254] (Niveau 1)\n│   └── Mélange air-carburant (Niveau 2)\n│       └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 3314\n│           └── Débitmètre d'air (Niveau 4)\n│               └── Mass Air Flow Sensor/Volume Air Flow Sensor [ID: 102806] (Niveau 3) → ProductId: 3314\n\n├── Échappement [ID: 100004] (Niveau 1)\n│   └── Turbocompresseur (Niveau 2)\n│       ├── Charger [ID: 100872] (Niveau 2) → ProductId: 3741\n│       ├── Charger [ID: 100872] (Niveau 2) → ProductId: 3314\n│       └── Charger [ID: 100872] (Niveau 2) → ProductId: 61066\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Alimentation en air (Niveau 2)\n        ├── Air Supply [ID: 100383] (Niveau 2) → ProductId: 3980\n        │   └── Suralimentation (Niveau 4)\n        │       └── Charging (supercharged/turbocharged) [ID: 100390] (Niveau 3) → ProductId: 3980\n        │           └── Tube d'air de suralimentation (Niveau 6)\n        │               └── Charge Air Hose [ID: 102076] (Niveau 4) → ProductId: 3980\n        ├── Air Supply [ID: 100383] (Niveau 2) → ProductId: 3741\n        │   └── Suralimentation (Niveau 4)\n        │       └── Charging (supercharged/turbocharged) [ID: 100390] (Niveau 3) → ProductId: 3741\n        │           └── Compresseur/composants (Niveau 6)\n        │               └── Charger/-parts [ID: 100391] (Niveau 4) → ProductId: 3741\n        ├── Air Supply [ID: 100383] (Niveau 2) → ProductId: 3314\n        │   └── Suralimentation (Niveau 4)\n        │       └── Charging (supercharged/turbocharged) [ID: 100390] (Niveau 3) → ProductId: 3314\n        │           └── Tube d'air de suralimentation (Niveau 6)\n        │               └── Charge Air Hose [ID: 102076] (Niveau 4) → ProductId: 3314\n        └── Air Supply [ID: 100383] (Niveau 2) → ProductId: 61066\n            └── Suralimentation (Niveau 4)\n                └── Charging (supercharged/turbocharged) [ID: 100390] (Niveau 3) → ProductId: 61066\n                    └── Compresseur/composants (Niveau 6)\n                        └── Charger/-parts [ID: 100391] (Niveau 4) → ProductId: 61066",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 3314
+    },
+    {
+      "path": [
+        "Échappement",
+        "Turbocompresseur",
+        "Charger"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100872
+      ],
+      "finalCategoryId": 100872,
+      "productId": 3741
+    },
+    {
+      "path": [
+        "Échappement",
+        "Turbocompresseur",
+        "Charger"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100872
+      ],
+      "finalCategoryId": 100872,
+      "productId": 3314
+    },
+    {
+      "path": [
+        "Échappement",
+        "Turbocompresseur",
+        "Charger"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100872
+      ],
+      "finalCategoryId": 100872,
+      "productId": 61066
+    },
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 3980
+    },
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 3741
+    },
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 3314
+    },
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 61066
+    }
+  ],
+  "productIdsInArbo": [
+    3314,
+    3741,
+    3980,
+    61066
+  ],
+  "matchedProductIds": [
+    3314
+  ]
+}

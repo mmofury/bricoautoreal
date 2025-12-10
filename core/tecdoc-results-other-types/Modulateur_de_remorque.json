@@ -1,0 +1,64 @@
+{
+  "productName": "Modulateur de remorque",
+  "productId": 2076,
+  "searchText": "Modulateur de remorque",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Système pneumatique": {
+          "categoryId": 200059,
+          "categoryName": "Système pneumatique",
+          "level": 1,
+          "children": {
+            "Soupapes / Système d'air comprimé": {
+              "categoryId": null,
+              "categoryName": "Soupapes / Système d'air comprimé",
+              "level": 2,
+              "children": {
+                "Modulateur de remorque": {
+                  "categoryId": 200115,
+                  "categoryName": "Valves/compressed-air system",
+                  "level": 2,
+                  "children": {
+                    "Soupapes diverses": {
+                      "categoryId": null,
+                      "categoryName": "Soupapes diverses",
+                      "level": 4,
+                      "children": {
+                        "Modulateur de remorque": {
+                          "categoryId": 200916,
+                          "categoryName": "Other Valves",
+                          "level": 3,
+                          "children": [],
+                          "productId": 2076
+                        }
+                      }
+                    }
+                  },
+                  "productId": 2076
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système pneumatique [ID: 200059] (Niveau 1)\n    └── Soupapes / Système d'air comprimé (Niveau 2)\n        └── Valves/compressed-air system [ID: 200115] (Niveau 2) → ProductId: 2076\n            └── Soupapes diverses (Niveau 4)\n                └── Other Valves [ID: 200916] (Niveau 3) → ProductId: 2076",
+      "productIdsInArbo": [
+        2076
+      ],
+      "matchedProductIds": [
+        2076
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:57:08.420Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

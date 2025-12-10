@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.361Z",
+  "manufacturer": "JINCHENG",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 4179,
+      "manufacturerName": "JINCHENG",
+      "groupKey": "HAISE",
+      "displayName": "HAISE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13367,
+          "modelName": "HAISE",
+          "modelYearFrom": "2004-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4179,
+      "manufacturerName": "JINCHENG",
+      "groupKey": "XIANFENG",
+      "displayName": "XIANFENG",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14800,
+          "modelName": "XIANFENG",
+          "modelYearFrom": "2005-01-01",
+          "modelYearTo": "2008-12-01"
+        }
+      ]
+    }
+  ]
+}

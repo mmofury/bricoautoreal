@@ -1,0 +1,162 @@
+{
+  "productName": "Manchon flexible d'accouplement",
+  "searchText": "Manchon flexible d'accouplement",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:13:37.666Z",
+  "productId": 4054,
+  "arborescence": {
+    "Commande à courroie": {
+      "categoryId": 100016,
+      "categoryName": "Commande à courroie",
+      "level": 1,
+      "children": {
+        "Manchon flexible d'accouplement": {
+          "categoryId": null,
+          "categoryName": "Manchon flexible d'accouplement",
+          "level": 2,
+          "children": {
+            "Kit de manchons flexibles d'accouplement": {
+              "categoryId": 102898,
+              "categoryName": "Flexible Coupling Sleeve",
+              "level": 2,
+              "children": [],
+              "productId": 4059
+            },
+            "Manchon flexible d'accouplement": {
+              "categoryId": 102898,
+              "categoryName": "Flexible Coupling Sleeve",
+              "level": 2,
+              "children": [],
+              "productId": 4054
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Commande à courroie": {
+          "categoryId": null,
+          "categoryName": "Commande à courroie",
+          "level": 2,
+          "children": {
+            "Kit de manchons flexibles d'accouplement": {
+              "categoryId": 104302,
+              "categoryName": "Belt Drive",
+              "level": 2,
+              "children": {
+                "Manchon flexible d'accouplement": {
+                  "categoryId": null,
+                  "categoryName": "Manchon flexible d'accouplement",
+                  "level": 4,
+                  "children": {
+                    "Kit de manchons flexibles d'accouplement": {
+                      "categoryId": 104331,
+                      "categoryName": "Flexible Coupling Sleeve",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4059
+                    }
+                  }
+                }
+              },
+              "productId": 4059
+            },
+            "Manchon flexible d'accouplement": {
+              "categoryId": 104302,
+              "categoryName": "Belt Drive",
+              "level": 2,
+              "children": {
+                "Manchon flexible d'accouplement": {
+                  "categoryId": null,
+                  "categoryName": "Manchon flexible d'accouplement",
+                  "level": 4,
+                  "children": {
+                    "Manchon flexible d'accouplement": {
+                      "categoryId": 104331,
+                      "categoryName": "Flexible Coupling Sleeve",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4054
+                    }
+                  }
+                }
+              },
+              "productId": 4054
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Commande à courroie [ID: 100016] (Niveau 1)\n│   └── Manchon flexible d'accouplement (Niveau 2)\n│       ├── Flexible Coupling Sleeve [ID: 102898] (Niveau 2) → ProductId: 4059\n│       └── Flexible Coupling Sleeve [ID: 102898] (Niveau 2) → ProductId: 4054\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Commande à courroie (Niveau 2)\n        ├── Belt Drive [ID: 104302] (Niveau 2) → ProductId: 4059\n        │   └── Manchon flexible d'accouplement (Niveau 4)\n        │       └── Flexible Coupling Sleeve [ID: 104331] (Niveau 3) → ProductId: 4059\n        └── Belt Drive [ID: 104302] (Niveau 2) → ProductId: 4054\n            └── Manchon flexible d'accouplement (Niveau 4)\n                └── Flexible Coupling Sleeve [ID: 104331] (Niveau 3) → ProductId: 4054",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Commande à courroie",
+        "Manchon flexible d'accouplement",
+        "Flexible Coupling Sleeve"
+      ],
+      "categoryIds": [
+        100016,
+        null,
+        102898
+      ],
+      "finalCategoryId": 102898,
+      "productId": 4059
+    },
+    {
+      "path": [
+        "Commande à courroie",
+        "Manchon flexible d'accouplement",
+        "Flexible Coupling Sleeve"
+      ],
+      "categoryIds": [
+        100016,
+        null,
+        102898
+      ],
+      "finalCategoryId": 102898,
+      "productId": 4054
+    },
+    {
+      "path": [
+        "Moteur",
+        "Commande à courroie",
+        "Belt Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        104302
+      ],
+      "finalCategoryId": 104302,
+      "productId": 4059
+    },
+    {
+      "path": [
+        "Moteur",
+        "Commande à courroie",
+        "Belt Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        104302
+      ],
+      "finalCategoryId": 104302,
+      "productId": 4054
+    }
+  ],
+  "productIdsInArbo": [
+    4054,
+    4059
+  ],
+  "matchedProductIds": [
+    4054
+  ]
+}

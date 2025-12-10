@@ -1,0 +1,82 @@
+{
+  "productName": "Suspension, crémaillère de direction",
+  "searchText": "Suspension, crémaillère de direction",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:23:07.259Z",
+  "productId": 1166,
+  "arborescence": {
+    "Direction": {
+      "categoryId": 100012,
+      "categoryName": "Direction",
+      "level": 1,
+      "children": {
+        "Crémaillère de direction/pompe": {
+          "categoryId": null,
+          "categoryName": "Crémaillère de direction/pompe",
+          "level": 2,
+          "children": {
+            "Suspension, crémaillère de direction": {
+              "categoryId": 100199,
+              "categoryName": "Steering Gear/Pump",
+              "level": 2,
+              "children": [],
+              "productId": 1166
+            }
+          }
+        },
+        "Suspension de la direction": {
+          "categoryId": null,
+          "categoryName": "Suspension de la direction",
+          "level": 2,
+          "children": {
+            "Suspension, crémaillère de direction": {
+              "categoryId": 100593,
+              "categoryName": "Steering Mounting",
+              "level": 2,
+              "children": [],
+              "productId": 1166
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Direction [ID: 100012] (Niveau 1)\n    ├── Crémaillère de direction/pompe (Niveau 2)\n    │   └── Steering Gear/Pump [ID: 100199] (Niveau 2) → ProductId: 1166\n    └── Suspension de la direction (Niveau 2)\n        └── Steering Mounting [ID: 100593] (Niveau 2) → ProductId: 1166",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Direction",
+        "Crémaillère de direction/pompe",
+        "Steering Gear/Pump"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        100199
+      ],
+      "finalCategoryId": 100199,
+      "productId": 1166
+    },
+    {
+      "path": [
+        "Direction",
+        "Suspension de la direction",
+        "Steering Mounting"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        100593
+      ],
+      "finalCategoryId": 100593,
+      "productId": 1166
+    }
+  ],
+  "productIdsInArbo": [
+    1166
+  ],
+  "matchedProductIds": [
+    1166
+  ]
+}

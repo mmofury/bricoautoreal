@@ -1,0 +1,43 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "A88BC2",
+      "index": "24.3516-0210.2",
+      "tecDoc": "24.3516-0210.2",
+      "tecDocProd": "3",
+      "articleNumber": "24.3516-0210.2",
+      "brand": "ATE",
+      "shortDescription": "Adapter, brake line",
+      "description": "Brake hose element",
+      "gtuCode": "GTU_07",
+      "eans": [
+        "4006633136174"
+      ],
+      "packageWeight": "2,235",
+      "packageWidth": "25,000",
+      "packageDepth": "3,500",
+      "packageHeight": "21,000",
+      "customsCode": "87083099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_2318",
+          "primary": false,
+          "name": {
+            "en": "Assortment, fittings"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3192",
+          "primary": true,
+          "name": {
+            "en": "Adapter, brake line"
+          }
+        }
+      ]
+    }
+  ]
+}

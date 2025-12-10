@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "CFF95D",
+      "index": "03.9302-9301.1",
+      "tecDoc": "03.9302-9301.1",
+      "tecDocProd": "3",
+      "articleNumber": "03.9302-9301.1",
+      "brand": "ATE",
+      "shortDescription": "Devices for working fluids and fuels",
+      "description": "Fluid filter, application: brake fluid ATE",
+      "eans": [
+        "4006633330619"
+      ],
+      "packageWeight": "0,041",
+      "packageWidth": "7,000",
+      "packageDepth": "9,000",
+      "packageHeight": "6,000",
+      "customsCode": "90319000",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4269",
+          "primary": false,
+          "name": {
+            "en": "Filter, filling/bleeding unit (brake hydraulics)"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91773",
+          "primary": true,
+          "name": {
+            "en": "Devices for working fluids and fuels"
+          }
+        }
+      ]
+    }
+  ]
+}

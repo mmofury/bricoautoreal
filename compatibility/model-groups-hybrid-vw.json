@@ -1,0 +1,2401 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.533Z",
+  "manufacturer": "VW",
+  "countGroups": 72,
+  "groups": [
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "1500",
+      "displayName": "1500",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 507,
+          "modelName": "1500,1600 (31)",
+          "modelYearFrom": "1961-04-01",
+          "modelYearTo": "1973-12-01"
+        },
+        {
+          "modelId": 1620,
+          "modelName": "1500,1600 Berline bicorps trois ou cinq portes (31)",
+          "modelYearFrom": "1965-08-01",
+          "modelYearTo": "1975-03-01"
+        },
+        {
+          "modelId": 1621,
+          "modelName": "1500,1600 Variant (36)",
+          "modelYearFrom": "1961-04-01",
+          "modelYearTo": "1973-07-01"
+        },
+        {
+          "modelId": 45872,
+          "modelName": "1500",
+          "modelYearFrom": "1980-01-01",
+          "modelYearTo": "1991-12-01"
+        },
+        {
+          "modelId": 45873,
+          "modelName": "1500 Break",
+          "modelYearFrom": "1980-01-01",
+          "modelYearTo": "1991-11-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "166",
+      "displayName": "166",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4644,
+          "modelName": "166",
+          "modelYearFrom": "1942-02-01",
+          "modelYearTo": "1945-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "181",
+      "displayName": "181",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 512,
+          "modelName": "181",
+          "modelYearFrom": "1969-09-01",
+          "modelYearTo": "1983-11-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "411",
+      "displayName": "411",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1616,
+          "modelName": "411,412",
+          "modelYearFrom": "1968-07-01",
+          "modelYearTo": "1975-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "412",
+      "displayName": "412",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 405,
+          "modelName": "412 Variant",
+          "modelYearFrom": "1969-09-01",
+          "modelYearTo": "1975-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "AMAROK",
+      "displayName": "AMAROK",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8636,
+          "modelName": "AMAROK (2HA, 2HB, S1B, S6B, S7A, S7B, AGD)",
+          "modelYearFrom": "2010-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14172,
+          "modelName": "AMAROK Camion plate-forme/Châssis (S1B, S6B, S7B)",
+          "modelYearFrom": "2011-09-01",
+          "modelYearTo": "2022-05-01"
+        },
+        {
+          "modelId": 44048,
+          "modelName": "AMAROK (T1A, T1B)",
+          "modelYearFrom": "2022-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "AMEO",
+      "displayName": "AMEO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36973,
+          "modelName": "AMEO (631)",
+          "modelYearFrom": "2016-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "APOLLO",
+      "displayName": "APOLLO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7946,
+          "modelName": "APOLLO A trois volumes",
+          "modelYearFrom": "1989-08-01",
+          "modelYearTo": "1993-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "ARTEON",
+      "displayName": "ARTEON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37842,
+          "modelName": "ARTEON (3H7, 3H8)",
+          "modelYearFrom": "2017-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41006,
+          "modelName": "ARTEON SHOOTING BRAKE (3H9)",
+          "modelYearFrom": "2020-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "ATLAS",
+      "displayName": "ATLAS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38193,
+          "modelName": "ATLAS (CA1, CA2, CA3)",
+          "modelYearFrom": "2016-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40840,
+          "modelName": "ATLAS CROSS SPORT (CMC, CMD)",
+          "modelYearFrom": "2019-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "BEETLE",
+      "displayName": "BEETLE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9710,
+          "modelName": "BEETLE (5C1, 5C2)",
+          "modelYearFrom": "2011-04-01",
+          "modelYearTo": "2019-07-01"
+        },
+        {
+          "modelId": 10735,
+          "modelName": "BEETLE Décapotable (5C7, 5C8)",
+          "modelYearFrom": "2011-12-01",
+          "modelYearTo": "2019-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "BORA",
+      "displayName": "BORA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3884,
+          "modelName": "BORA I (1J2)",
+          "modelYearFrom": "1998-10-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 4125,
+          "modelName": "BORA Variant (1J6)",
+          "modelYearFrom": "1999-05-01",
+          "modelYearTo": "2005-05-01"
+        },
+        {
+          "modelId": 11598,
+          "modelName": "BORA (9M2)",
+          "modelYearFrom": "2005-01-01",
+          "modelYearTo": "2014-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "BRASILIA",
+      "displayName": "BRASILIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9917,
+          "modelName": "BRASILIA",
+          "modelYearFrom": "1973-10-01",
+          "modelYearTo": "1982-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "CADDY",
+      "displayName": "CADDY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3943,
+          "modelName": "CADDY I (14)",
+          "modelYearFrom": "1979-08-01",
+          "modelYearTo": "2008-11-01"
+        },
+        {
+          "modelId": 4003,
+          "modelName": "CADDY II Camionnette/Monospace (9K9A)",
+          "modelYearFrom": "1995-11-01",
+          "modelYearTo": "2004-01-01"
+        },
+        {
+          "modelId": 4004,
+          "modelName": "CADDY II Pick-up (9U7)",
+          "modelYearFrom": "1996-06-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 5083,
+          "modelName": "CADDY III Camionnette/Monospace (2KA, 2KH, 2CA, 2CH)",
+          "modelYearFrom": "2004-03-01",
+          "modelYearTo": "2016-03-01"
+        },
+        {
+          "modelId": 5084,
+          "modelName": "CADDY III Monospace (2KB, 2KJ, 2CB, 2CJ)",
+          "modelYearFrom": "2004-03-01",
+          "modelYearTo": "2016-03-01"
+        },
+        {
+          "modelId": 5393,
+          "modelName": "CADDY II Monospace (9K9B)",
+          "modelYearFrom": "1995-11-01",
+          "modelYearTo": "2004-12-01"
+        },
+        {
+          "modelId": 14302,
+          "modelName": "CADDY IV Monospace (SAB, SAJ)",
+          "modelYearFrom": "2015-05-01",
+          "modelYearTo": "2020-12-01"
+        },
+        {
+          "modelId": 14303,
+          "modelName": "CADDY IV Camionnette/Monospace (SAA, SAH)",
+          "modelYearFrom": "2015-05-01",
+          "modelYearTo": "2020-12-01"
+        },
+        {
+          "modelId": 36197,
+          "modelName": "CADDY ALLTRACK IV Monospace (SAB)",
+          "modelYearFrom": "2015-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 36198,
+          "modelName": "CADDY ALLTRACK IV Camionnette/Monospace (SAA)",
+          "modelYearFrom": "2015-05-01",
+          "modelYearTo": "2020-09-01"
+        },
+        {
+          "modelId": 38216,
+          "modelName": "CADDY Monospace (6K9, 9E7, 9E9)",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": "2009-12-01"
+        },
+        {
+          "modelId": 38217,
+          "modelName": "CADDY Camionnette/Monospace (6K9, 9E7, 9E9)",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": "2009-12-01"
+        },
+        {
+          "modelId": 41499,
+          "modelName": "CADDY V Monospace (SBB, SBJ)",
+          "modelYearFrom": "2020-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41500,
+          "modelName": "CADDY V Camionnette/Monospace (SBA, SBH)",
+          "modelYearFrom": "2020-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42705,
+          "modelName": "CADDY CALIFORNIA V Camper (SBB, SBJ)",
+          "modelYearFrom": "2020-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "CALIFORNIA",
+      "displayName": "CALIFORNIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42534,
+          "modelName": "CALIFORNIA T4 Camper (7DJ, 7DK, 70J)",
+          "modelYearFrom": "1990-09-01",
+          "modelYearTo": "2004-08-01"
+        },
+        {
+          "modelId": 42535,
+          "modelName": "CALIFORNIA T5 Camper (7EC, 7EF, 7EG, 7HF, 7HC)",
+          "modelYearFrom": "2003-04-01",
+          "modelYearTo": "2016-04-01"
+        },
+        {
+          "modelId": 42536,
+          "modelName": "CALIFORNIA T6 Camper (SGC, SGG, SHC)",
+          "modelYearFrom": "2015-04-01",
+          "modelYearTo": "2024-08-01"
+        },
+        {
+          "modelId": 90117,
+          "modelName": "CALIFORNIA T7 Camper (STC)",
+          "modelYearFrom": "2024-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "CC",
+      "displayName": "CC",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10200,
+          "modelName": "CC B7 (358)",
+          "modelYearFrom": "2011-11-01",
+          "modelYearTo": "2017-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "CITI",
+      "displayName": "CITI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10502,
+          "modelName": "CITI GOLF",
+          "modelYearFrom": "1984-01-01",
+          "modelYearTo": "2010-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "CORRADO",
+      "displayName": "CORRADO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3887,
+          "modelName": "CORRADO (53I)",
+          "modelYearFrom": "1987-08-01",
+          "modelYearTo": "1995-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "CRAFTER",
+      "displayName": "CRAFTER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5528,
+          "modelName": "CRAFTER 30-35 Autobus/Autocar (2E_)",
+          "modelYearFrom": "2006-04-01",
+          "modelYearTo": "2016-12-01"
+        },
+        {
+          "modelId": 5529,
+          "modelName": "CRAFTER 30-50 Fourgon (2E_)",
+          "modelYearFrom": "2006-04-01",
+          "modelYearTo": "2016-12-01"
+        },
+        {
+          "modelId": 5530,
+          "modelName": "CRAFTER 30-50 Camion plate-forme/Châssis (2F_)",
+          "modelYearFrom": "2006-04-01",
+          "modelYearTo": "2016-12-01"
+        },
+        {
+          "modelId": 37200,
+          "modelName": "CRAFTER Fourgon (SY_, SX_)",
+          "modelYearFrom": "2016-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37201,
+          "modelName": "CRAFTER Camion plate-forme/Châssis (SZ_)",
+          "modelYearFrom": "2016-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37480,
+          "modelName": "CRAFTER Autobus/Autocar (SYI, SYJ)",
+          "modelYearFrom": "2016-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "DERBY",
+      "displayName": "DERBY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 270,
+          "modelName": "DERBY (86)",
+          "modelYearFrom": "1977-02-01",
+          "modelYearTo": "1981-09-01"
+        },
+        {
+          "modelId": 275,
+          "modelName": "DERBY (86C, 80)",
+          "modelYearFrom": "1981-08-01",
+          "modelYearTo": "1984-12-01"
+        },
+        {
+          "modelId": 34729,
+          "modelName": "DERBY III A trois volumes (6K2)",
+          "modelYearFrom": "1994-09-01",
+          "modelYearTo": "2009-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "EOS",
+      "displayName": "EOS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5457,
+          "modelName": "EOS (1F7, 1F8)",
+          "modelYearFrom": "2006-03-01",
+          "modelYearTo": "2015-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "FOX",
+      "displayName": "FOX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5417,
+          "modelName": "FOX Berline bicorps trois ou cinq portes (5Z1, 5Z3, 5Z4)",
+          "modelYearFrom": "2003-08-01",
+          "modelYearTo": "2015-10-01"
+        },
+        {
+          "modelId": 10554,
+          "modelName": "FOX A trois volumes",
+          "modelYearFrom": "1987-01-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 13150,
+          "modelName": "FOX Berline bicorps trois ou cinq portes (5Z5)",
+          "modelYearFrom": "2014-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 34118,
+          "modelName": "FOX Variant",
+          "modelYearFrom": "1986-09-01",
+          "modelYearTo": "1990-12-01"
+        },
+        {
+          "modelId": 39073,
+          "modelName": "FOX Van (5Z1)",
+          "modelYearFrom": "2010-09-01",
+          "modelYearTo": "2011-12-01"
+        },
+        {
+          "modelId": 90090,
+          "modelName": "FOX (16)",
+          "modelYearFrom": "1985-01-01",
+          "modelYearTo": "1996-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "FRIDOLIN",
+      "displayName": "FRIDOLIN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36982,
+          "modelName": "FRIDOLIN Fourgon (147)",
+          "modelYearFrom": "1964-01-01",
+          "modelYearTo": "1974-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "GOL",
+      "displayName": "GOL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7626,
+          "modelName": "GOL II",
+          "modelYearFrom": "1994-06-01",
+          "modelYearTo": "2005-06-01"
+        },
+        {
+          "modelId": 7627,
+          "modelName": "GOL I",
+          "modelYearFrom": "1980-05-01",
+          "modelYearTo": "1997-12-01"
+        },
+        {
+          "modelId": 9611,
+          "modelName": "GOL V",
+          "modelYearFrom": "2008-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13666,
+          "modelName": "GOL VI",
+          "modelYearFrom": "2012-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13671,
+          "modelName": "GOL III",
+          "modelYearFrom": "1998-09-01",
+          "modelYearTo": "2006-09-01"
+        },
+        {
+          "modelId": 13672,
+          "modelName": "GOL IV",
+          "modelYearFrom": "2005-05-01",
+          "modelYearTo": "2014-12-01"
+        },
+        {
+          "modelId": 38197,
+          "modelName": "GOL VII",
+          "modelYearFrom": "2016-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39281,
+          "modelName": "GOL VIII",
+          "modelYearFrom": "2018-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44715,
+          "modelName": "GOL",
+          "modelYearFrom": "1988-01-01",
+          "modelYearTo": "1988-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "GOLF",
+      "displayName": "GOLF",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 488,
+          "modelName": "GOLF I Cabriolet (155)",
+          "modelYearFrom": "1979-01-01",
+          "modelYearTo": "1993-08-01"
+        },
+        {
+          "modelId": 493,
+          "modelName": "GOLF III Cabriolet (1E7)",
+          "modelYearFrom": "1993-07-01",
+          "modelYearTo": "1998-05-01"
+        },
+        {
+          "modelId": 497,
+          "modelName": "GOLF I (17)",
+          "modelYearFrom": "1974-04-01",
+          "modelYearTo": "1985-12-01"
+        },
+        {
+          "modelId": 500,
+          "modelName": "GOLF II (19E, 1G1)",
+          "modelYearFrom": "1983-08-01",
+          "modelYearTo": "1992-12-01"
+        },
+        {
+          "modelId": 505,
+          "modelName": "GOLF III (1H1)",
+          "modelYearFrom": "1989-10-01",
+          "modelYearTo": "2000-11-01"
+        },
+        {
+          "modelId": 510,
+          "modelName": "GOLF III Variant (1H5)",
+          "modelYearFrom": "1993-07-01",
+          "modelYearTo": "1999-04-01"
+        },
+        {
+          "modelId": 1994,
+          "modelName": "GOLF IV (1J1)",
+          "modelYearFrom": "1997-08-01",
+          "modelYearTo": "2008-04-01"
+        },
+        {
+          "modelId": 1995,
+          "modelName": "GOLF IV Variant (1J5)",
+          "modelYearFrom": "1999-05-01",
+          "modelYearTo": "2006-06-01"
+        },
+        {
+          "modelId": 1996,
+          "modelName": "GOLF IV Cabriolet (1E7)",
+          "modelYearFrom": "1998-06-01",
+          "modelYearTo": "2002-12-01"
+        },
+        {
+          "modelId": 4991,
+          "modelName": "GOLF V (1K1)",
+          "modelYearFrom": "2003-10-01",
+          "modelYearTo": "2010-07-01"
+        },
+        {
+          "modelId": 5379,
+          "modelName": "GOLF PLUS V (5M1, 521)",
+          "modelYearFrom": "2004-12-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 6245,
+          "modelName": "GOLF V Variant (1K5)",
+          "modelYearFrom": "2007-01-01",
+          "modelYearTo": "2009-07-01"
+        },
+        {
+          "modelId": 7873,
+          "modelName": "GOLF VI (5K1)",
+          "modelYearFrom": "2008-10-01",
+          "modelYearTo": "2014-12-01"
+        },
+        {
+          "modelId": 8442,
+          "modelName": "GOLF VI Variant (AJ5)",
+          "modelYearFrom": "2009-07-01",
+          "modelYearTo": "2014-07-01"
+        },
+        {
+          "modelId": 9158,
+          "modelName": "GOLF VI Décapotable (517)",
+          "modelYearFrom": "2011-03-01",
+          "modelYearTo": "2017-10-01"
+        },
+        {
+          "modelId": 10585,
+          "modelName": "GOLF VII (5G1, BQ1, BE1, BE2)",
+          "modelYearFrom": "2012-08-01",
+          "modelYearTo": "2021-10-01"
+        },
+        {
+          "modelId": 11221,
+          "modelName": "GOLF VII Variant (BA5, BV5)",
+          "modelYearFrom": "2013-04-01",
+          "modelYearTo": "2022-01-01"
+        },
+        {
+          "modelId": 11878,
+          "modelName": "GOLF SPORTSVAN VII (AM1, AN1)",
+          "modelYearFrom": "2014-02-01",
+          "modelYearTo": "2020-08-01"
+        },
+        {
+          "modelId": 13608,
+          "modelName": "GOLF ALLTRACK VII Variant (BA5, BV5)",
+          "modelYearFrom": "2014-12-01",
+          "modelYearTo": "2020-12-01"
+        },
+        {
+          "modelId": 37151,
+          "modelName": "GOLF II Van (19E, 1G1)",
+          "modelYearFrom": "1983-08-01",
+          "modelYearTo": "1991-07-01"
+        },
+        {
+          "modelId": 37153,
+          "modelName": "GOLF III Van (1H1)",
+          "modelYearFrom": "1991-08-01",
+          "modelYearTo": "1997-12-01"
+        },
+        {
+          "modelId": 37154,
+          "modelName": "GOLF IV Van (1J1)",
+          "modelYearFrom": "1997-10-01",
+          "modelYearTo": "2004-05-01"
+        },
+        {
+          "modelId": 38069,
+          "modelName": "GOLF IV (9B3)",
+          "modelYearFrom": "2006-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39045,
+          "modelName": "GOLF VAN IV Variant (1J5)",
+          "modelYearFrom": "1999-05-01",
+          "modelYearTo": "2006-06-01"
+        },
+        {
+          "modelId": 39065,
+          "modelName": "GOLF VI Van (5K1)",
+          "modelYearFrom": "2008-10-01",
+          "modelYearTo": "2012-11-01"
+        },
+        {
+          "modelId": 39067,
+          "modelName": "GOLF VAN VI Variant (AJ5)",
+          "modelYearFrom": "2009-07-01",
+          "modelYearTo": "2014-05-01"
+        },
+        {
+          "modelId": 39069,
+          "modelName": "GOLF PLUS Van (521)",
+          "modelYearFrom": "2009-01-01",
+          "modelYearTo": "2014-08-01"
+        },
+        {
+          "modelId": 39077,
+          "modelName": "GOLF VII Van (5G1)",
+          "modelYearFrom": "2012-08-01",
+          "modelYearTo": "2017-03-01"
+        },
+        {
+          "modelId": 39079,
+          "modelName": "GOLF VAN VII Variant (BA5)",
+          "modelYearFrom": "2013-04-01",
+          "modelYearTo": "2017-03-01"
+        },
+        {
+          "modelId": 39689,
+          "modelName": "GOLF Van III Variant (1H5)",
+          "modelYearFrom": "1991-08-01",
+          "modelYearTo": "1999-12-01"
+        },
+        {
+          "modelId": 40179,
+          "modelName": "GOLF VIII (CD1, DA1)",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41185,
+          "modelName": "GOLF VIII Variant (CG5, DB5)",
+          "modelYearFrom": "2020-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41767,
+          "modelName": "GOLF ALLTRACK VIII (CG5)",
+          "modelYearFrom": "2020-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41815,
+          "modelName": "GOLF Camionnette/Berline bicorps trois ou cinq portes (1K1)",
+          "modelYearFrom": "2003-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "GRAND",
+      "displayName": "GRAND",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40014,
+          "modelName": "GRAND CALIFORNIA Camper (SCB, SCC)",
+          "modelYearFrom": "2019-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "HORMIGA",
+      "displayName": "HORMIGA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14140,
+          "modelName": "HORMIGA",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1979-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "ID",
+      "displayName": "ID",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41044,
+          "modelName": "ID.3 (E11, E12)",
+          "modelYearFrom": "2019-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41351,
+          "modelName": "ID.4 (E21)",
+          "modelYearFrom": "2020-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42571,
+          "modelName": "ID.5 (E39)",
+          "modelYearFrom": "2021-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42932,
+          "modelName": "ID. Buzz Autobus/Autocar (EBB, EBJ)",
+          "modelYearFrom": "2022-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42933,
+          "modelName": "ID. Buzz Cargo (EBA)",
+          "modelYearFrom": "2022-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44750,
+          "modelName": "ID.7 (ED2)",
+          "modelYearFrom": "2023-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45262,
+          "modelName": "ID.7 Tourer (ED5)",
+          "modelYearFrom": "2024-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "ILTIS",
+      "displayName": "ILTIS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 2,
+          "modelName": "ILTIS (183)",
+          "modelYearFrom": "1979-03-01",
+          "modelYearTo": "1988-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "JETTA",
+      "displayName": "JETTA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7,
+          "modelName": "JETTA I (16)",
+          "modelYearFrom": "1978-08-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 3439,
+          "modelName": "JETTA II (19E, 1G2, 165)",
+          "modelYearFrom": "1983-08-01",
+          "modelYearTo": "1992-12-01"
+        },
+        {
+          "modelId": 5423,
+          "modelName": "JETTA III (1K2)",
+          "modelYearFrom": "2004-09-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 9118,
+          "modelName": "JETTA IV (162, 163, AV3, AV2)",
+          "modelYearFrom": "2008-01-01",
+          "modelYearTo": "2019-12-01"
+        },
+        {
+          "modelId": 14621,
+          "modelName": "JETTA CITY Variant",
+          "modelYearFrom": "2006-09-01",
+          "modelYearTo": "2009-12-01"
+        },
+        {
+          "modelId": 37129,
+          "modelName": "JETTA CITY A trois volumes",
+          "modelYearFrom": "2006-09-01",
+          "modelYearTo": "2009-12-01"
+        },
+        {
+          "modelId": 39274,
+          "modelName": "JETTA VII A trois volumes (BU3, BU4)",
+          "modelYearFrom": "2017-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "K",
+      "displayName": "K",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 22,
+          "modelName": "K 70 (48)",
+          "modelYearFrom": "1970-08-01",
+          "modelYearTo": "1974-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "KAEFER",
+      "displayName": "KAEFER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 90,
+          "modelName": "KAEFER",
+          "modelYearFrom": "1947-12-01",
+          "modelYearTo": "2003-08-01"
+        },
+        {
+          "modelId": 1614,
+          "modelName": "KAEFER Décapotable (15)",
+          "modelYearFrom": "1949-07-01",
+          "modelYearTo": "1981-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "KARMANN",
+      "displayName": "KARMANN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 99,
+          "modelName": "KARMANN GHIA Coupé (14, 34)",
+          "modelYearFrom": "1955-08-01",
+          "modelYearTo": "1976-12-01"
+        },
+        {
+          "modelId": 1615,
+          "modelName": "KARMANN GHIA Décapotable (14, 34)",
+          "modelYearFrom": "1957-09-01",
+          "modelYearTo": "1974-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "KOMBI",
+      "displayName": "KOMBI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11175,
+          "modelName": "KOMBI T2 Autobus/Autocar (22, 7X)",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11176,
+          "modelName": "KOMBI T2 Fourgon (21, 23, 7X)",
+          "modelYearFrom": "1967-01-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 11288,
+          "modelName": "KOMBI / MICROBUS / CARAVELLE T3 (25_)",
+          "modelYearFrom": "1979-06-01",
+          "modelYearTo": "2003-12-01"
+        },
+        {
+          "modelId": 11943,
+          "modelName": "KOMBI T2 Camion plate-forme/Châssis (26, 7X)",
+          "modelYearFrom": "1967-01-01",
+          "modelYearTo": "2005-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "LOAD",
+      "displayName": "LOAD",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36247,
+          "modelName": "LOAD UP! (121, 122, BL1, BL2)",
+          "modelYearFrom": "2014-12-01",
+          "modelYearTo": "2020-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "LOGUS",
+      "displayName": "LOGUS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6892,
+          "modelName": "LOGUS (5X1)",
+          "modelYearFrom": "1992-12-01",
+          "modelYearTo": "1998-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "LT",
+      "displayName": "LT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 236,
+          "modelName": "LT 28-35 I Autobus/Autocar (281-363)",
+          "modelYearFrom": "1975-04-01",
+          "modelYearTo": "1996-06-01"
+        },
+        {
+          "modelId": 1636,
+          "modelName": "LT 28-35 I Fourgon (281-363)",
+          "modelYearFrom": "1975-04-01",
+          "modelYearTo": "1996-06-01"
+        },
+        {
+          "modelId": 1637,
+          "modelName": "LT 28-35 I Camion plate-forme/Châssis (281-363)",
+          "modelYearFrom": "1975-04-01",
+          "modelYearTo": "1996-06-01"
+        },
+        {
+          "modelId": 3378,
+          "modelName": "LT 28-35 II Autobus/Autocar (2DB, 2DE, 2DK)",
+          "modelYearFrom": "1996-04-01",
+          "modelYearTo": "2006-07-01"
+        },
+        {
+          "modelId": 3379,
+          "modelName": "LT 28-46 II Fourgon (2DA, 2DD, 2DH)",
+          "modelYearFrom": "1996-04-01",
+          "modelYearTo": "2006-07-01"
+        },
+        {
+          "modelId": 3380,
+          "modelName": "LT 28-46 II Camion plate-forme/Châssis (2DC, 2DF, 2DG, 2DL,",
+          "modelYearFrom": "1996-04-01",
+          "modelYearTo": "2006-07-01"
+        },
+        {
+          "modelId": 4488,
+          "modelName": "LT 40-55 I Fourgon (291-512)",
+          "modelYearFrom": "1975-04-01",
+          "modelYearTo": "1996-06-01"
+        },
+        {
+          "modelId": 4489,
+          "modelName": "LT 40-55 I Camion plate-forme/Châssis (293-909)",
+          "modelYearFrom": "1975-04-01",
+          "modelYearTo": "1996-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "LUPO",
+      "displayName": "LUPO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3398,
+          "modelName": "LUPO I (6X1, 6E1)",
+          "modelYearFrom": "1998-09-01",
+          "modelYearTo": "2005-07-01"
+        },
+        {
+          "modelId": 9587,
+          "modelName": "LUPO II (5Z1)",
+          "modelYearFrom": "2003-10-01",
+          "modelYearTo": "2009-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "MULTIVAN",
+      "displayName": "MULTIVAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4988,
+          "modelName": "MULTIVAN T5 (7HM, 7HN, 7HF, 7EF, 7EM, 7EN)",
+          "modelYearFrom": "2003-04-01",
+          "modelYearTo": "2016-03-01"
+        },
+        {
+          "modelId": 14349,
+          "modelName": "MULTIVAN T6 (SGF, SGM, SGN, SHM, SHN)",
+          "modelYearFrom": "2015-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42517,
+          "modelName": "MULTIVAN T7 (STM, STN)",
+          "modelYearFrom": "2021-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "NEW",
+      "displayName": "NEW",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3402,
+          "modelName": "NEW BEETLE (9C1, 1C1)",
+          "modelYearFrom": "1998-01-01",
+          "modelYearTo": "2012-07-01"
+        },
+        {
+          "modelId": 4957,
+          "modelName": "NEW BEETLE Décapotable (1Y7)",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": "2012-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "NIVUS",
+      "displayName": "NIVUS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40993,
+          "modelName": "NIVUS (CH1)",
+          "modelYearFrom": "2020-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "PARATI",
+      "displayName": "PARATI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6108,
+          "modelName": "PARATI II Variant",
+          "modelYearFrom": "1995-05-01",
+          "modelYearTo": "2005-08-01"
+        },
+        {
+          "modelId": 6109,
+          "modelName": "PARATI III Variant (5X5)",
+          "modelYearFrom": "1999-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 6893,
+          "modelName": "PARATI I Variant",
+          "modelYearFrom": "1982-05-01",
+          "modelYearTo": "1995-12-01"
+        },
+        {
+          "modelId": 9918,
+          "modelName": "PARATI IV Variant (5W5)",
+          "modelYearFrom": "2003-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "PASSAT",
+      "displayName": "PASSAT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 403,
+          "modelName": "PASSAT B1 (32)",
+          "modelYearFrom": "1973-05-01",
+          "modelYearTo": "1981-07-01"
+        },
+        {
+          "modelId": 408,
+          "modelName": "PASSAT B2 (32B)",
+          "modelYearFrom": "1979-09-01",
+          "modelYearTo": "1989-07-01"
+        },
+        {
+          "modelId": 412,
+          "modelName": "PASSAT B3/B4 (3A2, 35I)",
+          "modelYearFrom": "1988-02-01",
+          "modelYearTo": "1997-12-01"
+        },
+        {
+          "modelId": 415,
+          "modelName": "PASSAT B1 Variant (33)",
+          "modelYearFrom": "1973-05-01",
+          "modelYearTo": "1981-10-01"
+        },
+        {
+          "modelId": 419,
+          "modelName": "PASSAT B2 Variant (33B)",
+          "modelYearFrom": "1980-08-01",
+          "modelYearTo": "1989-06-01"
+        },
+        {
+          "modelId": 423,
+          "modelName": "PASSAT B3/B4 Variant (3A5, 35I)",
+          "modelYearFrom": "1988-02-01",
+          "modelYearTo": "1997-06-01"
+        },
+        {
+          "modelId": 1447,
+          "modelName": "PASSAT B2 A trois volumes (32B)",
+          "modelYearFrom": "1982-05-01",
+          "modelYearTo": "1989-06-01"
+        },
+        {
+          "modelId": 1568,
+          "modelName": "PASSAT B5 (3B2)",
+          "modelYearFrom": "1996-08-01",
+          "modelYearTo": "2001-12-01"
+        },
+        {
+          "modelId": 1907,
+          "modelName": "PASSAT B5 Variant (3B5)",
+          "modelYearFrom": "1997-05-01",
+          "modelYearTo": "2001-12-01"
+        },
+        {
+          "modelId": 4736,
+          "modelName": "PASSAT B5.5 (3B3)",
+          "modelYearFrom": "2000-10-01",
+          "modelYearTo": "2005-12-01"
+        },
+        {
+          "modelId": 4737,
+          "modelName": "PASSAT B5.5 Variant (3B6)",
+          "modelYearFrom": "2000-09-01",
+          "modelYearTo": "2005-08-01"
+        },
+        {
+          "modelId": 5398,
+          "modelName": "PASSAT B6 (3C2)",
+          "modelYearFrom": "2005-03-01",
+          "modelYearTo": "2011-04-01"
+        },
+        {
+          "modelId": 5427,
+          "modelName": "PASSAT B6 Variant (3C5)",
+          "modelYearFrom": "2005-08-01",
+          "modelYearTo": "2011-11-01"
+        },
+        {
+          "modelId": 7375,
+          "modelName": "PASSAT CC B6 (357)",
+          "modelYearFrom": "2008-02-01",
+          "modelYearTo": "2012-06-01"
+        },
+        {
+          "modelId": 9003,
+          "modelName": "PASSAT B7 (362)",
+          "modelYearFrom": "2010-08-01",
+          "modelYearTo": "2016-04-01"
+        },
+        {
+          "modelId": 9004,
+          "modelName": "PASSAT B7 Variant (365)",
+          "modelYearFrom": "2010-08-01",
+          "modelYearTo": "2015-12-01"
+        },
+        {
+          "modelId": 11084,
+          "modelName": "PASSAT ALLTRACK B7 (365)",
+          "modelYearFrom": "2012-01-01",
+          "modelYearTo": "2014-12-01"
+        },
+        {
+          "modelId": 11165,
+          "modelName": "PASSAT B7 (A32, A33)",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": "2020-12-01"
+        },
+        {
+          "modelId": 11601,
+          "modelName": "PASSAT B1 A trois volumes (32)",
+          "modelYearFrom": "1973-05-01",
+          "modelYearTo": "1982-12-01"
+        },
+        {
+          "modelId": 12917,
+          "modelName": "PASSAT B8 (3G2, CB2)",
+          "modelYearFrom": "2014-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 12918,
+          "modelName": "PASSAT B8 Variant (3G5, CB5)",
+          "modelYearFrom": "2014-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14622,
+          "modelName": "PASSAT ALLTRACK B8 Variant (3G5, CB5)",
+          "modelYearFrom": "2015-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39030,
+          "modelName": "PASSAT B7 Fourgon/Break (365)",
+          "modelYearFrom": "2010-08-01",
+          "modelYearTo": "2014-12-01"
+        },
+        {
+          "modelId": 39690,
+          "modelName": "PASSAT B3/B4 (315, 3A5)",
+          "modelYearFrom": "1988-08-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 45017,
+          "modelName": "PASSAT B9 Variant (CJ5)",
+          "modelYearFrom": "2023-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "PHAETON",
+      "displayName": "PHAETON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4876,
+          "modelName": "PHAETON (3D1, 3D2, 3D3, 3D4, 3D6, 3D7, 3D8, 3D9)",
+          "modelYearFrom": "2002-04-01",
+          "modelYearTo": "2016-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "POINTER",
+      "displayName": "POINTER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6895,
+          "modelName": "POINTER",
+          "modelYearFrom": "1993-10-01",
+          "modelYearTo": "2003-12-01"
+        },
+        {
+          "modelId": 6896,
+          "modelName": "POINTER Variant",
+          "modelYearFrom": "2002-06-01",
+          "modelYearTo": "2006-03-01"
+        },
+        {
+          "modelId": 6897,
+          "modelName": "POINTER",
+          "modelYearFrom": "1998-08-01",
+          "modelYearTo": "2005-08-01"
+        },
+        {
+          "modelId": 6898,
+          "modelName": "POINTER",
+          "modelYearFrom": "2005-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 6899,
+          "modelName": "POINTER Pick-up",
+          "modelYearFrom": "1993-10-01",
+          "modelYearTo": "2010-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "POLO",
+      "displayName": "POLO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 427,
+          "modelName": "POLO III (6N1)",
+          "modelYearFrom": "1994-10-01",
+          "modelYearTo": "1999-10-01"
+        },
+        {
+          "modelId": 431,
+          "modelName": "POLO (86)",
+          "modelYearFrom": "1975-03-01",
+          "modelYearTo": "1981-09-01"
+        },
+        {
+          "modelId": 436,
+          "modelName": "POLO II (86C, 80)",
+          "modelYearFrom": "1981-10-01",
+          "modelYearTo": "1994-09-01"
+        },
+        {
+          "modelId": 440,
+          "modelName": "POLO Coupé (86C, 80)",
+          "modelYearFrom": "1981-10-01",
+          "modelYearTo": "1994-09-01"
+        },
+        {
+          "modelId": 1482,
+          "modelName": "POLO III CLASSIC (6V2)",
+          "modelYearFrom": "1995-01-01",
+          "modelYearTo": "2009-11-01"
+        },
+        {
+          "modelId": 1993,
+          "modelName": "POLO Variant (6V5)",
+          "modelYearFrom": "1997-04-01",
+          "modelYearTo": "2001-09-01"
+        },
+        {
+          "modelId": 3885,
+          "modelName": "POLO CLASSIC (86C, 80)",
+          "modelYearFrom": "1985-01-01",
+          "modelYearTo": "1994-09-01"
+        },
+        {
+          "modelId": 4018,
+          "modelName": "POLO Camionnette/Berline bicorps trois ou cinq portes (86CF)",
+          "modelYearFrom": "1992-08-01",
+          "modelYearTo": "1994-07-01"
+        },
+        {
+          "modelId": 4019,
+          "modelName": "POLO Van Camionnette/Berline bicorps trois ou cinq portes (6",
+          "modelYearFrom": "1994-09-01",
+          "modelYearTo": "1999-12-01"
+        },
+        {
+          "modelId": 4528,
+          "modelName": "POLO (6N2)",
+          "modelYearFrom": "1999-10-01",
+          "modelYearTo": "2001-10-01"
+        },
+        {
+          "modelId": 4804,
+          "modelName": "POLO IV (9N_, 9A_)",
+          "modelYearFrom": "2001-10-01",
+          "modelYearTo": "2014-10-01"
+        },
+        {
+          "modelId": 5074,
+          "modelName": "POLO IV A trois volumes (9A4, 9A2, 9N2, 9A6)",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 6901,
+          "modelName": "POLO PLAYA",
+          "modelYearFrom": "1995-01-01",
+          "modelYearTo": "2009-11-01"
+        },
+        {
+          "modelId": 8025,
+          "modelName": "POLO V (6R1, 6C1)",
+          "modelYearFrom": "2009-03-01",
+          "modelYearTo": "2022-06-01"
+        },
+        {
+          "modelId": 9746,
+          "modelName": "POLO V A trois volumes (602, 604, 612, 614)",
+          "modelYearFrom": "2009-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11307,
+          "modelName": "POLO IV A trois volumes (9N2, 9N4)",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 11409,
+          "modelName": "POLO VIVO Berline bicorps trois ou cinq portes (6S1, 6S3)",
+          "modelYearFrom": "2010-02-01",
+          "modelYearTo": "2019-03-01"
+        },
+        {
+          "modelId": 11410,
+          "modelName": "POLO VIVO A trois volumes (6S2, 6S4)",
+          "modelYearFrom": "2010-02-01",
+          "modelYearTo": "2019-04-01"
+        },
+        {
+          "modelId": 36882,
+          "modelName": "POLO Van V (6R1, 6C1)",
+          "modelYearFrom": "2009-03-01",
+          "modelYearTo": "2017-10-01"
+        },
+        {
+          "modelId": 38138,
+          "modelName": "POLO VI (AW1, BZ1, AE1)",
+          "modelYearFrom": "2017-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38851,
+          "modelName": "POLO Van Fourgon/Break (6V5)",
+          "modelYearFrom": "1995-12-01",
+          "modelYearTo": "2001-09-01"
+        },
+        {
+          "modelId": 42809,
+          "modelName": "POLO VIVO Berline bicorps trois ou cinq portes (6R1, 6RS, 6R",
+          "modelYearFrom": "2018-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44683,
+          "modelName": "POLO Liftback (CK4, CK5)",
+          "modelYearFrom": "2020-04-01",
+          "modelYearTo": "2022-03-01"
+        },
+        {
+          "modelId": 90049,
+          "modelName": "POLO VIVO Camionnette/Berline bicorps trois ou cinq portes (",
+          "modelYearFrom": "2015-10-01",
+          "modelYearTo": "2019-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "QUANTUM",
+      "displayName": "QUANTUM",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6902,
+          "modelName": "QUANTUM Variant",
+          "modelYearFrom": "1985-04-01",
+          "modelYearTo": "1994-08-01"
+        },
+        {
+          "modelId": 6903,
+          "modelName": "QUANTUM Variant",
+          "modelYearFrom": "1990-08-01",
+          "modelYearTo": "2005-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "ROUTAN",
+      "displayName": "ROUTAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9735,
+          "modelName": "ROUTAN",
+          "modelYearFrom": "2008-09-01",
+          "modelYearTo": "2014-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "SANTANA",
+      "displayName": "SANTANA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 195,
+          "modelName": "SANTANA (32B)",
+          "modelYearFrom": "1981-08-01",
+          "modelYearTo": "1985-12-01"
+        },
+        {
+          "modelId": 4636,
+          "modelName": "SANTANA",
+          "modelYearFrom": "1991-01-01",
+          "modelYearTo": "2012-09-01"
+        },
+        {
+          "modelId": 6368,
+          "modelName": "SANTANA",
+          "modelYearFrom": "1984-02-01",
+          "modelYearTo": "1994-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "SAVEIRO",
+      "displayName": "SAVEIRO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6140,
+          "modelName": "SAVEIRO I (147)",
+          "modelYearFrom": "1982-07-01",
+          "modelYearTo": "1997-11-01"
+        },
+        {
+          "modelId": 6141,
+          "modelName": "SAVEIRO II (9U7)",
+          "modelYearFrom": "1996-01-01",
+          "modelYearTo": "2003-09-01"
+        },
+        {
+          "modelId": 6142,
+          "modelName": "SAVEIRO IV",
+          "modelYearFrom": "2005-02-01",
+          "modelYearTo": "2009-08-01"
+        },
+        {
+          "modelId": 9916,
+          "modelName": "SAVEIRO V (5U8, 5U9)",
+          "modelYearFrom": "2009-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13684,
+          "modelName": "SAVEIRO III",
+          "modelYearFrom": "2000-02-01",
+          "modelYearTo": "2010-07-01"
+        },
+        {
+          "modelId": 39566,
+          "modelName": "SAVEIRO VI (5UA, 5UB, 5UC)",
+          "modelYearFrom": "2014-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39567,
+          "modelName": "SAVEIRO VII (5UD, 5UE, 5UF)",
+          "modelYearFrom": "2016-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "SCIROCCO",
+      "displayName": "SCIROCCO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 210,
+          "modelName": "SCIROCCO (53)",
+          "modelYearFrom": "1974-02-01",
+          "modelYearTo": "1980-07-01"
+        },
+        {
+          "modelId": 214,
+          "modelName": "SCIROCCO (53B)",
+          "modelYearFrom": "1980-08-01",
+          "modelYearTo": "1992-07-01"
+        },
+        {
+          "modelId": 7584,
+          "modelName": "SCIROCCO III (137, 138)",
+          "modelYearFrom": "2008-05-01",
+          "modelYearTo": "2018-01-01"
+        },
+        {
+          "modelId": 39063,
+          "modelName": "SCIROCCO Van (137)",
+          "modelYearFrom": "2008-06-01",
+          "modelYearTo": "2014-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "SENDA",
+      "displayName": "SENDA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9973,
+          "modelName": "SENDA",
+          "modelYearFrom": "1983-09-01",
+          "modelYearTo": "1997-11-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "SHARAN",
+      "displayName": "SHARAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1312,
+          "modelName": "SHARAN (7M8, 7M9, 7M6)",
+          "modelYearFrom": "1995-05-01",
+          "modelYearTo": "2010-05-01"
+        },
+        {
+          "modelId": 8630,
+          "modelName": "SHARAN (7N1, 7N2)",
+          "modelYearFrom": "2010-05-01",
+          "modelYearTo": "2022-11-01"
+        },
+        {
+          "modelId": 41676,
+          "modelName": "SHARAN VAN (7N1, 7N2)",
+          "modelYearFrom": "2010-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41677,
+          "modelName": "SHARAN VAN (7M_)",
+          "modelYearFrom": "1995-05-01",
+          "modelYearTo": "2010-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "SP",
+      "displayName": "SP",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11602,
+          "modelName": "SP-1 / SP-2",
+          "modelYearFrom": "1972-06-01",
+          "modelYearTo": "1976-02-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "SPACEFOX",
+      "displayName": "SPACEFOX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7531,
+          "modelName": "SPACEFOX / SPACE CROSS (5Z6, 5Z7, 5Z9)",
+          "modelYearFrom": "2006-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "T",
+      "displayName": "T",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38190,
+          "modelName": "T-ROC (A11, D11)",
+          "modelYearFrom": "2017-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39209,
+          "modelName": "T-CROSS (C11, D31)",
+          "modelYearFrom": "2018-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40210,
+          "modelName": "T-ROC Décapotable (AC7, AC8)",
+          "modelYearFrom": "2019-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "TAIGO",
+      "displayName": "TAIGO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42141,
+          "modelName": "TAIGO (CS1)",
+          "modelYearFrom": "2021-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "TAIGUN",
+      "displayName": "TAIGUN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42480,
+          "modelName": "TAIGUN (CW1)",
+          "modelYearFrom": "2021-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "TAOS",
+      "displayName": "TAOS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41959,
+          "modelName": "TAOS (CL1, CP1, CQ1)",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "TARO",
+      "displayName": "TARO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 337,
+          "modelName": "TARO",
+          "modelYearFrom": "1989-04-01",
+          "modelYearTo": "1997-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "TAYRON",
+      "displayName": "TAYRON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45883,
+          "modelName": "TAYRON (R41)",
+          "modelYearFrom": "2024-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "TIGUAN",
+      "displayName": "TIGUAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6397,
+          "modelName": "TIGUAN (5N_)",
+          "modelYearFrom": "2007-09-01",
+          "modelYearTo": "2018-07-01"
+        },
+        {
+          "modelId": 36223,
+          "modelName": "TIGUAN (AD1, AX1)",
+          "modelYearFrom": "2016-01-01",
+          "modelYearTo": "2024-04-01"
+        },
+        {
+          "modelId": 38132,
+          "modelName": "TIGUAN ALLSPACE (BW2, BJ2)",
+          "modelYearFrom": "2017-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41678,
+          "modelName": "TIGUAN VAN (5N_)",
+          "modelYearFrom": "2007-09-01",
+          "modelYearTo": "2018-07-01"
+        },
+        {
+          "modelId": 41816,
+          "modelName": "TIGUAN Camionnette/SUV (AD1)",
+          "modelYearFrom": "2015-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45054,
+          "modelName": "TIGUAN (CT1)",
+          "modelYearFrom": "2023-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "TL",
+      "displayName": "TL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45523,
+          "modelName": "TL",
+          "modelYearFrom": "1970-08-01",
+          "modelYearTo": "1975-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "TOUAREG",
+      "displayName": "TOUAREG",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4920,
+          "modelName": "TOUAREG (7LA, 7L6, 7L7)",
+          "modelYearFrom": "2002-10-01",
+          "modelYearTo": "2013-01-01"
+        },
+        {
+          "modelId": 8607,
+          "modelName": "TOUAREG (7P5, 7P6)",
+          "modelYearFrom": "2010-01-01",
+          "modelYearTo": "2018-12-01"
+        },
+        {
+          "modelId": 38671,
+          "modelName": "TOUAREG (CR7, RC8)",
+          "modelYearFrom": "2017-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41680,
+          "modelName": "TOUAREG VAN (7P5)",
+          "modelYearFrom": "2010-01-01",
+          "modelYearTo": "2018-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "TOURAN",
+      "displayName": "TOURAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4954,
+          "modelName": "TOURAN (1T1, 1T2)",
+          "modelYearFrom": "2003-02-01",
+          "modelYearTo": "2011-01-01"
+        },
+        {
+          "modelId": 10449,
+          "modelName": "TOURAN (1T3)",
+          "modelYearFrom": "2010-05-01",
+          "modelYearTo": "2016-09-01"
+        },
+        {
+          "modelId": 14158,
+          "modelName": "TOURAN (5T1)",
+          "modelYearFrom": "2015-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41554,
+          "modelName": "TOURAN VAN (1T3)",
+          "modelYearFrom": "2010-05-01",
+          "modelYearTo": "2015-05-01"
+        },
+        {
+          "modelId": 41679,
+          "modelName": "TOURAN VAN (1T1, 1T2)",
+          "modelYearFrom": "2003-02-01",
+          "modelYearTo": "2010-05-01"
+        },
+        {
+          "modelId": 42376,
+          "modelName": "TOURAN VAN (5T1)",
+          "modelYearFrom": "2015-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "TRANSPORTER",
+      "displayName": "TRANSPORTER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 455,
+          "modelName": "TRANSPORTER T2 Autobus/Autocar (22, 23, 24)",
+          "modelYearFrom": "1967-08-01",
+          "modelYearTo": "1979-09-01"
+        },
+        {
+          "modelId": 463,
+          "modelName": "TRANSPORTER T4 Autobus/Autocar (70B, 70C, 7DB, 7DK, 70J, 70K",
+          "modelYearFrom": "1990-09-01",
+          "modelYearTo": "2004-10-01"
+        },
+        {
+          "modelId": 1598,
+          "modelName": "TRANSPORTER T1 Autobus/Autocar (22, 24, 25, 28)",
+          "modelYearFrom": "1950-01-01",
+          "modelYearTo": "1968-12-01"
+        },
+        {
+          "modelId": 1626,
+          "modelName": "TRANSPORTER T1 Fourgon (21, 23)",
+          "modelYearFrom": "1950-01-01",
+          "modelYearTo": "1968-12-01"
+        },
+        {
+          "modelId": 1627,
+          "modelName": "TRANSPORTER T1 Camion plate-forme/Châssis (26)",
+          "modelYearFrom": "1950-01-01",
+          "modelYearTo": "1970-10-01"
+        },
+        {
+          "modelId": 1628,
+          "modelName": "TRANSPORTER T2 Fourgon (21, 23)",
+          "modelYearFrom": "1968-08-01",
+          "modelYearTo": "1979-07-01"
+        },
+        {
+          "modelId": 1629,
+          "modelName": "TRANSPORTER T3 Fourgon (24_, 25_)",
+          "modelYearFrom": "1979-05-01",
+          "modelYearTo": "1992-12-01"
+        },
+        {
+          "modelId": 1630,
+          "modelName": "TRANSPORTER T3 Camion plate-forme/Châssis (24_)",
+          "modelYearFrom": "1979-05-01",
+          "modelYearTo": "1992-12-01"
+        },
+        {
+          "modelId": 1631,
+          "modelName": "TRANSPORTER T4 Fourgon (70A, 70H, 7DA, 7DH)",
+          "modelYearFrom": "1990-07-01",
+          "modelYearTo": "2003-04-01"
+        },
+        {
+          "modelId": 1632,
+          "modelName": "TRANSPORTER T4 Camion plate-forme/Châssis (70E, 70L, 70M, 7D",
+          "modelYearFrom": "1990-07-01",
+          "modelYearTo": "2003-04-01"
+        },
+        {
+          "modelId": 3888,
+          "modelName": "TRANSPORTER T2 Camion plate-forme/Châssis (21, 26)",
+          "modelYearFrom": "1968-08-01",
+          "modelYearTo": "1979-07-01"
+        },
+        {
+          "modelId": 3889,
+          "modelName": "TRANSPORTER T3 Autobus/Autocar (25_)",
+          "modelYearFrom": "1979-05-01",
+          "modelYearTo": "1992-07-01"
+        },
+        {
+          "modelId": 5003,
+          "modelName": "TRANSPORTER T5 Camion plate-forme/Châssis (7JD, 7JE, 7JL, 7J",
+          "modelYearFrom": "2003-04-01",
+          "modelYearTo": "2016-03-01"
+        },
+        {
+          "modelId": 5004,
+          "modelName": "TRANSPORTER T5 Fourgon (7HA, 7HH, 7EA, 7EH)",
+          "modelYearFrom": "2003-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 5005,
+          "modelName": "TRANSPORTER T5 Autobus/Autocar (7HB, 7HJ, 7EB, 7EJ)",
+          "modelYearFrom": "2003-04-01",
+          "modelYearTo": "2016-03-01"
+        },
+        {
+          "modelId": 10442,
+          "modelName": "TRANSPORTER Passenger VAN",
+          "modelYearFrom": "1992-09-01",
+          "modelYearTo": "1994-12-01"
+        },
+        {
+          "modelId": 14350,
+          "modelName": "TRANSPORTER T6 / CARAVELLE T6 Autobus/Autocar (SGB, SGJ, SHB",
+          "modelYearFrom": "2015-04-01",
+          "modelYearTo": "2024-08-01"
+        },
+        {
+          "modelId": 14351,
+          "modelName": "TRANSPORTER T6 Fourgon (SGA, SGH, SHA, SHH)",
+          "modelYearFrom": "2015-04-01",
+          "modelYearTo": "2024-08-01"
+        },
+        {
+          "modelId": 14352,
+          "modelName": "TRANSPORTER T6 Camion plate-forme/Châssis (SFD, SFE, SFL, SF",
+          "modelYearFrom": "2015-04-01",
+          "modelYearTo": "2024-08-01"
+        },
+        {
+          "modelId": 90131,
+          "modelName": "TRANSPORTER T7 / CARAVELLE T7 Autobus/Autocar (TV_, TW_)",
+          "modelYearFrom": "2024-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 90132,
+          "modelName": "TRANSPORTER T7 Fourgon (TV_, TW_)",
+          "modelYearFrom": "2024-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 90137,
+          "modelName": "TRANSPORTER T7 Camion plate-forme/Châssis (TX_, TY_)",
+          "modelYearFrom": "2024-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "UP",
+      "displayName": "UP",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9734,
+          "modelName": "UP! (121, 122, BL1, BL2, BL3, 123)",
+          "modelYearFrom": "2011-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "VARIANT",
+      "displayName": "VARIANT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14651,
+          "modelName": "VARIANT I Variant",
+          "modelYearFrom": "1969-11-01",
+          "modelYearTo": "1981-12-01"
+        },
+        {
+          "modelId": 36532,
+          "modelName": "VARIANT II",
+          "modelYearFrom": "1978-01-01",
+          "modelYearTo": "1981-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "VENTO",
+      "displayName": "VENTO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3886,
+          "modelName": "VENTO (1H2)",
+          "modelYearFrom": "1991-11-01",
+          "modelYearTo": "2000-11-01"
+        },
+        {
+          "modelId": 13100,
+          "modelName": "VENTO (602, 604)",
+          "modelYearFrom": "2010-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "VIRTUS",
+      "displayName": "VIRTUS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38449,
+          "modelName": "VIRTUS A trois volumes (BZ2)",
+          "modelYearFrom": "2017-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "VOYAGE",
+      "displayName": "VOYAGE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6904,
+          "modelName": "VOYAGE",
+          "modelYearFrom": "1981-06-01",
+          "modelYearTo": "1995-12-01"
+        },
+        {
+          "modelId": 6905,
+          "modelName": "VOYAGE",
+          "modelYearFrom": "1988-08-01",
+          "modelYearTo": "1994-09-01"
+        },
+        {
+          "modelId": 6906,
+          "modelName": "VOYAGE (5X1)",
+          "modelYearFrom": "1994-10-01",
+          "modelYearTo": "2002-07-01"
+        },
+        {
+          "modelId": 9621,
+          "modelName": "VOYAGE (5U4, 5U2, 5U6, 5UG)",
+          "modelYearFrom": "2008-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 121,
+      "manufacturerName": "VW",
+      "groupKey": "XL1",
+      "displayName": "XL1",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13215,
+          "modelName": "XL1 (6Z1)",
+          "modelYearFrom": "2014-02-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

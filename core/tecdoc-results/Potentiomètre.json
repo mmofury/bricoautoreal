@@ -1,0 +1,72 @@
+{
+  "productName": "Potentiomètre",
+  "searchText": "Potentiomètre",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-03T07:03:18.624Z",
+  "productId": 2199,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Potentiomètre de réglage, mélange de ralenti": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Réglage du ralenti/réglage de mise en température": {
+                  "categoryId": null,
+                  "categoryName": "Réglage du ralenti/réglage de mise en température",
+                  "level": 4,
+                  "children": {
+                    "Potentiomètre de réglage, mélange de ralenti": {
+                      "categoryId": 102805,
+                      "categoryName": "Idle Control",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3906
+                    }
+                  }
+                }
+              },
+              "productId": 3906
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carburation [ID: 100254] (Niveau 1)\n    └── Mélange air-carburant (Niveau 2)\n        └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 3906\n            └── Réglage du ralenti/réglage de mise en température (Niveau 4)\n                └── Idle Control [ID: 102805] (Niveau 3) → ProductId: 3906",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 3906
+    }
+  ],
+  "productIdsInArbo": [
+    3906
+  ],
+  "closestProductIds": [
+    {
+      "productId": 3906,
+      "productName": "Potentiomètre de réglage, mélange de ralenti"
+    }
+  ]
+}

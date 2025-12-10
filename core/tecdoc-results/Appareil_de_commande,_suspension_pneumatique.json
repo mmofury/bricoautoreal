@@ -1,0 +1,76 @@
+{
+  "productName": "Appareil de commande, suspension pneumatique",
+  "searchText": "Appareil de commande, suspension pneumatique",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T18:55:33.500Z",
+  "productId": 267,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Appareils de commande": {
+          "categoryId": null,
+          "categoryName": "Appareils de commande",
+          "level": 2,
+          "children": {
+            "Appareil de commande, suspension pneumatique": {
+              "categoryId": 100727,
+              "categoryName": "Control Units",
+              "level": 2,
+              "children": [],
+              "productId": 267
+            },
+            "Commande additionnel, suspension pneumatique": {
+              "categoryId": 100727,
+              "categoryName": "Control Units",
+              "level": 2,
+              "children": [],
+              "productId": 3340
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Appareils de commande (Niveau 2)\n        ├── Control Units [ID: 100727] (Niveau 2) → ProductId: 267\n        └── Control Units [ID: 100727] (Niveau 2) → ProductId: 3340",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Appareils de commande",
+        "Control Units"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100727
+      ],
+      "finalCategoryId": 100727,
+      "productId": 267
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Appareils de commande",
+        "Control Units"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100727
+      ],
+      "finalCategoryId": 100727,
+      "productId": 3340
+    }
+  ],
+  "productIdsInArbo": [
+    267,
+    3340
+  ],
+  "matchedProductIds": [
+    267
+  ]
+}

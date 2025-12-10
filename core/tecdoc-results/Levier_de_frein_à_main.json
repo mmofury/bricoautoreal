@@ -1,0 +1,98 @@
+{
+  "productName": "Levier de frein à main",
+  "searchText": "Levier de frein à main",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:11:31.958Z",
+  "productId": 3698,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Levier / câble / tirette": {
+          "categoryId": null,
+          "categoryName": "Levier / câble / tirette",
+          "level": 2,
+          "children": {
+            "Cache, levier de frein à main": {
+              "categoryId": 100635,
+              "categoryName": "Control Levers/Cables",
+              "level": 2,
+              "children": [],
+              "productId": 3699
+            },
+            "Levier de frein à main": {
+              "categoryId": 100635,
+              "categoryName": "Control Levers/Cables",
+              "level": 2,
+              "children": [],
+              "productId": 3698
+            },
+            "Poignée, levier de frein à main": {
+              "categoryId": 100635,
+              "categoryName": "Control Levers/Cables",
+              "level": 2,
+              "children": [],
+              "productId": 5992
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif de freinage [ID: 100006] (Niveau 1)\n    └── Levier / câble / tirette (Niveau 2)\n        ├── Control Levers/Cables [ID: 100635] (Niveau 2) → ProductId: 3699\n        ├── Control Levers/Cables [ID: 100635] (Niveau 2) → ProductId: 3698\n        └── Control Levers/Cables [ID: 100635] (Niveau 2) → ProductId: 5992",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Levier / câble / tirette",
+        "Control Levers/Cables"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100635
+      ],
+      "finalCategoryId": 100635,
+      "productId": 3699
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Levier / câble / tirette",
+        "Control Levers/Cables"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100635
+      ],
+      "finalCategoryId": 100635,
+      "productId": 3698
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Levier / câble / tirette",
+        "Control Levers/Cables"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100635
+      ],
+      "finalCategoryId": 100635,
+      "productId": 5992
+    }
+  ],
+  "productIdsInArbo": [
+    3698,
+    3699,
+    5992
+  ],
+  "matchedProductIds": [
+    3698
+  ]
+}

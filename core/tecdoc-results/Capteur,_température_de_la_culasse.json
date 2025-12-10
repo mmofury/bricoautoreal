@@ -1,0 +1,167 @@
+{
+  "productName": "Capteur, température de la culasse",
+  "searchText": "Capteur, température de la culasse",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:16:53.877Z",
+  "productId": 2431,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Circuit électrique du moteur": {
+          "categoryId": null,
+          "categoryName": "Circuit électrique du moteur",
+          "level": 2,
+          "children": {
+            "Capteur, température de la culasse": {
+              "categoryId": 100754,
+              "categoryName": "Engine Electrics",
+              "level": 2,
+              "children": [],
+              "productId": 2431
+            }
+          }
+        },
+        "Culasse / pieces de montage": {
+          "categoryId": null,
+          "categoryName": "Culasse / pieces de montage",
+          "level": 2,
+          "children": {
+            "Capteur, température de la culasse": {
+              "categoryId": 100373,
+              "categoryName": "Cylinder Head/Attachment Parts",
+              "level": 2,
+              "children": {
+                "Culasse": {
+                  "categoryId": null,
+                  "categoryName": "Culasse",
+                  "level": 4,
+                  "children": {
+                    "Capteur, température de la culasse": {
+                      "categoryId": 100380,
+                      "categoryName": "Cylinder Head",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2431
+                    }
+                  }
+                }
+              },
+              "productId": 2431
+            }
+          }
+        }
+      }
+    },
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Interrupteur / capteur": {
+          "categoryId": null,
+          "categoryName": "Interrupteur / capteur",
+          "level": 2,
+          "children": {
+            "Capteur, température de la culasse": {
+              "categoryId": 100334,
+              "categoryName": "Switch/Sensor",
+              "level": 2,
+              "children": [],
+              "productId": 2431
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Capteurs": {
+          "categoryId": null,
+          "categoryName": "Capteurs",
+          "level": 2,
+          "children": {
+            "Capteur, température de la culasse": {
+              "categoryId": 102747,
+              "categoryName": "Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 2431
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Moteur [ID: 100002] (Niveau 1)\n│   ├── Circuit électrique du moteur (Niveau 2)\n│   │   └── Engine Electrics [ID: 100754] (Niveau 2) → ProductId: 2431\n│   └── Culasse / pieces de montage (Niveau 2)\n│       └── Cylinder Head/Attachment Parts [ID: 100373] (Niveau 2) → ProductId: 2431\n│           └── Culasse (Niveau 4)\n│               └── Cylinder Head [ID: 100380] (Niveau 3) → ProductId: 2431\n\n├── Refroidissement [ID: 100007] (Niveau 1)\n│   └── Interrupteur / capteur (Niveau 2)\n│       └── Switch/Sensor [ID: 100334] (Niveau 2) → ProductId: 2431\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Capteurs (Niveau 2)\n        └── Sensors [ID: 102747] (Niveau 2) → ProductId: 2431",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Circuit électrique du moteur",
+        "Engine Electrics"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100754
+      ],
+      "finalCategoryId": 100754,
+      "productId": 2431
+    },
+    {
+      "path": [
+        "Moteur",
+        "Culasse / pieces de montage",
+        "Cylinder Head/Attachment Parts"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100373
+      ],
+      "finalCategoryId": 100373,
+      "productId": 2431
+    },
+    {
+      "path": [
+        "Refroidissement",
+        "Interrupteur / capteur",
+        "Switch/Sensor"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100334
+      ],
+      "finalCategoryId": 100334,
+      "productId": 2431
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Capteurs",
+        "Sensors"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        102747
+      ],
+      "finalCategoryId": 102747,
+      "productId": 2431
+    }
+  ],
+  "productIdsInArbo": [
+    2431
+  ],
+  "matchedProductIds": [
+    2431
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "F57EAA",
+      "index": "V10-72-1499",
+      "tecDoc": "V10-72-1499",
+      "tecDocProd": "183",
+      "articleNumber": "V10-72-1499",
+      "brand": "VEMO",
+      "shortDescription": "Interior temperature sensor",
+      "description": "Internal A/C temperature sensor (number of pins: 2) fits: AUDI A1, A1 CITY CARVER, A3, Q2, Q3, TT, CUPRA FORMENTOR, LEON, SEAT ATECA, LEON, LEON SC, LEON SPORTSTOURER, LEON ST 1.0-Electric 04.12-",
+      "customsCode": "90268080",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_832",
+          "primary": true,
+          "name": {
+            "en": "Interior temperature sensor"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_60436",
+          "primary": false,
+          "name": {
+            "en": "Sensor, evaporator temperature"
+          }
+        }
+      ]
+    }
+  ]
+}

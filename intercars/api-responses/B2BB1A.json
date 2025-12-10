@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "B2BB1A",
+      "index": "03.9301-0003.1",
+      "tecDoc": "03.9301-0003.1",
+      "tecDocProd": "3",
+      "articleNumber": "03.9301-0003.1",
+      "brand": "ATE",
+      "shortDescription": "Brake system handling tools",
+      "description": "Brake system handling tools for cleaning brackets, intended use: ABS sensor, diameter: 15 mm",
+      "packageWeight": "0,036",
+      "packageWidth": "2,300",
+      "packageDepth": "2,300",
+      "packageHeight": "5,400",
+      "customsCode": "82059090",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_2714",
+          "primary": false,
+          "name": {
+            "en": "Reamer Head, ABS sensor mounting"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91783",
+          "primary": true,
+          "name": {
+            "en": "Brake system handling tools"
+          }
+        }
+      ]
+    }
+  ]
+}

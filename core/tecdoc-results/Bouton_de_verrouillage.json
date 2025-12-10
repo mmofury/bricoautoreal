@@ -1,0 +1,175 @@
+{
+  "productName": "Bouton de verrouillage",
+  "searchText": "Bouton de verrouillage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:10:00.681Z",
+  "productId": 1646,
+  "arborescence": {
+    "Équipement intérieur": {
+      "categoryId": 100341,
+      "categoryName": "Équipement intérieur",
+      "level": 1,
+      "children": {
+        "Accessoires": {
+          "categoryId": null,
+          "categoryName": "Accessoires",
+          "level": 2,
+          "children": {
+            "Boîtier, bouton de verrouillage": {
+              "categoryId": 100730,
+              "categoryName": "Accessories",
+              "level": 2,
+              "children": [],
+              "productId": 60871
+            },
+            "Bouton de verrouillage": {
+              "categoryId": 100730,
+              "categoryName": "Accessories",
+              "level": 2,
+              "children": [],
+              "productId": 1646
+            },
+            "Guidage, bouton de verrouillage": {
+              "categoryId": 100730,
+              "categoryName": "Accessories",
+              "level": 2,
+              "children": [],
+              "productId": 4244
+            }
+          }
+        }
+      }
+    },
+    "Verrouillage": {
+      "categoryId": 100685,
+      "categoryName": "Verrouillage",
+      "level": 1,
+      "children": {
+        "Composants": {
+          "categoryId": null,
+          "categoryName": "Composants",
+          "level": 2,
+          "children": {
+            "Boîtier, bouton de verrouillage": {
+              "categoryId": 100766,
+              "categoryName": "Parts",
+              "level": 2,
+              "children": [],
+              "productId": 60871
+            },
+            "Bouton de verrouillage": {
+              "categoryId": 100766,
+              "categoryName": "Parts",
+              "level": 2,
+              "children": [],
+              "productId": 1646
+            },
+            "Guidage, bouton de verrouillage": {
+              "categoryId": 100766,
+              "categoryName": "Parts",
+              "level": 2,
+              "children": [],
+              "productId": 4244
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Équipement intérieur [ID: 100341] (Niveau 1)\n│   └── Accessoires (Niveau 2)\n│       ├── Accessories [ID: 100730] (Niveau 2) → ProductId: 60871\n│       ├── Accessories [ID: 100730] (Niveau 2) → ProductId: 1646\n│       └── Accessories [ID: 100730] (Niveau 2) → ProductId: 4244\n\n└── Verrouillage [ID: 100685] (Niveau 1)\n    └── Composants (Niveau 2)\n        ├── Parts [ID: 100766] (Niveau 2) → ProductId: 60871\n        ├── Parts [ID: 100766] (Niveau 2) → ProductId: 1646\n        └── Parts [ID: 100766] (Niveau 2) → ProductId: 4244",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Équipement intérieur",
+        "Accessoires",
+        "Accessories"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        100730
+      ],
+      "finalCategoryId": 100730,
+      "productId": 60871
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Accessoires",
+        "Accessories"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        100730
+      ],
+      "finalCategoryId": 100730,
+      "productId": 1646
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Accessoires",
+        "Accessories"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        100730
+      ],
+      "finalCategoryId": 100730,
+      "productId": 4244
+    },
+    {
+      "path": [
+        "Verrouillage",
+        "Composants",
+        "Parts"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100766
+      ],
+      "finalCategoryId": 100766,
+      "productId": 60871
+    },
+    {
+      "path": [
+        "Verrouillage",
+        "Composants",
+        "Parts"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100766
+      ],
+      "finalCategoryId": 100766,
+      "productId": 1646
+    },
+    {
+      "path": [
+        "Verrouillage",
+        "Composants",
+        "Parts"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100766
+      ],
+      "finalCategoryId": 100766,
+      "productId": 4244
+    }
+  ],
+  "productIdsInArbo": [
+    1646,
+    4244,
+    60871
+  ],
+  "matchedProductIds": [
+    1646
+  ]
+}

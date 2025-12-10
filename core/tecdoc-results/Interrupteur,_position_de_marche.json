@@ -1,0 +1,72 @@
+{
+  "productName": "Interrupteur, position de marche",
+  "searchText": "Interrupteur, position de marche",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T20:47:42.217Z",
+  "productId": 2197,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Instruments": {
+          "categoryId": null,
+          "categoryName": "Instruments",
+          "level": 2,
+          "children": {
+            "Interrupteur, position de marche": {
+              "categoryId": 100322,
+              "categoryName": "Instruments",
+              "level": 2,
+              "children": {
+                "Capteurs/Conatct": {
+                  "categoryId": null,
+                  "categoryName": "Capteurs/Conatct",
+                  "level": 4,
+                  "children": {
+                    "Interrupteur, position de marche": {
+                      "categoryId": 100553,
+                      "categoryName": "Sensors/Switches",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2198
+                    }
+                  }
+                }
+              },
+              "productId": 2198
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Instruments (Niveau 2)\n        └── Instruments [ID: 100322] (Niveau 2) → ProductId: 2198\n            └── Capteurs/Conatct (Niveau 4)\n                └── Sensors/Switches [ID: 100553] (Niveau 3) → ProductId: 2198",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Instruments",
+        "Instruments"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100322
+      ],
+      "finalCategoryId": 100322,
+      "productId": 2198
+    }
+  ],
+  "productIdsInArbo": [
+    2198
+  ],
+  "closestProductIds": [
+    {
+      "productId": 2198,
+      "productName": "Interrupteur, position de marche"
+    }
+  ]
+}

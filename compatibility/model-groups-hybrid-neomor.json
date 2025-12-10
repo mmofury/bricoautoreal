@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.431Z",
+  "manufacturer": "NEOMOR",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 7098,
+      "manufacturerName": "NEOMOR",
+      "groupKey": "D01",
+      "displayName": "D01",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44831,
+          "modelName": "D01",
+          "modelYearFrom": "2022-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 7098,
+      "manufacturerName": "NEOMOR",
+      "groupKey": "D02",
+      "displayName": "D02",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44832,
+          "modelName": "D02",
+          "modelYearFrom": "2023-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 7098,
+      "manufacturerName": "NEOMOR",
+      "groupKey": "D05",
+      "displayName": "D05",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44871,
+          "modelName": "D05",
+          "modelYearFrom": "2023-10-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

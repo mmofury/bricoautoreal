@@ -1,0 +1,154 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.185Z",
+  "manufacturer": "BEIJING",
+  "countGroups": 9,
+  "groups": [
+    {
+      "manufacturerId": 5670,
+      "manufacturerName": "BEIJING",
+      "groupKey": "EU5",
+      "displayName": "EU5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41957,
+          "modelName": "EU5 PLUS",
+          "modelYearFrom": "2021-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42961,
+          "modelName": "EU5",
+          "modelYearFrom": "2020-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5670,
+      "manufacturerName": "BEIJING",
+      "groupKey": "EU7",
+      "displayName": "EU7",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40675,
+          "modelName": "EU7",
+          "modelYearFrom": "2019-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5670,
+      "manufacturerName": "BEIJING",
+      "groupKey": "MOFANG",
+      "displayName": "MOFANG",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43090,
+          "modelName": "MOFANG",
+          "modelYearFrom": "2022-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5670,
+      "manufacturerName": "BEIJING",
+      "groupKey": "U5",
+      "displayName": "U5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41501,
+          "modelName": "U5",
+          "modelYearFrom": "2020-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42427,
+          "modelName": "U5 PLUS",
+          "modelYearFrom": "2021-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5670,
+      "manufacturerName": "BEIJING",
+      "groupKey": "U7",
+      "displayName": "U7",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40614,
+          "modelName": "U7",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5670,
+      "manufacturerName": "BEIJING",
+      "groupKey": "X3",
+      "displayName": "X3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40615,
+          "modelName": "X3",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5670,
+      "manufacturerName": "BEIJING",
+      "groupKey": "X5",
+      "displayName": "X5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42589,
+          "modelName": "X5",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5670,
+      "manufacturerName": "BEIJING",
+      "groupKey": "X55",
+      "displayName": "X55",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44089,
+          "modelName": "X55",
+          "modelYearFrom": "2022-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5670,
+      "manufacturerName": "BEIJING",
+      "groupKey": "X7",
+      "displayName": "X7",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40926,
+          "modelName": "X7",
+          "modelYearFrom": "2020-06-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

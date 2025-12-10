@@ -1,0 +1,64 @@
+{
+  "productName": "Ressort, régleur de timonerie",
+  "productId": 1096,
+  "searchText": "Ressort, régleur de timonerie",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Dispositif de freinage": {
+          "categoryId": 200058,
+          "categoryName": "Dispositif de freinage",
+          "level": 1,
+          "children": {
+            "Frein à tambour": {
+              "categoryId": null,
+              "categoryName": "Frein à tambour",
+              "level": 2,
+              "children": {
+                "Ressort, régleur de timonerie": {
+                  "categoryId": 200098,
+                  "categoryName": "Drum Brake",
+                  "level": 2,
+                  "children": {
+                    "Régleur de timonerie / accessoires": {
+                      "categoryId": null,
+                      "categoryName": "Régleur de timonerie / accessoires",
+                      "level": 4,
+                      "children": {
+                        "Ressort, régleur de timonerie": {
+                          "categoryId": 200365,
+                          "categoryName": "Adjuster/Accessories",
+                          "level": 3,
+                          "children": [],
+                          "productId": 1096
+                        }
+                      }
+                    }
+                  },
+                  "productId": 1096
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Dispositif de freinage [ID: 200058] (Niveau 1)\n    └── Frein à tambour (Niveau 2)\n        └── Drum Brake [ID: 200098] (Niveau 2) → ProductId: 1096\n            └── Régleur de timonerie / accessoires (Niveau 4)\n                └── Adjuster/Accessories [ID: 200365] (Niveau 3) → ProductId: 1096",
+      "productIdsInArbo": [
+        1096
+      ],
+      "matchedProductIds": [
+        1096
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:24:37.513Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

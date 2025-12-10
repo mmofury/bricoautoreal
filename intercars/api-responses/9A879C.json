@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "9A879C",
+      "index": "VAL509215",
+      "tecDoc": "509215",
+      "tecDocProd": "21",
+      "articleNumber": "509215",
+      "brand": "VALEO",
+      "shortDescription": "Gasket, coolant pipe",
+      "description": "VALEO valve ALFA ROMEO / AUDI / FORD / MAZDA",
+      "eans": [
+        "3276425092150"
+      ],
+      "packageWeight": "0,016",
+      "packageWidth": "10,000",
+      "packageDepth": "16,000",
+      "packageHeight": "0,500",
+      "customsCode": "84813099",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_547",
+          "primary": true,
+          "name": {
+            "en": "Gasket, coolant pipe"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_4311",
+          "primary": false,
+          "name": {
+            "en": "Valve Core, service valve"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "E400CD",
+      "index": "SK-7151",
+      "tecDoc": "SK-7151",
+      "tecDocProd": "4010",
+      "articleNumber": "SK-7151",
+      "brand": "555",
+      "shortDescription": "Steering rod",
+      "description": "Tie rod (with no end) L/R fits: MITSUBISHI L200, PAJERO I 2.3D/2.5D/3.0 12.82-08.96",
+      "gtuCode": "GTU_07",
+      "customsCode": "87089499",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_284",
+          "primary": true,
+          "name": {
+            "en": "Steering rod"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_772",
+          "primary": false,
+          "name": {
+            "en": "Repair Kit, stub axle"
+          }
+        }
+      ]
+    }
+  ]
+}

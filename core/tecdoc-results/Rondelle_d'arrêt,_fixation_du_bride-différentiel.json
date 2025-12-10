@@ -1,0 +1,54 @@
+{
+  "productName": "Rondelle d'arrêt, fixation du bride-différentiel",
+  "searchText": "Rondelle d'arrêt, fixation du bride-différentiel",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:10:33.342Z",
+  "productId": 4011,
+  "arborescence": {
+    "Entraînement des essieux": {
+      "categoryId": 100400,
+      "categoryName": "Entraînement des essieux",
+      "level": 1,
+      "children": {
+        "Différentiel": {
+          "categoryId": null,
+          "categoryName": "Différentiel",
+          "level": 2,
+          "children": {
+            "Rondelle d'arrêt, fixation du bride-différentiel": {
+              "categoryId": 100415,
+              "categoryName": "Differential",
+              "level": 2,
+              "children": [],
+              "productId": 4011
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement des essieux [ID: 100400] (Niveau 1)\n    └── Différentiel (Niveau 2)\n        └── Differential [ID: 100415] (Niveau 2) → ProductId: 4011",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des essieux",
+        "Différentiel",
+        "Differential"
+      ],
+      "categoryIds": [
+        100400,
+        null,
+        100415
+      ],
+      "finalCategoryId": 100415,
+      "productId": 4011
+    }
+  ],
+  "productIdsInArbo": [
+    4011
+  ],
+  "matchedProductIds": [
+    4011
+  ]
+}

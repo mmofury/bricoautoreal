@@ -1,0 +1,54 @@
+{
+  "productName": "Élément d'ajustage, réglage de siège",
+  "searchText": "Élément d'ajustage, réglage de siège",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:38:52.608Z",
+  "productId": 920,
+  "arborescence": {
+    "Équipement intérieur": {
+      "categoryId": 100341,
+      "categoryName": "Équipement intérieur",
+      "level": 1,
+      "children": {
+        "Sièges": {
+          "categoryId": null,
+          "categoryName": "Sièges",
+          "level": 2,
+          "children": {
+            "Élément d'ajustage, réglage de siège": {
+              "categoryId": 100673,
+              "categoryName": "Seats",
+              "level": 2,
+              "children": [],
+              "productId": 920
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Équipement intérieur [ID: 100341] (Niveau 1)\n    └── Sièges (Niveau 2)\n        └── Seats [ID: 100673] (Niveau 2) → ProductId: 920",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Équipement intérieur",
+        "Sièges",
+        "Seats"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        100673
+      ],
+      "finalCategoryId": 100673,
+      "productId": 920
+    }
+  ],
+  "productIdsInArbo": [
+    920
+  ],
+  "matchedProductIds": [
+    920
+  ]
+}

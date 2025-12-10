@@ -1,0 +1,54 @@
+{
+  "productName": "Kit réparation de câble, bobine d'allumage",
+  "searchText": "Kit réparation de câble, bobine d'allumage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:09:00.815Z",
+  "productId": 7288,
+  "arborescence": {
+    "Allumage / préchauffage": {
+      "categoryId": 100008,
+      "categoryName": "Allumage / préchauffage",
+      "level": 1,
+      "children": {
+        "Bobine/unite de bobine d'allumage": {
+          "categoryId": null,
+          "categoryName": "Bobine/unite de bobine d'allumage",
+          "level": 2,
+          "children": {
+            "Kit réparation de câble, bobine d'allumage": {
+              "categoryId": 100150,
+              "categoryName": "Ignition Coil/Ignition Coil Unit",
+              "level": 2,
+              "children": [],
+              "productId": 7288
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Allumage / préchauffage [ID: 100008] (Niveau 1)\n    └── Bobine/unite de bobine d'allumage (Niveau 2)\n        └── Ignition Coil/Ignition Coil Unit [ID: 100150] (Niveau 2) → ProductId: 7288",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Bobine/unite de bobine d'allumage",
+        "Ignition Coil/Ignition Coil Unit"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        100150
+      ],
+      "finalCategoryId": 100150,
+      "productId": 7288
+    }
+  ],
+  "productIdsInArbo": [
+    7288
+  ],
+  "matchedProductIds": [
+    7288
+  ]
+}

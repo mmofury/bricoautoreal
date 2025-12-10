@@ -1,0 +1,112 @@
+{
+  "productName": "Joint d'étanchéité, couvercle de carter de distribution",
+  "searchText": "Joint d'étanchéité, couvercle de carter de distribution",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:52:47.364Z",
+  "productId": 569,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Distribution moteur": {
+          "categoryId": null,
+          "categoryName": "Distribution moteur",
+          "level": 2,
+          "children": {
+            "Joint d'étanchéité, couvercle de carter de distribution": {
+              "categoryId": 100003,
+              "categoryName": "Engine Timing",
+              "level": 2,
+              "children": {
+                "Carter de distribution / joint": {
+                  "categoryId": null,
+                  "categoryName": "Carter de distribution / joint",
+                  "level": 4,
+                  "children": {
+                    "Joint d'étanchéité, couvercle de carter de distribution": {
+                      "categoryId": 100401,
+                      "categoryName": "Timing Case/Gasket",
+                      "level": 3,
+                      "children": [],
+                      "productId": 569
+                    }
+                  }
+                }
+              },
+              "productId": 569
+            }
+          }
+        },
+        "Joints": {
+          "categoryId": null,
+          "categoryName": "Joints",
+          "level": 2,
+          "children": {
+            "Joint d'étanchéité, couvercle de carter de distribution": {
+              "categoryId": 100223,
+              "categoryName": "Gaskets",
+              "level": 2,
+              "children": {
+                "Joint de carter de distribution": {
+                  "categoryId": null,
+                  "categoryName": "Joint de carter de distribution",
+                  "level": 4,
+                  "children": {
+                    "Joint d'étanchéité, couvercle de carter de distribution": {
+                      "categoryId": 100235,
+                      "categoryName": "Timing Case Gasket",
+                      "level": 3,
+                      "children": [],
+                      "productId": 569
+                    }
+                  }
+                }
+              },
+              "productId": 569
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    ├── Distribution moteur (Niveau 2)\n    │   └── Engine Timing [ID: 100003] (Niveau 2) → ProductId: 569\n    │       └── Carter de distribution / joint (Niveau 4)\n    │           └── Timing Case/Gasket [ID: 100401] (Niveau 3) → ProductId: 569\n    └── Joints (Niveau 2)\n        └── Gaskets [ID: 100223] (Niveau 2) → ProductId: 569\n            └── Joint de carter de distribution (Niveau 4)\n                └── Timing Case Gasket [ID: 100235] (Niveau 3) → ProductId: 569",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Engine Timing"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100003
+      ],
+      "finalCategoryId": 100003,
+      "productId": 569
+    },
+    {
+      "path": [
+        "Moteur",
+        "Joints",
+        "Gaskets"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100223
+      ],
+      "finalCategoryId": 100223,
+      "productId": 569
+    }
+  ],
+  "productIdsInArbo": [
+    569
+  ],
+  "matchedProductIds": [
+    569
+  ]
+}

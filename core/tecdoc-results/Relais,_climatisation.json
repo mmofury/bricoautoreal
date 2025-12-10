@@ -1,0 +1,89 @@
+{
+  "productName": "Relais, climatisation",
+  "searchText": "Relais, climatisation",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:07:37.901Z",
+  "productId": 803,
+  "arborescence": {
+    "Climatisation": {
+      "categoryId": 100243,
+      "categoryName": "Climatisation",
+      "level": 1,
+      "children": {
+        "Relais": {
+          "categoryId": null,
+          "categoryName": "Relais",
+          "level": 2,
+          "children": {
+            "Relais, climatisation": {
+              "categoryId": 100363,
+              "categoryName": "Relay",
+              "level": 2,
+              "children": [],
+              "productId": 803
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Relais": {
+          "categoryId": null,
+          "categoryName": "Relais",
+          "level": 2,
+          "children": {
+            "Relais, climatisation": {
+              "categoryId": 100785,
+              "categoryName": "Relay",
+              "level": 2,
+              "children": [],
+              "productId": 803
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Climatisation [ID: 100243] (Niveau 1)\n│   └── Relais (Niveau 2)\n│       └── Relay [ID: 100363] (Niveau 2) → ProductId: 803\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Relais (Niveau 2)\n        └── Relay [ID: 100785] (Niveau 2) → ProductId: 803",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Climatisation",
+        "Relais",
+        "Relay"
+      ],
+      "categoryIds": [
+        100243,
+        null,
+        100363
+      ],
+      "finalCategoryId": 100363,
+      "productId": 803
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Relais",
+        "Relay"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100785
+      ],
+      "finalCategoryId": 100785,
+      "productId": 803
+    }
+  ],
+  "productIdsInArbo": [
+    803
+  ],
+  "matchedProductIds": [
+    803
+  ]
+}

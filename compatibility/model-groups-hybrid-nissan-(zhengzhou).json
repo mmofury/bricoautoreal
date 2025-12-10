@@ -1,0 +1,109 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.436Z",
+  "manufacturer": "NISSAN (ZHENGZHOU)",
+  "countGroups": 6,
+  "groups": [
+    {
+      "manufacturerId": 2910,
+      "manufacturerName": "NISSAN (ZHENGZHOU)",
+      "groupKey": "D22",
+      "displayName": "D22",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6701,
+          "modelName": "D22 Pick-up (D22)",
+          "modelYearFrom": "1999-04-01",
+          "modelYearTo": "2011-12-01"
+        },
+        {
+          "modelId": 36912,
+          "modelName": "D22 NP300 Pick-up (D22)",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2910,
+      "manufacturerName": "NISSAN (ZHENGZHOU)",
+      "groupKey": "NAVARA",
+      "displayName": "NAVARA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38083,
+          "modelName": "NAVARA (D23)",
+          "modelYearFrom": "2017-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2910,
+      "manufacturerName": "NISSAN (ZHENGZHOU)",
+      "groupKey": "NV200",
+      "displayName": "NV200",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11531,
+          "modelName": "NV200 (M20)",
+          "modelYearFrom": "2010-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2910,
+      "manufacturerName": "NISSAN (ZHENGZHOU)",
+      "groupKey": "PALADIN",
+      "displayName": "PALADIN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6408,
+          "modelName": "PALADIN (WD22)",
+          "modelYearFrom": "2002-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44717,
+          "modelName": "PALADIN",
+          "modelYearFrom": "2023-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2910,
+      "manufacturerName": "NISSAN (ZHENGZHOU)",
+      "groupKey": "TERRA",
+      "displayName": "TERRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38668,
+          "modelName": "TERRA",
+          "modelYearFrom": "2018-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2910,
+      "manufacturerName": "NISSAN (ZHENGZHOU)",
+      "groupKey": "YUXUAN",
+      "displayName": "YUXUAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7842,
+          "modelName": "YUXUAN Monospace",
+          "modelYearFrom": "2007-10-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

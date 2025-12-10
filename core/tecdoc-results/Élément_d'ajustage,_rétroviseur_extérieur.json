@@ -1,0 +1,69 @@
+{
+  "productName": "Élément d'ajustage, rétroviseur extérieur",
+  "searchText": "Élément d'ajustage, rétroviseur extérieur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:38:59.930Z",
+  "productId": 789,
+  "arborescence": {
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Moteur / Relais": {
+          "categoryId": null,
+          "categoryName": "Moteur / Relais",
+          "level": 2,
+          "children": {
+            "Élément d'ajustage, rétroviseur extérieur": {
+              "categoryId": 104156,
+              "categoryName": "Motor/Relay/Switch",
+              "level": 2,
+              "children": {
+                "Mirroirs": {
+                  "categoryId": null,
+                  "categoryName": "Mirroirs",
+                  "level": 4,
+                  "children": {
+                    "Élément d'ajustage, rétroviseur extérieur": {
+                      "categoryId": 104159,
+                      "categoryName": "Mirror",
+                      "level": 3,
+                      "children": [],
+                      "productId": 789
+                    }
+                  }
+                }
+              },
+              "productId": 789
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Systèmes de confort [ID: 100335] (Niveau 1)\n    └── Moteur / Relais (Niveau 2)\n        └── Motor/Relay/Switch [ID: 104156] (Niveau 2) → ProductId: 789\n            └── Mirroirs (Niveau 4)\n                └── Mirror [ID: 104159] (Niveau 3) → ProductId: 789",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Systèmes de confort",
+        "Moteur / Relais",
+        "Motor/Relay/Switch"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        104156
+      ],
+      "finalCategoryId": 104156,
+      "productId": 789
+    }
+  ],
+  "productIdsInArbo": [
+    789
+  ],
+  "matchedProductIds": [
+    789
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.540Z",
+  "manufacturer": "WIESMANN",
+  "countGroups": 4,
+  "groups": [
+    {
+      "manufacturerId": 1558,
+      "manufacturerName": "WIESMANN",
+      "groupKey": "GT",
+      "displayName": "GT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8550,
+          "modelName": "GT MF5 Coupé",
+          "modelYearFrom": "2007-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13685,
+          "modelName": "GT MF4 Coupé",
+          "modelYearFrom": "2003-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1558,
+      "manufacturerName": "WIESMANN",
+      "groupKey": "MF3",
+      "displayName": "MF3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4384,
+          "modelName": "MF3 Roadster",
+          "modelYearFrom": "1996-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1558,
+      "manufacturerName": "WIESMANN",
+      "groupKey": "MF4",
+      "displayName": "MF4",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13682,
+          "modelName": "MF4 Roadster",
+          "modelYearFrom": "2009-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1558,
+      "manufacturerName": "WIESMANN",
+      "groupKey": "MF5",
+      "displayName": "MF5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13683,
+          "modelName": "MF5 Roadster",
+          "modelYearFrom": "2009-09-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

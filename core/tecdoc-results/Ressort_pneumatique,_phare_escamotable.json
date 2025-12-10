@@ -1,0 +1,234 @@
+{
+  "productName": "Ressort pneumatique, phare escamotable",
+  "searchText": "Ressort pneumatique, phare escamotable",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:08:50.679Z",
+  "productId": 228,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Avant du véhicule": {
+          "categoryId": null,
+          "categoryName": "Avant du véhicule",
+          "level": 2,
+          "children": {
+            "Ressort pneumatique, phare escamotable": {
+              "categoryId": 101648,
+              "categoryName": "Vehicle Front",
+              "level": 2,
+              "children": {
+                "Composants/suppléments": {
+                  "categoryId": null,
+                  "categoryName": "Composants/suppléments",
+                  "level": 4,
+                  "children": {
+                    "Ressort pneumatique, phare escamotable": {
+                      "categoryId": 101673,
+                      "categoryName": "Parts",
+                      "level": 3,
+                      "children": {
+                        "Ressorts pneumatiques": {
+                          "categoryId": null,
+                          "categoryName": "Ressorts pneumatiques",
+                          "level": 6,
+                          "children": {
+                            "Ressort pneumatique, phare escamotable": {
+                              "categoryId": 101777,
+                              "categoryName": "Gas Springs",
+                              "level": 4,
+                              "children": [],
+                              "productId": 228
+                            }
+                          }
+                        }
+                      },
+                      "productId": 228
+                    }
+                  }
+                },
+                "Projecteurs principaux / composants": {
+                  "categoryId": null,
+                  "categoryName": "Projecteurs principaux / composants",
+                  "level": 4,
+                  "children": {
+                    "Ressort pneumatique, phare escamotable": {
+                      "categoryId": 101656,
+                      "categoryName": "Headlight/Parts",
+                      "level": 3,
+                      "children": {
+                        "Phares escamotables": {
+                          "categoryId": null,
+                          "categoryName": "Phares escamotables",
+                          "level": 6,
+                          "children": {
+                            "Ressort pneumatique, phare escamotable": {
+                              "categoryId": 101660,
+                              "categoryName": "Pop-up Headlight",
+                              "level": 4,
+                              "children": [],
+                              "productId": 228
+                            }
+                          }
+                        }
+                      },
+                      "productId": 228
+                    }
+                  }
+                }
+              },
+              "productId": 228
+            }
+          }
+        },
+        "Projecteurs principaux / composants": {
+          "categoryId": null,
+          "categoryName": "Projecteurs principaux / composants",
+          "level": 2,
+          "children": {
+            "Ressort pneumatique, phare escamotable": {
+              "categoryId": 101465,
+              "categoryName": "Headlight/Parts",
+              "level": 2,
+              "children": {
+                "Phares escamotables": {
+                  "categoryId": null,
+                  "categoryName": "Phares escamotables",
+                  "level": 4,
+                  "children": {
+                    "Ressort pneumatique, phare escamotable": {
+                      "categoryId": 101469,
+                      "categoryName": "Pop-up Headlight",
+                      "level": 3,
+                      "children": [],
+                      "productId": 228
+                    }
+                  }
+                }
+              },
+              "productId": 228
+            }
+          }
+        },
+        "Ressorts pneumatiques": {
+          "categoryId": null,
+          "categoryName": "Ressorts pneumatiques",
+          "level": 2,
+          "children": {
+            "Ressort pneumatique, phare escamotable": {
+              "categoryId": 100826,
+              "categoryName": "Gas Springs",
+              "level": 2,
+              "children": [],
+              "productId": 228
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Projecteurs principaux / composants": {
+          "categoryId": null,
+          "categoryName": "Projecteurs principaux / composants",
+          "level": 2,
+          "children": {
+            "Ressort pneumatique, phare escamotable": {
+              "categoryId": 100143,
+              "categoryName": "Headlight/Parts",
+              "level": 2,
+              "children": {
+                "Phares escamotables": {
+                  "categoryId": null,
+                  "categoryName": "Phares escamotables",
+                  "level": 4,
+                  "children": {
+                    "Ressort pneumatique, phare escamotable": {
+                      "categoryId": 100516,
+                      "categoryName": "Pop-up Headlight",
+                      "level": 3,
+                      "children": [],
+                      "productId": 228
+                    }
+                  }
+                }
+              },
+              "productId": 228
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carrosserie [ID: 100001] (Niveau 1)\n│   ├── Avant du véhicule (Niveau 2)\n│   │   └── Vehicle Front [ID: 101648] (Niveau 2) → ProductId: 228\n│   │       ├── Composants/suppléments (Niveau 4)\n│   │       │   └── Parts [ID: 101673] (Niveau 3) → ProductId: 228\n│   │       │       └── Ressorts pneumatiques (Niveau 6)\n│   │       │           └── Gas Springs [ID: 101777] (Niveau 4) → ProductId: 228\n│   │       └── Projecteurs principaux / composants (Niveau 4)\n│   │           └── Headlight/Parts [ID: 101656] (Niveau 3) → ProductId: 228\n│   │               └── Phares escamotables (Niveau 6)\n│   │                   └── Pop-up Headlight [ID: 101660] (Niveau 4) → ProductId: 228\n│   ├── Projecteurs principaux / composants (Niveau 2)\n│   │   └── Headlight/Parts [ID: 101465] (Niveau 2) → ProductId: 228\n│   │       └── Phares escamotables (Niveau 4)\n│   │           └── Pop-up Headlight [ID: 101469] (Niveau 3) → ProductId: 228\n│   └── Ressorts pneumatiques (Niveau 2)\n│       └── Gas Springs [ID: 100826] (Niveau 2) → ProductId: 228\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Projecteurs principaux / composants (Niveau 2)\n        └── Headlight/Parts [ID: 100143] (Niveau 2) → ProductId: 228\n            └── Phares escamotables (Niveau 4)\n                └── Pop-up Headlight [ID: 100516] (Niveau 3) → ProductId: 228",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Avant du véhicule",
+        "Vehicle Front"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101648
+      ],
+      "finalCategoryId": 101648,
+      "productId": 228
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Projecteurs principaux / composants",
+        "Headlight/Parts"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101465
+      ],
+      "finalCategoryId": 101465,
+      "productId": 228
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Ressorts pneumatiques",
+        "Gas Springs"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100826
+      ],
+      "finalCategoryId": 100826,
+      "productId": 228
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Projecteurs principaux / composants",
+        "Headlight/Parts"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100143
+      ],
+      "finalCategoryId": 100143,
+      "productId": 228
+    }
+  ],
+  "productIdsInArbo": [
+    228
+  ],
+  "matchedProductIds": [
+    228
+  ]
+}

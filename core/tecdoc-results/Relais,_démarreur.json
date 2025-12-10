@@ -1,0 +1,97 @@
+{
+  "productName": "Relais, démarreur",
+  "searchText": "Relais, démarreur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:07:49.564Z",
+  "productId": 2188,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Démarreur": {
+          "categoryId": null,
+          "categoryName": "Démarreur",
+          "level": 2,
+          "children": {
+            "Relais, démarreur": {
+              "categoryId": 100353,
+              "categoryName": "Starter System",
+              "level": 2,
+              "children": {
+                "Composants du démarreur": {
+                  "categoryId": null,
+                  "categoryName": "Composants du démarreur",
+                  "level": 4,
+                  "children": {
+                    "Relais, démarreur": {
+                      "categoryId": 100040,
+                      "categoryName": "Starter Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2188
+                    }
+                  }
+                }
+              },
+              "productId": 2188
+            }
+          }
+        },
+        "Relais": {
+          "categoryId": null,
+          "categoryName": "Relais",
+          "level": 2,
+          "children": {
+            "Relais, démarreur": {
+              "categoryId": 100785,
+              "categoryName": "Relay",
+              "level": 2,
+              "children": [],
+              "productId": 2188
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    ├── Démarreur (Niveau 2)\n    │   └── Starter System [ID: 100353] (Niveau 2) → ProductId: 2188\n    │       └── Composants du démarreur (Niveau 4)\n    │           └── Starter Parts [ID: 100040] (Niveau 3) → ProductId: 2188\n    └── Relais (Niveau 2)\n        └── Relay [ID: 100785] (Niveau 2) → ProductId: 2188",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Démarreur",
+        "Starter System"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100353
+      ],
+      "finalCategoryId": 100353,
+      "productId": 2188
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Relais",
+        "Relay"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100785
+      ],
+      "finalCategoryId": 100785,
+      "productId": 2188
+    }
+  ],
+  "productIdsInArbo": [
+    2188
+  ],
+  "matchedProductIds": [
+    2188
+  ]
+}

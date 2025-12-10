@@ -1,0 +1,63 @@
+{
+  "productName": "Vis, amortisseur de cabine",
+  "productId": 4020,
+  "searchText": "Vis, amortisseur de cabine",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Cabine du conducteur/carrosserie": {
+          "categoryId": 200022,
+          "categoryName": "Cabine du conducteur/carrosserie",
+          "level": 1,
+          "children": {
+            "Suspension / Amortissement de la cabine": {
+              "categoryId": null,
+              "categoryName": "Suspension / Amortissement de la cabine",
+              "level": 2,
+              "children": {
+                "Vis, amortisseur de cabine": {
+                  "categoryId": 200826,
+                  "categoryName": "Driver Cab Suspension",
+                  "level": 2,
+                  "children": [],
+                  "productId": 4020
+                }
+              }
+            },
+            "Suspension de la cabine": {
+              "categoryId": null,
+              "categoryName": "Suspension de la cabine",
+              "level": 2,
+              "children": {
+                "Vis, amortisseur de cabine": {
+                  "categoryId": 200025,
+                  "categoryName": "Driver Cab Suspension",
+                  "level": 2,
+                  "children": [],
+                  "productId": 4020
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Cabine du conducteur/carrosserie [ID: 200022] (Niveau 1)\n    ├── Suspension / Amortissement de la cabine (Niveau 2)\n    │   └── Driver Cab Suspension [ID: 200826] (Niveau 2) → ProductId: 4020\n    └── Suspension de la cabine (Niveau 2)\n        └── Driver Cab Suspension [ID: 200025] (Niveau 2) → ProductId: 4020",
+      "productIdsInArbo": [
+        4020
+      ],
+      "matchedProductIds": [
+        4020
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:46:01.833Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

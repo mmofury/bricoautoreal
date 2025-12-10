@@ -1,0 +1,69 @@
+{
+  "productName": "Joint, boîtier de commande-boite de vitesse",
+  "searchText": "Joint, boîtier de commande-boite de vitesse",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:54:46.360Z",
+  "productId": 3990,
+  "arborescence": {
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Boîte de vitesses manuelle": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesses manuelle",
+          "level": 2,
+          "children": {
+            "Joint, boîtier de commande-boite de vitesse": {
+              "categoryId": 100239,
+              "categoryName": "Manual Transmission",
+              "level": 2,
+              "children": {
+                "Joints": {
+                  "categoryId": null,
+                  "categoryName": "Joints",
+                  "level": 4,
+                  "children": {
+                    "Joint, boîtier de commande-boite de vitesse": {
+                      "categoryId": 100769,
+                      "categoryName": "Gaskets/Seals",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3990
+                    }
+                  }
+                }
+              },
+              "productId": 3990
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Boîte de vitesses [ID: 100238] (Niveau 1)\n    └── Boîte de vitesses manuelle (Niveau 2)\n        └── Manual Transmission [ID: 100239] (Niveau 2) → ProductId: 3990\n            └── Joints (Niveau 4)\n                └── Gaskets/Seals [ID: 100769] (Niveau 3) → ProductId: 3990",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesses manuelle",
+        "Manual Transmission"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        100239
+      ],
+      "finalCategoryId": 100239,
+      "productId": 3990
+    }
+  ],
+  "productIdsInArbo": [
+    3990
+  ],
+  "matchedProductIds": [
+    3990
+  ]
+}

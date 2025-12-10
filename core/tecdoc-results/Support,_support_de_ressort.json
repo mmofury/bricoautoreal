@@ -1,0 +1,54 @@
+{
+  "productName": "Support, support de ressort",
+  "searchText": "Support, support de ressort",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:22:08.319Z",
+  "productId": 3215,
+  "arborescence": {
+    "Suspension/Amortissement": {
+      "categoryId": 100011,
+      "categoryName": "Suspension/Amortissement",
+      "level": 1,
+      "children": {
+        "Suspension sur ressorts à lames": {
+          "categoryId": null,
+          "categoryName": "Suspension sur ressorts à lames",
+          "level": 2,
+          "children": {
+            "Support, support de ressort": {
+              "categoryId": 100810,
+              "categoryName": "Leaf Spring Suspension",
+              "level": 2,
+              "children": [],
+              "productId": 3215
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Suspension/Amortissement [ID: 100011] (Niveau 1)\n    └── Suspension sur ressorts à lames (Niveau 2)\n        └── Leaf Spring Suspension [ID: 100810] (Niveau 2) → ProductId: 3215",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Suspension sur ressorts à lames",
+        "Leaf Spring Suspension"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        100810
+      ],
+      "finalCategoryId": 100810,
+      "productId": 3215
+    }
+  ],
+  "productIdsInArbo": [
+    3215
+  ],
+  "matchedProductIds": [
+    3215
+  ]
+}

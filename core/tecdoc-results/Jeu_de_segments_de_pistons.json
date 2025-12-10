@@ -1,0 +1,112 @@
+{
+  "productName": "Jeu de segments de pistons",
+  "searchText": "Jeu de segments de pistons",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:51:19.279Z",
+  "productId": 444,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Cylindre et piston": {
+          "categoryId": null,
+          "categoryName": "Cylindre et piston",
+          "level": 2,
+          "children": {
+            "Jeu de segments de pistons": {
+              "categoryId": 104377,
+              "categoryName": "Cylinders/Pistons",
+              "level": 2,
+              "children": [],
+              "productId": 444
+            }
+          }
+        },
+        "Système bielle-manivelle": {
+          "categoryId": null,
+          "categoryName": "Système bielle-manivelle",
+          "level": 2,
+          "children": {
+            "Jeu de segments de pistons": {
+              "categoryId": 100515,
+              "categoryName": "Crankshaft Drive",
+              "level": 2,
+              "children": {
+                "Piston": {
+                  "categoryId": null,
+                  "categoryName": "Piston",
+                  "level": 4,
+                  "children": {
+                    "Jeu de segments de pistons": {
+                      "categoryId": 100520,
+                      "categoryName": "Piston",
+                      "level": 3,
+                      "children": {
+                        "Jeu de segments de piston": {
+                          "categoryId": null,
+                          "categoryName": "Jeu de segments de piston",
+                          "level": 6,
+                          "children": {
+                            "Jeu de segments de pistons": {
+                              "categoryId": 100531,
+                              "categoryName": "Piston Ring Set",
+                              "level": 4,
+                              "children": [],
+                              "productId": 444
+                            }
+                          }
+                        }
+                      },
+                      "productId": 444
+                    }
+                  }
+                }
+              },
+              "productId": 444
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    ├── Cylindre et piston (Niveau 2)\n    │   └── Cylinders/Pistons [ID: 104377] (Niveau 2) → ProductId: 444\n    └── Système bielle-manivelle (Niveau 2)\n        └── Crankshaft Drive [ID: 100515] (Niveau 2) → ProductId: 444\n            └── Piston (Niveau 4)\n                └── Piston [ID: 100520] (Niveau 3) → ProductId: 444\n                    └── Jeu de segments de piston (Niveau 6)\n                        └── Piston Ring Set [ID: 100531] (Niveau 4) → ProductId: 444",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Cylindre et piston",
+        "Cylinders/Pistons"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        104377
+      ],
+      "finalCategoryId": 104377,
+      "productId": 444
+    },
+    {
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Crankshaft Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100515
+      ],
+      "finalCategoryId": 100515,
+      "productId": 444
+    }
+  ],
+  "productIdsInArbo": [
+    444
+  ],
+  "matchedProductIds": [
+    444
+  ]
+}

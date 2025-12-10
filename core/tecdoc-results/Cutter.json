@@ -1,0 +1,229 @@
+{
+  "productName": "Cutter",
+  "searchText": "Cutter",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T20:28:14.357Z",
+  "productId": 4712,
+  "arborescence": {
+    "Allumage / préchauffage": {
+      "categoryId": 100008,
+      "categoryName": "Allumage / préchauffage",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Jeu à tarauder et fileter, bougie de préchauffage": {
+              "categoryId": 103139,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4537
+            }
+          }
+        }
+      }
+    },
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Fraise à siège d’étanchéité, injecteur": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Outils": {
+                  "categoryId": null,
+                  "categoryName": "Outils",
+                  "level": 4,
+                  "children": {
+                    "Fraise à siège d’étanchéité, injecteur": {
+                      "categoryId": 103150,
+                      "categoryName": "Tools",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8998
+                    }
+                  }
+                }
+              },
+              "productId": 8998
+            },
+            "Kit rectificateur et de nettoyage, buse d'injection CR": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Outils": {
+                  "categoryId": null,
+                  "categoryName": "Outils",
+                  "level": 4,
+                  "children": {
+                    "Kit rectificateur et de nettoyage, buse d'injection CR": {
+                      "categoryId": 103150,
+                      "categoryName": "Tools",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4523
+                    }
+                  }
+                }
+              },
+              "productId": 4523
+            },
+            "Taraud, fixation de porte-buse": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Outils": {
+                  "categoryId": null,
+                  "categoryName": "Outils",
+                  "level": 4,
+                  "children": {
+                    "Taraud, fixation de porte-buse": {
+                      "categoryId": 103150,
+                      "categoryName": "Tools",
+                      "level": 3,
+                      "children": [],
+                      "productId": 9461
+                    }
+                  }
+                }
+              },
+              "productId": 9461
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Jeu à tarauder et fileter, bougie de préchauffage": {
+              "categoryId": 103136,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4537
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Allumage / préchauffage [ID: 100008] (Niveau 1)\n│   └── Outils (Niveau 2)\n│       └── Tools [ID: 103139] (Niveau 2) → ProductId: 4537\n\n├── Carburation [ID: 100254] (Niveau 1)\n│   └── Mélange air-carburant (Niveau 2)\n│       ├── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 8998\n│       │   └── Outils (Niveau 4)\n│       │       └── Tools [ID: 103150] (Niveau 3) → ProductId: 8998\n│       ├── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 4523\n│       │   └── Outils (Niveau 4)\n│       │       └── Tools [ID: 103150] (Niveau 3) → ProductId: 4523\n│       └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 9461\n│           └── Outils (Niveau 4)\n│               └── Tools [ID: 103150] (Niveau 3) → ProductId: 9461\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Outils (Niveau 2)\n        └── Tools [ID: 103136] (Niveau 2) → ProductId: 4537",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        103139
+      ],
+      "finalCategoryId": 103139,
+      "productId": 4537
+    },
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 8998
+    },
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 4523
+    },
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 9461
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        103136
+      ],
+      "finalCategoryId": 103136,
+      "productId": 4537
+    }
+  ],
+  "productIdsInArbo": [
+    4523,
+    4537,
+    8998,
+    9461
+  ],
+  "closestProductIds": [
+    {
+      "productId": 4523,
+      "productName": "Kit rectificateur et de nettoyage, buse d'injection CR"
+    },
+    {
+      "productId": 4537,
+      "productName": "Jeu à tarauder et fileter, bougie de préchauffage"
+    },
+    {
+      "productId": 8998,
+      "productName": "Fraise à siège d’étanchéité, injecteur"
+    },
+    {
+      "productId": 9461,
+      "productName": "Taraud, fixation de porte-buse"
+    }
+  ]
+}

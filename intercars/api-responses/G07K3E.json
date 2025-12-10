@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G07K3E",
+      "index": "HAZ 1849-3",
+      "tecDoc": "1849-3",
+      "tecDocProd": "4808",
+      "articleNumber": "1849-3",
+      "brand": "HAZET",
+      "shortDescription": "Special pliers",
+      "description": "Pliers for spark plug boot / for spark plugs, 90 degrees, length: 265mm",
+      "eans": [
+        "4000896055098"
+      ],
+      "packageWeight": "0,320",
+      "packageWidth": "10,000",
+      "packageDepth": "25,000",
+      "packageHeight": "2,000",
+      "customsCode": "82032000",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4497",
+          "primary": false,
+          "name": {
+            "en": "Pliers, spark plug socket"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_94119",
+          "primary": true,
+          "name": {
+            "en": "Special pliers"
+          }
+        }
+      ]
+    }
+  ]
+}

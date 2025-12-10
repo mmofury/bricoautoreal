@@ -1,0 +1,140 @@
+{
+  "productName": "Capteur, kilométrage",
+  "searchText": "Capteur, kilométrage",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T20:15:51.370Z",
+  "productId": 1197,
+  "arborescence": {
+    "Entraînement hybride/électrique": {
+      "categoryId": 706209,
+      "categoryName": "Entraînement hybride/électrique",
+      "level": 1,
+      "children": {
+        "Moteur électrique": {
+          "categoryId": null,
+          "categoryName": "Moteur électrique",
+          "level": 2,
+          "children": {
+            "Capteur, kilométrage": {
+              "categoryId": 706682,
+              "categoryName": "Electric Motor",
+              "level": 2,
+              "children": [],
+              "productId": 60775
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Capteurs": {
+          "categoryId": null,
+          "categoryName": "Capteurs",
+          "level": 2,
+          "children": {
+            "Capteur, kilométrage": {
+              "categoryId": 102747,
+              "categoryName": "Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 3788
+            }
+          }
+        },
+        "Instruments": {
+          "categoryId": null,
+          "categoryName": "Instruments",
+          "level": 2,
+          "children": {
+            "Capteur, kilométrage": {
+              "categoryId": 100322,
+              "categoryName": "Instruments",
+              "level": 2,
+              "children": {
+                "Capteurs/Conatct": {
+                  "categoryId": null,
+                  "categoryName": "Capteurs/Conatct",
+                  "level": 4,
+                  "children": {
+                    "Capteur, kilométrage": {
+                      "categoryId": 100553,
+                      "categoryName": "Sensors/Switches",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3788
+                    }
+                  }
+                }
+              },
+              "productId": 3788
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Entraînement hybride/électrique [ID: 706209] (Niveau 1)\n│   └── Moteur électrique (Niveau 2)\n│       └── Electric Motor [ID: 706682] (Niveau 2) → ProductId: 60775\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    ├── Capteurs (Niveau 2)\n    │   └── Sensors [ID: 102747] (Niveau 2) → ProductId: 3788\n    └── Instruments (Niveau 2)\n        └── Instruments [ID: 100322] (Niveau 2) → ProductId: 3788\n            └── Capteurs/Conatct (Niveau 4)\n                └── Sensors/Switches [ID: 100553] (Niveau 3) → ProductId: 3788",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement hybride/électrique",
+        "Moteur électrique",
+        "Electric Motor"
+      ],
+      "categoryIds": [
+        706209,
+        null,
+        706682
+      ],
+      "finalCategoryId": 706682,
+      "productId": 60775
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Capteurs",
+        "Sensors"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        102747
+      ],
+      "finalCategoryId": 102747,
+      "productId": 3788
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Instruments",
+        "Instruments"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100322
+      ],
+      "finalCategoryId": 100322,
+      "productId": 3788
+    }
+  ],
+  "productIdsInArbo": [
+    3788,
+    60775
+  ],
+  "closestProductIds": [
+    {
+      "productId": 3788,
+      "productName": "Capteur, kilométrage"
+    },
+    {
+      "productId": 60775,
+      "productName": "Capteur, kilométrage"
+    }
+  ]
+}

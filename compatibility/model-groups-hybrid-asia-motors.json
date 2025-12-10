@@ -1,0 +1,106 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.163Z",
+  "manufacturer": "ASIA MOTORS",
+  "countGroups": 5,
+  "groups": [
+    {
+      "manufacturerId": 879,
+      "manufacturerName": "ASIA MOTORS",
+      "groupKey": "COMBI",
+      "displayName": "COMBI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14171,
+          "modelName": "COMBI AM 815 Autobus/Autocar",
+          "modelYearFrom": "1992-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 879,
+      "manufacturerName": "ASIA MOTORS",
+      "groupKey": "HI",
+      "displayName": "HI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1927,
+          "modelName": "HI-TOPIC (AM715)",
+          "modelYearFrom": "1993-06-01",
+          "modelYearTo": "1999-12-01"
+        },
+        {
+          "modelId": 12789,
+          "modelName": "HI-TOPIC Fourgon (AM715)",
+          "modelYearFrom": "1993-10-01",
+          "modelYearTo": "2003-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 879,
+      "manufacturerName": "ASIA MOTORS",
+      "groupKey": "RETONA",
+      "displayName": "RETONA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7096,
+          "modelName": "RETONA Véhicule tout terrain fermé (KA1)",
+          "modelYearFrom": "1995-06-01",
+          "modelYearTo": "2000-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 879,
+      "manufacturerName": "ASIA MOTORS",
+      "groupKey": "ROCSTA",
+      "displayName": "ROCSTA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1912,
+          "modelName": "ROCSTA Véhicule tout terrain à carrosserie ouverte (AM102)",
+          "modelYearFrom": "1989-11-01",
+          "modelYearTo": "1999-12-01"
+        },
+        {
+          "modelId": 10839,
+          "modelName": "ROCSTA Véhicule tout terrain fermé (AM102)",
+          "modelYearFrom": "1989-11-01",
+          "modelYearTo": "1998-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 879,
+      "manufacturerName": "ASIA MOTORS",
+      "groupKey": "TOWNER",
+      "displayName": "TOWNER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6187,
+          "modelName": "TOWNER Autobus/Autocar (AS84, AS85)",
+          "modelYearFrom": "1992-07-01",
+          "modelYearTo": "2002-12-01"
+        },
+        {
+          "modelId": 6188,
+          "modelName": "TOWNER Fourgon (AS84, AS85)",
+          "modelYearFrom": "1992-07-01",
+          "modelYearTo": "2003-09-01"
+        },
+        {
+          "modelId": 36941,
+          "modelName": "TOWNER Camion plate-forme/Châssis (AS84, AS85)",
+          "modelYearFrom": "1992-07-01",
+          "modelYearTo": "2003-09-01"
+        }
+      ]
+    }
+  ]
+}

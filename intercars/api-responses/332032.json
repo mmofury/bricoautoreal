@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "332032",
+      "index": "IMP19175",
+      "tecDoc": "19175",
+      "tecDocProd": "331",
+      "articleNumber": "19175",
+      "brand": "IMPERGOM",
+      "shortDescription": "Heater Hose",
+      "description": "Heater hose (19mm) fits: FIAT MAREA, MULTIPLA 1.9D 04.99-06.10",
+      "customsCode": "40094200",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_9217",
+          "primary": true,
+          "name": {
+            "en": "Heater Hose"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1779",
+          "primary": false,
+          "name": {
+            "en": "Hose, heat exchanger (heating)"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "D214CC",
+      "index": "03.9302-9302.2",
+      "tecDoc": "03.9302-9302.2",
+      "tecDocProd": "3",
+      "articleNumber": "03.9302-9302.2",
+      "brand": "ATE",
+      "shortDescription": "Devices for working fluids and fuels",
+      "description": "Collection bottle, application: brake fluid, 2L, fluid for FB30S ATE",
+      "eans": [
+        "4006633344388"
+      ],
+      "packageWeight": "0,830",
+      "packageWidth": "14,000",
+      "packageDepth": "14,600",
+      "packageHeight": "37,000",
+      "customsCode": "90319000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_91773",
+          "primary": true,
+          "name": {
+            "en": "Devices for working fluids and fuels"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_2014",
+          "primary": false,
+          "name": {
+            "en": "Collector Can, brake bleeding"
+          }
+        }
+      ]
+    }
+  ]
+}

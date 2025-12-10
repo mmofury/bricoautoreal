@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H17THQ",
+      "index": "FE196681",
+      "tecDoc": "196681",
+      "tecDocProd": "101",
+      "articleNumber": "196681",
+      "brand": "FEBI",
+      "shortDescription": "Switch, steering column adjustment",
+      "description": "Switch (number of pins 2) fits: RVI C, K, T, TBH, TRACER 01.77-",
+      "customsCode": "85365011",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_6145",
+          "primary": true,
+          "name": {
+            "en": "Switch, steering column adjustment"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_7990",
+          "primary": false,
+          "name": {
+            "en": "Control Unit, steering column switch"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.319Z",
+  "manufacturer": "HONDA (DONGFENG)",
+  "countGroups": 14,
+  "groups": [
+    {
+      "manufacturerId": 3126,
+      "manufacturerName": "HONDA (DONGFENG)",
+      "groupKey": "CIVIC",
+      "displayName": "CIVIC",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6511,
+          "modelName": "CIVIC VIII (FA_)",
+          "modelYearFrom": "2006-04-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 36376,
+          "modelName": "CIVIC IX (FB_)",
+          "modelYearFrom": "2011-10-01",
+          "modelYearTo": "2016-12-01"
+        },
+        {
+          "modelId": 36741,
+          "modelName": "CIVIC X (FC_)",
+          "modelYearFrom": "2016-04-01",
+          "modelYearTo": "2021-09-01"
+        },
+        {
+          "modelId": 40981,
+          "modelName": "CIVIC X (FK_)",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42423,
+          "modelName": "CIVIC XI A trois volumes (FE_)",
+          "modelYearFrom": "2021-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43863,
+          "modelName": "CIVIC XI Berline bicorps trois ou cinq portes (FL_)",
+          "modelYearFrom": "2022-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3126,
+      "manufacturerName": "HONDA (DONGFENG)",
+      "groupKey": "CR",
+      "displayName": "CR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6512,
+          "modelName": "CR-V (RE_)",
+          "modelYearFrom": "2007-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 6595,
+          "modelName": "CR-V (RD_)",
+          "modelYearFrom": "2004-06-01",
+          "modelYearTo": "2007-02-01"
+        },
+        {
+          "modelId": 11126,
+          "modelName": "CR-V (RM_)",
+          "modelYearFrom": "2012-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38092,
+          "modelName": "CR-V (RT_, RW_, RY_)",
+          "modelYearFrom": "2017-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43627,
+          "modelName": "CR-V (RS_)",
+          "modelYearFrom": "2022-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3126,
+      "manufacturerName": "HONDA (DONGFENG)",
+      "groupKey": "E",
+      "displayName": "E",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42906,
+          "modelName": "E:NS1 (RS_)",
+          "modelYearFrom": "2022-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 90004,
+          "modelName": "E:NS2 (RM_)",
+          "modelYearFrom": "2024-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3126,
+      "manufacturerName": "HONDA (DONGFENG)",
+      "groupKey": "ELYSION",
+      "displayName": "ELYSION",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10831,
+          "modelName": "ELYSION (RR_)",
+          "modelYearFrom": "2012-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 36292,
+          "modelName": "ELYSION (RR_)",
+          "modelYearFrom": "2016-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3126,
+      "manufacturerName": "HONDA (DONGFENG)",
+      "groupKey": "ENVIX",
+      "displayName": "ENVIX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39338,
+          "modelName": "ENVIX (FS_)",
+          "modelYearFrom": "2019-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3126,
+      "manufacturerName": "HONDA (DONGFENG)",
+      "groupKey": "GIENIA",
+      "displayName": "GIENIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37475,
+          "modelName": "GIENIA (GJ_)",
+          "modelYearFrom": "2016-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3126,
+      "manufacturerName": "HONDA (DONGFENG)",
+      "groupKey": "GREIZ",
+      "displayName": "GREIZ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14806,
+          "modelName": "GREIZ (GJ_)",
+          "modelYearFrom": "2015-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3126,
+      "manufacturerName": "HONDA (DONGFENG)",
+      "groupKey": "HR",
+      "displayName": "HR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44225,
+          "modelName": "HR-V (RZ_)",
+          "modelYearFrom": "2023-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3126,
+      "manufacturerName": "HONDA (DONGFENG)",
+      "groupKey": "INSPIRE",
+      "displayName": "INSPIRE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39092,
+          "modelName": "INSPIRE (CV_)",
+          "modelYearFrom": "2018-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44589,
+          "modelName": "INSPIRE (CU_)",
+          "modelYearFrom": "2023-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3126,
+      "manufacturerName": "HONDA (DONGFENG)",
+      "groupKey": "JADE",
+      "displayName": "JADE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11784,
+          "modelName": "JADE Monospace (FR_)",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3126,
+      "manufacturerName": "HONDA (DONGFENG)",
+      "groupKey": "LIFE",
+      "displayName": "LIFE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41684,
+          "modelName": "LIFE (GS_)",
+          "modelYearFrom": "2020-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3126,
+      "manufacturerName": "HONDA (DONGFENG)",
+      "groupKey": "SPIRIOR",
+      "displayName": "SPIRIOR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8164,
+          "modelName": "SPIRIOR (CU_)",
+          "modelYearFrom": "2009-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13349,
+          "modelName": "SPIRIOR (CU_)",
+          "modelYearFrom": "2014-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3126,
+      "manufacturerName": "HONDA (DONGFENG)",
+      "groupKey": "UR",
+      "displayName": "UR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37848,
+          "modelName": "UR-V (TG_)",
+          "modelYearFrom": "2017-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3126,
+      "manufacturerName": "HONDA (DONGFENG)",
+      "groupKey": "XR",
+      "displayName": "XR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13348,
+          "modelName": "XR-V (RU_)",
+          "modelYearFrom": "2014-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43546,
+          "modelName": "XR-V (RV_)",
+          "modelYearFrom": "2022-08-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Capteur anti-buée",
+  "searchText": "Capteur anti-buée",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:14:41.316Z",
+  "productId": 4847,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Capteurs": {
+          "categoryId": null,
+          "categoryName": "Capteurs",
+          "level": 2,
+          "children": {
+            "Capteur anti-buée": {
+              "categoryId": 102747,
+              "categoryName": "Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 4847
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Capteurs (Niveau 2)\n        └── Sensors [ID: 102747] (Niveau 2) → ProductId: 4847",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Capteurs",
+        "Sensors"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        102747
+      ],
+      "finalCategoryId": 102747,
+      "productId": 4847
+    }
+  ],
+  "productIdsInArbo": [
+    4847
+  ],
+  "matchedProductIds": [
+    4847
+  ]
+}

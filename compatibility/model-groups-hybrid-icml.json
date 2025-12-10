@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.334Z",
+  "manufacturer": "ICML",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 3507,
+      "manufacturerName": "ICML",
+      "groupKey": "EXTREME",
+      "displayName": "EXTREME",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13856,
+          "modelName": "EXTREME",
+          "modelYearFrom": "2012-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3507,
+      "manufacturerName": "ICML",
+      "groupKey": "RHINO",
+      "displayName": "RHINO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8960,
+          "modelName": "RHINO",
+          "modelYearFrom": "2006-01-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

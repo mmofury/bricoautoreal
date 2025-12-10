@@ -1,0 +1,69 @@
+{
+  "productName": "Système commande d´embrayage",
+  "searchText": "Système commande d´embrayage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:23:49.399Z",
+  "productId": 3825,
+  "arborescence": {
+    "Embrayage / composants": {
+      "categoryId": 100050,
+      "categoryName": "Embrayage / composants",
+      "level": 1,
+      "children": {
+        "Commande d'embrayage": {
+          "categoryId": null,
+          "categoryName": "Commande d'embrayage",
+          "level": 2,
+          "children": {
+            "Système commande d´embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Système commande d´embrayage": {
+                  "categoryId": null,
+                  "categoryName": "Système commande d´embrayage",
+                  "level": 4,
+                  "children": {
+                    "Système commande d´embrayage": {
+                      "categoryId": 102754,
+                      "categoryName": "Clutch Actuation System",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3825
+                    }
+                  }
+                }
+              },
+              "productId": 3825
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Embrayage / composants [ID: 100050] (Niveau 1)\n    └── Commande d'embrayage (Niveau 2)\n        └── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 3825\n            └── Système commande d´embrayage (Niveau 4)\n                └── Clutch Actuation System [ID: 102754] (Niveau 3) → ProductId: 3825",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 3825
+    }
+  ],
+  "productIdsInArbo": [
+    3825
+  ],
+  "matchedProductIds": [
+    3825
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H15CZQ",
+      "index": "HEP21-5139",
+      "tecDoc": "21-5139",
+      "tecDocProd": "178",
+      "articleNumber": "21-5139",
+      "brand": "HEPU",
+      "shortDescription": "Regulating Valve, oil pressure",
+      "description": "Oil pressure return valve fits: LAND ROVER DEFENDER, DISCOVERY SPORT, DISCOVERY V, RANGE ROVER EVOQUE, RANGE ROVER IV, RANGE ROVER SPORT II, RANGE ROVER VELAR 2.0-2.0H 12.14-",
+      "customsCode": "84818099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4333",
+          "primary": false,
+          "name": {
+            "en": "Valve Piston, oil cooler"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_163",
+          "primary": true,
+          "name": {
+            "en": "Regulating Valve, oil pressure"
+          }
+        }
+      ]
+    }
+  ]
+}

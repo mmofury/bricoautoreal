@@ -1,0 +1,54 @@
+{
+  "productName": "Kit de montage, kit de câbles",
+  "searchText": "Kit de montage, kit de câbles",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:01:59.012Z",
+  "productId": 4321,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Kit/pièces de câble": {
+          "categoryId": null,
+          "categoryName": "Kit/pièces de câble",
+          "level": 2,
+          "children": {
+            "Kit de montage, kit de câbles": {
+              "categoryId": 103066,
+              "categoryName": "Cable Set/individual parts",
+              "level": 2,
+              "children": [],
+              "productId": 4321
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Kit/pièces de câble (Niveau 2)\n        └── Cable Set/individual parts [ID: 103066] (Niveau 2) → ProductId: 4321",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Kit/pièces de câble",
+        "Cable Set/individual parts"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        103066
+      ],
+      "finalCategoryId": 103066,
+      "productId": 4321
+    }
+  ],
+  "productIdsInArbo": [
+    4321
+  ],
+  "matchedProductIds": [
+    4321
+  ]
+}

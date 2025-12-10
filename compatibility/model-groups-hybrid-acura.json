@@ -1,0 +1,439 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.146Z",
+  "manufacturer": "ACURA",
+  "countGroups": 18,
+  "groups": [
+    {
+      "manufacturerId": 1505,
+      "manufacturerName": "ACURA",
+      "groupKey": "CL",
+      "displayName": "CL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5953,
+          "modelName": "CL Coupé",
+          "modelYearFrom": "1996-10-01",
+          "modelYearTo": "2003-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1505,
+      "manufacturerName": "ACURA",
+      "groupKey": "CSX",
+      "displayName": "CSX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30003,
+          "modelName": "CSX A trois volumes",
+          "modelYearFrom": "2005-09-01",
+          "modelYearTo": "2010-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1505,
+      "manufacturerName": "ACURA",
+      "groupKey": "EL",
+      "displayName": "EL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30004,
+          "modelName": "EL A trois volumes",
+          "modelYearFrom": "1996-09-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 34906,
+          "modelName": "EL A trois volumes",
+          "modelYearFrom": "2000-09-01",
+          "modelYearTo": "2005-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1505,
+      "manufacturerName": "ACURA",
+      "groupKey": "ILX",
+      "displayName": "ILX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10242,
+          "modelName": "ILX A trois volumes",
+          "modelYearFrom": "2012-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1505,
+      "manufacturerName": "ACURA",
+      "groupKey": "INTEGRA",
+      "displayName": "INTEGRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4401,
+          "modelName": "INTEGRA A trois volumes",
+          "modelYearFrom": "1985-01-01",
+          "modelYearTo": "1990-12-01"
+        },
+        {
+          "modelId": 4402,
+          "modelName": "INTEGRA Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1985-01-01",
+          "modelYearTo": "1990-12-01"
+        },
+        {
+          "modelId": 4403,
+          "modelName": "INTEGRA Coupé",
+          "modelYearFrom": "1985-01-01",
+          "modelYearTo": "1990-12-01"
+        },
+        {
+          "modelId": 6040,
+          "modelName": "INTEGRA Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1990-10-01",
+          "modelYearTo": "1993-09-01"
+        },
+        {
+          "modelId": 6041,
+          "modelName": "INTEGRA A trois volumes",
+          "modelYearFrom": "1990-10-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 6042,
+          "modelName": "INTEGRA Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1993-10-01",
+          "modelYearTo": "2001-09-01"
+        },
+        {
+          "modelId": 6043,
+          "modelName": "INTEGRA A trois volumes",
+          "modelYearFrom": "1993-10-01",
+          "modelYearTo": "2001-09-01"
+        },
+        {
+          "modelId": 6044,
+          "modelName": "INTEGRA Coupé",
+          "modelYearFrom": "1993-09-01",
+          "modelYearTo": "2001-09-01"
+        },
+        {
+          "modelId": 43119,
+          "modelName": "INTEGRA Berline bicorps trois ou cinq portes (DE_)",
+          "modelYearFrom": "2022-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1505,
+      "manufacturerName": "ACURA",
+      "groupKey": "LEGEND",
+      "displayName": "LEGEND",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4404,
+          "modelName": "LEGEND",
+          "modelYearFrom": "1986-01-01",
+          "modelYearTo": "1991-08-01"
+        },
+        {
+          "modelId": 4405,
+          "modelName": "LEGEND Coupé",
+          "modelYearFrom": "1987-01-01",
+          "modelYearTo": "1991-08-01"
+        },
+        {
+          "modelId": 4406,
+          "modelName": "LEGEND II",
+          "modelYearFrom": "1991-08-01",
+          "modelYearTo": "1996-08-01"
+        },
+        {
+          "modelId": 4407,
+          "modelName": "LEGEND II Coupé",
+          "modelYearFrom": "1991-08-01",
+          "modelYearTo": "1996-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1505,
+      "manufacturerName": "ACURA",
+      "groupKey": "MDX",
+      "displayName": "MDX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6092,
+          "modelName": "MDX (YD1)",
+          "modelYearFrom": "2000-08-01",
+          "modelYearTo": "2006-09-01"
+        },
+        {
+          "modelId": 10059,
+          "modelName": "MDX (YD2)",
+          "modelYearFrom": "2006-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 12814,
+          "modelName": "MDX (YD_)",
+          "modelYearFrom": "2013-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42524,
+          "modelName": "MDX (YD_, YE_)",
+          "modelYearFrom": "2021-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1505,
+      "manufacturerName": "ACURA",
+      "groupKey": "NSX",
+      "displayName": "NSX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4409,
+          "modelName": "NSX",
+          "modelYearFrom": "1990-01-01",
+          "modelYearTo": "2005-12-01"
+        },
+        {
+          "modelId": 4410,
+          "modelName": "NSX Targa (NA1)",
+          "modelYearFrom": "1995-01-01",
+          "modelYearTo": "2005-12-01"
+        },
+        {
+          "modelId": 36530,
+          "modelName": "NSX",
+          "modelYearFrom": "2016-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1505,
+      "manufacturerName": "ACURA",
+      "groupKey": "RDX",
+      "displayName": "RDX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7385,
+          "modelName": "RDX",
+          "modelYearFrom": "2006-04-01",
+          "modelYearTo": "2012-12-01"
+        },
+        {
+          "modelId": 10307,
+          "modelName": "RDX",
+          "modelYearFrom": "2012-01-01",
+          "modelYearTo": "2018-05-01"
+        },
+        {
+          "modelId": 40400,
+          "modelName": "RDX (TC_)",
+          "modelYearFrom": "2018-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1505,
+      "manufacturerName": "ACURA",
+      "groupKey": "RL",
+      "displayName": "RL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6123,
+          "modelName": "RL",
+          "modelYearFrom": "1995-10-01",
+          "modelYearTo": "2004-09-01"
+        },
+        {
+          "modelId": 6124,
+          "modelName": "RL",
+          "modelYearFrom": "2004-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1505,
+      "manufacturerName": "ACURA",
+      "groupKey": "RLX",
+      "displayName": "RLX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11775,
+          "modelName": "RLX",
+          "modelYearFrom": "2013-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1505,
+      "manufacturerName": "ACURA",
+      "groupKey": "RSX",
+      "displayName": "RSX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6129,
+          "modelName": "RSX Coupé (DC_)",
+          "modelYearFrom": "2001-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1505,
+      "manufacturerName": "ACURA",
+      "groupKey": "SLX",
+      "displayName": "SLX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6153,
+          "modelName": "SLX",
+          "modelYearFrom": "1995-11-01",
+          "modelYearTo": "1999-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1505,
+      "manufacturerName": "ACURA",
+      "groupKey": "TL",
+      "displayName": "TL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6180,
+          "modelName": "TL",
+          "modelYearFrom": "1995-06-01",
+          "modelYearTo": "1998-09-01"
+        },
+        {
+          "modelId": 6181,
+          "modelName": "TL",
+          "modelYearFrom": "1998-10-01",
+          "modelYearTo": "2003-09-01"
+        },
+        {
+          "modelId": 6182,
+          "modelName": "TL (UC_)",
+          "modelYearFrom": "2003-10-01",
+          "modelYearTo": "2012-11-01"
+        },
+        {
+          "modelId": 10306,
+          "modelName": "TL (UA8, UA9)",
+          "modelYearFrom": "2009-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1505,
+      "manufacturerName": "ACURA",
+      "groupKey": "TLX",
+      "displayName": "TLX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13181,
+          "modelName": "TLX",
+          "modelYearFrom": "2014-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41870,
+          "modelName": "TLX (UB_)",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1505,
+      "manufacturerName": "ACURA",
+      "groupKey": "TSX",
+      "displayName": "TSX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6190,
+          "modelName": "TSX (CL_)",
+          "modelYearFrom": "2003-10-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 10305,
+          "modelName": "TSX (CU_)",
+          "modelYearFrom": "2009-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13020,
+          "modelName": "TSX Break (CW_)",
+          "modelYearFrom": "2009-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1505,
+      "manufacturerName": "ACURA",
+      "groupKey": "VIGOR",
+      "displayName": "VIGOR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6207,
+          "modelName": "VIGOR",
+          "modelYearFrom": "1991-09-01",
+          "modelYearTo": "1994-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1505,
+      "manufacturerName": "ACURA",
+      "groupKey": "ZDX",
+      "displayName": "ZDX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11379,
+          "modelName": "ZDX",
+          "modelYearFrom": "2010-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45357,
+          "modelName": "ZDX (HM, HN)",
+          "modelYearFrom": "2023-09-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

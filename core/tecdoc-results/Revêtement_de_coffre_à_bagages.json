@@ -1,0 +1,218 @@
+{
+  "productName": "Revêtement de coffre à bagages",
+  "searchText": "Revêtement de coffre à bagages",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:09:36.307Z",
+  "productId": 1347,
+  "arborescence": {
+    "Accessoires": {
+      "categoryId": 100733,
+      "categoryName": "Accessoires",
+      "level": 1,
+      "children": {
+        "Coffre/chargement/plateau de chargement": {
+          "categoryId": null,
+          "categoryName": "Coffre/chargement/plateau de chargement",
+          "level": 2,
+          "children": {
+            "Bande de retenue, revêtement de coffre à bagages": {
+              "categoryId": 100862,
+              "categoryName": "Boot/Cargo Area/Loading surface",
+              "level": 2,
+              "children": [],
+              "productId": 6311
+            },
+            "Revêtement de coffre à bagages": {
+              "categoryId": 100862,
+              "categoryName": "Boot/Cargo Area/Loading surface",
+              "level": 2,
+              "children": [],
+              "productId": 1347
+            }
+          }
+        }
+      }
+    },
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Pièces de carrosserie/ailes/pares-chocs": {
+          "categoryId": null,
+          "categoryName": "Pièces de carrosserie/ailes/pares-chocs",
+          "level": 2,
+          "children": {
+            "Bande de retenue, revêtement de coffre à bagages": {
+              "categoryId": 100743,
+              "categoryName": "Body Parts/Wing/Bumper",
+              "level": 2,
+              "children": {
+                "Recouvrement/Capuchons": {
+                  "categoryId": null,
+                  "categoryName": "Recouvrement/Capuchons",
+                  "level": 4,
+                  "children": {
+                    "Bande de retenue, revêtement de coffre à bagages": {
+                      "categoryId": 100699,
+                      "categoryName": "Covers/Caps",
+                      "level": 3,
+                      "children": [],
+                      "productId": 6311
+                    }
+                  }
+                }
+              },
+              "productId": 6311
+            },
+            "Revêtement de coffre à bagages": {
+              "categoryId": 100743,
+              "categoryName": "Body Parts/Wing/Bumper",
+              "level": 2,
+              "children": {
+                "Recouvrement/Capuchons": {
+                  "categoryId": null,
+                  "categoryName": "Recouvrement/Capuchons",
+                  "level": 4,
+                  "children": {
+                    "Revêtement de coffre à bagages": {
+                      "categoryId": 100699,
+                      "categoryName": "Covers/Caps",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1347
+                    }
+                  }
+                }
+              },
+              "productId": 1347
+            }
+          }
+        }
+      }
+    },
+    "Équipement intérieur": {
+      "categoryId": 100341,
+      "categoryName": "Équipement intérieur",
+      "level": 1,
+      "children": {
+        "Coffre à bagages / compartiment de chargement": {
+          "categoryId": null,
+          "categoryName": "Coffre à bagages / compartiment de chargement",
+          "level": 2,
+          "children": {
+            "Bande de retenue, revêtement de coffre à bagages": {
+              "categoryId": 102697,
+              "categoryName": "Boot",
+              "level": 2,
+              "children": [],
+              "productId": 6311
+            },
+            "Revêtement de coffre à bagages": {
+              "categoryId": 102697,
+              "categoryName": "Boot",
+              "level": 2,
+              "children": [],
+              "productId": 1347
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Accessoires [ID: 100733] (Niveau 1)\n│   └── Coffre/chargement/plateau de chargement (Niveau 2)\n│       ├── Boot/Cargo Area/Loading surface [ID: 100862] (Niveau 2) → ProductId: 6311\n│       └── Boot/Cargo Area/Loading surface [ID: 100862] (Niveau 2) → ProductId: 1347\n\n├── Carrosserie [ID: 100001] (Niveau 1)\n│   └── Pièces de carrosserie/ailes/pares-chocs (Niveau 2)\n│       ├── Body Parts/Wing/Bumper [ID: 100743] (Niveau 2) → ProductId: 6311\n│       │   └── Recouvrement/Capuchons (Niveau 4)\n│       │       └── Covers/Caps [ID: 100699] (Niveau 3) → ProductId: 6311\n│       └── Body Parts/Wing/Bumper [ID: 100743] (Niveau 2) → ProductId: 1347\n│           └── Recouvrement/Capuchons (Niveau 4)\n│               └── Covers/Caps [ID: 100699] (Niveau 3) → ProductId: 1347\n\n└── Équipement intérieur [ID: 100341] (Niveau 1)\n    └── Coffre à bagages / compartiment de chargement (Niveau 2)\n        ├── Boot [ID: 102697] (Niveau 2) → ProductId: 6311\n        └── Boot [ID: 102697] (Niveau 2) → ProductId: 1347",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Accessoires",
+        "Coffre/chargement/plateau de chargement",
+        "Boot/Cargo Area/Loading surface"
+      ],
+      "categoryIds": [
+        100733,
+        null,
+        100862
+      ],
+      "finalCategoryId": 100862,
+      "productId": 6311
+    },
+    {
+      "path": [
+        "Accessoires",
+        "Coffre/chargement/plateau de chargement",
+        "Boot/Cargo Area/Loading surface"
+      ],
+      "categoryIds": [
+        100733,
+        null,
+        100862
+      ],
+      "finalCategoryId": 100862,
+      "productId": 1347
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Pièces de carrosserie/ailes/pares-chocs",
+        "Body Parts/Wing/Bumper"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100743
+      ],
+      "finalCategoryId": 100743,
+      "productId": 6311
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Pièces de carrosserie/ailes/pares-chocs",
+        "Body Parts/Wing/Bumper"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100743
+      ],
+      "finalCategoryId": 100743,
+      "productId": 1347
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Coffre à bagages / compartiment de chargement",
+        "Boot"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102697
+      ],
+      "finalCategoryId": 102697,
+      "productId": 6311
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Coffre à bagages / compartiment de chargement",
+        "Boot"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102697
+      ],
+      "finalCategoryId": 102697,
+      "productId": 1347
+    }
+  ],
+  "productIdsInArbo": [
+    1347,
+    6311
+  ],
+  "matchedProductIds": [
+    1347
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "productName": "Anneau de remorquage, dispositif d'attelage",
+  "searchText": "Anneau de remorquage, dispositif d'attelage",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": false,
+      "arborescence": {
+        "Dispositif d'attelage/d'accouplement": {
+          "categoryId": 200941,
+          "categoryName": "Dispositif d'attelage/d'accouplement",
+          "level": 1,
+          "children": {
+            "Dispositif d'accouplement": {
+              "categoryId": null,
+              "categoryName": "Dispositif d'accouplement",
+              "level": 2,
+              "children": {
+                "Anneau de remorquage, dispositif d'attelage": {
+                  "categoryId": 200946,
+                  "categoryName": "Pulling Device",
+                  "level": 2,
+                  "children": [],
+                  "productId": 1806
+                },
+                "Douille d'anneau de remorquage, dispositif d'attelage": {
+                  "categoryId": 200946,
+                  "categoryName": "Pulling Device",
+                  "level": 2,
+                  "children": [],
+                  "productId": 1807
+                }
+              }
+            }
+          }
+        },
+        "Équipement / accessoires": {
+          "categoryId": 200067,
+          "categoryName": "Équipement / accessoires",
+          "level": 1,
+          "children": {
+            "Dispositif d'attelage/d'accouplement": {
+              "categoryId": null,
+              "categoryName": "Dispositif d'attelage/d'accouplement",
+              "level": 2,
+              "children": {
+                "Anneau de remorquage, dispositif d'attelage": {
+                  "categoryId": 200796,
+                  "categoryName": "Trailer Hitch/Pulling Device",
+                  "level": 2,
+                  "children": {
+                    "Dispositif d'attelage": {
+                      "categoryId": null,
+                      "categoryName": "Dispositif d'attelage",
+                      "level": 4,
+                      "children": {
+                        "Anneau de remorquage, dispositif d'attelage": {
+                          "categoryId": 200976,
+                          "categoryName": "Pulling Device",
+                          "level": 3,
+                          "children": [],
+                          "productId": 1806
+                        }
+                      }
+                    }
+                  },
+                  "productId": 1806
+                },
+                "Douille d'anneau de remorquage, dispositif d'attelage": {
+                  "categoryId": 200796,
+                  "categoryName": "Trailer Hitch/Pulling Device",
+                  "level": 2,
+                  "children": {
+                    "Dispositif d'attelage": {
+                      "categoryId": null,
+                      "categoryName": "Dispositif d'attelage",
+                      "level": 4,
+                      "children": {
+                        "Douille d'anneau de remorquage, dispositif d'attelage": {
+                          "categoryId": 200976,
+                          "categoryName": "Pulling Device",
+                          "level": 3,
+                          "children": [],
+                          "productId": 1807
+                        }
+                      }
+                    }
+                  },
+                  "productId": 1807
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "├── Dispositif d'attelage/d'accouplement [ID: 200941] (Niveau 1)\n│   └── Dispositif d'accouplement (Niveau 2)\n│       ├── Pulling Device [ID: 200946] (Niveau 2) → ProductId: 1806\n│       └── Pulling Device [ID: 200946] (Niveau 2) → ProductId: 1807\n\n└── Équipement / accessoires [ID: 200067] (Niveau 1)\n    └── Dispositif d'attelage/d'accouplement (Niveau 2)\n        ├── Trailer Hitch/Pulling Device [ID: 200796] (Niveau 2) → ProductId: 1806\n        │   └── Dispositif d'attelage (Niveau 4)\n        │       └── Pulling Device [ID: 200976] (Niveau 3) → ProductId: 1806\n        └── Trailer Hitch/Pulling Device [ID: 200796] (Niveau 2) → ProductId: 1807\n            └── Dispositif d'attelage (Niveau 4)\n                └── Pulling Device [ID: 200976] (Niveau 3) → ProductId: 1807",
+      "productIdsInArbo": [
+        1806,
+        1807
+      ]
+    },
+    {
+      "typeId": 3,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 4,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 5,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 6,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 7,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 8,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 9,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 10,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 11,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 12,
+      "found": false,
+      "hasMatch": false
+    }
+  ],
+  "timestamp": "2025-12-03T09:40:50.889Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": false
+  }
+}

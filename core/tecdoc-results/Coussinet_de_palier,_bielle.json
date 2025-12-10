@@ -1,0 +1,84 @@
+{
+  "productName": "Coussinet de palier, bielle",
+  "searchText": "Coussinet de palier, bielle",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:26:07.877Z",
+  "productId": 584,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Système bielle-manivelle": {
+          "categoryId": null,
+          "categoryName": "Système bielle-manivelle",
+          "level": 2,
+          "children": {
+            "Coussinet de palier, bielle": {
+              "categoryId": 100515,
+              "categoryName": "Crankshaft Drive",
+              "level": 2,
+              "children": {
+                "Bielle": {
+                  "categoryId": null,
+                  "categoryName": "Bielle",
+                  "level": 4,
+                  "children": {
+                    "Coussinet de palier, bielle": {
+                      "categoryId": 100519,
+                      "categoryName": "Connecting Rod",
+                      "level": 3,
+                      "children": {
+                        "Coussinets de bielle": {
+                          "categoryId": null,
+                          "categoryName": "Coussinets de bielle",
+                          "level": 6,
+                          "children": {
+                            "Coussinet de palier, bielle": {
+                              "categoryId": 100527,
+                              "categoryName": "Small End Bushes",
+                              "level": 4,
+                              "children": [],
+                              "productId": 584
+                            }
+                          }
+                        }
+                      },
+                      "productId": 584
+                    }
+                  }
+                }
+              },
+              "productId": 584
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Système bielle-manivelle (Niveau 2)\n        └── Crankshaft Drive [ID: 100515] (Niveau 2) → ProductId: 584\n            └── Bielle (Niveau 4)\n                └── Connecting Rod [ID: 100519] (Niveau 3) → ProductId: 584\n                    └── Coussinets de bielle (Niveau 6)\n                        └── Small End Bushes [ID: 100527] (Niveau 4) → ProductId: 584",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Crankshaft Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100515
+      ],
+      "finalCategoryId": 100515,
+      "productId": 584
+    }
+  ],
+  "productIdsInArbo": [
+    584
+  ],
+  "matchedProductIds": [
+    584
+  ]
+}

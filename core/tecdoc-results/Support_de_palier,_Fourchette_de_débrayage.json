@@ -1,0 +1,69 @@
+{
+  "productName": "Support de palier, Fourchette de débrayage",
+  "searchText": "Support de palier, Fourchette de débrayage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:19:50.223Z",
+  "productId": 4825,
+  "arborescence": {
+    "Embrayage / composants": {
+      "categoryId": 100050,
+      "categoryName": "Embrayage / composants",
+      "level": 1,
+      "children": {
+        "Butée d’embrayage/butée hydraulique": {
+          "categoryId": null,
+          "categoryName": "Butée d’embrayage/butée hydraulique",
+          "level": 2,
+          "children": {
+            "Support de palier, Fourchette de débrayage": {
+              "categoryId": 100054,
+              "categoryName": "Clutch Release Bearing/Central Slave Cylinder",
+              "level": 2,
+              "children": {
+                "Fourchette de débrayage": {
+                  "categoryId": null,
+                  "categoryName": "Fourchette de débrayage",
+                  "level": 4,
+                  "children": {
+                    "Support de palier, Fourchette de débrayage": {
+                      "categoryId": 102080,
+                      "categoryName": "Release Fork",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4825
+                    }
+                  }
+                }
+              },
+              "productId": 4825
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Embrayage / composants [ID: 100050] (Niveau 1)\n    └── Butée d’embrayage/butée hydraulique (Niveau 2)\n        └── Clutch Release Bearing/Central Slave Cylinder [ID: 100054] (Niveau 2) → ProductId: 4825\n            └── Fourchette de débrayage (Niveau 4)\n                └── Release Fork [ID: 102080] (Niveau 3) → ProductId: 4825",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Embrayage / composants",
+        "Butée d’embrayage/butée hydraulique",
+        "Clutch Release Bearing/Central Slave Cylinder"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100054
+      ],
+      "finalCategoryId": 100054,
+      "productId": 4825
+    }
+  ],
+  "productIdsInArbo": [
+    4825
+  ],
+  "matchedProductIds": [
+    4825
+  ]
+}

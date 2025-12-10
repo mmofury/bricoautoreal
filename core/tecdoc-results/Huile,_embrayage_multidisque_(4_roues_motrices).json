@@ -1,0 +1,54 @@
+{
+  "productName": "Huile, embrayage multidisque (4 roues motrices)",
+  "searchText": "Huile, embrayage multidisque (4 roues motrices)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:45:08.340Z",
+  "productId": 5685,
+  "arborescence": {
+    "Entraînement des essieux": {
+      "categoryId": 100400,
+      "categoryName": "Entraînement des essieux",
+      "level": 1,
+      "children": {
+        "Huiles": {
+          "categoryId": null,
+          "categoryName": "Huiles",
+          "level": 2,
+          "children": {
+            "Huile, embrayage multidisque (4 roues motrices)": {
+              "categoryId": 101996,
+              "categoryName": "Oil",
+              "level": 2,
+              "children": [],
+              "productId": 5685
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement des essieux [ID: 100400] (Niveau 1)\n    └── Huiles (Niveau 2)\n        └── Oil [ID: 101996] (Niveau 2) → ProductId: 5685",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des essieux",
+        "Huiles",
+        "Oil"
+      ],
+      "categoryIds": [
+        100400,
+        null,
+        101996
+      ],
+      "finalCategoryId": 101996,
+      "productId": 5685
+    }
+  ],
+  "productIdsInArbo": [
+    5685
+  ],
+  "matchedProductIds": [
+    5685
+  ]
+}

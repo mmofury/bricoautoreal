@@ -1,0 +1,43 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "AE6C98",
+      "index": "MER 15224518",
+      "tecDoc": "15224518",
+      "tecDocProd": "349",
+      "articleNumber": "15224518",
+      "brand": "MERITOR",
+      "shortDescription": "Cover Sheet, brake drum",
+      "description": "Brake drum cover fits: ROR fits: MERITOR LM, LMC",
+      "gtuCode": "GTU_07",
+      "eans": [
+        "15224518"
+      ],
+      "packageWeight": "0,300",
+      "packageWidth": "19,000",
+      "packageDepth": "22,000",
+      "packageHeight": "7,000",
+      "customsCode": "87083099",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1502",
+          "primary": false,
+          "name": {
+            "en": "Accessory Kit, brake shoes"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1661",
+          "primary": true,
+          "name": {
+            "en": "Cover Sheet, brake drum"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "productName": "Appareil de commande, commande de vitesse électropneumatique",
+  "productId": 2295,
+  "searchText": "Appareil de commande, commande de vitesse électropneumatique",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Boîte de vitesses": {
+          "categoryId": 200054,
+          "categoryName": "Boîte de vitesses",
+          "level": 1,
+          "children": {
+            "Boîte de vitesse manuelle / pièces de montage": {
+              "categoryId": null,
+              "categoryName": "Boîte de vitesse manuelle / pièces de montage",
+              "level": 2,
+              "children": {
+                "Appareil de commande, commande de vitesse électropneumatique": {
+                  "categoryId": 200095,
+                  "categoryName": "Manual Transmission/ Parts",
+                  "level": 2,
+                  "children": {
+                    "Contrôle / hydraulique": {
+                      "categoryId": null,
+                      "categoryName": "Contrôle / hydraulique",
+                      "level": 4,
+                      "children": {
+                        "Appareil de commande, commande de vitesse électropneumatique": {
+                          "categoryId": 706669,
+                          "categoryName": "Transmission Control/Hydraulics",
+                          "level": 3,
+                          "children": [],
+                          "productId": 2295
+                        }
+                      }
+                    }
+                  },
+                  "productId": 2295
+                }
+              }
+            }
+          }
+        },
+        "Système électrique": {
+          "categoryId": 200064,
+          "categoryName": "Système électrique",
+          "level": 1,
+          "children": {
+            "Appareils de commande": {
+              "categoryId": null,
+              "categoryName": "Appareils de commande",
+              "level": 2,
+              "children": {
+                "Appareil de commande, commande de vitesse électropneumatique": {
+                  "categoryId": 202876,
+                  "categoryName": "Controls",
+                  "level": 2,
+                  "children": [],
+                  "productId": 2295
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "├── Boîte de vitesses [ID: 200054] (Niveau 1)\n│   └── Boîte de vitesse manuelle / pièces de montage (Niveau 2)\n│       └── Manual Transmission/ Parts [ID: 200095] (Niveau 2) → ProductId: 2295\n│           └── Contrôle / hydraulique (Niveau 4)\n│               └── Transmission Control/Hydraulics [ID: 706669] (Niveau 3) → ProductId: 2295\n\n└── Système électrique [ID: 200064] (Niveau 1)\n    └── Appareils de commande (Niveau 2)\n        └── Controls [ID: 202876] (Niveau 2) → ProductId: 2295",
+      "productIdsInArbo": [
+        2295
+      ],
+      "matchedProductIds": [
+        2295
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T09:41:47.954Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

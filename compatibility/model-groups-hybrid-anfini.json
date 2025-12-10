@@ -1,0 +1,70 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.157Z",
+  "manufacturer": "ANFINI",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 2848,
+      "manufacturerName": "ANFINI",
+      "groupKey": "MS6",
+      "displayName": "MS6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5653,
+          "modelName": "MS6 A trois volumes (GD_2)",
+          "modelYearFrom": "1987-08-01",
+          "modelYearTo": "1991-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2848,
+      "manufacturerName": "ANFINI",
+      "groupKey": "MS8",
+      "displayName": "MS8",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5655,
+          "modelName": "MS8 A trois volumes (GE12)",
+          "modelYearFrom": "1991-08-01",
+          "modelYearTo": "1995-07-01"
+        },
+        {
+          "modelId": 5656,
+          "modelName": "MS8 Coupé (GD_6, GE_2)",
+          "modelYearFrom": "1988-08-01",
+          "modelYearTo": "1995-07-01"
+        },
+        {
+          "modelId": 7095,
+          "modelName": "MS8 A trois volumes",
+          "modelYearFrom": "1994-08-01",
+          "modelYearTo": "1999-07-01"
+        },
+        {
+          "modelId": 7286,
+          "modelName": "MS8 Coupé (GE16)",
+          "modelYearFrom": "1994-08-01",
+          "modelYearTo": "1999-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2848,
+      "manufacturerName": "ANFINI",
+      "groupKey": "MS9",
+      "displayName": "MS9",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5657,
+          "modelName": "MS9 Berline bicorps trois ou cinq portes (GD_4)",
+          "modelYearFrom": "1987-08-01",
+          "modelYearTo": "1991-07-01"
+        }
+      ]
+    }
+  ]
+}

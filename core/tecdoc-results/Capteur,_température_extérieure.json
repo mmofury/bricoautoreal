@@ -1,0 +1,133 @@
+{
+  "productName": "Capteur, température extérieure",
+  "searchText": "Capteur, température extérieure",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:17:08.402Z",
+  "productId": 1186,
+  "arborescence": {
+    "Climatisation": {
+      "categoryId": 100243,
+      "categoryName": "Climatisation",
+      "level": 1,
+      "children": {
+        "Capteurs": {
+          "categoryId": null,
+          "categoryName": "Capteurs",
+          "level": 2,
+          "children": {
+            "Capteur, température extérieure": {
+              "categoryId": 100794,
+              "categoryName": "Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 2054
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Capteurs": {
+          "categoryId": null,
+          "categoryName": "Capteurs",
+          "level": 2,
+          "children": {
+            "Capteur, température extérieure": {
+              "categoryId": 102747,
+              "categoryName": "Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 2054
+            }
+          }
+        },
+        "Instruments": {
+          "categoryId": null,
+          "categoryName": "Instruments",
+          "level": 2,
+          "children": {
+            "Capteur, température extérieure": {
+              "categoryId": 100322,
+              "categoryName": "Instruments",
+              "level": 2,
+              "children": {
+                "Capteurs/Conatct": {
+                  "categoryId": null,
+                  "categoryName": "Capteurs/Conatct",
+                  "level": 4,
+                  "children": {
+                    "Capteur, température extérieure": {
+                      "categoryId": 100553,
+                      "categoryName": "Sensors/Switches",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1186
+                    }
+                  }
+                }
+              },
+              "productId": 1186
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Climatisation [ID: 100243] (Niveau 1)\n│   └── Capteurs (Niveau 2)\n│       └── Sensors [ID: 100794] (Niveau 2) → ProductId: 2054\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    ├── Capteurs (Niveau 2)\n    │   └── Sensors [ID: 102747] (Niveau 2) → ProductId: 2054\n    └── Instruments (Niveau 2)\n        └── Instruments [ID: 100322] (Niveau 2) → ProductId: 1186\n            └── Capteurs/Conatct (Niveau 4)\n                └── Sensors/Switches [ID: 100553] (Niveau 3) → ProductId: 1186",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Climatisation",
+        "Capteurs",
+        "Sensors"
+      ],
+      "categoryIds": [
+        100243,
+        null,
+        100794
+      ],
+      "finalCategoryId": 100794,
+      "productId": 2054
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Capteurs",
+        "Sensors"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        102747
+      ],
+      "finalCategoryId": 102747,
+      "productId": 2054
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Instruments",
+        "Instruments"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100322
+      ],
+      "finalCategoryId": 100322,
+      "productId": 1186
+    }
+  ],
+  "productIdsInArbo": [
+    1186,
+    2054
+  ],
+  "matchedProductIds": [
+    1186
+  ]
+}

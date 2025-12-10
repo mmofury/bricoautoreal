@@ -1,0 +1,119 @@
+{
+  "productName": "Pompe à eau auxiliaire (circuit d'eau de refroidiss.)",
+  "searchText": "Pompe à eau auxiliaire (circuit d'eau de refroidiss.)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:01:42.827Z",
+  "productId": 1351,
+  "arborescence": {
+    "Entraînement hybride/électrique": {
+      "categoryId": 706209,
+      "categoryName": "Entraînement hybride/électrique",
+      "level": 1,
+      "children": {
+        "Refroidissement": {
+          "categoryId": null,
+          "categoryName": "Refroidissement",
+          "level": 2,
+          "children": {
+            "Pompe à eau auxiliaire (circuit d'eau de refroidiss.)": {
+              "categoryId": 706210,
+              "categoryName": "Cooling System",
+              "level": 2,
+              "children": {
+                "Pompe à eau pour entraînement électrique": {
+                  "categoryId": null,
+                  "categoryName": "Pompe à eau pour entraînement électrique",
+                  "level": 4,
+                  "children": {
+                    "Pompe à eau auxiliaire (circuit d'eau de refroidiss.)": {
+                      "categoryId": 706706,
+                      "categoryName": "Water pump for electrical drive",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1351
+                    }
+                  }
+                }
+              },
+              "productId": 1351
+            }
+          }
+        }
+      }
+    },
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Pompe à eau / joint": {
+          "categoryId": null,
+          "categoryName": "Pompe à eau / joint",
+          "level": 2,
+          "children": {
+            "Pompe à eau auxiliaire (circuit d'eau de refroidiss.)": {
+              "categoryId": 100088,
+              "categoryName": "Water Pump/Gasket",
+              "level": 2,
+              "children": {
+                "Pompe à eau": {
+                  "categoryId": null,
+                  "categoryName": "Pompe à eau",
+                  "level": 4,
+                  "children": {
+                    "Pompe à eau auxiliaire (circuit d'eau de refroidiss.)": {
+                      "categoryId": 100091,
+                      "categoryName": "Water Pump",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1351
+                    }
+                  }
+                }
+              },
+              "productId": 1351
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Entraînement hybride/électrique [ID: 706209] (Niveau 1)\n│   └── Refroidissement (Niveau 2)\n│       └── Cooling System [ID: 706210] (Niveau 2) → ProductId: 1351\n│           └── Pompe à eau pour entraînement électrique (Niveau 4)\n│               └── Water pump for electrical drive [ID: 706706] (Niveau 3) → ProductId: 1351\n\n└── Refroidissement [ID: 100007] (Niveau 1)\n    └── Pompe à eau / joint (Niveau 2)\n        └── Water Pump/Gasket [ID: 100088] (Niveau 2) → ProductId: 1351\n            └── Pompe à eau (Niveau 4)\n                └── Water Pump [ID: 100091] (Niveau 3) → ProductId: 1351",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement hybride/électrique",
+        "Refroidissement",
+        "Cooling System"
+      ],
+      "categoryIds": [
+        706209,
+        null,
+        706210
+      ],
+      "finalCategoryId": 706210,
+      "productId": 1351
+    },
+    {
+      "path": [
+        "Refroidissement",
+        "Pompe à eau / joint",
+        "Water Pump/Gasket"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100088
+      ],
+      "finalCategoryId": 100088,
+      "productId": 1351
+    }
+  ],
+  "productIdsInArbo": [
+    1351
+  ],
+  "matchedProductIds": [
+    1351
+  ]
+}

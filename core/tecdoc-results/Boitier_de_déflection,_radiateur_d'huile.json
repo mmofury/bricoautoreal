@@ -1,0 +1,134 @@
+{
+  "productName": "Boitier de déflection, radiateur d'huile",
+  "searchText": "Boitier de déflection, radiateur d'huile",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:07:33.036Z",
+  "productId": 3761,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Lubrification": {
+          "categoryId": null,
+          "categoryName": "Lubrification",
+          "level": 2,
+          "children": {
+            "Boitier de déflection, radiateur d'huile": {
+              "categoryId": 100245,
+              "categoryName": "Lubrication",
+              "level": 2,
+              "children": {
+                "Radiateur d'huile / pièces de montage": {
+                  "categoryId": null,
+                  "categoryName": "Radiateur d'huile / pièces de montage",
+                  "level": 4,
+                  "children": {
+                    "Boitier de déflection, radiateur d'huile": {
+                      "categoryId": 100474,
+                      "categoryName": "Oil Cooler/Attachment Parts",
+                      "level": 3,
+                      "children": {
+                        "Radiateur d'huile": {
+                          "categoryId": null,
+                          "categoryName": "Radiateur d'huile",
+                          "level": 6,
+                          "children": {
+                            "Boitier de déflection, radiateur d'huile": {
+                              "categoryId": 100483,
+                              "categoryName": "Oil Cooler",
+                              "level": 4,
+                              "children": [],
+                              "productId": 3761
+                            }
+                          }
+                        }
+                      },
+                      "productId": 3761
+                    }
+                  }
+                }
+              },
+              "productId": 3761
+            }
+          }
+        }
+      }
+    },
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Radiateur d'eau/d'huile": {
+          "categoryId": null,
+          "categoryName": "Radiateur d'eau/d'huile",
+          "level": 2,
+          "children": {
+            "Boitier de déflection, radiateur d'huile": {
+              "categoryId": 100102,
+              "categoryName": "Radiator/Oil Cooler",
+              "level": 2,
+              "children": {
+                "Radiateur d'huile": {
+                  "categoryId": null,
+                  "categoryName": "Radiateur d'huile",
+                  "level": 4,
+                  "children": {
+                    "Boitier de déflection, radiateur d'huile": {
+                      "categoryId": 100108,
+                      "categoryName": "Oil Cooler",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3761
+                    }
+                  }
+                }
+              },
+              "productId": 3761
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Moteur [ID: 100002] (Niveau 1)\n│   └── Lubrification (Niveau 2)\n│       └── Lubrication [ID: 100245] (Niveau 2) → ProductId: 3761\n│           └── Radiateur d'huile / pièces de montage (Niveau 4)\n│               └── Oil Cooler/Attachment Parts [ID: 100474] (Niveau 3) → ProductId: 3761\n│                   └── Radiateur d'huile (Niveau 6)\n│                       └── Oil Cooler [ID: 100483] (Niveau 4) → ProductId: 3761\n\n└── Refroidissement [ID: 100007] (Niveau 1)\n    └── Radiateur d'eau/d'huile (Niveau 2)\n        └── Radiator/Oil Cooler [ID: 100102] (Niveau 2) → ProductId: 3761\n            └── Radiateur d'huile (Niveau 4)\n                └── Oil Cooler [ID: 100108] (Niveau 3) → ProductId: 3761",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Lubrification",
+        "Lubrication"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100245
+      ],
+      "finalCategoryId": 100245,
+      "productId": 3761
+    },
+    {
+      "path": [
+        "Refroidissement",
+        "Radiateur d'eau/d'huile",
+        "Radiator/Oil Cooler"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100102
+      ],
+      "finalCategoryId": 100102,
+      "productId": 3761
+    }
+  ],
+  "productIdsInArbo": [
+    3761
+  ],
+  "matchedProductIds": [
+    3761
+  ]
+}

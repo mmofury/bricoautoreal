@@ -1,0 +1,69 @@
+{
+  "productName": "Douille de démarreur, cloche d'accouplement",
+  "searchText": "Douille de démarreur, cloche d'accouplement",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:32:57.806Z",
+  "productId": 1670,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Démarreur": {
+          "categoryId": null,
+          "categoryName": "Démarreur",
+          "level": 2,
+          "children": {
+            "Douille de démarreur, cloche d'accouplement": {
+              "categoryId": 100353,
+              "categoryName": "Starter System",
+              "level": 2,
+              "children": {
+                "Composants du démarreur": {
+                  "categoryId": null,
+                  "categoryName": "Composants du démarreur",
+                  "level": 4,
+                  "children": {
+                    "Douille de démarreur, cloche d'accouplement": {
+                      "categoryId": 100040,
+                      "categoryName": "Starter Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1670
+                    }
+                  }
+                }
+              },
+              "productId": 1670
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Démarreur (Niveau 2)\n        └── Starter System [ID: 100353] (Niveau 2) → ProductId: 1670\n            └── Composants du démarreur (Niveau 4)\n                └── Starter Parts [ID: 100040] (Niveau 3) → ProductId: 1670",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Démarreur",
+        "Starter System"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100353
+      ],
+      "finalCategoryId": 100353,
+      "productId": 1670
+    }
+  ],
+  "productIdsInArbo": [
+    1670
+  ],
+  "matchedProductIds": [
+    1670
+  ]
+}

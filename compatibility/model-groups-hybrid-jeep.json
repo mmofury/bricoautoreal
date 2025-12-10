@@ -1,0 +1,424 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.353Z",
+  "manufacturer": "JEEP",
+  "countGroups": 19,
+  "groups": [
+    {
+      "manufacturerId": 882,
+      "manufacturerName": "JEEP",
+      "groupKey": "AVENGER",
+      "displayName": "AVENGER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43848,
+          "modelName": "AVENGER (J2)",
+          "modelYearFrom": "2022-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 882,
+      "manufacturerName": "JEEP",
+      "groupKey": "CHEROKEE",
+      "displayName": "CHEROKEE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4242,
+          "modelName": "CHEROKEE (XJ)",
+          "modelYearFrom": "1983-09-01",
+          "modelYearTo": "2001-09-01"
+        },
+        {
+          "modelId": 4823,
+          "modelName": "CHEROKEE (KJ)",
+          "modelYearFrom": "2001-03-01",
+          "modelYearTo": "2008-01-01"
+        },
+        {
+          "modelId": 6383,
+          "modelName": "CHEROKEE (SJ)",
+          "modelYearFrom": "1973-09-01",
+          "modelYearTo": "1986-09-01"
+        },
+        {
+          "modelId": 8075,
+          "modelName": "CHEROKEE (KK)",
+          "modelYearFrom": "2007-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11738,
+          "modelName": "CHEROKEE (KL)",
+          "modelYearFrom": "2013-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41690,
+          "modelName": "CHEROKEE VAN (KL)",
+          "modelYearFrom": "2013-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 882,
+      "manufacturerName": "JEEP",
+      "groupKey": "CJ5",
+      "displayName": "CJ5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4591,
+          "modelName": "CJ5 - CJ8",
+          "modelYearFrom": "1966-01-01",
+          "modelYearTo": "1987-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 882,
+      "manufacturerName": "JEEP",
+      "groupKey": "COMANCHE",
+      "displayName": "COMANCHE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7888,
+          "modelName": "COMANCHE (MJ)",
+          "modelYearFrom": "1985-09-01",
+          "modelYearTo": "1996-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 882,
+      "manufacturerName": "JEEP",
+      "groupKey": "COMMANDER",
+      "displayName": "COMMANDER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5486,
+          "modelName": "COMMANDER (XK, XH)",
+          "modelYearFrom": "2005-09-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 41692,
+          "modelName": "COMMANDER VAN (XH)",
+          "modelYearFrom": "2005-09-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 42487,
+          "modelName": "COMMANDER (671_)",
+          "modelYearFrom": "2021-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 882,
+      "manufacturerName": "JEEP",
+      "groupKey": "COMMANDO",
+      "displayName": "COMMANDO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32235,
+          "modelName": "COMMANDO Véhicule tout terrain fermé",
+          "modelYearFrom": "1965-09-01",
+          "modelYearTo": "1971-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 882,
+      "manufacturerName": "JEEP",
+      "groupKey": "COMPASS",
+      "displayName": "COMPASS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5605,
+          "modelName": "COMPASS (MK49)",
+          "modelYearFrom": "2006-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37718,
+          "modelName": "COMPASS (MP, M6, MV, M7)",
+          "modelYearFrom": "2016-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 882,
+      "manufacturerName": "JEEP",
+      "groupKey": "DISPATCHER",
+      "displayName": "DISPATCHER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32237,
+          "modelName": "DISPATCHER Véhicule tout terrain fermé",
+          "modelYearFrom": "1960-09-01",
+          "modelYearTo": "1969-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 882,
+      "manufacturerName": "JEEP",
+      "groupKey": "FC150",
+      "displayName": "FC150",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32242,
+          "modelName": "FC150 Véhicule tout terrain fermé",
+          "modelYearFrom": "1957-09-01",
+          "modelYearTo": "1966-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 882,
+      "manufacturerName": "JEEP",
+      "groupKey": "GLADIATOR",
+      "displayName": "GLADIATOR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32244,
+          "modelName": "GLADIATOR Standard Cab Pickup",
+          "modelYearFrom": "1964-09-01",
+          "modelYearTo": "1969-12-01"
+        },
+        {
+          "modelId": 39785,
+          "modelName": "GLADIATOR Pick-up (JT_)",
+          "modelYearFrom": "2019-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 882,
+      "manufacturerName": "JEEP",
+      "groupKey": "GRAND",
+      "displayName": "GRAND",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4243,
+          "modelName": "GRAND CHEROKEE I (ZJ, ZG)",
+          "modelYearFrom": "1991-09-01",
+          "modelYearTo": "1999-04-01"
+        },
+        {
+          "modelId": 4244,
+          "modelName": "GRAND CHEROKEE II (WJ, WG)",
+          "modelYearFrom": "1998-09-01",
+          "modelYearTo": "2005-09-01"
+        },
+        {
+          "modelId": 5438,
+          "modelName": "GRAND CHEROKEE III (WH, WK)",
+          "modelYearFrom": "2004-10-01",
+          "modelYearTo": "2011-10-01"
+        },
+        {
+          "modelId": 9072,
+          "modelName": "GRAND CHEROKEE IV (WK, WK2)",
+          "modelYearFrom": "2010-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 32246,
+          "modelName": "GRAND WAGONEER Véhicule tout terrain fermé (XJ)",
+          "modelYearFrom": "1983-09-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 41693,
+          "modelName": "GRAND CHEROKEE VAN (WK2)",
+          "modelYearFrom": "2010-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42496,
+          "modelName": "GRAND CHEROKEE L V (WL)",
+          "modelYearFrom": "2021-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42621,
+          "modelName": "GRAND WAGONEER (WS)",
+          "modelYearFrom": "2022-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44145,
+          "modelName": "GRAND CHEROKEE V (WL)",
+          "modelYearFrom": "2023-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 882,
+      "manufacturerName": "JEEP",
+      "groupKey": "J10",
+      "displayName": "J10",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32248,
+          "modelName": "J10 Standard Cab Pickup",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1988-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 882,
+      "manufacturerName": "JEEP",
+      "groupKey": "J20",
+      "displayName": "J20",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32251,
+          "modelName": "J20 Standard Cab Pickup",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1988-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 882,
+      "manufacturerName": "JEEP",
+      "groupKey": "PATRIOT",
+      "displayName": "PATRIOT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6740,
+          "modelName": "PATRIOT (MK74)",
+          "modelYearFrom": "2007-02-01",
+          "modelYearTo": "2017-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 882,
+      "manufacturerName": "JEEP",
+      "groupKey": "RENEGADE",
+      "displayName": "RENEGADE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13019,
+          "modelName": "RENEGADE SUV (BU, B1, BV)",
+          "modelYearFrom": "2014-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41694,
+          "modelName": "RENEGADE VAN (BU, B1)",
+          "modelYearFrom": "2014-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 882,
+      "manufacturerName": "JEEP",
+      "groupKey": "SCRAMBLER",
+      "displayName": "SCRAMBLER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32264,
+          "modelName": "SCRAMBLER Véhicule tout terrain à carrosserie ouverte",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1985-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 882,
+      "manufacturerName": "JEEP",
+      "groupKey": "WAGONEER",
+      "displayName": "WAGONEER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32269,
+          "modelName": "WAGONEER Véhicule tout terrain fermé",
+          "modelYearFrom": "1971-09-01",
+          "modelYearTo": "1990-12-01"
+        },
+        {
+          "modelId": 42620,
+          "modelName": "WAGONEER (WS)",
+          "modelYearFrom": "2022-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 882,
+      "manufacturerName": "JEEP",
+      "groupKey": "WILLYS",
+      "displayName": "WILLYS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7530,
+          "modelName": "WILLYS",
+          "modelYearFrom": "1950-01-01",
+          "modelYearTo": "1958-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 882,
+      "manufacturerName": "JEEP",
+      "groupKey": "WRANGLER",
+      "displayName": "WRANGLER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4240,
+          "modelName": "WRANGLER I (YJ, SJ_)",
+          "modelYearFrom": "1986-08-01",
+          "modelYearTo": "1996-08-01"
+        },
+        {
+          "modelId": 4241,
+          "modelName": "WRANGLER II (TJ)",
+          "modelYearFrom": "1996-08-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 7574,
+          "modelName": "WRANGLER III (JK)",
+          "modelYearFrom": "2006-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38535,
+          "modelName": "WRANGLER IV (JL)",
+          "modelYearFrom": "2017-11-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Kit supplémentaire, crémaillière de distribution",
+  "searchText": "Kit supplémentaire, crémaillière de distribution",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:10:54.384Z",
+  "productId": 3081,
+  "arborescence": {
+    "Direction": {
+      "categoryId": 100012,
+      "categoryName": "Direction",
+      "level": 1,
+      "children": {
+        "Crémaillère de direction/pompe": {
+          "categoryId": null,
+          "categoryName": "Crémaillère de direction/pompe",
+          "level": 2,
+          "children": {
+            "Kit supplémentaire, crémaillière de distribution": {
+              "categoryId": 100199,
+              "categoryName": "Steering Gear/Pump",
+              "level": 2,
+              "children": [],
+              "productId": 3081
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Direction [ID: 100012] (Niveau 1)\n    └── Crémaillère de direction/pompe (Niveau 2)\n        └── Steering Gear/Pump [ID: 100199] (Niveau 2) → ProductId: 3081",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Direction",
+        "Crémaillère de direction/pompe",
+        "Steering Gear/Pump"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        100199
+      ],
+      "finalCategoryId": 100199,
+      "productId": 3081
+    }
+  ],
+  "productIdsInArbo": [
+    3081
+  ],
+  "matchedProductIds": [
+    3081
+  ]
+}

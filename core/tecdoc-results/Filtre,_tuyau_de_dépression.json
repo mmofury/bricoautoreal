@@ -1,0 +1,57 @@
+{
+  "productName": "Filtre, tuyau de dépression",
+  "searchText": "Filtre, tuyau de dépression",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T20:40:19.953Z",
+  "productId": 6872,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Filtre": {
+          "categoryId": null,
+          "categoryName": "Filtre",
+          "level": 2,
+          "children": {
+            "Filtre, tuyau de dépression": {
+              "categoryId": 100808,
+              "categoryName": "Filter",
+              "level": 2,
+              "children": [],
+              "productId": 9790
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif de freinage [ID: 100006] (Niveau 1)\n    └── Filtre (Niveau 2)\n        └── Filter [ID: 100808] (Niveau 2) → ProductId: 9790",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Filtre",
+        "Filter"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100808
+      ],
+      "finalCategoryId": 100808,
+      "productId": 9790
+    }
+  ],
+  "productIdsInArbo": [
+    9790
+  ],
+  "closestProductIds": [
+    {
+      "productId": 9790,
+      "productName": "Filtre, tuyau de dépression"
+    }
+  ]
+}

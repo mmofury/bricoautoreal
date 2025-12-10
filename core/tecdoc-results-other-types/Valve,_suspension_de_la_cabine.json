@@ -1,0 +1,115 @@
+{
+  "productName": "Valve, suspension de la cabine",
+  "productId": 529,
+  "searchText": "Valve, suspension de la cabine",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Cabine du conducteur/carrosserie": {
+          "categoryId": 200022,
+          "categoryName": "Cabine du conducteur/carrosserie",
+          "level": 1,
+          "children": {
+            "Suspension / Amortissement de la cabine": {
+              "categoryId": null,
+              "categoryName": "Suspension / Amortissement de la cabine",
+              "level": 2,
+              "children": {
+                "Kit d'assemblage, Valve -suspension de la cabine": {
+                  "categoryId": 200826,
+                  "categoryName": "Driver Cab Suspension",
+                  "level": 2,
+                  "children": [],
+                  "productId": 4830
+                },
+                "Valve, suspension de la cabine": {
+                  "categoryId": 200826,
+                  "categoryName": "Driver Cab Suspension",
+                  "level": 2,
+                  "children": [],
+                  "productId": 529
+                }
+              }
+            }
+          }
+        },
+        "Suspension/Amortissement": {
+          "categoryId": 200060,
+          "categoryName": "Suspension/Amortissement",
+          "level": 1,
+          "children": {
+            "Suspension / Amortissement de la cabine": {
+              "categoryId": null,
+              "categoryName": "Suspension / Amortissement de la cabine",
+              "level": 2,
+              "children": {
+                "Kit d'assemblage, Valve -suspension de la cabine": {
+                  "categoryId": 200844,
+                  "categoryName": "Driver Cab Suspension",
+                  "level": 2,
+                  "children": {
+                    "Clapet d'air, cabine": {
+                      "categoryId": null,
+                      "categoryName": "Clapet d'air, cabine",
+                      "level": 4,
+                      "children": {
+                        "Kit d'assemblage, Valve -suspension de la cabine": {
+                          "categoryId": 200848,
+                          "categoryName": "Air Valve, driver cab",
+                          "level": 3,
+                          "children": [],
+                          "productId": 4830
+                        }
+                      }
+                    }
+                  },
+                  "productId": 4830
+                },
+                "Valve, suspension de la cabine": {
+                  "categoryId": 200844,
+                  "categoryName": "Driver Cab Suspension",
+                  "level": 2,
+                  "children": {
+                    "Clapet d'air, cabine": {
+                      "categoryId": null,
+                      "categoryName": "Clapet d'air, cabine",
+                      "level": 4,
+                      "children": {
+                        "Valve, suspension de la cabine": {
+                          "categoryId": 200848,
+                          "categoryName": "Air Valve, driver cab",
+                          "level": 3,
+                          "children": [],
+                          "productId": 529
+                        }
+                      }
+                    }
+                  },
+                  "productId": 529
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "├── Cabine du conducteur/carrosserie [ID: 200022] (Niveau 1)\n│   └── Suspension / Amortissement de la cabine (Niveau 2)\n│       ├── Driver Cab Suspension [ID: 200826] (Niveau 2) → ProductId: 4830\n│       └── Driver Cab Suspension [ID: 200826] (Niveau 2) → ProductId: 529\n\n└── Suspension/Amortissement [ID: 200060] (Niveau 1)\n    └── Suspension / Amortissement de la cabine (Niveau 2)\n        ├── Driver Cab Suspension [ID: 200844] (Niveau 2) → ProductId: 4830\n        │   └── Clapet d'air, cabine (Niveau 4)\n        │       └── Air Valve, driver cab [ID: 200848] (Niveau 3) → ProductId: 4830\n        └── Driver Cab Suspension [ID: 200844] (Niveau 2) → ProductId: 529\n            └── Clapet d'air, cabine (Niveau 4)\n                └── Air Valve, driver cab [ID: 200848] (Niveau 3) → ProductId: 529",
+      "productIdsInArbo": [
+        529,
+        4830
+      ],
+      "matchedProductIds": [
+        529
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:44:38.998Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H0VKS0",
+      "index": "CRE 11 000P",
+      "tecDoc": "CRE 11 000P",
+      "tecDocProd": "287",
+      "articleNumber": "CRE 11 000P",
+      "brand": "MAHLE",
+      "shortDescription": "Engine radiator",
+      "description": "Engine radiator fits: JAGUAR I-PACE Electric 02.18-",
+      "gtuCode": "GTU_07",
+      "eans": [
+        "4057635239998"
+      ],
+      "customsCode": "87089135",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_470",
+          "primary": true,
+          "name": {
+            "en": "Engine radiator"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_8555",
+          "primary": false,
+          "name": {
+            "en": "Radiator, electric motor"
+          }
+        }
+      ]
+    }
+  ]
+}

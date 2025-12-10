@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "B31720",
+      "index": "IMP223162",
+      "tecDoc": "223162",
+      "tecDocProd": "331",
+      "articleNumber": "223162",
+      "brand": "IMPERGOM",
+      "shortDescription": "Heater Hose",
+      "description": "Heater hose fits: RENAULT CLIO I 1.9D 01.91-09.98",
+      "customsCode": "40094100",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1779",
+          "primary": false,
+          "name": {
+            "en": "Hose, heat exchanger (heating)"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_9217",
+          "primary": true,
+          "name": {
+            "en": "Heater Hose"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H003B1",
+      "index": "GATAWS1434",
+      "tecDoc": "AWS1434",
+      "tecDocProd": "33",
+      "articleNumber": "AWS1434",
+      "brand": "GATES",
+      "shortDescription": "Bushing, axle cross member",
+      "description": "Rear suspension beam silent block (in the back) L/R fits: FORD MONDEO III 1.8-3.0 10.00-03.07",
+      "gtuCode": "GTU_07",
+      "customsCode": "87088099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1080",
+          "primary": false,
+          "name": {
+            "en": "Bushing, axle beam"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1281",
+          "primary": false,
+          "name": {
+            "en": "Repair Kit, axle beam"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1614",
+          "primary": true,
+          "name": {
+            "en": "Bushing, axle cross member"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_251",
+          "primary": false,
+          "name": {
+            "en": "Mounting, control/trailing arm"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_395",
+          "primary": false,
+          "name": {
+            "en": "Axle Beam"
+          }
+        }
+      ]
+    }
+  ]
+}

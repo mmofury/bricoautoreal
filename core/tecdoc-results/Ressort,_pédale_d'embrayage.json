@@ -1,0 +1,104 @@
+{
+  "productName": "Ressort, pédale d'embrayage",
+  "searchText": "Ressort, pédale d'embrayage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:09:12.256Z",
+  "productId": 4034,
+  "arborescence": {
+    "Embrayage / composants": {
+      "categoryId": 100050,
+      "categoryName": "Embrayage / composants",
+      "level": 1,
+      "children": {
+        "Commande d'embrayage": {
+          "categoryId": null,
+          "categoryName": "Commande d'embrayage",
+          "level": 2,
+          "children": {
+            "Ressort, pédale d'embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Pédale": {
+                  "categoryId": null,
+                  "categoryName": "Pédale",
+                  "level": 4,
+                  "children": {
+                    "Ressort, pédale d'embrayage": {
+                      "categoryId": 100712,
+                      "categoryName": "Clutch Pedal",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4034
+                    }
+                  }
+                }
+              },
+              "productId": 4034
+            }
+          }
+        }
+      }
+    },
+    "Équipement intérieur": {
+      "categoryId": 100341,
+      "categoryName": "Équipement intérieur",
+      "level": 1,
+      "children": {
+        "Leviers manuels / Leviers de pédale": {
+          "categoryId": null,
+          "categoryName": "Leviers manuels / Leviers de pédale",
+          "level": 2,
+          "children": {
+            "Ressort, pédale d'embrayage": {
+              "categoryId": 102695,
+              "categoryName": "Hand/Foot Lever System",
+              "level": 2,
+              "children": [],
+              "productId": 4034
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Embrayage / composants [ID: 100050] (Niveau 1)\n│   └── Commande d'embrayage (Niveau 2)\n│       └── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 4034\n│           └── Pédale (Niveau 4)\n│               └── Clutch Pedal [ID: 100712] (Niveau 3) → ProductId: 4034\n\n└── Équipement intérieur [ID: 100341] (Niveau 1)\n    └── Leviers manuels / Leviers de pédale (Niveau 2)\n        └── Hand/Foot Lever System [ID: 102695] (Niveau 2) → ProductId: 4034",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 4034
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Leviers manuels / Leviers de pédale",
+        "Hand/Foot Lever System"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102695
+      ],
+      "finalCategoryId": 102695,
+      "productId": 4034
+    }
+  ],
+  "productIdsInArbo": [
+    4034
+  ],
+  "matchedProductIds": [
+    4034
+  ]
+}

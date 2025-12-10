@@ -1,0 +1,64 @@
+{
+  "productName": "Interrupteur, commande d'essieu élévateur",
+  "productId": 5699,
+  "searchText": "Interrupteur, commande d'essieu élévateur",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Suspension des roues": {
+          "categoryId": 200061,
+          "categoryName": "Suspension des roues",
+          "level": 1,
+          "children": {
+            "Essieu élévateur": {
+              "categoryId": null,
+              "categoryName": "Essieu élévateur",
+              "level": 2,
+              "children": {
+                "Interrupteur, commande d'essieu élévateur": {
+                  "categoryId": 202888,
+                  "categoryName": "Lift Axle",
+                  "level": 2,
+                  "children": {
+                    "Interrupteur": {
+                      "categoryId": null,
+                      "categoryName": "Interrupteur",
+                      "level": 4,
+                      "children": {
+                        "Interrupteur, commande d'essieu élévateur": {
+                          "categoryId": 204301,
+                          "categoryName": "Switch",
+                          "level": 3,
+                          "children": [],
+                          "productId": 5699
+                        }
+                      }
+                    }
+                  },
+                  "productId": 5699
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Suspension des roues [ID: 200061] (Niveau 1)\n    └── Essieu élévateur (Niveau 2)\n        └── Lift Axle [ID: 202888] (Niveau 2) → ProductId: 5699\n            └── Interrupteur (Niveau 4)\n                └── Switch [ID: 204301] (Niveau 3) → ProductId: 5699",
+      "productIdsInArbo": [
+        5699
+      ],
+      "matchedProductIds": [
+        5699
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:36:37.798Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

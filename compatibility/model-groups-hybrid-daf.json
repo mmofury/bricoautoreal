@@ -1,0 +1,145 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.230Z",
+  "manufacturer": "DAF",
+  "countGroups": 6,
+  "groups": [
+    {
+      "manufacturerId": 24,
+      "manufacturerName": "DAF",
+      "groupKey": "33",
+      "displayName": "33",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1716,
+          "modelName": "33",
+          "modelYearFrom": "1967-07-01",
+          "modelYearTo": "1974-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 24,
+      "manufacturerName": "DAF",
+      "groupKey": "400",
+      "displayName": "400",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3611,
+          "modelName": "400-Serie Fourgon",
+          "modelYearFrom": "1989-04-01",
+          "modelYearTo": "1993-08-01"
+        },
+        {
+          "modelId": 5841,
+          "modelName": "400 Camion plate-forme/Châssis",
+          "modelYearFrom": "1986-11-01",
+          "modelYearTo": "1997-01-01"
+        },
+        {
+          "modelId": 37339,
+          "modelName": "400-Serie Autobus/Autocar",
+          "modelYearFrom": "1989-04-01",
+          "modelYearTo": "1997-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 24,
+      "manufacturerName": "DAF",
+      "groupKey": "44",
+      "displayName": "44",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1717,
+          "modelName": "44",
+          "modelYearFrom": "1966-11-01",
+          "modelYearTo": "1974-09-01"
+        },
+        {
+          "modelId": 1718,
+          "modelName": "44 Break",
+          "modelYearFrom": "1968-01-01",
+          "modelYearTo": "1974-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 24,
+      "manufacturerName": "DAF",
+      "groupKey": "46",
+      "displayName": "46",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1722,
+          "modelName": "46",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1975-08-01"
+        },
+        {
+          "modelId": 1723,
+          "modelName": "46 Break",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1975-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 24,
+      "manufacturerName": "DAF",
+      "groupKey": "55",
+      "displayName": "55",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1719,
+          "modelName": "55",
+          "modelYearFrom": "1967-10-01",
+          "modelYearTo": "1972-09-01"
+        },
+        {
+          "modelId": 1720,
+          "modelName": "55 Break",
+          "modelYearFrom": "1968-10-01",
+          "modelYearTo": "1972-09-01"
+        },
+        {
+          "modelId": 1721,
+          "modelName": "55 Coupé",
+          "modelYearFrom": "1968-05-01",
+          "modelYearTo": "1972-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 24,
+      "manufacturerName": "DAF",
+      "groupKey": "66",
+      "displayName": "66",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1724,
+          "modelName": "66 Coupé",
+          "modelYearFrom": "1973-09-01",
+          "modelYearTo": "1975-08-01"
+        },
+        {
+          "modelId": 3495,
+          "modelName": "66 Break",
+          "modelYearFrom": "1972-10-01",
+          "modelYearTo": "1975-08-01"
+        },
+        {
+          "modelId": 3917,
+          "modelName": "66",
+          "modelYearFrom": "1972-10-01",
+          "modelYearTo": "1975-08-01"
+        }
+      ]
+    }
+  ]
+}

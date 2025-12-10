@@ -1,0 +1,69 @@
+{
+  "productName": "Valve de commande, remorque",
+  "searchText": "Valve de commande, remorque",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:31:16.131Z",
+  "productId": 348,
+  "arborescence": {
+    "Système pneumatique": {
+      "categoryId": 103168,
+      "categoryName": "Système pneumatique",
+      "level": 1,
+      "children": {
+        "Soupapes / Système d'air comprimé": {
+          "categoryId": null,
+          "categoryName": "Soupapes / Système d'air comprimé",
+          "level": 2,
+          "children": {
+            "Valve de commande, remorque": {
+              "categoryId": 103198,
+              "categoryName": "Valves/compressed-air system",
+              "level": 2,
+              "children": {
+                "Valve de commande, remorque": {
+                  "categoryId": null,
+                  "categoryName": "Valve de commande, remorque",
+                  "level": 4,
+                  "children": {
+                    "Valve de commande, remorque": {
+                      "categoryId": 103201,
+                      "categoryName": "Control Valve, trailer",
+                      "level": 3,
+                      "children": [],
+                      "productId": 348
+                    }
+                  }
+                }
+              },
+              "productId": 348
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système pneumatique [ID: 103168] (Niveau 1)\n    └── Soupapes / Système d'air comprimé (Niveau 2)\n        └── Valves/compressed-air system [ID: 103198] (Niveau 2) → ProductId: 348\n            └── Valve de commande, remorque (Niveau 4)\n                └── Control Valve, trailer [ID: 103201] (Niveau 3) → ProductId: 348",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système pneumatique",
+        "Soupapes / Système d'air comprimé",
+        "Valves/compressed-air system"
+      ],
+      "categoryIds": [
+        103168,
+        null,
+        103198
+      ],
+      "finalCategoryId": 103198,
+      "productId": 348
+    }
+  ],
+  "productIdsInArbo": [
+    348
+  ],
+  "matchedProductIds": [
+    348
+  ]
+}

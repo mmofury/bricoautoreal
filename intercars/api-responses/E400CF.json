@@ -1,0 +1,36 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "E400CF",
+      "index": "SK-7251",
+      "tecDoc": "SK-7251",
+      "tecDocProd": "4010",
+      "articleNumber": "SK-7251",
+      "brand": "555",
+      "shortDescription": "Steering rod",
+      "description": "Control arm repair kit fits: HYUNDAI GALLOPER I, MITSUBISHI PAJERO I 2.0-3.0 12.82-07.98 fits: MITSUBISHI",
+      "gtuCode": "GTU_07",
+      "customsCode": "87088099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_284",
+          "primary": true,
+          "name": {
+            "en": "Steering rod"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_772",
+          "primary": false,
+          "name": {
+            "en": "Repair Kit, stub axle"
+          }
+        }
+      ]
+    }
+  ]
+}

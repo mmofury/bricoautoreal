@@ -1,0 +1,97 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.367Z",
+  "manufacturer": "KAMA",
+  "countGroups": 4,
+  "groups": [
+    {
+      "manufacturerId": 4265,
+      "manufacturerName": "KAMA",
+      "groupKey": "K23",
+      "displayName": "K23",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43343,
+          "modelName": "K23 Camion plate-forme/Châssis",
+          "modelYearFrom": "2019-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4265,
+      "manufacturerName": "KAMA",
+      "groupKey": "RUIHANG",
+      "displayName": "RUIHANG",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43355,
+          "modelName": "RUIHANG X1 Camion plate-forme/Châssis",
+          "modelYearFrom": "2017-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43356,
+          "modelName": "RUIHANG X3 Camion plate-forme/Châssis",
+          "modelYearFrom": "2017-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44182,
+          "modelName": "RUIHANG HX3 Camion plate-forme/Châssis",
+          "modelYearFrom": "2017-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4265,
+      "manufacturerName": "KAMA",
+      "groupKey": "RUIJIE",
+      "displayName": "RUIJIE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43357,
+          "modelName": "RUIJIE V16 Camion plate-forme/Châssis",
+          "modelYearFrom": "2019-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44183,
+          "modelName": "RUIJIE S6 Fourgon",
+          "modelYearFrom": "2019-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44188,
+          "modelName": "RUIJIE ES26 Fourgon",
+          "modelYearFrom": "2019-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4265,
+      "manufacturerName": "KAMA",
+      "groupKey": "RUILING",
+      "displayName": "RUILING",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43505,
+          "modelName": "RUILING Véhicule municipal",
+          "modelYearFrom": "2015-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43506,
+          "modelName": "RUILING Camion plate-forme/Châssis",
+          "modelYearFrom": "2011-08-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H07KGK",
+      "index": "V10-8953",
+      "tecDoc": "V10-8953",
+      "tecDocProd": "162",
+      "articleNumber": "V10-8953",
+      "brand": "VAICO",
+      "shortDescription": "Control unit, all-wheel drive",
+      "description": "Differential assembly repair kit - 4x4 controller fits: AUDI A3, TT, SEAT ALTEA XL, SKODA OCTAVIA II, VW GOLF V 1.9D-3.2 07.03-06.13",
+      "customsCode": "85423190",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4022",
+          "primary": false,
+          "name": {
+            "en": "Repair Kit, differential"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_60558",
+          "primary": true,
+          "name": {
+            "en": "Control unit, all-wheel drive"
+          }
+        }
+      ]
+    }
+  ]
+}

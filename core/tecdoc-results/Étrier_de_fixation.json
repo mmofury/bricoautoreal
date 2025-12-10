@@ -1,0 +1,122 @@
+{
+  "productName": "Étrier de fixation",
+  "searchText": "Étrier de fixation",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-03T07:39:41.238Z",
+  "productId": 3285,
+  "arborescence": {
+    "Échappement": {
+      "categoryId": 100004,
+      "categoryName": "Échappement",
+      "level": 1,
+      "children": {
+        "Turbocompresseur": {
+          "categoryId": null,
+          "categoryName": "Turbocompresseur",
+          "level": 2,
+          "children": {
+            "Étrier de retenue, compresseur": {
+              "categoryId": 100872,
+              "categoryName": "Charger",
+              "level": 2,
+              "children": [],
+              "productId": 3738
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Alimentation en air": {
+          "categoryId": null,
+          "categoryName": "Alimentation en air",
+          "level": 2,
+          "children": {
+            "Étrier de retenue, compresseur": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Suralimentation": {
+                  "categoryId": null,
+                  "categoryName": "Suralimentation",
+                  "level": 4,
+                  "children": {
+                    "Étrier de retenue, compresseur": {
+                      "categoryId": 100390,
+                      "categoryName": "Charging (supercharged/turbocharged)",
+                      "level": 3,
+                      "children": {
+                        "Compresseur/composants": {
+                          "categoryId": null,
+                          "categoryName": "Compresseur/composants",
+                          "level": 6,
+                          "children": {
+                            "Étrier de retenue, compresseur": {
+                              "categoryId": 100391,
+                              "categoryName": "Charger/-parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 3738
+                            }
+                          }
+                        }
+                      },
+                      "productId": 3738
+                    }
+                  }
+                }
+              },
+              "productId": 3738
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Échappement [ID: 100004] (Niveau 1)\n│   └── Turbocompresseur (Niveau 2)\n│       └── Charger [ID: 100872] (Niveau 2) → ProductId: 3738\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Alimentation en air (Niveau 2)\n        └── Air Supply [ID: 100383] (Niveau 2) → ProductId: 3738\n            └── Suralimentation (Niveau 4)\n                └── Charging (supercharged/turbocharged) [ID: 100390] (Niveau 3) → ProductId: 3738\n                    └── Compresseur/composants (Niveau 6)\n                        └── Charger/-parts [ID: 100391] (Niveau 4) → ProductId: 3738",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Échappement",
+        "Turbocompresseur",
+        "Charger"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100872
+      ],
+      "finalCategoryId": 100872,
+      "productId": 3738
+    },
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 3738
+    }
+  ],
+  "productIdsInArbo": [
+    3738
+  ],
+  "closestProductIds": [
+    {
+      "productId": 3738,
+      "productName": "Étrier de retenue, compresseur"
+    }
+  ]
+}

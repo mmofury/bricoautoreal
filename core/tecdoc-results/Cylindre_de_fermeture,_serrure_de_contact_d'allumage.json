@@ -1,0 +1,54 @@
+{
+  "productName": "Cylindre de fermeture, serrure de contact d'allumage",
+  "searchText": "Cylindre de fermeture, serrure de contact d'allumage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:28:31.404Z",
+  "productId": 1782,
+  "arborescence": {
+    "Verrouillage": {
+      "categoryId": 100685,
+      "categoryName": "Verrouillage",
+      "level": 1,
+      "children": {
+        "Cylindre de serrure / jeu": {
+          "categoryId": null,
+          "categoryName": "Cylindre de serrure / jeu",
+          "level": 2,
+          "children": {
+            "Cylindre de fermeture, serrure de contact d'allumage": {
+              "categoryId": 100690,
+              "categoryName": "Lock Barrel/Set",
+              "level": 2,
+              "children": [],
+              "productId": 1782
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Verrouillage [ID: 100685] (Niveau 1)\n    └── Cylindre de serrure / jeu (Niveau 2)\n        └── Lock Barrel/Set [ID: 100690] (Niveau 2) → ProductId: 1782",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Verrouillage",
+        "Cylindre de serrure / jeu",
+        "Lock Barrel/Set"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100690
+      ],
+      "finalCategoryId": 100690,
+      "productId": 1782
+    }
+  ],
+  "productIdsInArbo": [
+    1782
+  ],
+  "matchedProductIds": [
+    1782
+  ]
+}

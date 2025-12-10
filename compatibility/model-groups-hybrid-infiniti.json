@@ -1,0 +1,523 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.338Z",
+  "manufacturer": "INFINITI",
+  "countGroups": 28,
+  "groups": [
+    {
+      "manufacturerId": 1526,
+      "manufacturerName": "INFINITI",
+      "groupKey": "ESQ",
+      "displayName": "ESQ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13191,
+          "modelName": "ESQ (JF15)",
+          "modelYearFrom": "2014-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1526,
+      "manufacturerName": "INFINITI",
+      "groupKey": "EX",
+      "displayName": "EX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7596,
+          "modelName": "EX",
+          "modelYearFrom": "2007-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1526,
+      "manufacturerName": "INFINITI",
+      "groupKey": "FX",
+      "displayName": "FX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5441,
+          "modelName": "FX",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 10322,
+          "modelName": "FX",
+          "modelYearFrom": "2008-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1526,
+      "manufacturerName": "INFINITI",
+      "groupKey": "G",
+      "displayName": "G",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7597,
+          "modelName": "G Coupé",
+          "modelYearFrom": "2007-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 7598,
+          "modelName": "G A trois volumes",
+          "modelYearFrom": "2002-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 8940,
+          "modelName": "G Décapotable",
+          "modelYearFrom": "2010-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10321,
+          "modelName": "G A trois volumes",
+          "modelYearFrom": "2007-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 35773,
+          "modelName": "G Coupé",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 35776,
+          "modelName": "G A trois volumes",
+          "modelYearFrom": "1998-09-01",
+          "modelYearTo": "2002-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1526,
+      "manufacturerName": "INFINITI",
+      "groupKey": "G20",
+      "displayName": "G20",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4478,
+          "modelName": "G20",
+          "modelYearFrom": "1990-01-01",
+          "modelYearTo": "1997-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1526,
+      "manufacturerName": "INFINITI",
+      "groupKey": "I30",
+      "displayName": "I30",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4479,
+          "modelName": "I30",
+          "modelYearFrom": "1997-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1526,
+      "manufacturerName": "INFINITI",
+      "groupKey": "I35",
+      "displayName": "I35",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 35772,
+          "modelName": "I35 A trois volumes",
+          "modelYearFrom": "1995-09-01",
+          "modelYearTo": "2004-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1526,
+      "manufacturerName": "INFINITI",
+      "groupKey": "J30",
+      "displayName": "J30",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4480,
+          "modelName": "J30",
+          "modelYearFrom": "1992-01-01",
+          "modelYearTo": "1997-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1526,
+      "manufacturerName": "INFINITI",
+      "groupKey": "JX",
+      "displayName": "JX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10662,
+          "modelName": "JX SUV (L50)",
+          "modelYearFrom": "2012-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1526,
+      "manufacturerName": "INFINITI",
+      "groupKey": "M",
+      "displayName": "M",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8941,
+          "modelName": "M (Y51)",
+          "modelYearFrom": "2010-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1526,
+      "manufacturerName": "INFINITI",
+      "groupKey": "M30",
+      "displayName": "M30",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4481,
+          "modelName": "M30 Coupé",
+          "modelYearFrom": "1989-01-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 4482,
+          "modelName": "M30 Convertible",
+          "modelYearFrom": "1990-01-01",
+          "modelYearTo": "1993-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1526,
+      "manufacturerName": "INFINITI",
+      "groupKey": "M35",
+      "displayName": "M35",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6086,
+          "modelName": "M35",
+          "modelYearFrom": "2005-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1526,
+      "manufacturerName": "INFINITI",
+      "groupKey": "M37",
+      "displayName": "M37",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9737,
+          "modelName": "M37",
+          "modelYearFrom": "2010-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1526,
+      "manufacturerName": "INFINITI",
+      "groupKey": "M45",
+      "displayName": "M45",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6087,
+          "modelName": "M45",
+          "modelYearFrom": "2005-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 12970,
+          "modelName": "M45",
+          "modelYearFrom": "2001-09-01",
+          "modelYearTo": "2004-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1526,
+      "manufacturerName": "INFINITI",
+      "groupKey": "Q30",
+      "displayName": "Q30",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14907,
+          "modelName": "Q30",
+          "modelYearFrom": "2015-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1526,
+      "manufacturerName": "INFINITI",
+      "groupKey": "Q40",
+      "displayName": "Q40",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13238,
+          "modelName": "Q40 A trois volumes",
+          "modelYearFrom": "2014-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1526,
+      "manufacturerName": "INFINITI",
+      "groupKey": "Q45",
+      "displayName": "Q45",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4483,
+          "modelName": "Q45 I",
+          "modelYearFrom": "1989-01-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 5814,
+          "modelName": "Q45 III (F50)",
+          "modelYearFrom": "2001-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 8930,
+          "modelName": "Q45 II (FY33)",
+          "modelYearFrom": "1997-01-01",
+          "modelYearTo": "2001-01-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1526,
+      "manufacturerName": "INFINITI",
+      "groupKey": "Q50",
+      "displayName": "Q50",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11419,
+          "modelName": "Q50",
+          "modelYearFrom": "2013-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1526,
+      "manufacturerName": "INFINITI",
+      "groupKey": "Q60",
+      "displayName": "Q60",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11680,
+          "modelName": "Q60 Coupé",
+          "modelYearFrom": "2013-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11681,
+          "modelName": "Q60 Décapotable",
+          "modelYearFrom": "2013-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 36966,
+          "modelName": "Q60 Coupé",
+          "modelYearFrom": "2016-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1526,
+      "manufacturerName": "INFINITI",
+      "groupKey": "Q70",
+      "displayName": "Q70",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11905,
+          "modelName": "Q70 (Y51)",
+          "modelYearFrom": "2013-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1526,
+      "manufacturerName": "INFINITI",
+      "groupKey": "QX30",
+      "displayName": "QX30",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36405,
+          "modelName": "QX30",
+          "modelYearFrom": "2016-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1526,
+      "manufacturerName": "INFINITI",
+      "groupKey": "QX4",
+      "displayName": "QX4",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4484,
+          "modelName": "QX4",
+          "modelYearFrom": "1997-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1526,
+      "manufacturerName": "INFINITI",
+      "groupKey": "QX50",
+      "displayName": "QX50",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11859,
+          "modelName": "QX50 I",
+          "modelYearFrom": "2013-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40176,
+          "modelName": "QX50 II",
+          "modelYearFrom": "2017-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1526,
+      "manufacturerName": "INFINITI",
+      "groupKey": "QX55",
+      "displayName": "QX55",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41990,
+          "modelName": "QX55 (J55)",
+          "modelYearFrom": "2021-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1526,
+      "manufacturerName": "INFINITI",
+      "groupKey": "QX56",
+      "displayName": "QX56",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10323,
+          "modelName": "QX56",
+          "modelYearFrom": "2010-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 35771,
+          "modelName": "QX56",
+          "modelYearFrom": "2003-09-01",
+          "modelYearTo": "2010-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1526,
+      "manufacturerName": "INFINITI",
+      "groupKey": "QX60",
+      "displayName": "QX60",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11904,
+          "modelName": "QX60",
+          "modelYearFrom": "2012-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45881,
+          "modelName": "QX60",
+          "modelYearFrom": "2021-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1526,
+      "manufacturerName": "INFINITI",
+      "groupKey": "QX70",
+      "displayName": "QX70",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11858,
+          "modelName": "QX70",
+          "modelYearFrom": "2013-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1526,
+      "manufacturerName": "INFINITI",
+      "groupKey": "QX80",
+      "displayName": "QX80",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13047,
+          "modelName": "QX80",
+          "modelYearFrom": "2013-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45710,
+          "modelName": "QX80",
+          "modelYearFrom": "2024-06-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

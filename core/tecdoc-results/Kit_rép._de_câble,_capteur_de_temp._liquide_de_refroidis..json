@@ -1,0 +1,124 @@
+{
+  "productName": "Kit rép. de câble, capteur de temp. liquide de refroidis.",
+  "searchText": "Kit rép. de câble, capteur de temp. liquide de refroidis.",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:08:32.348Z",
+  "productId": 7284,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Circuit électrique du moteur": {
+          "categoryId": null,
+          "categoryName": "Circuit électrique du moteur",
+          "level": 2,
+          "children": {
+            "Kit rép. de câble, capteur de temp. liquide de refroidis.": {
+              "categoryId": 100754,
+              "categoryName": "Engine Electrics",
+              "level": 2,
+              "children": [],
+              "productId": 7284
+            }
+          }
+        }
+      }
+    },
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Interrupteur / capteur": {
+          "categoryId": null,
+          "categoryName": "Interrupteur / capteur",
+          "level": 2,
+          "children": {
+            "Kit rép. de câble, capteur de temp. liquide de refroidis.": {
+              "categoryId": 100334,
+              "categoryName": "Switch/Sensor",
+              "level": 2,
+              "children": [],
+              "productId": 7284
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Capteurs": {
+          "categoryId": null,
+          "categoryName": "Capteurs",
+          "level": 2,
+          "children": {
+            "Kit rép. de câble, capteur de temp. liquide de refroidis.": {
+              "categoryId": 102747,
+              "categoryName": "Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 7284
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Moteur [ID: 100002] (Niveau 1)\n│   └── Circuit électrique du moteur (Niveau 2)\n│       └── Engine Electrics [ID: 100754] (Niveau 2) → ProductId: 7284\n\n├── Refroidissement [ID: 100007] (Niveau 1)\n│   └── Interrupteur / capteur (Niveau 2)\n│       └── Switch/Sensor [ID: 100334] (Niveau 2) → ProductId: 7284\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Capteurs (Niveau 2)\n        └── Sensors [ID: 102747] (Niveau 2) → ProductId: 7284",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Circuit électrique du moteur",
+        "Engine Electrics"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100754
+      ],
+      "finalCategoryId": 100754,
+      "productId": 7284
+    },
+    {
+      "path": [
+        "Refroidissement",
+        "Interrupteur / capteur",
+        "Switch/Sensor"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100334
+      ],
+      "finalCategoryId": 100334,
+      "productId": 7284
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Capteurs",
+        "Sensors"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        102747
+      ],
+      "finalCategoryId": 102747,
+      "productId": 7284
+    }
+  ],
+  "productIdsInArbo": [
+    7284
+  ],
+  "matchedProductIds": [
+    7284
+  ]
+}

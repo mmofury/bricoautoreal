@@ -1,0 +1,169 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.136Z",
+  "manufacturer": "ABARTH",
+  "countGroups": 10,
+  "groups": [
+    {
+      "manufacturerId": 3854,
+      "manufacturerName": "ABARTH",
+      "groupKey": "124",
+      "displayName": "124",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36454,
+          "modelName": "124 Spider",
+          "modelYearFrom": "2016-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3854,
+      "manufacturerName": "ABARTH",
+      "groupKey": "500",
+      "displayName": "500",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14669,
+          "modelName": "500 / 595 / 695",
+          "modelYearFrom": "2008-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3854,
+      "manufacturerName": "ABARTH",
+      "groupKey": "500C",
+      "displayName": "500C",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14670,
+          "modelName": "500C / 595C / 695C",
+          "modelYearFrom": "2008-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3854,
+      "manufacturerName": "ABARTH",
+      "groupKey": "500E",
+      "displayName": "500E",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44049,
+          "modelName": "500E Berline bicorps trois ou cinq portes (332_)",
+          "modelYearFrom": "2023-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44050,
+          "modelName": "500E Décapotable (332_)",
+          "modelYearFrom": "2023-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3854,
+      "manufacturerName": "ABARTH",
+      "groupKey": "600E",
+      "displayName": "600E",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 46000,
+          "modelName": "600e",
+          "modelYearFrom": "2024-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3854,
+      "manufacturerName": "ABARTH",
+      "groupKey": "FASTBACK",
+      "displayName": "FASTBACK",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45006,
+          "modelName": "FASTBACK (376_)",
+          "modelYearFrom": "2023-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3854,
+      "manufacturerName": "ABARTH",
+      "groupKey": "GRANDE",
+      "displayName": "GRANDE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14671,
+          "modelName": "GRANDE PUNTO",
+          "modelYearFrom": "2007-07-01",
+          "modelYearTo": "2010-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3854,
+      "manufacturerName": "ABARTH",
+      "groupKey": "PULSE",
+      "displayName": "PULSE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43956,
+          "modelName": "PULSE (363_)",
+          "modelYearFrom": "2022-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3854,
+      "manufacturerName": "ABARTH",
+      "groupKey": "PUNTO",
+      "displayName": "PUNTO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14673,
+          "modelName": "PUNTO",
+          "modelYearFrom": "2012-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38287,
+          "modelName": "PUNTO EVO",
+          "modelYearFrom": "2008-07-01",
+          "modelYearTo": "2012-02-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3854,
+      "manufacturerName": "ABARTH",
+      "groupKey": "RITMO",
+      "displayName": "RITMO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14674,
+          "modelName": "RITMO",
+          "modelYearFrom": "1981-11-01",
+          "modelYearTo": "1987-12-01"
+        }
+      ]
+    }
+  ]
+}

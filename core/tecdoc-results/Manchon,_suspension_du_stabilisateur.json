@@ -1,0 +1,69 @@
+{
+  "productName": "Manchon, suspension du stabilisateur",
+  "searchText": "Manchon, suspension du stabilisateur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:13:49.523Z",
+  "productId": 1663,
+  "arborescence": {
+    "Suspension d'essieu/Guidage des roues/Roues": {
+      "categoryId": 100013,
+      "categoryName": "Suspension d'essieu/Guidage des roues/Roues",
+      "level": 1,
+      "children": {
+        "Pièce de stabilisateur / pièces de fixation": {
+          "categoryId": null,
+          "categoryName": "Pièce de stabilisateur / pièces de fixation",
+          "level": 2,
+          "children": {
+            "Manchon, suspension du stabilisateur": {
+              "categoryId": 100210,
+              "categoryName": "Stabiliser Bar/Fastening Parts",
+              "level": 2,
+              "children": {
+                "Pièces de fixation": {
+                  "categoryId": null,
+                  "categoryName": "Pièces de fixation",
+                  "level": 4,
+                  "children": {
+                    "Manchon, suspension du stabilisateur": {
+                      "categoryId": 100596,
+                      "categoryName": "Fasteners",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1663
+                    }
+                  }
+                }
+              },
+              "productId": 1663
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Suspension d'essieu/Guidage des roues/Roues [ID: 100013] (Niveau 1)\n    └── Pièce de stabilisateur / pièces de fixation (Niveau 2)\n        └── Stabiliser Bar/Fastening Parts [ID: 100210] (Niveau 2) → ProductId: 1663\n            └── Pièces de fixation (Niveau 4)\n                └── Fasteners [ID: 100596] (Niveau 3) → ProductId: 1663",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Pièce de stabilisateur / pièces de fixation",
+        "Stabiliser Bar/Fastening Parts"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        100210
+      ],
+      "finalCategoryId": 100210,
+      "productId": 1663
+    }
+  ],
+  "productIdsInArbo": [
+    1663
+  ],
+  "matchedProductIds": [
+    1663
+  ]
+}

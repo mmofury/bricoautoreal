@@ -1,0 +1,128 @@
+{
+  "productName": "Support, étrier de frein",
+  "searchText": "Support, étrier de frein",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:22:20.202Z",
+  "productId": 1009,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Étrier de frein": {
+          "categoryId": null,
+          "categoryName": "Étrier de frein",
+          "level": 2,
+          "children": {
+            "Support, étrier de frein": {
+              "categoryId": 100027,
+              "categoryName": "Brake Caliper",
+              "level": 2,
+              "children": {
+                "Étrier de frein / support d'étrier": {
+                  "categoryId": null,
+                  "categoryName": "Étrier de frein / support d'étrier",
+                  "level": 4,
+                  "children": {
+                    "Support, étrier de frein": {
+                      "categoryId": 100807,
+                      "categoryName": "Brake Caliper Mounting",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1009
+                    }
+                  }
+                }
+              },
+              "productId": 1009
+            }
+          }
+        },
+        "Frein de haute performance": {
+          "categoryId": null,
+          "categoryName": "Frein de haute performance",
+          "level": 2,
+          "children": {
+            "Support, étrier de frein (frein de haute performance)": {
+              "categoryId": 102224,
+              "categoryName": "High Performance Brakes",
+              "level": 2,
+              "children": {
+                "Étrier de frein de haute performance": {
+                  "categoryId": null,
+                  "categoryName": "Étrier de frein de haute performance",
+                  "level": 4,
+                  "children": {
+                    "Support, étrier de frein (frein de haute performance)": {
+                      "categoryId": 102228,
+                      "categoryName": "High Performance Brake Caliper",
+                      "level": 3,
+                      "children": {
+                        "Étrier de frein / support d'étrier": {
+                          "categoryId": null,
+                          "categoryName": "Étrier de frein / support d'étrier",
+                          "level": 6,
+                          "children": {
+                            "Support, étrier de frein (frein de haute performance)": {
+                              "categoryId": 102229,
+                              "categoryName": "Brake Caliper Mounting",
+                              "level": 4,
+                              "children": [],
+                              "productId": 3375
+                            }
+                          }
+                        }
+                      },
+                      "productId": 3375
+                    }
+                  }
+                }
+              },
+              "productId": 3375
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif de freinage [ID: 100006] (Niveau 1)\n    ├── Étrier de frein (Niveau 2)\n    │   └── Brake Caliper [ID: 100027] (Niveau 2) → ProductId: 1009\n    │       └── Étrier de frein / support d'étrier (Niveau 4)\n    │           └── Brake Caliper Mounting [ID: 100807] (Niveau 3) → ProductId: 1009\n    └── Frein de haute performance (Niveau 2)\n        └── High Performance Brakes [ID: 102224] (Niveau 2) → ProductId: 3375\n            └── Étrier de frein de haute performance (Niveau 4)\n                └── High Performance Brake Caliper [ID: 102228] (Niveau 3) → ProductId: 3375\n                    └── Étrier de frein / support d'étrier (Niveau 6)\n                        └── Brake Caliper Mounting [ID: 102229] (Niveau 4) → ProductId: 3375",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Étrier de frein",
+        "Brake Caliper"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100027
+      ],
+      "finalCategoryId": 100027,
+      "productId": 1009
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Frein de haute performance",
+        "High Performance Brakes"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        102224
+      ],
+      "finalCategoryId": 102224,
+      "productId": 3375
+    }
+  ],
+  "productIdsInArbo": [
+    1009,
+    3375
+  ],
+  "matchedProductIds": [
+    1009
+  ]
+}

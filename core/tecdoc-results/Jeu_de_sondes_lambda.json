@@ -1,0 +1,253 @@
+{
+  "productName": "Jeu de sondes lambda",
+  "searchText": "Jeu de sondes lambda",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:51:23.811Z",
+  "productId": 3924,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Épuration des gaz d'échappement": {
+          "categoryId": null,
+          "categoryName": "Épuration des gaz d'échappement",
+          "level": 2,
+          "children": {
+            "Jeu de sondes lambda": {
+              "categoryId": 100790,
+              "categoryName": "Exhaust Emission Control",
+              "level": 2,
+              "children": {
+                "Régulation lambda": {
+                  "categoryId": null,
+                  "categoryName": "Régulation lambda",
+                  "level": 4,
+                  "children": {
+                    "Jeu de sondes lambda": {
+                      "categoryId": 100793,
+                      "categoryName": "Lambda Control",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3924
+                    }
+                  }
+                }
+              },
+              "productId": 3924
+            }
+          }
+        },
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Jeu de sondes lambda": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Capteur/sonde lambda": {
+                  "categoryId": null,
+                  "categoryName": "Capteur/sonde lambda",
+                  "level": 4,
+                  "children": {
+                    "Jeu de sondes lambda": {
+                      "categoryId": 102809,
+                      "categoryName": "Sensor/Probe",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3924
+                    }
+                  }
+                }
+              },
+              "productId": 3924
+            }
+          }
+        }
+      }
+    },
+    "Échappement": {
+      "categoryId": 100004,
+      "categoryName": "Échappement",
+      "level": 1,
+      "children": {
+        "Capteur lambda": {
+          "categoryId": null,
+          "categoryName": "Capteur lambda",
+          "level": 2,
+          "children": {
+            "Jeu de sondes lambda": {
+              "categoryId": 100048,
+              "categoryName": "Oxygen Sensor",
+              "level": 2,
+              "children": [],
+              "productId": 3924
+            }
+          }
+        },
+        "Capteur/sonde lambda": {
+          "categoryId": null,
+          "categoryName": "Capteur/sonde lambda",
+          "level": 2,
+          "children": {
+            "Jeu de sondes lambda": {
+              "categoryId": 103414,
+              "categoryName": "Sensor/Probe",
+              "level": 2,
+              "children": [],
+              "productId": 3924
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Circuit électrique du moteur": {
+          "categoryId": null,
+          "categoryName": "Circuit électrique du moteur",
+          "level": 2,
+          "children": {
+            "Jeu de sondes lambda": {
+              "categoryId": 100754,
+              "categoryName": "Engine Electrics",
+              "level": 2,
+              "children": [],
+              "productId": 3924
+            }
+          }
+        },
+        "Épuration des gaz d'échappement": {
+          "categoryId": null,
+          "categoryName": "Épuration des gaz d'échappement",
+          "level": 2,
+          "children": {
+            "Jeu de sondes lambda": {
+              "categoryId": 100541,
+              "categoryName": "Exhaust Emission Control",
+              "level": 2,
+              "children": {
+                "Régulation lambda": {
+                  "categoryId": null,
+                  "categoryName": "Régulation lambda",
+                  "level": 4,
+                  "children": {
+                    "Jeu de sondes lambda": {
+                      "categoryId": 100729,
+                      "categoryName": "Lambda Control",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3924
+                    }
+                  }
+                }
+              },
+              "productId": 3924
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carburation [ID: 100254] (Niveau 1)\n│   ├── Épuration des gaz d'échappement (Niveau 2)\n│   │   └── Exhaust Emission Control [ID: 100790] (Niveau 2) → ProductId: 3924\n│   │       └── Régulation lambda (Niveau 4)\n│   │           └── Lambda Control [ID: 100793] (Niveau 3) → ProductId: 3924\n│   └── Mélange air-carburant (Niveau 2)\n│       └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 3924\n│           └── Capteur/sonde lambda (Niveau 4)\n│               └── Sensor/Probe [ID: 102809] (Niveau 3) → ProductId: 3924\n\n├── Échappement [ID: 100004] (Niveau 1)\n│   ├── Capteur lambda (Niveau 2)\n│   │   └── Oxygen Sensor [ID: 100048] (Niveau 2) → ProductId: 3924\n│   └── Capteur/sonde lambda (Niveau 2)\n│       └── Sensor/Probe [ID: 103414] (Niveau 2) → ProductId: 3924\n\n└── Moteur [ID: 100002] (Niveau 1)\n    ├── Circuit électrique du moteur (Niveau 2)\n    │   └── Engine Electrics [ID: 100754] (Niveau 2) → ProductId: 3924\n    └── Épuration des gaz d'échappement (Niveau 2)\n        └── Exhaust Emission Control [ID: 100541] (Niveau 2) → ProductId: 3924\n            └── Régulation lambda (Niveau 4)\n                └── Lambda Control [ID: 100729] (Niveau 3) → ProductId: 3924",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Épuration des gaz d'échappement",
+        "Exhaust Emission Control"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        100790
+      ],
+      "finalCategoryId": 100790,
+      "productId": 3924
+    },
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 3924
+    },
+    {
+      "path": [
+        "Échappement",
+        "Capteur lambda",
+        "Oxygen Sensor"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100048
+      ],
+      "finalCategoryId": 100048,
+      "productId": 3924
+    },
+    {
+      "path": [
+        "Échappement",
+        "Capteur/sonde lambda",
+        "Sensor/Probe"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        103414
+      ],
+      "finalCategoryId": 103414,
+      "productId": 3924
+    },
+    {
+      "path": [
+        "Moteur",
+        "Circuit électrique du moteur",
+        "Engine Electrics"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100754
+      ],
+      "finalCategoryId": 100754,
+      "productId": 3924
+    },
+    {
+      "path": [
+        "Moteur",
+        "Épuration des gaz d'échappement",
+        "Exhaust Emission Control"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100541
+      ],
+      "finalCategoryId": 100541,
+      "productId": 3924
+    }
+  ],
+  "productIdsInArbo": [
+    3924
+  ],
+  "matchedProductIds": [
+    3924
+  ]
+}

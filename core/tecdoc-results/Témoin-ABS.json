@@ -1,0 +1,106 @@
+{
+  "productName": "Témoin-ABS",
+  "searchText": "Témoin-ABS",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:29:42.462Z",
+  "productId": 4303,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Instruments": {
+          "categoryId": null,
+          "categoryName": "Instruments",
+          "level": 2,
+          "children": {
+            "Témoin-ABS": {
+              "categoryId": 100322,
+              "categoryName": "Instruments",
+              "level": 2,
+              "children": {
+                "Instruments indicateurs": {
+                  "categoryId": null,
+                  "categoryName": "Instruments indicateurs",
+                  "level": 4,
+                  "children": {
+                    "Témoin-ABS": {
+                      "categoryId": 100555,
+                      "categoryName": "Gauges",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4303
+                    }
+                  }
+                }
+              },
+              "productId": 4303
+            },
+            "Voyant, témoin-ABS": {
+              "categoryId": 100322,
+              "categoryName": "Instruments",
+              "level": 2,
+              "children": {
+                "Instruments indicateurs": {
+                  "categoryId": null,
+                  "categoryName": "Instruments indicateurs",
+                  "level": 4,
+                  "children": {
+                    "Voyant, témoin-ABS": {
+                      "categoryId": 100555,
+                      "categoryName": "Gauges",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4312
+                    }
+                  }
+                }
+              },
+              "productId": 4312
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Instruments (Niveau 2)\n        ├── Instruments [ID: 100322] (Niveau 2) → ProductId: 4303\n        │   └── Instruments indicateurs (Niveau 4)\n        │       └── Gauges [ID: 100555] (Niveau 3) → ProductId: 4303\n        └── Instruments [ID: 100322] (Niveau 2) → ProductId: 4312\n            └── Instruments indicateurs (Niveau 4)\n                └── Gauges [ID: 100555] (Niveau 3) → ProductId: 4312",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Instruments",
+        "Instruments"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100322
+      ],
+      "finalCategoryId": 100322,
+      "productId": 4303
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Instruments",
+        "Instruments"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100322
+      ],
+      "finalCategoryId": 100322,
+      "productId": 4312
+    }
+  ],
+  "productIdsInArbo": [
+    4303,
+    4312
+  ],
+  "matchedProductIds": [
+    4303
+  ]
+}

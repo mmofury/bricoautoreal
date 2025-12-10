@@ -1,0 +1,145 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.431Z",
+  "manufacturer": "NETA (HOZON)",
+  "countGroups": 8,
+  "groups": [
+    {
+      "manufacturerId": 5156,
+      "manufacturerName": "NETA (HOZON)",
+      "groupKey": "AYA",
+      "displayName": "AYA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44707,
+          "modelName": "AYA",
+          "modelYearFrom": "2023-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5156,
+      "manufacturerName": "NETA (HOZON)",
+      "groupKey": "GT",
+      "displayName": "GT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44293,
+          "modelName": "GT",
+          "modelYearFrom": "2023-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5156,
+      "manufacturerName": "NETA (HOZON)",
+      "groupKey": "L",
+      "displayName": "L",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45466,
+          "modelName": "L",
+          "modelYearFrom": "2024-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5156,
+      "manufacturerName": "NETA (HOZON)",
+      "groupKey": "N01",
+      "displayName": "N01",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39167,
+          "modelName": "N01",
+          "modelYearFrom": "2018-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5156,
+      "manufacturerName": "NETA (HOZON)",
+      "groupKey": "S",
+      "displayName": "S",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43109,
+          "modelName": "S",
+          "modelYearFrom": "2022-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45837,
+          "modelName": "S",
+          "modelYearFrom": "2024-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5156,
+      "manufacturerName": "NETA (HOZON)",
+      "groupKey": "U",
+      "displayName": "U",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40576,
+          "modelName": "U",
+          "modelYearFrom": "2020-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41899,
+          "modelName": "U PRO",
+          "modelYearFrom": "2021-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5156,
+      "manufacturerName": "NETA (HOZON)",
+      "groupKey": "V",
+      "displayName": "V",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41370,
+          "modelName": "V",
+          "modelYearFrom": "2020-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42529,
+          "modelName": "V PRO",
+          "modelYearFrom": "2021-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5156,
+      "manufacturerName": "NETA (HOZON)",
+      "groupKey": "X",
+      "displayName": "X",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44858,
+          "modelName": "X",
+          "modelYearFrom": "2023-10-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

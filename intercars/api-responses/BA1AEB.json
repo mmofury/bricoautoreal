@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "BA1AEB",
+      "index": "2.65152",
+      "tecDoc": "2.65152",
+      "tecDocProd": "355",
+      "articleNumber": "2.65152",
+      "brand": "DT SPARE PARTS",
+      "shortDescription": "Wheel bearing",
+      "description": "Wheel bearing - single front fits: VOLVO B6, FL6 D6A180-TD63ES 09.85-",
+      "packageWeight": "1,148",
+      "packageWidth": "3,700",
+      "packageDepth": "12,700",
+      "packageHeight": "12,700",
+      "customsCode": "84822000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1691",
+          "primary": false,
+          "name": {
+            "en": "Ring, wheel hub"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_655",
+          "primary": true,
+          "name": {
+            "en": "Wheel bearing"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.559Z",
+  "manufacturer": "ZINORO",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 4033,
+      "manufacturerName": "ZINORO",
+      "groupKey": "1E",
+      "displayName": "1E",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13622,
+          "modelName": "1E",
+          "modelYearFrom": "2014-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4033,
+      "manufacturerName": "ZINORO",
+      "groupKey": "60H",
+      "displayName": "60H",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37212,
+          "modelName": "60H",
+          "modelYearFrom": "2016-07-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

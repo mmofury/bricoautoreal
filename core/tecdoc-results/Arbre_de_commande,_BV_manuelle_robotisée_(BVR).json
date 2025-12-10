@@ -1,0 +1,69 @@
+{
+  "productName": "Arbre de commande, BV manuelle robotisée (BVR)",
+  "searchText": "Arbre de commande, BV manuelle robotisée (BVR)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T18:56:26.607Z",
+  "productId": 60311,
+  "arborescence": {
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Boîte de vitesses manuelle robotisée (BVR)": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesses manuelle robotisée (BVR)",
+          "level": 2,
+          "children": {
+            "Arbre de commande, BV manuelle robotisée (BVR)": {
+              "categoryId": 706584,
+              "categoryName": "Automated manual transmission (AMT)",
+              "level": 2,
+              "children": {
+                "Arbres de boîte de vitesses/composants": {
+                  "categoryId": null,
+                  "categoryName": "Arbres de boîte de vitesses/composants",
+                  "level": 4,
+                  "children": {
+                    "Arbre de commande, BV manuelle robotisée (BVR)": {
+                      "categoryId": 706615,
+                      "categoryName": "Transmission shaft/parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60311
+                    }
+                  }
+                }
+              },
+              "productId": 60311
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Boîte de vitesses [ID: 100238] (Niveau 1)\n    └── Boîte de vitesses manuelle robotisée (BVR) (Niveau 2)\n        └── Automated manual transmission (AMT) [ID: 706584] (Niveau 2) → ProductId: 60311\n            └── Arbres de boîte de vitesses/composants (Niveau 4)\n                └── Transmission shaft/parts [ID: 706615] (Niveau 3) → ProductId: 60311",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesses manuelle robotisée (BVR)",
+        "Automated manual transmission (AMT)"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        706584
+      ],
+      "finalCategoryId": 706584,
+      "productId": 60311
+    }
+  ],
+  "productIdsInArbo": [
+    60311
+  ],
+  "matchedProductIds": [
+    60311
+  ]
+}

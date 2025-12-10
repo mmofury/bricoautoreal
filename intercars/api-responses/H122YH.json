@@ -1,0 +1,36 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H122YH",
+      "index": "BOS261-001",
+      "tecDoc": "261-001",
+      "tecDocProd": "41",
+      "articleNumber": "261-001",
+      "brand": "BOSAL",
+      "shortDescription": "Weld-in Thread, oxygen sensor",
+      "description": "Exhaust system fitting element (nut), M18x1,5, 1pcs",
+      "gtuCode": "GTU_07",
+      "customsCode": "87089299",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1788",
+          "primary": false,
+          "name": {
+            "en": "Nut, exhaust manifold"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_4282",
+          "primary": true,
+          "name": {
+            "en": "Weld-in Thread, oxygen sensor"
+          }
+        }
+      ]
+    }
+  ]
+}

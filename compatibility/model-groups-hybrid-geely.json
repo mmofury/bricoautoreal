@@ -1,0 +1,799 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.287Z",
+  "manufacturer": "GEELY",
+  "countGroups": 36,
+  "groups": [
+    {
+      "manufacturerId": 2590,
+      "manufacturerName": "GEELY",
+      "groupKey": "BINRUI",
+      "displayName": "BINRUI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39107,
+          "modelName": "BINRUI",
+          "modelYearFrom": "2018-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44787,
+          "modelName": "BINRUI COOL",
+          "modelYearFrom": "2022-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2590,
+      "manufacturerName": "GEELY",
+      "groupKey": "BINYUE",
+      "displayName": "BINYUE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39106,
+          "modelName": "BINYUE",
+          "modelYearFrom": "2018-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42568,
+          "modelName": "BINYUE Pro",
+          "modelYearFrom": "2020-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44527,
+          "modelName": "BINYUE COOL",
+          "modelYearFrom": "2022-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 46057,
+          "modelName": "BINYUE L",
+          "modelYearFrom": "2024-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2590,
+      "manufacturerName": "GEELY",
+      "groupKey": "BL",
+      "displayName": "BL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5471,
+          "modelName": "BL",
+          "modelYearFrom": "2003-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2590,
+      "manufacturerName": "GEELY",
+      "groupKey": "BORUI",
+      "displayName": "BORUI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14143,
+          "modelName": "BORUI",
+          "modelYearFrom": "2015-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38742,
+          "modelName": "BORUI GE",
+          "modelYearFrom": "2018-05-01",
+          "modelYearTo": "2020-08-01"
+        },
+        {
+          "modelId": 41005,
+          "modelName": "BORUI ePro",
+          "modelYearFrom": "2020-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2590,
+      "manufacturerName": "GEELY",
+      "groupKey": "BOYUE",
+      "displayName": "BOYUE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36503,
+          "modelName": "BOYUE (MR6453)",
+          "modelYearFrom": "2016-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41187,
+          "modelName": "BOYUE PRO",
+          "modelYearFrom": "2019-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42465,
+          "modelName": "BOYUE X",
+          "modelYearFrom": "2021-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43692,
+          "modelName": "BOYUE L",
+          "modelYearFrom": "2022-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44487,
+          "modelName": "BOYUE COOL",
+          "modelYearFrom": "2023-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2590,
+      "manufacturerName": "GEELY",
+      "groupKey": "CK",
+      "displayName": "CK",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5472,
+          "modelName": "CK",
+          "modelYearFrom": "2005-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2590,
+      "manufacturerName": "GEELY",
+      "groupKey": "EMGRAND",
+      "displayName": "EMGRAND",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14611,
+          "modelName": "EMGRAND A trois volumes",
+          "modelYearFrom": "2014-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14803,
+          "modelName": "EMGRAND Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2014-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37184,
+          "modelName": "EMGRAND GL",
+          "modelYearFrom": "2016-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37559,
+          "modelName": "EMGRAND RS",
+          "modelYearFrom": "2015-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37605,
+          "modelName": "EMGRAND GS",
+          "modelYearFrom": "2016-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41900,
+          "modelName": "EMGRAND S",
+          "modelYearFrom": "2021-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42378,
+          "modelName": "EMGRAND A trois volumes",
+          "modelYearFrom": "2021-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42613,
+          "modelName": "EMGRAND L",
+          "modelYearFrom": "2021-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2590,
+      "manufacturerName": "GEELY",
+      "groupKey": "GC2",
+      "displayName": "GC2",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 12775,
+          "modelName": "GC2",
+          "modelYearFrom": "2014-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2590,
+      "manufacturerName": "GEELY",
+      "groupKey": "GC5",
+      "displayName": "GC5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39038,
+          "modelName": "GC5 A trois volumes",
+          "modelYearFrom": "2014-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39040,
+          "modelName": "GC5 Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2014-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2590,
+      "manufacturerName": "GEELY",
+      "groupKey": "GC6",
+      "displayName": "GC6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14826,
+          "modelName": "GC6",
+          "modelYearFrom": "2014-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2590,
+      "manufacturerName": "GEELY",
+      "groupKey": "GC7",
+      "displayName": "GC7",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36991,
+          "modelName": "GC7",
+          "modelYearFrom": "2011-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2590,
+      "manufacturerName": "GEELY",
+      "groupKey": "GX2",
+      "displayName": "GX2",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36209,
+          "modelName": "GX2 / PANDA",
+          "modelYearFrom": "2010-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2590,
+      "manufacturerName": "GEELY",
+      "groupKey": "GX7",
+      "displayName": "GX7",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36210,
+          "modelName": "GX7",
+          "modelYearFrom": "2015-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2590,
+      "manufacturerName": "GEELY",
+      "groupKey": "HAOQING",
+      "displayName": "HAOQING",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6955,
+          "modelName": "HAOQING Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1998-05-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 8969,
+          "modelName": "HAOQING SRV Break",
+          "modelYearFrom": "2004-01-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 13298,
+          "modelName": "HAOQING SUV",
+          "modelYearFrom": "2014-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2590,
+      "manufacturerName": "GEELY",
+      "groupKey": "HAOYUE",
+      "displayName": "HAOYUE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40925,
+          "modelName": "HAOYUE",
+          "modelYearFrom": "2020-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43867,
+          "modelName": "HAOYUE L",
+          "modelYearFrom": "2022-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45091,
+          "modelName": "HAOYUE PRO",
+          "modelYearFrom": "2024-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2590,
+      "manufacturerName": "GEELY",
+      "groupKey": "HISOON",
+      "displayName": "HISOON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7010,
+          "modelName": "HISOON Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2004-07-01",
+          "modelYearTo": "2009-12-01"
+        },
+        {
+          "modelId": 7016,
+          "modelName": "HISOON A trois volumes",
+          "modelYearFrom": "2004-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2590,
+      "manufacturerName": "GEELY",
+      "groupKey": "HQ",
+      "displayName": "HQ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5468,
+          "modelName": "HQ SRV",
+          "modelYearFrom": "2005-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2590,
+      "manufacturerName": "GEELY",
+      "groupKey": "ICON",
+      "displayName": "ICON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40256,
+          "modelName": "ICON",
+          "modelYearFrom": "2019-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2590,
+      "manufacturerName": "GEELY",
+      "groupKey": "JIAJI",
+      "displayName": "JIAJI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39295,
+          "modelName": "JIAJI",
+          "modelYearFrom": "2019-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43562,
+          "modelName": "JIAJI L",
+          "modelYearFrom": "2022-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2590,
+      "manufacturerName": "GEELY",
+      "groupKey": "KINGKONG",
+      "displayName": "KINGKONG",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6956,
+          "modelName": "KINGKONG",
+          "modelYearFrom": "2005-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13621,
+          "modelName": "KINGKONG CAIFU",
+          "modelYearFrom": "2015-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39877,
+          "modelName": "KINGKONG",
+          "modelYearFrom": "2016-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40952,
+          "modelName": "KINGKONG CROSS",
+          "modelYearFrom": "2016-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2590,
+      "manufacturerName": "GEELY",
+      "groupKey": "LEADING",
+      "displayName": "LEADING",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7632,
+          "modelName": "LEADING Coupé",
+          "modelYearFrom": "2006-11-01",
+          "modelYearTo": "2008-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2590,
+      "manufacturerName": "GEELY",
+      "groupKey": "MARINDO",
+      "displayName": "MARINDO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7017,
+          "modelName": "MARINDO",
+          "modelYearFrom": "2005-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2590,
+      "manufacturerName": "GEELY",
+      "groupKey": "MEIRI",
+      "displayName": "MEIRI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7018,
+          "modelName": "MEIRI",
+          "modelYearFrom": "1999-06-01",
+          "modelYearTo": "2004-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2590,
+      "manufacturerName": "GEELY",
+      "groupKey": "MERRIE",
+      "displayName": "MERRIE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6957,
+          "modelName": "MERRIE",
+          "modelYearFrom": "2001-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2590,
+      "manufacturerName": "GEELY",
+      "groupKey": "MK",
+      "displayName": "MK",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10569,
+          "modelName": "MK A trois volumes",
+          "modelYearFrom": "2012-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10570,
+          "modelName": "MK Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2008-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14822,
+          "modelName": "MK A trois volumes",
+          "modelYearFrom": "2005-06-01",
+          "modelYearTo": "2013-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2590,
+      "manufacturerName": "GEELY",
+      "groupKey": "MR",
+      "displayName": "MR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5469,
+          "modelName": "MR Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2005-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 5470,
+          "modelName": "MR Sedan",
+          "modelYearFrom": "2005-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2590,
+      "manufacturerName": "GEELY",
+      "groupKey": "NIUZAI",
+      "displayName": "NIUZAI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 46056,
+          "modelName": "NIUZAI",
+          "modelYearFrom": "2024-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2590,
+      "manufacturerName": "GEELY",
+      "groupKey": "OKAVANGO",
+      "displayName": "OKAVANGO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41863,
+          "modelName": "OKAVANGO",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2590,
+      "manufacturerName": "GEELY",
+      "groupKey": "PANDA",
+      "displayName": "PANDA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7879,
+          "modelName": "PANDA",
+          "modelYearFrom": "2008-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43916,
+          "modelName": "PANDA MINI",
+          "modelYearFrom": "2022-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2590,
+      "manufacturerName": "GEELY",
+      "groupKey": "PREFACE",
+      "displayName": "PREFACE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41347,
+          "modelName": "PREFACE",
+          "modelYearFrom": "2020-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45024,
+          "modelName": "PREFACE L",
+          "modelYearFrom": "2023-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2590,
+      "manufacturerName": "GEELY",
+      "groupKey": "PU",
+      "displayName": "PU",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5473,
+          "modelName": "PU",
+          "modelYearFrom": "2005-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2590,
+      "manufacturerName": "GEELY",
+      "groupKey": "SL",
+      "displayName": "SL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11431,
+          "modelName": "SL",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2590,
+      "manufacturerName": "GEELY",
+      "groupKey": "ULIO",
+      "displayName": "ULIO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6958,
+          "modelName": "ULIO",
+          "modelYearFrom": "2002-04-01",
+          "modelYearTo": "2009-12-01"
+        },
+        {
+          "modelId": 36892,
+          "modelName": "ULIO",
+          "modelYearFrom": "2005-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2590,
+      "manufacturerName": "GEELY",
+      "groupKey": "URBAN",
+      "displayName": "URBAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7019,
+          "modelName": "URBAN NANNY",
+          "modelYearFrom": "2004-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2590,
+      "manufacturerName": "GEELY",
+      "groupKey": "VISION",
+      "displayName": "VISION",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7020,
+          "modelName": "VISION A trois volumes",
+          "modelYearFrom": "2005-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13374,
+          "modelName": "VISION A trois volumes",
+          "modelYearFrom": "2014-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37185,
+          "modelName": "VISION SUV",
+          "modelYearFrom": "2016-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38023,
+          "modelName": "VISION X1",
+          "modelYearFrom": "2017-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38173,
+          "modelName": "VISION X3",
+          "modelYearFrom": "2017-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38319,
+          "modelName": "VISION S1",
+          "modelYearFrom": "2017-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41898,
+          "modelName": "VISION X3 PRO",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42570,
+          "modelName": "VISION X6 PRO",
+          "modelYearFrom": "2021-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2590,
+      "manufacturerName": "GEELY",
+      "groupKey": "XINGYUE",
+      "displayName": "XINGYUE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39559,
+          "modelName": "XINGYUE",
+          "modelYearFrom": "2019-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42131,
+          "modelName": "XINGYUE S",
+          "modelYearFrom": "2021-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42183,
+          "modelName": "XINGYUE L",
+          "modelYearFrom": "2021-07-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

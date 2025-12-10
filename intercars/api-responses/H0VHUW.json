@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H0VHUW",
+      "index": "2800014026180",
+      "tecDoc": "2800014026180",
+      "tecDocProd": "83",
+      "articleNumber": "2800014026180",
+      "brand": "VDO",
+      "shortDescription": "Control Valve, camshaft adjustment",
+      "description": "Camshaft phasing unit fits: MERCEDES C (C204), C T-MODEL (S204), C (W204), E (A207), E (C207), E T-MODEL (S212), E (W212), SLK (R172) 1.8 01.07-",
+      "customsCode": "84099900",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4229",
+          "primary": false,
+          "name": {
+            "en": "Central Magnet, camshaft adjustment"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3826",
+          "primary": true,
+          "name": {
+            "en": "Control Valve, camshaft adjustment"
+          }
+        }
+      ]
+    }
+  ]
+}

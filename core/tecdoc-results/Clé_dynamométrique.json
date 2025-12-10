@@ -1,0 +1,57 @@
+{
+  "productName": "Clé dynamométrique",
+  "searchText": "Clé dynamométrique",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T20:21:13.245Z",
+  "productId": 4833,
+  "arborescence": {
+    "Allumage / préchauffage": {
+      "categoryId": 100008,
+      "categoryName": "Allumage / préchauffage",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Clé dynamométrique, bougie d'allumage": {
+              "categoryId": 103139,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4861
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Allumage / préchauffage [ID: 100008] (Niveau 1)\n    └── Outils (Niveau 2)\n        └── Tools [ID: 103139] (Niveau 2) → ProductId: 4861",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        103139
+      ],
+      "finalCategoryId": 103139,
+      "productId": 4861
+    }
+  ],
+  "productIdsInArbo": [
+    4861
+  ],
+  "closestProductIds": [
+    {
+      "productId": 4861,
+      "productName": "Clé dynamométrique, bougie d'allumage"
+    }
+  ]
+}

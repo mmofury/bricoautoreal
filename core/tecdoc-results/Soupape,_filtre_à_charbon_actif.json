@@ -1,0 +1,110 @@
+{
+  "productName": "Soupape, filtre à charbon actif",
+  "searchText": "Soupape, filtre à charbon actif",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:17:50.295Z",
+  "productId": 29,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Réservoir de carburant / accessoires": {
+          "categoryId": null,
+          "categoryName": "Réservoir de carburant / accessoires",
+          "level": 2,
+          "children": {
+            "Soupape, filtre à charbon actif": {
+              "categoryId": 100250,
+              "categoryName": "Fuel Tank/Accessories",
+              "level": 2,
+              "children": [],
+              "productId": 29
+            }
+          }
+        },
+        "Soupapes": {
+          "categoryId": null,
+          "categoryName": "Soupapes",
+          "level": 2,
+          "children": {
+            "Soupape, filtre à charbon actif": {
+              "categoryId": 100252,
+              "categoryName": "Valves",
+              "level": 2,
+              "children": [],
+              "productId": 29
+            }
+          }
+        },
+        "Système AKF": {
+          "categoryId": null,
+          "categoryName": "Système AKF",
+          "level": 2,
+          "children": {
+            "Soupape, filtre à charbon actif": {
+              "categoryId": 706089,
+              "categoryName": "AKF System",
+              "level": 2,
+              "children": [],
+              "productId": 29
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Alimentation carburant [ID: 100214] (Niveau 1)\n    ├── Réservoir de carburant / accessoires (Niveau 2)\n    │   └── Fuel Tank/Accessories [ID: 100250] (Niveau 2) → ProductId: 29\n    ├── Soupapes (Niveau 2)\n    │   └── Valves [ID: 100252] (Niveau 2) → ProductId: 29\n    └── Système AKF (Niveau 2)\n        └── AKF System [ID: 706089] (Niveau 2) → ProductId: 29",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Réservoir de carburant / accessoires",
+        "Fuel Tank/Accessories"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100250
+      ],
+      "finalCategoryId": 100250,
+      "productId": 29
+    },
+    {
+      "path": [
+        "Alimentation carburant",
+        "Soupapes",
+        "Valves"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100252
+      ],
+      "finalCategoryId": 100252,
+      "productId": 29
+    },
+    {
+      "path": [
+        "Alimentation carburant",
+        "Système AKF",
+        "AKF System"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        706089
+      ],
+      "finalCategoryId": 706089,
+      "productId": 29
+    }
+  ],
+  "productIdsInArbo": [
+    29
+  ],
+  "matchedProductIds": [
+    29
+  ]
+}

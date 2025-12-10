@@ -1,0 +1,160 @@
+{
+  "productName": "Moteur électrique, portière",
+  "searchText": "Moteur électrique, portière",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:15:56.488Z",
+  "productId": 7415,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Moteur électrique": {
+          "categoryId": null,
+          "categoryName": "Moteur électrique",
+          "level": 2,
+          "children": {
+            "Moteur électrique, portière": {
+              "categoryId": 105577,
+              "categoryName": "Electric Motor",
+              "level": 2,
+              "children": [],
+              "productId": 7415
+            }
+          }
+        },
+        "Ressorts pneumatiques": {
+          "categoryId": null,
+          "categoryName": "Ressorts pneumatiques",
+          "level": 2,
+          "children": {
+            "Moteur électrique, portière": {
+              "categoryId": 100826,
+              "categoryName": "Gas Springs",
+              "level": 2,
+              "children": [],
+              "productId": 7415
+            }
+          }
+        }
+      }
+    },
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Aide de fermeture/commande de porte": {
+          "categoryId": null,
+          "categoryName": "Aide de fermeture/commande de porte",
+          "level": 2,
+          "children": {
+            "Moteur électrique, portière": {
+              "categoryId": 100836,
+              "categoryName": "Door Closing Aid/Door Actuation",
+              "level": 2,
+              "children": [],
+              "productId": 7415
+            }
+          }
+        },
+        "Moteur / Relais": {
+          "categoryId": null,
+          "categoryName": "Moteur / Relais",
+          "level": 2,
+          "children": {
+            "Moteur électrique, portière": {
+              "categoryId": 104156,
+              "categoryName": "Motor/Relay/Switch",
+              "level": 2,
+              "children": {
+                "Porte": {
+                  "categoryId": null,
+                  "categoryName": "Porte",
+                  "level": 4,
+                  "children": {
+                    "Moteur électrique, portière": {
+                      "categoryId": 105588,
+                      "categoryName": "Door",
+                      "level": 3,
+                      "children": [],
+                      "productId": 7415
+                    }
+                  }
+                }
+              },
+              "productId": 7415
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carrosserie [ID: 100001] (Niveau 1)\n│   ├── Moteur électrique (Niveau 2)\n│   │   └── Electric Motor [ID: 105577] (Niveau 2) → ProductId: 7415\n│   └── Ressorts pneumatiques (Niveau 2)\n│       └── Gas Springs [ID: 100826] (Niveau 2) → ProductId: 7415\n\n└── Systèmes de confort [ID: 100335] (Niveau 1)\n    ├── Aide de fermeture/commande de porte (Niveau 2)\n    │   └── Door Closing Aid/Door Actuation [ID: 100836] (Niveau 2) → ProductId: 7415\n    └── Moteur / Relais (Niveau 2)\n        └── Motor/Relay/Switch [ID: 104156] (Niveau 2) → ProductId: 7415\n            └── Porte (Niveau 4)\n                └── Door [ID: 105588] (Niveau 3) → ProductId: 7415",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Moteur électrique",
+        "Electric Motor"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        105577
+      ],
+      "finalCategoryId": 105577,
+      "productId": 7415
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Ressorts pneumatiques",
+        "Gas Springs"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100826
+      ],
+      "finalCategoryId": 100826,
+      "productId": 7415
+    },
+    {
+      "path": [
+        "Systèmes de confort",
+        "Aide de fermeture/commande de porte",
+        "Door Closing Aid/Door Actuation"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        100836
+      ],
+      "finalCategoryId": 100836,
+      "productId": 7415
+    },
+    {
+      "path": [
+        "Systèmes de confort",
+        "Moteur / Relais",
+        "Motor/Relay/Switch"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        104156
+      ],
+      "finalCategoryId": 104156,
+      "productId": 7415
+    }
+  ],
+  "productIdsInArbo": [
+    7415
+  ],
+  "matchedProductIds": [
+    7415
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.335Z",
+  "manufacturer": "IES",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 4536,
+      "manufacturerName": "IES",
+      "groupKey": "CARGA",
+      "displayName": "CARGA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37036,
+          "modelName": "CARGA Pick-up (AZ)",
+          "modelYearFrom": "1985-03-01",
+          "modelYearTo": "1988-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4536,
+      "manufacturerName": "IES",
+      "groupKey": "GRINGA",
+      "displayName": "GRINGA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37033,
+          "modelName": "GRINGA Pick-up (AZ)",
+          "modelYearFrom": "1985-03-01",
+          "modelYearTo": "1988-04-01"
+        },
+        {
+          "modelId": 37034,
+          "modelName": "GRINGA Fourgon/Break (AZ)",
+          "modelYearFrom": "1985-03-01",
+          "modelYearTo": "1988-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4536,
+      "manufacturerName": "IES",
+      "groupKey": "GRINGO",
+      "displayName": "GRINGO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37035,
+          "modelName": "GRINGO (AZ)",
+          "modelYearFrom": "1985-03-01",
+          "modelYearTo": "1988-04-01"
+        }
+      ]
+    }
+  ]
+}

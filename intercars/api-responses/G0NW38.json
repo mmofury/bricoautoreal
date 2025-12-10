@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G0NW38",
+      "index": "HAZ 2145-500",
+      "tecDoc": "2145-500",
+      "tecDocProd": "4808",
+      "articleNumber": "2145-500",
+      "brand": "HAZET",
+      "shortDescription": "Measuring tools",
+      "description": "Tape measure, kind: linear, length: 500mm",
+      "customsCode": "90173000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_5562",
+          "primary": false,
+          "name": {
+            "en": "Ruler"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91633",
+          "primary": true,
+          "name": {
+            "en": "Measuring tools"
+          }
+        }
+      ]
+    }
+  ]
+}

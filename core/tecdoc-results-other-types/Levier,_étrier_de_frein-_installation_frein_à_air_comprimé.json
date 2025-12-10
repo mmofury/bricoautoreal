@@ -1,0 +1,64 @@
+{
+  "productName": "Levier, étrier de frein- installation frein à air comprimé",
+  "productId": 5156,
+  "searchText": "Levier, étrier de frein- installation frein à air comprimé",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Dispositif de freinage": {
+          "categoryId": 200058,
+          "categoryName": "Dispositif de freinage",
+          "level": 1,
+          "children": {
+            "Étrier de frein": {
+              "categoryId": null,
+              "categoryName": "Étrier de frein",
+              "level": 2,
+              "children": {
+                "Levier, étrier de frein- installation frein à air comprimé": {
+                  "categoryId": 201084,
+                  "categoryName": "Brake Caliper",
+                  "level": 2,
+                  "children": {
+                    "Composants": {
+                      "categoryId": null,
+                      "categoryName": "Composants",
+                      "level": 4,
+                      "children": {
+                        "Levier, étrier de frein- installation frein à air comprimé": {
+                          "categoryId": 201085,
+                          "categoryName": "Parts",
+                          "level": 3,
+                          "children": [],
+                          "productId": 5156
+                        }
+                      }
+                    }
+                  },
+                  "productId": 5156
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Dispositif de freinage [ID: 200058] (Niveau 1)\n    └── Étrier de frein (Niveau 2)\n        └── Brake Caliper [ID: 201084] (Niveau 2) → ProductId: 5156\n            └── Composants (Niveau 4)\n                └── Parts [ID: 201085] (Niveau 3) → ProductId: 5156",
+      "productIdsInArbo": [
+        5156
+      ],
+      "matchedProductIds": [
+        5156
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:49:17.294Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

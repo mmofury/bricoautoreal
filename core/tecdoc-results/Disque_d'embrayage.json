@@ -1,0 +1,193 @@
+{
+  "productName": "Disque d'embrayage",
+  "searchText": "Disque d'embrayage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:32:11.689Z",
+  "productId": 262,
+  "arborescence": {
+    "Embrayage / composants": {
+      "categoryId": 100050,
+      "categoryName": "Embrayage / composants",
+      "level": 1,
+      "children": {
+        "Disque d'embrayage": {
+          "categoryId": null,
+          "categoryName": "Disque d'embrayage",
+          "level": 2,
+          "children": {
+            "Disque d'embrayage": {
+              "categoryId": 100053,
+              "categoryName": "Clutch Disc",
+              "level": 2,
+              "children": [],
+              "productId": 262
+            },
+            "Garniture de friction, disque d'embrayage": {
+              "categoryId": 100053,
+              "categoryName": "Clutch Disc",
+              "level": 2,
+              "children": [],
+              "productId": 60684
+            },
+            "Jeu de lamelles, embrayage (boîte vitesses double embrayage)": {
+              "categoryId": 100053,
+              "categoryName": "Clutch Disc",
+              "level": 2,
+              "children": [],
+              "productId": 61070
+            },
+            "Kit de disques d'embrayage": {
+              "categoryId": 100053,
+              "categoryName": "Clutch Disc",
+              "level": 2,
+              "children": [],
+              "productId": 5170
+            },
+            "Kit de ressorts d'embrayage": {
+              "categoryId": 100053,
+              "categoryName": "Clutch Disc",
+              "level": 2,
+              "children": [],
+              "productId": 5362
+            },
+            "Lamelle, embrayage (boîte de vitesses à double embrayage)": {
+              "categoryId": 100053,
+              "categoryName": "Clutch Disc",
+              "level": 2,
+              "children": [],
+              "productId": 61069
+            }
+          }
+        },
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Outil de centrage, disque d'embrayage": {
+              "categoryId": 103156,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 9462
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Embrayage / composants [ID: 100050] (Niveau 1)\n    ├── Disque d'embrayage (Niveau 2)\n    │   ├── Clutch Disc [ID: 100053] (Niveau 2) → ProductId: 262\n    │   ├── Clutch Disc [ID: 100053] (Niveau 2) → ProductId: 60684\n    │   ├── Clutch Disc [ID: 100053] (Niveau 2) → ProductId: 61070\n    │   ├── Clutch Disc [ID: 100053] (Niveau 2) → ProductId: 5170\n    │   ├── Clutch Disc [ID: 100053] (Niveau 2) → ProductId: 5362\n    │   └── Clutch Disc [ID: 100053] (Niveau 2) → ProductId: 61069\n    └── Outils (Niveau 2)\n        └── Tools [ID: 103156] (Niveau 2) → ProductId: 9462",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Embrayage / composants",
+        "Disque d'embrayage",
+        "Clutch Disc"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100053
+      ],
+      "finalCategoryId": 100053,
+      "productId": 262
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Disque d'embrayage",
+        "Clutch Disc"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100053
+      ],
+      "finalCategoryId": 100053,
+      "productId": 60684
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Disque d'embrayage",
+        "Clutch Disc"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100053
+      ],
+      "finalCategoryId": 100053,
+      "productId": 61070
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Disque d'embrayage",
+        "Clutch Disc"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100053
+      ],
+      "finalCategoryId": 100053,
+      "productId": 5170
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Disque d'embrayage",
+        "Clutch Disc"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100053
+      ],
+      "finalCategoryId": 100053,
+      "productId": 5362
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Disque d'embrayage",
+        "Clutch Disc"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100053
+      ],
+      "finalCategoryId": 100053,
+      "productId": 61069
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        103156
+      ],
+      "finalCategoryId": 103156,
+      "productId": 9462
+    }
+  ],
+  "productIdsInArbo": [
+    262,
+    5170,
+    5362,
+    9462,
+    60684,
+    61069,
+    61070
+  ],
+  "matchedProductIds": [
+    262
+  ]
+}

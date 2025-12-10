@@ -1,0 +1,69 @@
+{
+  "productName": "Kit d'accessoires, plaquette de frein à disque",
+  "searchText": "Kit d'accessoires, plaquette de frein à disque",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:57:36.245Z",
+  "productId": 1164,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Frein à disque": {
+          "categoryId": null,
+          "categoryName": "Frein à disque",
+          "level": 2,
+          "children": {
+            "Kit d'accessoires, plaquette de frein à disque": {
+              "categoryId": 100626,
+              "categoryName": "Disc Brake",
+              "level": 2,
+              "children": {
+                "Accessoires / composants": {
+                  "categoryId": null,
+                  "categoryName": "Accessoires / composants",
+                  "level": 4,
+                  "children": {
+                    "Kit d'accessoires, plaquette de frein à disque": {
+                      "categoryId": 100630,
+                      "categoryName": "Accessories/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1164
+                    }
+                  }
+                }
+              },
+              "productId": 1164
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif de freinage [ID: 100006] (Niveau 1)\n    └── Frein à disque (Niveau 2)\n        └── Disc Brake [ID: 100626] (Niveau 2) → ProductId: 1164\n            └── Accessoires / composants (Niveau 4)\n                └── Accessories/Parts [ID: 100630] (Niveau 3) → ProductId: 1164",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Frein à disque",
+        "Disc Brake"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100626
+      ],
+      "finalCategoryId": 100626,
+      "productId": 1164
+    }
+  ],
+  "productIdsInArbo": [
+    1164
+  ],
+  "matchedProductIds": [
+    1164
+  ]
+}

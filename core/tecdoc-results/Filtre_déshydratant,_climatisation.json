@@ -1,0 +1,54 @@
+{
+  "productName": "Filtre déshydratant, climatisation",
+  "searchText": "Filtre déshydratant, climatisation",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:39:24.897Z",
+  "productId": 851,
+  "arborescence": {
+    "Climatisation": {
+      "categoryId": 100243,
+      "categoryName": "Climatisation",
+      "level": 1,
+      "children": {
+        "Dessicateur": {
+          "categoryId": null,
+          "categoryName": "Dessicateur",
+          "level": 2,
+          "children": {
+            "Filtre déshydratant, climatisation": {
+              "categoryId": 100357,
+              "categoryName": "Dryer",
+              "level": 2,
+              "children": [],
+              "productId": 851
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Climatisation [ID: 100243] (Niveau 1)\n    └── Dessicateur (Niveau 2)\n        └── Dryer [ID: 100357] (Niveau 2) → ProductId: 851",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Climatisation",
+        "Dessicateur",
+        "Dryer"
+      ],
+      "categoryIds": [
+        100243,
+        null,
+        100357
+      ],
+      "finalCategoryId": 100357,
+      "productId": 851
+    }
+  ],
+  "productIdsInArbo": [
+    851
+  ],
+  "matchedProductIds": [
+    851
+  ]
+}

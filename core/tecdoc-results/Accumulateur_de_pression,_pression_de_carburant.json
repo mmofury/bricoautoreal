@@ -1,0 +1,69 @@
+{
+  "productName": "Accumulateur de pression, pression de carburant",
+  "searchText": "Accumulateur de pression, pression de carburant",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T18:47:36.469Z",
+  "productId": 1303,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Pompe / accessoires": {
+          "categoryId": null,
+          "categoryName": "Pompe / accessoires",
+          "level": 2,
+          "children": {
+            "Accumulateur de pression, pression de carburant": {
+              "categoryId": 100251,
+              "categoryName": "Pump/Accessories",
+              "level": 2,
+              "children": {
+                "Accessoires/Composants": {
+                  "categoryId": null,
+                  "categoryName": "Accessoires/Composants",
+                  "level": 4,
+                  "children": {
+                    "Accumulateur de pression, pression de carburant": {
+                      "categoryId": 100718,
+                      "categoryName": "Accessories/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1303
+                    }
+                  }
+                }
+              },
+              "productId": 1303
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Alimentation carburant [ID: 100214] (Niveau 1)\n    └── Pompe / accessoires (Niveau 2)\n        └── Pump/Accessories [ID: 100251] (Niveau 2) → ProductId: 1303\n            └── Accessoires/Composants (Niveau 4)\n                └── Accessories/Parts [ID: 100718] (Niveau 3) → ProductId: 1303",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Pompe / accessoires",
+        "Pump/Accessories"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100251
+      ],
+      "finalCategoryId": 100251,
+      "productId": 1303
+    }
+  ],
+  "productIdsInArbo": [
+    1303
+  ],
+  "matchedProductIds": [
+    1303
+  ]
+}

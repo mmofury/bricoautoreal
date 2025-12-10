@@ -1,0 +1,54 @@
+{
+  "productName": "Clé à douille, vis de vidange d'huile",
+  "searchText": "Clé à douille, vis de vidange d'huile",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:21:38.361Z",
+  "productId": 4543,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Clé à douille, vis de vidange d'huile": {
+              "categoryId": 103129,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4543
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Outils (Niveau 2)\n        └── Tools [ID: 103129] (Niveau 2) → ProductId: 4543",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        103129
+      ],
+      "finalCategoryId": 103129,
+      "productId": 4543
+    }
+  ],
+  "productIdsInArbo": [
+    4543
+  ],
+  "matchedProductIds": [
+    4543
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "productName": "Système d'injection",
+  "searchText": "Système d'injection",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:24:11.993Z",
+  "productId": 3895,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Dispositif d'arrêt, système d'injection": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Dispositif d'arrêt": {
+                  "categoryId": null,
+                  "categoryName": "Dispositif d'arrêt",
+                  "level": 4,
+                  "children": {
+                    "Dispositif d'arrêt, système d'injection": {
+                      "categoryId": 102794,
+                      "categoryName": "Mechanical Shutoff",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3890
+                    }
+                  }
+                }
+              },
+              "productId": 3890
+            },
+            "Gicleur, injection": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Soupapes/Bloc de soupapes": {
+                  "categoryId": null,
+                  "categoryName": "Soupapes/Bloc de soupapes",
+                  "level": 4,
+                  "children": {
+                    "Gicleur, injection": {
+                      "categoryId": 102811,
+                      "categoryName": "Valves/Valve Unit",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3959
+                    }
+                  }
+                }
+              },
+              "productId": 3959
+            },
+            "Jeu de joints, système d’injection": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Joint": {
+                  "categoryId": null,
+                  "categoryName": "Joint",
+                  "level": 4,
+                  "children": {
+                    "Jeu de joints, système d’injection": {
+                      "categoryId": 102795,
+                      "categoryName": "Seal",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8298
+                    }
+                  }
+                }
+              },
+              "productId": 8298
+            },
+            "Système d'injection": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Kit de réparation/Kit complet": {
+                  "categoryId": null,
+                  "categoryName": "Kit de réparation/Kit complet",
+                  "level": 4,
+                  "children": {
+                    "Système d'injection": {
+                      "categoryId": 102807,
+                      "categoryName": "Repair Kit",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3895
+                    }
+                  }
+                }
+              },
+              "productId": 3895
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carburation [ID: 100254] (Niveau 1)\n    └── Mélange air-carburant (Niveau 2)\n        ├── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 3890\n        │   └── Dispositif d'arrêt (Niveau 4)\n        │       └── Mechanical Shutoff [ID: 102794] (Niveau 3) → ProductId: 3890\n        ├── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 3959\n        │   └── Soupapes/Bloc de soupapes (Niveau 4)\n        │       └── Valves/Valve Unit [ID: 102811] (Niveau 3) → ProductId: 3959\n        ├── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 8298\n        │   └── Joint (Niveau 4)\n        │       └── Seal [ID: 102795] (Niveau 3) → ProductId: 8298\n        └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 3895\n            └── Kit de réparation/Kit complet (Niveau 4)\n                └── Repair Kit [ID: 102807] (Niveau 3) → ProductId: 3895",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 3890
+    },
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 3959
+    },
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 8298
+    },
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 3895
+    }
+  ],
+  "productIdsInArbo": [
+    3890,
+    3895,
+    3959,
+    8298
+  ],
+  "matchedProductIds": [
+    3895
+  ]
+}

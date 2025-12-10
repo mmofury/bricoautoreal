@@ -1,0 +1,69 @@
+{
+  "productName": "Vis de réglage, phare principal",
+  "searchText": "Vis de réglage, phare principal",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:34:03.914Z",
+  "productId": 4327,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Projecteurs principaux / composants": {
+          "categoryId": null,
+          "categoryName": "Projecteurs principaux / composants",
+          "level": 2,
+          "children": {
+            "Vis de réglage, phare principal": {
+              "categoryId": 100143,
+              "categoryName": "Headlight/Parts",
+              "level": 2,
+              "children": {
+                "Composants des projecteurs principaux": {
+                  "categoryId": null,
+                  "categoryName": "Composants des projecteurs principaux",
+                  "level": 4,
+                  "children": {
+                    "Vis de réglage, phare principal": {
+                      "categoryId": 100430,
+                      "categoryName": "Headlight Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4327
+                    }
+                  }
+                }
+              },
+              "productId": 4327
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Projecteurs principaux / composants (Niveau 2)\n        └── Headlight/Parts [ID: 100143] (Niveau 2) → ProductId: 4327\n            └── Composants des projecteurs principaux (Niveau 4)\n                └── Headlight Parts [ID: 100430] (Niveau 3) → ProductId: 4327",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Projecteurs principaux / composants",
+        "Headlight/Parts"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100143
+      ],
+      "finalCategoryId": 100143,
+      "productId": 4327
+    }
+  ],
+  "productIdsInArbo": [
+    4327
+  ],
+  "matchedProductIds": [
+    4327
+  ]
+}

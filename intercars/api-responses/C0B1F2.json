@@ -1,0 +1,44 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "C0B1F2",
+      "index": "46-184498",
+      "tecDoc": "46-184498",
+      "tecDocProd": "16",
+      "articleNumber": "46-184498",
+      "brand": "BILSTEIN",
+      "shortDescription": "Suspension set",
+      "description": "Suspension set (B12) fits: VW GOLF VI 1.4-2.5 90-170 10.08-05.13",
+      "gtuCode": "GTU_07",
+      "packageWeight": "23,090",
+      "customsCode": "87088035",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1185",
+          "primary": false,
+          "name": {
+            "en": "Suspension Kit, shock absorber"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_92624",
+          "primary": true,
+          "name": {
+            "en": "Suspension set"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_190",
+          "primary": false,
+          "name": {
+            "en": "Suspension Kit, springs/shock absorbers"
+          }
+        }
+      ]
+    }
+  ]
+}

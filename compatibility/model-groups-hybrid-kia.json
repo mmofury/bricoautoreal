@@ -1,0 +1,1459 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.371Z",
+  "manufacturer": "KIA",
+  "countGroups": 60,
+  "groups": [
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "AVELLA",
+      "displayName": "AVELLA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6666,
+          "modelName": "AVELLA Berline bicorps trois ou cinq portes (KBA1)",
+          "modelYearFrom": "1995-11-01",
+          "modelYearTo": "2001-12-01"
+        },
+        {
+          "modelId": 6667,
+          "modelName": "AVELLA (KBA1)",
+          "modelYearFrom": "1995-11-01",
+          "modelYearTo": "2001-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "BESTA",
+      "displayName": "BESTA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4025,
+          "modelName": "BESTA Fourgon",
+          "modelYearFrom": "1993-01-01",
+          "modelYearTo": "2005-12-01"
+        },
+        {
+          "modelId": 10891,
+          "modelName": "BESTA Autobus/Autocar",
+          "modelYearFrom": "1986-07-01",
+          "modelYearTo": "2003-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "BONGO",
+      "displayName": "BONGO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6669,
+          "modelName": "BONGO Camion plate-forme/Châssis (W3)",
+          "modelYearFrom": "1996-08-01",
+          "modelYearTo": "2004-08-01"
+        },
+        {
+          "modelId": 6670,
+          "modelName": "BONGO Camion plate-forme/Châssis (PU)",
+          "modelYearFrom": "2003-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 6671,
+          "modelName": "BONGO Camion plate-forme/Châssis (BA2)",
+          "modelYearFrom": "1980-04-01",
+          "modelYearTo": "1993-08-01"
+        },
+        {
+          "modelId": 6672,
+          "modelName": "BONGO Camion plate-forme/Châssis (SR)",
+          "modelYearFrom": "1989-09-01",
+          "modelYearTo": "1999-09-01"
+        },
+        {
+          "modelId": 6673,
+          "modelName": "BONGO Autobus/Autocar",
+          "modelYearFrom": "2003-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10509,
+          "modelName": "BONGO Fourgon",
+          "modelYearFrom": "2003-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "BORREGO",
+      "displayName": "BORREGO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10898,
+          "modelName": "BORREGO (HM)",
+          "modelYearFrom": "2007-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "CADENZA",
+      "displayName": "CADENZA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10493,
+          "modelName": "CADENZA I (VG)",
+          "modelYearFrom": "2010-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38180,
+          "modelName": "CADENZA II (YG)",
+          "modelYearFrom": "2016-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "CARENS",
+      "displayName": "CARENS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4739,
+          "modelName": "CARENS I Monospace (FC, FJ)",
+          "modelYearFrom": "1998-09-01",
+          "modelYearTo": "2007-05-01"
+        },
+        {
+          "modelId": 5602,
+          "modelName": "CARENS III Monospace (UN)",
+          "modelYearFrom": "2006-05-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 11139,
+          "modelName": "CARENS IV",
+          "modelYearFrom": "2013-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41628,
+          "modelName": "CARENS IV Van (A4)",
+          "modelYearFrom": "2013-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43599,
+          "modelName": "CARENS V Monospace (KY)",
+          "modelYearFrom": "2021-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "CARNIVAL",
+      "displayName": "CARNIVAL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4349,
+          "modelName": "CARNIVAL I (UP)",
+          "modelYearFrom": "1998-06-01",
+          "modelYearTo": "2001-10-01"
+        },
+        {
+          "modelId": 4844,
+          "modelName": "CARNIVAL II (GQ)",
+          "modelYearFrom": "1999-01-01",
+          "modelYearTo": "2007-09-01"
+        },
+        {
+          "modelId": 5604,
+          "modelName": "CARNIVAL / GRAND CARNIVAL III (VQ)",
+          "modelYearFrom": "2005-09-01",
+          "modelYearTo": "2015-06-01"
+        },
+        {
+          "modelId": 41599,
+          "modelName": "CARNIVAL IV (KA4)",
+          "modelYearFrom": "2020-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "CEE",
+      "displayName": "CEE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5626,
+          "modelName": "CEE'D Berline bicorps trois ou cinq portes (ED)",
+          "modelYearFrom": "2006-12-01",
+          "modelYearTo": "2012-12-01"
+        },
+        {
+          "modelId": 6234,
+          "modelName": "CEE'D SW (ED)",
+          "modelYearFrom": "2007-07-01",
+          "modelYearTo": "2012-12-01"
+        },
+        {
+          "modelId": 10192,
+          "modelName": "CEE'D (JD)",
+          "modelYearFrom": "2012-05-01",
+          "modelYearTo": "2018-07-01"
+        },
+        {
+          "modelId": 10750,
+          "modelName": "CEE'D Sportswagon (JD)",
+          "modelYearFrom": "2012-09-01",
+          "modelYearTo": "2018-07-01"
+        },
+        {
+          "modelId": 38387,
+          "modelName": "CEE'D Combi Van (JD)",
+          "modelYearFrom": "2012-07-01",
+          "modelYearTo": "2018-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "CEED",
+      "displayName": "CEED",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38795,
+          "modelName": "CEED (CD)",
+          "modelYearFrom": "2018-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38897,
+          "modelName": "CEED Sportswagon (CD)",
+          "modelYearFrom": "2018-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39658,
+          "modelName": "CEED Hatchback Van (CD)",
+          "modelYearFrom": "2018-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39659,
+          "modelName": "CEED Combi Van (CD)",
+          "modelYearFrom": "2018-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "CERATO",
+      "displayName": "CERATO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5115,
+          "modelName": "CERATO I A trois volumes (LD)",
+          "modelYearFrom": "2004-04-01",
+          "modelYearTo": "2011-12-01"
+        },
+        {
+          "modelId": 5116,
+          "modelName": "CERATO I Berline bicorps trois ou cinq portes (LD)",
+          "modelYearFrom": "2004-03-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 8614,
+          "modelName": "CERATO II A trois volumes (TD)",
+          "modelYearFrom": "2009-01-01",
+          "modelYearTo": "2014-02-01"
+        },
+        {
+          "modelId": 8615,
+          "modelName": "CERATO KOUP II (TD)",
+          "modelYearFrom": "2009-01-01",
+          "modelYearTo": "2014-02-01"
+        },
+        {
+          "modelId": 10597,
+          "modelName": "CERATO II (TD)",
+          "modelYearFrom": "2009-01-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 10833,
+          "modelName": "CERATO A trois volumes (FB)",
+          "modelYearFrom": "2000-06-01",
+          "modelYearTo": "2004-12-01"
+        },
+        {
+          "modelId": 11578,
+          "modelName": "CERATO III A trois volumes (YD)",
+          "modelYearFrom": "2012-09-01",
+          "modelYearTo": "2019-09-01"
+        },
+        {
+          "modelId": 13201,
+          "modelName": "CERATO III Berline bicorps trois ou cinq portes (YD)",
+          "modelYearFrom": "2012-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13626,
+          "modelName": "CERATO KOUP III (YD)",
+          "modelYearFrom": "2013-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38784,
+          "modelName": "CERATO IV A trois volumes (BD, BDM)",
+          "modelYearFrom": "2018-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39349,
+          "modelName": "CERATO IV Berline bicorps trois ou cinq portes (BD, BDM)",
+          "modelYearFrom": "2018-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "CERES",
+      "displayName": "CERES",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7821,
+          "modelName": "CERES",
+          "modelYearFrom": "1990-02-01",
+          "modelYearTo": "2000-02-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "CLARUS",
+      "displayName": "CLARUS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1580,
+          "modelName": "CLARUS (K9A)",
+          "modelYearFrom": "1995-10-01",
+          "modelYearTo": "2001-11-01"
+        },
+        {
+          "modelId": 3951,
+          "modelName": "CLARUS Break (GC)",
+          "modelYearFrom": "1997-06-01",
+          "modelYearTo": "2000-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "CONCORD",
+      "displayName": "CONCORD",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7628,
+          "modelName": "CONCORD A trois volumes (GC12)",
+          "modelYearFrom": "1991-10-01",
+          "modelYearTo": "1998-10-01"
+        },
+        {
+          "modelId": 7629,
+          "modelName": "CONCORD A trois volumes",
+          "modelYearFrom": "1989-08-01",
+          "modelYearTo": "1991-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "ELAN",
+      "displayName": "ELAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14760,
+          "modelName": "ELAN (DB63)",
+          "modelYearFrom": "1996-03-01",
+          "modelYearTo": "1999-11-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "ENTERPRISE",
+      "displayName": "ENTERPRISE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13504,
+          "modelName": "ENTERPRISE (HD12)",
+          "modelYearFrom": "1997-10-01",
+          "modelYearTo": "2003-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "EV3",
+      "displayName": "EV3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45805,
+          "modelName": "EV3",
+          "modelYearFrom": "2024-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "EV5",
+      "displayName": "EV5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45328,
+          "modelName": "EV5",
+          "modelYearFrom": "2024-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "EV6",
+      "displayName": "EV6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42466,
+          "modelName": "EV6 (CV)",
+          "modelYearFrom": "2021-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "EV9",
+      "displayName": "EV9",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44467,
+          "modelName": "EV9 (MV)",
+          "modelYearFrom": "2023-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "JOICE",
+      "displayName": "JOICE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4598,
+          "modelName": "JOICE (MTE1P)",
+          "modelYearFrom": "2000-02-01",
+          "modelYearTo": "2003-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "K2500",
+      "displayName": "K2500",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5129,
+          "modelName": "K2500 Camion plate-forme/Châssis (SD)",
+          "modelYearFrom": "2001-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "K2700",
+      "displayName": "K2700",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5495,
+          "modelName": "K2700 (SD)",
+          "modelYearFrom": "1999-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 7513,
+          "modelName": "K2700 (K62W)",
+          "modelYearFrom": "1997-03-01",
+          "modelYearTo": "2009-10-01"
+        },
+        {
+          "modelId": 10850,
+          "modelName": "K2700",
+          "modelYearFrom": "2004-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "K2900",
+      "displayName": "K2900",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8613,
+          "modelName": "K2900",
+          "modelYearFrom": "2008-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "K3",
+      "displayName": "K3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 46312,
+          "modelName": "K3 CROSS Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2024-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "K3600",
+      "displayName": "K3600",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7936,
+          "modelName": "K3600",
+          "modelYearFrom": "1997-03-01",
+          "modelYearTo": "2003-10-01"
+        },
+        {
+          "modelId": 38267,
+          "modelName": "K3600 Camion plate-forme/Châssis (_D5_)",
+          "modelYearFrom": "1997-03-01",
+          "modelYearTo": "2003-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "K4",
+      "displayName": "K4",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45818,
+          "modelName": "K4",
+          "modelYearFrom": "2024-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "K8",
+      "displayName": "K8",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42612,
+          "modelName": "K8 (GL3)",
+          "modelYearFrom": "2021-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "K9",
+      "displayName": "K9",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38604,
+          "modelName": "K9 II (RJ)",
+          "modelYearFrom": "2018-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "MAGENTIS",
+      "displayName": "MAGENTIS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4792,
+          "modelName": "MAGENTIS I (GD, MS)",
+          "modelYearFrom": "2001-05-01",
+          "modelYearTo": "2007-04-01"
+        },
+        {
+          "modelId": 5494,
+          "modelName": "MAGENTIS II (MG)",
+          "modelYearFrom": "2005-10-01",
+          "modelYearTo": "2011-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "NIRO",
+      "displayName": "NIRO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36798,
+          "modelName": "NIRO I (DE)",
+          "modelYearFrom": "2016-09-01",
+          "modelYearTo": "2022-08-01"
+        },
+        {
+          "modelId": 39660,
+          "modelName": "NIRO VAN (DE)",
+          "modelYearFrom": "2016-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43593,
+          "modelName": "NIRO II (SG2)",
+          "modelYearFrom": "2022-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44376,
+          "modelName": "NIRO PLUS I",
+          "modelYearFrom": "2022-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "OPIRUS",
+      "displayName": "OPIRUS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4986,
+          "modelName": "OPIRUS (GH)",
+          "modelYearFrom": "2003-06-01",
+          "modelYearTo": "2012-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "OPTIMA",
+      "displayName": "OPTIMA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10163,
+          "modelName": "OPTIMA (FSGDS6B)",
+          "modelYearFrom": "2010-01-01",
+          "modelYearTo": "2017-04-01"
+        },
+        {
+          "modelId": 14969,
+          "modelName": "OPTIMA (JF)",
+          "modelYearFrom": "2015-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 36968,
+          "modelName": "OPTIMA Sportswagon (JF)",
+          "modelYearFrom": "2016-09-01",
+          "modelYearTo": "2019-12-01"
+        },
+        {
+          "modelId": 40286,
+          "modelName": "OPTIMA (DL3)",
+          "modelYearFrom": "2019-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "PEGAS",
+      "displayName": "PEGAS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39302,
+          "modelName": "PEGAS I (AB)",
+          "modelYearFrom": "2017-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "PICANTO",
+      "displayName": "PICANTO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5128,
+          "modelName": "PICANTO I (SA)",
+          "modelYearFrom": "2004-04-01",
+          "modelYearTo": "2012-05-01"
+        },
+        {
+          "modelId": 9134,
+          "modelName": "PICANTO II (TA)",
+          "modelYearFrom": "2011-05-01",
+          "modelYearTo": "2018-04-01"
+        },
+        {
+          "modelId": 37886,
+          "modelName": "PICANTO III (JA)",
+          "modelYearFrom": "2017-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38308,
+          "modelName": "PICANTO Camionnette/Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2011-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41687,
+          "modelName": "PICANTO Runner (JA)",
+          "modelYearFrom": "2017-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "POTENTIA",
+      "displayName": "POTENTIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40150,
+          "modelName": "POTENTIA (HC12)",
+          "modelYearFrom": "1991-10-01",
+          "modelYearTo": "2000-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "PREGIO",
+      "displayName": "PREGIO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4144,
+          "modelName": "PREGIO Fourgon (TB)",
+          "modelYearFrom": "1997-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 7630,
+          "modelName": "PREGIO Autobus/Autocar",
+          "modelYearFrom": "1995-08-01",
+          "modelYearTo": "2010-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "PRIDE",
+      "displayName": "PRIDE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1547,
+          "modelName": "PRIDE (DA)",
+          "modelYearFrom": "1990-01-01",
+          "modelYearTo": "2011-12-01"
+        },
+        {
+          "modelId": 4348,
+          "modelName": "PRIDE Break",
+          "modelYearFrom": "1998-08-01",
+          "modelYearTo": "2001-05-01"
+        },
+        {
+          "modelId": 9838,
+          "modelName": "PRIDE Van (DA)",
+          "modelYearFrom": "1992-04-01",
+          "modelYearTo": "1999-06-01"
+        },
+        {
+          "modelId": 40151,
+          "modelName": "PRIDE A trois volumes",
+          "modelYearFrom": "1996-06-01",
+          "modelYearTo": "2001-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "PRO",
+      "displayName": "PRO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6449,
+          "modelName": "PRO CEE'D (ED)",
+          "modelYearFrom": "2008-02-01",
+          "modelYearTo": "2013-02-01"
+        },
+        {
+          "modelId": 10751,
+          "modelName": "PRO CEE'D (JD)",
+          "modelYearFrom": "2013-03-01",
+          "modelYearTo": "2018-07-01"
+        },
+        {
+          "modelId": 39131,
+          "modelName": "PRO CEE'D Hatchback Van (JD)",
+          "modelYearFrom": "2012-03-01",
+          "modelYearTo": "2018-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "PROCEED",
+      "displayName": "PROCEED",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39253,
+          "modelName": "PROCEED (CD)",
+          "modelYearFrom": "2018-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40994,
+          "modelName": "PROCEED Combi Van (CD)",
+          "modelYearFrom": "2018-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "QUORIS",
+      "displayName": "QUORIS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 12779,
+          "modelName": "QUORIS I (KH)",
+          "modelYearFrom": "2012-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "RAY",
+      "displayName": "RAY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13627,
+          "modelName": "RAY (RA)",
+          "modelYearFrom": "2011-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "RETONA",
+      "displayName": "RETONA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4595,
+          "modelName": "RETONA Véhicule tout terrain fermé (FK)",
+          "modelYearFrom": "1999-06-01",
+          "modelYearTo": "2001-12-01"
+        },
+        {
+          "modelId": 40152,
+          "modelName": "RETONA Véhicule tout terrain à carrosserie ouverte (FK)",
+          "modelYearFrom": "1999-06-01",
+          "modelYearTo": "2001-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "RIO",
+      "displayName": "RIO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4645,
+          "modelName": "RIO I Berline bicorps trois ou cinq portes (DC)",
+          "modelYearFrom": "2000-07-01",
+          "modelYearTo": "2006-04-01"
+        },
+        {
+          "modelId": 4750,
+          "modelName": "RIO I A trois volumes (DC_)",
+          "modelYearFrom": "2000-07-01",
+          "modelYearTo": "2006-04-01"
+        },
+        {
+          "modelId": 5435,
+          "modelName": "RIO II A trois volumes (JB)",
+          "modelYearFrom": "2005-03-01",
+          "modelYearTo": "2011-12-01"
+        },
+        {
+          "modelId": 5436,
+          "modelName": "RIO II (JB)",
+          "modelYearFrom": "2005-03-01",
+          "modelYearTo": "2011-12-01"
+        },
+        {
+          "modelId": 9697,
+          "modelName": "RIO III (UB)",
+          "modelYearFrom": "2011-09-01",
+          "modelYearTo": "2017-12-01"
+        },
+        {
+          "modelId": 10575,
+          "modelName": "RIO III A trois volumes (UB)",
+          "modelYearFrom": "2010-09-01",
+          "modelYearTo": "2017-12-01"
+        },
+        {
+          "modelId": 37619,
+          "modelName": "RIO IV (YB, SC, FB)",
+          "modelYearFrom": "2017-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38135,
+          "modelName": "RIO IV A trois volumes (SC, FB)",
+          "modelYearFrom": "2017-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39132,
+          "modelName": "RIO III Hatchback Van (UB)",
+          "modelYearFrom": "2011-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39657,
+          "modelName": "RIO IV Hatchback Van (YB, SC, FB)",
+          "modelYearFrom": "2017-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "ROADSTER",
+      "displayName": "ROADSTER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4352,
+          "modelName": "ROADSTER (DB63)",
+          "modelYearFrom": "1999-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "SEDONA",
+      "displayName": "SEDONA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13202,
+          "modelName": "SEDONA III (YP)",
+          "modelYearFrom": "2014-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "SELTOS",
+      "displayName": "SELTOS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39879,
+          "modelName": "SELTOS (SP2, SP2I)",
+          "modelYearFrom": "2019-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "SEPHIA",
+      "displayName": "SEPHIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1301,
+          "modelName": "SEPHIA A trois volumes (FA)",
+          "modelYearFrom": "1992-01-01",
+          "modelYearTo": "2001-09-01"
+        },
+        {
+          "modelId": 1581,
+          "modelName": "SEPHIA (FA)",
+          "modelYearFrom": "1995-01-01",
+          "modelYearTo": "1997-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "SHUMA",
+      "displayName": "SHUMA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3564,
+          "modelName": "SHUMA A trois volumes (FB)",
+          "modelYearFrom": "1996-03-01",
+          "modelYearTo": "2001-10-01"
+        },
+        {
+          "modelId": 3565,
+          "modelName": "SHUMA I (FB)",
+          "modelYearFrom": "1996-09-01",
+          "modelYearTo": "2001-12-01"
+        },
+        {
+          "modelId": 4793,
+          "modelName": "SHUMA II A trois volumes (FB)",
+          "modelYearFrom": "2001-05-01",
+          "modelYearTo": "2004-05-01"
+        },
+        {
+          "modelId": 4794,
+          "modelName": "SHUMA II (FB)",
+          "modelYearFrom": "2001-05-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 11944,
+          "modelName": "SHUMA Coupé",
+          "modelYearFrom": "2010-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "SONET",
+      "displayName": "SONET",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41285,
+          "modelName": "SONET (QY)",
+          "modelYearFrom": "2020-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "SORENTO",
+      "displayName": "SORENTO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4938,
+          "modelName": "SORENTO I (JC)",
+          "modelYearFrom": "2002-08-01",
+          "modelYearTo": "2011-12-01"
+        },
+        {
+          "modelId": 8258,
+          "modelName": "SORENTO II (XM)",
+          "modelYearFrom": "2009-09-01",
+          "modelYearTo": "2016-04-01"
+        },
+        {
+          "modelId": 13620,
+          "modelName": "SORENTO III (UM)",
+          "modelYearFrom": "2015-01-01",
+          "modelYearTo": "2023-02-01"
+        },
+        {
+          "modelId": 40546,
+          "modelName": "SORENTO IV (MQ4, MQ4A)",
+          "modelYearFrom": "2020-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41630,
+          "modelName": "SORENTO II Camionnette/SUV (XM)",
+          "modelYearFrom": "2009-06-01",
+          "modelYearTo": "2015-12-01"
+        },
+        {
+          "modelId": 41741,
+          "modelName": "SORENTO I VAN (JC)",
+          "modelYearFrom": "2002-08-01",
+          "modelYearTo": "2011-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "SOUL",
+      "displayName": "SOUL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7593,
+          "modelName": "SOUL I (AM)",
+          "modelYearFrom": "2009-01-01",
+          "modelYearTo": "2014-12-01"
+        },
+        {
+          "modelId": 12796,
+          "modelName": "SOUL II (PS)",
+          "modelYearFrom": "2014-02-01",
+          "modelYearTo": "2018-12-01"
+        },
+        {
+          "modelId": 39316,
+          "modelName": "SOUL III (SK3)",
+          "modelYearFrom": "2019-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40903,
+          "modelName": "SOUL III Cargo (SK3)",
+          "modelYearFrom": "2020-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "SPORTAGE",
+      "displayName": "SPORTAGE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1302,
+          "modelName": "SPORTAGE SUV (K00)",
+          "modelYearFrom": "1994-04-01",
+          "modelYearTo": "2005-04-01"
+        },
+        {
+          "modelId": 5394,
+          "modelName": "SPORTAGE II (JE_, KM_)",
+          "modelYearFrom": "2004-09-01",
+          "modelYearTo": "2011-05-01"
+        },
+        {
+          "modelId": 8751,
+          "modelName": "SPORTAGE III (SL)",
+          "modelYearFrom": "2009-09-01",
+          "modelYearTo": "2017-07-01"
+        },
+        {
+          "modelId": 36216,
+          "modelName": "SPORTAGE IV (QL, QLE)",
+          "modelYearFrom": "2015-01-01",
+          "modelYearTo": "2022-10-01"
+        },
+        {
+          "modelId": 40153,
+          "modelName": "SPORTAGE Véhicule tout terrain à carrosserie ouverte (FM)",
+          "modelYearFrom": "1999-01-01",
+          "modelYearTo": "2002-12-01"
+        },
+        {
+          "modelId": 40996,
+          "modelName": "SPORTAGE IV VAN (QL, QLE)",
+          "modelYearFrom": "2015-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41699,
+          "modelName": "SPORTAGE VAN",
+          "modelYearFrom": "1994-04-01",
+          "modelYearTo": "2005-04-01"
+        },
+        {
+          "modelId": 41700,
+          "modelName": "SPORTAGE II VAN (KM_)",
+          "modelYearFrom": "2004-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42553,
+          "modelName": "SPORTAGE V (NQ5)",
+          "modelYearFrom": "2021-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "STINGER",
+      "displayName": "STINGER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38141,
+          "modelName": "STINGER (CK)",
+          "modelYearFrom": "2017-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39662,
+          "modelName": "STINGER Hatchback Van (CK)",
+          "modelYearFrom": "2017-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "STONIC",
+      "displayName": "STONIC",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38189,
+          "modelName": "STONIC (YB)",
+          "modelYearFrom": "2017-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39661,
+          "modelName": "STONIC Hatchback Van (YB)",
+          "modelYearFrom": "2017-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "TELLURIDE",
+      "displayName": "TELLURIDE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40197,
+          "modelName": "TELLURIDE (ON)",
+          "modelYearFrom": "2019-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "TOWNER",
+      "displayName": "TOWNER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38292,
+          "modelName": "TOWNER Autobus/Autocar",
+          "modelYearFrom": "1992-07-01",
+          "modelYearTo": "2002-12-01"
+        },
+        {
+          "modelId": 38293,
+          "modelName": "TOWNER Fourgon",
+          "modelYearFrom": "1998-07-01",
+          "modelYearTo": "2002-12-01"
+        },
+        {
+          "modelId": 38315,
+          "modelName": "TOWNER Camion plate-forme/Châssis",
+          "modelYearFrom": "1992-07-01",
+          "modelYearTo": "2002-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "TRADE",
+      "displayName": "TRADE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39434,
+          "modelName": "TRADE Camion plate-forme/Châssis",
+          "modelYearFrom": "1992-08-01",
+          "modelYearTo": "2001-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "VENGA",
+      "displayName": "VENGA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8257,
+          "modelName": "VENGA (YN)",
+          "modelYearFrom": "2010-02-01",
+          "modelYearTo": "2019-03-01"
+        },
+        {
+          "modelId": 39134,
+          "modelName": "VENGA Hatchback Van (YN)",
+          "modelYearFrom": "2010-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "VISTO",
+      "displayName": "VISTO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13650,
+          "modelName": "VISTO (KMHAH5)",
+          "modelYearFrom": "1999-06-01",
+          "modelYearTo": "2003-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 184,
+      "manufacturerName": "KIA",
+      "groupKey": "XCEED",
+      "displayName": "XCEED",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39864,
+          "modelName": "XCEED (CD)",
+          "modelYearFrom": "2019-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40995,
+          "modelName": "XCEED Van (CD)",
+          "modelYearFrom": "2019-06-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

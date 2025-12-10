@@ -1,0 +1,69 @@
+{
+  "productName": "Support, commande d'accélération",
+  "searchText": "Support, commande d'accélération",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:20:54.656Z",
+  "productId": 1711,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Alimentation en air": {
+          "categoryId": null,
+          "categoryName": "Alimentation en air",
+          "level": 2,
+          "children": {
+            "Support, commande d'accélération": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Câble d'accélérateur/tringlerie": {
+                  "categoryId": null,
+                  "categoryName": "Câble d'accélérateur/tringlerie",
+                  "level": 4,
+                  "children": {
+                    "Support, commande d'accélération": {
+                      "categoryId": 100385,
+                      "categoryName": "Accelerator Cable/Linkage",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1711
+                    }
+                  }
+                }
+              },
+              "productId": 1711
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Alimentation en air (Niveau 2)\n        └── Air Supply [ID: 100383] (Niveau 2) → ProductId: 1711\n            └── Câble d'accélérateur/tringlerie (Niveau 4)\n                └── Accelerator Cable/Linkage [ID: 100385] (Niveau 3) → ProductId: 1711",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 1711
+    }
+  ],
+  "productIdsInArbo": [
+    1711
+  ],
+  "matchedProductIds": [
+    1711
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "productName": "Capteur, volet inverseur du tuyau d'admission",
+  "searchText": "Capteur, volet inverseur du tuyau d'admission",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:17:26.710Z",
+  "productId": 4143,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Alimentation en air": {
+          "categoryId": null,
+          "categoryName": "Alimentation en air",
+          "level": 2,
+          "children": {
+            "Capteur, volet inverseur du tuyau d'admission": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Collecteur d'admission/Tuyau": {
+                  "categoryId": null,
+                  "categoryName": "Collecteur d'admission/Tuyau",
+                  "level": 4,
+                  "children": {
+                    "Capteur, volet inverseur du tuyau d'admission": {
+                      "categoryId": 100386,
+                      "categoryName": "Intake Manifold",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4143
+                    }
+                  }
+                }
+              },
+              "productId": 4143
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Capteurs": {
+          "categoryId": null,
+          "categoryName": "Capteurs",
+          "level": 2,
+          "children": {
+            "Capteur, volet inverseur du tuyau d'admission": {
+              "categoryId": 102747,
+              "categoryName": "Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 4143
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Moteur [ID: 100002] (Niveau 1)\n│   └── Alimentation en air (Niveau 2)\n│       └── Air Supply [ID: 100383] (Niveau 2) → ProductId: 4143\n│           └── Collecteur d'admission/Tuyau (Niveau 4)\n│               └── Intake Manifold [ID: 100386] (Niveau 3) → ProductId: 4143\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Capteurs (Niveau 2)\n        └── Sensors [ID: 102747] (Niveau 2) → ProductId: 4143",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 4143
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Capteurs",
+        "Sensors"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        102747
+      ],
+      "finalCategoryId": 102747,
+      "productId": 4143
+    }
+  ],
+  "productIdsInArbo": [
+    4143
+  ],
+  "matchedProductIds": [
+    4143
+  ]
+}

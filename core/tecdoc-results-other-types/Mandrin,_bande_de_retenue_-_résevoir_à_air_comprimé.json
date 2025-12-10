@@ -1,0 +1,64 @@
+{
+  "productName": "Mandrin, bande de retenue - résevoir à air comprimé",
+  "productId": 4084,
+  "searchText": "Mandrin, bande de retenue - résevoir à air comprimé",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Système pneumatique": {
+          "categoryId": 200059,
+          "categoryName": "Système pneumatique",
+          "level": 1,
+          "children": {
+            "Réservoir d'air / accessoires": {
+              "categoryId": null,
+              "categoryName": "Réservoir d'air / accessoires",
+              "level": 2,
+              "children": {
+                "Mandrin, bande de retenue - résevoir à air comprimé": {
+                  "categoryId": 200114,
+                  "categoryName": "Air Tank/Accessories",
+                  "level": 2,
+                  "children": {
+                    "Réservoir d'air": {
+                      "categoryId": null,
+                      "categoryName": "Réservoir d'air",
+                      "level": 4,
+                      "children": {
+                        "Mandrin, bande de retenue - résevoir à air comprimé": {
+                          "categoryId": 200452,
+                          "categoryName": "Air Tank",
+                          "level": 3,
+                          "children": [],
+                          "productId": 4084
+                        }
+                      }
+                    }
+                  },
+                  "productId": 4084
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système pneumatique [ID: 200059] (Niveau 1)\n    └── Réservoir d'air / accessoires (Niveau 2)\n        └── Air Tank/Accessories [ID: 200114] (Niveau 2) → ProductId: 4084\n            └── Réservoir d'air (Niveau 4)\n                └── Air Tank [ID: 200452] (Niveau 3) → ProductId: 4084",
+      "productIdsInArbo": [
+        4084
+      ],
+      "matchedProductIds": [
+        4084
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:54:03.194Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

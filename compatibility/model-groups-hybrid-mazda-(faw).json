@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.408Z",
+  "manufacturer": "MAZDA (FAW)",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 3138,
+      "manufacturerName": "MAZDA (FAW)",
+      "groupKey": "6",
+      "displayName": "6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8116,
+          "modelName": "6 A trois volumes",
+          "modelYearFrom": "2003-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 8121,
+          "modelName": "6 RUI YI A trois volumes",
+          "modelYearFrom": "2009-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 8122,
+          "modelName": "6 Break",
+          "modelYearFrom": "2003-01-01",
+          "modelYearTo": "2009-12-01"
+        },
+        {
+          "modelId": 12830,
+          "modelName": "6 ATENZA",
+          "modelYearFrom": "2014-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39191,
+          "modelName": "6 RUI YI Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2010-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39192,
+          "modelName": "6 Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2005-09-01",
+          "modelYearTo": "2009-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3138,
+      "manufacturerName": "MAZDA (FAW)",
+      "groupKey": "8",
+      "displayName": "8",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10184,
+          "modelName": "8 Monospace",
+          "modelYearFrom": "2010-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3138,
+      "manufacturerName": "MAZDA (FAW)",
+      "groupKey": "CX",
+      "displayName": "CX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13073,
+          "modelName": "CX-7",
+          "modelYearFrom": "2014-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 36786,
+          "modelName": "CX-4",
+          "modelYearFrom": "2016-06-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

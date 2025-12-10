@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "C01D1E",
+      "index": "VAL632127",
+      "tecDoc": "632127",
+      "tecDocProd": "21",
+      "articleNumber": "632127",
+      "brand": "VALEO",
+      "shortDescription": "Parking sensor spare parts",
+      "description": "Parking sensor spare parts - correcting ring (park assist) (12pcs, rear)",
+      "eans": [
+        "3276426321273"
+      ],
+      "packageWeight": "0,005",
+      "packageWidth": "2,000",
+      "packageDepth": "2,500",
+      "packageHeight": "2,000",
+      "customsCode": "85129090",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_92136",
+          "primary": true,
+          "name": {
+            "en": "Parking sensor spare parts"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_4927",
+          "primary": false,
+          "name": {
+            "en": "Angle Correction Ring, sensor (park distance control)"
+          }
+        }
+      ]
+    }
+  ]
+}

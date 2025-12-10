@@ -1,0 +1,932 @@
+{
+  "metadata": {
+    "generatedAt": "2025-12-05T10:41:36.787Z",
+    "totalLevel1Products": 257,
+    "suggestionsCount": 39,
+    "bySuggestedLevel": {
+      "2": 25,
+      "3": 12,
+      "4": 2
+    },
+    "bySimilarity": {
+      "high": 5,
+      "medium": 34,
+      "low": 0
+    }
+  },
+  "suggestions": [
+    {
+      "productName": "Porte-fusibles",
+      "productId": 3316,
+      "currentCategory": {
+        "id": "100010",
+        "name": "Système électrique",
+        "level": 1,
+        "path": [
+          "Système électrique"
+        ]
+      },
+      "suggestedCategory": {
+        "id": "100291",
+        "name": "Éclairage de porte",
+        "level": 3,
+        "path": [
+          "Système électrique",
+          "Feux",
+          "Éclairage de porte"
+        ],
+        "similarity": 1,
+        "reason": "Nom de catégorie très similaire (\"Éclairage de porte\")"
+      }
+    },
+    {
+      "productName": "Bras oscillant de suspension",
+      "productId": 1586,
+      "currentCategory": {
+        "id": "100013",
+        "name": "Suspension d'essieu/Guidage des roues/Roues",
+        "level": 1,
+        "path": [
+          "Suspension d'essieu/Guidage des roues/Roues"
+        ]
+      },
+      "suggestedCategory": {
+        "id": "100208",
+        "name": "Bras oscillant / suspension",
+        "level": 2,
+        "path": [
+          "Suspension d'essieu/Guidage des roues/Roues",
+          "Bras oscillant / suspension"
+        ],
+        "similarity": 1,
+        "reason": "Nom de catégorie très similaire (\"Bras oscillant / suspension\")"
+      }
+    },
+    {
+      "productName": "Axe, papillon des gaz",
+      "productId": 1927,
+      "currentCategory": {
+        "id": "100254",
+        "name": "Carburation",
+        "level": 1,
+        "path": [
+          "Carburation"
+        ]
+      },
+      "suggestedCategory": {
+        "id": "102796",
+        "name": "Papillon des gaz / tubulure / tuyau de dépression",
+        "level": 3,
+        "path": [
+          "Carburation",
+          "Mélange air-carburant",
+          "Papillon des gaz / tubulure / tuyau de dépression"
+        ],
+        "similarity": 1,
+        "reason": "Nom de catégorie très similaire (\"Papillon des gaz / tubulure / tuyau de dépression\")"
+      }
+    },
+    {
+      "productName": "Module de refroidissement",
+      "productId": 2668,
+      "currentCategory": {
+        "id": "100007",
+        "name": "Refroidissement",
+        "level": 1,
+        "path": [
+          "Refroidissement"
+        ]
+      },
+      "suggestedCategory": {
+        "id": "104956",
+        "name": "Module de gestion thermique",
+        "level": 3,
+        "path": [
+          "Refroidissement",
+          "Pompe à eau / joint",
+          "Module de gestion thermique"
+        ],
+        "similarity": 0.8,
+        "reason": "Chemin de catégorie très similaire (\"Refroidissement > Pompe à eau / joint > Module de gestion thermique\")"
+      }
+    },
+    {
+      "productName": "Jeu de roulements, suspension de roue",
+      "productId": 60706,
+      "currentCategory": {
+        "id": "100013",
+        "name": "Suspension d'essieu/Guidage des roues/Roues",
+        "level": 1,
+        "path": [
+          "Suspension d'essieu/Guidage des roues/Roues"
+        ]
+      },
+      "suggestedCategory": {
+        "id": "100579",
+        "name": "Roulement de roue",
+        "level": 3,
+        "path": [
+          "Suspension d'essieu/Guidage des roues/Roues",
+          "Moyeu de roue / fixation",
+          "Roulement de roue"
+        ],
+        "similarity": 0.8,
+        "reason": "Nom de catégorie très similaire (\"Roulement de roue\")"
+      }
+    },
+    {
+      "productName": "Réservoir de liquide de frein",
+      "productId": 2352,
+      "currentCategory": {
+        "id": "100006",
+        "name": "Dispositif de freinage",
+        "level": 1,
+        "path": [
+          "Dispositif de freinage"
+        ]
+      },
+      "suggestedCategory": {
+        "id": "102208",
+        "name": "Liquide de frein",
+        "level": 2,
+        "path": [
+          "Dispositif de freinage",
+          "Liquide de frein"
+        ],
+        "similarity": 0.6666666666666666,
+        "reason": "Nom de catégorie très similaire (\"Liquide de frein\")"
+      }
+    },
+    {
+      "productName": "Support, conduite de frein",
+      "productId": 1101,
+      "currentCategory": {
+        "id": "100006",
+        "name": "Dispositif de freinage",
+        "level": 1,
+        "path": [
+          "Dispositif de freinage"
+        ]
+      },
+      "suggestedCategory": {
+        "id": "100807",
+        "name": "Étrier de frein / support d'étrier",
+        "level": 3,
+        "path": [
+          "Dispositif de freinage",
+          "Étrier de frein",
+          "Étrier de frein / support d'étrier"
+        ],
+        "similarity": 0.6666666666666666,
+        "reason": "Nom de catégorie très similaire (\"Étrier de frein / support d'étrier\")"
+      }
+    },
+    {
+      "productName": "Support de bras transversal",
+      "productId": 3228,
+      "currentCategory": {
+        "id": "100013",
+        "name": "Suspension d'essieu/Guidage des roues/Roues",
+        "level": 1,
+        "path": [
+          "Suspension d'essieu/Guidage des roues/Roues"
+        ]
+      },
+      "suggestedCategory": {
+        "id": "100571",
+        "name": "Bras (transversal, longitudinal, oblique)",
+        "level": 3,
+        "path": [
+          "Suspension d'essieu/Guidage des roues/Roues",
+          "Bras oscillant / suspension",
+          "Bras (transversal, longitudinal, oblique)"
+        ],
+        "similarity": 0.6666666666666666,
+        "reason": "Nom de catégorie très similaire (\"Bras (transversal, longitudinal, oblique)\")"
+      }
+    },
+    {
+      "productName": "Kit d'adaptation, dispositif d'attelage",
+      "productId": 61032,
+      "currentCategory": {
+        "id": "100015",
+        "name": "Dispositif d'attelage/accessoires",
+        "level": 1,
+        "path": [
+          "Dispositif d'attelage/accessoires"
+        ]
+      },
+      "suggestedCategory": {
+        "id": "100607",
+        "name": "Dispositif d'attelage/accessoires",
+        "level": 2,
+        "path": [
+          "Dispositif d'attelage/accessoires",
+          "Dispositif d'attelage/accessoires"
+        ],
+        "similarity": 0.6666666666666666,
+        "reason": "Nom de catégorie très similaire (\"Dispositif d'attelage/accessoires\")"
+      }
+    },
+    {
+      "productName": "Rondelle de butée, embrayage",
+      "productId": 1523,
+      "currentCategory": {
+        "id": "100050",
+        "name": "Embrayage / composants",
+        "level": 1,
+        "path": [
+          "Embrayage / composants"
+        ]
+      },
+      "suggestedCategory": {
+        "id": "100054",
+        "name": "Butée d’embrayage/butée hydraulique",
+        "level": 2,
+        "path": [
+          "Embrayage / composants",
+          "Butée d’embrayage/butée hydraulique"
+        ],
+        "similarity": 0.6666666666666666,
+        "reason": "Nom de catégorie très similaire (\"Butée d’embrayage/butée hydraulique\")"
+      }
+    },
+    {
+      "productName": "Kit de réparation, boîte de vitesses (axe E)",
+      "productId": 60690,
+      "currentCategory": {
+        "id": "100238",
+        "name": "Boîte de vitesses",
+        "level": 1,
+        "path": [
+          "Boîte de vitesses"
+        ]
+      },
+      "suggestedCategory": {
+        "id": "100239",
+        "name": "Boîte de vitesses manuelle",
+        "level": 2,
+        "path": [
+          "Boîte de vitesses",
+          "Boîte de vitesses manuelle"
+        ],
+        "similarity": 0.6666666666666666,
+        "reason": "Nom de catégorie très similaire (\"Boîte de vitesses manuelle\")"
+      }
+    },
+    {
+      "productName": "Kit de joints, moteur électrique",
+      "productId": 60626,
+      "currentCategory": {
+        "id": "706209",
+        "name": "Entraînement hybride/électrique",
+        "level": 1,
+        "path": [
+          "Entraînement hybride/électrique"
+        ]
+      },
+      "suggestedCategory": {
+        "id": "706215",
+        "name": "Radiateur pour moteur électrique",
+        "level": 3,
+        "path": [
+          "Entraînement hybride/électrique",
+          "Refroidissement",
+          "Radiateur pour moteur électrique"
+        ],
+        "similarity": 0.6666666666666666,
+        "reason": "Nom de catégorie très similaire (\"Radiateur pour moteur électrique\")"
+      }
+    },
+    {
+      "productName": "Kit de réparation, moteur électrique (axe E)",
+      "productId": 60691,
+      "currentCategory": {
+        "id": "706209",
+        "name": "Entraînement hybride/électrique",
+        "level": 1,
+        "path": [
+          "Entraînement hybride/électrique"
+        ]
+      },
+      "suggestedCategory": {
+        "id": "706215",
+        "name": "Radiateur pour moteur électrique",
+        "level": 3,
+        "path": [
+          "Entraînement hybride/électrique",
+          "Refroidissement",
+          "Radiateur pour moteur électrique"
+        ],
+        "similarity": 0.6666666666666666,
+        "reason": "Nom de catégorie très similaire (\"Radiateur pour moteur électrique\")"
+      }
+    },
+    {
+      "productName": "Joint, boîte de vitesses (essieu E)",
+      "productId": 60707,
+      "currentCategory": {
+        "id": "100238",
+        "name": "Boîte de vitesses",
+        "level": 1,
+        "path": [
+          "Boîte de vitesses"
+        ]
+      },
+      "suggestedCategory": {
+        "id": "100769",
+        "name": "Joints",
+        "level": 3,
+        "path": [
+          "Boîte de vitesses",
+          "Boîte de vitesses manuelle",
+          "Joints"
+        ],
+        "similarity": 0.6000000000000001,
+        "reason": "Chemin de catégorie très similaire (\"Boîte de vitesses > Boîte de vitesses manuelle > Joints\")"
+      }
+    },
+    {
+      "productName": "Kit de réparation, régulateur de freinage",
+      "productId": 782,
+      "currentCategory": {
+        "id": "100006",
+        "name": "Dispositif de freinage",
+        "level": 1,
+        "path": [
+          "Dispositif de freinage"
+        ]
+      },
+      "suggestedCategory": {
+        "id": "100633",
+        "name": "Kit de réparation",
+        "level": 3,
+        "path": [
+          "Dispositif de freinage",
+          "Frein à tambour",
+          "Kit de réparation"
+        ],
+        "similarity": 0.5333333333333333,
+        "reason": "Chemin de catégorie très similaire (\"Dispositif de freinage > Frein à tambour > Kit de réparation\")"
+      }
+    },
+    {
+      "productName": "Fiche, bougie d'allumage",
+      "productId": 696,
+      "currentCategory": {
+        "id": "100008",
+        "name": "Allumage / préchauffage",
+        "level": 1,
+        "path": [
+          "Allumage / préchauffage"
+        ]
+      },
+      "suggestedCategory": {
+        "id": "100152",
+        "name": "Bougie de préchauffage",
+        "level": 2,
+        "path": [
+          "Allumage / préchauffage",
+          "Bougie de préchauffage"
+        ],
+        "similarity": 0.5333333333333333,
+        "reason": "Chemin de catégorie très similaire (\"Allumage / préchauffage > Bougie de préchauffage\")"
+      }
+    },
+    {
+      "productName": "Kit de joints, module d'huile (axe E)",
+      "productId": 61352,
+      "currentCategory": {
+        "id": "100238",
+        "name": "Boîte de vitesses",
+        "level": 1,
+        "path": [
+          "Boîte de vitesses"
+        ]
+      },
+      "suggestedCategory": {
+        "id": "101855",
+        "name": "Joint",
+        "level": 4,
+        "path": [
+          "Boîte de vitesses",
+          "Boîte de vitesse automatique",
+          "Carter d'huile et pièces de montage",
+          "Joint"
+        ],
+        "similarity": 0.5333333333333333,
+        "reason": "Chemin de catégorie très similaire (\"Boîte de vitesses > Boîte de vitesse automatique > Carter d'huile et pièces de montage > Joint\")"
+      }
+    },
+    {
+      "productName": "Filtre d'urée",
+      "productId": 3855,
+      "currentCategory": {
+        "id": "100004",
+        "name": "Échappement",
+        "level": 1,
+        "path": [
+          "Échappement"
+        ]
+      },
+      "suggestedCategory": {
+        "id": "100318",
+        "name": "Filtre à particules",
+        "level": 2,
+        "path": [
+          "Échappement",
+          "Filtre à particules"
+        ],
+        "similarity": 0.5,
+        "reason": "Mots clés communs avec \"Filtre à particules\""
+      }
+    },
+    {
+      "productName": "Tuyau d'urée",
+      "productId": 4849,
+      "currentCategory": {
+        "id": "100004",
+        "name": "Échappement",
+        "level": 1,
+        "path": [
+          "Échappement"
+        ]
+      },
+      "suggestedCategory": {
+        "id": "100315",
+        "name": "Tuyaux",
+        "level": 2,
+        "path": [
+          "Échappement",
+          "Tuyaux"
+        ],
+        "similarity": 0.5,
+        "reason": "Mots clés communs avec \"Tuyaux\""
+      }
+    },
+    {
+      "productName": "Bouchon, réservoir du liquide de frein",
+      "productId": 55,
+      "currentCategory": {
+        "id": "100006",
+        "name": "Dispositif de freinage",
+        "level": 1,
+        "path": [
+          "Dispositif de freinage"
+        ]
+      },
+      "suggestedCategory": {
+        "id": "102208",
+        "name": "Liquide de frein",
+        "level": 2,
+        "path": [
+          "Dispositif de freinage",
+          "Liquide de frein"
+        ],
+        "similarity": 0.5,
+        "reason": "Mots clés communs avec \"Liquide de frein\""
+      }
+    },
+    {
+      "productName": "Conduite de frein",
+      "productId": 515,
+      "currentCategory": {
+        "id": "100006",
+        "name": "Dispositif de freinage",
+        "level": 1,
+        "path": [
+          "Dispositif de freinage"
+        ]
+      },
+      "suggestedCategory": {
+        "id": "100025",
+        "name": "Servofrein",
+        "level": 2,
+        "path": [
+          "Dispositif de freinage",
+          "Servofrein"
+        ],
+        "similarity": 0.5,
+        "reason": "Mots clés communs avec \"Servofrein\""
+      }
+    },
+    {
+      "productName": "Kit de conduites de frein",
+      "productId": 669,
+      "currentCategory": {
+        "id": "100006",
+        "name": "Dispositif de freinage",
+        "level": 1,
+        "path": [
+          "Dispositif de freinage"
+        ]
+      },
+      "suggestedCategory": {
+        "id": "100025",
+        "name": "Servofrein",
+        "level": 2,
+        "path": [
+          "Dispositif de freinage",
+          "Servofrein"
+        ],
+        "similarity": 0.5,
+        "reason": "Mots clés communs avec \"Servofrein\""
+      }
+    },
+    {
+      "productName": "Régulateur de freinage",
+      "productId": 73,
+      "currentCategory": {
+        "id": "100006",
+        "name": "Dispositif de freinage",
+        "level": 1,
+        "path": [
+          "Dispositif de freinage"
+        ]
+      },
+      "suggestedCategory": {
+        "id": "100026",
+        "name": "Maître-cylindre de frein",
+        "level": 2,
+        "path": [
+          "Dispositif de freinage",
+          "Maître-cylindre de frein"
+        ],
+        "similarity": 0.5,
+        "reason": "Mots clés communs avec \"Maître-cylindre de frein\""
+      }
+    },
+    {
+      "productName": "Assortiment, ampoule",
+      "productId": 3326,
+      "currentCategory": {
+        "id": "100010",
+        "name": "Système électrique",
+        "level": 1,
+        "path": [
+          "Système électrique"
+        ]
+      },
+      "suggestedCategory": {
+        "id": "100498",
+        "name": "Ampoule de feu clignotant",
+        "level": 4,
+        "path": [
+          "Système électrique",
+          "Feux",
+          "Feu clignotant/composants",
+          "Ampoule de feu clignotant"
+        ],
+        "similarity": 0.5,
+        "reason": "Mots clés communs avec \"Ampoule de feu clignotant\""
+      }
+    },
+    {
+      "productName": "Commutateur multifonctions",
+      "productId": 6166,
+      "currentCategory": {
+        "id": "100010",
+        "name": "Système électrique",
+        "level": 1,
+        "path": [
+          "Système électrique"
+        ]
+      },
+      "suggestedCategory": {
+        "id": "103428",
+        "name": "Minuterie multifonctions",
+        "level": 2,
+        "path": [
+          "Système électrique",
+          "Minuterie multifonctions"
+        ],
+        "similarity": 0.5,
+        "reason": "Mots clés communs avec \"Minuterie multifonctions\""
+      }
+    },
+    {
+      "productName": "Générateur démarreur",
+      "productId": 3079,
+      "currentCategory": {
+        "id": "100010",
+        "name": "Système électrique",
+        "level": 1,
+        "path": [
+          "Système électrique"
+        ]
+      },
+      "suggestedCategory": {
+        "id": "100353",
+        "name": "Démarreur",
+        "level": 2,
+        "path": [
+          "Système électrique",
+          "Démarreur"
+        ],
+        "similarity": 0.5,
+        "reason": "Mots clés communs avec \"Démarreur\""
+      }
+    },
+    {
+      "productName": "Kit d'assemblage, axe de ressort",
+      "productId": 643,
+      "currentCategory": {
+        "id": "100011",
+        "name": "Suspension/Amortissement",
+        "level": 1,
+        "path": [
+          "Suspension/Amortissement"
+        ]
+      },
+      "suggestedCategory": {
+        "id": "100381",
+        "name": "Jambe de suspension/Amortisseur/Pièces d'assemblage",
+        "level": 2,
+        "path": [
+          "Suspension/Amortissement",
+          "Jambe de suspension/Amortisseur/Pièces d'assemblage"
+        ],
+        "similarity": 0.5,
+        "reason": "Mots clés communs avec \"Jambe de suspension/Amortisseur/Pièces d'assemblage\""
+      }
+    },
+    {
+      "productName": "Main de suspension",
+      "productId": 648,
+      "currentCategory": {
+        "id": "100011",
+        "name": "Suspension/Amortissement",
+        "level": 1,
+        "path": [
+          "Suspension/Amortissement"
+        ]
+      },
+      "suggestedCategory": {
+        "id": "100113",
+        "name": "Suspension",
+        "level": 2,
+        "path": [
+          "Suspension/Amortissement",
+          "Suspension"
+        ],
+        "similarity": 0.5,
+        "reason": "Mots clés communs avec \"Suspension\""
+      }
+    },
+    {
+      "productName": "Carter de direction",
+      "productId": 4470,
+      "currentCategory": {
+        "id": "100012",
+        "name": "Direction",
+        "level": 1,
+        "path": [
+          "Direction"
+        ]
+      },
+      "suggestedCategory": {
+        "id": "100199",
+        "name": "Crémaillère de direction/pompe",
+        "level": 2,
+        "path": [
+          "Direction",
+          "Crémaillère de direction/pompe"
+        ],
+        "similarity": 0.5,
+        "reason": "Mots clés communs avec \"Crémaillère de direction/pompe\""
+      }
+    },
+    {
+      "productName": "Douille, arbre de levier de direction",
+      "productId": 1596,
+      "currentCategory": {
+        "id": "100012",
+        "name": "Direction",
+        "level": 1,
+        "path": [
+          "Direction"
+        ]
+      },
+      "suggestedCategory": {
+        "id": "100202",
+        "name": "Colonne de direction / arbre",
+        "level": 2,
+        "path": [
+          "Direction",
+          "Colonne de direction / arbre"
+        ],
+        "similarity": 0.5,
+        "reason": "Mots clés communs avec \"Colonne de direction / arbre\""
+      }
+    },
+    {
+      "productName": "Soupape, servo-direction",
+      "productId": 679,
+      "currentCategory": {
+        "id": "100012",
+        "name": "Direction",
+        "level": 1,
+        "path": [
+          "Direction"
+        ]
+      },
+      "suggestedCategory": {
+        "id": "100202",
+        "name": "Colonne de direction / arbre",
+        "level": 2,
+        "path": [
+          "Direction",
+          "Colonne de direction / arbre"
+        ],
+        "similarity": 0.5,
+        "reason": "Mots clés communs avec \"Colonne de direction / arbre\""
+      }
+    },
+    {
+      "productName": "Appareil de commande, embrayage automatique",
+      "productId": 2212,
+      "currentCategory": {
+        "id": "100050",
+        "name": "Embrayage / composants",
+        "level": 1,
+        "path": [
+          "Embrayage / composants"
+        ]
+      },
+      "suggestedCategory": {
+        "id": "100079",
+        "name": "Commande d'embrayage",
+        "level": 2,
+        "path": [
+          "Embrayage / composants",
+          "Commande d'embrayage"
+        ],
+        "similarity": 0.5,
+        "reason": "Mots clés communs avec \"Commande d'embrayage\""
+      }
+    },
+    {
+      "productName": "Additif au carburant",
+      "productId": 3470,
+      "currentCategory": {
+        "id": "100214",
+        "name": "Alimentation carburant",
+        "level": 1,
+        "path": [
+          "Alimentation carburant"
+        ]
+      },
+      "suggestedCategory": {
+        "id": "100250",
+        "name": "Réservoir de carburant / accessoires",
+        "level": 2,
+        "path": [
+          "Alimentation carburant",
+          "Réservoir de carburant / accessoires"
+        ],
+        "similarity": 0.5,
+        "reason": "Mots clés communs avec \"Réservoir de carburant / accessoires\""
+      }
+    },
+    {
+      "productName": "Palpeur de niveau, circuit de carburant",
+      "productId": 4363,
+      "currentCategory": {
+        "id": "100214",
+        "name": "Alimentation carburant",
+        "level": 1,
+        "path": [
+          "Alimentation carburant"
+        ]
+      },
+      "suggestedCategory": {
+        "id": "100268",
+        "name": "Capteur de niveau de carburant",
+        "level": 2,
+        "path": [
+          "Alimentation carburant",
+          "Capteur de niveau de carburant"
+        ],
+        "similarity": 0.5,
+        "reason": "Mots clés communs avec \"Capteur de niveau de carburant\""
+      }
+    },
+    {
+      "productName": "Refroidisseur de carburant",
+      "productId": 3640,
+      "currentCategory": {
+        "id": "100214",
+        "name": "Alimentation carburant",
+        "level": 1,
+        "path": [
+          "Alimentation carburant"
+        ]
+      },
+      "suggestedCategory": {
+        "id": "100250",
+        "name": "Réservoir de carburant / accessoires",
+        "level": 2,
+        "path": [
+          "Alimentation carburant",
+          "Réservoir de carburant / accessoires"
+        ],
+        "similarity": 0.5,
+        "reason": "Mots clés communs avec \"Réservoir de carburant / accessoires\""
+      }
+    },
+    {
+      "productName": "Actionneur, papillon des gaz",
+      "productId": 1928,
+      "currentCategory": {
+        "id": "100254",
+        "name": "Carburation",
+        "level": 1,
+        "path": [
+          "Carburation"
+        ]
+      },
+      "suggestedCategory": {
+        "id": "102796",
+        "name": "Papillon des gaz / tubulure / tuyau de dépression",
+        "level": 3,
+        "path": [
+          "Carburation",
+          "Mélange air-carburant",
+          "Papillon des gaz / tubulure / tuyau de dépression"
+        ],
+        "similarity": 0.5,
+        "reason": "Mots clés communs avec \"Papillon des gaz / tubulure / tuyau de dépression\""
+      }
+    },
+    {
+      "productName": "Kit de réparation, carburateur",
+      "productId": 1090,
+      "currentCategory": {
+        "id": "100254",
+        "name": "Carburation",
+        "level": 1,
+        "path": [
+          "Carburation"
+        ]
+      },
+      "suggestedCategory": {
+        "id": "102807",
+        "name": "Kit de réparation/Kit complet",
+        "level": 3,
+        "path": [
+          "Carburation",
+          "Mélange air-carburant",
+          "Kit de réparation/Kit complet"
+        ],
+        "similarity": 0.5,
+        "reason": "Mots clés communs avec \"Kit de réparation/Kit complet\""
+      }
+    },
+    {
+      "productName": "Bougie de préchauffage, chauffage auxiliaire",
+      "productId": 2985,
+      "currentCategory": {
+        "id": "100335",
+        "name": "Systèmes de confort",
+        "level": 1,
+        "path": [
+          "Systèmes de confort"
+        ]
+      },
+      "suggestedCategory": {
+        "id": "102736",
+        "name": "Préchauffage du moteur (électrique)",
+        "level": 2,
+        "path": [
+          "Systèmes de confort",
+          "Préchauffage du moteur (électrique)"
+        ],
+        "similarity": 0.5,
+        "reason": "Mots clés communs avec \"Préchauffage du moteur (électrique)\""
+      }
+    },
+    {
+      "productName": "Arbre de transmission, boîte de transfert",
+      "productId": 4080,
+      "currentCategory": {
+        "id": "100400",
+        "name": "Entraînement des essieux",
+        "level": 1,
+        "path": [
+          "Entraînement des essieux"
+        ]
+      },
+      "suggestedCategory": {
+        "id": "100703",
+        "name": "Arbre de transmission",
+        "level": 2,
+        "path": [
+          "Entraînement des essieux",
+          "Arbre de transmission"
+        ],
+        "similarity": 0.5,
+        "reason": "Mots clés communs avec \"Arbre de transmission\""
+      }
+    }
+  ]
+}

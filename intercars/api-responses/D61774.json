@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "D61774",
+      "index": "03.9305-1026.0",
+      "tecDoc": "03.9305-1026.0",
+      "tecDocProd": "3",
+      "articleNumber": "03.9305-1026.0",
+      "brand": "ATE",
+      "shortDescription": "Brake system handling tools",
+      "description": "Brake system handling tools",
+      "packageWeight": "0,028",
+      "packageWidth": "3,000",
+      "packageDepth": "7,000",
+      "packageHeight": "3,000",
+      "customsCode": "90269000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_2330",
+          "primary": false,
+          "name": {
+            "en": "Clutch, test connection"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91783",
+          "primary": true,
+          "name": {
+            "en": "Brake system handling tools"
+          }
+        }
+      ]
+    }
+  ]
+}

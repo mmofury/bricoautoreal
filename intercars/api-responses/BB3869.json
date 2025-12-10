@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "BB3869",
+      "index": "1.11101",
+      "tecDoc": "1.11101",
+      "tecDocProd": "355",
+      "articleNumber": "1.11101",
+      "brand": "DT SPARE PARTS",
+      "shortDescription": "Belt Pulley, crankshaft",
+      "description": "Crankshaft pulley",
+      "packageWeight": "1,398",
+      "packageWidth": "28,600",
+      "packageDepth": "8,400",
+      "packageHeight": "30,600",
+      "customsCode": "84835020",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_552",
+          "primary": false,
+          "name": {
+            "en": "Belt Pulley, radiator fan"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3213",
+          "primary": true,
+          "name": {
+            "en": "Belt Pulley, crankshaft"
+          }
+        }
+      ]
+    }
+  ]
+}

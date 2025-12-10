@@ -1,0 +1,49 @@
+{
+  "productName": "Kit de réparation, dessicateur",
+  "productId": 2441,
+  "searchText": "Kit de réparation, dessicateur",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Système pneumatique": {
+          "categoryId": 200059,
+          "categoryName": "Système pneumatique",
+          "level": 1,
+          "children": {
+            "Dessicateur d'air / cartouche": {
+              "categoryId": null,
+              "categoryName": "Dessicateur d'air / cartouche",
+              "level": 2,
+              "children": {
+                "Kit de réparation, dessicateur": {
+                  "categoryId": 200112,
+                  "categoryName": "Air Dryer/Cartridge",
+                  "level": 2,
+                  "children": [],
+                  "productId": 2441
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système pneumatique [ID: 200059] (Niveau 1)\n    └── Dessicateur d'air / cartouche (Niveau 2)\n        └── Air Dryer/Cartridge [ID: 200112] (Niveau 2) → ProductId: 2441",
+      "productIdsInArbo": [
+        2441
+      ],
+      "matchedProductIds": [
+        2441
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:46:05.839Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

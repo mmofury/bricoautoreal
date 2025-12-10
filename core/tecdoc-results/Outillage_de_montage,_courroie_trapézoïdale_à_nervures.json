@@ -1,0 +1,107 @@
+{
+  "productName": "Outillage de montage, courroie trapézoïdale à nervures",
+  "searchText": "Outillage de montage, courroie trapézoïdale à nervures",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T21:18:11.412Z",
+  "productId": 4061,
+  "arborescence": {
+    "Commande à courroie": {
+      "categoryId": 100016,
+      "categoryName": "Commande à courroie",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Outillage de montage, courroie trapézoïdale à nervures": {
+              "categoryId": 103130,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4584
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Commande à courroie": {
+          "categoryId": null,
+          "categoryName": "Commande à courroie",
+          "level": 2,
+          "children": {
+            "Outillage de montage, courroie trapézoïdale à nervures": {
+              "categoryId": 104302,
+              "categoryName": "Belt Drive",
+              "level": 2,
+              "children": {
+                "Outils": {
+                  "categoryId": null,
+                  "categoryName": "Outils",
+                  "level": 4,
+                  "children": {
+                    "Outillage de montage, courroie trapézoïdale à nervures": {
+                      "categoryId": 104332,
+                      "categoryName": "Tools",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4584
+                    }
+                  }
+                }
+              },
+              "productId": 4584
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Commande à courroie [ID: 100016] (Niveau 1)\n│   └── Outils (Niveau 2)\n│       └── Tools [ID: 103130] (Niveau 2) → ProductId: 4584\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Commande à courroie (Niveau 2)\n        └── Belt Drive [ID: 104302] (Niveau 2) → ProductId: 4584\n            └── Outils (Niveau 4)\n                └── Tools [ID: 104332] (Niveau 3) → ProductId: 4584",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Commande à courroie",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100016,
+        null,
+        103130
+      ],
+      "finalCategoryId": 103130,
+      "productId": 4584
+    },
+    {
+      "path": [
+        "Moteur",
+        "Commande à courroie",
+        "Belt Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        104302
+      ],
+      "finalCategoryId": 104302,
+      "productId": 4584
+    }
+  ],
+  "productIdsInArbo": [
+    4584
+  ],
+  "closestProductIds": [
+    {
+      "productId": 4584,
+      "productName": "Outillage de montage, courroie trapézoïdale à nervures"
+    }
+  ]
+}

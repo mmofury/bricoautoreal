@@ -1,0 +1,119 @@
+{
+  "productName": "Contrôle de ralenti, alimentation en air",
+  "searchText": "Contrôle de ralenti, alimentation en air",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:24:45.837Z",
+  "productId": 1298,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Contrôle de ralenti, alimentation en air": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Réglage du ralenti/réglage de mise en température": {
+                  "categoryId": null,
+                  "categoryName": "Réglage du ralenti/réglage de mise en température",
+                  "level": 4,
+                  "children": {
+                    "Contrôle de ralenti, alimentation en air": {
+                      "categoryId": 102805,
+                      "categoryName": "Idle Control",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1298
+                    }
+                  }
+                }
+              },
+              "productId": 1298
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Alimentation en air": {
+          "categoryId": null,
+          "categoryName": "Alimentation en air",
+          "level": 2,
+          "children": {
+            "Contrôle de ralenti, alimentation en air": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Réglage/Commande": {
+                  "categoryId": null,
+                  "categoryName": "Réglage/Commande",
+                  "level": 4,
+                  "children": {
+                    "Contrôle de ralenti, alimentation en air": {
+                      "categoryId": 100818,
+                      "categoryName": "Charger Management",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1298
+                    }
+                  }
+                }
+              },
+              "productId": 1298
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carburation [ID: 100254] (Niveau 1)\n│   └── Mélange air-carburant (Niveau 2)\n│       └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 1298\n│           └── Réglage du ralenti/réglage de mise en température (Niveau 4)\n│               └── Idle Control [ID: 102805] (Niveau 3) → ProductId: 1298\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Alimentation en air (Niveau 2)\n        └── Air Supply [ID: 100383] (Niveau 2) → ProductId: 1298\n            └── Réglage/Commande (Niveau 4)\n                └── Charger Management [ID: 100818] (Niveau 3) → ProductId: 1298",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 1298
+    },
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 1298
+    }
+  ],
+  "productIdsInArbo": [
+    1298
+  ],
+  "matchedProductIds": [
+    1298
+  ]
+}

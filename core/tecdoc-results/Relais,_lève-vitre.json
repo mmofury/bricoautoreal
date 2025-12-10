@@ -1,0 +1,167 @@
+{
+  "productName": "Relais, lève-vitre",
+  "searchText": "Relais, lève-vitre",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:07:57.007Z",
+  "productId": 1292,
+  "arborescence": {
+    "Équipement intérieur": {
+      "categoryId": 100341,
+      "categoryName": "Équipement intérieur",
+      "level": 1,
+      "children": {
+        "Lève-vitre": {
+          "categoryId": null,
+          "categoryName": "Lève-vitre",
+          "level": 2,
+          "children": {
+            "Relais, lève-vitre": {
+              "categoryId": 102691,
+              "categoryName": "Window Regulator",
+              "level": 2,
+              "children": [],
+              "productId": 1292
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Relais": {
+          "categoryId": null,
+          "categoryName": "Relais",
+          "level": 2,
+          "children": {
+            "Relais, lève-vitre": {
+              "categoryId": 100785,
+              "categoryName": "Relay",
+              "level": 2,
+              "children": [],
+              "productId": 1292
+            }
+          }
+        }
+      }
+    },
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Lève-vitre": {
+          "categoryId": null,
+          "categoryName": "Lève-vitre",
+          "level": 2,
+          "children": {
+            "Relais, lève-vitre": {
+              "categoryId": 100751,
+              "categoryName": "Window Regulator",
+              "level": 2,
+              "children": [],
+              "productId": 1292
+            }
+          }
+        },
+        "Moteur / Relais": {
+          "categoryId": null,
+          "categoryName": "Moteur / Relais",
+          "level": 2,
+          "children": {
+            "Relais, lève-vitre": {
+              "categoryId": 104156,
+              "categoryName": "Motor/Relay/Switch",
+              "level": 2,
+              "children": {
+                "Lève-vitre": {
+                  "categoryId": null,
+                  "categoryName": "Lève-vitre",
+                  "level": 4,
+                  "children": {
+                    "Relais, lève-vitre": {
+                      "categoryId": 104157,
+                      "categoryName": "Window Regulator",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1292
+                    }
+                  }
+                }
+              },
+              "productId": 1292
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Équipement intérieur [ID: 100341] (Niveau 1)\n│   └── Lève-vitre (Niveau 2)\n│       └── Window Regulator [ID: 102691] (Niveau 2) → ProductId: 1292\n\n├── Système électrique [ID: 100010] (Niveau 1)\n│   └── Relais (Niveau 2)\n│       └── Relay [ID: 100785] (Niveau 2) → ProductId: 1292\n\n└── Systèmes de confort [ID: 100335] (Niveau 1)\n    ├── Lève-vitre (Niveau 2)\n    │   └── Window Regulator [ID: 100751] (Niveau 2) → ProductId: 1292\n    └── Moteur / Relais (Niveau 2)\n        └── Motor/Relay/Switch [ID: 104156] (Niveau 2) → ProductId: 1292\n            └── Lève-vitre (Niveau 4)\n                └── Window Regulator [ID: 104157] (Niveau 3) → ProductId: 1292",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Équipement intérieur",
+        "Lève-vitre",
+        "Window Regulator"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102691
+      ],
+      "finalCategoryId": 102691,
+      "productId": 1292
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Relais",
+        "Relay"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100785
+      ],
+      "finalCategoryId": 100785,
+      "productId": 1292
+    },
+    {
+      "path": [
+        "Systèmes de confort",
+        "Lève-vitre",
+        "Window Regulator"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        100751
+      ],
+      "finalCategoryId": 100751,
+      "productId": 1292
+    },
+    {
+      "path": [
+        "Systèmes de confort",
+        "Moteur / Relais",
+        "Motor/Relay/Switch"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        104156
+      ],
+      "finalCategoryId": 104156,
+      "productId": 1292
+    }
+  ],
+  "productIdsInArbo": [
+    1292
+  ],
+  "matchedProductIds": [
+    1292
+  ]
+}

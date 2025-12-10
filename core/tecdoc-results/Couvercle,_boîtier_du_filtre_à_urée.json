@@ -1,0 +1,69 @@
+{
+  "productName": "Couvercle, boîtier du filtre à urée",
+  "searchText": "Couvercle, boîtier du filtre à urée",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:27:15.903Z",
+  "productId": 60471,
+  "arborescence": {
+    "Échappement": {
+      "categoryId": 100004,
+      "categoryName": "Échappement",
+      "level": 1,
+      "children": {
+        "Injection d'urée": {
+          "categoryId": null,
+          "categoryName": "Injection d'urée",
+          "level": 2,
+          "children": {
+            "Couvercle, boîtier du filtre à urée": {
+              "categoryId": 103019,
+              "categoryName": "Urea Injection",
+              "level": 2,
+              "children": {
+                "Filtre d'urée": {
+                  "categoryId": null,
+                  "categoryName": "Filtre d'urée",
+                  "level": 4,
+                  "children": {
+                    "Couvercle, boîtier du filtre à urée": {
+                      "categoryId": 103023,
+                      "categoryName": "Urea Filter",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60471
+                    }
+                  }
+                }
+              },
+              "productId": 60471
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Échappement [ID: 100004] (Niveau 1)\n    └── Injection d'urée (Niveau 2)\n        └── Urea Injection [ID: 103019] (Niveau 2) → ProductId: 60471\n            └── Filtre d'urée (Niveau 4)\n                └── Urea Filter [ID: 103023] (Niveau 3) → ProductId: 60471",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Échappement",
+        "Injection d'urée",
+        "Urea Injection"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        103019
+      ],
+      "finalCategoryId": 103019,
+      "productId": 60471
+    }
+  ],
+  "productIdsInArbo": [
+    60471
+  ],
+  "matchedProductIds": [
+    60471
+  ]
+}

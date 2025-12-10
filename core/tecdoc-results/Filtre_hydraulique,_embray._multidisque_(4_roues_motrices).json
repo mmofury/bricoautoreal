@@ -1,0 +1,89 @@
+{
+  "productName": "Filtre hydraulique, embray. multidisque (4 roues motrices)",
+  "searchText": "Filtre hydraulique, embray. multidisque (4 roues motrices)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:39:31.761Z",
+  "productId": 5039,
+  "arborescence": {
+    "Entraînement des essieux": {
+      "categoryId": 100400,
+      "categoryName": "Entraînement des essieux",
+      "level": 1,
+      "children": {
+        "Embrayage multidisque (transmission intégrale)": {
+          "categoryId": null,
+          "categoryName": "Embrayage multidisque (transmission intégrale)",
+          "level": 2,
+          "children": {
+            "Filtre hydraulique, embray. multidisque (4 roues motrices)": {
+              "categoryId": 103456,
+              "categoryName": "Multi-Plate Clutch (all-wheel drive)",
+              "level": 2,
+              "children": [],
+              "productId": 5039
+            }
+          }
+        }
+      }
+    },
+    "Filtre": {
+      "categoryId": 100005,
+      "categoryName": "Filtre",
+      "level": 1,
+      "children": {
+        "Filtre hydraulique": {
+          "categoryId": null,
+          "categoryName": "Filtre hydraulique",
+          "level": 2,
+          "children": {
+            "Filtre hydraulique, embray. multidisque (4 roues motrices)": {
+              "categoryId": 706725,
+              "categoryName": "Hydraulic Filter",
+              "level": 2,
+              "children": [],
+              "productId": 5039
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Entraînement des essieux [ID: 100400] (Niveau 1)\n│   └── Embrayage multidisque (transmission intégrale) (Niveau 2)\n│       └── Multi-Plate Clutch (all-wheel drive) [ID: 103456] (Niveau 2) → ProductId: 5039\n\n└── Filtre [ID: 100005] (Niveau 1)\n    └── Filtre hydraulique (Niveau 2)\n        └── Hydraulic Filter [ID: 706725] (Niveau 2) → ProductId: 5039",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des essieux",
+        "Embrayage multidisque (transmission intégrale)",
+        "Multi-Plate Clutch (all-wheel drive)"
+      ],
+      "categoryIds": [
+        100400,
+        null,
+        103456
+      ],
+      "finalCategoryId": 103456,
+      "productId": 5039
+    },
+    {
+      "path": [
+        "Filtre",
+        "Filtre hydraulique",
+        "Hydraulic Filter"
+      ],
+      "categoryIds": [
+        100005,
+        null,
+        706725
+      ],
+      "finalCategoryId": 706725,
+      "productId": 5039
+    }
+  ],
+  "productIdsInArbo": [
+    5039
+  ],
+  "matchedProductIds": [
+    5039
+  ]
+}

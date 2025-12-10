@@ -1,0 +1,83 @@
+{
+  "productName": "Flasque, injection centrale",
+  "searchText": "Flasque, injection centrale",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:41:05.726Z",
+  "productId": 3910,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Flasque, injection centrale": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Papillon des gaz / tubulure / tuyau de dépression": {
+                  "categoryId": null,
+                  "categoryName": "Papillon des gaz / tubulure / tuyau de dépression",
+                  "level": 4,
+                  "children": {
+                    "Flasque, injection centrale": {
+                      "categoryId": 102796,
+                      "categoryName": "Throttle Valve/Throttle Body/Vacuum Pipe",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3910
+                    }
+                  }
+                },
+                "Unité d'injection": {
+                  "categoryId": null,
+                  "categoryName": "Unité d'injection",
+                  "level": 4,
+                  "children": {
+                    "Flasque, injection centrale": {
+                      "categoryId": 102798,
+                      "categoryName": "Injection Pump",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3910
+                    }
+                  }
+                }
+              },
+              "productId": 3910
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carburation [ID: 100254] (Niveau 1)\n    └── Mélange air-carburant (Niveau 2)\n        └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 3910\n            ├── Papillon des gaz / tubulure / tuyau de dépression (Niveau 4)\n            │   └── Throttle Valve/Throttle Body/Vacuum Pipe [ID: 102796] (Niveau 3) → ProductId: 3910\n            └── Unité d'injection (Niveau 4)\n                └── Injection Pump [ID: 102798] (Niveau 3) → ProductId: 3910",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 3910
+    }
+  ],
+  "productIdsInArbo": [
+    3910
+  ],
+  "matchedProductIds": [
+    3910
+  ]
+}

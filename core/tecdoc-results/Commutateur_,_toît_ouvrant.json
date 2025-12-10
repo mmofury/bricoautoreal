@@ -1,0 +1,69 @@
+{
+  "productName": "Commutateur , toît ouvrant",
+  "searchText": "Commutateur , toît ouvrant",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:23:01.402Z",
+  "productId": 2962,
+  "arborescence": {
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Moteur / Relais": {
+          "categoryId": null,
+          "categoryName": "Moteur / Relais",
+          "level": 2,
+          "children": {
+            "Commutateur , toît ouvrant": {
+              "categoryId": 104156,
+              "categoryName": "Motor/Relay/Switch",
+              "level": 2,
+              "children": {
+                "Toit ouvrant / capot levable": {
+                  "categoryId": null,
+                  "categoryName": "Toit ouvrant / capot levable",
+                  "level": 4,
+                  "children": {
+                    "Commutateur , toît ouvrant": {
+                      "categoryId": 104158,
+                      "categoryName": "Sunroof",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2962
+                    }
+                  }
+                }
+              },
+              "productId": 2962
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Systèmes de confort [ID: 100335] (Niveau 1)\n    └── Moteur / Relais (Niveau 2)\n        └── Motor/Relay/Switch [ID: 104156] (Niveau 2) → ProductId: 2962\n            └── Toit ouvrant / capot levable (Niveau 4)\n                └── Sunroof [ID: 104158] (Niveau 3) → ProductId: 2962",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Systèmes de confort",
+        "Moteur / Relais",
+        "Motor/Relay/Switch"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        104156
+      ],
+      "finalCategoryId": 104156,
+      "productId": 2962
+    }
+  ],
+  "productIdsInArbo": [
+    2962
+  ],
+  "matchedProductIds": [
+    2962
+  ]
+}

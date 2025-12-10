@@ -1,0 +1,54 @@
+{
+  "productName": "Commutateur multifonctions",
+  "searchText": "Commutateur multifonctions",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:23:15.146Z",
+  "productId": 6166,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Commutateur multifonctionnel / unité de commande": {
+          "categoryId": null,
+          "categoryName": "Commutateur multifonctionnel / unité de commande",
+          "level": 2,
+          "children": {
+            "Commutateur multifonctions": {
+              "categoryId": 104741,
+              "categoryName": "Multifunction switch/operating unit",
+              "level": 2,
+              "children": [],
+              "productId": 6166
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Commutateur multifonctionnel / unité de commande (Niveau 2)\n        └── Multifunction switch/operating unit [ID: 104741] (Niveau 2) → ProductId: 6166",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Commutateur multifonctionnel / unité de commande",
+        "Multifunction switch/operating unit"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        104741
+      ],
+      "finalCategoryId": 104741,
+      "productId": 6166
+    }
+  ],
+  "productIdsInArbo": [
+    6166
+  ],
+  "matchedProductIds": [
+    6166
+  ]
+}

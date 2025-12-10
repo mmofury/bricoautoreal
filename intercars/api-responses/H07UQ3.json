@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H07UQ3",
+      "index": "2260115COJ",
+      "tecDoc": "2260115",
+      "tecDocProd": "495",
+      "articleNumber": "2260115",
+      "brand": "COJALI",
+      "shortDescription": "Plug",
+      "description": "Wire plug (number of pins: 7, plug shape: round, female, EBS, screwed contacts)",
+      "customsCode": "85366990",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_824",
+          "primary": true,
+          "name": {
+            "en": "Plug"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_2442",
+          "primary": false,
+          "name": {
+            "en": "Connector Cable, electronic brake system"
+          }
+        }
+      ]
+    }
+  ]
+}

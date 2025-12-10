@@ -1,0 +1,69 @@
+{
+  "productName": "Pompe, préalimentation de carburant",
+  "searchText": "Pompe, préalimentation de carburant",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:02:29.259Z",
+  "productId": 460,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Pompe / accessoires": {
+          "categoryId": null,
+          "categoryName": "Pompe / accessoires",
+          "level": 2,
+          "children": {
+            "Pompe, préalimentation de carburant": {
+              "categoryId": 100251,
+              "categoryName": "Pump/Accessories",
+              "level": 2,
+              "children": {
+                "Pompe d'alimentation": {
+                  "categoryId": null,
+                  "categoryName": "Pompe d'alimentation",
+                  "level": 4,
+                  "children": {
+                    "Pompe, préalimentation de carburant": {
+                      "categoryId": 100717,
+                      "categoryName": "Fuel Pump",
+                      "level": 3,
+                      "children": [],
+                      "productId": 460
+                    }
+                  }
+                }
+              },
+              "productId": 460
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Alimentation carburant [ID: 100214] (Niveau 1)\n    └── Pompe / accessoires (Niveau 2)\n        └── Pump/Accessories [ID: 100251] (Niveau 2) → ProductId: 460\n            └── Pompe d'alimentation (Niveau 4)\n                └── Fuel Pump [ID: 100717] (Niveau 3) → ProductId: 460",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Pompe / accessoires",
+        "Pump/Accessories"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100251
+      ],
+      "finalCategoryId": 100251,
+      "productId": 460
+    }
+  ],
+  "productIdsInArbo": [
+    460
+  ],
+  "matchedProductIds": [
+    460
+  ]
+}

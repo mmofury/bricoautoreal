@@ -1,0 +1,84 @@
+{
+  "productName": "Anneau élastique, échappement",
+  "searchText": "Anneau élastique, échappement",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T18:54:33.057Z",
+  "productId": 5501,
+  "arborescence": {
+    "Échappement": {
+      "categoryId": 100004,
+      "categoryName": "Échappement",
+      "level": 1,
+      "children": {
+        "Pièces de montage": {
+          "categoryId": null,
+          "categoryName": "Pièces de montage",
+          "level": 2,
+          "children": {
+            "Anneau élastique, échappement": {
+              "categoryId": 100222,
+              "categoryName": "Assembly Parts",
+              "level": 2,
+              "children": {
+                "Pièces détachées de montage": {
+                  "categoryId": null,
+                  "categoryName": "Pièces détachées de montage",
+                  "level": 4,
+                  "children": {
+                    "Anneau élastique, échappement": {
+                      "categoryId": 100317,
+                      "categoryName": "Individual Assembly Parts",
+                      "level": 3,
+                      "children": {
+                        "Vis/écrous/anneaux": {
+                          "categoryId": null,
+                          "categoryName": "Vis/écrous/anneaux",
+                          "level": 6,
+                          "children": {
+                            "Anneau élastique, échappement": {
+                              "categoryId": 100333,
+                              "categoryName": "Bolt/Screw/Nut/Rings",
+                              "level": 4,
+                              "children": [],
+                              "productId": 5501
+                            }
+                          }
+                        }
+                      },
+                      "productId": 5501
+                    }
+                  }
+                }
+              },
+              "productId": 5501
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Échappement [ID: 100004] (Niveau 1)\n    └── Pièces de montage (Niveau 2)\n        └── Assembly Parts [ID: 100222] (Niveau 2) → ProductId: 5501\n            └── Pièces détachées de montage (Niveau 4)\n                └── Individual Assembly Parts [ID: 100317] (Niveau 3) → ProductId: 5501\n                    └── Vis/écrous/anneaux (Niveau 6)\n                        └── Bolt/Screw/Nut/Rings [ID: 100333] (Niveau 4) → ProductId: 5501",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Échappement",
+        "Pièces de montage",
+        "Assembly Parts"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100222
+      ],
+      "finalCategoryId": 100222,
+      "productId": 5501
+    }
+  ],
+  "productIdsInArbo": [
+    5501
+  ],
+  "matchedProductIds": [
+    5501
+  ]
+}

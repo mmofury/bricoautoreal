@@ -1,0 +1,82 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.245Z",
+  "manufacturer": "DORCEN",
+  "countGroups": 5,
+  "groups": [
+    {
+      "manufacturerId": 5141,
+      "manufacturerName": "DORCEN",
+      "groupKey": "E20",
+      "displayName": "E20",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39414,
+          "modelName": "E20",
+          "modelYearFrom": "2019-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5141,
+      "manufacturerName": "DORCEN",
+      "groupKey": "G60",
+      "displayName": "G60",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39476,
+          "modelName": "G60",
+          "modelYearFrom": "2019-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5141,
+      "manufacturerName": "DORCEN",
+      "groupKey": "G60E",
+      "displayName": "G60E",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39503,
+          "modelName": "G60E",
+          "modelYearFrom": "2019-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5141,
+      "manufacturerName": "DORCEN",
+      "groupKey": "G60S",
+      "displayName": "G60S",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39415,
+          "modelName": "G60s",
+          "modelYearFrom": "2019-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5141,
+      "manufacturerName": "DORCEN",
+      "groupKey": "G70S",
+      "displayName": "G70S",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39033,
+          "modelName": "G70s",
+          "modelYearFrom": "2018-09-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

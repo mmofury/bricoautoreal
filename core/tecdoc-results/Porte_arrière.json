@@ -1,0 +1,207 @@
+{
+  "productName": "Porte arrière",
+  "searchText": "Porte arrière",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:02:46.886Z",
+  "productId": 390,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Arrière de la voiture": {
+          "categoryId": null,
+          "categoryName": "Arrière de la voiture",
+          "level": 2,
+          "children": {
+            "Porte arrière": {
+              "categoryId": 101705,
+              "categoryName": "Vehicle Rear",
+              "level": 2,
+              "children": {
+                "Hayon/composants": {
+                  "categoryId": null,
+                  "categoryName": "Hayon/composants",
+                  "level": 4,
+                  "children": {
+                    "Porte arrière": {
+                      "categoryId": 101781,
+                      "categoryName": "Back Door/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 390
+                    }
+                  }
+                }
+              },
+              "productId": 390
+            }
+          }
+        },
+        "Trappes/capots/portes/toit coul./toit panoram./toit pliant": {
+          "categoryId": null,
+          "categoryName": "Trappes/capots/portes/toit coul./toit panoram./toit pliant",
+          "level": 2,
+          "children": {
+            "Porte arrière": {
+              "categoryId": 100746,
+              "categoryName": "Hatches/Bonnets/Doors/Sunroof/Panoramic Roof",
+              "level": 2,
+              "children": {
+                "Portière avant/composants": {
+                  "categoryId": null,
+                  "categoryName": "Portière avant/composants",
+                  "level": 4,
+                  "children": {
+                    "Porte arrière": {
+                      "categoryId": 100189,
+                      "categoryName": "Doors/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 390
+                    }
+                  }
+                }
+              },
+              "productId": 390
+            },
+            "Tampon de butée, porte arrière/hayon": {
+              "categoryId": 100746,
+              "categoryName": "Hatches/Bonnets/Doors/Sunroof/Panoramic Roof",
+              "level": 2,
+              "children": {
+                "Portière avant/composants": {
+                  "categoryId": null,
+                  "categoryName": "Portière avant/composants",
+                  "level": 4,
+                  "children": {
+                    "Tampon de butée, porte arrière/hayon": {
+                      "categoryId": 100189,
+                      "categoryName": "Doors/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60555
+                    }
+                  }
+                }
+              },
+              "productId": 60555
+            }
+          }
+        }
+      }
+    },
+    "Verrouillage": {
+      "categoryId": 100685,
+      "categoryName": "Verrouillage",
+      "level": 1,
+      "children": {
+        "Serrure extérieure": {
+          "categoryId": null,
+          "categoryName": "Serrure extérieure",
+          "level": 2,
+          "children": {
+            "Cran de serrure, porte arrière": {
+              "categoryId": 100687,
+              "categoryName": "Exterior Locks",
+              "level": 2,
+              "children": [],
+              "productId": 61347
+            },
+            "Serrure de hayon": {
+              "categoryId": 100687,
+              "categoryName": "Exterior Locks",
+              "level": 2,
+              "children": [],
+              "productId": 60081
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carrosserie [ID: 100001] (Niveau 1)\n│   ├── Arrière de la voiture (Niveau 2)\n│   │   └── Vehicle Rear [ID: 101705] (Niveau 2) → ProductId: 390\n│   │       └── Hayon/composants (Niveau 4)\n│   │           └── Back Door/Parts [ID: 101781] (Niveau 3) → ProductId: 390\n│   └── Trappes/capots/portes/toit coul./toit panoram./toit pliant (Niveau 2)\n│       ├── Hatches/Bonnets/Doors/Sunroof/Panoramic Roof [ID: 100746] (Niveau 2) → ProductId: 390\n│       │   └── Portière avant/composants (Niveau 4)\n│       │       └── Doors/Parts [ID: 100189] (Niveau 3) → ProductId: 390\n│       └── Hatches/Bonnets/Doors/Sunroof/Panoramic Roof [ID: 100746] (Niveau 2) → ProductId: 60555\n│           └── Portière avant/composants (Niveau 4)\n│               └── Doors/Parts [ID: 100189] (Niveau 3) → ProductId: 60555\n\n└── Verrouillage [ID: 100685] (Niveau 1)\n    └── Serrure extérieure (Niveau 2)\n        ├── Exterior Locks [ID: 100687] (Niveau 2) → ProductId: 61347\n        └── Exterior Locks [ID: 100687] (Niveau 2) → ProductId: 60081",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Vehicle Rear"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101705
+      ],
+      "finalCategoryId": 101705,
+      "productId": 390
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Trappes/capots/portes/toit coul./toit panoram./toit pliant",
+        "Hatches/Bonnets/Doors/Sunroof/Panoramic Roof"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100746
+      ],
+      "finalCategoryId": 100746,
+      "productId": 390
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Trappes/capots/portes/toit coul./toit panoram./toit pliant",
+        "Hatches/Bonnets/Doors/Sunroof/Panoramic Roof"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100746
+      ],
+      "finalCategoryId": 100746,
+      "productId": 60555
+    },
+    {
+      "path": [
+        "Verrouillage",
+        "Serrure extérieure",
+        "Exterior Locks"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100687
+      ],
+      "finalCategoryId": 100687,
+      "productId": 61347
+    },
+    {
+      "path": [
+        "Verrouillage",
+        "Serrure extérieure",
+        "Exterior Locks"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100687
+      ],
+      "finalCategoryId": 100687,
+      "productId": 60081
+    }
+  ],
+  "productIdsInArbo": [
+    390,
+    60081,
+    60555,
+    61347
+  ],
+  "matchedProductIds": [
+    390
+  ]
+}

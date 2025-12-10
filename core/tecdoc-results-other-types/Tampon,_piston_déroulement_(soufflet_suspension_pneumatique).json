@@ -1,0 +1,64 @@
+{
+  "productName": "Tampon, piston déroulement (soufflet suspension pneumatique)",
+  "productId": 3172,
+  "searchText": "Tampon, piston déroulement (soufflet suspension pneumatique)",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Suspension/Amortissement": {
+          "categoryId": 200060,
+          "categoryName": "Suspension/Amortissement",
+          "level": 1,
+          "children": {
+            "Suspension pneumatique": {
+              "categoryId": null,
+              "categoryName": "Suspension pneumatique",
+              "level": 2,
+              "children": {
+                "Tampon, piston déroulement (soufflet suspension pneumatique)": {
+                  "categoryId": 200883,
+                  "categoryName": "Air Suspension",
+                  "level": 2,
+                  "children": {
+                    "Suspension pneumatique, pièces de montage": {
+                      "categoryId": null,
+                      "categoryName": "Suspension pneumatique, pièces de montage",
+                      "level": 4,
+                      "children": {
+                        "Tampon, piston déroulement (soufflet suspension pneumatique)": {
+                          "categoryId": 200933,
+                          "categoryName": "Air Suspension, parts",
+                          "level": 3,
+                          "children": [],
+                          "productId": 3172
+                        }
+                      }
+                    }
+                  },
+                  "productId": 3172
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Suspension/Amortissement [ID: 200060] (Niveau 1)\n    └── Suspension pneumatique (Niveau 2)\n        └── Air Suspension [ID: 200883] (Niveau 2) → ProductId: 3172\n            └── Suspension pneumatique, pièces de montage (Niveau 4)\n                └── Air Suspension, parts [ID: 200933] (Niveau 3) → ProductId: 3172",
+      "productIdsInArbo": [
+        3172
+      ],
+      "matchedProductIds": [
+        3172
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:38:50.195Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

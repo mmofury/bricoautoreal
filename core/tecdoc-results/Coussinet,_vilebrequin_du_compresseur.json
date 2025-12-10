@@ -1,0 +1,57 @@
+{
+  "productName": "Coussinet, vilebrequin du compresseur",
+  "searchText": "Coussinet, vilebrequin du compresseur",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T20:26:40.719Z",
+  "productId": 2915,
+  "arborescence": {
+    "Climatisation": {
+      "categoryId": 100243,
+      "categoryName": "Climatisation",
+      "level": 1,
+      "children": {
+        "Compresseur / composants": {
+          "categoryId": null,
+          "categoryName": "Compresseur / composants",
+          "level": 2,
+          "children": {
+            "Coussinet, vilebrequin du compresseur": {
+              "categoryId": 100354,
+              "categoryName": "Compressor/Parts",
+              "level": 2,
+              "children": [],
+              "productId": 8915
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Climatisation [ID: 100243] (Niveau 1)\n    └── Compresseur / composants (Niveau 2)\n        └── Compressor/Parts [ID: 100354] (Niveau 2) → ProductId: 8915",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Climatisation",
+        "Compresseur / composants",
+        "Compressor/Parts"
+      ],
+      "categoryIds": [
+        100243,
+        null,
+        100354
+      ],
+      "finalCategoryId": 100354,
+      "productId": 8915
+    }
+  ],
+  "productIdsInArbo": [
+    8915
+  ],
+  "closestProductIds": [
+    {
+      "productId": 8915,
+      "productName": "Coussinet, vilebrequin du compresseur"
+    }
+  ]
+}

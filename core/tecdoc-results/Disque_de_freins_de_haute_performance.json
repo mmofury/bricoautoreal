@@ -1,0 +1,69 @@
+{
+  "productName": "Disque de freins de haute performance",
+  "searchText": "Disque de freins de haute performance",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:32:01.837Z",
+  "productId": 3369,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Frein de haute performance": {
+          "categoryId": null,
+          "categoryName": "Frein de haute performance",
+          "level": 2,
+          "children": {
+            "Disque de freins de haute performance": {
+              "categoryId": 102224,
+              "categoryName": "High Performance Brakes",
+              "level": 2,
+              "children": {
+                "Disque de freins de haute performance": {
+                  "categoryId": null,
+                  "categoryName": "Disque de freins de haute performance",
+                  "level": 4,
+                  "children": {
+                    "Disque de freins de haute performance": {
+                      "categoryId": 102226,
+                      "categoryName": "High Performance Brake Disc",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3369
+                    }
+                  }
+                }
+              },
+              "productId": 3369
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif de freinage [ID: 100006] (Niveau 1)\n    └── Frein de haute performance (Niveau 2)\n        └── High Performance Brakes [ID: 102224] (Niveau 2) → ProductId: 3369\n            └── Disque de freins de haute performance (Niveau 4)\n                └── High Performance Brake Disc [ID: 102226] (Niveau 3) → ProductId: 3369",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Frein de haute performance",
+        "High Performance Brakes"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        102224
+      ],
+      "finalCategoryId": 102224,
+      "productId": 3369
+    }
+  ],
+  "productIdsInArbo": [
+    3369
+  ],
+  "matchedProductIds": [
+    3369
+  ]
+}

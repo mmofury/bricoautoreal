@@ -1,0 +1,132 @@
+{
+  "productName": "Capteur, niveau de liquide de refroidissement",
+  "searchText": "Capteur, niveau de liquide de refroidissement",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:16:01.361Z",
+  "productId": 1288,
+  "arborescence": {
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Interrupteur / capteur": {
+          "categoryId": null,
+          "categoryName": "Interrupteur / capteur",
+          "level": 2,
+          "children": {
+            "Capteur, niveau de liquide de refroidissement": {
+              "categoryId": 100334,
+              "categoryName": "Switch/Sensor",
+              "level": 2,
+              "children": [],
+              "productId": 1288
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Capteurs": {
+          "categoryId": null,
+          "categoryName": "Capteurs",
+          "level": 2,
+          "children": {
+            "Capteur, niveau de liquide de refroidissement": {
+              "categoryId": 102747,
+              "categoryName": "Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 1288
+            }
+          }
+        },
+        "Instruments": {
+          "categoryId": null,
+          "categoryName": "Instruments",
+          "level": 2,
+          "children": {
+            "Capteur, niveau de liquide de refroidissement": {
+              "categoryId": 100322,
+              "categoryName": "Instruments",
+              "level": 2,
+              "children": {
+                "Capteurs/Conatct": {
+                  "categoryId": null,
+                  "categoryName": "Capteurs/Conatct",
+                  "level": 4,
+                  "children": {
+                    "Capteur, niveau de liquide de refroidissement": {
+                      "categoryId": 100553,
+                      "categoryName": "Sensors/Switches",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1288
+                    }
+                  }
+                }
+              },
+              "productId": 1288
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Refroidissement [ID: 100007] (Niveau 1)\n│   └── Interrupteur / capteur (Niveau 2)\n│       └── Switch/Sensor [ID: 100334] (Niveau 2) → ProductId: 1288\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    ├── Capteurs (Niveau 2)\n    │   └── Sensors [ID: 102747] (Niveau 2) → ProductId: 1288\n    └── Instruments (Niveau 2)\n        └── Instruments [ID: 100322] (Niveau 2) → ProductId: 1288\n            └── Capteurs/Conatct (Niveau 4)\n                └── Sensors/Switches [ID: 100553] (Niveau 3) → ProductId: 1288",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Refroidissement",
+        "Interrupteur / capteur",
+        "Switch/Sensor"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100334
+      ],
+      "finalCategoryId": 100334,
+      "productId": 1288
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Capteurs",
+        "Sensors"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        102747
+      ],
+      "finalCategoryId": 102747,
+      "productId": 1288
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Instruments",
+        "Instruments"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100322
+      ],
+      "finalCategoryId": 100322,
+      "productId": 1288
+    }
+  ],
+  "productIdsInArbo": [
+    1288
+  ],
+  "matchedProductIds": [
+    1288
+  ]
+}

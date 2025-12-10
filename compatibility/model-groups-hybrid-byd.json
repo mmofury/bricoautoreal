@@ -1,0 +1,721 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.199Z",
+  "manufacturer": "BYD",
+  "countGroups": 40,
+  "groups": [
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "ATTO",
+      "displayName": "ATTO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42702,
+          "modelName": "ATTO 3",
+          "modelYearFrom": "2022-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45043,
+          "modelName": "ATTO",
+          "modelYearFrom": "2022-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45331,
+          "modelName": "ATTO 2",
+          "modelYearFrom": "2024-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "D1",
+      "displayName": "D1",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42111,
+          "modelName": "D1",
+          "modelYearFrom": "2021-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "DOLPHIN",
+      "displayName": "DOLPHIN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42373,
+          "modelName": "DOLPHIN",
+          "modelYearFrom": "2021-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "E1",
+      "displayName": "E1",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39505,
+          "modelName": "e1",
+          "modelYearFrom": "2019-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "E2",
+      "displayName": "E2",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40939,
+          "modelName": "e2",
+          "modelYearFrom": "2019-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "E3",
+      "displayName": "E3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40109,
+          "modelName": "e3",
+          "modelYearFrom": "2019-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "E5",
+      "displayName": "E5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36499,
+          "modelName": "e5",
+          "modelYearFrom": "2016-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "E6",
+      "displayName": "E6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11534,
+          "modelName": "e6",
+          "modelYearFrom": "2010-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42689,
+          "modelName": "e6 II",
+          "modelYearFrom": "2021-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "E9",
+      "displayName": "E9",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41873,
+          "modelName": "e9",
+          "modelYearFrom": "2021-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "F0",
+      "displayName": "F0",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7847,
+          "modelName": "F0",
+          "modelYearFrom": "2008-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "F3",
+      "displayName": "F3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6476,
+          "modelName": "F3 A trois volumes",
+          "modelYearFrom": "2005-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "F3R",
+      "displayName": "F3R",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7843,
+          "modelName": "F3R Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2007-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "F6",
+      "displayName": "F6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7856,
+          "modelName": "F6",
+          "modelYearFrom": "2007-09-01",
+          "modelYearTo": "2014-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "FLYER",
+      "displayName": "FLYER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6477,
+          "modelName": "FLYER",
+          "modelYearFrom": "2001-04-01",
+          "modelYearTo": "2008-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "G3",
+      "displayName": "G3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8678,
+          "modelName": "G3 A trois volumes",
+          "modelYearFrom": "2009-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "G3R",
+      "displayName": "G3R",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9789,
+          "modelName": "G3R Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2011-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "G5",
+      "displayName": "G5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13189,
+          "modelName": "G5",
+          "modelYearFrom": "2014-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "G6",
+      "displayName": "G6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10767,
+          "modelName": "G6",
+          "modelYearFrom": "2011-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "HAN",
+      "displayName": "HAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40961,
+          "modelName": "HAN",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "HUWEIJIAN",
+      "displayName": "HUWEIJIAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43865,
+          "modelName": "HUWEIJIAN 07",
+          "modelYearFrom": "2022-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "L3",
+      "displayName": "L3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9165,
+          "modelName": "L3",
+          "modelYearFrom": "2010-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "M3",
+      "displayName": "M3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41746,
+          "modelName": "M3 Monospace",
+          "modelYearFrom": "2019-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "M6",
+      "displayName": "M6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9053,
+          "modelName": "M6",
+          "modelYearFrom": "2010-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "QIN",
+      "displayName": "QIN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11754,
+          "modelName": "QIN",
+          "modelYearFrom": "2013-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39039,
+          "modelName": "QIN Pro",
+          "modelYearFrom": "2018-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40156,
+          "modelName": "QIN",
+          "modelYearFrom": "2019-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42099,
+          "modelName": "QIN PLUS",
+          "modelYearFrom": "2021-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45605,
+          "modelName": "QIN L",
+          "modelYearFrom": "2024-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "QUZHUJIAN",
+      "displayName": "QUZHUJIAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42825,
+          "modelName": "QUZHUJIAN 05",
+          "modelYearFrom": "2022-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "S2",
+      "displayName": "S2",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39308,
+          "modelName": "S2",
+          "modelYearFrom": "2019-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "S6",
+      "displayName": "S6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9788,
+          "modelName": "S6",
+          "modelYearFrom": "2011-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "S7",
+      "displayName": "S7",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14231,
+          "modelName": "S7",
+          "modelYearFrom": "2014-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "S8",
+      "displayName": "S8",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8400,
+          "modelName": "S8",
+          "modelYearFrom": "2009-07-01",
+          "modelYearTo": "2013-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "SEA",
+      "displayName": "SEA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44326,
+          "modelName": "SEA MEW",
+          "modelYearFrom": "2023-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45907,
+          "modelName": "SEA LION 05",
+          "modelYearFrom": "2024-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "SEAL",
+      "displayName": "SEAL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43107,
+          "modelName": "SEAL",
+          "modelYearFrom": "2022-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45173,
+          "modelName": "SEAL U",
+          "modelYearFrom": "2024-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45615,
+          "modelName": "SEAL 06",
+          "modelYearFrom": "2024-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45785,
+          "modelName": "SEAL 07",
+          "modelYearFrom": "2024-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45985,
+          "modelName": "SEAL 06 GT",
+          "modelYearFrom": "2024-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "SEALION",
+      "displayName": "SEALION",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45520,
+          "modelName": "SEALION 7",
+          "modelYearFrom": "2024-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "SHARK",
+      "displayName": "SHARK",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45990,
+          "modelName": "SHARK 6 Pick-up",
+          "modelYearFrom": "2024-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "SIRUI",
+      "displayName": "SIRUI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11533,
+          "modelName": "SIRUI",
+          "modelYearFrom": "2013-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "SONG",
+      "displayName": "SONG",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14801,
+          "modelName": "SONG",
+          "modelYearFrom": "2015-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38250,
+          "modelName": "SONG MAX",
+          "modelYearFrom": "2017-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39674,
+          "modelName": "SONG Pro",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41198,
+          "modelName": "SONG PLUS",
+          "modelYearFrom": "2020-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41893,
+          "modelName": "SONG PRO II",
+          "modelYearFrom": "2021-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45046,
+          "modelName": "SONG L",
+          "modelYearFrom": "2023-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "SURUI",
+      "displayName": "SURUI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11109,
+          "modelName": "SURUI",
+          "modelYearFrom": "2012-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "T3",
+      "displayName": "T3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41822,
+          "modelName": "T3",
+          "modelYearFrom": "2014-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "TANG",
+      "displayName": "TANG",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14371,
+          "modelName": "TANG",
+          "modelYearFrom": "2015-06-01",
+          "modelYearTo": "2018-06-01"
+        },
+        {
+          "modelId": 39205,
+          "modelName": "TANG",
+          "modelYearFrom": "2018-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "V3",
+      "displayName": "V3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43556,
+          "modelName": "V3",
+          "modelYearFrom": "2020-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3122,
+      "manufacturerName": "BYD",
+      "groupKey": "YUAN",
+      "displayName": "YUAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36723,
+          "modelName": "YUAN",
+          "modelYearFrom": "2016-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41865,
+          "modelName": "YUAN PRO",
+          "modelYearFrom": "2015-07-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

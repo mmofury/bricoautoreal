@@ -1,0 +1,69 @@
+{
+  "productName": "Kit de réparation, couronne-démarreur (engrenage planétaire)",
+  "searchText": "Kit de réparation, couronne-démarreur (engrenage planétaire)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:04:27.242Z",
+  "productId": 4285,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Démarreur": {
+          "categoryId": null,
+          "categoryName": "Démarreur",
+          "level": 2,
+          "children": {
+            "Kit de réparation, couronne-démarreur (engrenage planétaire)": {
+              "categoryId": 100353,
+              "categoryName": "Starter System",
+              "level": 2,
+              "children": {
+                "Composants du démarreur": {
+                  "categoryId": null,
+                  "categoryName": "Composants du démarreur",
+                  "level": 4,
+                  "children": {
+                    "Kit de réparation, couronne-démarreur (engrenage planétaire)": {
+                      "categoryId": 100040,
+                      "categoryName": "Starter Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4285
+                    }
+                  }
+                }
+              },
+              "productId": 4285
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Démarreur (Niveau 2)\n        └── Starter System [ID: 100353] (Niveau 2) → ProductId: 4285\n            └── Composants du démarreur (Niveau 4)\n                └── Starter Parts [ID: 100040] (Niveau 3) → ProductId: 4285",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Démarreur",
+        "Starter System"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100353
+      ],
+      "finalCategoryId": 100353,
+      "productId": 4285
+    }
+  ],
+  "productIdsInArbo": [
+    4285
+  ],
+  "matchedProductIds": [
+    4285
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "productName": "Kit de joints toriques",
+  "searchText": "Kit de joints toriques",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T21:00:48.885Z",
+  "productId": 1905,
+  "arborescence": {
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Boîte de vitesses manuelle robotisée (BVR)": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesses manuelle robotisée (BVR)",
+          "level": 2,
+          "children": {
+            "Kit de joints toriques, électrovanne (BVR)": {
+              "categoryId": 706584,
+              "categoryName": "Automated manual transmission (AMT)",
+              "level": 2,
+              "children": {
+                "Joints/Bagues d’étanchéité": {
+                  "categoryId": null,
+                  "categoryName": "Joints/Bagues d’étanchéité",
+                  "level": 4,
+                  "children": {
+                    "Kit de joints toriques, électrovanne (BVR)": {
+                      "categoryId": 706585,
+                      "categoryName": "Seals, seal rings",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60236
+                    }
+                  }
+                }
+              },
+              "productId": 60236
+            }
+          }
+        }
+      }
+    },
+    "Climatisation": {
+      "categoryId": 100243,
+      "categoryName": "Climatisation",
+      "level": 1,
+      "children": {
+        "Kit de réparation": {
+          "categoryId": null,
+          "categoryName": "Kit de réparation",
+          "level": 2,
+          "children": {
+            "Kit de joints toriques, climatisation": {
+              "categoryId": 102922,
+              "categoryName": "Repair Kit",
+              "level": 2,
+              "children": [],
+              "productId": 61326
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Boîte de vitesses [ID: 100238] (Niveau 1)\n│   └── Boîte de vitesses manuelle robotisée (BVR) (Niveau 2)\n│       └── Automated manual transmission (AMT) [ID: 706584] (Niveau 2) → ProductId: 60236\n│           └── Joints/Bagues d’étanchéité (Niveau 4)\n│               └── Seals, seal rings [ID: 706585] (Niveau 3) → ProductId: 60236\n\n└── Climatisation [ID: 100243] (Niveau 1)\n    └── Kit de réparation (Niveau 2)\n        └── Repair Kit [ID: 102922] (Niveau 2) → ProductId: 61326",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesses manuelle robotisée (BVR)",
+        "Automated manual transmission (AMT)"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        706584
+      ],
+      "finalCategoryId": 706584,
+      "productId": 60236
+    },
+    {
+      "path": [
+        "Climatisation",
+        "Kit de réparation",
+        "Repair Kit"
+      ],
+      "categoryIds": [
+        100243,
+        null,
+        102922
+      ],
+      "finalCategoryId": 102922,
+      "productId": 61326
+    }
+  ],
+  "productIdsInArbo": [
+    60236,
+    61326
+  ],
+  "closestProductIds": [
+    {
+      "productId": 60236,
+      "productName": "Kit de joints toriques, électrovanne (BVR)"
+    },
+    {
+      "productId": 61326,
+      "productName": "Kit de joints toriques, climatisation"
+    }
+  ]
+}

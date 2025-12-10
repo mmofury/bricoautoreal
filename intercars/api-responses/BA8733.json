@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "BA8733",
+      "index": "03.9302-9106.1",
+      "tecDoc": "03.9302-9106.1",
+      "tecDocProd": "3",
+      "articleNumber": "03.9302-9106.1",
+      "brand": "ATE",
+      "shortDescription": "Devices for working fluids and fuels",
+      "description": "Suction filter, application: brake fluid, for product (ref. no): FB 30 ATE",
+      "eans": [
+        "4006633330596"
+      ],
+      "packageWeight": "0,030",
+      "packageWidth": "7,000",
+      "packageDepth": "9,500",
+      "packageHeight": "6,000",
+      "customsCode": "90319000",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4269",
+          "primary": false,
+          "name": {
+            "en": "Filter, filling/bleeding unit (brake hydraulics)"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91773",
+          "primary": true,
+          "name": {
+            "en": "Devices for working fluids and fuels"
+          }
+        }
+      ]
+    }
+  ]
+}

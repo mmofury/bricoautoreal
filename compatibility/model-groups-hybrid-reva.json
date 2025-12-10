@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.467Z",
+  "manufacturer": "REVA",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 3555,
+      "manufacturerName": "REVA",
+      "groupKey": "G",
+      "displayName": "G",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40326,
+          "modelName": "G-WIZ",
+          "modelYearFrom": "2005-03-01",
+          "modelYearTo": "2011-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3555,
+      "manufacturerName": "REVA",
+      "groupKey": "I",
+      "displayName": "I",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8970,
+          "modelName": "i",
+          "modelYearFrom": "2001-06-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

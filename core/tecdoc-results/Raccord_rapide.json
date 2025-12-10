@@ -1,0 +1,57 @@
+{
+  "productName": "Raccord rapide",
+  "searchText": "Raccord rapide",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-03T07:06:07.653Z",
+  "productId": 2080,
+  "arborescence": {
+    "Système pneumatique": {
+      "categoryId": 103168,
+      "categoryName": "Système pneumatique",
+      "level": 1,
+      "children": {
+        "Tête d'attelage": {
+          "categoryId": null,
+          "categoryName": "Tête d'attelage",
+          "level": 2,
+          "children": {
+            "Tête d'accouplement": {
+              "categoryId": 103196,
+              "categoryName": "Coupling Head",
+              "level": 2,
+              "children": [],
+              "productId": 370
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système pneumatique [ID: 103168] (Niveau 1)\n    └── Tête d'attelage (Niveau 2)\n        └── Coupling Head [ID: 103196] (Niveau 2) → ProductId: 370",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système pneumatique",
+        "Tête d'attelage",
+        "Coupling Head"
+      ],
+      "categoryIds": [
+        103168,
+        null,
+        103196
+      ],
+      "finalCategoryId": 103196,
+      "productId": 370
+    }
+  ],
+  "productIdsInArbo": [
+    370
+  ],
+  "closestProductIds": [
+    {
+      "productId": 370,
+      "productName": "Tête d'accouplement"
+    }
+  ]
+}

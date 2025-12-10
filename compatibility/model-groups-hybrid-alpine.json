@@ -1,0 +1,133 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.153Z",
+  "manufacturer": "ALPINE",
+  "countGroups": 8,
+  "groups": [
+    {
+      "manufacturerId": 810,
+      "manufacturerName": "ALPINE",
+      "groupKey": "1300",
+      "displayName": "1300",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1610,
+          "modelName": "1300",
+          "modelYearFrom": "1970-01-01",
+          "modelYearTo": "1975-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 810,
+      "manufacturerName": "ALPINE",
+      "groupKey": "1600",
+      "displayName": "1600",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3928,
+          "modelName": "1600",
+          "modelYearFrom": "1969-01-01",
+          "modelYearTo": "1975-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 810,
+      "manufacturerName": "ALPINE",
+      "groupKey": "A110",
+      "displayName": "A110",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1609,
+          "modelName": "A110 I",
+          "modelYearFrom": "1966-01-01",
+          "modelYearTo": "1970-12-01"
+        },
+        {
+          "modelId": 38666,
+          "modelName": "A110 II",
+          "modelYearFrom": "2017-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 810,
+      "manufacturerName": "ALPINE",
+      "groupKey": "A290",
+      "displayName": "A290",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45801,
+          "modelName": "A290",
+          "modelYearFrom": "2024-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 810,
+      "manufacturerName": "ALPINE",
+      "groupKey": "A310",
+      "displayName": "A310",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1611,
+          "modelName": "A310",
+          "modelYearFrom": "1971-01-01",
+          "modelYearTo": "1984-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 810,
+      "manufacturerName": "ALPINE",
+      "groupKey": "A610",
+      "displayName": "A610",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1613,
+          "modelName": "A610",
+          "modelYearFrom": "1991-01-01",
+          "modelYearTo": "1995-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 810,
+      "manufacturerName": "ALPINE",
+      "groupKey": "BERLINETTE",
+      "displayName": "BERLINETTE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1612,
+          "modelName": "BERLINETTE",
+          "modelYearFrom": "1976-01-01",
+          "modelYearTo": "1977-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 810,
+      "manufacturerName": "ALPINE",
+      "groupKey": "V6",
+      "displayName": "V6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3488,
+          "modelName": "V6",
+          "modelYearFrom": "1985-01-01",
+          "modelYearTo": "1992-03-01"
+        }
+      ]
+    }
+  ]
+}

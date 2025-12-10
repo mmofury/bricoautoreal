@@ -1,0 +1,139 @@
+{
+  "productName": "Kit de réparation, expanseur",
+  "searchText": "Kit de réparation, expanseur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:04:52.385Z",
+  "productId": 783,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Frein à tambour": {
+          "categoryId": null,
+          "categoryName": "Frein à tambour",
+          "level": 2,
+          "children": {
+            "Kit de réparation, expanseur": {
+              "categoryId": 100627,
+              "categoryName": "Drum Brake",
+              "level": 2,
+              "children": {
+                "Freins de stationnement": {
+                  "categoryId": null,
+                  "categoryName": "Freins de stationnement",
+                  "level": 4,
+                  "children": {
+                    "Kit de réparation, expanseur": {
+                      "categoryId": 102964,
+                      "categoryName": "Handbrake",
+                      "level": 3,
+                      "children": [],
+                      "productId": 783
+                    }
+                  }
+                },
+                "Kit de réparation": {
+                  "categoryId": null,
+                  "categoryName": "Kit de réparation",
+                  "level": 4,
+                  "children": {
+                    "Kit de réparation, expanseur": {
+                      "categoryId": 100633,
+                      "categoryName": "Repair Kit",
+                      "level": 3,
+                      "children": [],
+                      "productId": 783
+                    }
+                  }
+                }
+              },
+              "productId": 783
+            }
+          }
+        },
+        "Freins de stationnement": {
+          "categoryId": null,
+          "categoryName": "Freins de stationnement",
+          "level": 2,
+          "children": {
+            "Kit de réparation, expanseur": {
+              "categoryId": 100034,
+              "categoryName": "Handbrake",
+              "level": 2,
+              "children": [],
+              "productId": 783
+            }
+          }
+        },
+        "Levier / câble / tirette": {
+          "categoryId": null,
+          "categoryName": "Levier / câble / tirette",
+          "level": 2,
+          "children": {
+            "Kit de réparation, expanseur": {
+              "categoryId": 100635,
+              "categoryName": "Control Levers/Cables",
+              "level": 2,
+              "children": [],
+              "productId": 783
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif de freinage [ID: 100006] (Niveau 1)\n    ├── Frein à tambour (Niveau 2)\n    │   └── Drum Brake [ID: 100627] (Niveau 2) → ProductId: 783\n    │       ├── Freins de stationnement (Niveau 4)\n    │       │   └── Handbrake [ID: 102964] (Niveau 3) → ProductId: 783\n    │       └── Kit de réparation (Niveau 4)\n    │           └── Repair Kit [ID: 100633] (Niveau 3) → ProductId: 783\n    ├── Freins de stationnement (Niveau 2)\n    │   └── Handbrake [ID: 100034] (Niveau 2) → ProductId: 783\n    └── Levier / câble / tirette (Niveau 2)\n        └── Control Levers/Cables [ID: 100635] (Niveau 2) → ProductId: 783",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Frein à tambour",
+        "Drum Brake"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100627
+      ],
+      "finalCategoryId": 100627,
+      "productId": 783
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Freins de stationnement",
+        "Handbrake"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100034
+      ],
+      "finalCategoryId": 100034,
+      "productId": 783
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Levier / câble / tirette",
+        "Control Levers/Cables"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100635
+      ],
+      "finalCategoryId": 100635,
+      "productId": 783
+    }
+  ],
+  "productIdsInArbo": [
+    783
+  ],
+  "matchedProductIds": [
+    783
+  ]
+}

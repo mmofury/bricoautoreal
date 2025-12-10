@@ -1,0 +1,86 @@
+{
+  "productName": "Électrovanne, cylindre de commande",
+  "searchText": "Électrovanne, cylindre de commande",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-03T07:38:38.296Z",
+  "productId": 3635,
+  "arborescence": {
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Boîte de vitesses manuelle robotisée (BVR)": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesses manuelle robotisée (BVR)",
+          "level": 2,
+          "children": {
+            "Électrovanne, cylindre de commande (BVR)": {
+              "categoryId": 706584,
+              "categoryName": "Automated manual transmission (AMT)",
+              "level": 2,
+              "children": {
+                "Cylindre de commande": {
+                  "categoryId": null,
+                  "categoryName": "Cylindre de commande",
+                  "level": 4,
+                  "children": {
+                    "Électrovanne, cylindre de commande (BVR)": {
+                      "categoryId": 706612,
+                      "categoryName": "Shift Cylinder",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60304
+                    }
+                  }
+                },
+                "Soupapes": {
+                  "categoryId": null,
+                  "categoryName": "Soupapes",
+                  "level": 4,
+                  "children": {
+                    "Électrovanne, cylindre de commande (BVR)": {
+                      "categoryId": 706652,
+                      "categoryName": "Valves",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60304
+                    }
+                  }
+                }
+              },
+              "productId": 60304
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Boîte de vitesses [ID: 100238] (Niveau 1)\n    └── Boîte de vitesses manuelle robotisée (BVR) (Niveau 2)\n        └── Automated manual transmission (AMT) [ID: 706584] (Niveau 2) → ProductId: 60304\n            ├── Cylindre de commande (Niveau 4)\n            │   └── Shift Cylinder [ID: 706612] (Niveau 3) → ProductId: 60304\n            └── Soupapes (Niveau 4)\n                └── Valves [ID: 706652] (Niveau 3) → ProductId: 60304",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesses manuelle robotisée (BVR)",
+        "Automated manual transmission (AMT)"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        706584
+      ],
+      "finalCategoryId": 706584,
+      "productId": 60304
+    }
+  ],
+  "productIdsInArbo": [
+    60304
+  ],
+  "closestProductIds": [
+    {
+      "productId": 60304,
+      "productName": "Électrovanne, cylindre de commande (BVR)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "FDE0C5",
+      "index": "51276057",
+      "tecDoc": "51276057",
+      "tecDocProd": "72",
+      "articleNumber": "51276057",
+      "brand": "HERTH+BUSS ELPARTS",
+      "shortDescription": "Power Cable",
+      "description": "Spiral electric wire (working length 3,5m, number of pins: 7, 24V, number of lines: 2x4,0,5x1,5pcs)",
+      "packageWeight": "1,339",
+      "packageWidth": "23,500",
+      "packageDepth": "9,900",
+      "packageHeight": "24,900",
+      "customsCode": "85443000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4434",
+          "primary": true,
+          "name": {
+            "en": "Power Cable"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_4950",
+          "primary": false,
+          "name": {
+            "en": "Connector Cable, trailer"
+          }
+        }
+      ]
+    }
+  ]
+}

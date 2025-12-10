@@ -1,0 +1,170 @@
+{
+  "productName": "Fixation de feu",
+  "searchText": "Fixation de feu",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:40:31.409Z",
+  "productId": 1114,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Arrière de la voiture": {
+          "categoryId": null,
+          "categoryName": "Arrière de la voiture",
+          "level": 2,
+          "children": {
+            "Fixation de feu": {
+              "categoryId": 101705,
+              "categoryName": "Vehicle Rear",
+              "level": 2,
+              "children": {
+                "Composants/suppléments": {
+                  "categoryId": null,
+                  "categoryName": "Composants/suppléments",
+                  "level": 4,
+                  "children": {
+                    "Fixation de feu": {
+                      "categoryId": 101745,
+                      "categoryName": "Parts",
+                      "level": 3,
+                      "children": {
+                        "Support pour éclairage": {
+                          "categoryId": null,
+                          "categoryName": "Support pour éclairage",
+                          "level": 6,
+                          "children": {
+                            "Fixation de feu": {
+                              "categoryId": 101751,
+                              "categoryName": "Light Base",
+                              "level": 4,
+                              "children": [],
+                              "productId": 1114
+                            }
+                          }
+                        }
+                      },
+                      "productId": 1114
+                    }
+                  }
+                }
+              },
+              "productId": 1114
+            }
+          }
+        },
+        "Avant du véhicule": {
+          "categoryId": null,
+          "categoryName": "Avant du véhicule",
+          "level": 2,
+          "children": {
+            "Fixation de feu": {
+              "categoryId": 101648,
+              "categoryName": "Vehicle Front",
+              "level": 2,
+              "children": {
+                "Composants/suppléments": {
+                  "categoryId": null,
+                  "categoryName": "Composants/suppléments",
+                  "level": 4,
+                  "children": {
+                    "Fixation de feu": {
+                      "categoryId": 101673,
+                      "categoryName": "Parts",
+                      "level": 3,
+                      "children": {
+                        "Fixation/Support/collerette": {
+                          "categoryId": null,
+                          "categoryName": "Fixation/Support/collerette",
+                          "level": 6,
+                          "children": {
+                            "Fixation de feu": {
+                              "categoryId": 101773,
+                              "categoryName": "Racks/Carriers/Frames",
+                              "level": 4,
+                              "children": [],
+                              "productId": 1114
+                            }
+                          }
+                        }
+                      },
+                      "productId": 1114
+                    }
+                  }
+                }
+              },
+              "productId": 1114
+            }
+          }
+        },
+        "Fixation/Support/collerette": {
+          "categoryId": null,
+          "categoryName": "Fixation/Support/collerette",
+          "level": 2,
+          "children": {
+            "Fixation de feu": {
+              "categoryId": 101454,
+              "categoryName": "Racks/Carriers/Frames",
+              "level": 2,
+              "children": [],
+              "productId": 1114
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    ├── Arrière de la voiture (Niveau 2)\n    │   └── Vehicle Rear [ID: 101705] (Niveau 2) → ProductId: 1114\n    │       └── Composants/suppléments (Niveau 4)\n    │           └── Parts [ID: 101745] (Niveau 3) → ProductId: 1114\n    │               └── Support pour éclairage (Niveau 6)\n    │                   └── Light Base [ID: 101751] (Niveau 4) → ProductId: 1114\n    ├── Avant du véhicule (Niveau 2)\n    │   └── Vehicle Front [ID: 101648] (Niveau 2) → ProductId: 1114\n    │       └── Composants/suppléments (Niveau 4)\n    │           └── Parts [ID: 101673] (Niveau 3) → ProductId: 1114\n    │               └── Fixation/Support/collerette (Niveau 6)\n    │                   └── Racks/Carriers/Frames [ID: 101773] (Niveau 4) → ProductId: 1114\n    └── Fixation/Support/collerette (Niveau 2)\n        └── Racks/Carriers/Frames [ID: 101454] (Niveau 2) → ProductId: 1114",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Vehicle Rear"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101705
+      ],
+      "finalCategoryId": 101705,
+      "productId": 1114
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Avant du véhicule",
+        "Vehicle Front"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101648
+      ],
+      "finalCategoryId": 101648,
+      "productId": 1114
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Fixation/Support/collerette",
+        "Racks/Carriers/Frames"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101454
+      ],
+      "finalCategoryId": 101454,
+      "productId": 1114
+    }
+  ],
+  "productIdsInArbo": [
+    1114
+  ],
+  "matchedProductIds": [
+    1114
+  ]
+}

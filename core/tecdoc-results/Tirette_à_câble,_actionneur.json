@@ -1,0 +1,54 @@
+{
+  "productName": "Tirette à câble, actionneur",
+  "searchText": "Tirette à câble, actionneur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:26:15.596Z",
+  "productId": 2437,
+  "arborescence": {
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Régulateur de vitesse": {
+          "categoryId": null,
+          "categoryName": "Régulateur de vitesse",
+          "level": 2,
+          "children": {
+            "Tirette à câble, actionneur": {
+              "categoryId": 100615,
+              "categoryName": "Cruise Control",
+              "level": 2,
+              "children": [],
+              "productId": 2437
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Systèmes de confort [ID: 100335] (Niveau 1)\n    └── Régulateur de vitesse (Niveau 2)\n        └── Cruise Control [ID: 100615] (Niveau 2) → ProductId: 2437",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Systèmes de confort",
+        "Régulateur de vitesse",
+        "Cruise Control"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        100615
+      ],
+      "finalCategoryId": 100615,
+      "productId": 2437
+    }
+  ],
+  "productIdsInArbo": [
+    2437
+  ],
+  "matchedProductIds": [
+    2437
+  ]
+}

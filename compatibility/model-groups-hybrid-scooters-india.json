@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.478Z",
+  "manufacturer": "SCOOTERS INDIA",
+  "countGroups": 1,
+  "groups": [
+    {
+      "manufacturerId": 5416,
+      "manufacturerName": "SCOOTERS INDIA",
+      "groupKey": "VIKRAM",
+      "displayName": "VIKRAM",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40875,
+          "modelName": "VIKRAM Threewheeler Platform/Chassis",
+          "modelYearFrom": "2000-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40876,
+          "modelName": "VIKRAM Threewheeler Convertible",
+          "modelYearFrom": "2000-01-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

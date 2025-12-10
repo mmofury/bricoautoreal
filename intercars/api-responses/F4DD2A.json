@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "F4DD2A",
+      "index": "FE102732",
+      "tecDoc": "102732",
+      "tecDocProd": "101",
+      "articleNumber": "102732",
+      "brand": "FEBI",
+      "shortDescription": "Expanding Rivet",
+      "description": "Upholstery pin (quantity per packaging: 25 pcs) fits: MERCEDES",
+      "eans": [
+        "4054224027325"
+      ],
+      "packageWeight": "0,200",
+      "packageWidth": "9,000",
+      "packageDepth": "9,000",
+      "packageHeight": "0,500",
+      "customsCode": "39263000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4039",
+          "primary": true,
+          "name": {
+            "en": "Expanding Rivet"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_4606",
+          "primary": false,
+          "name": {
+            "en": "Blind Rivet"
+          }
+        }
+      ]
+    }
+  ]
+}

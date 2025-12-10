@@ -1,0 +1,550 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.452Z",
+  "manufacturer": "PORSCHE",
+  "countGroups": 19,
+  "groups": [
+    {
+      "manufacturerId": 92,
+      "manufacturerName": "PORSCHE",
+      "groupKey": "356",
+      "displayName": "356",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1870,
+          "modelName": "356 Coupé",
+          "modelYearFrom": "1947-09-01",
+          "modelYearTo": "1968-03-01"
+        },
+        {
+          "modelId": 1871,
+          "modelName": "356 Cabriolet/Speedster",
+          "modelYearFrom": "1950-01-01",
+          "modelYearTo": "1965-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 92,
+      "manufacturerName": "PORSCHE",
+      "groupKey": "718",
+      "displayName": "718",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36244,
+          "modelName": "718 BOXSTER (982)",
+          "modelYearFrom": "2016-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 36534,
+          "modelName": "718 CAYMAN (982)",
+          "modelYearFrom": "2016-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39809,
+          "modelName": "718 BOXSTER Spyder (982)",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 92,
+      "manufacturerName": "PORSCHE",
+      "groupKey": "911",
+      "displayName": "911",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 134,
+          "modelName": "911",
+          "modelYearFrom": "1963-01-01",
+          "modelYearTo": "1990-11-01"
+        },
+        {
+          "modelId": 145,
+          "modelName": "911 Targa",
+          "modelYearFrom": "1964-11-01",
+          "modelYearTo": "1990-11-01"
+        },
+        {
+          "modelId": 150,
+          "modelName": "911 (964)",
+          "modelYearFrom": "1988-12-01",
+          "modelYearTo": "1993-09-01"
+        },
+        {
+          "modelId": 155,
+          "modelName": "911 Décapotable (964)",
+          "modelYearFrom": "1989-05-01",
+          "modelYearTo": "1994-06-01"
+        },
+        {
+          "modelId": 160,
+          "modelName": "911 (993)",
+          "modelYearFrom": "1993-10-01",
+          "modelYearTo": "1997-09-01"
+        },
+        {
+          "modelId": 1887,
+          "modelName": "911 Targa (993)",
+          "modelYearFrom": "1994-01-01",
+          "modelYearTo": "1997-09-01"
+        },
+        {
+          "modelId": 2033,
+          "modelName": "911 (996)",
+          "modelYearFrom": "1997-08-01",
+          "modelYearTo": "2005-09-01"
+        },
+        {
+          "modelId": 2075,
+          "modelName": "911 Décapotable",
+          "modelYearFrom": "1982-08-01",
+          "modelYearTo": "1989-08-01"
+        },
+        {
+          "modelId": 3470,
+          "modelName": "911 Décapotable (993)",
+          "modelYearFrom": "1994-07-01",
+          "modelYearTo": "1997-12-01"
+        },
+        {
+          "modelId": 3549,
+          "modelName": "911 Décapotable (996)",
+          "modelYearFrom": "1997-08-01",
+          "modelYearTo": "2005-08-01"
+        },
+        {
+          "modelId": 4860,
+          "modelName": "911 Targa (996)",
+          "modelYearFrom": "2001-12-01",
+          "modelYearTo": "2005-08-01"
+        },
+        {
+          "modelId": 5141,
+          "modelName": "911 (997)",
+          "modelYearFrom": "2004-07-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 5411,
+          "modelName": "911 Décapotable (997)",
+          "modelYearFrom": "2005-04-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 7586,
+          "modelName": "911 Targa (997)",
+          "modelYearFrom": "2006-07-01",
+          "modelYearTo": "2012-12-01"
+        },
+        {
+          "modelId": 9721,
+          "modelName": "911 (991)",
+          "modelYearFrom": "2011-05-01",
+          "modelYearTo": "2020-12-01"
+        },
+        {
+          "modelId": 10125,
+          "modelName": "911 Décapotable (991)",
+          "modelYearFrom": "2012-03-01",
+          "modelYearTo": "2020-05-01"
+        },
+        {
+          "modelId": 11242,
+          "modelName": "911 Targa (964)",
+          "modelYearFrom": "1988-12-01",
+          "modelYearTo": "1993-09-01"
+        },
+        {
+          "modelId": 11243,
+          "modelName": "911 Speedster (964)",
+          "modelYearFrom": "1992-08-01",
+          "modelYearTo": "1994-06-01"
+        },
+        {
+          "modelId": 12754,
+          "modelName": "911 Targa (991)",
+          "modelYearFrom": "2014-05-01",
+          "modelYearTo": "2019-12-01"
+        },
+        {
+          "modelId": 39350,
+          "modelName": "911 (992)",
+          "modelYearFrom": "2018-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39351,
+          "modelName": "911 Décapotable (992)",
+          "modelYearFrom": "2019-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39810,
+          "modelName": "911 Speedster (991)",
+          "modelYearFrom": "2018-06-01",
+          "modelYearTo": "2020-12-01"
+        },
+        {
+          "modelId": 40418,
+          "modelName": "911 Speedster (997)",
+          "modelYearFrom": "2010-08-01",
+          "modelYearTo": "2011-05-01"
+        },
+        {
+          "modelId": 40829,
+          "modelName": "911 Targa (992)",
+          "modelYearFrom": "2020-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 92,
+      "manufacturerName": "PORSCHE",
+      "groupKey": "912",
+      "displayName": "912",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1874,
+          "modelName": "912 Targa",
+          "modelYearFrom": "1965-03-01",
+          "modelYearTo": "1970-02-01"
+        },
+        {
+          "modelId": 1875,
+          "modelName": "912",
+          "modelYearFrom": "1965-01-01",
+          "modelYearTo": "1970-02-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 92,
+      "manufacturerName": "PORSCHE",
+      "groupKey": "912E",
+      "displayName": "912E",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14115,
+          "modelName": "912E",
+          "modelYearFrom": "1975-09-01",
+          "modelYearTo": "1976-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 92,
+      "manufacturerName": "PORSCHE",
+      "groupKey": "914",
+      "displayName": "914",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4667,
+          "modelName": "914",
+          "modelYearFrom": "1969-01-01",
+          "modelYearTo": "1976-02-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 92,
+      "manufacturerName": "PORSCHE",
+      "groupKey": "918",
+      "displayName": "918",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11740,
+          "modelName": "918 Spyder",
+          "modelYearFrom": "2013-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 92,
+      "manufacturerName": "PORSCHE",
+      "groupKey": "924",
+      "displayName": "924",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 165,
+          "modelName": "924",
+          "modelYearFrom": "1975-11-01",
+          "modelYearTo": "1989-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 92,
+      "manufacturerName": "PORSCHE",
+      "groupKey": "928",
+      "displayName": "928",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 169,
+          "modelName": "928",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1995-11-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 92,
+      "manufacturerName": "PORSCHE",
+      "groupKey": "944",
+      "displayName": "944",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 208,
+          "modelName": "944",
+          "modelYearFrom": "1981-06-01",
+          "modelYearTo": "1991-07-01"
+        },
+        {
+          "modelId": 212,
+          "modelName": "944 Décapotable",
+          "modelYearFrom": "1988-12-01",
+          "modelYearTo": "1991-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 92,
+      "manufacturerName": "PORSCHE",
+      "groupKey": "959",
+      "displayName": "959",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1869,
+          "modelName": "959",
+          "modelYearFrom": "1986-01-01",
+          "modelYearTo": "1991-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 92,
+      "manufacturerName": "PORSCHE",
+      "groupKey": "968",
+      "displayName": "968",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 234,
+          "modelName": "968 Décapotable",
+          "modelYearFrom": "1991-06-01",
+          "modelYearTo": "1995-11-01"
+        },
+        {
+          "modelId": 239,
+          "modelName": "968",
+          "modelYearFrom": "1991-06-01",
+          "modelYearTo": "1995-11-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 92,
+      "manufacturerName": "PORSCHE",
+      "groupKey": "BOXSTER",
+      "displayName": "BOXSTER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1560,
+          "modelName": "BOXSTER (986)",
+          "modelYearFrom": "1996-09-01",
+          "modelYearTo": "2004-12-01"
+        },
+        {
+          "modelId": 5208,
+          "modelName": "BOXSTER (987)",
+          "modelYearFrom": "2004-06-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 10119,
+          "modelName": "BOXSTER (981)",
+          "modelYearFrom": "2012-04-01",
+          "modelYearTo": "2016-12-01"
+        },
+        {
+          "modelId": 14105,
+          "modelName": "BOXSTER Spyder (981)",
+          "modelYearFrom": "2015-01-01",
+          "modelYearTo": "2016-05-01"
+        },
+        {
+          "modelId": 36201,
+          "modelName": "BOXSTER Spyder (987)",
+          "modelYearFrom": "2007-09-01",
+          "modelYearTo": "2011-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 92,
+      "manufacturerName": "PORSCHE",
+      "groupKey": "CARRERA",
+      "displayName": "CARRERA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4989,
+          "modelName": "CARRERA GT (980)",
+          "modelYearFrom": "2003-07-01",
+          "modelYearTo": "2006-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 92,
+      "manufacturerName": "PORSCHE",
+      "groupKey": "CAYENNE",
+      "displayName": "CAYENNE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4899,
+          "modelName": "CAYENNE (9PA)",
+          "modelYearFrom": "2002-05-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 8741,
+          "modelName": "CAYENNE (92A)",
+          "modelYearFrom": "2010-05-01",
+          "modelYearTo": "2018-05-01"
+        },
+        {
+          "modelId": 38357,
+          "modelName": "CAYENNE (9YA)",
+          "modelYearFrom": "2017-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39653,
+          "modelName": "CAYENNE Coupe (9YB)",
+          "modelYearFrom": "2019-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 92,
+      "manufacturerName": "PORSCHE",
+      "groupKey": "CAYMAN",
+      "displayName": "CAYMAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5451,
+          "modelName": "CAYMAN (987)",
+          "modelYearFrom": "2005-11-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 10864,
+          "modelName": "CAYMAN (981)",
+          "modelYearFrom": "2013-03-01",
+          "modelYearTo": "2016-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 92,
+      "manufacturerName": "PORSCHE",
+      "groupKey": "MACAN",
+      "displayName": "MACAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11790,
+          "modelName": "MACAN (95B)",
+          "modelYearFrom": "2014-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45181,
+          "modelName": "MACAN (XAB)",
+          "modelYearFrom": "2024-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 92,
+      "manufacturerName": "PORSCHE",
+      "groupKey": "PANAMERA",
+      "displayName": "PANAMERA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8263,
+          "modelName": "PANAMERA (970)",
+          "modelYearFrom": "2009-03-01",
+          "modelYearTo": "2017-12-01"
+        },
+        {
+          "modelId": 37074,
+          "modelName": "PANAMERA (971)",
+          "modelYearFrom": "2016-05-01",
+          "modelYearTo": "2023-12-01"
+        },
+        {
+          "modelId": 37854,
+          "modelName": "PANAMERA Sport Turismo (971)",
+          "modelYearFrom": "2017-05-01",
+          "modelYearTo": "2023-12-01"
+        },
+        {
+          "modelId": 45012,
+          "modelName": "PANAMERA (976)",
+          "modelYearFrom": "2023-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 92,
+      "manufacturerName": "PORSCHE",
+      "groupKey": "TAYCAN",
+      "displayName": "TAYCAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40415,
+          "modelName": "TAYCAN (Y1A)",
+          "modelYearFrom": "2019-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42214,
+          "modelName": "TAYCAN Cross Turismo (Y1B)",
+          "modelYearFrom": "2020-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42766,
+          "modelName": "TAYCAN Sport Turismo (Y1C)",
+          "modelYearFrom": "2021-08-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

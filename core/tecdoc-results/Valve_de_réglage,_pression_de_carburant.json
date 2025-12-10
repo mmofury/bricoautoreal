@@ -1,0 +1,54 @@
+{
+  "productName": "Valve de réglage, pression de carburant",
+  "searchText": "Valve de réglage, pression de carburant",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:31:40.526Z",
+  "productId": 1214,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Soupapes": {
+          "categoryId": null,
+          "categoryName": "Soupapes",
+          "level": 2,
+          "children": {
+            "Valve de réglage, pression de carburant": {
+              "categoryId": 100252,
+              "categoryName": "Valves",
+              "level": 2,
+              "children": [],
+              "productId": 1214
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Alimentation carburant [ID: 100214] (Niveau 1)\n    └── Soupapes (Niveau 2)\n        └── Valves [ID: 100252] (Niveau 2) → ProductId: 1214",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Soupapes",
+        "Valves"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100252
+      ],
+      "finalCategoryId": 100252,
+      "productId": 1214
+    }
+  ],
+  "productIdsInArbo": [
+    1214
+  ],
+  "matchedProductIds": [
+    1214
+  ]
+}

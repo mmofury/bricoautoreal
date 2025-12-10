@@ -1,0 +1,112 @@
+{
+  "productName": "Jeu de joints d’arbre, vilebrequin",
+  "searchText": "Jeu de joints d’arbre, vilebrequin",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:50:30.729Z",
+  "productId": 9018,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Joints": {
+          "categoryId": null,
+          "categoryName": "Joints",
+          "level": 2,
+          "children": {
+            "Jeu de joints d’arbre, vilebrequin": {
+              "categoryId": 100223,
+              "categoryName": "Gaskets",
+              "level": 2,
+              "children": {
+                "Kit-/bagues d'étanchéité": {
+                  "categoryId": null,
+                  "categoryName": "Kit-/bagues d'étanchéité",
+                  "level": 4,
+                  "children": {
+                    "Jeu de joints d’arbre, vilebrequin": {
+                      "categoryId": 100789,
+                      "categoryName": "Shaft Seal/Set",
+                      "level": 3,
+                      "children": [],
+                      "productId": 9018
+                    }
+                  }
+                }
+              },
+              "productId": 9018
+            }
+          }
+        },
+        "Système bielle-manivelle": {
+          "categoryId": null,
+          "categoryName": "Système bielle-manivelle",
+          "level": 2,
+          "children": {
+            "Jeu de joints d’arbre, vilebrequin": {
+              "categoryId": 100515,
+              "categoryName": "Crankshaft Drive",
+              "level": 2,
+              "children": {
+                "Kit-/bague d'étanchéité d'arbre radial": {
+                  "categoryId": null,
+                  "categoryName": "Kit-/bague d'étanchéité d'arbre radial",
+                  "level": 4,
+                  "children": {
+                    "Jeu de joints d’arbre, vilebrequin": {
+                      "categoryId": 100521,
+                      "categoryName": "Radial Shaft Seal/Set",
+                      "level": 3,
+                      "children": [],
+                      "productId": 9018
+                    }
+                  }
+                }
+              },
+              "productId": 9018
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    ├── Joints (Niveau 2)\n    │   └── Gaskets [ID: 100223] (Niveau 2) → ProductId: 9018\n    │       └── Kit-/bagues d'étanchéité (Niveau 4)\n    │           └── Shaft Seal/Set [ID: 100789] (Niveau 3) → ProductId: 9018\n    └── Système bielle-manivelle (Niveau 2)\n        └── Crankshaft Drive [ID: 100515] (Niveau 2) → ProductId: 9018\n            └── Kit-/bague d'étanchéité d'arbre radial (Niveau 4)\n                └── Radial Shaft Seal/Set [ID: 100521] (Niveau 3) → ProductId: 9018",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Joints",
+        "Gaskets"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100223
+      ],
+      "finalCategoryId": 100223,
+      "productId": 9018
+    },
+    {
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Crankshaft Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100515
+      ],
+      "finalCategoryId": 100515,
+      "productId": 9018
+    }
+  ],
+  "productIdsInArbo": [
+    9018
+  ],
+  "matchedProductIds": [
+    9018
+  ]
+}

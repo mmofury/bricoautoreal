@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "C0BFF0",
+      "index": "VAL247713",
+      "tecDoc": "247713",
+      "tecDocProd": "21",
+      "articleNumber": "247713",
+      "brand": "VALEO",
+      "shortDescription": "Cap, fuel tank",
+      "description": "AdBlue tank cap (diameter: 39mm, width 39mm, with the key) fits: MERCEDES T1/TN, T2/L, T2/LN1, VARIO, VARIO (B667, B670, B668), VARIO (B670), VARIO (B670, B668, B667), ACTROS 10.0D-9.6D 01.62-",
+      "customsCode": "83099090",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_602",
+          "primary": true,
+          "name": {
+            "en": "Cap, fuel tank"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_4850",
+          "primary": false,
+          "name": {
+            "en": "Sealing Cap, tank unit (Urea injection)"
+          }
+        }
+      ]
+    }
+  ]
+}

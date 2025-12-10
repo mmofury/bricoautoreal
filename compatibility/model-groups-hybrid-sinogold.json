@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.484Z",
+  "manufacturer": "SINOGOLD",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 5125,
+      "manufacturerName": "SINOGOLD",
+      "groupKey": "GM3",
+      "displayName": "GM3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38952,
+          "modelName": "GM3 Monospace",
+          "modelYearFrom": "2018-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5125,
+      "manufacturerName": "SINOGOLD",
+      "groupKey": "JUNXING",
+      "displayName": "JUNXING",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43595,
+          "modelName": "JUNXING",
+          "modelYearFrom": "2021-12-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

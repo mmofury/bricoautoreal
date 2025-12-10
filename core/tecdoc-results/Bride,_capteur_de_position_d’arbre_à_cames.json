@@ -1,0 +1,104 @@
+{
+  "productName": "Bride, capteur de position d’arbre à cames",
+  "searchText": "Bride, capteur de position d’arbre à cames",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:12:05.837Z",
+  "productId": 9306,
+  "arborescence": {
+    "Allumage / préchauffage": {
+      "categoryId": 100008,
+      "categoryName": "Allumage / préchauffage",
+      "level": 1,
+      "children": {
+        "Générateur d'impulsions": {
+          "categoryId": null,
+          "categoryName": "Générateur d'impulsions",
+          "level": 2,
+          "children": {
+            "Bride, capteur de position d’arbre à cames": {
+              "categoryId": 100249,
+              "categoryName": "Pulse Generator",
+              "level": 2,
+              "children": [],
+              "productId": 9306
+            }
+          }
+        }
+      }
+    },
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Bride, capteur de position d’arbre à cames": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Capteur/sonde lambda": {
+                  "categoryId": null,
+                  "categoryName": "Capteur/sonde lambda",
+                  "level": 4,
+                  "children": {
+                    "Bride, capteur de position d’arbre à cames": {
+                      "categoryId": 102809,
+                      "categoryName": "Sensor/Probe",
+                      "level": 3,
+                      "children": [],
+                      "productId": 9306
+                    }
+                  }
+                }
+              },
+              "productId": 9306
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Allumage / préchauffage [ID: 100008] (Niveau 1)\n│   └── Générateur d'impulsions (Niveau 2)\n│       └── Pulse Generator [ID: 100249] (Niveau 2) → ProductId: 9306\n\n└── Carburation [ID: 100254] (Niveau 1)\n    └── Mélange air-carburant (Niveau 2)\n        └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 9306\n            └── Capteur/sonde lambda (Niveau 4)\n                └── Sensor/Probe [ID: 102809] (Niveau 3) → ProductId: 9306",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Générateur d'impulsions",
+        "Pulse Generator"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        100249
+      ],
+      "finalCategoryId": 100249,
+      "productId": 9306
+    },
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 9306
+    }
+  ],
+  "productIdsInArbo": [
+    9306
+  ],
+  "matchedProductIds": [
+    9306
+  ]
+}

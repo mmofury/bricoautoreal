@@ -1,0 +1,220 @@
+{
+  "productName": "Interrupteur, contacteur de porte",
+  "searchText": "Interrupteur, contacteur de porte",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:47:17.116Z",
+  "productId": 808,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Interrupteur/Relais/Contrôle clignotant/Appareil d.commande": {
+          "categoryId": null,
+          "categoryName": "Interrupteur/Relais/Contrôle clignotant/Appareil d.commande",
+          "level": 2,
+          "children": {
+            "Interrupteur, contacteur de porte": {
+              "categoryId": 100307,
+              "categoryName": "Light Switches/Relays/Controls",
+              "level": 2,
+              "children": {
+                "Interrupteur / régulateur": {
+                  "categoryId": null,
+                  "categoryName": "Interrupteur / régulateur",
+                  "level": 4,
+                  "children": {
+                    "Interrupteur, contacteur de porte": {
+                      "categoryId": 100509,
+                      "categoryName": "Light Switch/ Lever",
+                      "level": 3,
+                      "children": [],
+                      "productId": 808
+                    }
+                  }
+                }
+              },
+              "productId": 808
+            }
+          }
+        }
+      }
+    },
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Aide de fermeture/commande de porte": {
+          "categoryId": null,
+          "categoryName": "Aide de fermeture/commande de porte",
+          "level": 2,
+          "children": {
+            "Interrupteur, contacteur de porte": {
+              "categoryId": 100836,
+              "categoryName": "Door Closing Aid/Door Actuation",
+              "level": 2,
+              "children": [],
+              "productId": 2435
+            }
+          }
+        },
+        "Moteur / Relais": {
+          "categoryId": null,
+          "categoryName": "Moteur / Relais",
+          "level": 2,
+          "children": {
+            "Interrupteur, contacteur de porte": {
+              "categoryId": 104156,
+              "categoryName": "Motor/Relay/Switch",
+              "level": 2,
+              "children": {
+                "Assistance de fermeture": {
+                  "categoryId": null,
+                  "categoryName": "Assistance de fermeture",
+                  "level": 4,
+                  "children": {
+                    "Interrupteur, contacteur de porte": {
+                      "categoryId": 104165,
+                      "categoryName": "Door Latch Aid",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2435
+                    }
+                  }
+                }
+              },
+              "productId": 2435
+            }
+          }
+        }
+      }
+    },
+    "Systèmes de sécurité": {
+      "categoryId": 100417,
+      "categoryName": "Systèmes de sécurité",
+      "level": 1,
+      "children": {
+        "Système d'alarme": {
+          "categoryId": null,
+          "categoryName": "Système d'alarme",
+          "level": 2,
+          "children": {
+            "Interrupteur, contacteur de porte": {
+              "categoryId": 100419,
+              "categoryName": "Alarm System",
+              "level": 2,
+              "children": [],
+              "productId": 2434
+            }
+          }
+        }
+      }
+    },
+    "Verrouillage": {
+      "categoryId": 100685,
+      "categoryName": "Verrouillage",
+      "level": 1,
+      "children": {
+        "Composants": {
+          "categoryId": null,
+          "categoryName": "Composants",
+          "level": 2,
+          "children": {
+            "Interrupteur, contacteur de porte": {
+              "categoryId": 100766,
+              "categoryName": "Parts",
+              "level": 2,
+              "children": [],
+              "productId": 2433
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Système électrique [ID: 100010] (Niveau 1)\n│   └── Interrupteur/Relais/Contrôle clignotant/Appareil d.commande (Niveau 2)\n│       └── Light Switches/Relays/Controls [ID: 100307] (Niveau 2) → ProductId: 808\n│           └── Interrupteur / régulateur (Niveau 4)\n│               └── Light Switch/ Lever [ID: 100509] (Niveau 3) → ProductId: 808\n\n├── Systèmes de confort [ID: 100335] (Niveau 1)\n│   ├── Aide de fermeture/commande de porte (Niveau 2)\n│   │   └── Door Closing Aid/Door Actuation [ID: 100836] (Niveau 2) → ProductId: 2435\n│   └── Moteur / Relais (Niveau 2)\n│       └── Motor/Relay/Switch [ID: 104156] (Niveau 2) → ProductId: 2435\n│           └── Assistance de fermeture (Niveau 4)\n│               └── Door Latch Aid [ID: 104165] (Niveau 3) → ProductId: 2435\n\n├── Systèmes de sécurité [ID: 100417] (Niveau 1)\n│   └── Système d'alarme (Niveau 2)\n│       └── Alarm System [ID: 100419] (Niveau 2) → ProductId: 2434\n\n└── Verrouillage [ID: 100685] (Niveau 1)\n    └── Composants (Niveau 2)\n        └── Parts [ID: 100766] (Niveau 2) → ProductId: 2433",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Interrupteur/Relais/Contrôle clignotant/Appareil d.commande",
+        "Light Switches/Relays/Controls"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100307
+      ],
+      "finalCategoryId": 100307,
+      "productId": 808
+    },
+    {
+      "path": [
+        "Systèmes de confort",
+        "Aide de fermeture/commande de porte",
+        "Door Closing Aid/Door Actuation"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        100836
+      ],
+      "finalCategoryId": 100836,
+      "productId": 2435
+    },
+    {
+      "path": [
+        "Systèmes de confort",
+        "Moteur / Relais",
+        "Motor/Relay/Switch"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        104156
+      ],
+      "finalCategoryId": 104156,
+      "productId": 2435
+    },
+    {
+      "path": [
+        "Systèmes de sécurité",
+        "Système d'alarme",
+        "Alarm System"
+      ],
+      "categoryIds": [
+        100417,
+        null,
+        100419
+      ],
+      "finalCategoryId": 100419,
+      "productId": 2434
+    },
+    {
+      "path": [
+        "Verrouillage",
+        "Composants",
+        "Parts"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100766
+      ],
+      "finalCategoryId": 100766,
+      "productId": 2433
+    }
+  ],
+  "productIdsInArbo": [
+    808,
+    2433,
+    2434,
+    2435
+  ],
+  "matchedProductIds": [
+    808
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "C0F62F",
+      "index": "FE26712",
+      "tecDoc": "26712",
+      "tecDocProd": "101",
+      "articleNumber": "26712",
+      "brand": "FEBI",
+      "shortDescription": "Grease",
+      "description": "Ceramic grease",
+      "gtuCode": "GTU_03",
+      "eans": [
+        "4027816267126"
+      ],
+      "packageWeight": "0,066",
+      "packageWidth": "4,500",
+      "packageDepth": "4,500",
+      "packageHeight": "5,500",
+      "customsCode": "34039900",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1601",
+          "primary": true,
+          "name": {
+            "en": "Grease"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1812",
+          "primary": false,
+          "name": {
+            "en": "High Temperature Lubricant"
+          }
+        }
+      ]
+    }
+  ]
+}

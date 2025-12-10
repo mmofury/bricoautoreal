@@ -1,0 +1,69 @@
+{
+  "productName": "Tirette à câble, commande d'embrayage",
+  "searchText": "Tirette à câble, commande d'embrayage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:26:24.646Z",
+  "productId": 478,
+  "arborescence": {
+    "Embrayage / composants": {
+      "categoryId": 100050,
+      "categoryName": "Embrayage / composants",
+      "level": 1,
+      "children": {
+        "Commande d'embrayage": {
+          "categoryId": null,
+          "categoryName": "Commande d'embrayage",
+          "level": 2,
+          "children": {
+            "Tirette à câble, commande d'embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Câble d'embrayage": {
+                  "categoryId": null,
+                  "categoryName": "Câble d'embrayage",
+                  "level": 4,
+                  "children": {
+                    "Tirette à câble, commande d'embrayage": {
+                      "categoryId": 100077,
+                      "categoryName": "Clutch Cable",
+                      "level": 3,
+                      "children": [],
+                      "productId": 478
+                    }
+                  }
+                }
+              },
+              "productId": 478
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Embrayage / composants [ID: 100050] (Niveau 1)\n    └── Commande d'embrayage (Niveau 2)\n        └── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 478\n            └── Câble d'embrayage (Niveau 4)\n                └── Clutch Cable [ID: 100077] (Niveau 3) → ProductId: 478",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 478
+    }
+  ],
+  "productIdsInArbo": [
+    478
+  ],
+  "matchedProductIds": [
+    478
+  ]
+}

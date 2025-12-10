@@ -1,0 +1,49 @@
+{
+  "productName": "Tube entretoise, barre de torsion",
+  "productId": 3183,
+  "searchText": "Tube entretoise, barre de torsion",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Suspension des roues": {
+          "categoryId": 200061,
+          "categoryName": "Suspension des roues",
+          "level": 1,
+          "children": {
+            "Stabilisateur/accessoires": {
+              "categoryId": null,
+              "categoryName": "Stabilisateur/accessoires",
+              "level": 2,
+              "children": {
+                "Tube entretoise, barre de torsion": {
+                  "categoryId": 200467,
+                  "categoryName": "Stabiliser Bar/Fastening Parts",
+                  "level": 2,
+                  "children": [],
+                  "productId": 3183
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Suspension des roues [ID: 200061] (Niveau 1)\n    └── Stabilisateur/accessoires (Niveau 2)\n        └── Stabiliser Bar/Fastening Parts [ID: 200467] (Niveau 2) → ProductId: 3183",
+      "productIdsInArbo": [
+        3183
+      ],
+      "matchedProductIds": [
+        3183
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:42:56.105Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

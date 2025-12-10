@@ -1,0 +1,118 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.309Z",
+  "manufacturer": "HDT",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 6725,
+      "manufacturerName": "HDT",
+      "groupKey": "CALAIS",
+      "displayName": "CALAIS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44474,
+          "modelName": "CALAIS A trois volumes (VK)",
+          "modelYearFrom": "1984-08-01",
+          "modelYearTo": "1986-03-01"
+        },
+        {
+          "modelId": 44483,
+          "modelName": "CALAIS A trois volumes (VL)",
+          "modelYearFrom": "1986-04-01",
+          "modelYearTo": "1989-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6725,
+      "manufacturerName": "HDT",
+      "groupKey": "COMMODORE",
+      "displayName": "COMMODORE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44470,
+          "modelName": "COMMODORE A trois volumes (VC)",
+          "modelYearFrom": "1980-10-01",
+          "modelYearTo": "1981-09-01"
+        },
+        {
+          "modelId": 44471,
+          "modelName": "COMMODORE A trois volumes (VH)",
+          "modelYearFrom": "1981-09-01",
+          "modelYearTo": "1984-09-01"
+        },
+        {
+          "modelId": 44473,
+          "modelName": "COMMODORE A trois volumes (VK)",
+          "modelYearFrom": "1984-08-01",
+          "modelYearTo": "1986-03-01"
+        },
+        {
+          "modelId": 44475,
+          "modelName": "COMMODORE A trois volumes (VL)",
+          "modelYearFrom": "1986-04-01",
+          "modelYearTo": "1989-06-01"
+        },
+        {
+          "modelId": 44476,
+          "modelName": "COMMODORE A trois volumes (VN)",
+          "modelYearFrom": "1988-08-01",
+          "modelYearTo": "1991-09-01"
+        },
+        {
+          "modelId": 44477,
+          "modelName": "COMMODORE A trois volumes (VS)",
+          "modelYearFrom": "1995-04-01",
+          "modelYearTo": "1997-08-01"
+        },
+        {
+          "modelId": 44478,
+          "modelName": "COMMODORE Pick-up (VS)",
+          "modelYearFrom": "1995-04-01",
+          "modelYearTo": "2000-10-01"
+        },
+        {
+          "modelId": 44479,
+          "modelName": "COMMODORE A trois volumes (VT)",
+          "modelYearFrom": "1997-09-01",
+          "modelYearTo": "2000-10-01"
+        },
+        {
+          "modelId": 44480,
+          "modelName": "COMMODORE A trois volumes (VX)",
+          "modelYearFrom": "2000-10-01",
+          "modelYearTo": "2002-10-01"
+        },
+        {
+          "modelId": 44481,
+          "modelName": "COMMODORE A trois volumes (VE)",
+          "modelYearFrom": "2006-08-01",
+          "modelYearTo": "2013-04-01"
+        },
+        {
+          "modelId": 44482,
+          "modelName": "COMMODORE A trois volumes (VF)",
+          "modelYearFrom": "2013-05-01",
+          "modelYearTo": "2017-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6725,
+      "manufacturerName": "HDT",
+      "groupKey": "STATESMAN",
+      "displayName": "STATESMAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44472,
+          "modelName": "STATESMAN A trois volumes (WB)",
+          "modelYearFrom": "1980-10-01",
+          "modelYearTo": "1985-07-01"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "DD1571",
+      "index": "FE07536",
+      "tecDoc": "07536",
+      "tecDocProd": "101",
+      "articleNumber": "07536",
+      "brand": "FEBI",
+      "shortDescription": "Seal Ring",
+      "description": "Gasket/seal (40mmx45mmx2,5mm, FPM)",
+      "customsCode": "40169300",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_2048",
+          "primary": true,
+          "name": {
+            "en": "Seal Ring"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_5141",
+          "primary": false,
+          "name": {
+            "en": "Seal, brake shaft"
+          }
+        }
+      ]
+    }
+  ]
+}

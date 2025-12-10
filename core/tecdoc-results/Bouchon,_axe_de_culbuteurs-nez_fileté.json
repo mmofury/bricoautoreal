@@ -1,0 +1,112 @@
+{
+  "productName": "Bouchon, axe de culbuteurs-nez fileté",
+  "searchText": "Bouchon, axe de culbuteurs-nez fileté",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:08:25.382Z",
+  "productId": 2750,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Culasse / pieces de montage": {
+          "categoryId": null,
+          "categoryName": "Culasse / pieces de montage",
+          "level": 2,
+          "children": {
+            "Bouchon, axe de culbuteurs-nez fileté": {
+              "categoryId": 100373,
+              "categoryName": "Cylinder Head/Attachment Parts",
+              "level": 2,
+              "children": {
+                "Culasse": {
+                  "categoryId": null,
+                  "categoryName": "Culasse",
+                  "level": 4,
+                  "children": {
+                    "Bouchon, axe de culbuteurs-nez fileté": {
+                      "categoryId": 100380,
+                      "categoryName": "Cylinder Head",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2750
+                    }
+                  }
+                }
+              },
+              "productId": 2750
+            }
+          }
+        },
+        "Distribution moteur": {
+          "categoryId": null,
+          "categoryName": "Distribution moteur",
+          "level": 2,
+          "children": {
+            "Bouchon, axe de culbuteurs-nez fileté": {
+              "categoryId": 100003,
+              "categoryName": "Engine Timing",
+              "level": 2,
+              "children": {
+                "Culbuteur/Levier oscillant": {
+                  "categoryId": null,
+                  "categoryName": "Culbuteur/Levier oscillant",
+                  "level": 4,
+                  "children": {
+                    "Bouchon, axe de culbuteurs-nez fileté": {
+                      "categoryId": 100398,
+                      "categoryName": "Rocker Arm/Finger Follower",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2750
+                    }
+                  }
+                }
+              },
+              "productId": 2750
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    ├── Culasse / pieces de montage (Niveau 2)\n    │   └── Cylinder Head/Attachment Parts [ID: 100373] (Niveau 2) → ProductId: 2750\n    │       └── Culasse (Niveau 4)\n    │           └── Cylinder Head [ID: 100380] (Niveau 3) → ProductId: 2750\n    └── Distribution moteur (Niveau 2)\n        └── Engine Timing [ID: 100003] (Niveau 2) → ProductId: 2750\n            └── Culbuteur/Levier oscillant (Niveau 4)\n                └── Rocker Arm/Finger Follower [ID: 100398] (Niveau 3) → ProductId: 2750",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Culasse / pieces de montage",
+        "Cylinder Head/Attachment Parts"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100373
+      ],
+      "finalCategoryId": 100373,
+      "productId": 2750
+    },
+    {
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Engine Timing"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100003
+      ],
+      "finalCategoryId": 100003,
+      "productId": 2750
+    }
+  ],
+  "productIdsInArbo": [
+    2750
+  ],
+  "matchedProductIds": [
+    2750
+  ]
+}

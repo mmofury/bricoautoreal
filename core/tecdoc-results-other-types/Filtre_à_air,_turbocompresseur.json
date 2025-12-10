@@ -1,0 +1,114 @@
+{
+  "productName": "Filtre à air, turbocompresseur",
+  "productId": 3543,
+  "searchText": "Filtre à air, turbocompresseur",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Filtre": {
+          "categoryId": 200047,
+          "categoryName": "Filtre",
+          "level": 1,
+          "children": {
+            "Filtre à air": {
+              "categoryId": null,
+              "categoryName": "Filtre à air",
+              "level": 2,
+              "children": {
+                "Filtre à air, turbocompresseur": {
+                  "categoryId": 200158,
+                  "categoryName": "Air Filter",
+                  "level": 2,
+                  "children": [],
+                  "productId": 3543
+                }
+              }
+            }
+          }
+        },
+        "Moteur": {
+          "categoryId": 200026,
+          "categoryName": "Moteur",
+          "level": 1,
+          "children": {
+            "Alimentation en air": {
+              "categoryId": null,
+              "categoryName": "Alimentation en air",
+              "level": 2,
+              "children": {
+                "Filtre à air, turbocompresseur": {
+                  "categoryId": 200030,
+                  "categoryName": "Air Supply",
+                  "level": 2,
+                  "children": {
+                    "Filtre à air": {
+                      "categoryId": null,
+                      "categoryName": "Filtre à air",
+                      "level": 4,
+                      "children": {
+                        "Filtre à air, turbocompresseur": {
+                          "categoryId": 200120,
+                          "categoryName": "Air Filter/ Housing",
+                          "level": 3,
+                          "children": [],
+                          "productId": 3543
+                        }
+                      }
+                    },
+                    "Suralimentation": {
+                      "categoryId": null,
+                      "categoryName": "Suralimentation",
+                      "level": 4,
+                      "children": {
+                        "Filtre à air, turbocompresseur": {
+                          "categoryId": 201090,
+                          "categoryName": "Charging (supercharged/turbocharged)",
+                          "level": 3,
+                          "children": {
+                            "Filtre à air": {
+                              "categoryId": null,
+                              "categoryName": "Filtre à air",
+                              "level": 6,
+                              "children": {
+                                "Filtre à air, turbocompresseur": {
+                                  "categoryId": 202436,
+                                  "categoryName": "Air Filter",
+                                  "level": 4,
+                                  "children": [],
+                                  "productId": 3543
+                                }
+                              }
+                            }
+                          },
+                          "productId": 3543
+                        }
+                      }
+                    }
+                  },
+                  "productId": 3543
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "├── Filtre [ID: 200047] (Niveau 1)\n│   └── Filtre à air (Niveau 2)\n│       └── Air Filter [ID: 200158] (Niveau 2) → ProductId: 3543\n\n└── Moteur [ID: 200026] (Niveau 1)\n    └── Alimentation en air (Niveau 2)\n        └── Air Supply [ID: 200030] (Niveau 2) → ProductId: 3543\n            ├── Filtre à air (Niveau 4)\n            │   └── Air Filter/ Housing [ID: 200120] (Niveau 3) → ProductId: 3543\n            └── Suralimentation (Niveau 4)\n                └── Charging (supercharged/turbocharged) [ID: 201090] (Niveau 3) → ProductId: 3543\n                    └── Filtre à air (Niveau 6)\n                        └── Air Filter [ID: 202436] (Niveau 4) → ProductId: 3543",
+      "productIdsInArbo": [
+        3543
+      ],
+      "matchedProductIds": [
+        3543
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:29:48.311Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

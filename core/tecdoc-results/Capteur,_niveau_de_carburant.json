@@ -1,0 +1,89 @@
+{
+  "productName": "Capteur, niveau de carburant",
+  "searchText": "Capteur, niveau de carburant",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:15:56.299Z",
+  "productId": 605,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Capteur de niveau de carburant": {
+          "categoryId": null,
+          "categoryName": "Capteur de niveau de carburant",
+          "level": 2,
+          "children": {
+            "Capteur, niveau de carburant": {
+              "categoryId": 100268,
+              "categoryName": "Fuel Sender Unit",
+              "level": 2,
+              "children": [],
+              "productId": 605
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Capteurs": {
+          "categoryId": null,
+          "categoryName": "Capteurs",
+          "level": 2,
+          "children": {
+            "Capteur, niveau de carburant": {
+              "categoryId": 102747,
+              "categoryName": "Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 605
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Alimentation carburant [ID: 100214] (Niveau 1)\n│   └── Capteur de niveau de carburant (Niveau 2)\n│       └── Fuel Sender Unit [ID: 100268] (Niveau 2) → ProductId: 605\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Capteurs (Niveau 2)\n        └── Sensors [ID: 102747] (Niveau 2) → ProductId: 605",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Capteur de niveau de carburant",
+        "Fuel Sender Unit"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100268
+      ],
+      "finalCategoryId": 100268,
+      "productId": 605
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Capteurs",
+        "Sensors"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        102747
+      ],
+      "finalCategoryId": 102747,
+      "productId": 605
+    }
+  ],
+  "productIdsInArbo": [
+    605
+  ],
+  "matchedProductIds": [
+    605
+  ]
+}

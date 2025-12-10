@@ -1,0 +1,76 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.508Z",
+  "manufacturer": "TESLA",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 3328,
+      "manufacturerName": "TESLA",
+      "groupKey": "CYBERTRUCK",
+      "displayName": "CYBERTRUCK",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45741,
+          "modelName": "CYBERTRUCK (7G2C)",
+          "modelYearFrom": "2023-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3328,
+      "manufacturerName": "TESLA",
+      "groupKey": "MODEL",
+      "displayName": "MODEL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11007,
+          "modelName": "MODEL S (5YJS)",
+          "modelYearFrom": "2012-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13056,
+          "modelName": "MODEL X (5YJX)",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38330,
+          "modelName": "MODEL 3 (5YJ3)",
+          "modelYearFrom": "2017-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40938,
+          "modelName": "MODEL Y (5YJY)",
+          "modelYearFrom": "2019-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 46152,
+          "modelName": "MODEL Y",
+          "modelYearFrom": "2025-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3328,
+      "manufacturerName": "TESLA",
+      "groupKey": "ROADSTER",
+      "displayName": "ROADSTER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8281,
+          "modelName": "ROADSTER (DS)",
+          "modelYearFrom": "2008-03-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

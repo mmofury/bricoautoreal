@@ -1,0 +1,64 @@
+{
+  "productName": "Interrupteur, indication \"\"cabine basculée\"\"",
+  "productId": 1762,
+  "searchText": "Interrupteur, indication \"\"cabine basculée\"\"",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Système électrique": {
+          "categoryId": 200064,
+          "categoryName": "Système électrique",
+          "level": 1,
+          "children": {
+            "Instruments": {
+              "categoryId": null,
+              "categoryName": "Instruments",
+              "level": 2,
+              "children": {
+                "Interrupteur, indication \"\"cabine basculée\"\"": {
+                  "categoryId": 200600,
+                  "categoryName": "Instruments",
+                  "level": 2,
+                  "children": {
+                    "Palpeurs/interrupteurs (transmetteur)": {
+                      "categoryId": null,
+                      "categoryName": "Palpeurs/interrupteurs (transmetteur)",
+                      "level": 4,
+                      "children": {
+                        "Interrupteur, indication \"\"cabine basculée\"\"": {
+                          "categoryId": 200954,
+                          "categoryName": "Sensors/Switches",
+                          "level": 3,
+                          "children": [],
+                          "productId": 1762
+                        }
+                      }
+                    }
+                  },
+                  "productId": 1762
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système électrique [ID: 200064] (Niveau 1)\n    └── Instruments (Niveau 2)\n        └── Instruments [ID: 200600] (Niveau 2) → ProductId: 1762\n            └── Palpeurs/interrupteurs (transmetteur) (Niveau 4)\n                └── Sensors/Switches [ID: 200954] (Niveau 3) → ProductId: 1762",
+      "productIdsInArbo": [
+        1762
+      ],
+      "matchedProductIds": [
+        1762
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:36:39.541Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

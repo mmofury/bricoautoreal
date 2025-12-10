@@ -1,0 +1,54 @@
+{
+  "productName": "Écran, aide au stationnement",
+  "searchText": "Écran, aide au stationnement",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:37:20.797Z",
+  "productId": 3819,
+  "arborescence": {
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Aide au stationnement/Alarme de marche arrière": {
+          "categoryId": null,
+          "categoryName": "Aide au stationnement/Alarme de marche arrière",
+          "level": 2,
+          "children": {
+            "Écran, aide au stationnement": {
+              "categoryId": 100618,
+              "categoryName": "park distance control/Back-up Alarm",
+              "level": 2,
+              "children": [],
+              "productId": 3819
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Systèmes de confort [ID: 100335] (Niveau 1)\n    └── Aide au stationnement/Alarme de marche arrière (Niveau 2)\n        └── park distance control/Back-up Alarm [ID: 100618] (Niveau 2) → ProductId: 3819",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Systèmes de confort",
+        "Aide au stationnement/Alarme de marche arrière",
+        "park distance control/Back-up Alarm"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        100618
+      ],
+      "finalCategoryId": 100618,
+      "productId": 3819
+    }
+  ],
+  "productIdsInArbo": [
+    3819
+  ],
+  "matchedProductIds": [
+    3819
+  ]
+}

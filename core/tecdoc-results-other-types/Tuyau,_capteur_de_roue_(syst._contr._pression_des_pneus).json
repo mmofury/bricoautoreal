@@ -1,0 +1,49 @@
+{
+  "productName": "Tuyau, capteur de roue (syst. contr. pression des pneus)",
+  "productId": 60656,
+  "searchText": "Tuyau, capteur de roue (syst. contr. pression des pneus)",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Roues/Pneus": {
+          "categoryId": 200063,
+          "categoryName": "Roues/Pneus",
+          "level": 1,
+          "children": {
+            "Contrôle de pression des pneumatiques": {
+              "categoryId": null,
+              "categoryName": "Contrôle de pression des pneumatiques",
+              "level": 2,
+              "children": {
+                "Tuyau, capteur de roue (syst. contr. pression des pneus)": {
+                  "categoryId": 203480,
+                  "categoryName": "Tyre-Pressure Monitoring System",
+                  "level": 2,
+                  "children": [],
+                  "productId": 60656
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Roues/Pneus [ID: 200063] (Niveau 1)\n    └── Contrôle de pression des pneumatiques (Niveau 2)\n        └── Tyre-Pressure Monitoring System [ID: 203480] (Niveau 2) → ProductId: 60656",
+      "productIdsInArbo": [
+        60656
+      ],
+      "matchedProductIds": [
+        60656
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:42:58.178Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

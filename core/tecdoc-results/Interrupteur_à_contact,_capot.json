@@ -1,0 +1,119 @@
+{
+  "productName": "Interrupteur à contact, capot",
+  "searchText": "Interrupteur à contact, capot",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:46:40.232Z",
+  "productId": 60535,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Avant du véhicule": {
+          "categoryId": null,
+          "categoryName": "Avant du véhicule",
+          "level": 2,
+          "children": {
+            "Interrupteur à contact, capot": {
+              "categoryId": 101648,
+              "categoryName": "Vehicle Front",
+              "level": 2,
+              "children": {
+                "Capot avant / composants / insonorisation": {
+                  "categoryId": null,
+                  "categoryName": "Capot avant / composants / insonorisation",
+                  "level": 4,
+                  "children": {
+                    "Interrupteur à contact, capot": {
+                      "categoryId": 101654,
+                      "categoryName": "Bonnet/Parts/Noise Insulation",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60535
+                    }
+                  }
+                }
+              },
+              "productId": 60535
+            }
+          }
+        }
+      }
+    },
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Moteur / Relais": {
+          "categoryId": null,
+          "categoryName": "Moteur / Relais",
+          "level": 2,
+          "children": {
+            "Interrupteur à contact, capot": {
+              "categoryId": 104156,
+              "categoryName": "Motor/Relay/Switch",
+              "level": 2,
+              "children": {
+                "Capot moteur": {
+                  "categoryId": null,
+                  "categoryName": "Capot moteur",
+                  "level": 4,
+                  "children": {
+                    "Interrupteur à contact, capot": {
+                      "categoryId": 105584,
+                      "categoryName": "Bonnet",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60535
+                    }
+                  }
+                }
+              },
+              "productId": 60535
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carrosserie [ID: 100001] (Niveau 1)\n│   └── Avant du véhicule (Niveau 2)\n│       └── Vehicle Front [ID: 101648] (Niveau 2) → ProductId: 60535\n│           └── Capot avant / composants / insonorisation (Niveau 4)\n│               └── Bonnet/Parts/Noise Insulation [ID: 101654] (Niveau 3) → ProductId: 60535\n\n└── Systèmes de confort [ID: 100335] (Niveau 1)\n    └── Moteur / Relais (Niveau 2)\n        └── Motor/Relay/Switch [ID: 104156] (Niveau 2) → ProductId: 60535\n            └── Capot moteur (Niveau 4)\n                └── Bonnet [ID: 105584] (Niveau 3) → ProductId: 60535",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Avant du véhicule",
+        "Vehicle Front"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101648
+      ],
+      "finalCategoryId": 101648,
+      "productId": 60535
+    },
+    {
+      "path": [
+        "Systèmes de confort",
+        "Moteur / Relais",
+        "Motor/Relay/Switch"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        104156
+      ],
+      "finalCategoryId": 104156,
+      "productId": 60535
+    }
+  ],
+  "productIdsInArbo": [
+    60535
+  ],
+  "matchedProductIds": [
+    60535
+  ]
+}

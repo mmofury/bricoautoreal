@@ -1,0 +1,54 @@
+{
+  "productName": "Coeur, préchauffage du moteur",
+  "searchText": "Coeur, préchauffage du moteur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:21:58.309Z",
+  "productId": 3795,
+  "arborescence": {
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Préchauffage du moteur (électrique)": {
+          "categoryId": null,
+          "categoryName": "Préchauffage du moteur (électrique)",
+          "level": 2,
+          "children": {
+            "Coeur, préchauffage du moteur": {
+              "categoryId": 102736,
+              "categoryName": "Engine Preheater System (electric)",
+              "level": 2,
+              "children": [],
+              "productId": 3795
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Systèmes de confort [ID: 100335] (Niveau 1)\n    └── Préchauffage du moteur (électrique) (Niveau 2)\n        └── Engine Preheater System (electric) [ID: 102736] (Niveau 2) → ProductId: 3795",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Systèmes de confort",
+        "Préchauffage du moteur (électrique)",
+        "Engine Preheater System (electric)"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        102736
+      ],
+      "finalCategoryId": 102736,
+      "productId": 3795
+    }
+  ],
+  "productIdsInArbo": [
+    3795
+  ],
+  "matchedProductIds": [
+    3795
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Pignon, pompe de la direction assistée",
+  "searchText": "Pignon, pompe de la direction assistée",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:19:55.592Z",
+  "productId": 8759,
+  "arborescence": {
+    "Direction": {
+      "categoryId": 100012,
+      "categoryName": "Direction",
+      "level": 1,
+      "children": {
+        "Crémaillère de direction/pompe": {
+          "categoryId": null,
+          "categoryName": "Crémaillère de direction/pompe",
+          "level": 2,
+          "children": {
+            "Pignon, pompe de la direction assistée": {
+              "categoryId": 100199,
+              "categoryName": "Steering Gear/Pump",
+              "level": 2,
+              "children": [],
+              "productId": 8759
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Direction [ID: 100012] (Niveau 1)\n    └── Crémaillère de direction/pompe (Niveau 2)\n        └── Steering Gear/Pump [ID: 100199] (Niveau 2) → ProductId: 8759",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Direction",
+        "Crémaillère de direction/pompe",
+        "Steering Gear/Pump"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        100199
+      ],
+      "finalCategoryId": 100199,
+      "productId": 8759
+    }
+  ],
+  "productIdsInArbo": [
+    8759
+  ],
+  "matchedProductIds": [
+    8759
+  ]
+}

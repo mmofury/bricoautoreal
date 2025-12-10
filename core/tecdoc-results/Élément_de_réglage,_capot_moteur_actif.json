@@ -1,0 +1,112 @@
+{
+  "productName": "Élément de réglage, capot moteur actif",
+  "searchText": "Élément de réglage, capot moteur actif",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:39:16.975Z",
+  "productId": 60721,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Avant du véhicule": {
+          "categoryId": null,
+          "categoryName": "Avant du véhicule",
+          "level": 2,
+          "children": {
+            "Élément de réglage, capot moteur actif": {
+              "categoryId": 101648,
+              "categoryName": "Vehicle Front",
+              "level": 2,
+              "children": {
+                "Capot avant / composants / insonorisation": {
+                  "categoryId": null,
+                  "categoryName": "Capot avant / composants / insonorisation",
+                  "level": 4,
+                  "children": {
+                    "Élément de réglage, capot moteur actif": {
+                      "categoryId": 101654,
+                      "categoryName": "Bonnet/Parts/Noise Insulation",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60721
+                    }
+                  }
+                }
+              },
+              "productId": 60721
+            }
+          }
+        },
+        "Trappes/capots/portes/toit coul./toit panoram./toit pliant": {
+          "categoryId": null,
+          "categoryName": "Trappes/capots/portes/toit coul./toit panoram./toit pliant",
+          "level": 2,
+          "children": {
+            "Élément de réglage, capot moteur actif": {
+              "categoryId": 100746,
+              "categoryName": "Hatches/Bonnets/Doors/Sunroof/Panoramic Roof",
+              "level": 2,
+              "children": {
+                "Capot avant / composants / insonorisation": {
+                  "categoryId": null,
+                  "categoryName": "Capot avant / composants / insonorisation",
+                  "level": 4,
+                  "children": {
+                    "Élément de réglage, capot moteur actif": {
+                      "categoryId": 100184,
+                      "categoryName": "Bonnet/Parts/Noise Insulation",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60721
+                    }
+                  }
+                }
+              },
+              "productId": 60721
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    ├── Avant du véhicule (Niveau 2)\n    │   └── Vehicle Front [ID: 101648] (Niveau 2) → ProductId: 60721\n    │       └── Capot avant / composants / insonorisation (Niveau 4)\n    │           └── Bonnet/Parts/Noise Insulation [ID: 101654] (Niveau 3) → ProductId: 60721\n    └── Trappes/capots/portes/toit coul./toit panoram./toit pliant (Niveau 2)\n        └── Hatches/Bonnets/Doors/Sunroof/Panoramic Roof [ID: 100746] (Niveau 2) → ProductId: 60721\n            └── Capot avant / composants / insonorisation (Niveau 4)\n                └── Bonnet/Parts/Noise Insulation [ID: 100184] (Niveau 3) → ProductId: 60721",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Avant du véhicule",
+        "Vehicle Front"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101648
+      ],
+      "finalCategoryId": 101648,
+      "productId": 60721
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Trappes/capots/portes/toit coul./toit panoram./toit pliant",
+        "Hatches/Bonnets/Doors/Sunroof/Panoramic Roof"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100746
+      ],
+      "finalCategoryId": 100746,
+      "productId": 60721
+    }
+  ],
+  "productIdsInArbo": [
+    60721
+  ],
+  "matchedProductIds": [
+    60721
+  ]
+}

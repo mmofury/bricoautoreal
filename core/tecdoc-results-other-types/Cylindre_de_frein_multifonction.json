@@ -1,0 +1,100 @@
+{
+  "productName": "Cylindre de frein multifonction",
+  "productId": 361,
+  "searchText": "Cylindre de frein multifonction",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Dispositif de freinage": {
+          "categoryId": 200058,
+          "categoryName": "Dispositif de freinage",
+          "level": 1,
+          "children": {
+            "Cylindres de frein / système d'air comprimé": {
+              "categoryId": null,
+              "categoryName": "Cylindres de frein / système d'air comprimé",
+              "level": 2,
+              "children": {
+                "Cylindre de frein multifonction": {
+                  "categoryId": 200925,
+                  "categoryName": "Brake Cylinder/Compressed-air System",
+                  "level": 2,
+                  "children": {
+                    "Cylindre de frein combiné": {
+                      "categoryId": null,
+                      "categoryName": "Cylindre de frein combiné",
+                      "level": 4,
+                      "children": {
+                        "Cylindre de frein multifonction": {
+                          "categoryId": 200924,
+                          "categoryName": "Combination Brake Cylinder",
+                          "level": 3,
+                          "children": [],
+                          "productId": 361
+                        }
+                      }
+                    }
+                  },
+                  "productId": 361
+                }
+              }
+            }
+          }
+        },
+        "Système pneumatique": {
+          "categoryId": 200059,
+          "categoryName": "Système pneumatique",
+          "level": 1,
+          "children": {
+            "Cylindres de frein/de travail": {
+              "categoryId": null,
+              "categoryName": "Cylindres de frein/de travail",
+              "level": 2,
+              "children": {
+                "Cylindre de frein multifonction": {
+                  "categoryId": 200116,
+                  "categoryName": "Brake/Slave Cylinder",
+                  "level": 2,
+                  "children": {
+                    "Cylindre de frein combiné": {
+                      "categoryId": null,
+                      "categoryName": "Cylindre de frein combiné",
+                      "level": 4,
+                      "children": {
+                        "Cylindre de frein multifonction": {
+                          "categoryId": 200499,
+                          "categoryName": "Combination Brake Cylinder",
+                          "level": 3,
+                          "children": [],
+                          "productId": 361
+                        }
+                      }
+                    }
+                  },
+                  "productId": 361
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "├── Dispositif de freinage [ID: 200058] (Niveau 1)\n│   └── Cylindres de frein / système d'air comprimé (Niveau 2)\n│       └── Brake Cylinder/Compressed-air System [ID: 200925] (Niveau 2) → ProductId: 361\n│           └── Cylindre de frein combiné (Niveau 4)\n│               └── Combination Brake Cylinder [ID: 200924] (Niveau 3) → ProductId: 361\n\n└── Système pneumatique [ID: 200059] (Niveau 1)\n    └── Cylindres de frein/de travail (Niveau 2)\n        └── Brake/Slave Cylinder [ID: 200116] (Niveau 2) → ProductId: 361\n            └── Cylindre de frein combiné (Niveau 4)\n                └── Combination Brake Cylinder [ID: 200499] (Niveau 3) → ProductId: 361",
+      "productIdsInArbo": [
+        361
+      ],
+      "matchedProductIds": [
+        361
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:15:53.604Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

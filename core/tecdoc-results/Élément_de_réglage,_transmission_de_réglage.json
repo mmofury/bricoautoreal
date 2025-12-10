@@ -1,0 +1,54 @@
+{
+  "productName": "Élément de réglage, transmission de réglage",
+  "searchText": "Élément de réglage, transmission de réglage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:39:21.639Z",
+  "productId": 60543,
+  "arborescence": {
+    "Entraînement des roues": {
+      "categoryId": 100014,
+      "categoryName": "Entraînement des roues",
+      "level": 1,
+      "children": {
+        "Arbre de transmission": {
+          "categoryId": null,
+          "categoryName": "Arbre de transmission",
+          "level": 2,
+          "children": {
+            "Élément de réglage, transmission de réglage": {
+              "categoryId": 100062,
+              "categoryName": "Drive Shaft",
+              "level": 2,
+              "children": [],
+              "productId": 60543
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement des roues [ID: 100014] (Niveau 1)\n    └── Arbre de transmission (Niveau 2)\n        └── Drive Shaft [ID: 100062] (Niveau 2) → ProductId: 60543",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des roues",
+        "Arbre de transmission",
+        "Drive Shaft"
+      ],
+      "categoryIds": [
+        100014,
+        null,
+        100062
+      ],
+      "finalCategoryId": 100062,
+      "productId": 60543
+    }
+  ],
+  "productIdsInArbo": [
+    60543
+  ],
+  "matchedProductIds": [
+    60543
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Evacutaion des eaux, boitier du filtre à air (habitacle)",
+  "searchText": "Evacutaion des eaux, boitier du filtre à air (habitacle)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:37:23.822Z",
+  "productId": 3870,
+  "arborescence": {
+    "Chauffage / Ventilation": {
+      "categoryId": 100241,
+      "categoryName": "Chauffage / Ventilation",
+      "level": 1,
+      "children": {
+        "Filtre d'habitacle": {
+          "categoryId": null,
+          "categoryName": "Filtre d'habitacle",
+          "level": 2,
+          "children": {
+            "Evacutaion des eaux, boitier du filtre à air (habitacle)": {
+              "categoryId": 100346,
+              "categoryName": "Cabin Air Filter",
+              "level": 2,
+              "children": [],
+              "productId": 3870
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Chauffage / Ventilation [ID: 100241] (Niveau 1)\n    └── Filtre d'habitacle (Niveau 2)\n        └── Cabin Air Filter [ID: 100346] (Niveau 2) → ProductId: 3870",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Chauffage / Ventilation",
+        "Filtre d'habitacle",
+        "Cabin Air Filter"
+      ],
+      "categoryIds": [
+        100241,
+        null,
+        100346
+      ],
+      "finalCategoryId": 100346,
+      "productId": 3870
+    }
+  ],
+  "productIdsInArbo": [
+    3870
+  ],
+  "matchedProductIds": [
+    3870
+  ]
+}

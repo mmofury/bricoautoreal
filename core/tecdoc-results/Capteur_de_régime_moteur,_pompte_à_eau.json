@@ -1,0 +1,104 @@
+{
+  "productName": "Capteur de régime moteur, pompte à eau",
+  "searchText": "Capteur de régime moteur, pompte à eau",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:15:12.420Z",
+  "productId": 60245,
+  "arborescence": {
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Pompe à eau / joint": {
+          "categoryId": null,
+          "categoryName": "Pompe à eau / joint",
+          "level": 2,
+          "children": {
+            "Capteur de régime moteur, pompte à eau": {
+              "categoryId": 100088,
+              "categoryName": "Water Pump/Gasket",
+              "level": 2,
+              "children": {
+                "Pompe à eau": {
+                  "categoryId": null,
+                  "categoryName": "Pompe à eau",
+                  "level": 4,
+                  "children": {
+                    "Capteur de régime moteur, pompte à eau": {
+                      "categoryId": 100091,
+                      "categoryName": "Water Pump",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60245
+                    }
+                  }
+                }
+              },
+              "productId": 60245
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Capteurs": {
+          "categoryId": null,
+          "categoryName": "Capteurs",
+          "level": 2,
+          "children": {
+            "Capteur de régime moteur, pompte à eau": {
+              "categoryId": 102747,
+              "categoryName": "Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 60245
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Refroidissement [ID: 100007] (Niveau 1)\n│   └── Pompe à eau / joint (Niveau 2)\n│       └── Water Pump/Gasket [ID: 100088] (Niveau 2) → ProductId: 60245\n│           └── Pompe à eau (Niveau 4)\n│               └── Water Pump [ID: 100091] (Niveau 3) → ProductId: 60245\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Capteurs (Niveau 2)\n        └── Sensors [ID: 102747] (Niveau 2) → ProductId: 60245",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Refroidissement",
+        "Pompe à eau / joint",
+        "Water Pump/Gasket"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100088
+      ],
+      "finalCategoryId": 100088,
+      "productId": 60245
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Capteurs",
+        "Sensors"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        102747
+      ],
+      "finalCategoryId": 102747,
+      "productId": 60245
+    }
+  ],
+  "productIdsInArbo": [
+    60245
+  ],
+  "matchedProductIds": [
+    60245
+  ]
+}

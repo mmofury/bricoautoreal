@@ -1,0 +1,155 @@
+{
+  "productName": "Revêtement, rétroviseur extérieur",
+  "searchText": "Revêtement, rétroviseur extérieur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:10:05.488Z",
+  "productId": 23,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Habitacle": {
+          "categoryId": null,
+          "categoryName": "Habitacle",
+          "level": 2,
+          "children": {
+            "Revêtement, rétroviseur extérieur": {
+              "categoryId": 101690,
+              "categoryName": "Passenger Cabin",
+              "level": 2,
+              "children": {
+                "Miroirs": {
+                  "categoryId": null,
+                  "categoryName": "Miroirs",
+                  "level": 4,
+                  "children": {
+                    "Revêtement, rétroviseur extérieur": {
+                      "categoryId": 101698,
+                      "categoryName": "Mirrors",
+                      "level": 3,
+                      "children": [],
+                      "productId": 23
+                    }
+                  }
+                }
+              },
+              "productId": 23
+            }
+          }
+        },
+        "Pièces de carrosserie/ailes/pares-chocs": {
+          "categoryId": null,
+          "categoryName": "Pièces de carrosserie/ailes/pares-chocs",
+          "level": 2,
+          "children": {
+            "Revêtement, rétroviseur extérieur": {
+              "categoryId": 100743,
+              "categoryName": "Body Parts/Wing/Bumper",
+              "level": 2,
+              "children": {
+                "Recouvrement/Capuchons": {
+                  "categoryId": null,
+                  "categoryName": "Recouvrement/Capuchons",
+                  "level": 4,
+                  "children": {
+                    "Revêtement, rétroviseur extérieur": {
+                      "categoryId": 100699,
+                      "categoryName": "Covers/Caps",
+                      "level": 3,
+                      "children": [],
+                      "productId": 23
+                    }
+                  }
+                }
+              },
+              "productId": 23
+            }
+          }
+        },
+        "Vitrages/Miroirs": {
+          "categoryId": null,
+          "categoryName": "Vitrages/Miroirs",
+          "level": 2,
+          "children": {
+            "Revêtement, rétroviseur extérieur": {
+              "categoryId": 100744,
+              "categoryName": "Glazing/Mirrors",
+              "level": 2,
+              "children": {
+                "Miroirs": {
+                  "categoryId": null,
+                  "categoryName": "Miroirs",
+                  "level": 4,
+                  "children": {
+                    "Revêtement, rétroviseur extérieur": {
+                      "categoryId": 100566,
+                      "categoryName": "Mirrors",
+                      "level": 3,
+                      "children": [],
+                      "productId": 23
+                    }
+                  }
+                }
+              },
+              "productId": 23
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    ├── Habitacle (Niveau 2)\n    │   └── Passenger Cabin [ID: 101690] (Niveau 2) → ProductId: 23\n    │       └── Miroirs (Niveau 4)\n    │           └── Mirrors [ID: 101698] (Niveau 3) → ProductId: 23\n    ├── Pièces de carrosserie/ailes/pares-chocs (Niveau 2)\n    │   └── Body Parts/Wing/Bumper [ID: 100743] (Niveau 2) → ProductId: 23\n    │       └── Recouvrement/Capuchons (Niveau 4)\n    │           └── Covers/Caps [ID: 100699] (Niveau 3) → ProductId: 23\n    └── Vitrages/Miroirs (Niveau 2)\n        └── Glazing/Mirrors [ID: 100744] (Niveau 2) → ProductId: 23\n            └── Miroirs (Niveau 4)\n                └── Mirrors [ID: 100566] (Niveau 3) → ProductId: 23",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Habitacle",
+        "Passenger Cabin"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101690
+      ],
+      "finalCategoryId": 101690,
+      "productId": 23
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Pièces de carrosserie/ailes/pares-chocs",
+        "Body Parts/Wing/Bumper"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100743
+      ],
+      "finalCategoryId": 100743,
+      "productId": 23
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Vitrages/Miroirs",
+        "Glazing/Mirrors"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100744
+      ],
+      "finalCategoryId": 100744,
+      "productId": 23
+    }
+  ],
+  "productIdsInArbo": [
+    23
+  ],
+  "matchedProductIds": [
+    23
+  ]
+}

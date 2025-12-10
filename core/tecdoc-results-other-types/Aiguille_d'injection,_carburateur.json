@@ -1,0 +1,161 @@
+{
+  "productName": "Aiguille d'injection, carburateur",
+  "searchText": "Aiguille d'injection, carburateur",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 3,
+      "found": true,
+      "hasMatch": false,
+      "arborescence": {
+        "Carburation": {
+          "categoryId": 100254,
+          "categoryName": "Carburation",
+          "level": 1,
+          "children": {
+            "Carburateurs": {
+              "categoryId": null,
+              "categoryName": "Carburateurs",
+              "level": 2,
+              "children": {
+                "Aiguille d'injection, carburateur": {
+                  "categoryId": 102903,
+                  "categoryName": "Carburettor System",
+                  "level": 2,
+                  "children": {
+                    "Composants du carburateur": {
+                      "categoryId": null,
+                      "categoryName": "Composants du carburateur",
+                      "level": 4,
+                      "children": {
+                        "Aiguille d'injection, carburateur": {
+                          "categoryId": 102906,
+                          "categoryName": "Carburettor Parts",
+                          "level": 3,
+                          "children": [],
+                          "productId": 1694
+                        }
+                      }
+                    }
+                  },
+                  "productId": 1694
+                }
+              }
+            }
+          }
+        },
+        "Moto": {
+          "categoryId": 103671,
+          "categoryName": "Moto",
+          "level": 1,
+          "children": {
+            "Carburation": {
+              "categoryId": null,
+              "categoryName": "Carburation",
+              "level": 2,
+              "children": {
+                "Aiguille d'injection, carburateur": {
+                  "categoryId": 103842,
+                  "categoryName": "Fuel Mixture Formation",
+                  "level": 2,
+                  "children": {
+                    "Carburateurs": {
+                      "categoryId": null,
+                      "categoryName": "Carburateurs",
+                      "level": 4,
+                      "children": {
+                        "Aiguille d'injection, carburateur": {
+                          "categoryId": 103864,
+                          "categoryName": "Carburettor System",
+                          "level": 3,
+                          "children": {
+                            "Composants du carburateur": {
+                              "categoryId": null,
+                              "categoryName": "Composants du carburateur",
+                              "level": 6,
+                              "children": {
+                                "Aiguille d'injection, carburateur": {
+                                  "categoryId": 103867,
+                                  "categoryName": "Carburettor Parts",
+                                  "level": 4,
+                                  "children": [],
+                                  "productId": 1694
+                                }
+                              }
+                            }
+                          },
+                          "productId": 1694
+                        }
+                      }
+                    }
+                  },
+                  "productId": 1694
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "├── Carburation [ID: 100254] (Niveau 1)\n│   └── Carburateurs (Niveau 2)\n│       └── Carburettor System [ID: 102903] (Niveau 2) → ProductId: 1694\n│           └── Composants du carburateur (Niveau 4)\n│               └── Carburettor Parts [ID: 102906] (Niveau 3) → ProductId: 1694\n\n└── Moto [ID: 103671] (Niveau 1)\n    └── Carburation (Niveau 2)\n        └── Fuel Mixture Formation [ID: 103842] (Niveau 2) → ProductId: 1694\n            └── Carburateurs (Niveau 4)\n                └── Carburettor System [ID: 103864] (Niveau 3) → ProductId: 1694\n                    └── Composants du carburateur (Niveau 6)\n                        └── Carburettor Parts [ID: 103867] (Niveau 4) → ProductId: 1694",
+      "productIdsInArbo": [
+        1694
+      ]
+    },
+    {
+      "typeId": 4,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 5,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 6,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 7,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 8,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 9,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 10,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 11,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 12,
+      "found": false,
+      "hasMatch": false
+    }
+  ],
+  "timestamp": "2025-12-03T09:38:30.431Z",
+  "bestMatch": {
+    "typeId": 3,
+    "found": true,
+    "hasMatch": false
+  }
+}

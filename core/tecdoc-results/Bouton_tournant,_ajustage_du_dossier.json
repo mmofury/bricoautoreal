@@ -1,0 +1,54 @@
+{
+  "productName": "Bouton tournant, ajustage du dossier",
+  "searchText": "Bouton tournant, ajustage du dossier",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:10:02.847Z",
+  "productId": 3455,
+  "arborescence": {
+    "Équipement intérieur": {
+      "categoryId": 100341,
+      "categoryName": "Équipement intérieur",
+      "level": 1,
+      "children": {
+        "Sièges": {
+          "categoryId": null,
+          "categoryName": "Sièges",
+          "level": 2,
+          "children": {
+            "Bouton tournant, ajustage du dossier": {
+              "categoryId": 100673,
+              "categoryName": "Seats",
+              "level": 2,
+              "children": [],
+              "productId": 3455
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Équipement intérieur [ID: 100341] (Niveau 1)\n    └── Sièges (Niveau 2)\n        └── Seats [ID: 100673] (Niveau 2) → ProductId: 3455",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Équipement intérieur",
+        "Sièges",
+        "Seats"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        100673
+      ],
+      "finalCategoryId": 100673,
+      "productId": 3455
+    }
+  ],
+  "productIdsInArbo": [
+    3455
+  ],
+  "matchedProductIds": [
+    3455
+  ]
+}

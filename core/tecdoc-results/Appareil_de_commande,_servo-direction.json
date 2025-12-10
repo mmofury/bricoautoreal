@@ -1,0 +1,89 @@
+{
+  "productName": "Appareil de commande, servo-direction",
+  "searchText": "Appareil de commande, servo-direction",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T18:55:31.158Z",
+  "productId": 678,
+  "arborescence": {
+    "Direction": {
+      "categoryId": 100012,
+      "categoryName": "Direction",
+      "level": 1,
+      "children": {
+        "Commande / réglage": {
+          "categoryId": null,
+          "categoryName": "Commande / réglage",
+          "level": 2,
+          "children": {
+            "Appareil de commande, servo-direction": {
+              "categoryId": 100565,
+              "categoryName": "Control/Regulation",
+              "level": 2,
+              "children": [],
+              "productId": 678
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Appareils de commande": {
+          "categoryId": null,
+          "categoryName": "Appareils de commande",
+          "level": 2,
+          "children": {
+            "Appareil de commande, servo-direction": {
+              "categoryId": 100727,
+              "categoryName": "Control Units",
+              "level": 2,
+              "children": [],
+              "productId": 678
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Direction [ID: 100012] (Niveau 1)\n│   └── Commande / réglage (Niveau 2)\n│       └── Control/Regulation [ID: 100565] (Niveau 2) → ProductId: 678\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Appareils de commande (Niveau 2)\n        └── Control Units [ID: 100727] (Niveau 2) → ProductId: 678",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Direction",
+        "Commande / réglage",
+        "Control/Regulation"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        100565
+      ],
+      "finalCategoryId": 100565,
+      "productId": 678
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Appareils de commande",
+        "Control Units"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100727
+      ],
+      "finalCategoryId": 100727,
+      "productId": 678
+    }
+  ],
+  "productIdsInArbo": [
+    678
+  ],
+  "matchedProductIds": [
+    678
+  ]
+}

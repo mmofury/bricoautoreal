@@ -1,0 +1,69 @@
+{
+  "productName": "Clip de fixation, revêtement pour dessous de caisse",
+  "searchText": "Clip de fixation, revêtement pour dessous de caisse",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:20:36.343Z",
+  "productId": 9191,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Pièces de carrosserie/ailes/pares-chocs": {
+          "categoryId": null,
+          "categoryName": "Pièces de carrosserie/ailes/pares-chocs",
+          "level": 2,
+          "children": {
+            "Clip de fixation, revêtement pour dessous de caisse": {
+              "categoryId": 100743,
+              "categoryName": "Body Parts/Wing/Bumper",
+              "level": 2,
+              "children": {
+                "Plancher de carrosserie": {
+                  "categoryId": null,
+                  "categoryName": "Plancher de carrosserie",
+                  "level": 4,
+                  "children": {
+                    "Clip de fixation, revêtement pour dessous de caisse": {
+                      "categoryId": 100168,
+                      "categoryName": "Floor Panel",
+                      "level": 3,
+                      "children": [],
+                      "productId": 9191
+                    }
+                  }
+                }
+              },
+              "productId": 9191
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    └── Pièces de carrosserie/ailes/pares-chocs (Niveau 2)\n        └── Body Parts/Wing/Bumper [ID: 100743] (Niveau 2) → ProductId: 9191\n            └── Plancher de carrosserie (Niveau 4)\n                └── Floor Panel [ID: 100168] (Niveau 3) → ProductId: 9191",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Pièces de carrosserie/ailes/pares-chocs",
+        "Body Parts/Wing/Bumper"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100743
+      ],
+      "finalCategoryId": 100743,
+      "productId": 9191
+    }
+  ],
+  "productIdsInArbo": [
+    9191
+  ],
+  "matchedProductIds": [
+    9191
+  ]
+}

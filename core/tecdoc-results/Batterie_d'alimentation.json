@@ -1,0 +1,57 @@
+{
+  "productName": "Batterie d'alimentation",
+  "searchText": "Batterie d'alimentation",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T20:06:48.447Z",
+  "productId": 2984,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Batterie": {
+          "categoryId": null,
+          "categoryName": "Batterie",
+          "level": 2,
+          "children": {
+            "Batterie d'alimentation": {
+              "categoryId": 100042,
+              "categoryName": "Battery",
+              "level": 2,
+              "children": [],
+              "productId": 4961
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Batterie (Niveau 2)\n        └── Battery [ID: 100042] (Niveau 2) → ProductId: 4961",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Batterie",
+        "Battery"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100042
+      ],
+      "finalCategoryId": 100042,
+      "productId": 4961
+    }
+  ],
+  "productIdsInArbo": [
+    4961
+  ],
+  "closestProductIds": [
+    {
+      "productId": 4961,
+      "productName": "Batterie d'alimentation"
+    }
+  ]
+}

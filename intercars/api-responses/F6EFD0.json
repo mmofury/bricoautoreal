@@ -1,0 +1,43 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "F6EFD0",
+      "index": "NTK81209",
+      "tecDoc": "81209",
+      "tecDocProd": "5414",
+      "articleNumber": "81209",
+      "brand": "NTK",
+      "shortDescription": "Sensor, crankshaft pulse",
+      "description": "Crankshaft position sensor fits: HYUNDAI TERRACAN 2.9D 11.01-12.06",
+      "packageWeight": "0,115",
+      "customsCode": "90328900",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_833",
+          "primary": true,
+          "name": {
+            "en": "Sensor, crankshaft pulse"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1402",
+          "primary": false,
+          "name": {
+            "en": "Sensor, engine speed"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3946",
+          "primary": false,
+          "name": {
+            "en": "Sensor, camshaft position"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.481Z",
+  "manufacturer": "SEVIC",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 6178,
+      "manufacturerName": "SEVIC",
+      "groupKey": "S70",
+      "displayName": "S70",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41947,
+          "modelName": "S70 THREEWHEELER",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6178,
+      "manufacturerName": "SEVIC",
+      "groupKey": "V500",
+      "displayName": "V500",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41920,
+          "modelName": "V500",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

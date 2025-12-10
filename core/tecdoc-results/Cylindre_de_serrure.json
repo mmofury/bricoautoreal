@@ -1,0 +1,334 @@
+{
+  "productName": "Cylindre de serrure",
+  "searchText": "Cylindre de serrure",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:28:45.169Z",
+  "productId": 1378,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Outillage de montage, serrure de porte/boîtier du cylindre": {
+              "categoryId": 103132,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4657
+            }
+          }
+        }
+      }
+    },
+    "Outils spéciaux": {
+      "categoryId": 706365,
+      "categoryName": "Outils spéciaux",
+      "level": 1,
+      "children": {
+        "Outils spéciaux carrosserie": {
+          "categoryId": null,
+          "categoryName": "Outils spéciaux carrosserie",
+          "level": 2,
+          "children": {
+            "Outillage de montage, serrure de porte/boîtier du cylindre": {
+              "categoryId": 706366,
+              "categoryName": "Body Special Tools",
+              "level": 2,
+              "children": {
+                "Verrouillage": {
+                  "categoryId": null,
+                  "categoryName": "Verrouillage",
+                  "level": 4,
+                  "children": {
+                    "Outillage de montage, serrure de porte/boîtier du cylindre": {
+                      "categoryId": 706367,
+                      "categoryName": "Locking System",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4657
+                    }
+                  }
+                }
+              },
+              "productId": 4657
+            }
+          }
+        }
+      }
+    },
+    "Verrouillage": {
+      "categoryId": 100685,
+      "categoryName": "Verrouillage",
+      "level": 1,
+      "children": {
+        "Composants": {
+          "categoryId": null,
+          "categoryName": "Composants",
+          "level": 2,
+          "children": {
+            "Vis d'arrachage, serrure d'allumage": {
+              "categoryId": 100766,
+              "categoryName": "Parts",
+              "level": 2,
+              "children": [],
+              "productId": 60986
+            }
+          }
+        },
+        "Cylindre de serrure / jeu": {
+          "categoryId": null,
+          "categoryName": "Cylindre de serrure / jeu",
+          "level": 2,
+          "children": {
+            "Boîtier de cylindre de serrure": {
+              "categoryId": 100690,
+              "categoryName": "Lock Barrel/Set",
+              "level": 2,
+              "children": [],
+              "productId": 1380
+            },
+            "Cylindre de fermeture, serrure de contact d'allumage": {
+              "categoryId": 100690,
+              "categoryName": "Lock Barrel/Set",
+              "level": 2,
+              "children": [],
+              "productId": 1782
+            },
+            "Cylindre de serrure": {
+              "categoryId": 100690,
+              "categoryName": "Lock Barrel/Set",
+              "level": 2,
+              "children": [],
+              "productId": 1378
+            },
+            "Jeu de cylindres de serrures": {
+              "categoryId": 100690,
+              "categoryName": "Lock Barrel/Set",
+              "level": 2,
+              "children": [],
+              "productId": 1379
+            },
+            "Kit rép. de câble, cylindre ferm. serrure de contact-démarr.": {
+              "categoryId": 100690,
+              "categoryName": "Lock Barrel/Set",
+              "level": 2,
+              "children": [],
+              "productId": 9876
+            },
+            "Vis d'arrachage, serrure d'allumage": {
+              "categoryId": 100690,
+              "categoryName": "Lock Barrel/Set",
+              "level": 2,
+              "children": [],
+              "productId": 60986
+            }
+          }
+        },
+        "Kit de verrous": {
+          "categoryId": null,
+          "categoryName": "Kit de verrous",
+          "level": 2,
+          "children": {
+            "Vis d'arrachage, serrure d'allumage": {
+              "categoryId": 100689,
+              "categoryName": "Lock Set",
+              "level": 2,
+              "children": [],
+              "productId": 60986
+            }
+          }
+        },
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Outillage de montage, serrure de porte/boîtier du cylindre": {
+              "categoryId": 103234,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4657
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carrosserie [ID: 100001] (Niveau 1)\n│   └── Outils (Niveau 2)\n│       └── Tools [ID: 103132] (Niveau 2) → ProductId: 4657\n\n├── Outils spéciaux [ID: 706365] (Niveau 1)\n│   └── Outils spéciaux carrosserie (Niveau 2)\n│       └── Body Special Tools [ID: 706366] (Niveau 2) → ProductId: 4657\n│           └── Verrouillage (Niveau 4)\n│               └── Locking System [ID: 706367] (Niveau 3) → ProductId: 4657\n\n└── Verrouillage [ID: 100685] (Niveau 1)\n    ├── Composants (Niveau 2)\n    │   └── Parts [ID: 100766] (Niveau 2) → ProductId: 60986\n    ├── Cylindre de serrure / jeu (Niveau 2)\n    │   ├── Lock Barrel/Set [ID: 100690] (Niveau 2) → ProductId: 1380\n    │   ├── Lock Barrel/Set [ID: 100690] (Niveau 2) → ProductId: 1782\n    │   ├── Lock Barrel/Set [ID: 100690] (Niveau 2) → ProductId: 1378\n    │   ├── Lock Barrel/Set [ID: 100690] (Niveau 2) → ProductId: 1379\n    │   ├── Lock Barrel/Set [ID: 100690] (Niveau 2) → ProductId: 9876\n    │   └── Lock Barrel/Set [ID: 100690] (Niveau 2) → ProductId: 60986\n    ├── Kit de verrous (Niveau 2)\n    │   └── Lock Set [ID: 100689] (Niveau 2) → ProductId: 60986\n    └── Outils (Niveau 2)\n        └── Tools [ID: 103234] (Niveau 2) → ProductId: 4657",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        103132
+      ],
+      "finalCategoryId": 103132,
+      "productId": 4657
+    },
+    {
+      "path": [
+        "Outils spéciaux",
+        "Outils spéciaux carrosserie",
+        "Body Special Tools"
+      ],
+      "categoryIds": [
+        706365,
+        null,
+        706366
+      ],
+      "finalCategoryId": 706366,
+      "productId": 4657
+    },
+    {
+      "path": [
+        "Verrouillage",
+        "Composants",
+        "Parts"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100766
+      ],
+      "finalCategoryId": 100766,
+      "productId": 60986
+    },
+    {
+      "path": [
+        "Verrouillage",
+        "Cylindre de serrure / jeu",
+        "Lock Barrel/Set"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100690
+      ],
+      "finalCategoryId": 100690,
+      "productId": 1380
+    },
+    {
+      "path": [
+        "Verrouillage",
+        "Cylindre de serrure / jeu",
+        "Lock Barrel/Set"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100690
+      ],
+      "finalCategoryId": 100690,
+      "productId": 1782
+    },
+    {
+      "path": [
+        "Verrouillage",
+        "Cylindre de serrure / jeu",
+        "Lock Barrel/Set"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100690
+      ],
+      "finalCategoryId": 100690,
+      "productId": 1378
+    },
+    {
+      "path": [
+        "Verrouillage",
+        "Cylindre de serrure / jeu",
+        "Lock Barrel/Set"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100690
+      ],
+      "finalCategoryId": 100690,
+      "productId": 1379
+    },
+    {
+      "path": [
+        "Verrouillage",
+        "Cylindre de serrure / jeu",
+        "Lock Barrel/Set"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100690
+      ],
+      "finalCategoryId": 100690,
+      "productId": 9876
+    },
+    {
+      "path": [
+        "Verrouillage",
+        "Cylindre de serrure / jeu",
+        "Lock Barrel/Set"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100690
+      ],
+      "finalCategoryId": 100690,
+      "productId": 60986
+    },
+    {
+      "path": [
+        "Verrouillage",
+        "Kit de verrous",
+        "Lock Set"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100689
+      ],
+      "finalCategoryId": 100689,
+      "productId": 60986
+    },
+    {
+      "path": [
+        "Verrouillage",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        103234
+      ],
+      "finalCategoryId": 103234,
+      "productId": 4657
+    }
+  ],
+  "productIdsInArbo": [
+    1378,
+    1379,
+    1380,
+    1782,
+    4657,
+    9876,
+    60986
+  ],
+  "matchedProductIds": [
+    1378
+  ]
+}

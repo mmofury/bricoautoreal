@@ -1,0 +1,64 @@
+{
+  "productName": "Joint, flasque- centrifugeuse",
+  "productId": 4324,
+  "searchText": "Joint, flasque- centrifugeuse",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Moteur": {
+          "categoryId": 200026,
+          "categoryName": "Moteur",
+          "level": 1,
+          "children": {
+            "Lubrification": {
+              "categoryId": null,
+              "categoryName": "Lubrification",
+              "level": 2,
+              "children": {
+                "Joint, flasque- centrifugeuse": {
+                  "categoryId": 200033,
+                  "categoryName": "Lubrication",
+                  "level": 2,
+                  "children": {
+                    "Centrifugeuse/-accessoires": {
+                      "categoryId": null,
+                      "categoryName": "Centrifugeuse/-accessoires",
+                      "level": 4,
+                      "children": {
+                        "Joint, flasque- centrifugeuse": {
+                          "categoryId": 203068,
+                          "categoryName": "Centrifugal Cleaner/-accessories",
+                          "level": 3,
+                          "children": [],
+                          "productId": 4324
+                        }
+                      }
+                    }
+                  },
+                  "productId": 4324
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Moteur [ID: 200026] (Niveau 1)\n    └── Lubrification (Niveau 2)\n        └── Lubrication [ID: 200033] (Niveau 2) → ProductId: 4324\n            └── Centrifugeuse/-accessoires (Niveau 4)\n                └── Centrifugal Cleaner/-accessories [ID: 203068] (Niveau 3) → ProductId: 4324",
+      "productIdsInArbo": [
+        4324
+      ],
+      "matchedProductIds": [
+        4324
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:39:24.719Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

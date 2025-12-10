@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "D8D92F",
+      "index": "VAL700447",
+      "tecDoc": "700447",
+      "tecDocProd": "21",
+      "articleNumber": "700447",
+      "brand": "VALEO",
+      "shortDescription": "EGR Module",
+      "description": "EGR valve (module with radiator) fits: SUZUKI GRAND VITARA II 1.9D 10.05-02.15",
+      "customsCode": "84818059",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1145",
+          "primary": false,
+          "name": {
+            "en": "EGR valve"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_4198",
+          "primary": true,
+          "name": {
+            "en": "EGR Module"
+          }
+        }
+      ]
+    }
+  ]
+}

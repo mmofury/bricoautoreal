@@ -1,0 +1,330 @@
+{
+  "productName": "Câble d'allumage",
+  "searchText": "Câble d'allumage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:29:16.873Z",
+  "productId": 684,
+  "arborescence": {
+    "Allumage / préchauffage": {
+      "categoryId": 100008,
+      "categoryName": "Allumage / préchauffage",
+      "level": 1,
+      "children": {
+        "Bobine/unite de bobine d'allumage": {
+          "categoryId": null,
+          "categoryName": "Bobine/unite de bobine d'allumage",
+          "level": 2,
+          "children": {
+            "Fiche, bobine d'allumage": {
+              "categoryId": 100150,
+              "categoryName": "Ignition Coil/Ignition Coil Unit",
+              "level": 2,
+              "children": [],
+              "productId": 698
+            }
+          }
+        },
+        "Raccords de câble d'allumage": {
+          "categoryId": null,
+          "categoryName": "Raccords de câble d'allumage",
+          "level": 2,
+          "children": {
+            "Bonnette protectrice, cosse de bougie d'allumage": {
+              "categoryId": 100153,
+              "categoryName": "Ignition Cable/Connecting Parts",
+              "level": 2,
+              "children": [],
+              "productId": 2288
+            },
+            "Câble d'allumage": {
+              "categoryId": 100153,
+              "categoryName": "Ignition Cable/Connecting Parts",
+              "level": 2,
+              "children": [],
+              "productId": 684
+            },
+            "Fiche, bobine d'allumage": {
+              "categoryId": 100153,
+              "categoryName": "Ignition Cable/Connecting Parts",
+              "level": 2,
+              "children": [],
+              "productId": 698
+            },
+            "Fiche, bougie d'allumage": {
+              "categoryId": 100153,
+              "categoryName": "Ignition Cable/Connecting Parts",
+              "level": 2,
+              "children": [],
+              "productId": 696
+            },
+            "Fiche, distributeur d'allumage": {
+              "categoryId": 100153,
+              "categoryName": "Ignition Cable/Connecting Parts",
+              "level": 2,
+              "children": [],
+              "productId": 695
+            },
+            "Fût de broche, câble d'allumage": {
+              "categoryId": 100153,
+              "categoryName": "Ignition Cable/Connecting Parts",
+              "level": 2,
+              "children": [],
+              "productId": 3970
+            },
+            "Joint d'étanchéité, tige de bougie": {
+              "categoryId": 100153,
+              "categoryName": "Ignition Cable/Connecting Parts",
+              "level": 2,
+              "children": [],
+              "productId": 1539
+            },
+            "Kit de câbles d'allumage": {
+              "categoryId": 100153,
+              "categoryName": "Ignition Cable/Connecting Parts",
+              "level": 2,
+              "children": [],
+              "productId": 685
+            },
+            "Kit réparation de câble, système d’allumage": {
+              "categoryId": 100153,
+              "categoryName": "Ignition Cable/Connecting Parts",
+              "level": 2,
+              "children": [],
+              "productId": 60083
+            },
+            "Manchon de fiche, système d'allumage": {
+              "categoryId": 100153,
+              "categoryName": "Ignition Cable/Connecting Parts",
+              "level": 2,
+              "children": [],
+              "productId": 918
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Culasse / pieces de montage": {
+          "categoryId": null,
+          "categoryName": "Culasse / pieces de montage",
+          "level": 2,
+          "children": {
+            "Joint d'étanchéité, tige de bougie": {
+              "categoryId": 100373,
+              "categoryName": "Cylinder Head/Attachment Parts",
+              "level": 2,
+              "children": {
+                "Cache-soupape": {
+                  "categoryId": null,
+                  "categoryName": "Cache-soupape",
+                  "level": 4,
+                  "children": {
+                    "Joint d'étanchéité, tige de bougie": {
+                      "categoryId": 100375,
+                      "categoryName": "Cylinder Head Cover/-Gasket",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1539
+                    }
+                  }
+                }
+              },
+              "productId": 1539
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Allumage / préchauffage [ID: 100008] (Niveau 1)\n│   ├── Bobine/unite de bobine d'allumage (Niveau 2)\n│   │   └── Ignition Coil/Ignition Coil Unit [ID: 100150] (Niveau 2) → ProductId: 698\n│   └── Raccords de câble d'allumage (Niveau 2)\n│       ├── Ignition Cable/Connecting Parts [ID: 100153] (Niveau 2) → ProductId: 2288\n│       ├── Ignition Cable/Connecting Parts [ID: 100153] (Niveau 2) → ProductId: 684\n│       ├── Ignition Cable/Connecting Parts [ID: 100153] (Niveau 2) → ProductId: 698\n│       ├── Ignition Cable/Connecting Parts [ID: 100153] (Niveau 2) → ProductId: 696\n│       ├── Ignition Cable/Connecting Parts [ID: 100153] (Niveau 2) → ProductId: 695\n│       ├── Ignition Cable/Connecting Parts [ID: 100153] (Niveau 2) → ProductId: 3970\n│       ├── Ignition Cable/Connecting Parts [ID: 100153] (Niveau 2) → ProductId: 1539\n│       ├── Ignition Cable/Connecting Parts [ID: 100153] (Niveau 2) → ProductId: 685\n│       ├── Ignition Cable/Connecting Parts [ID: 100153] (Niveau 2) → ProductId: 60083\n│       └── Ignition Cable/Connecting Parts [ID: 100153] (Niveau 2) → ProductId: 918\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Culasse / pieces de montage (Niveau 2)\n        └── Cylinder Head/Attachment Parts [ID: 100373] (Niveau 2) → ProductId: 1539\n            └── Cache-soupape (Niveau 4)\n                └── Cylinder Head Cover/-Gasket [ID: 100375] (Niveau 3) → ProductId: 1539",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Bobine/unite de bobine d'allumage",
+        "Ignition Coil/Ignition Coil Unit"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        100150
+      ],
+      "finalCategoryId": 100150,
+      "productId": 698
+    },
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Raccords de câble d'allumage",
+        "Ignition Cable/Connecting Parts"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        100153
+      ],
+      "finalCategoryId": 100153,
+      "productId": 2288
+    },
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Raccords de câble d'allumage",
+        "Ignition Cable/Connecting Parts"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        100153
+      ],
+      "finalCategoryId": 100153,
+      "productId": 684
+    },
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Raccords de câble d'allumage",
+        "Ignition Cable/Connecting Parts"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        100153
+      ],
+      "finalCategoryId": 100153,
+      "productId": 698
+    },
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Raccords de câble d'allumage",
+        "Ignition Cable/Connecting Parts"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        100153
+      ],
+      "finalCategoryId": 100153,
+      "productId": 696
+    },
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Raccords de câble d'allumage",
+        "Ignition Cable/Connecting Parts"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        100153
+      ],
+      "finalCategoryId": 100153,
+      "productId": 695
+    },
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Raccords de câble d'allumage",
+        "Ignition Cable/Connecting Parts"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        100153
+      ],
+      "finalCategoryId": 100153,
+      "productId": 3970
+    },
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Raccords de câble d'allumage",
+        "Ignition Cable/Connecting Parts"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        100153
+      ],
+      "finalCategoryId": 100153,
+      "productId": 1539
+    },
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Raccords de câble d'allumage",
+        "Ignition Cable/Connecting Parts"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        100153
+      ],
+      "finalCategoryId": 100153,
+      "productId": 685
+    },
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Raccords de câble d'allumage",
+        "Ignition Cable/Connecting Parts"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        100153
+      ],
+      "finalCategoryId": 100153,
+      "productId": 60083
+    },
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Raccords de câble d'allumage",
+        "Ignition Cable/Connecting Parts"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        100153
+      ],
+      "finalCategoryId": 100153,
+      "productId": 918
+    },
+    {
+      "path": [
+        "Moteur",
+        "Culasse / pieces de montage",
+        "Cylinder Head/Attachment Parts"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100373
+      ],
+      "finalCategoryId": 100373,
+      "productId": 1539
+    }
+  ],
+  "productIdsInArbo": [
+    684,
+    685,
+    695,
+    696,
+    698,
+    918,
+    1539,
+    2288,
+    3970,
+    60083
+  ],
+  "matchedProductIds": [
+    684
+  ]
+}

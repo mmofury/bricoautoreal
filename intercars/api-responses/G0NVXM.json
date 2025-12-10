@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G0NVXM",
+      "index": "8TF358 146-521",
+      "tecDoc": "8TF 358 146-521",
+      "tecDocProd": "2",
+      "articleNumber": "8TF 358 146-521",
+      "brand": "HELLA",
+      "shortDescription": "Fuel Feed Unit",
+      "description": "Fuel level sensor fits: CITROEN BERLINGO, BERLINGO/MINIVAN, XSARA PICASSO, PEUGEOT 206, PARTNER, PARTNER/MINIVAN 1.6D/1.9D/2.0D 06.96-12.15",
+      "customsCode": "90261029",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_605",
+          "primary": false,
+          "name": {
+            "en": "Sender Unit, fuel tank"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1382",
+          "primary": true,
+          "name": {
+            "en": "Fuel Feed Unit"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_8289",
+          "primary": false,
+          "name": {
+            "en": "Fuel Sender Unit"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Pressostat (basse pression), climatisation",
+  "searchText": "Pressostat (basse pression), climatisation",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:04:00.134Z",
+  "productId": 555,
+  "arborescence": {
+    "Climatisation": {
+      "categoryId": 100243,
+      "categoryName": "Climatisation",
+      "level": 1,
+      "children": {
+        "Interrupteur": {
+          "categoryId": null,
+          "categoryName": "Interrupteur",
+          "level": 2,
+          "children": {
+            "Pressostat (basse pression), climatisation": {
+              "categoryId": 100366,
+              "categoryName": "Switch",
+              "level": 2,
+              "children": [],
+              "productId": 555
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Climatisation [ID: 100243] (Niveau 1)\n    └── Interrupteur (Niveau 2)\n        └── Switch [ID: 100366] (Niveau 2) → ProductId: 555",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Climatisation",
+        "Interrupteur",
+        "Switch"
+      ],
+      "categoryIds": [
+        100243,
+        null,
+        100366
+      ],
+      "finalCategoryId": 100366,
+      "productId": 555
+    }
+  ],
+  "productIdsInArbo": [
+    555
+  ],
+  "matchedProductIds": [
+    555
+  ]
+}

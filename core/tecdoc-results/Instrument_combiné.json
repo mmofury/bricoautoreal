@@ -1,0 +1,228 @@
+{
+  "productName": "Instrument combiné",
+  "searchText": "Instrument combiné",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:46:06.218Z",
+  "productId": 445,
+  "arborescence": {
+    "Système d'information et de communication": {
+      "categoryId": 100339,
+      "categoryName": "Système d'information et de communication",
+      "level": 1,
+      "children": {
+        "Instruments": {
+          "categoryId": null,
+          "categoryName": "Instruments",
+          "level": 2,
+          "children": {
+            "boîtier intérieur, combiné d'instruments": {
+              "categoryId": 100693,
+              "categoryName": "Instruments",
+              "level": 2,
+              "children": [],
+              "productId": 60896
+            },
+            "Instrument combiné": {
+              "categoryId": 100693,
+              "categoryName": "Instruments",
+              "level": 2,
+              "children": [],
+              "productId": 445
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Instruments": {
+          "categoryId": null,
+          "categoryName": "Instruments",
+          "level": 2,
+          "children": {
+            "boîtier intérieur, combiné d'instruments": {
+              "categoryId": 100322,
+              "categoryName": "Instruments",
+              "level": 2,
+              "children": {
+                "Instruments indicateurs": {
+                  "categoryId": null,
+                  "categoryName": "Instruments indicateurs",
+                  "level": 4,
+                  "children": {
+                    "boîtier intérieur, combiné d'instruments": {
+                      "categoryId": 100555,
+                      "categoryName": "Gauges",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60896
+                    }
+                  }
+                }
+              },
+              "productId": 60896
+            },
+            "Instrument combiné": {
+              "categoryId": 100322,
+              "categoryName": "Instruments",
+              "level": 2,
+              "children": {
+                "Instruments indicateurs": {
+                  "categoryId": null,
+                  "categoryName": "Instruments indicateurs",
+                  "level": 4,
+                  "children": {
+                    "Instrument combiné": {
+                      "categoryId": 100555,
+                      "categoryName": "Gauges",
+                      "level": 3,
+                      "children": [],
+                      "productId": 445
+                    }
+                  }
+                }
+              },
+              "productId": 445
+            },
+            "Pré-résistance, combiné d'instruments": {
+              "categoryId": 100322,
+              "categoryName": "Instruments",
+              "level": 2,
+              "children": {
+                "Instruments indicateurs": {
+                  "categoryId": null,
+                  "categoryName": "Instruments indicateurs",
+                  "level": 4,
+                  "children": {
+                    "Pré-résistance, combiné d'instruments": {
+                      "categoryId": 100555,
+                      "categoryName": "Gauges",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1403
+                    }
+                  }
+                }
+              },
+              "productId": 1403
+            }
+          }
+        },
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Outil de démontage, combiné d'instruments": {
+              "categoryId": 103136,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4494
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Système d'information et de communication [ID: 100339] (Niveau 1)\n│   └── Instruments (Niveau 2)\n│       ├── Instruments [ID: 100693] (Niveau 2) → ProductId: 60896\n│       └── Instruments [ID: 100693] (Niveau 2) → ProductId: 445\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    ├── Instruments (Niveau 2)\n    │   ├── Instruments [ID: 100322] (Niveau 2) → ProductId: 60896\n    │   │   └── Instruments indicateurs (Niveau 4)\n    │   │       └── Gauges [ID: 100555] (Niveau 3) → ProductId: 60896\n    │   ├── Instruments [ID: 100322] (Niveau 2) → ProductId: 445\n    │   │   └── Instruments indicateurs (Niveau 4)\n    │   │       └── Gauges [ID: 100555] (Niveau 3) → ProductId: 445\n    │   └── Instruments [ID: 100322] (Niveau 2) → ProductId: 1403\n    │       └── Instruments indicateurs (Niveau 4)\n    │           └── Gauges [ID: 100555] (Niveau 3) → ProductId: 1403\n    └── Outils (Niveau 2)\n        └── Tools [ID: 103136] (Niveau 2) → ProductId: 4494",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système d'information et de communication",
+        "Instruments",
+        "Instruments"
+      ],
+      "categoryIds": [
+        100339,
+        null,
+        100693
+      ],
+      "finalCategoryId": 100693,
+      "productId": 60896
+    },
+    {
+      "path": [
+        "Système d'information et de communication",
+        "Instruments",
+        "Instruments"
+      ],
+      "categoryIds": [
+        100339,
+        null,
+        100693
+      ],
+      "finalCategoryId": 100693,
+      "productId": 445
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Instruments",
+        "Instruments"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100322
+      ],
+      "finalCategoryId": 100322,
+      "productId": 60896
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Instruments",
+        "Instruments"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100322
+      ],
+      "finalCategoryId": 100322,
+      "productId": 445
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Instruments",
+        "Instruments"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100322
+      ],
+      "finalCategoryId": 100322,
+      "productId": 1403
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        103136
+      ],
+      "finalCategoryId": 103136,
+      "productId": 4494
+    }
+  ],
+  "productIdsInArbo": [
+    445,
+    1403,
+    4494,
+    60896
+  ],
+  "matchedProductIds": [
+    445
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G10TQO",
+      "index": "MD301073",
+      "tecDoc": "301073",
+      "tecDocProd": "244",
+      "articleNumber": "301073",
+      "brand": "MEAT & DORIA",
+      "shortDescription": "Gas Spring, tray (boot/cargo bay)",
+      "description": "Electric motor for boot lid L (for vehicles with automatic boot opening) fits: BMW X5 (F15, F85) 2.0-4.4 08.13-07.18",
+      "gtuCode": "GTU_07",
+      "packageWeight": "1,350",
+      "customsCode": "87082990",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_5029",
+          "primary": true,
+          "name": {
+            "en": "Gas Spring, tray (boot/cargo bay)"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_7413",
+          "primary": false,
+          "name": {
+            "en": "Electric Motor, tailgate"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1353 @@
+{
+  "productName": "Filtre à air",
+  "searchText": "Filtre à air",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:39:34.254Z",
+  "productId": 8,
+  "arborescence": {
+    "Chauffage / Ventilation": {
+      "categoryId": 100241,
+      "categoryName": "Chauffage / Ventilation",
+      "level": 1,
+      "children": {
+        "Filtre d'habitacle": {
+          "categoryId": null,
+          "categoryName": "Filtre d'habitacle",
+          "level": 2,
+          "children": {
+            "Evacutaion des eaux, boitier du filtre à air (habitacle)": {
+              "categoryId": 100346,
+              "categoryName": "Cabin Air Filter",
+              "level": 2,
+              "children": [],
+              "productId": 3870
+            },
+            "Filtre, air de l'habitacle": {
+              "categoryId": 100346,
+              "categoryName": "Cabin Air Filter",
+              "level": 2,
+              "children": [],
+              "productId": 424
+            },
+            "Kit de filtres, air d’habitacle": {
+              "categoryId": 100346,
+              "categoryName": "Cabin Air Filter",
+              "level": 2,
+              "children": [],
+              "productId": 8175
+            }
+          }
+        }
+      }
+    },
+    "Échappement": {
+      "categoryId": 100004,
+      "categoryName": "Échappement",
+      "level": 1,
+      "children": {
+        "Turbocompresseur": {
+          "categoryId": null,
+          "categoryName": "Turbocompresseur",
+          "level": 2,
+          "children": {
+            "Filtre à air, transducteur de pression (turbocompresseur)": {
+              "categoryId": 100872,
+              "categoryName": "Charger",
+              "level": 2,
+              "children": [],
+              "productId": 60787
+            }
+          }
+        }
+      }
+    },
+    "Entraînement hybride/électrique": {
+      "categoryId": 706209,
+      "categoryName": "Entraînement hybride/électrique",
+      "level": 1,
+      "children": {
+        "Refroidissement": {
+          "categoryId": null,
+          "categoryName": "Refroidissement",
+          "level": 2,
+          "children": {
+            "Filtre à air, boîtier de batterie d’entraînement": {
+              "categoryId": 706210,
+              "categoryName": "Cooling System",
+              "level": 2,
+              "children": {
+                "Filtre pour batterie d’entraînement": {
+                  "categoryId": null,
+                  "categoryName": "Filtre pour batterie d’entraînement",
+                  "level": 4,
+                  "children": {
+                    "Filtre à air, boîtier de batterie d’entraînement": {
+                      "categoryId": 706695,
+                      "categoryName": "Filter for traction battery",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60552
+                    }
+                  }
+                }
+              },
+              "productId": 60552
+            }
+          }
+        }
+      }
+    },
+    "Filtre": {
+      "categoryId": 100005,
+      "categoryName": "Filtre",
+      "level": 1,
+      "children": {
+        "Filtre à air": {
+          "categoryId": null,
+          "categoryName": "Filtre à air",
+          "level": 2,
+          "children": {
+            "Filtre à air": {
+              "categoryId": 100260,
+              "categoryName": "Air Filter",
+              "level": 2,
+              "children": [],
+              "productId": 8
+            },
+            "Filtre à air secondaire": {
+              "categoryId": 100260,
+              "categoryName": "Air Filter",
+              "level": 2,
+              "children": [],
+              "productId": 2470
+            },
+            "Filtre à air sport": {
+              "categoryId": 100260,
+              "categoryName": "Air Filter",
+              "level": 2,
+              "children": [],
+              "productId": 3883
+            },
+            "Filtre à air, compresseur-air d'admission": {
+              "categoryId": 100260,
+              "categoryName": "Air Filter",
+              "level": 2,
+              "children": [],
+              "productId": 1156
+            },
+            "Kit de filtres à air": {
+              "categoryId": 100260,
+              "categoryName": "Air Filter",
+              "level": 2,
+              "children": [],
+              "productId": 8174
+            },
+            "Système de filtres à air sport": {
+              "categoryId": 100260,
+              "categoryName": "Air Filter",
+              "level": 2,
+              "children": [],
+              "productId": 3884
+            },
+            "Vanne d’éjection de poussière, filtre à air": {
+              "categoryId": 100260,
+              "categoryName": "Air Filter",
+              "level": 2,
+              "children": [],
+              "productId": 60193
+            }
+          }
+        },
+        "Filtre à air pour habitacle": {
+          "categoryId": null,
+          "categoryName": "Filtre à air pour habitacle",
+          "level": 2,
+          "children": {
+            "Filtre, air de l'habitacle": {
+              "categoryId": 100263,
+              "categoryName": "Cabin Air Filter",
+              "level": 2,
+              "children": [],
+              "productId": 424
+            },
+            "Kit de filtres, air d’habitacle": {
+              "categoryId": 100263,
+              "categoryName": "Cabin Air Filter",
+              "level": 2,
+              "children": [],
+              "productId": 8175
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Alimentation en air": {
+          "categoryId": null,
+          "categoryName": "Alimentation en air",
+          "level": 2,
+          "children": {
+            "Affichage, saturation du filtre à air": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Filtre à air / carter": {
+                  "categoryId": null,
+                  "categoryName": "Filtre à air / carter",
+                  "level": 4,
+                  "children": {
+                    "Affichage, saturation du filtre à air": {
+                      "categoryId": 100384,
+                      "categoryName": "Air Filter/ Housing",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60158
+                    }
+                  }
+                }
+              },
+              "productId": 60158
+            },
+            "Boîte, filtre à air": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Filtre à air / carter": {
+                  "categoryId": null,
+                  "categoryName": "Filtre à air / carter",
+                  "level": 4,
+                  "children": {
+                    "Boîte, filtre à air": {
+                      "categoryId": 100384,
+                      "categoryName": "Air Filter/ Housing",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8147
+                    }
+                  }
+                }
+              },
+              "productId": 8147
+            },
+            "Butée élastique, filtre à air": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Filtre à air / carter": {
+                  "categoryId": null,
+                  "categoryName": "Filtre à air / carter",
+                  "level": 4,
+                  "children": {
+                    "Butée élastique, filtre à air": {
+                      "categoryId": 100384,
+                      "categoryName": "Air Filter/ Housing",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1710
+                    }
+                  }
+                }
+              },
+              "productId": 1710
+            },
+            "Canalisation d’air": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Filtre à air / carter": {
+                  "categoryId": null,
+                  "categoryName": "Filtre à air / carter",
+                  "level": 4,
+                  "children": {
+                    "Canalisation d’air": {
+                      "categoryId": 100384,
+                      "categoryName": "Air Filter/ Housing",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8747
+                    }
+                  }
+                },
+                "Flexibles/Conduites": {
+                  "categoryId": null,
+                  "categoryName": "Flexibles/Conduites",
+                  "level": 4,
+                  "children": {
+                    "Canalisation d’air": {
+                      "categoryId": 102235,
+                      "categoryName": "Radiator Hoses",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8747
+                    }
+                  }
+                }
+              },
+              "productId": 8747
+            },
+            "Capteur, saturation du filtre à air": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Filtre à air / carter": {
+                  "categoryId": null,
+                  "categoryName": "Filtre à air / carter",
+                  "level": 4,
+                  "children": {
+                    "Capteur, saturation du filtre à air": {
+                      "categoryId": 100384,
+                      "categoryName": "Air Filter/ Housing",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60848
+                    }
+                  }
+                }
+              },
+              "productId": 60848
+            },
+            "Couvercle du boitier du filtre à air": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Filtre à air / carter": {
+                  "categoryId": null,
+                  "categoryName": "Filtre à air / carter",
+                  "level": 4,
+                  "children": {
+                    "Couvercle du boitier du filtre à air": {
+                      "categoryId": 100384,
+                      "categoryName": "Air Filter/ Housing",
+                      "level": 3,
+                      "children": [],
+                      "productId": 5053
+                    }
+                  }
+                }
+              },
+              "productId": 5053
+            },
+            "Filtre à air": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Filtre à air / carter": {
+                  "categoryId": null,
+                  "categoryName": "Filtre à air / carter",
+                  "level": 4,
+                  "children": {
+                    "Filtre à air": {
+                      "categoryId": 100384,
+                      "categoryName": "Air Filter/ Housing",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8
+                    }
+                  }
+                }
+              },
+              "productId": 8
+            },
+            "Filtre à air secondaire": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Filtre à air / carter": {
+                  "categoryId": null,
+                  "categoryName": "Filtre à air / carter",
+                  "level": 4,
+                  "children": {
+                    "Filtre à air secondaire": {
+                      "categoryId": 100384,
+                      "categoryName": "Air Filter/ Housing",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2470
+                    }
+                  }
+                }
+              },
+              "productId": 2470
+            },
+            "Filtre à air sport": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Filtre à air / carter": {
+                  "categoryId": null,
+                  "categoryName": "Filtre à air / carter",
+                  "level": 4,
+                  "children": {
+                    "Filtre à air sport": {
+                      "categoryId": 100384,
+                      "categoryName": "Air Filter/ Housing",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3883
+                    }
+                  }
+                }
+              },
+              "productId": 3883
+            },
+            "Filtre à air, transducteur de pression (turbocompresseur)": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Suralimentation": {
+                  "categoryId": null,
+                  "categoryName": "Suralimentation",
+                  "level": 4,
+                  "children": {
+                    "Filtre à air, transducteur de pression (turbocompresseur)": {
+                      "categoryId": 100390,
+                      "categoryName": "Charging (supercharged/turbocharged)",
+                      "level": 3,
+                      "children": {
+                        "Compresseur/composants": {
+                          "categoryId": null,
+                          "categoryName": "Compresseur/composants",
+                          "level": 6,
+                          "children": {
+                            "Filtre à air, transducteur de pression (turbocompresseur)": {
+                              "categoryId": 100391,
+                              "categoryName": "Charger/-parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 60787
+                            }
+                          }
+                        }
+                      },
+                      "productId": 60787
+                    }
+                  }
+                }
+              },
+              "productId": 60787
+            },
+            "Grille, conduit d'air d'admission": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Filtre à air / carter": {
+                  "categoryId": null,
+                  "categoryName": "Filtre à air / carter",
+                  "level": 4,
+                  "children": {
+                    "Grille, conduit d'air d'admission": {
+                      "categoryId": 100384,
+                      "categoryName": "Air Filter/ Housing",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60987
+                    }
+                  }
+                },
+                "Flexibles/Conduites": {
+                  "categoryId": null,
+                  "categoryName": "Flexibles/Conduites",
+                  "level": 4,
+                  "children": {
+                    "Grille, conduit d'air d'admission": {
+                      "categoryId": 102235,
+                      "categoryName": "Radiator Hoses",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60987
+                    }
+                  }
+                }
+              },
+              "productId": 60987
+            },
+            "Joint torique, tuyau d'aspiration-boitier du filtre à air": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Filtre à air / carter": {
+                  "categoryId": null,
+                  "categoryName": "Filtre à air / carter",
+                  "level": 4,
+                  "children": {
+                    "Joint torique, tuyau d'aspiration-boitier du filtre à air": {
+                      "categoryId": 100384,
+                      "categoryName": "Air Filter/ Housing",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4136
+                    }
+                  }
+                }
+              },
+              "productId": 4136
+            },
+            "Joint, boîtier de filtre à air": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Filtre à air / carter": {
+                  "categoryId": null,
+                  "categoryName": "Filtre à air / carter",
+                  "level": 4,
+                  "children": {
+                    "Joint, boîtier de filtre à air": {
+                      "categoryId": 100384,
+                      "categoryName": "Air Filter/ Housing",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3479
+                    }
+                  }
+                }
+              },
+              "productId": 3479
+            },
+            "Kit de filtres à air": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Filtre à air / carter": {
+                  "categoryId": null,
+                  "categoryName": "Filtre à air / carter",
+                  "level": 4,
+                  "children": {
+                    "Kit de filtres à air": {
+                      "categoryId": 100384,
+                      "categoryName": "Air Filter/ Housing",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8174
+                    }
+                  }
+                }
+              },
+              "productId": 8174
+            },
+            "Raccord, tuyau d'aspiration (filtre à air)": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Filtre à air / carter": {
+                  "categoryId": null,
+                  "categoryName": "Filtre à air / carter",
+                  "level": 4,
+                  "children": {
+                    "Raccord, tuyau d'aspiration (filtre à air)": {
+                      "categoryId": 100384,
+                      "categoryName": "Air Filter/ Housing",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60734
+                    }
+                  }
+                }
+              },
+              "productId": 60734
+            },
+            "Support, boîtier de filtre à air": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Filtre à air / carter": {
+                  "categoryId": null,
+                  "categoryName": "Filtre à air / carter",
+                  "level": 4,
+                  "children": {
+                    "Support, boîtier de filtre à air": {
+                      "categoryId": 100384,
+                      "categoryName": "Air Filter/ Housing",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3358
+                    }
+                  }
+                }
+              },
+              "productId": 3358
+            },
+            "Système de filtres à air sport": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Filtre à air / carter": {
+                  "categoryId": null,
+                  "categoryName": "Filtre à air / carter",
+                  "level": 4,
+                  "children": {
+                    "Système de filtres à air sport": {
+                      "categoryId": 100384,
+                      "categoryName": "Air Filter/ Housing",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3884
+                    }
+                  }
+                }
+              },
+              "productId": 3884
+            },
+            "Tuyau d'aspiration, alimentation d'air": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Filtre à air / carter": {
+                  "categoryId": null,
+                  "categoryName": "Filtre à air / carter",
+                  "level": 4,
+                  "children": {
+                    "Tuyau d'aspiration, alimentation d'air": {
+                      "categoryId": 100384,
+                      "categoryName": "Air Filter/ Housing",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1591
+                    }
+                  }
+                }
+              },
+              "productId": 1591
+            },
+            "Vanne d’éjection de poussière, filtre à air": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Filtre à air / carter": {
+                  "categoryId": null,
+                  "categoryName": "Filtre à air / carter",
+                  "level": 4,
+                  "children": {
+                    "Vanne d’éjection de poussière, filtre à air": {
+                      "categoryId": 100384,
+                      "categoryName": "Air Filter/ Housing",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60193
+                    }
+                  }
+                }
+              },
+              "productId": 60193
+            }
+          }
+        },
+        "Lubrification": {
+          "categoryId": null,
+          "categoryName": "Lubrification",
+          "level": 2,
+          "children": {
+            "Huile moteur": {
+              "categoryId": 100245,
+              "categoryName": "Lubrication",
+              "level": 2,
+              "children": {
+                "Huiles": {
+                  "categoryId": null,
+                  "categoryName": "Huiles",
+                  "level": 4,
+                  "children": {
+                    "Huile moteur": {
+                      "categoryId": 101994,
+                      "categoryName": "Oil",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3224
+                    }
+                  }
+                }
+              },
+              "productId": 3224
+            }
+          }
+        }
+      }
+    },
+    "Pièces de maintenance": {
+      "categoryId": 100019,
+      "categoryName": "Pièces de maintenance",
+      "level": 1,
+      "children": {
+        "Intervalle": {
+          "categoryId": null,
+          "categoryName": "Intervalle",
+          "level": 2,
+          "children": {
+            "Filtre à air": {
+              "categoryId": 100597,
+              "categoryName": "Service Intervals",
+              "level": 2,
+              "children": [],
+              "productId": 8
+            },
+            "Filtre, air de l'habitacle": {
+              "categoryId": 100597,
+              "categoryName": "Service Intervals",
+              "level": 2,
+              "children": [],
+              "productId": 424
+            },
+            "Huile moteur": {
+              "categoryId": 100597,
+              "categoryName": "Service Intervals",
+              "level": 2,
+              "children": [],
+              "productId": 3224
+            },
+            "Kit de filtres à air": {
+              "categoryId": 100597,
+              "categoryName": "Service Intervals",
+              "level": 2,
+              "children": [],
+              "productId": 8174
+            },
+            "Kit de filtres, air d’habitacle": {
+              "categoryId": 100597,
+              "categoryName": "Service Intervals",
+              "level": 2,
+              "children": [],
+              "productId": 8175
+            }
+          }
+        }
+      }
+    },
+    "Suspension/Amortissement": {
+      "categoryId": 100011,
+      "categoryName": "Suspension/Amortissement",
+      "level": 1,
+      "children": {
+        "Suspension pneumatique": {
+          "categoryId": null,
+          "categoryName": "Suspension pneumatique",
+          "level": 2,
+          "children": {
+            "Filtre à air, compresseur-air d'admission": {
+              "categoryId": 101884,
+              "categoryName": "Air Suspension",
+              "level": 2,
+              "children": [],
+              "productId": 1156
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Chauffage / Ventilation [ID: 100241] (Niveau 1)\n│   └── Filtre d'habitacle (Niveau 2)\n│       ├── Cabin Air Filter [ID: 100346] (Niveau 2) → ProductId: 3870\n│       ├── Cabin Air Filter [ID: 100346] (Niveau 2) → ProductId: 424\n│       └── Cabin Air Filter [ID: 100346] (Niveau 2) → ProductId: 8175\n\n├── Échappement [ID: 100004] (Niveau 1)\n│   └── Turbocompresseur (Niveau 2)\n│       └── Charger [ID: 100872] (Niveau 2) → ProductId: 60787\n\n├── Entraînement hybride/électrique [ID: 706209] (Niveau 1)\n│   └── Refroidissement (Niveau 2)\n│       └── Cooling System [ID: 706210] (Niveau 2) → ProductId: 60552\n│           └── Filtre pour batterie d’entraînement (Niveau 4)\n│               └── Filter for traction battery [ID: 706695] (Niveau 3) → ProductId: 60552\n\n├── Filtre [ID: 100005] (Niveau 1)\n│   ├── Filtre à air (Niveau 2)\n│   │   ├── Air Filter [ID: 100260] (Niveau 2) → ProductId: 8\n│   │   ├── Air Filter [ID: 100260] (Niveau 2) → ProductId: 2470\n│   │   ├── Air Filter [ID: 100260] (Niveau 2) → ProductId: 3883\n│   │   ├── Air Filter [ID: 100260] (Niveau 2) → ProductId: 1156\n│   │   ├── Air Filter [ID: 100260] (Niveau 2) → ProductId: 8174\n│   │   ├── Air Filter [ID: 100260] (Niveau 2) → ProductId: 3884\n│   │   └── Air Filter [ID: 100260] (Niveau 2) → ProductId: 60193\n│   └── Filtre à air pour habitacle (Niveau 2)\n│       ├── Cabin Air Filter [ID: 100263] (Niveau 2) → ProductId: 424\n│       └── Cabin Air Filter [ID: 100263] (Niveau 2) → ProductId: 8175\n\n├── Moteur [ID: 100002] (Niveau 1)\n│   ├── Alimentation en air (Niveau 2)\n│   │   ├── Air Supply [ID: 100383] (Niveau 2) → ProductId: 60158\n│   │   │   └── Filtre à air / carter (Niveau 4)\n│   │   │       └── Air Filter/ Housing [ID: 100384] (Niveau 3) → ProductId: 60158\n│   │   ├── Air Supply [ID: 100383] (Niveau 2) → ProductId: 8147\n│   │   │   └── Filtre à air / carter (Niveau 4)\n│   │   │       └── Air Filter/ Housing [ID: 100384] (Niveau 3) → ProductId: 8147\n│   │   ├── Air Supply [ID: 100383] (Niveau 2) → ProductId: 1710\n│   │   │   └── Filtre à air / carter (Niveau 4)\n│   │   │       └── Air Filter/ Housing [ID: 100384] (Niveau 3) → ProductId: 1710\n│   │   ├── Air Supply [ID: 100383] (Niveau 2) → ProductId: 8747\n│   │   │   ├── Filtre à air / carter (Niveau 4)\n│   │   │   │   └── Air Filter/ Housing [ID: 100384] (Niveau 3) → ProductId: 8747\n│   │   │   └── Flexibles/Conduites (Niveau 4)\n│   │   │       └── Radiator Hoses [ID: 102235] (Niveau 3) → ProductId: 8747\n│   │   ├── Air Supply [ID: 100383] (Niveau 2) → ProductId: 60848\n│   │   │   └── Filtre à air / carter (Niveau 4)\n│   │   │       └── Air Filter/ Housing [ID: 100384] (Niveau 3) → ProductId: 60848\n│   │   ├── Air Supply [ID: 100383] (Niveau 2) → ProductId: 5053\n│   │   │   └── Filtre à air / carter (Niveau 4)\n│   │   │       └── Air Filter/ Housing [ID: 100384] (Niveau 3) → ProductId: 5053\n│   │   ├── Air Supply [ID: 100383] (Niveau 2) → ProductId: 8\n│   │   │   └── Filtre à air / carter (Niveau 4)\n│   │   │       └── Air Filter/ Housing [ID: 100384] (Niveau 3) → ProductId: 8\n│   │   ├── Air Supply [ID: 100383] (Niveau 2) → ProductId: 2470\n│   │   │   └── Filtre à air / carter (Niveau 4)\n│   │   │       └── Air Filter/ Housing [ID: 100384] (Niveau 3) → ProductId: 2470\n│   │   ├── Air Supply [ID: 100383] (Niveau 2) → ProductId: 3883\n│   │   │   └── Filtre à air / carter (Niveau 4)\n│   │   │       └── Air Filter/ Housing [ID: 100384] (Niveau 3) → ProductId: 3883\n│   │   ├── Air Supply [ID: 100383] (Niveau 2) → ProductId: 60787\n│   │   │   └── Suralimentation (Niveau 4)\n│   │   │       └── Charging (supercharged/turbocharged) [ID: 100390] (Niveau 3) → ProductId: 60787\n│   │   │           └── Compresseur/composants (Niveau 6)\n│   │   │               └── Charger/-parts [ID: 100391] (Niveau 4) → ProductId: 60787\n│   │   ├── Air Supply [ID: 100383] (Niveau 2) → ProductId: 60987\n│   │   │   ├── Filtre à air / carter (Niveau 4)\n│   │   │   │   └── Air Filter/ Housing [ID: 100384] (Niveau 3) → ProductId: 60987\n│   │   │   └── Flexibles/Conduites (Niveau 4)\n│   │   │       └── Radiator Hoses [ID: 102235] (Niveau 3) → ProductId: 60987\n│   │   ├── Air Supply [ID: 100383] (Niveau 2) → ProductId: 4136\n│   │   │   └── Filtre à air / carter (Niveau 4)\n│   │   │       └── Air Filter/ Housing [ID: 100384] (Niveau 3) → ProductId: 4136\n│   │   ├── Air Supply [ID: 100383] (Niveau 2) → ProductId: 3479\n│   │   │   └── Filtre à air / carter (Niveau 4)\n│   │   │       └── Air Filter/ Housing [ID: 100384] (Niveau 3) → ProductId: 3479\n│   │   ├── Air Supply [ID: 100383] (Niveau 2) → ProductId: 8174\n│   │   │   └── Filtre à air / carter (Niveau 4)\n│   │   │       └── Air Filter/ Housing [ID: 100384] (Niveau 3) → ProductId: 8174\n│   │   ├── Air Supply [ID: 100383] (Niveau 2) → ProductId: 60734\n│   │   │   └── Filtre à air / carter (Niveau 4)\n│   │   │       └── Air Filter/ Housing [ID: 100384] (Niveau 3) → ProductId: 60734\n│   │   ├── Air Supply [ID: 100383] (Niveau 2) → ProductId: 3358\n│   │   │   └── Filtre à air / carter (Niveau 4)\n│   │   │       └── Air Filter/ Housing [ID: 100384] (Niveau 3) → ProductId: 3358\n│   │   ├── Air Supply [ID: 100383] (Niveau 2) → ProductId: 3884\n│   │   │   └── Filtre à air / carter (Niveau 4)\n│   │   │       └── Air Filter/ Housing [ID: 100384] (Niveau 3) → ProductId: 3884\n│   │   ├── Air Supply [ID: 100383] (Niveau 2) → ProductId: 1591\n│   │   │   └── Filtre à air / carter (Niveau 4)\n│   │   │       └── Air Filter/ Housing [ID: 100384] (Niveau 3) → ProductId: 1591\n│   │   └── Air Supply [ID: 100383] (Niveau 2) → ProductId: 60193\n│   │       └── Filtre à air / carter (Niveau 4)\n│   │           └── Air Filter/ Housing [ID: 100384] (Niveau 3) → ProductId: 60193\n│   └── Lubrification (Niveau 2)\n│       └── Lubrication [ID: 100245] (Niveau 2) → ProductId: 3224\n│           └── Huiles (Niveau 4)\n│               └── Oil [ID: 101994] (Niveau 3) → ProductId: 3224\n\n├── Pièces de maintenance [ID: 100019] (Niveau 1)\n│   └── Intervalle (Niveau 2)\n│       ├── Service Intervals [ID: 100597] (Niveau 2) → ProductId: 8\n│       ├── Service Intervals [ID: 100597] (Niveau 2) → ProductId: 424\n│       ├── Service Intervals [ID: 100597] (Niveau 2) → ProductId: 3224\n│       ├── Service Intervals [ID: 100597] (Niveau 2) → ProductId: 8174\n│       └── Service Intervals [ID: 100597] (Niveau 2) → ProductId: 8175\n\n└── Suspension/Amortissement [ID: 100011] (Niveau 1)\n    └── Suspension pneumatique (Niveau 2)\n        └── Air Suspension [ID: 101884] (Niveau 2) → ProductId: 1156",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Chauffage / Ventilation",
+        "Filtre d'habitacle",
+        "Cabin Air Filter"
+      ],
+      "categoryIds": [
+        100241,
+        null,
+        100346
+      ],
+      "finalCategoryId": 100346,
+      "productId": 3870
+    },
+    {
+      "path": [
+        "Chauffage / Ventilation",
+        "Filtre d'habitacle",
+        "Cabin Air Filter"
+      ],
+      "categoryIds": [
+        100241,
+        null,
+        100346
+      ],
+      "finalCategoryId": 100346,
+      "productId": 424
+    },
+    {
+      "path": [
+        "Chauffage / Ventilation",
+        "Filtre d'habitacle",
+        "Cabin Air Filter"
+      ],
+      "categoryIds": [
+        100241,
+        null,
+        100346
+      ],
+      "finalCategoryId": 100346,
+      "productId": 8175
+    },
+    {
+      "path": [
+        "Échappement",
+        "Turbocompresseur",
+        "Charger"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100872
+      ],
+      "finalCategoryId": 100872,
+      "productId": 60787
+    },
+    {
+      "path": [
+        "Entraînement hybride/électrique",
+        "Refroidissement",
+        "Cooling System"
+      ],
+      "categoryIds": [
+        706209,
+        null,
+        706210
+      ],
+      "finalCategoryId": 706210,
+      "productId": 60552
+    },
+    {
+      "path": [
+        "Filtre",
+        "Filtre à air",
+        "Air Filter"
+      ],
+      "categoryIds": [
+        100005,
+        null,
+        100260
+      ],
+      "finalCategoryId": 100260,
+      "productId": 8
+    },
+    {
+      "path": [
+        "Filtre",
+        "Filtre à air",
+        "Air Filter"
+      ],
+      "categoryIds": [
+        100005,
+        null,
+        100260
+      ],
+      "finalCategoryId": 100260,
+      "productId": 2470
+    },
+    {
+      "path": [
+        "Filtre",
+        "Filtre à air",
+        "Air Filter"
+      ],
+      "categoryIds": [
+        100005,
+        null,
+        100260
+      ],
+      "finalCategoryId": 100260,
+      "productId": 3883
+    },
+    {
+      "path": [
+        "Filtre",
+        "Filtre à air",
+        "Air Filter"
+      ],
+      "categoryIds": [
+        100005,
+        null,
+        100260
+      ],
+      "finalCategoryId": 100260,
+      "productId": 1156
+    },
+    {
+      "path": [
+        "Filtre",
+        "Filtre à air",
+        "Air Filter"
+      ],
+      "categoryIds": [
+        100005,
+        null,
+        100260
+      ],
+      "finalCategoryId": 100260,
+      "productId": 8174
+    },
+    {
+      "path": [
+        "Filtre",
+        "Filtre à air",
+        "Air Filter"
+      ],
+      "categoryIds": [
+        100005,
+        null,
+        100260
+      ],
+      "finalCategoryId": 100260,
+      "productId": 3884
+    },
+    {
+      "path": [
+        "Filtre",
+        "Filtre à air",
+        "Air Filter"
+      ],
+      "categoryIds": [
+        100005,
+        null,
+        100260
+      ],
+      "finalCategoryId": 100260,
+      "productId": 60193
+    },
+    {
+      "path": [
+        "Filtre",
+        "Filtre à air pour habitacle",
+        "Cabin Air Filter"
+      ],
+      "categoryIds": [
+        100005,
+        null,
+        100263
+      ],
+      "finalCategoryId": 100263,
+      "productId": 424
+    },
+    {
+      "path": [
+        "Filtre",
+        "Filtre à air pour habitacle",
+        "Cabin Air Filter"
+      ],
+      "categoryIds": [
+        100005,
+        null,
+        100263
+      ],
+      "finalCategoryId": 100263,
+      "productId": 8175
+    },
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 60158
+    },
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 8147
+    },
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 1710
+    },
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 8747
+    },
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 60848
+    },
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 5053
+    },
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 8
+    },
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 2470
+    },
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 3883
+    },
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 60787
+    },
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 60987
+    },
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 4136
+    },
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 3479
+    },
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 8174
+    },
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 60734
+    },
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 3358
+    },
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 3884
+    },
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 1591
+    },
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 60193
+    },
+    {
+      "path": [
+        "Moteur",
+        "Lubrification",
+        "Lubrication"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100245
+      ],
+      "finalCategoryId": 100245,
+      "productId": 3224
+    },
+    {
+      "path": [
+        "Pièces de maintenance",
+        "Intervalle",
+        "Service Intervals"
+      ],
+      "categoryIds": [
+        100019,
+        null,
+        100597
+      ],
+      "finalCategoryId": 100597,
+      "productId": 8
+    },
+    {
+      "path": [
+        "Pièces de maintenance",
+        "Intervalle",
+        "Service Intervals"
+      ],
+      "categoryIds": [
+        100019,
+        null,
+        100597
+      ],
+      "finalCategoryId": 100597,
+      "productId": 424
+    },
+    {
+      "path": [
+        "Pièces de maintenance",
+        "Intervalle",
+        "Service Intervals"
+      ],
+      "categoryIds": [
+        100019,
+        null,
+        100597
+      ],
+      "finalCategoryId": 100597,
+      "productId": 3224
+    },
+    {
+      "path": [
+        "Pièces de maintenance",
+        "Intervalle",
+        "Service Intervals"
+      ],
+      "categoryIds": [
+        100019,
+        null,
+        100597
+      ],
+      "finalCategoryId": 100597,
+      "productId": 8174
+    },
+    {
+      "path": [
+        "Pièces de maintenance",
+        "Intervalle",
+        "Service Intervals"
+      ],
+      "categoryIds": [
+        100019,
+        null,
+        100597
+      ],
+      "finalCategoryId": 100597,
+      "productId": 8175
+    },
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Suspension pneumatique",
+        "Air Suspension"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        101884
+      ],
+      "finalCategoryId": 101884,
+      "productId": 1156
+    }
+  ],
+  "productIdsInArbo": [
+    8,
+    424,
+    1156,
+    1591,
+    1710,
+    2470,
+    3224,
+    3358,
+    3479,
+    3870,
+    3883,
+    3884,
+    4136,
+    5053,
+    8147,
+    8174,
+    8175,
+    8747,
+    60158,
+    60193,
+    60552,
+    60734,
+    60787,
+    60848,
+    60987
+  ],
+  "matchedProductIds": [
+    8
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Jeu de bagues d’étanchéité, différentiel",
+  "searchText": "Jeu de bagues d’étanchéité, différentiel",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:48:40.747Z",
+  "productId": 60551,
+  "arborescence": {
+    "Entraînement des essieux": {
+      "categoryId": 100400,
+      "categoryName": "Entraînement des essieux",
+      "level": 1,
+      "children": {
+        "Différentiel": {
+          "categoryId": null,
+          "categoryName": "Différentiel",
+          "level": 2,
+          "children": {
+            "Jeu de bagues d’étanchéité, différentiel": {
+              "categoryId": 100415,
+              "categoryName": "Differential",
+              "level": 2,
+              "children": [],
+              "productId": 60551
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement des essieux [ID: 100400] (Niveau 1)\n    └── Différentiel (Niveau 2)\n        └── Differential [ID: 100415] (Niveau 2) → ProductId: 60551",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des essieux",
+        "Différentiel",
+        "Differential"
+      ],
+      "categoryIds": [
+        100400,
+        null,
+        100415
+      ],
+      "finalCategoryId": 100415,
+      "productId": 60551
+    }
+  ],
+  "productIdsInArbo": [
+    60551
+  ],
+  "matchedProductIds": [
+    60551
+  ]
+}

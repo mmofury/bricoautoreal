@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "D2501A",
+      "index": "ET 450",
+      "tecDoc": "ET450",
+      "tecDocProd": "6441",
+      "articleNumber": "ET450",
+      "brand": "BERU BY DRIV",
+      "shortDescription": "Antenna",
+      "description": "Car aerial",
+      "eans": [
+        "4014427024323"
+      ],
+      "packageWeight": "0,080",
+      "packageWidth": "7,000",
+      "packageDepth": "29,000",
+      "packageHeight": "1,000",
+      "customsCode": "85291011",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_46",
+          "primary": true,
+          "name": {
+            "en": "Antenna"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1357",
+          "primary": false,
+          "name": {
+            "en": "Aerial Telescope"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "productName": "Filtre, unité d'alimentation de carburant",
+  "searchText": "Filtre, unité d'alimentation de carburant",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:40:22.395Z",
+  "productId": 3407,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Pompe / accessoires": {
+          "categoryId": null,
+          "categoryName": "Pompe / accessoires",
+          "level": 2,
+          "children": {
+            "Filtre, unité d'alimentation de carburant": {
+              "categoryId": 100251,
+              "categoryName": "Pump/Accessories",
+              "level": 2,
+              "children": {
+                "Pompe d'alimentation": {
+                  "categoryId": null,
+                  "categoryName": "Pompe d'alimentation",
+                  "level": 4,
+                  "children": {
+                    "Filtre, unité d'alimentation de carburant": {
+                      "categoryId": 100717,
+                      "categoryName": "Fuel Pump",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3407
+                    }
+                  }
+                }
+              },
+              "productId": 3407
+            }
+          }
+        },
+        "Unité d'alimentation complète": {
+          "categoryId": null,
+          "categoryName": "Unité d'alimentation complète",
+          "level": 2,
+          "children": {
+            "Filtre, unité d'alimentation de carburant": {
+              "categoryId": 100267,
+              "categoryName": "Fuel Delivery Unit Complete",
+              "level": 2,
+              "children": [],
+              "productId": 3407
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Alimentation carburant [ID: 100214] (Niveau 1)\n    ├── Pompe / accessoires (Niveau 2)\n    │   └── Pump/Accessories [ID: 100251] (Niveau 2) → ProductId: 3407\n    │       └── Pompe d'alimentation (Niveau 4)\n    │           └── Fuel Pump [ID: 100717] (Niveau 3) → ProductId: 3407\n    └── Unité d'alimentation complète (Niveau 2)\n        └── Fuel Delivery Unit Complete [ID: 100267] (Niveau 2) → ProductId: 3407",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Pompe / accessoires",
+        "Pump/Accessories"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100251
+      ],
+      "finalCategoryId": 100251,
+      "productId": 3407
+    },
+    {
+      "path": [
+        "Alimentation carburant",
+        "Unité d'alimentation complète",
+        "Fuel Delivery Unit Complete"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100267
+      ],
+      "finalCategoryId": 100267,
+      "productId": 3407
+    }
+  ],
+  "productIdsInArbo": [
+    3407
+  ],
+  "matchedProductIds": [
+    3407
+  ]
+}

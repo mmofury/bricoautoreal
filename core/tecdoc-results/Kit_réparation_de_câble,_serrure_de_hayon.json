@@ -1,0 +1,54 @@
+{
+  "productName": "Kit réparation de câble, serrure de hayon",
+  "searchText": "Kit réparation de câble, serrure de hayon",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:10:37.359Z",
+  "productId": 60085,
+  "arborescence": {
+    "Verrouillage": {
+      "categoryId": 100685,
+      "categoryName": "Verrouillage",
+      "level": 1,
+      "children": {
+        "Serrure extérieure": {
+          "categoryId": null,
+          "categoryName": "Serrure extérieure",
+          "level": 2,
+          "children": {
+            "Kit réparation de câble, serrure de hayon": {
+              "categoryId": 100687,
+              "categoryName": "Exterior Locks",
+              "level": 2,
+              "children": [],
+              "productId": 60085
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Verrouillage [ID: 100685] (Niveau 1)\n    └── Serrure extérieure (Niveau 2)\n        └── Exterior Locks [ID: 100687] (Niveau 2) → ProductId: 60085",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Verrouillage",
+        "Serrure extérieure",
+        "Exterior Locks"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100687
+      ],
+      "finalCategoryId": 100687,
+      "productId": 60085
+    }
+  ],
+  "productIdsInArbo": [
+    60085
+  ],
+  "matchedProductIds": [
+    60085
+  ]
+}

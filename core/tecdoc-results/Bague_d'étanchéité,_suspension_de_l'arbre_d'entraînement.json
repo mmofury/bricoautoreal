@@ -1,0 +1,54 @@
+{
+  "productName": "Bague d'étanchéité, suspension de l'arbre d'entraînement",
+  "searchText": "Bague d'étanchéité, suspension de l'arbre d'entraînement",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:04:38.598Z",
+  "productId": 3011,
+  "arborescence": {
+    "Entraînement des roues": {
+      "categoryId": 100014,
+      "categoryName": "Entraînement des roues",
+      "level": 1,
+      "children": {
+        "Arbre de transmission": {
+          "categoryId": null,
+          "categoryName": "Arbre de transmission",
+          "level": 2,
+          "children": {
+            "Bague d'étanchéité, suspension de l'arbre d'entraînement": {
+              "categoryId": 100062,
+              "categoryName": "Drive Shaft",
+              "level": 2,
+              "children": [],
+              "productId": 3011
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement des roues [ID: 100014] (Niveau 1)\n    └── Arbre de transmission (Niveau 2)\n        └── Drive Shaft [ID: 100062] (Niveau 2) → ProductId: 3011",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des roues",
+        "Arbre de transmission",
+        "Drive Shaft"
+      ],
+      "categoryIds": [
+        100014,
+        null,
+        100062
+      ],
+      "finalCategoryId": 100062,
+      "productId": 3011
+    }
+  ],
+  "productIdsInArbo": [
+    3011
+  ],
+  "matchedProductIds": [
+    3011
+  ]
+}

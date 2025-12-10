@@ -1,0 +1,143 @@
+{
+  "productName": "Adaptateur, balai d'essuie-glace",
+  "searchText": "Adaptateur, balai d'essuie-glace",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": false,
+      "arborescence": {
+        "Cabine du conducteur/carrosserie": {
+          "categoryId": 200022,
+          "categoryName": "Cabine du conducteur/carrosserie",
+          "level": 1,
+          "children": {
+            "Nettoyage des vitres/accessoires": {
+              "categoryId": null,
+              "categoryName": "Nettoyage des vitres/accessoires",
+              "level": 2,
+              "children": {
+                "Adaptateur, balai d'essuie-glace": {
+                  "categoryId": 200875,
+                  "categoryName": "Window Cleaning/Accessories",
+                  "level": 2,
+                  "children": [],
+                  "productId": 2988
+                }
+              }
+            }
+          }
+        },
+        "Équipement / accessoires": {
+          "categoryId": 200067,
+          "categoryName": "Équipement / accessoires",
+          "level": 1,
+          "children": {
+            "Nettoyage des vitres / accessoires": {
+              "categoryId": null,
+              "categoryName": "Nettoyage des vitres / accessoires",
+              "level": 2,
+              "children": {
+                "Adaptateur, balai d'essuie-glace": {
+                  "categoryId": 200794,
+                  "categoryName": "Window Cleaning/Accessories",
+                  "level": 2,
+                  "children": [],
+                  "productId": 2988
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "├── Cabine du conducteur/carrosserie [ID: 200022] (Niveau 1)\n│   └── Nettoyage des vitres/accessoires (Niveau 2)\n│       └── Window Cleaning/Accessories [ID: 200875] (Niveau 2) → ProductId: 2988\n\n└── Équipement / accessoires [ID: 200067] (Niveau 1)\n    └── Nettoyage des vitres / accessoires (Niveau 2)\n        └── Window Cleaning/Accessories [ID: 200794] (Niveau 2) → ProductId: 2988",
+      "productIdsInArbo": [
+        2988
+      ]
+    },
+    {
+      "typeId": 3,
+      "found": true,
+      "hasMatch": false,
+      "arborescence": {
+        "Nettoyage des vitres": {
+          "categoryId": 100018,
+          "categoryName": "Nettoyage des vitres",
+          "level": 1,
+          "children": {
+            "Balai d'essuie-glace / raclette": {
+              "categoryId": null,
+              "categoryName": "Balai d'essuie-glace / raclette",
+              "level": 2,
+              "children": {
+                "Adaptateur, balai d'essuie-glace": {
+                  "categoryId": 100133,
+                  "categoryName": "Wiper Blade/-Rubber",
+                  "level": 2,
+                  "children": [],
+                  "productId": 2988
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Nettoyage des vitres [ID: 100018] (Niveau 1)\n    └── Balai d'essuie-glace / raclette (Niveau 2)\n        └── Wiper Blade/-Rubber [ID: 100133] (Niveau 2) → ProductId: 2988",
+      "productIdsInArbo": [
+        2988
+      ]
+    },
+    {
+      "typeId": 4,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 5,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 6,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 7,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 8,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 9,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 10,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 11,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 12,
+      "found": false,
+      "hasMatch": false
+    }
+  ],
+  "timestamp": "2025-12-03T09:34:20.914Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": false
+  }
+}

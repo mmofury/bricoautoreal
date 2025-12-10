@@ -1,0 +1,54 @@
+{
+  "productName": "Soupape, filtre à carburant",
+  "searchText": "Soupape, filtre à carburant",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:17:48.074Z",
+  "productId": 3960,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Boîtier/filtre à carburant": {
+          "categoryId": null,
+          "categoryName": "Boîtier/filtre à carburant",
+          "level": 2,
+          "children": {
+            "Soupape, filtre à carburant": {
+              "categoryId": 100253,
+              "categoryName": "Fuel Filter/Housing",
+              "level": 2,
+              "children": [],
+              "productId": 3960
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Alimentation carburant [ID: 100214] (Niveau 1)\n    └── Boîtier/filtre à carburant (Niveau 2)\n        └── Fuel Filter/Housing [ID: 100253] (Niveau 2) → ProductId: 3960",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Boîtier/filtre à carburant",
+        "Fuel Filter/Housing"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100253
+      ],
+      "finalCategoryId": 100253,
+      "productId": 3960
+    }
+  ],
+  "productIdsInArbo": [
+    3960
+  ],
+  "matchedProductIds": [
+    3960
+  ]
+}

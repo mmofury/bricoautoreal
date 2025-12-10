@@ -1,0 +1,69 @@
+{
+  "productName": "Câble de raccordement, aimant de réglage d’arbre à cames",
+  "searchText": "Câble de raccordement, aimant de réglage d’arbre à cames",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:29:48.773Z",
+  "productId": 9456,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Distribution moteur": {
+          "categoryId": null,
+          "categoryName": "Distribution moteur",
+          "level": 2,
+          "children": {
+            "Câble de raccordement, aimant de réglage d’arbre à cames": {
+              "categoryId": 100003,
+              "categoryName": "Engine Timing",
+              "level": 2,
+              "children": {
+                "Arbre à cames": {
+                  "categoryId": null,
+                  "categoryName": "Arbre à cames",
+                  "level": 4,
+                  "children": {
+                    "Câble de raccordement, aimant de réglage d’arbre à cames": {
+                      "categoryId": 100397,
+                      "categoryName": "Camshaft",
+                      "level": 3,
+                      "children": [],
+                      "productId": 9456
+                    }
+                  }
+                }
+              },
+              "productId": 9456
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Distribution moteur (Niveau 2)\n        └── Engine Timing [ID: 100003] (Niveau 2) → ProductId: 9456\n            └── Arbre à cames (Niveau 4)\n                └── Camshaft [ID: 100397] (Niveau 3) → ProductId: 9456",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Engine Timing"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100003
+      ],
+      "finalCategoryId": 100003,
+      "productId": 9456
+    }
+  ],
+  "productIdsInArbo": [
+    9456
+  ],
+  "matchedProductIds": [
+    9456
+  ]
+}

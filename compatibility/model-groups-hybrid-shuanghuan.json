@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.482Z",
+  "manufacturer": "SHUANGHUAN",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 3156,
+      "manufacturerName": "SHUANGHUAN",
+      "groupKey": "CEO",
+      "displayName": "CEO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6635,
+          "modelName": "CEO",
+          "modelYearFrom": "2004-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3156,
+      "manufacturerName": "SHUANGHUAN",
+      "groupKey": "NOBLE",
+      "displayName": "NOBLE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6633,
+          "modelName": "NOBLE",
+          "modelYearFrom": "2007-04-01",
+          "modelYearTo": "2013-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3156,
+      "manufacturerName": "SHUANGHUAN",
+      "groupKey": "RABO",
+      "displayName": "RABO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6634,
+          "modelName": "RABO SRV",
+          "modelYearFrom": "2003-04-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

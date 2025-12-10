@@ -1,0 +1,49 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H0022W",
+      "index": "FE186393",
+      "tecDoc": "186393",
+      "tecDocProd": "101",
+      "articleNumber": "186393",
+      "brand": "FEBI",
+      "shortDescription": "Oil Separator, crankcase ventilation",
+      "description": "Oil Trap fits: AUDI A2, RENAULT LAGUNA II, SEAT AROSA, CORDOBA, CORDOBA VARIO, IBIZA II, IBIZA III, INCA, LEON, TOLEDO II, SKODA FABIA I, FELICIA I, FELICIA II, OCTAVIA I 1.0-1.9D 10.91-04.12",
+      "customsCode": "84212300",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1600",
+          "primary": false,
+          "name": {
+            "en": "Hose, crankcase ventilation"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3324",
+          "primary": true,
+          "name": {
+            "en": "Oil Separator, crankcase ventilation"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_5160",
+          "primary": false,
+          "name": {
+            "en": "Repair Kit, crankcase ventilation"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_60546",
+          "primary": false,
+          "name": {
+            "en": "Repair kit, oil separator (crankcase breather)"
+          }
+        }
+      ]
+    }
+  ]
+}

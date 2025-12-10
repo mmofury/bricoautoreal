@@ -1,0 +1,54 @@
+{
+  "productName": "Graisse de montage, composants électriques",
+  "searchText": "Graisse de montage, composants électriques",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:43:41.384Z",
+  "productId": 60693,
+  "arborescence": {
+    "Entraînement hybride/électrique": {
+      "categoryId": 706209,
+      "categoryName": "Entraînement hybride/électrique",
+      "level": 1,
+      "children": {
+        "Lubrification": {
+          "categoryId": null,
+          "categoryName": "Lubrification",
+          "level": 2,
+          "children": {
+            "Graisse de montage, composants électriques": {
+              "categoryId": 706759,
+              "categoryName": "Lubrication",
+              "level": 2,
+              "children": [],
+              "productId": 60693
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement hybride/électrique [ID: 706209] (Niveau 1)\n    └── Lubrification (Niveau 2)\n        └── Lubrication [ID: 706759] (Niveau 2) → ProductId: 60693",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement hybride/électrique",
+        "Lubrification",
+        "Lubrication"
+      ],
+      "categoryIds": [
+        706209,
+        null,
+        706759
+      ],
+      "finalCategoryId": 706759,
+      "productId": 60693
+    }
+  ],
+  "productIdsInArbo": [
+    60693
+  ],
+  "matchedProductIds": [
+    60693
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "productName": "Poulie, vilebrequin",
+  "searchText": "Poulie, vilebrequin",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:03:48.325Z",
+  "productId": 3213,
+  "arborescence": {
+    "Commande à courroie": {
+      "categoryId": 100016,
+      "categoryName": "Commande à courroie",
+      "level": 1,
+      "children": {
+        "Poulie": {
+          "categoryId": null,
+          "categoryName": "Poulie",
+          "level": 2,
+          "children": {
+            "Poulie, vilebrequin": {
+              "categoryId": 101971,
+              "categoryName": "Belt Pulley",
+              "level": 2,
+              "children": [],
+              "productId": 3213
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Commande à courroie": {
+          "categoryId": null,
+          "categoryName": "Commande à courroie",
+          "level": 2,
+          "children": {
+            "Poulie, vilebrequin": {
+              "categoryId": 104302,
+              "categoryName": "Belt Drive",
+              "level": 2,
+              "children": {
+                "Poulie": {
+                  "categoryId": null,
+                  "categoryName": "Poulie",
+                  "level": 4,
+                  "children": {
+                    "Poulie, vilebrequin": {
+                      "categoryId": 104329,
+                      "categoryName": "Belt Pulley",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3213
+                    }
+                  }
+                }
+              },
+              "productId": 3213
+            }
+          }
+        },
+        "Distribution moteur": {
+          "categoryId": null,
+          "categoryName": "Distribution moteur",
+          "level": 2,
+          "children": {
+            "Poulie, vilebrequin": {
+              "categoryId": 100003,
+              "categoryName": "Engine Timing",
+              "level": 2,
+              "children": {
+                "Poulie": {
+                  "categoryId": null,
+                  "categoryName": "Poulie",
+                  "level": 4,
+                  "children": {
+                    "Poulie, vilebrequin": {
+                      "categoryId": 104695,
+                      "categoryName": "Belt Pulley",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3213
+                    }
+                  }
+                }
+              },
+              "productId": 3213
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Commande à courroie [ID: 100016] (Niveau 1)\n│   └── Poulie (Niveau 2)\n│       └── Belt Pulley [ID: 101971] (Niveau 2) → ProductId: 3213\n\n└── Moteur [ID: 100002] (Niveau 1)\n    ├── Commande à courroie (Niveau 2)\n    │   └── Belt Drive [ID: 104302] (Niveau 2) → ProductId: 3213\n    │       └── Poulie (Niveau 4)\n    │           └── Belt Pulley [ID: 104329] (Niveau 3) → ProductId: 3213\n    └── Distribution moteur (Niveau 2)\n        └── Engine Timing [ID: 100003] (Niveau 2) → ProductId: 3213\n            └── Poulie (Niveau 4)\n                └── Belt Pulley [ID: 104695] (Niveau 3) → ProductId: 3213",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Commande à courroie",
+        "Poulie",
+        "Belt Pulley"
+      ],
+      "categoryIds": [
+        100016,
+        null,
+        101971
+      ],
+      "finalCategoryId": 101971,
+      "productId": 3213
+    },
+    {
+      "path": [
+        "Moteur",
+        "Commande à courroie",
+        "Belt Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        104302
+      ],
+      "finalCategoryId": 104302,
+      "productId": 3213
+    },
+    {
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Engine Timing"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100003
+      ],
+      "finalCategoryId": 100003,
+      "productId": 3213
+    }
+  ],
+  "productIdsInArbo": [
+    3213
+  ],
+  "matchedProductIds": [
+    3213
+  ]
+}

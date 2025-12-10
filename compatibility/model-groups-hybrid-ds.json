@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.246Z",
+  "manufacturer": "DS",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 4468,
+      "manufacturerName": "DS",
+      "groupKey": "DS",
+      "displayName": "DS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14956,
+          "modelName": "DS 3 (SA_)",
+          "modelYearFrom": "2015-04-01",
+          "modelYearTo": "2019-07-01"
+        },
+        {
+          "modelId": 14957,
+          "modelName": "DS 3 Décapotable (SB_)",
+          "modelYearFrom": "2015-07-01",
+          "modelYearTo": "2019-07-01"
+        },
+        {
+          "modelId": 14958,
+          "modelName": "DS 4 / DS 4 CROSSBACK (NX_)",
+          "modelYearFrom": "2015-07-01",
+          "modelYearTo": "2018-12-01"
+        },
+        {
+          "modelId": 14959,
+          "modelName": "DS 5 (KF_)",
+          "modelYearFrom": "2015-01-01",
+          "modelYearTo": "2018-12-01"
+        },
+        {
+          "modelId": 38245,
+          "modelName": "DS 7 Crossback (J4_, JR_, JC_)",
+          "modelYearFrom": "2017-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39130,
+          "modelName": "DS 3 / DS 3 CROSSBACK (UR_, UC_, UJ_)",
+          "modelYearFrom": "2018-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40600,
+          "modelName": "DS 9 (X2_)",
+          "modelYearFrom": "2020-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41995,
+          "modelName": "DS 4 II (FR_, FB_, F3_)",
+          "modelYearFrom": "2021-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43557,
+          "modelName": "DS 7 (J4_, JC_)",
+          "modelYearFrom": "2022-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4468,
+      "manufacturerName": "DS",
+      "groupKey": "N",
+      "displayName": "N",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 46148,
+          "modelName": "N°8",
+          "modelYearFrom": "2025-02-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

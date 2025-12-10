@@ -1,0 +1,126 @@
+{
+  "productName": "Courroie d’entraînement CVT",
+  "productId": 9135,
+  "searchText": "Courroie d’entraînement CVT",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 3,
+      "found": true,
+      "hasMatch": false,
+      "arborescence": {
+        "Moto": {
+          "categoryId": 103671,
+          "categoryName": "Moto",
+          "level": 1,
+          "children": {
+            "Moteur": {
+              "categoryId": null,
+              "categoryName": "Moteur",
+              "level": 2,
+              "children": {
+                "Courroie d’entraînement CVT": {
+                  "categoryId": 103814,
+                  "categoryName": "Engine",
+                  "level": 2,
+                  "children": {
+                    "Commande à courroie": {
+                      "categoryId": null,
+                      "categoryName": "Commande à courroie",
+                      "level": 4,
+                      "children": {
+                        "Courroie d’entraînement CVT": {
+                          "categoryId": 706693,
+                          "categoryName": "Belt Drive",
+                          "level": 3,
+                          "children": {
+                            "Courroie d’entraînement CVT": {
+                              "categoryId": null,
+                              "categoryName": "Courroie d’entraînement CVT",
+                              "level": 6,
+                              "children": {
+                                "Courroie d’entraînement CVT": {
+                                  "categoryId": 706694,
+                                  "categoryName": "CVT Drive Belt",
+                                  "level": 4,
+                                  "children": [],
+                                  "productId": 60533
+                                }
+                              }
+                            }
+                          },
+                          "productId": 60533
+                        }
+                      }
+                    }
+                  },
+                  "productId": 60533
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Moto [ID: 103671] (Niveau 1)\n    └── Moteur (Niveau 2)\n        └── Engine [ID: 103814] (Niveau 2) → ProductId: 60533\n            └── Commande à courroie (Niveau 4)\n                └── Belt Drive [ID: 706693] (Niveau 3) → ProductId: 60533\n                    └── Courroie d’entraînement CVT (Niveau 6)\n                        └── CVT Drive Belt [ID: 706694] (Niveau 4) → ProductId: 60533",
+      "productIdsInArbo": [
+        60533
+      ]
+    },
+    {
+      "typeId": 4,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 5,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 6,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 7,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 8,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 9,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 10,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 11,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 12,
+      "found": false,
+      "hasMatch": false
+    }
+  ],
+  "timestamp": "2025-12-03T10:12:44.835Z",
+  "bestMatch": {
+    "typeId": 3,
+    "found": true,
+    "hasMatch": false
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "productName": "Dispositf d'immobilisation",
+  "searchText": "Dispositf d'immobilisation",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:31:32.088Z",
+  "productId": 1332,
+  "arborescence": {
+    "Systèmes de sécurité": {
+      "categoryId": 100417,
+      "categoryName": "Systèmes de sécurité",
+      "level": 1,
+      "children": {
+        "Immobilisateur antivol": {
+          "categoryId": null,
+          "categoryName": "Immobilisateur antivol",
+          "level": 2,
+          "children": {
+            "Dispositf d'immobilisation": {
+              "categoryId": 100680,
+              "categoryName": "Immobilizer",
+              "level": 2,
+              "children": [],
+              "productId": 1332
+            },
+            "Soupape d'arrêt, dispositf d'immobilisation": {
+              "categoryId": 100680,
+              "categoryName": "Immobilizer",
+              "level": 2,
+              "children": [],
+              "productId": 1333
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Systèmes de sécurité [ID: 100417] (Niveau 1)\n    └── Immobilisateur antivol (Niveau 2)\n        ├── Immobilizer [ID: 100680] (Niveau 2) → ProductId: 1332\n        └── Immobilizer [ID: 100680] (Niveau 2) → ProductId: 1333",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Systèmes de sécurité",
+        "Immobilisateur antivol",
+        "Immobilizer"
+      ],
+      "categoryIds": [
+        100417,
+        null,
+        100680
+      ],
+      "finalCategoryId": 100680,
+      "productId": 1332
+    },
+    {
+      "path": [
+        "Systèmes de sécurité",
+        "Immobilisateur antivol",
+        "Immobilizer"
+      ],
+      "categoryIds": [
+        100417,
+        null,
+        100680
+      ],
+      "finalCategoryId": 100680,
+      "productId": 1333
+    }
+  ],
+  "productIdsInArbo": [
+    1332,
+    1333
+  ],
+  "matchedProductIds": [
+    1332
+  ]
+}

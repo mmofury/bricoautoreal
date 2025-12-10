@@ -1,0 +1,175 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.273Z",
+  "manufacturer": "FORCE",
+  "countGroups": 8,
+  "groups": [
+    {
+      "manufacturerId": 2850,
+      "manufacturerName": "FORCE",
+      "groupKey": "FORCE",
+      "displayName": "FORCE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11408,
+          "modelName": "FORCE ONE",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2850,
+      "manufacturerName": "FORCE",
+      "groupKey": "GURKHA",
+      "displayName": "GURKHA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11413,
+          "modelName": "GURKHA Véhicule tout terrain à carrosserie ouverte",
+          "modelYearFrom": "2007-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11414,
+          "modelName": "GURKHA Véhicule tout terrain fermé",
+          "modelYearFrom": "2007-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2850,
+      "manufacturerName": "FORCE",
+      "groupKey": "MATADOR",
+      "displayName": "MATADOR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7428,
+          "modelName": "MATADOR Autobus/Autocar",
+          "modelYearFrom": "1994-06-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 7429,
+          "modelName": "MATADOR Fourgon",
+          "modelYearFrom": "1994-06-01",
+          "modelYearTo": "2008-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2850,
+      "manufacturerName": "FORCE",
+      "groupKey": "MINIDOR",
+      "displayName": "MINIDOR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40631,
+          "modelName": "MINIDOR Threewheeler Convertible",
+          "modelYearFrom": "2007-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40632,
+          "modelName": "MINIDOR Threewheeler Chassis cabin",
+          "modelYearFrom": "2007-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2850,
+      "manufacturerName": "FORCE",
+      "groupKey": "TEMPO",
+      "displayName": "TEMPO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7430,
+          "modelName": "TEMPO Autobus/Autocar",
+          "modelYearFrom": "1994-08-01",
+          "modelYearTo": "2006-08-01"
+        },
+        {
+          "modelId": 7431,
+          "modelName": "TEMPO Camion plate-forme/Châssis",
+          "modelYearFrom": "1994-08-01",
+          "modelYearTo": "2006-08-01"
+        },
+        {
+          "modelId": 7432,
+          "modelName": "TEMPO Fourgon",
+          "modelYearFrom": "1994-08-01",
+          "modelYearTo": "2006-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2850,
+      "manufacturerName": "FORCE",
+      "groupKey": "TRAVELLER",
+      "displayName": "TRAVELLER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7634,
+          "modelName": "TRAVELLER Fourgon",
+          "modelYearFrom": "2002-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10490,
+          "modelName": "TRAVELLER Autobus/Autocar",
+          "modelYearFrom": "2002-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11417,
+          "modelName": "TRAVELLER Camion plate-forme/Châssis",
+          "modelYearFrom": "2002-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2850,
+      "manufacturerName": "FORCE",
+      "groupKey": "TRAX",
+      "displayName": "TRAX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7635,
+          "modelName": "TRAX Véhicule tout terrain fermé",
+          "modelYearFrom": "2003-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11416,
+          "modelName": "TRAX Camion plate-forme/Châssis",
+          "modelYearFrom": "2003-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2850,
+      "manufacturerName": "FORCE",
+      "groupKey": "TRUMP",
+      "displayName": "TRUMP",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11418,
+          "modelName": "TRUMP",
+          "modelYearFrom": "2010-01-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

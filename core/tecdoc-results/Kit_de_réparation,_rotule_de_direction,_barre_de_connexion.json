@@ -1,0 +1,111 @@
+{
+  "productName": "Kit de réparation, rotule de direction, barre de connexion",
+  "searchText": "Kit de réparation, rotule de direction, barre de connexion",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:06:12.801Z",
+  "productId": 1213,
+  "arborescence": {
+    "Direction": {
+      "categoryId": 100012,
+      "categoryName": "Direction",
+      "level": 1,
+      "children": {
+        "Barre de connexion / composants": {
+          "categoryId": null,
+          "categoryName": "Barre de connexion / composants",
+          "level": 2,
+          "children": {
+            "Kit de réparation, rotule de direction, barre de connexion": {
+              "categoryId": 100601,
+              "categoryName": "Tie Rod Assembly/ Parts",
+              "level": 2,
+              "children": {
+                "Composants de barre de connexion": {
+                  "categoryId": null,
+                  "categoryName": "Composants de barre de connexion",
+                  "level": 4,
+                  "children": {
+                    "Kit de réparation, rotule de direction, barre de connexion": {
+                      "categoryId": 100603,
+                      "categoryName": "Parts, tie rod assy.",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1213
+                    }
+                  }
+                },
+                "Kit de réparation": {
+                  "categoryId": null,
+                  "categoryName": "Kit de réparation",
+                  "level": 4,
+                  "children": {
+                    "Kit de réparation, rotule de direction, barre de connexion": {
+                      "categoryId": 100602,
+                      "categoryName": "Repair Kit",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1213
+                    }
+                  }
+                }
+              },
+              "productId": 1213
+            }
+          }
+        },
+        "Rotules": {
+          "categoryId": null,
+          "categoryName": "Rotules",
+          "level": 2,
+          "children": {
+            "Kit de réparation, rotule de direction, barre de connexion": {
+              "categoryId": 100198,
+              "categoryName": "Joints",
+              "level": 2,
+              "children": [],
+              "productId": 1213
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Direction [ID: 100012] (Niveau 1)\n    ├── Barre de connexion / composants (Niveau 2)\n    │   └── Tie Rod Assembly/ Parts [ID: 100601] (Niveau 2) → ProductId: 1213\n    │       ├── Composants de barre de connexion (Niveau 4)\n    │       │   └── Parts, tie rod assy. [ID: 100603] (Niveau 3) → ProductId: 1213\n    │       └── Kit de réparation (Niveau 4)\n    │           └── Repair Kit [ID: 100602] (Niveau 3) → ProductId: 1213\n    └── Rotules (Niveau 2)\n        └── Joints [ID: 100198] (Niveau 2) → ProductId: 1213",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Direction",
+        "Barre de connexion / composants",
+        "Tie Rod Assembly/ Parts"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        100601
+      ],
+      "finalCategoryId": 100601,
+      "productId": 1213
+    },
+    {
+      "path": [
+        "Direction",
+        "Rotules",
+        "Joints"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        100198
+      ],
+      "finalCategoryId": 100198,
+      "productId": 1213
+    }
+  ],
+  "productIdsInArbo": [
+    1213
+  ],
+  "matchedProductIds": [
+    1213
+  ]
+}

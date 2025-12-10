@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "E88BCE",
+      "index": "120000117001",
+      "tecDoc": "120000117001",
+      "tecDocProd": "432",
+      "articleNumber": "120000117001",
+      "brand": "KOLBENSCHMIDT",
+      "shortDescription": "Other engine maintenance tools",
+      "description": "Other engine maintenance tools (replacement for 50 009 814, slide calliper)",
+      "packageWeight": "0,370",
+      "packageWidth": "9,500",
+      "packageDepth": "25,000",
+      "packageHeight": "3,000",
+      "customsCode": "90173000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_2362",
+          "primary": false,
+          "name": {
+            "en": "Vernier Calliper, brake disc thickness"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91776",
+          "primary": true,
+          "name": {
+            "en": "Other engine maintenance tools"
+          }
+        }
+      ]
+    }
+  ]
+}

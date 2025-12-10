@@ -1,0 +1,371 @@
+{
+  "productName": "Pédale d'embrayage",
+  "searchText": "Pédale d'embrayage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:05:29.784Z",
+  "productId": 1525,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Réglage du comportement dynamique": {
+          "categoryId": null,
+          "categoryName": "Réglage du comportement dynamique",
+          "level": 2,
+          "children": {
+            "Capteur de course, pédale d'embrayage": {
+              "categoryId": 100038,
+              "categoryName": "Drive Dynamics Control",
+              "level": 2,
+              "children": [],
+              "productId": 5736
+            }
+          }
+        }
+      }
+    },
+    "Embrayage / composants": {
+      "categoryId": 100050,
+      "categoryName": "Embrayage / composants",
+      "level": 1,
+      "children": {
+        "Commande d'embrayage": {
+          "categoryId": null,
+          "categoryName": "Commande d'embrayage",
+          "level": 2,
+          "children": {
+            "Levier de braquage, pédale d'embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Pédale": {
+                  "categoryId": null,
+                  "categoryName": "Pédale",
+                  "level": 4,
+                  "children": {
+                    "Levier de braquage, pédale d'embrayage": {
+                      "categoryId": 100712,
+                      "categoryName": "Clutch Pedal",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60860
+                    }
+                  }
+                }
+              },
+              "productId": 60860
+            },
+            "Pédale d'embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Pédale": {
+                  "categoryId": null,
+                  "categoryName": "Pédale",
+                  "level": 4,
+                  "children": {
+                    "Pédale d'embrayage": {
+                      "categoryId": 100712,
+                      "categoryName": "Clutch Pedal",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1525
+                    }
+                  }
+                }
+              },
+              "productId": 1525
+            },
+            "Ressort, pédale d'embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Pédale": {
+                  "categoryId": null,
+                  "categoryName": "Pédale",
+                  "level": 4,
+                  "children": {
+                    "Ressort, pédale d'embrayage": {
+                      "categoryId": 100712,
+                      "categoryName": "Clutch Pedal",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4034
+                    }
+                  }
+                }
+              },
+              "productId": 4034
+            },
+            "Revêtement de pédale, pédale d'embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Pédale": {
+                  "categoryId": null,
+                  "categoryName": "Pédale",
+                  "level": 4,
+                  "children": {
+                    "Revêtement de pédale, pédale d'embrayage": {
+                      "categoryId": 100712,
+                      "categoryName": "Clutch Pedal",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1630
+                    }
+                  }
+                }
+              },
+              "productId": 1630
+            }
+          }
+        }
+      }
+    },
+    "Équipement intérieur": {
+      "categoryId": 100341,
+      "categoryName": "Équipement intérieur",
+      "level": 1,
+      "children": {
+        "Leviers manuels / Leviers de pédale": {
+          "categoryId": null,
+          "categoryName": "Leviers manuels / Leviers de pédale",
+          "level": 2,
+          "children": {
+            "Levier de braquage, pédale d'embrayage": {
+              "categoryId": 102695,
+              "categoryName": "Hand/Foot Lever System",
+              "level": 2,
+              "children": [],
+              "productId": 60860
+            },
+            "Pédale d'embrayage": {
+              "categoryId": 102695,
+              "categoryName": "Hand/Foot Lever System",
+              "level": 2,
+              "children": [],
+              "productId": 1525
+            },
+            "Ressort, pédale d'embrayage": {
+              "categoryId": 102695,
+              "categoryName": "Hand/Foot Lever System",
+              "level": 2,
+              "children": [],
+              "productId": 4034
+            },
+            "Revêtement de pédale, pédale d'embrayage": {
+              "categoryId": 102695,
+              "categoryName": "Hand/Foot Lever System",
+              "level": 2,
+              "children": [],
+              "productId": 1630
+            },
+            "Unité pédale d'embrayage/de frein": {
+              "categoryId": 102695,
+              "categoryName": "Hand/Foot Lever System",
+              "level": 2,
+              "children": [],
+              "productId": 5997
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Capteurs": {
+          "categoryId": null,
+          "categoryName": "Capteurs",
+          "level": 2,
+          "children": {
+            "Capteur de course, pédale d'embrayage": {
+              "categoryId": 102747,
+              "categoryName": "Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 5736
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Dispositif de freinage [ID: 100006] (Niveau 1)\n│   └── Réglage du comportement dynamique (Niveau 2)\n│       └── Drive Dynamics Control [ID: 100038] (Niveau 2) → ProductId: 5736\n\n├── Embrayage / composants [ID: 100050] (Niveau 1)\n│   └── Commande d'embrayage (Niveau 2)\n│       ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 60860\n│       │   └── Pédale (Niveau 4)\n│       │       └── Clutch Pedal [ID: 100712] (Niveau 3) → ProductId: 60860\n│       ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 1525\n│       │   └── Pédale (Niveau 4)\n│       │       └── Clutch Pedal [ID: 100712] (Niveau 3) → ProductId: 1525\n│       ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 4034\n│       │   └── Pédale (Niveau 4)\n│       │       └── Clutch Pedal [ID: 100712] (Niveau 3) → ProductId: 4034\n│       └── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 1630\n│           └── Pédale (Niveau 4)\n│               └── Clutch Pedal [ID: 100712] (Niveau 3) → ProductId: 1630\n\n├── Équipement intérieur [ID: 100341] (Niveau 1)\n│   └── Leviers manuels / Leviers de pédale (Niveau 2)\n│       ├── Hand/Foot Lever System [ID: 102695] (Niveau 2) → ProductId: 60860\n│       ├── Hand/Foot Lever System [ID: 102695] (Niveau 2) → ProductId: 1525\n│       ├── Hand/Foot Lever System [ID: 102695] (Niveau 2) → ProductId: 4034\n│       ├── Hand/Foot Lever System [ID: 102695] (Niveau 2) → ProductId: 1630\n│       └── Hand/Foot Lever System [ID: 102695] (Niveau 2) → ProductId: 5997\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Capteurs (Niveau 2)\n        └── Sensors [ID: 102747] (Niveau 2) → ProductId: 5736",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Réglage du comportement dynamique",
+        "Drive Dynamics Control"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100038
+      ],
+      "finalCategoryId": 100038,
+      "productId": 5736
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 60860
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 1525
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 4034
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 1630
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Leviers manuels / Leviers de pédale",
+        "Hand/Foot Lever System"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102695
+      ],
+      "finalCategoryId": 102695,
+      "productId": 60860
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Leviers manuels / Leviers de pédale",
+        "Hand/Foot Lever System"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102695
+      ],
+      "finalCategoryId": 102695,
+      "productId": 1525
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Leviers manuels / Leviers de pédale",
+        "Hand/Foot Lever System"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102695
+      ],
+      "finalCategoryId": 102695,
+      "productId": 4034
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Leviers manuels / Leviers de pédale",
+        "Hand/Foot Lever System"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102695
+      ],
+      "finalCategoryId": 102695,
+      "productId": 1630
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Leviers manuels / Leviers de pédale",
+        "Hand/Foot Lever System"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102695
+      ],
+      "finalCategoryId": 102695,
+      "productId": 5997
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Capteurs",
+        "Sensors"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        102747
+      ],
+      "finalCategoryId": 102747,
+      "productId": 5736
+    }
+  ],
+  "productIdsInArbo": [
+    1525,
+    1630,
+    4034,
+    5736,
+    5997,
+    60860
+  ],
+  "matchedProductIds": [
+    1525
+  ]
+}

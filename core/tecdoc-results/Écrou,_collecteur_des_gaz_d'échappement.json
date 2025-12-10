@@ -1,0 +1,112 @@
+{
+  "productName": "Écrou, collecteur des gaz d'échappement",
+  "searchText": "Écrou, collecteur des gaz d'échappement",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:38:06.425Z",
+  "productId": 1788,
+  "arborescence": {
+    "Échappement": {
+      "categoryId": 100004,
+      "categoryName": "Échappement",
+      "level": 1,
+      "children": {
+        "Collecteur": {
+          "categoryId": null,
+          "categoryName": "Collecteur",
+          "level": 2,
+          "children": {
+            "Écrou, collecteur des gaz d'échappement": {
+              "categoryId": 100715,
+              "categoryName": "Manifold",
+              "level": 2,
+              "children": [],
+              "productId": 1788
+            }
+          }
+        },
+        "Pièces de montage": {
+          "categoryId": null,
+          "categoryName": "Pièces de montage",
+          "level": 2,
+          "children": {
+            "Écrou, collecteur des gaz d'échappement": {
+              "categoryId": 100222,
+              "categoryName": "Assembly Parts",
+              "level": 2,
+              "children": {
+                "Pièces détachées de montage": {
+                  "categoryId": null,
+                  "categoryName": "Pièces détachées de montage",
+                  "level": 4,
+                  "children": {
+                    "Écrou, collecteur des gaz d'échappement": {
+                      "categoryId": 100317,
+                      "categoryName": "Individual Assembly Parts",
+                      "level": 3,
+                      "children": {
+                        "Vis/écrous/anneaux": {
+                          "categoryId": null,
+                          "categoryName": "Vis/écrous/anneaux",
+                          "level": 6,
+                          "children": {
+                            "Écrou, collecteur des gaz d'échappement": {
+                              "categoryId": 100333,
+                              "categoryName": "Bolt/Screw/Nut/Rings",
+                              "level": 4,
+                              "children": [],
+                              "productId": 1788
+                            }
+                          }
+                        }
+                      },
+                      "productId": 1788
+                    }
+                  }
+                }
+              },
+              "productId": 1788
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Échappement [ID: 100004] (Niveau 1)\n    ├── Collecteur (Niveau 2)\n    │   └── Manifold [ID: 100715] (Niveau 2) → ProductId: 1788\n    └── Pièces de montage (Niveau 2)\n        └── Assembly Parts [ID: 100222] (Niveau 2) → ProductId: 1788\n            └── Pièces détachées de montage (Niveau 4)\n                └── Individual Assembly Parts [ID: 100317] (Niveau 3) → ProductId: 1788\n                    └── Vis/écrous/anneaux (Niveau 6)\n                        └── Bolt/Screw/Nut/Rings [ID: 100333] (Niveau 4) → ProductId: 1788",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Échappement",
+        "Collecteur",
+        "Manifold"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100715
+      ],
+      "finalCategoryId": 100715,
+      "productId": 1788
+    },
+    {
+      "path": [
+        "Échappement",
+        "Pièces de montage",
+        "Assembly Parts"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100222
+      ],
+      "finalCategoryId": 100222,
+      "productId": 1788
+    }
+  ],
+  "productIdsInArbo": [
+    1788
+  ],
+  "matchedProductIds": [
+    1788
+  ]
+}

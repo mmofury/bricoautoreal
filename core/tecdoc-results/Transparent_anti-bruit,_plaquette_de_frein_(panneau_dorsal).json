@@ -1,0 +1,72 @@
+{
+  "productName": "Transparent anti-bruit, plaquette de frein (panneau dorsal)",
+  "searchText": "Transparent anti-bruit, plaquette de frein (panneau dorsal)",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-03T07:27:13.912Z",
+  "productId": 5024,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Frein à disque": {
+          "categoryId": null,
+          "categoryName": "Frein à disque",
+          "level": 2,
+          "children": {
+            "Transparent anti-bruit, plaquette de frein (panneau dorsal)": {
+              "categoryId": 100626,
+              "categoryName": "Disc Brake",
+              "level": 2,
+              "children": {
+                "Accessoires / composants": {
+                  "categoryId": null,
+                  "categoryName": "Accessoires / composants",
+                  "level": 4,
+                  "children": {
+                    "Transparent anti-bruit, plaquette de frein (panneau dorsal)": {
+                      "categoryId": 100630,
+                      "categoryName": "Accessories/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 5297
+                    }
+                  }
+                }
+              },
+              "productId": 5297
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif de freinage [ID: 100006] (Niveau 1)\n    └── Frein à disque (Niveau 2)\n        └── Disc Brake [ID: 100626] (Niveau 2) → ProductId: 5297\n            └── Accessoires / composants (Niveau 4)\n                └── Accessories/Parts [ID: 100630] (Niveau 3) → ProductId: 5297",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Frein à disque",
+        "Disc Brake"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100626
+      ],
+      "finalCategoryId": 100626,
+      "productId": 5297
+    }
+  ],
+  "productIdsInArbo": [
+    5297
+  ],
+  "closestProductIds": [
+    {
+      "productId": 5297,
+      "productName": "Transparent anti-bruit, plaquette de frein (panneau dorsal)"
+    }
+  ]
+}

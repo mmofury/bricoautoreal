@@ -1,0 +1,82 @@
+{
+  "productName": "Fiche, bobine d'allumage",
+  "searchText": "Fiche, bobine d'allumage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:39:01.219Z",
+  "productId": 698,
+  "arborescence": {
+    "Allumage / préchauffage": {
+      "categoryId": 100008,
+      "categoryName": "Allumage / préchauffage",
+      "level": 1,
+      "children": {
+        "Bobine/unite de bobine d'allumage": {
+          "categoryId": null,
+          "categoryName": "Bobine/unite de bobine d'allumage",
+          "level": 2,
+          "children": {
+            "Fiche, bobine d'allumage": {
+              "categoryId": 100150,
+              "categoryName": "Ignition Coil/Ignition Coil Unit",
+              "level": 2,
+              "children": [],
+              "productId": 698
+            }
+          }
+        },
+        "Raccords de câble d'allumage": {
+          "categoryId": null,
+          "categoryName": "Raccords de câble d'allumage",
+          "level": 2,
+          "children": {
+            "Fiche, bobine d'allumage": {
+              "categoryId": 100153,
+              "categoryName": "Ignition Cable/Connecting Parts",
+              "level": 2,
+              "children": [],
+              "productId": 698
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Allumage / préchauffage [ID: 100008] (Niveau 1)\n    ├── Bobine/unite de bobine d'allumage (Niveau 2)\n    │   └── Ignition Coil/Ignition Coil Unit [ID: 100150] (Niveau 2) → ProductId: 698\n    └── Raccords de câble d'allumage (Niveau 2)\n        └── Ignition Cable/Connecting Parts [ID: 100153] (Niveau 2) → ProductId: 698",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Bobine/unite de bobine d'allumage",
+        "Ignition Coil/Ignition Coil Unit"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        100150
+      ],
+      "finalCategoryId": 100150,
+      "productId": 698
+    },
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Raccords de câble d'allumage",
+        "Ignition Cable/Connecting Parts"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        100153
+      ],
+      "finalCategoryId": 100153,
+      "productId": 698
+    }
+  ],
+  "productIdsInArbo": [
+    698
+  ],
+  "matchedProductIds": [
+    698
+  ]
+}

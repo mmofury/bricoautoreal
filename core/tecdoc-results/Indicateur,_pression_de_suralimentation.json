@@ -1,0 +1,104 @@
+{
+  "productName": "Indicateur, pression de suralimentation",
+  "searchText": "Indicateur, pression de suralimentation",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:45:31.395Z",
+  "productId": 159,
+  "arborescence": {
+    "Système d'information et de communication": {
+      "categoryId": 100339,
+      "categoryName": "Système d'information et de communication",
+      "level": 1,
+      "children": {
+        "Instruments": {
+          "categoryId": null,
+          "categoryName": "Instruments",
+          "level": 2,
+          "children": {
+            "Indicateur, pression de suralimentation": {
+              "categoryId": 100693,
+              "categoryName": "Instruments",
+              "level": 2,
+              "children": [],
+              "productId": 159
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Instruments": {
+          "categoryId": null,
+          "categoryName": "Instruments",
+          "level": 2,
+          "children": {
+            "Indicateur, pression de suralimentation": {
+              "categoryId": 100322,
+              "categoryName": "Instruments",
+              "level": 2,
+              "children": {
+                "Instruments indicateurs": {
+                  "categoryId": null,
+                  "categoryName": "Instruments indicateurs",
+                  "level": 4,
+                  "children": {
+                    "Indicateur, pression de suralimentation": {
+                      "categoryId": 100555,
+                      "categoryName": "Gauges",
+                      "level": 3,
+                      "children": [],
+                      "productId": 159
+                    }
+                  }
+                }
+              },
+              "productId": 159
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Système d'information et de communication [ID: 100339] (Niveau 1)\n│   └── Instruments (Niveau 2)\n│       └── Instruments [ID: 100693] (Niveau 2) → ProductId: 159\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Instruments (Niveau 2)\n        └── Instruments [ID: 100322] (Niveau 2) → ProductId: 159\n            └── Instruments indicateurs (Niveau 4)\n                └── Gauges [ID: 100555] (Niveau 3) → ProductId: 159",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système d'information et de communication",
+        "Instruments",
+        "Instruments"
+      ],
+      "categoryIds": [
+        100339,
+        null,
+        100693
+      ],
+      "finalCategoryId": 100693,
+      "productId": 159
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Instruments",
+        "Instruments"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100322
+      ],
+      "finalCategoryId": 100322,
+      "productId": 159
+    }
+  ],
+  "productIdsInArbo": [
+    159
+  ],
+  "matchedProductIds": [
+    159
+  ]
+}

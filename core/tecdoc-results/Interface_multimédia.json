@@ -1,0 +1,83 @@
+{
+  "productName": "Interface multimédia",
+  "searchText": "Interface multimédia",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T20:46:13.225Z",
+  "productId": 3731,
+  "arborescence": {
+    "Système d'information et de communication": {
+      "categoryId": 100339,
+      "categoryName": "Système d'information et de communication",
+      "level": 1,
+      "children": {
+        "Système audio": {
+          "categoryId": null,
+          "categoryName": "Système audio",
+          "level": 2,
+          "children": {
+            "Câble de connexion, interface mulitmédia": {
+              "categoryId": 100694,
+              "categoryName": "Audio System",
+              "level": 2,
+              "children": [],
+              "productId": 60205
+            },
+            "Interface multimédia": {
+              "categoryId": 100694,
+              "categoryName": "Audio System",
+              "level": 2,
+              "children": [],
+              "productId": 60204
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système d'information et de communication [ID: 100339] (Niveau 1)\n    └── Système audio (Niveau 2)\n        ├── Audio System [ID: 100694] (Niveau 2) → ProductId: 60205\n        └── Audio System [ID: 100694] (Niveau 2) → ProductId: 60204",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système d'information et de communication",
+        "Système audio",
+        "Audio System"
+      ],
+      "categoryIds": [
+        100339,
+        null,
+        100694
+      ],
+      "finalCategoryId": 100694,
+      "productId": 60205
+    },
+    {
+      "path": [
+        "Système d'information et de communication",
+        "Système audio",
+        "Audio System"
+      ],
+      "categoryIds": [
+        100339,
+        null,
+        100694
+      ],
+      "finalCategoryId": 100694,
+      "productId": 60204
+    }
+  ],
+  "productIdsInArbo": [
+    60204,
+    60205
+  ],
+  "closestProductIds": [
+    {
+      "productId": 60204,
+      "productName": "Interface multimédia"
+    },
+    {
+      "productId": 60205,
+      "productName": "Câble de connexion, interface mulitmédia"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Outil d'arrêt, arbre à cames",
+  "searchText": "Outil d'arrêt, arbre à cames",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:17:24.959Z",
+  "productId": 4465,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Outil d'arrêt, arbre à cames": {
+              "categoryId": 103129,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4465
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Outils (Niveau 2)\n        └── Tools [ID: 103129] (Niveau 2) → ProductId: 4465",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        103129
+      ],
+      "finalCategoryId": 103129,
+      "productId": 4465
+    }
+  ],
+  "productIdsInArbo": [
+    4465
+  ],
+  "matchedProductIds": [
+    4465
+  ]
+}

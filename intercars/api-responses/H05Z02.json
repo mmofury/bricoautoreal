@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H05Z02",
+      "index": "HAZ 1932-1",
+      "tecDoc": "1932-1",
+      "tecDocProd": "4808",
+      "articleNumber": "1932-1",
+      "brand": "HAZET",
+      "shortDescription": "Special pliers",
+      "description": "Pliers special, kind: body repairs, length: 300mm",
+      "eans": [
+        "4000896007806"
+      ],
+      "packageWeight": "0,863",
+      "packageWidth": "9,500",
+      "packageDepth": "30,000",
+      "packageHeight": "3,000",
+      "customsCode": "82034000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_6547",
+          "primary": false,
+          "name": {
+            "en": "Bevelling Pliers"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_94119",
+          "primary": true,
+          "name": {
+            "en": "Special pliers"
+          }
+        }
+      ]
+    }
+  ]
+}

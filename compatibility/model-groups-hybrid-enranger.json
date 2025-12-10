@@ -1,0 +1,82 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.255Z",
+  "manufacturer": "ENRANGER",
+  "countGroups": 5,
+  "groups": [
+    {
+      "manufacturerId": 4259,
+      "manufacturerName": "ENRANGER",
+      "groupKey": "727",
+      "displayName": "727",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40321,
+          "modelName": "727",
+          "modelYearFrom": "2016-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4259,
+      "manufacturerName": "ENRANGER",
+      "groupKey": "737",
+      "displayName": "737",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40322,
+          "modelName": "737",
+          "modelYearFrom": "2015-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4259,
+      "manufacturerName": "ENRANGER",
+      "groupKey": "EX1",
+      "displayName": "EX1",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40325,
+          "modelName": "EX1",
+          "modelYearFrom": "2018-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4259,
+      "manufacturerName": "ENRANGER",
+      "groupKey": "G3",
+      "displayName": "G3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40323,
+          "modelName": "G3",
+          "modelYearFrom": "2014-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4259,
+      "manufacturerName": "ENRANGER",
+      "groupKey": "G5",
+      "displayName": "G5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40324,
+          "modelName": "G5",
+          "modelYearFrom": "2016-10-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

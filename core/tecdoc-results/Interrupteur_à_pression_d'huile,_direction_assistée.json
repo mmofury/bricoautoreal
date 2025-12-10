@@ -1,0 +1,54 @@
+{
+  "productName": "Interrupteur à pression d'huile, direction assistée",
+  "searchText": "Interrupteur à pression d'huile, direction assistée",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:46:42.912Z",
+  "productId": 3860,
+  "arborescence": {
+    "Direction": {
+      "categoryId": 100012,
+      "categoryName": "Direction",
+      "level": 1,
+      "children": {
+        "Indicateur de pression d'huile": {
+          "categoryId": null,
+          "categoryName": "Indicateur de pression d'huile",
+          "level": 2,
+          "children": {
+            "Interrupteur à pression d'huile, direction assistée": {
+              "categoryId": 102766,
+              "categoryName": "Oil Pressure Switch",
+              "level": 2,
+              "children": [],
+              "productId": 3860
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Direction [ID: 100012] (Niveau 1)\n    └── Indicateur de pression d'huile (Niveau 2)\n        └── Oil Pressure Switch [ID: 102766] (Niveau 2) → ProductId: 3860",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Direction",
+        "Indicateur de pression d'huile",
+        "Oil Pressure Switch"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        102766
+      ],
+      "finalCategoryId": 102766,
+      "productId": 3860
+    }
+  ],
+  "productIdsInArbo": [
+    3860
+  ],
+  "matchedProductIds": [
+    3860
+  ]
+}

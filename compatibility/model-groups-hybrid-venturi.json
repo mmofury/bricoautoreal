@@ -1,0 +1,103 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.526Z",
+  "manufacturer": "VENTURI",
+  "countGroups": 6,
+  "groups": [
+    {
+      "manufacturerId": 1556,
+      "manufacturerName": "VENTURI",
+      "groupKey": "210",
+      "displayName": "210",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37471,
+          "modelName": "210 Décapotable",
+          "modelYearFrom": "1988-05-01",
+          "modelYearTo": "1990-09-01"
+        },
+        {
+          "modelId": 37472,
+          "modelName": "210 Coupé",
+          "modelYearFrom": "1986-07-01",
+          "modelYearTo": "1990-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1556,
+      "manufacturerName": "VENTURI",
+      "groupKey": "AMERICA",
+      "displayName": "AMERICA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9543,
+          "modelName": "AMERICA",
+          "modelYearFrom": "2010-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1556,
+      "manufacturerName": "VENTURI",
+      "groupKey": "ASTROLAB",
+      "displayName": "ASTROLAB",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9544,
+          "modelName": "ASTROLAB",
+          "modelYearFrom": "2008-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1556,
+      "manufacturerName": "VENTURI",
+      "groupKey": "FETISH",
+      "displayName": "FETISH",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9545,
+          "modelName": "FETISH",
+          "modelYearFrom": "2007-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1556,
+      "manufacturerName": "VENTURI",
+      "groupKey": "GT",
+      "displayName": "GT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37469,
+          "modelName": "GT",
+          "modelYearFrom": "1995-04-01",
+          "modelYearTo": "2000-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1556,
+      "manufacturerName": "VENTURI",
+      "groupKey": "VOLAGE",
+      "displayName": "VOLAGE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9546,
+          "modelName": "VOLAGE",
+          "modelYearFrom": "2012-03-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

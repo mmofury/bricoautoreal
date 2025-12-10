@@ -1,0 +1,139 @@
+{
+  "productName": "Poulie, pompe de direction assistée",
+  "searchText": "Poulie, pompe de direction assistée",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:03:41.107Z",
+  "productId": 4204,
+  "arborescence": {
+    "Commande à courroie": {
+      "categoryId": 100016,
+      "categoryName": "Commande à courroie",
+      "level": 1,
+      "children": {
+        "Poulie": {
+          "categoryId": null,
+          "categoryName": "Poulie",
+          "level": 2,
+          "children": {
+            "Poulie, pompe de direction assistée": {
+              "categoryId": 101971,
+              "categoryName": "Belt Pulley",
+              "level": 2,
+              "children": [],
+              "productId": 4204
+            }
+          }
+        }
+      }
+    },
+    "Direction": {
+      "categoryId": 100012,
+      "categoryName": "Direction",
+      "level": 1,
+      "children": {
+        "Crémaillère de direction/pompe": {
+          "categoryId": null,
+          "categoryName": "Crémaillère de direction/pompe",
+          "level": 2,
+          "children": {
+            "Poulie, pompe de direction assistée": {
+              "categoryId": 100199,
+              "categoryName": "Steering Gear/Pump",
+              "level": 2,
+              "children": [],
+              "productId": 4204
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Commande à courroie": {
+          "categoryId": null,
+          "categoryName": "Commande à courroie",
+          "level": 2,
+          "children": {
+            "Poulie, pompe de direction assistée": {
+              "categoryId": 104302,
+              "categoryName": "Belt Drive",
+              "level": 2,
+              "children": {
+                "Poulie": {
+                  "categoryId": null,
+                  "categoryName": "Poulie",
+                  "level": 4,
+                  "children": {
+                    "Poulie, pompe de direction assistée": {
+                      "categoryId": 104329,
+                      "categoryName": "Belt Pulley",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4204
+                    }
+                  }
+                }
+              },
+              "productId": 4204
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Commande à courroie [ID: 100016] (Niveau 1)\n│   └── Poulie (Niveau 2)\n│       └── Belt Pulley [ID: 101971] (Niveau 2) → ProductId: 4204\n\n├── Direction [ID: 100012] (Niveau 1)\n│   └── Crémaillère de direction/pompe (Niveau 2)\n│       └── Steering Gear/Pump [ID: 100199] (Niveau 2) → ProductId: 4204\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Commande à courroie (Niveau 2)\n        └── Belt Drive [ID: 104302] (Niveau 2) → ProductId: 4204\n            └── Poulie (Niveau 4)\n                └── Belt Pulley [ID: 104329] (Niveau 3) → ProductId: 4204",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Commande à courroie",
+        "Poulie",
+        "Belt Pulley"
+      ],
+      "categoryIds": [
+        100016,
+        null,
+        101971
+      ],
+      "finalCategoryId": 101971,
+      "productId": 4204
+    },
+    {
+      "path": [
+        "Direction",
+        "Crémaillère de direction/pompe",
+        "Steering Gear/Pump"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        100199
+      ],
+      "finalCategoryId": 100199,
+      "productId": 4204
+    },
+    {
+      "path": [
+        "Moteur",
+        "Commande à courroie",
+        "Belt Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        104302
+      ],
+      "finalCategoryId": 104302,
+      "productId": 4204
+    }
+  ],
+  "productIdsInArbo": [
+    4204
+  ],
+  "matchedProductIds": [
+    4204
+  ]
+}

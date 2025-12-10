@@ -1,0 +1,112 @@
+{
+  "productName": "Vérin, vitre arrière",
+  "searchText": "Vérin, vitre arrière",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:36:56.251Z",
+  "productId": 2454,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Arrière de la voiture": {
+          "categoryId": null,
+          "categoryName": "Arrière de la voiture",
+          "level": 2,
+          "children": {
+            "Vérin, vitre arrière": {
+              "categoryId": 101705,
+              "categoryName": "Vehicle Rear",
+              "level": 2,
+              "children": {
+                "Composants/suppléments": {
+                  "categoryId": null,
+                  "categoryName": "Composants/suppléments",
+                  "level": 4,
+                  "children": {
+                    "Vérin, vitre arrière": {
+                      "categoryId": 101745,
+                      "categoryName": "Parts",
+                      "level": 3,
+                      "children": {
+                        "Ressorts pneumatiques": {
+                          "categoryId": null,
+                          "categoryName": "Ressorts pneumatiques",
+                          "level": 6,
+                          "children": {
+                            "Vérin, vitre arrière": {
+                              "categoryId": 101752,
+                              "categoryName": "Gas Springs",
+                              "level": 4,
+                              "children": [],
+                              "productId": 2454
+                            }
+                          }
+                        }
+                      },
+                      "productId": 2454
+                    }
+                  }
+                }
+              },
+              "productId": 2454
+            }
+          }
+        },
+        "Ressorts pneumatiques": {
+          "categoryId": null,
+          "categoryName": "Ressorts pneumatiques",
+          "level": 2,
+          "children": {
+            "Vérin, vitre arrière": {
+              "categoryId": 100826,
+              "categoryName": "Gas Springs",
+              "level": 2,
+              "children": [],
+              "productId": 2454
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    ├── Arrière de la voiture (Niveau 2)\n    │   └── Vehicle Rear [ID: 101705] (Niveau 2) → ProductId: 2454\n    │       └── Composants/suppléments (Niveau 4)\n    │           └── Parts [ID: 101745] (Niveau 3) → ProductId: 2454\n    │               └── Ressorts pneumatiques (Niveau 6)\n    │                   └── Gas Springs [ID: 101752] (Niveau 4) → ProductId: 2454\n    └── Ressorts pneumatiques (Niveau 2)\n        └── Gas Springs [ID: 100826] (Niveau 2) → ProductId: 2454",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Vehicle Rear"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101705
+      ],
+      "finalCategoryId": 101705,
+      "productId": 2454
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Ressorts pneumatiques",
+        "Gas Springs"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100826
+      ],
+      "finalCategoryId": 100826,
+      "productId": 2454
+    }
+  ],
+  "productIdsInArbo": [
+    2454
+  ],
+  "matchedProductIds": [
+    2454
+  ]
+}

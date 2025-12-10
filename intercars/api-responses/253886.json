@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "253886",
+      "index": "FE04818",
+      "tecDoc": "04818",
+      "tecDocProd": "101",
+      "articleNumber": "04818",
+      "brand": "FEBI",
+      "shortDescription": "Screw Plug",
+      "description": "Engine cap",
+      "packageWeight": "0,084",
+      "packageWidth": "5,000",
+      "packageDepth": "55,000",
+      "packageHeight": "5,000",
+      "customsCode": "84099900",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_2312",
+          "primary": true,
+          "name": {
+            "en": "Screw Plug"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_60155",
+          "primary": false,
+          "name": {
+            "en": "Screw Plug, cylinder head"
+          }
+        }
+      ]
+    }
+  ]
+}

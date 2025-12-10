@@ -1,0 +1,89 @@
+{
+  "productName": "Huile pour direction assistée",
+  "searchText": "Huile pour direction assistée",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:44:51.444Z",
+  "productId": 3354,
+  "arborescence": {
+    "Direction": {
+      "categoryId": 100012,
+      "categoryName": "Direction",
+      "level": 1,
+      "children": {
+        "Huiles": {
+          "categoryId": null,
+          "categoryName": "Huiles",
+          "level": 2,
+          "children": {
+            "Huile pour direction assistée": {
+              "categoryId": 102203,
+              "categoryName": "Oil",
+              "level": 2,
+              "children": [],
+              "productId": 3354
+            }
+          }
+        }
+      }
+    },
+    "Pièces de maintenance": {
+      "categoryId": 100019,
+      "categoryName": "Pièces de maintenance",
+      "level": 1,
+      "children": {
+        "Intervalle": {
+          "categoryId": null,
+          "categoryName": "Intervalle",
+          "level": 2,
+          "children": {
+            "Huile pour direction assistée": {
+              "categoryId": 100597,
+              "categoryName": "Service Intervals",
+              "level": 2,
+              "children": [],
+              "productId": 3354
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Direction [ID: 100012] (Niveau 1)\n│   └── Huiles (Niveau 2)\n│       └── Oil [ID: 102203] (Niveau 2) → ProductId: 3354\n\n└── Pièces de maintenance [ID: 100019] (Niveau 1)\n    └── Intervalle (Niveau 2)\n        └── Service Intervals [ID: 100597] (Niveau 2) → ProductId: 3354",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Direction",
+        "Huiles",
+        "Oil"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        102203
+      ],
+      "finalCategoryId": 102203,
+      "productId": 3354
+    },
+    {
+      "path": [
+        "Pièces de maintenance",
+        "Intervalle",
+        "Service Intervals"
+      ],
+      "categoryIds": [
+        100019,
+        null,
+        100597
+      ],
+      "finalCategoryId": 100597,
+      "productId": 3354
+    }
+  ],
+  "productIdsInArbo": [
+    3354
+  ],
+  "matchedProductIds": [
+    3354
+  ]
+}

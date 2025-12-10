@@ -1,0 +1,69 @@
+{
+  "productName": "Manchon, fixation du bras transversal",
+  "searchText": "Manchon, fixation du bras transversal",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:13:44.886Z",
+  "productId": 1599,
+  "arborescence": {
+    "Suspension d'essieu/Guidage des roues/Roues": {
+      "categoryId": 100013,
+      "categoryName": "Suspension d'essieu/Guidage des roues/Roues",
+      "level": 1,
+      "children": {
+        "Bras oscillant / suspension": {
+          "categoryId": null,
+          "categoryName": "Bras oscillant / suspension",
+          "level": 2,
+          "children": {
+            "Manchon, fixation du bras transversal": {
+              "categoryId": 100208,
+              "categoryName": "Steering Link/Control/Trailing Arm Mounting",
+              "level": 2,
+              "children": {
+                "Fixation/placement": {
+                  "categoryId": null,
+                  "categoryName": "Fixation/placement",
+                  "level": 4,
+                  "children": {
+                    "Manchon, fixation du bras transversal": {
+                      "categoryId": 100572,
+                      "categoryName": "Mounting/Fastening",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1599
+                    }
+                  }
+                }
+              },
+              "productId": 1599
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Suspension d'essieu/Guidage des roues/Roues [ID: 100013] (Niveau 1)\n    └── Bras oscillant / suspension (Niveau 2)\n        └── Steering Link/Control/Trailing Arm Mounting [ID: 100208] (Niveau 2) → ProductId: 1599\n            └── Fixation/placement (Niveau 4)\n                └── Mounting/Fastening [ID: 100572] (Niveau 3) → ProductId: 1599",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Bras oscillant / suspension",
+        "Steering Link/Control/Trailing Arm Mounting"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        100208
+      ],
+      "finalCategoryId": 100208,
+      "productId": 1599
+    }
+  ],
+  "productIdsInArbo": [
+    1599
+  ],
+  "matchedProductIds": [
+    1599
+  ]
+}

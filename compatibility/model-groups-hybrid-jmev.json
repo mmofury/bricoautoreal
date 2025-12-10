@@ -1,0 +1,130 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.363Z",
+  "manufacturer": "JMEV",
+  "countGroups": 7,
+  "groups": [
+    {
+      "manufacturerId": 5219,
+      "manufacturerName": "JMEV",
+      "groupKey": "APOLLO",
+      "displayName": "APOLLO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45527,
+          "modelName": "APOLLO RT6",
+          "modelYearFrom": "2024-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5219,
+      "manufacturerName": "JMEV",
+      "groupKey": "E100",
+      "displayName": "E100",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39447,
+          "modelName": "E100",
+          "modelYearFrom": "2014-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5219,
+      "manufacturerName": "JMEV",
+      "groupKey": "E160",
+      "displayName": "E160",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39448,
+          "modelName": "E160",
+          "modelYearFrom": "2017-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5219,
+      "manufacturerName": "JMEV",
+      "groupKey": "E200",
+      "displayName": "E200",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39449,
+          "modelName": "E200",
+          "modelYearFrom": "2016-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39585,
+          "modelName": "E200",
+          "modelYearFrom": "2017-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5219,
+      "manufacturerName": "JMEV",
+      "groupKey": "E400",
+      "displayName": "E400",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39450,
+          "modelName": "E400",
+          "modelYearFrom": "2018-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5219,
+      "manufacturerName": "JMEV",
+      "groupKey": "EVEASY",
+      "displayName": "EVEASY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39451,
+          "modelName": "EVEASY EV3",
+          "modelYearFrom": "2019-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39989,
+          "modelName": "EVEASY EX5",
+          "modelYearFrom": "2019-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43756,
+          "modelName": "EVEASY EV2",
+          "modelYearFrom": "2022-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5219,
+      "manufacturerName": "JMEV",
+      "groupKey": "YI",
+      "displayName": "YI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42421,
+          "modelName": "YI",
+          "modelYearFrom": "2021-09-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

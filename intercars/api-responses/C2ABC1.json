@@ -1,0 +1,43 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "C2ABC1",
+      "index": "RAV DCT-DSG HV FLUIDE 1L",
+      "tecDoc": "1212106",
+      "tecDocProd": "461",
+      "articleNumber": "1212106",
+      "brand": "RAVENOL",
+      "shortDescription": "Automatic transmission oil",
+      "description": "ATF oil DSG (1L) , AUDI TL 525 29, BMW 8322 0440 214, BMW 8322 2147 477, BMW 8322 2148 578, BMW 8322 2148 579, BMW 8322 2446 673, BMW DCTF 1, BOT 341, CHRYSLER 68044345EA, CITROEN 9734S2, DIA QUEEN SS",
+      "gtuCode": "GTU_03",
+      "eans": [
+        "4014835718913"
+      ],
+      "packageWeight": "0,942",
+      "packageWidth": "10,000",
+      "packageDepth": "6,500",
+      "packageHeight": "24,000",
+      "customsCode": "34031980",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_8561",
+          "primary": false,
+          "name": {
+            "en": "Oil, dual-clutch transmission"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3069",
+          "primary": true,
+          "name": {
+            "en": "Automatic transmission oil"
+          }
+        }
+      ]
+    }
+  ]
+}

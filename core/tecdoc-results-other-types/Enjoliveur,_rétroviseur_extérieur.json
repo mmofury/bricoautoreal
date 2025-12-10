@@ -1,0 +1,49 @@
+{
+  "productName": "Enjoliveur, rétroviseur extérieur",
+  "productId": 2476,
+  "searchText": "Enjoliveur, rétroviseur extérieur",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Cabine du conducteur/carrosserie": {
+          "categoryId": 200022,
+          "categoryName": "Cabine du conducteur/carrosserie",
+          "level": 1,
+          "children": {
+            "Miroirs/accessoires": {
+              "categoryId": null,
+              "categoryName": "Miroirs/accessoires",
+              "level": 2,
+              "children": {
+                "Enjoliveur, rétroviseur extérieur": {
+                  "categoryId": 200024,
+                  "categoryName": "Mirror/ Accessories",
+                  "level": 2,
+                  "children": [],
+                  "productId": 2476
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Cabine du conducteur/carrosserie [ID: 200022] (Niveau 1)\n    └── Miroirs/accessoires (Niveau 2)\n        └── Mirror/ Accessories [ID: 200024] (Niveau 2) → ProductId: 2476",
+      "productIdsInArbo": [
+        2476
+      ],
+      "matchedProductIds": [
+        2476
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:25:36.806Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

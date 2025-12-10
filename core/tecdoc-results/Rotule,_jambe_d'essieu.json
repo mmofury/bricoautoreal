@@ -1,0 +1,54 @@
+{
+  "productName": "Rotule, jambe d'essieu",
+  "searchText": "Rotule, jambe d'essieu",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:11:59.765Z",
+  "productId": 3202,
+  "arborescence": {
+    "Suspension d'essieu/Guidage des roues/Roues": {
+      "categoryId": 100013,
+      "categoryName": "Suspension d'essieu/Guidage des roues/Roues",
+      "level": 1,
+      "children": {
+        "Jambes de force / barres": {
+          "categoryId": null,
+          "categoryName": "Jambes de force / barres",
+          "level": 2,
+          "children": {
+            "Rotule, jambe d'essieu": {
+              "categoryId": 100209,
+              "categoryName": "Struts/Rods",
+              "level": 2,
+              "children": [],
+              "productId": 3202
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Suspension d'essieu/Guidage des roues/Roues [ID: 100013] (Niveau 1)\n    └── Jambes de force / barres (Niveau 2)\n        └── Struts/Rods [ID: 100209] (Niveau 2) → ProductId: 3202",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Jambes de force / barres",
+        "Struts/Rods"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        100209
+      ],
+      "finalCategoryId": 100209,
+      "productId": 3202
+    }
+  ],
+  "productIdsInArbo": [
+    3202
+  ],
+  "matchedProductIds": [
+    3202
+  ]
+}

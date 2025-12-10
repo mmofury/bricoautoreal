@@ -1,0 +1,104 @@
+{
+  "productName": "Filtre à air sport",
+  "searchText": "Filtre à air sport",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:39:38.644Z",
+  "productId": 3883,
+  "arborescence": {
+    "Filtre": {
+      "categoryId": 100005,
+      "categoryName": "Filtre",
+      "level": 1,
+      "children": {
+        "Filtre à air": {
+          "categoryId": null,
+          "categoryName": "Filtre à air",
+          "level": 2,
+          "children": {
+            "Filtre à air sport": {
+              "categoryId": 100260,
+              "categoryName": "Air Filter",
+              "level": 2,
+              "children": [],
+              "productId": 3883
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Alimentation en air": {
+          "categoryId": null,
+          "categoryName": "Alimentation en air",
+          "level": 2,
+          "children": {
+            "Filtre à air sport": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Filtre à air / carter": {
+                  "categoryId": null,
+                  "categoryName": "Filtre à air / carter",
+                  "level": 4,
+                  "children": {
+                    "Filtre à air sport": {
+                      "categoryId": 100384,
+                      "categoryName": "Air Filter/ Housing",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3883
+                    }
+                  }
+                }
+              },
+              "productId": 3883
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Filtre [ID: 100005] (Niveau 1)\n│   └── Filtre à air (Niveau 2)\n│       └── Air Filter [ID: 100260] (Niveau 2) → ProductId: 3883\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Alimentation en air (Niveau 2)\n        └── Air Supply [ID: 100383] (Niveau 2) → ProductId: 3883\n            └── Filtre à air / carter (Niveau 4)\n                └── Air Filter/ Housing [ID: 100384] (Niveau 3) → ProductId: 3883",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Filtre",
+        "Filtre à air",
+        "Air Filter"
+      ],
+      "categoryIds": [
+        100005,
+        null,
+        100260
+      ],
+      "finalCategoryId": 100260,
+      "productId": 3883
+    },
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 3883
+    }
+  ],
+  "productIdsInArbo": [
+    3883
+  ],
+  "matchedProductIds": [
+    3883
+  ]
+}

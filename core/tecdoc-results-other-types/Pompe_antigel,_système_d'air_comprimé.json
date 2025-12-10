@@ -1,0 +1,49 @@
+{
+  "productName": "Pompe antigel, système d'air comprimé",
+  "productId": 336,
+  "searchText": "Pompe antigel, système d'air comprimé",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Système pneumatique": {
+          "categoryId": 200059,
+          "categoryName": "Système pneumatique",
+          "level": 1,
+          "children": {
+            "Pompe à antigel": {
+              "categoryId": null,
+              "categoryName": "Pompe à antigel",
+              "level": 2,
+              "children": {
+                "Pompe antigel, système d'air comprimé": {
+                  "categoryId": 200111,
+                  "categoryName": "Antifreeze Pump",
+                  "level": 2,
+                  "children": [],
+                  "productId": 336
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système pneumatique [ID: 200059] (Niveau 1)\n    └── Pompe à antigel (Niveau 2)\n        └── Antifreeze Pump [ID: 200111] (Niveau 2) → ProductId: 336",
+      "productIdsInArbo": [
+        336
+      ],
+      "matchedProductIds": [
+        336
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:15:21.893Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

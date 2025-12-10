@@ -1,0 +1,73 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.543Z",
+  "manufacturer": "WULING",
+  "countGroups": 4,
+  "groups": [
+    {
+      "manufacturerId": 2874,
+      "manufacturerName": "WULING",
+      "groupKey": "DIANKA",
+      "displayName": "DIANKA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42931,
+          "modelName": "DIANKA",
+          "modelYearFrom": "2021-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2874,
+      "manufacturerName": "WULING",
+      "groupKey": "EV50",
+      "displayName": "EV50",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40888,
+          "modelName": "EV50 Fourgon",
+          "modelYearFrom": "2020-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2874,
+      "manufacturerName": "WULING",
+      "groupKey": "EV80",
+      "displayName": "EV80",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42934,
+          "modelName": "EV80 Fourgon",
+          "modelYearFrom": "2022-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2874,
+      "manufacturerName": "WULING",
+      "groupKey": "RONGGUANG",
+      "displayName": "RONGGUANG",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40865,
+          "modelName": "RONGGUANG Camion plate-forme/Châssis",
+          "modelYearFrom": "2020-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40866,
+          "modelName": "RONGGUANG Camion plate-forme/Châssis",
+          "modelYearFrom": "2020-06-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

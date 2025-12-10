@@ -1,0 +1,460 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.383Z",
+  "manufacturer": "LEXUS",
+  "countGroups": 19,
+  "groups": [
+    {
+      "manufacturerId": 842,
+      "manufacturerName": "LEXUS",
+      "groupKey": "CT",
+      "displayName": "CT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9014,
+          "modelName": "CT (ZWA10_)",
+          "modelYearFrom": "2010-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 842,
+      "manufacturerName": "LEXUS",
+      "groupKey": "ES",
+      "displayName": "ES",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4245,
+          "modelName": "ES (VCV10_, VZV21_)",
+          "modelYearFrom": "1989-09-01",
+          "modelYearTo": "1997-12-01"
+        },
+        {
+          "modelId": 5812,
+          "modelName": "ES (MCV_, VZV_)",
+          "modelYearFrom": "1996-08-01",
+          "modelYearTo": "2008-06-01"
+        },
+        {
+          "modelId": 9630,
+          "modelName": "ES (_V4_)",
+          "modelYearFrom": "2006-03-01",
+          "modelYearTo": "2012-12-01"
+        },
+        {
+          "modelId": 11183,
+          "modelName": "ES (_V6_)",
+          "modelYearFrom": "2012-06-01",
+          "modelYearTo": "2018-06-01"
+        },
+        {
+          "modelId": 39145,
+          "modelName": "ES (_Z10_, _A10_, _H10_)",
+          "modelYearFrom": "2018-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 842,
+      "manufacturerName": "LEXUS",
+      "groupKey": "GS",
+      "displayName": "GS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4246,
+          "modelName": "GS (JZS147_)",
+          "modelYearFrom": "1993-01-01",
+          "modelYearTo": "1997-08-01"
+        },
+        {
+          "modelId": 4690,
+          "modelName": "GS (_S16_)",
+          "modelYearFrom": "1997-08-01",
+          "modelYearTo": "2004-12-01"
+        },
+        {
+          "modelId": 5433,
+          "modelName": "GS (_S19_)",
+          "modelYearFrom": "2005-01-01",
+          "modelYearTo": "2012-12-01"
+        },
+        {
+          "modelId": 10095,
+          "modelName": "GS (_L1_)",
+          "modelYearFrom": "2011-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 842,
+      "manufacturerName": "LEXUS",
+      "groupKey": "GX",
+      "displayName": "GX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9578,
+          "modelName": "GX (URJ15_, GRJ15_)",
+          "modelYearFrom": "2009-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10018,
+          "modelName": "GX (_J12_)",
+          "modelYearFrom": "2001-11-01",
+          "modelYearTo": "2009-11-01"
+        },
+        {
+          "modelId": 45092,
+          "modelName": "GX (VJA_, _JH2_)",
+          "modelYearFrom": "2024-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 842,
+      "manufacturerName": "LEXUS",
+      "groupKey": "HS",
+      "displayName": "HS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9050,
+          "modelName": "HS (ANF10)",
+          "modelYearFrom": "2009-07-01",
+          "modelYearTo": "2018-01-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 842,
+      "manufacturerName": "LEXUS",
+      "groupKey": "IS",
+      "displayName": "IS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4247,
+          "modelName": "IS I (_E1_)",
+          "modelYearFrom": "1999-04-01",
+          "modelYearTo": "2005-07-01"
+        },
+        {
+          "modelId": 4839,
+          "modelName": "IS SportCross (_E1_)",
+          "modelYearFrom": "2001-10-01",
+          "modelYearTo": "2005-10-01"
+        },
+        {
+          "modelId": 5465,
+          "modelName": "IS II (_E2_)",
+          "modelYearFrom": "2005-08-01",
+          "modelYearTo": "2013-04-01"
+        },
+        {
+          "modelId": 8175,
+          "modelName": "IS C (GSE2_)",
+          "modelYearFrom": "2009-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11227,
+          "modelName": "IS III (_E3_)",
+          "modelYearFrom": "2013-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 842,
+      "manufacturerName": "LEXUS",
+      "groupKey": "LBX",
+      "displayName": "LBX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44795,
+          "modelName": "LBX (_AYH1_, _AYA1_)",
+          "modelYearFrom": "2023-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 842,
+      "manufacturerName": "LEXUS",
+      "groupKey": "LC",
+      "displayName": "LC",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37348,
+          "modelName": "LC Coupé (_Z10_)",
+          "modelYearFrom": "2016-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42135,
+          "modelName": "LC Décapotable (_Z10_)",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 842,
+      "manufacturerName": "LEXUS",
+      "groupKey": "LFA",
+      "displayName": "LFA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8961,
+          "modelName": "LFA (LFA10_)",
+          "modelYearFrom": "2010-12-01",
+          "modelYearTo": "2012-11-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 842,
+      "manufacturerName": "LEXUS",
+      "groupKey": "LM",
+      "displayName": "LM",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40471,
+          "modelName": "LM (_H3_, AAWH1_)",
+          "modelYearFrom": "2020-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44999,
+          "modelName": "LM (_H1_)",
+          "modelYearFrom": "2023-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 842,
+      "manufacturerName": "LEXUS",
+      "groupKey": "LS",
+      "displayName": "LS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4248,
+          "modelName": "LS (_F1_)",
+          "modelYearFrom": "1989-09-01",
+          "modelYearTo": "1995-12-01"
+        },
+        {
+          "modelId": 4691,
+          "modelName": "LS (_F2_)",
+          "modelYearFrom": "1994-10-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 4738,
+          "modelName": "LS (_F3_)",
+          "modelYearFrom": "2000-08-01",
+          "modelYearTo": "2006-08-01"
+        },
+        {
+          "modelId": 6742,
+          "modelName": "LS (_F4_)",
+          "modelYearFrom": "2006-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38365,
+          "modelName": "LS (_F5_)",
+          "modelYearFrom": "2017-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 842,
+      "manufacturerName": "LEXUS",
+      "groupKey": "LX",
+      "displayName": "LX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9078,
+          "modelName": "LX (UZJ100)",
+          "modelYearFrom": "1997-09-01",
+          "modelYearTo": "2008-03-01"
+        },
+        {
+          "modelId": 9079,
+          "modelName": "LX (_J2_)",
+          "modelYearFrom": "2007-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 35450,
+          "modelName": "LX",
+          "modelYearFrom": "1995-09-01",
+          "modelYearTo": "1997-12-01"
+        },
+        {
+          "modelId": 42623,
+          "modelName": "LX (_J3_)",
+          "modelYearFrom": "2021-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 842,
+      "manufacturerName": "LEXUS",
+      "groupKey": "NX",
+      "displayName": "NX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 12998,
+          "modelName": "NX (_Z1_)",
+          "modelYearFrom": "2014-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42515,
+          "modelName": "NX II (_A2_, _H2_)",
+          "modelYearFrom": "2021-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 842,
+      "manufacturerName": "LEXUS",
+      "groupKey": "RC",
+      "displayName": "RC",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11956,
+          "modelName": "RC (_C1_)",
+          "modelYearFrom": "2014-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 842,
+      "manufacturerName": "LEXUS",
+      "groupKey": "RX",
+      "displayName": "RX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4347,
+          "modelName": "RX (MCU15)",
+          "modelYearFrom": "1998-01-01",
+          "modelYearTo": "2003-05-01"
+        },
+        {
+          "modelId": 5001,
+          "modelName": "RX (_U3_)",
+          "modelYearFrom": "2003-02-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 8136,
+          "modelName": "RX (_L1_)",
+          "modelYearFrom": "2008-12-01",
+          "modelYearTo": "2015-12-01"
+        },
+        {
+          "modelId": 14797,
+          "modelName": "RX (_L2_)",
+          "modelYearFrom": "2015-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43525,
+          "modelName": "RX (_LA1_, _LH1_)",
+          "modelYearFrom": "2022-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 842,
+      "manufacturerName": "LEXUS",
+      "groupKey": "RZ",
+      "displayName": "RZ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43972,
+          "modelName": "RZ (_BM1_)",
+          "modelYearFrom": "2023-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 842,
+      "manufacturerName": "LEXUS",
+      "groupKey": "SC",
+      "displayName": "SC",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4765,
+          "modelName": "SC Décapotable (UZZ40_)",
+          "modelYearFrom": "2001-01-01",
+          "modelYearTo": "2010-07-01"
+        },
+        {
+          "modelId": 11667,
+          "modelName": "SC Coupé (_ZZ3_)",
+          "modelYearFrom": "1991-08-01",
+          "modelYearTo": "2000-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 842,
+      "manufacturerName": "LEXUS",
+      "groupKey": "TX",
+      "displayName": "TX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45103,
+          "modelName": "TX (TAU_, GYU_)",
+          "modelYearFrom": "2023-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 842,
+      "manufacturerName": "LEXUS",
+      "groupKey": "UX",
+      "displayName": "UX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39223,
+          "modelName": "UX (_AA1_, _AH1_, _MA1_)",
+          "modelYearFrom": "2018-10-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

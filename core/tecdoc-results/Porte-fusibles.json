@@ -1,0 +1,57 @@
+{
+  "productName": "Porte-fusibles",
+  "searchText": "Porte-fusibles",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-03T07:03:06.381Z",
+  "productId": 3316,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Boîte à fusibles / support": {
+          "categoryId": null,
+          "categoryName": "Boîte à fusibles / support",
+          "level": 2,
+          "children": {
+            "Porte-fusibles": {
+              "categoryId": 102336,
+              "categoryName": "Fuse Box/Holder",
+              "level": 2,
+              "children": [],
+              "productId": 5026
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Boîte à fusibles / support (Niveau 2)\n        └── Fuse Box/Holder [ID: 102336] (Niveau 2) → ProductId: 5026",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Boîte à fusibles / support",
+        "Fuse Box/Holder"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        102336
+      ],
+      "finalCategoryId": 102336,
+      "productId": 5026
+    }
+  ],
+  "productIdsInArbo": [
+    5026
+  ],
+  "closestProductIds": [
+    {
+      "productId": 5026,
+      "productName": "Porte-fusibles"
+    }
+  ]
+}

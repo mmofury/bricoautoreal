@@ -1,0 +1,448 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.228Z",
+  "manufacturer": "DACIA",
+  "countGroups": 21,
+  "groups": [
+    {
+      "manufacturerId": 139,
+      "manufacturerName": "DACIA",
+      "groupKey": "1100",
+      "displayName": "1100",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37338,
+          "modelName": "1100",
+          "modelYearFrom": "1967-09-01",
+          "modelYearTo": "1971-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 139,
+      "manufacturerName": "DACIA",
+      "groupKey": "1210",
+      "displayName": "1210",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6235,
+          "modelName": "1210",
+          "modelYearFrom": "1983-06-01",
+          "modelYearTo": "1994-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 139,
+      "manufacturerName": "DACIA",
+      "groupKey": "1300",
+      "displayName": "1300",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1831,
+          "modelName": "1300",
+          "modelYearFrom": "1972-12-01",
+          "modelYearTo": "1983-05-01"
+        },
+        {
+          "modelId": 1842,
+          "modelName": "1300 Break",
+          "modelYearFrom": "1972-12-01",
+          "modelYearTo": "1983-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 139,
+      "manufacturerName": "DACIA",
+      "groupKey": "1304",
+      "displayName": "1304",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5833,
+          "modelName": "1304 Pick-up",
+          "modelYearFrom": "1983-06-01",
+          "modelYearTo": "2004-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 139,
+      "manufacturerName": "DACIA",
+      "groupKey": "1307",
+      "displayName": "1307",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5834,
+          "modelName": "1307 Camion plate-forme/Châssis",
+          "modelYearFrom": "1984-06-01",
+          "modelYearTo": "1994-11-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 139,
+      "manufacturerName": "DACIA",
+      "groupKey": "1309",
+      "displayName": "1309",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5835,
+          "modelName": "1309 Camion plate-forme/Châssis",
+          "modelYearFrom": "1990-09-01",
+          "modelYearTo": "1994-11-01"
+        },
+        {
+          "modelId": 5836,
+          "modelName": "1309 Pick-up",
+          "modelYearFrom": "1994-12-01",
+          "modelYearTo": "2001-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 139,
+      "manufacturerName": "DACIA",
+      "groupKey": "1310",
+      "displayName": "1310",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1832,
+          "modelName": "1310 A trois volumes (U, X)",
+          "modelYearFrom": "1983-05-01",
+          "modelYearTo": "2004-07-01"
+        },
+        {
+          "modelId": 1843,
+          "modelName": "1310 Break",
+          "modelYearFrom": "1983-05-01",
+          "modelYearTo": "2004-07-01"
+        },
+        {
+          "modelId": 39279,
+          "modelName": "1310 Coupé (U)",
+          "modelYearFrom": "1981-05-01",
+          "modelYearTo": "1992-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 139,
+      "manufacturerName": "DACIA",
+      "groupKey": "1325",
+      "displayName": "1325",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37337,
+          "modelName": "1325",
+          "modelYearFrom": "1989-05-01",
+          "modelYearTo": "1996-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 139,
+      "manufacturerName": "DACIA",
+      "groupKey": "1410",
+      "displayName": "1410",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5837,
+          "modelName": "1410 A trois volumes",
+          "modelYearFrom": "1985-09-01",
+          "modelYearTo": "1998-12-01"
+        },
+        {
+          "modelId": 5838,
+          "modelName": "1410 Break",
+          "modelYearFrom": "1985-09-01",
+          "modelYearTo": "1998-12-01"
+        },
+        {
+          "modelId": 5839,
+          "modelName": "1410 Break",
+          "modelYearFrom": "1994-06-01",
+          "modelYearTo": "1998-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 139,
+      "manufacturerName": "DACIA",
+      "groupKey": "BIGSTER",
+      "displayName": "BIGSTER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45884,
+          "modelName": "BIGSTER",
+          "modelYearFrom": "2024-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 139,
+      "manufacturerName": "DACIA",
+      "groupKey": "DOKKER",
+      "displayName": "DOKKER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10868,
+          "modelName": "DOKKER Monospace (KE_)",
+          "modelYearFrom": "2012-11-01",
+          "modelYearTo": "2021-12-01"
+        },
+        {
+          "modelId": 11137,
+          "modelName": "DOKKER Camionnette/Monospace",
+          "modelYearFrom": "2012-11-01",
+          "modelYearTo": "2021-12-01"
+        },
+        {
+          "modelId": 44626,
+          "modelName": "DOKKER Pick-up",
+          "modelYearFrom": "2017-09-01",
+          "modelYearTo": "2021-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 139,
+      "manufacturerName": "DACIA",
+      "groupKey": "DUSTER",
+      "displayName": "DUSTER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8547,
+          "modelName": "DUSTER (HS_)",
+          "modelYearFrom": "2010-04-01",
+          "modelYearTo": "2018-01-01"
+        },
+        {
+          "modelId": 14955,
+          "modelName": "DUSTER Camionnette/SUV",
+          "modelYearFrom": "2011-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38462,
+          "modelName": "DUSTER (HM_)",
+          "modelYearFrom": "2017-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38688,
+          "modelName": "DUSTER",
+          "modelYearFrom": "1984-03-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 45296,
+          "modelName": "DUSTER (PYM_, PYN_)",
+          "modelYearFrom": "2023-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 139,
+      "manufacturerName": "DACIA",
+      "groupKey": "JOGGER",
+      "displayName": "JOGGER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42575,
+          "modelName": "JOGGER (RK_)",
+          "modelYearFrom": "2021-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 139,
+      "manufacturerName": "DACIA",
+      "groupKey": "LODGY",
+      "displayName": "LODGY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10162,
+          "modelName": "LODGY (JS_)",
+          "modelYearFrom": "2012-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 139,
+      "manufacturerName": "DACIA",
+      "groupKey": "LOGAN",
+      "displayName": "LOGAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5380,
+          "modelName": "LOGAN (LS_)",
+          "modelYearFrom": "2004-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 5620,
+          "modelName": "LOGAN MCV (KS_)",
+          "modelYearFrom": "2007-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 8041,
+          "modelName": "LOGAN EXPRESS (FS_)",
+          "modelYearFrom": "2007-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 8042,
+          "modelName": "LOGAN Pick-up (US_)",
+          "modelYearFrom": "2008-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11138,
+          "modelName": "LOGAN II",
+          "modelYearFrom": "2012-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11291,
+          "modelName": "LOGAN MCV II",
+          "modelYearFrom": "2013-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42574,
+          "modelName": "LOGAN III (3K_)",
+          "modelYearFrom": "2021-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 139,
+      "manufacturerName": "DACIA",
+      "groupKey": "NOVA",
+      "displayName": "NOVA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8022,
+          "modelName": "NOVA",
+          "modelYearFrom": "1996-04-01",
+          "modelYearTo": "2003-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 139,
+      "manufacturerName": "DACIA",
+      "groupKey": "PICK",
+      "displayName": "PICK",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6793,
+          "modelName": "PICK UP",
+          "modelYearFrom": "1989-09-01",
+          "modelYearTo": "2008-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 139,
+      "manufacturerName": "DACIA",
+      "groupKey": "SANDERO",
+      "displayName": "SANDERO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7539,
+          "modelName": "SANDERO",
+          "modelYearFrom": "2008-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10963,
+          "modelName": "SANDERO II",
+          "modelYearFrom": "2012-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42137,
+          "modelName": "SANDERO III",
+          "modelYearFrom": "2021-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 139,
+      "manufacturerName": "DACIA",
+      "groupKey": "SOLENZA",
+      "displayName": "SOLENZA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6445,
+          "modelName": "SOLENZA (B41_)",
+          "modelYearFrom": "2003-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 139,
+      "manufacturerName": "DACIA",
+      "groupKey": "SPRING",
+      "displayName": "SPRING",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41338,
+          "modelName": "SPRING",
+          "modelYearFrom": "2020-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 90152,
+          "modelName": "SPRING Cargo",
+          "modelYearFrom": "2024-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 139,
+      "manufacturerName": "DACIA",
+      "groupKey": "SUPERNOVA",
+      "displayName": "SUPERNOVA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8023,
+          "modelName": "SUPERNOVA",
+          "modelYearFrom": "2000-04-01",
+          "modelYearTo": "2003-03-01"
+        }
+      ]
+    }
+  ]
+}

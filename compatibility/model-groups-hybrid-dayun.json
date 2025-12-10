@@ -1,0 +1,67 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.233Z",
+  "manufacturer": "DAYUN",
+  "countGroups": 4,
+  "groups": [
+    {
+      "manufacturerId": 4267,
+      "manufacturerName": "DAYUN",
+      "groupKey": "MICROVAN",
+      "displayName": "MICROVAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13746,
+          "modelName": "MICROVAN",
+          "modelYearFrom": "2010-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4267,
+      "manufacturerName": "DAYUN",
+      "groupKey": "XING",
+      "displayName": "XING",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41375,
+          "modelName": "XING P30",
+          "modelYearFrom": "2020-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4267,
+      "manufacturerName": "DAYUN",
+      "groupKey": "YUANZHI",
+      "displayName": "YUANZHI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41373,
+          "modelName": "YUANZHI M1",
+          "modelYearFrom": "2020-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4267,
+      "manufacturerName": "DAYUN",
+      "groupKey": "YUEHU",
+      "displayName": "YUEHU",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41299,
+          "modelName": "YUEHU",
+          "modelYearFrom": "2020-05-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Joint, gaine de chauffage",
+  "searchText": "Joint, gaine de chauffage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:55:57.256Z",
+  "productId": 3758,
+  "arborescence": {
+    "Chauffage / Ventilation": {
+      "categoryId": 100241,
+      "categoryName": "Chauffage / Ventilation",
+      "level": 1,
+      "children": {
+        "Gaines/tuyaux": {
+          "categoryId": null,
+          "categoryName": "Gaines/tuyaux",
+          "level": 2,
+          "children": {
+            "Joint, gaine de chauffage": {
+              "categoryId": 100777,
+              "categoryName": "Hoses/Pipes",
+              "level": 2,
+              "children": [],
+              "productId": 3758
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Chauffage / Ventilation [ID: 100241] (Niveau 1)\n    └── Gaines/tuyaux (Niveau 2)\n        └── Hoses/Pipes [ID: 100777] (Niveau 2) → ProductId: 3758",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Chauffage / Ventilation",
+        "Gaines/tuyaux",
+        "Hoses/Pipes"
+      ],
+      "categoryIds": [
+        100241,
+        null,
+        100777
+      ],
+      "finalCategoryId": 100777,
+      "productId": 3758
+    }
+  ],
+  "productIdsInArbo": [
+    3758
+  ],
+  "matchedProductIds": [
+    3758
+  ]
+}

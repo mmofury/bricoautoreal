@@ -1,0 +1,84 @@
+{
+  "productName": "Réservoir à dépression, turbocompresseur",
+  "searchText": "Réservoir à dépression, turbocompresseur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:14:38.819Z",
+  "productId": 60974,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Alimentation en air": {
+          "categoryId": null,
+          "categoryName": "Alimentation en air",
+          "level": 2,
+          "children": {
+            "Réservoir à dépression, turbocompresseur": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Suralimentation": {
+                  "categoryId": null,
+                  "categoryName": "Suralimentation",
+                  "level": 4,
+                  "children": {
+                    "Réservoir à dépression, turbocompresseur": {
+                      "categoryId": 100390,
+                      "categoryName": "Charging (supercharged/turbocharged)",
+                      "level": 3,
+                      "children": {
+                        "Compresseur/composants": {
+                          "categoryId": null,
+                          "categoryName": "Compresseur/composants",
+                          "level": 6,
+                          "children": {
+                            "Réservoir à dépression, turbocompresseur": {
+                              "categoryId": 100391,
+                              "categoryName": "Charger/-parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 60974
+                            }
+                          }
+                        }
+                      },
+                      "productId": 60974
+                    }
+                  }
+                }
+              },
+              "productId": 60974
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Alimentation en air (Niveau 2)\n        └── Air Supply [ID: 100383] (Niveau 2) → ProductId: 60974\n            └── Suralimentation (Niveau 4)\n                └── Charging (supercharged/turbocharged) [ID: 100390] (Niveau 3) → ProductId: 60974\n                    └── Compresseur/composants (Niveau 6)\n                        └── Charger/-parts [ID: 100391] (Niveau 4) → ProductId: 60974",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 60974
+    }
+  ],
+  "productIdsInArbo": [
+    60974
+  ],
+  "matchedProductIds": [
+    60974
+  ]
+}

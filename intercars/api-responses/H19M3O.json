@@ -1,0 +1,43 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H19M3O",
+      "index": "2.00407",
+      "tecDoc": "2.00407",
+      "tecDocProd": "355",
+      "articleNumber": "2.00407",
+      "brand": "DT SPARE PARTS",
+      "shortDescription": "Housing, front fog light",
+      "description": "Bumper element (fog lamp cover) L (abs) fits: VOLVO FH III, FH16 III, FM III 02.20-",
+      "gtuCode": "GTU_07",
+      "customsCode": "87081090",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1511",
+          "primary": false,
+          "name": {
+            "en": "Headlight cover"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_855",
+          "primary": true,
+          "name": {
+            "en": "Housing, front fog light"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_938",
+          "primary": false,
+          "name": {
+            "en": "Bumper"
+          }
+        }
+      ]
+    }
+  ]
+}

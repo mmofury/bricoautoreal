@@ -1,0 +1,83 @@
+{
+  "productName": "Kit de réparation, barre de connexion",
+  "searchText": "Kit de réparation, barre de connexion",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:03:34.150Z",
+  "productId": 770,
+  "arborescence": {
+    "Direction": {
+      "categoryId": 100012,
+      "categoryName": "Direction",
+      "level": 1,
+      "children": {
+        "Barre de connexion / composants": {
+          "categoryId": null,
+          "categoryName": "Barre de connexion / composants",
+          "level": 2,
+          "children": {
+            "Kit de réparation, barre de connexion": {
+              "categoryId": 100601,
+              "categoryName": "Tie Rod Assembly/ Parts",
+              "level": 2,
+              "children": {
+                "Composants de barre de connexion": {
+                  "categoryId": null,
+                  "categoryName": "Composants de barre de connexion",
+                  "level": 4,
+                  "children": {
+                    "Kit de réparation, barre de connexion": {
+                      "categoryId": 100603,
+                      "categoryName": "Parts, tie rod assy.",
+                      "level": 3,
+                      "children": [],
+                      "productId": 770
+                    }
+                  }
+                },
+                "Kit de réparation": {
+                  "categoryId": null,
+                  "categoryName": "Kit de réparation",
+                  "level": 4,
+                  "children": {
+                    "Kit de réparation, barre de connexion": {
+                      "categoryId": 100602,
+                      "categoryName": "Repair Kit",
+                      "level": 3,
+                      "children": [],
+                      "productId": 770
+                    }
+                  }
+                }
+              },
+              "productId": 770
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Direction [ID: 100012] (Niveau 1)\n    └── Barre de connexion / composants (Niveau 2)\n        └── Tie Rod Assembly/ Parts [ID: 100601] (Niveau 2) → ProductId: 770\n            ├── Composants de barre de connexion (Niveau 4)\n            │   └── Parts, tie rod assy. [ID: 100603] (Niveau 3) → ProductId: 770\n            └── Kit de réparation (Niveau 4)\n                └── Repair Kit [ID: 100602] (Niveau 3) → ProductId: 770",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Direction",
+        "Barre de connexion / composants",
+        "Tie Rod Assembly/ Parts"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        100601
+      ],
+      "finalCategoryId": 100601,
+      "productId": 770
+    }
+  ],
+  "productIdsInArbo": [
+    770
+  ],
+  "matchedProductIds": [
+    770
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Élément d'ajustage, Étrier de frein de stationnement",
+  "searchText": "Élément d'ajustage, Étrier de frein de stationnement",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:39:09.258Z",
+  "productId": 4932,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Freins de stationnement": {
+          "categoryId": null,
+          "categoryName": "Freins de stationnement",
+          "level": 2,
+          "children": {
+            "Élément d'ajustage, Étrier de frein de stationnement": {
+              "categoryId": 100034,
+              "categoryName": "Handbrake",
+              "level": 2,
+              "children": [],
+              "productId": 4932
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif de freinage [ID: 100006] (Niveau 1)\n    └── Freins de stationnement (Niveau 2)\n        └── Handbrake [ID: 100034] (Niveau 2) → ProductId: 4932",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Freins de stationnement",
+        "Handbrake"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100034
+      ],
+      "finalCategoryId": 100034,
+      "productId": 4932
+    }
+  ],
+  "productIdsInArbo": [
+    4932
+  ],
+  "matchedProductIds": [
+    4932
+  ]
+}

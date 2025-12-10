@@ -1,0 +1,116 @@
+{
+  "productName": "Douille d'écartement",
+  "searchText": "Douille d'écartement",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T20:33:34.876Z",
+  "productId": 3271,
+  "arborescence": {
+    "Suspension/Amortissement": {
+      "categoryId": 100011,
+      "categoryName": "Suspension/Amortissement",
+      "level": 1,
+      "children": {
+        "Amortisseurs": {
+          "categoryId": null,
+          "categoryName": "Amortisseurs",
+          "level": 2,
+          "children": {
+            "Douille d'écartement, amortisseur": {
+              "categoryId": 100121,
+              "categoryName": "Shock Absorber",
+              "level": 2,
+              "children": [],
+              "productId": 3034
+            },
+            "Douille d'écartement, support de l'amortisseur": {
+              "categoryId": 100121,
+              "categoryName": "Shock Absorber",
+              "level": 2,
+              "children": [],
+              "productId": 3035
+            }
+          }
+        },
+        "Suspension sur ressorts à lames": {
+          "categoryId": null,
+          "categoryName": "Suspension sur ressorts à lames",
+          "level": 2,
+          "children": {
+            "Tube d'écartement, main de suspension": {
+              "categoryId": 100810,
+              "categoryName": "Leaf Spring Suspension",
+              "level": 2,
+              "children": [],
+              "productId": 3028
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Suspension/Amortissement [ID: 100011] (Niveau 1)\n    ├── Amortisseurs (Niveau 2)\n    │   ├── Shock Absorber [ID: 100121] (Niveau 2) → ProductId: 3034\n    │   └── Shock Absorber [ID: 100121] (Niveau 2) → ProductId: 3035\n    └── Suspension sur ressorts à lames (Niveau 2)\n        └── Leaf Spring Suspension [ID: 100810] (Niveau 2) → ProductId: 3028",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Amortisseurs",
+        "Shock Absorber"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        100121
+      ],
+      "finalCategoryId": 100121,
+      "productId": 3034
+    },
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Amortisseurs",
+        "Shock Absorber"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        100121
+      ],
+      "finalCategoryId": 100121,
+      "productId": 3035
+    },
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Suspension sur ressorts à lames",
+        "Leaf Spring Suspension"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        100810
+      ],
+      "finalCategoryId": 100810,
+      "productId": 3028
+    }
+  ],
+  "productIdsInArbo": [
+    3028,
+    3034,
+    3035
+  ],
+  "closestProductIds": [
+    {
+      "productId": 3028,
+      "productName": "Tube d'écartement, main de suspension"
+    },
+    {
+      "productId": 3034,
+      "productName": "Douille d'écartement, amortisseur"
+    },
+    {
+      "productId": 3035,
+      "productName": "Douille d'écartement, support de l'amortisseur"
+    }
+  ]
+}

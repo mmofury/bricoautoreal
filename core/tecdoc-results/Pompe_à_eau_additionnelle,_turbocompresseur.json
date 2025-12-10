@@ -1,0 +1,84 @@
+{
+  "productName": "Pompe à eau additionnelle, turbocompresseur",
+  "searchText": "Pompe à eau additionnelle, turbocompresseur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:01:37.802Z",
+  "productId": 60343,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Alimentation en air": {
+          "categoryId": null,
+          "categoryName": "Alimentation en air",
+          "level": 2,
+          "children": {
+            "Pompe à eau additionnelle, turbocompresseur": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Suralimentation": {
+                  "categoryId": null,
+                  "categoryName": "Suralimentation",
+                  "level": 4,
+                  "children": {
+                    "Pompe à eau additionnelle, turbocompresseur": {
+                      "categoryId": 100390,
+                      "categoryName": "Charging (supercharged/turbocharged)",
+                      "level": 3,
+                      "children": {
+                        "Compresseur/composants": {
+                          "categoryId": null,
+                          "categoryName": "Compresseur/composants",
+                          "level": 6,
+                          "children": {
+                            "Pompe à eau additionnelle, turbocompresseur": {
+                              "categoryId": 100391,
+                              "categoryName": "Charger/-parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 60343
+                            }
+                          }
+                        }
+                      },
+                      "productId": 60343
+                    }
+                  }
+                }
+              },
+              "productId": 60343
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Alimentation en air (Niveau 2)\n        └── Air Supply [ID: 100383] (Niveau 2) → ProductId: 60343\n            └── Suralimentation (Niveau 4)\n                └── Charging (supercharged/turbocharged) [ID: 100390] (Niveau 3) → ProductId: 60343\n                    └── Compresseur/composants (Niveau 6)\n                        └── Charger/-parts [ID: 100391] (Niveau 4) → ProductId: 60343",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 60343
+    }
+  ],
+  "productIdsInArbo": [
+    60343
+  ],
+  "matchedProductIds": [
+    60343
+  ]
+}

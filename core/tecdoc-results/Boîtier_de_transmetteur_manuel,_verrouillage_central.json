@@ -1,0 +1,124 @@
+{
+  "productName": "Boîtier de transmetteur manuel, verrouillage central",
+  "searchText": "Boîtier de transmetteur manuel, verrouillage central",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:10:55.452Z",
+  "productId": 1553,
+  "arborescence": {
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Verrouillage central": {
+          "categoryId": null,
+          "categoryName": "Verrouillage central",
+          "level": 2,
+          "children": {
+            "Boîtier de transmetteur manuel, verrouillage central": {
+              "categoryId": 100617,
+              "categoryName": "Central Locking",
+              "level": 2,
+              "children": [],
+              "productId": 1553
+            }
+          }
+        }
+      }
+    },
+    "Systèmes de sécurité": {
+      "categoryId": 100417,
+      "categoryName": "Systèmes de sécurité",
+      "level": 1,
+      "children": {
+        "Système d'alarme": {
+          "categoryId": null,
+          "categoryName": "Système d'alarme",
+          "level": 2,
+          "children": {
+            "Boîtier de transmetteur manuel, verrouillage central": {
+              "categoryId": 100419,
+              "categoryName": "Alarm System",
+              "level": 2,
+              "children": [],
+              "productId": 1553
+            }
+          }
+        }
+      }
+    },
+    "Verrouillage": {
+      "categoryId": 100685,
+      "categoryName": "Verrouillage",
+      "level": 1,
+      "children": {
+        "Commande à distance, verrouillage central": {
+          "categoryId": null,
+          "categoryName": "Commande à distance, verrouillage central",
+          "level": 2,
+          "children": {
+            "Boîtier de transmetteur manuel, verrouillage central": {
+              "categoryId": 100819,
+              "categoryName": "Remote Control, central locking",
+              "level": 2,
+              "children": [],
+              "productId": 1553
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Systèmes de confort [ID: 100335] (Niveau 1)\n│   └── Verrouillage central (Niveau 2)\n│       └── Central Locking [ID: 100617] (Niveau 2) → ProductId: 1553\n\n├── Systèmes de sécurité [ID: 100417] (Niveau 1)\n│   └── Système d'alarme (Niveau 2)\n│       └── Alarm System [ID: 100419] (Niveau 2) → ProductId: 1553\n\n└── Verrouillage [ID: 100685] (Niveau 1)\n    └── Commande à distance, verrouillage central (Niveau 2)\n        └── Remote Control, central locking [ID: 100819] (Niveau 2) → ProductId: 1553",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Systèmes de confort",
+        "Verrouillage central",
+        "Central Locking"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        100617
+      ],
+      "finalCategoryId": 100617,
+      "productId": 1553
+    },
+    {
+      "path": [
+        "Systèmes de sécurité",
+        "Système d'alarme",
+        "Alarm System"
+      ],
+      "categoryIds": [
+        100417,
+        null,
+        100419
+      ],
+      "finalCategoryId": 100419,
+      "productId": 1553
+    },
+    {
+      "path": [
+        "Verrouillage",
+        "Commande à distance, verrouillage central",
+        "Remote Control, central locking"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100819
+      ],
+      "finalCategoryId": 100819,
+      "productId": 1553
+    }
+  ],
+  "productIdsInArbo": [
+    1553
+  ],
+  "matchedProductIds": [
+    1553
+  ]
+}

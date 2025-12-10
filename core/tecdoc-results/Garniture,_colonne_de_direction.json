@@ -1,0 +1,54 @@
+{
+  "productName": "Garniture, colonne de direction",
+  "searchText": "Garniture, colonne de direction",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:42:44.030Z",
+  "productId": 3561,
+  "arborescence": {
+    "Direction": {
+      "categoryId": 100012,
+      "categoryName": "Direction",
+      "level": 1,
+      "children": {
+        "Colonne de direction / arbre": {
+          "categoryId": null,
+          "categoryName": "Colonne de direction / arbre",
+          "level": 2,
+          "children": {
+            "Garniture, colonne de direction": {
+              "categoryId": 100202,
+              "categoryName": "Steering Column",
+              "level": 2,
+              "children": [],
+              "productId": 3561
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Direction [ID: 100012] (Niveau 1)\n    └── Colonne de direction / arbre (Niveau 2)\n        └── Steering Column [ID: 100202] (Niveau 2) → ProductId: 3561",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Direction",
+        "Colonne de direction / arbre",
+        "Steering Column"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        100202
+      ],
+      "finalCategoryId": 100202,
+      "productId": 3561
+    }
+  ],
+  "productIdsInArbo": [
+    3561
+  ],
+  "matchedProductIds": [
+    3561
+  ]
+}

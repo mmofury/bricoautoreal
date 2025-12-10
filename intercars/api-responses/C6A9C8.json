@@ -1,0 +1,47 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "C6A9C8",
+      "index": "FE37998",
+      "tecDoc": "37998",
+      "tecDocProd": "101",
+      "articleNumber": "37998",
+      "brand": "FEBI",
+      "shortDescription": "Solenoid Valve, shift cylinder",
+      "description": "Gear selector element fits: MERCEDES MK, NG, SK 08.73-12.98",
+      "gtuCode": "GTU_07",
+      "packageWeight": "0,520",
+      "packageWidth": "14,500",
+      "packageDepth": "14,500",
+      "packageHeight": "7,000",
+      "customsCode": "87084099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3635",
+          "primary": true,
+          "name": {
+            "en": "Solenoid Valve, shift cylinder"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_9218",
+          "primary": false,
+          "name": {
+            "en": "Shift Cylinder (manual transmission)"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3298",
+          "primary": false,
+          "name": {
+            "en": "Shift Cylinder"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Bague d'étanchéité, interrupteur de thermostat",
+  "searchText": "Bague d'étanchéité, interrupteur de thermostat",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:03:56.799Z",
+  "productId": 2133,
+  "arborescence": {
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Interrupteur / capteur": {
+          "categoryId": null,
+          "categoryName": "Interrupteur / capteur",
+          "level": 2,
+          "children": {
+            "Bague d'étanchéité, interrupteur de thermostat": {
+              "categoryId": 100334,
+              "categoryName": "Switch/Sensor",
+              "level": 2,
+              "children": [],
+              "productId": 2133
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Refroidissement [ID: 100007] (Niveau 1)\n    └── Interrupteur / capteur (Niveau 2)\n        └── Switch/Sensor [ID: 100334] (Niveau 2) → ProductId: 2133",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Refroidissement",
+        "Interrupteur / capteur",
+        "Switch/Sensor"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100334
+      ],
+      "finalCategoryId": 100334,
+      "productId": 2133
+    }
+  ],
+  "productIdsInArbo": [
+    2133
+  ],
+  "matchedProductIds": [
+    2133
+  ]
+}

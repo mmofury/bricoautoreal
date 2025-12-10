@@ -1,0 +1,54 @@
+{
+  "productName": "Commande, ventilateur électrique (refroidissement du moteur)",
+  "searchText": "Commande, ventilateur électrique (refroidissement du moteur)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:22:59.235Z",
+  "productId": 3545,
+  "arborescence": {
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Contrôle": {
+          "categoryId": null,
+          "categoryName": "Contrôle",
+          "level": 2,
+          "children": {
+            "Commande, ventilateur électrique (refroidissement du moteur)": {
+              "categoryId": 102447,
+              "categoryName": "Control Unit",
+              "level": 2,
+              "children": [],
+              "productId": 3545
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Refroidissement [ID: 100007] (Niveau 1)\n    └── Contrôle (Niveau 2)\n        └── Control Unit [ID: 102447] (Niveau 2) → ProductId: 3545",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Refroidissement",
+        "Contrôle",
+        "Control Unit"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        102447
+      ],
+      "finalCategoryId": 102447,
+      "productId": 3545
+    }
+  ],
+  "productIdsInArbo": [
+    3545
+  ],
+  "matchedProductIds": [
+    3545
+  ]
+}

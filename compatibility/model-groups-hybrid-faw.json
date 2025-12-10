@@ -1,0 +1,268 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.264Z",
+  "manufacturer": "FAW",
+  "countGroups": 15,
+  "groups": [
+    {
+      "manufacturerId": 3610,
+      "manufacturerName": "FAW",
+      "groupKey": "BESTURN",
+      "displayName": "BESTURN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44222,
+          "modelName": "Besturn X80",
+          "modelYearFrom": "2014-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 90031,
+          "modelName": "Besturn B50 (Benteng) A trois volumes",
+          "modelYearFrom": "2009-05-01",
+          "modelYearTo": "2015-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3610,
+      "manufacturerName": "FAW",
+      "groupKey": "D60",
+      "displayName": "D60",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44221,
+          "modelName": "D60",
+          "modelYearFrom": "2017-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3610,
+      "manufacturerName": "FAW",
+      "groupKey": "F1",
+      "displayName": "F1",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9903,
+          "modelName": "F1 A trois volumes",
+          "modelYearFrom": "2008-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 9904,
+          "modelName": "F1 Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2008-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3610,
+      "manufacturerName": "FAW",
+      "groupKey": "F4",
+      "displayName": "F4",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9905,
+          "modelName": "F4",
+          "modelYearFrom": "2008-01-01",
+          "modelYearTo": "2010-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3610,
+      "manufacturerName": "FAW",
+      "groupKey": "F5",
+      "displayName": "F5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9906,
+          "modelName": "F5 A trois volumes",
+          "modelYearFrom": "2008-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14627,
+          "modelName": "F5 Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2008-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3610,
+      "manufacturerName": "FAW",
+      "groupKey": "GF250",
+      "displayName": "GF250",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38830,
+          "modelName": "GF250 Camion plate-forme/Châssis",
+          "modelYearFrom": "2012-01-01",
+          "modelYearTo": "2015-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3610,
+      "manufacturerName": "FAW",
+      "groupKey": "GF70",
+      "displayName": "GF70",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38829,
+          "modelName": "GF70",
+          "modelYearFrom": "2012-01-01",
+          "modelYearTo": "2014-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3610,
+      "manufacturerName": "FAW",
+      "groupKey": "GF8",
+      "displayName": "GF8",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10339,
+          "modelName": "GF8 Autobus/Autocar",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10340,
+          "modelName": "GF8 Fourgon",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3610,
+      "manufacturerName": "FAW",
+      "groupKey": "GF900",
+      "displayName": "GF900",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10341,
+          "modelName": "GF900 Camion plate-forme/Châssis",
+          "modelYearFrom": "2009-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3610,
+      "manufacturerName": "FAW",
+      "groupKey": "OLEY",
+      "displayName": "OLEY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10474,
+          "modelName": "OLEY A trois volumes",
+          "modelYearFrom": "2012-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37767,
+          "modelName": "OLEY Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2012-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3610,
+      "manufacturerName": "FAW",
+      "groupKey": "SIRIUS",
+      "displayName": "SIRIUS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13519,
+          "modelName": "SIRIUS",
+          "modelYearFrom": "2014-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41622,
+          "modelName": "SIRIUS Van",
+          "modelYearFrom": "2014-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3610,
+      "manufacturerName": "FAW",
+      "groupKey": "T80",
+      "displayName": "T80",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44220,
+          "modelName": "T80 Camion plate-forme/Châssis",
+          "modelYearFrom": "2013-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3610,
+      "manufacturerName": "FAW",
+      "groupKey": "V5",
+      "displayName": "V5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44560,
+          "modelName": "V5 (CA7150)",
+          "modelYearFrom": "2012-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3610,
+      "manufacturerName": "FAW",
+      "groupKey": "V80",
+      "displayName": "V80",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44219,
+          "modelName": "V80 Fourgon",
+          "modelYearFrom": "2013-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3610,
+      "manufacturerName": "FAW",
+      "groupKey": "ZIYOUFENG",
+      "displayName": "ZIYOUFENG",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14247,
+          "modelName": "ZIYOUFENG",
+          "modelYearFrom": "2006-05-01",
+          "modelYearTo": "2014-12-01"
+        }
+      ]
+    }
+  ]
+}

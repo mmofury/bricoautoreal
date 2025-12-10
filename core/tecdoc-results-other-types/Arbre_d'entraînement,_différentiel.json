@@ -1,0 +1,178 @@
+{
+  "productName": "Arbre d'entraînement, différentiel",
+  "searchText": "Arbre d'entraînement, différentiel",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": false,
+      "arborescence": {
+        "Entraînement des essieux": {
+          "categoryId": 200056,
+          "categoryName": "Entraînement des essieux",
+          "level": 1,
+          "children": {
+            "Différentiel / pièces de montage de différentiel": {
+              "categoryId": null,
+              "categoryName": "Différentiel / pièces de montage de différentiel",
+              "level": 2,
+              "children": {
+                "Arbre d'entraînement, différentiel": {
+                  "categoryId": 200871,
+                  "categoryName": "Differential/ Parts",
+                  "level": 2,
+                  "children": [],
+                  "productId": 5051
+                }
+              }
+            }
+          }
+        },
+        "Entraînement des roues": {
+          "categoryId": 200055,
+          "categoryName": "Entraînement des roues",
+          "level": 1,
+          "children": {
+            "Arbre de transmission/accessoires": {
+              "categoryId": null,
+              "categoryName": "Arbre de transmission/accessoires",
+              "level": 2,
+              "children": {
+                "Arbre d'entraînement, différentiel": {
+                  "categoryId": 200321,
+                  "categoryName": "Drive Shaft/-Accessories",
+                  "level": 2,
+                  "children": [],
+                  "productId": 5051
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "├── Entraînement des essieux [ID: 200056] (Niveau 1)\n│   └── Différentiel / pièces de montage de différentiel (Niveau 2)\n│       └── Differential/ Parts [ID: 200871] (Niveau 2) → ProductId: 5051\n\n└── Entraînement des roues [ID: 200055] (Niveau 1)\n    └── Arbre de transmission/accessoires (Niveau 2)\n        └── Drive Shaft/-Accessories [ID: 200321] (Niveau 2) → ProductId: 5051",
+      "productIdsInArbo": [
+        5051
+      ]
+    },
+    {
+      "typeId": 3,
+      "found": true,
+      "hasMatch": false,
+      "arborescence": {
+        "Entraînement des essieux": {
+          "categoryId": 100400,
+          "categoryName": "Entraînement des essieux",
+          "level": 1,
+          "children": {
+            "Différentiel": {
+              "categoryId": null,
+              "categoryName": "Différentiel",
+              "level": 2,
+              "children": {
+                "Arbre d'entraînement, différentiel": {
+                  "categoryId": 100415,
+                  "categoryName": "Differential",
+                  "level": 2,
+                  "children": [],
+                  "productId": 5051
+                }
+              }
+            }
+          }
+        },
+        "Entraînement des roues": {
+          "categoryId": 100014,
+          "categoryName": "Entraînement des roues",
+          "level": 1,
+          "children": {
+            "Arbre de transmission": {
+              "categoryId": null,
+              "categoryName": "Arbre de transmission",
+              "level": 2,
+              "children": {
+                "Arbre d'entraînement, différentiel": {
+                  "categoryId": 100062,
+                  "categoryName": "Drive Shaft",
+                  "level": 2,
+                  "children": [],
+                  "productId": 5051
+                }
+              }
+            },
+            "Pièces de fixation / accessoires": {
+              "categoryId": null,
+              "categoryName": "Pièces de fixation / accessoires",
+              "level": 2,
+              "children": {
+                "Arbre d'entraînement, différentiel": {
+                  "categoryId": 100066,
+                  "categoryName": "Assembly Parts",
+                  "level": 2,
+                  "children": [],
+                  "productId": 5051
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "├── Entraînement des essieux [ID: 100400] (Niveau 1)\n│   └── Différentiel (Niveau 2)\n│       └── Differential [ID: 100415] (Niveau 2) → ProductId: 5051\n\n└── Entraînement des roues [ID: 100014] (Niveau 1)\n    ├── Arbre de transmission (Niveau 2)\n    │   └── Drive Shaft [ID: 100062] (Niveau 2) → ProductId: 5051\n    └── Pièces de fixation / accessoires (Niveau 2)\n        └── Assembly Parts [ID: 100066] (Niveau 2) → ProductId: 5051",
+      "productIdsInArbo": [
+        5051
+      ]
+    },
+    {
+      "typeId": 4,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 5,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 6,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 7,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 8,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 9,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 10,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 11,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 12,
+      "found": false,
+      "hasMatch": false
+    }
+  ],
+  "timestamp": "2025-12-03T09:46:23.321Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": false
+  }
+}

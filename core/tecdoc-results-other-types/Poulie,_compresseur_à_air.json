@@ -1,0 +1,64 @@
+{
+  "productName": "Poulie, compresseur à air",
+  "productId": 8755,
+  "searchText": "Poulie, compresseur à air",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Système pneumatique": {
+          "categoryId": 200059,
+          "categoryName": "Système pneumatique",
+          "level": 1,
+          "children": {
+            "Compresseur / composants": {
+              "categoryId": null,
+              "categoryName": "Compresseur / composants",
+              "level": 2,
+              "children": {
+                "Poulie, compresseur à air": {
+                  "categoryId": 200110,
+                  "categoryName": "Air Compressor/Parts",
+                  "level": 2,
+                  "children": {
+                    "Compresseur d'air": {
+                      "categoryId": null,
+                      "categoryName": "Compresseur d'air",
+                      "level": 4,
+                      "children": {
+                        "Poulie, compresseur à air": {
+                          "categoryId": 200445,
+                          "categoryName": "Air compressor",
+                          "level": 3,
+                          "children": [],
+                          "productId": 8755
+                        }
+                      }
+                    }
+                  },
+                  "productId": 8755
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système pneumatique [ID: 200059] (Niveau 1)\n    └── Compresseur / composants (Niveau 2)\n        └── Air Compressor/Parts [ID: 200110] (Niveau 2) → ProductId: 8755\n            └── Compresseur d'air (Niveau 4)\n                └── Air compressor [ID: 200445] (Niveau 3) → ProductId: 8755",
+      "productIdsInArbo": [
+        8755
+      ],
+      "matchedProductIds": [
+        8755
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:17:34.586Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

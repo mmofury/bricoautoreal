@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H0I3KK",
+      "index": "V48-0630",
+      "tecDoc": "V48-0630",
+      "tecDocProd": "162",
+      "articleNumber": "V48-0630",
+      "brand": "VAICO",
+      "shortDescription": "Repair Kit, oil volume storage (autom. transm.)",
+      "description": "Gearbox hydraulic filter fits: LAND ROVER RANGE ROVER IV, RANGE ROVER SPORT II, RANGE ROVER VELAR 2.0-5.0 03.17-",
+      "customsCode": "84212300",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3105",
+          "primary": false,
+          "name": {
+            "en": "Oil Sump, automatic transmission"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_60718",
+          "primary": true,
+          "name": {
+            "en": "Repair Kit, oil volume storage (autom. transm.)"
+          }
+        }
+      ]
+    }
+  ]
+}

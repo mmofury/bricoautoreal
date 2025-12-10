@@ -1,0 +1,73 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.192Z",
+  "manufacturer": "BOLWELL",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 5173,
+      "manufacturerName": "BOLWELL",
+      "groupKey": "MK",
+      "displayName": "MK",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39175,
+          "modelName": "MK. IV Coupé (NG4)",
+          "modelYearFrom": "1962-01-01",
+          "modelYearTo": "1964-12-01"
+        },
+        {
+          "modelId": 39176,
+          "modelName": "MK. IV Décapotable (NG4)",
+          "modelYearFrom": "1962-01-01",
+          "modelYearTo": "1964-12-01"
+        },
+        {
+          "modelId": 39177,
+          "modelName": "MK. V Coupé (NG5)",
+          "modelYearFrom": "1965-01-01",
+          "modelYearTo": "1966-12-01"
+        },
+        {
+          "modelId": 39178,
+          "modelName": "MK. VII Coupé (NG7)",
+          "modelYearFrom": "1967-01-01",
+          "modelYearTo": "1969-12-01"
+        },
+        {
+          "modelId": 39179,
+          "modelName": "MK. VII Décapotable (NG7)",
+          "modelYearFrom": "1967-01-01",
+          "modelYearTo": "1969-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5173,
+      "manufacturerName": "BOLWELL",
+      "groupKey": "NAGARI",
+      "displayName": "NAGARI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39180,
+          "modelName": "NAGARI Coupé (NG1)",
+          "modelYearFrom": "1970-01-01",
+          "modelYearTo": "1974-01-01"
+        },
+        {
+          "modelId": 39181,
+          "modelName": "NAGARI Décapotable (NG1)",
+          "modelYearFrom": "1970-01-01",
+          "modelYearTo": "1974-01-01"
+        },
+        {
+          "modelId": 39182,
+          "modelName": "NAGARI Coupé (NG2)",
+          "modelYearFrom": "2008-06-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

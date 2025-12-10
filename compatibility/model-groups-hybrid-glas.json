@@ -1,0 +1,115 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.291Z",
+  "manufacturer": "GLAS",
+  "countGroups": 6,
+  "groups": [
+    {
+      "manufacturerId": 812,
+      "manufacturerName": "GLAS",
+      "groupKey": "04",
+      "displayName": "04",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1783,
+          "modelName": "04",
+          "modelYearFrom": "1962-01-01",
+          "modelYearTo": "1968-12-01"
+        },
+        {
+          "modelId": 1785,
+          "modelName": "04 Décapotable",
+          "modelYearFrom": "1962-05-01",
+          "modelYearTo": "1968-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 812,
+      "manufacturerName": "GLAS",
+      "groupKey": "1700",
+      "displayName": "1700",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1787,
+          "modelName": "1700",
+          "modelYearFrom": "1955-02-01",
+          "modelYearTo": "1969-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 812,
+      "manufacturerName": "GLAS",
+      "groupKey": "GOGGOMOBIL",
+      "displayName": "GOGGOMOBIL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1779,
+          "modelName": "GOGGOMOBIL",
+          "modelYearFrom": "1954-01-01",
+          "modelYearTo": "1969-12-01"
+        },
+        {
+          "modelId": 1780,
+          "modelName": "GOGGOMOBIL Coupé",
+          "modelYearFrom": "1957-02-01",
+          "modelYearTo": "1969-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 812,
+      "manufacturerName": "GLAS",
+      "groupKey": "GT",
+      "displayName": "GT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 2090,
+          "modelName": "GT Décapotable",
+          "modelYearFrom": "1964-01-01",
+          "modelYearTo": "1968-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 812,
+      "manufacturerName": "GLAS",
+      "groupKey": "ISAR",
+      "displayName": "ISAR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1781,
+          "modelName": "ISAR",
+          "modelYearFrom": "1958-08-01",
+          "modelYearTo": "1967-04-01"
+        },
+        {
+          "modelId": 1782,
+          "modelName": "ISAR Break",
+          "modelYearFrom": "1959-01-01",
+          "modelYearTo": "1968-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 812,
+      "manufacturerName": "GLAS",
+      "groupKey": "V",
+      "displayName": "V",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 2089,
+          "modelName": "V 8",
+          "modelYearFrom": "1966-02-01",
+          "modelYearTo": "1967-08-01"
+        }
+      ]
+    }
+  ]
+}

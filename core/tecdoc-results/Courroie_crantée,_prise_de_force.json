@@ -1,0 +1,54 @@
+{
+  "productName": "Courroie crantée, prise de force",
+  "searchText": "Courroie crantée, prise de force",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:25:47.426Z",
+  "productId": 60089,
+  "arborescence": {
+    "Prise de force": {
+      "categoryId": 103202,
+      "categoryName": "Prise de force",
+      "level": 1,
+      "children": {
+        "Commande à courroie": {
+          "categoryId": null,
+          "categoryName": "Commande à courroie",
+          "level": 2,
+          "children": {
+            "Courroie crantée, prise de force": {
+              "categoryId": 706530,
+              "categoryName": "Belt Drive",
+              "level": 2,
+              "children": [],
+              "productId": 60089
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Prise de force [ID: 103202] (Niveau 1)\n    └── Commande à courroie (Niveau 2)\n        └── Belt Drive [ID: 706530] (Niveau 2) → ProductId: 60089",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Prise de force",
+        "Commande à courroie",
+        "Belt Drive"
+      ],
+      "categoryIds": [
+        103202,
+        null,
+        706530
+      ],
+      "finalCategoryId": 706530,
+      "productId": 60089
+    }
+  ],
+  "productIdsInArbo": [
+    60089
+  ],
+  "matchedProductIds": [
+    60089
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "D0B0ED",
+      "index": "712 1554 10",
+      "tecDoc": "712 1554 10",
+      "tecDocProd": "204",
+      "articleNumber": "712 1554 10",
+      "brand": "INA",
+      "shortDescription": "Bearing, manual transmission",
+      "description": "Gearbox bearing (25,05x35x32)",
+      "customsCode": "84828000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4926",
+          "primary": false,
+          "name": {
+            "en": "Bearing, automatic transmission"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_4099",
+          "primary": true,
+          "name": {
+            "en": "Bearing, manual transmission"
+          }
+        }
+      ]
+    }
+  ]
+}

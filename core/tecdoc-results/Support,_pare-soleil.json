@@ -1,0 +1,57 @@
+{
+  "productName": "Support, pare-soleil",
+  "searchText": "Support, pare-soleil",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-03T07:21:47.286Z",
+  "productId": 5111,
+  "arborescence": {
+    "Équipement intérieur": {
+      "categoryId": 100341,
+      "categoryName": "Équipement intérieur",
+      "level": 1,
+      "children": {
+        "Pare-soleil": {
+          "categoryId": null,
+          "categoryName": "Pare-soleil",
+          "level": 2,
+          "children": {
+            "Support, pare-soleil": {
+              "categoryId": 102698,
+              "categoryName": "Sun Visor",
+              "level": 2,
+              "children": [],
+              "productId": 5642
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Équipement intérieur [ID: 100341] (Niveau 1)\n    └── Pare-soleil (Niveau 2)\n        └── Sun Visor [ID: 102698] (Niveau 2) → ProductId: 5642",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Équipement intérieur",
+        "Pare-soleil",
+        "Sun Visor"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102698
+      ],
+      "finalCategoryId": 102698,
+      "productId": 5642
+    }
+  ],
+  "productIdsInArbo": [
+    5642
+  ],
+  "closestProductIds": [
+    {
+      "productId": 5642,
+      "productName": "Support, pare-soleil"
+    }
+  ]
+}

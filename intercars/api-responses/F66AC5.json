@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "F66AC5",
+      "index": "FE81524",
+      "tecDoc": "81524",
+      "tecDocProd": "101",
+      "articleNumber": "81524",
+      "brand": "FEBI",
+      "shortDescription": "Tyre transportation",
+      "description": "Tyre transport trolley for tyre type: agro/construction/truck",
+      "packageWeight": "74,000",
+      "packageWidth": "85,000",
+      "packageDepth": "118,000",
+      "packageHeight": "77,000",
+      "customsCode": "94032080",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_6217",
+          "primary": false,
+          "name": {
+            "en": "Trolley, lifting accessories"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91763",
+          "primary": true,
+          "name": {
+            "en": "Tyre transportation"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "511065",
+      "index": "446 301 200 0",
+      "tecDoc": "4463012000",
+      "tecDocProd": "22",
+      "articleNumber": "4463012000",
+      "brand": "WABCO",
+      "shortDescription": "Diagnoscope and tester accessories",
+      "description": "",
+      "gtuCode": "GTU_07",
+      "eans": [
+        "4057875194361"
+      ],
+      "packageWeight": "0,345",
+      "customsCode": "87083099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4181",
+          "primary": false,
+          "name": {
+            "en": "Docking Station, self-diagnosis unit"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91580",
+          "primary": true,
+          "name": {
+            "en": "Diagnoscope and tester accessories"
+          }
+        }
+      ]
+    }
+  ]
+}

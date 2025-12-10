@@ -1,0 +1,54 @@
+{
+  "productName": "Amortisseur de torsion, embrayage",
+  "searchText": "Amortisseur de torsion, embrayage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T18:49:38.636Z",
+  "productId": 3463,
+  "arborescence": {
+    "Embrayage / composants": {
+      "categoryId": 100050,
+      "categoryName": "Embrayage / composants",
+      "level": 1,
+      "children": {
+        "Amortisseur de torsion": {
+          "categoryId": null,
+          "categoryName": "Amortisseur de torsion",
+          "level": 2,
+          "children": {
+            "Amortisseur de torsion, embrayage": {
+              "categoryId": 102370,
+              "categoryName": "Torsion Damper",
+              "level": 2,
+              "children": [],
+              "productId": 3463
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Embrayage / composants [ID: 100050] (Niveau 1)\n    └── Amortisseur de torsion (Niveau 2)\n        └── Torsion Damper [ID: 102370] (Niveau 2) → ProductId: 3463",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Embrayage / composants",
+        "Amortisseur de torsion",
+        "Torsion Damper"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        102370
+      ],
+      "finalCategoryId": 102370,
+      "productId": 3463
+    }
+  ],
+  "productIdsInArbo": [
+    3463
+  ],
+  "matchedProductIds": [
+    3463
+  ]
+}

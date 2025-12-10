@@ -1,0 +1,124 @@
+{
+  "productName": "Goupille fendue à ressort, filtre à carburant (thermostat)",
+  "searchText": "Goupille fendue à ressort, filtre à carburant (thermostat)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:43:32.236Z",
+  "productId": 6309,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Boîtier/filtre à carburant": {
+          "categoryId": null,
+          "categoryName": "Boîtier/filtre à carburant",
+          "level": 2,
+          "children": {
+            "Goupille fendue à ressort, filtre à carburant (thermostat)": {
+              "categoryId": 100253,
+              "categoryName": "Fuel Filter/Housing",
+              "level": 2,
+              "children": [],
+              "productId": 6309
+            }
+          }
+        }
+      }
+    },
+    "Filtre": {
+      "categoryId": 100005,
+      "categoryName": "Filtre",
+      "level": 1,
+      "children": {
+        "Filtre à carburant": {
+          "categoryId": null,
+          "categoryName": "Filtre à carburant",
+          "level": 2,
+          "children": {
+            "Goupille fendue à ressort, filtre à carburant (thermostat)": {
+              "categoryId": 100261,
+              "categoryName": "Fuel Filter",
+              "level": 2,
+              "children": [],
+              "productId": 6309
+            }
+          }
+        }
+      }
+    },
+    "Pièces de maintenance": {
+      "categoryId": 100019,
+      "categoryName": "Pièces de maintenance",
+      "level": 1,
+      "children": {
+        "Travaux supplémentaires": {
+          "categoryId": null,
+          "categoryName": "Travaux supplémentaires",
+          "level": 2,
+          "children": {
+            "Goupille fendue à ressort, filtre à carburant (thermostat)": {
+              "categoryId": 100598,
+              "categoryName": "Additional Repairs",
+              "level": 2,
+              "children": [],
+              "productId": 6309
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Alimentation carburant [ID: 100214] (Niveau 1)\n│   └── Boîtier/filtre à carburant (Niveau 2)\n│       └── Fuel Filter/Housing [ID: 100253] (Niveau 2) → ProductId: 6309\n\n├── Filtre [ID: 100005] (Niveau 1)\n│   └── Filtre à carburant (Niveau 2)\n│       └── Fuel Filter [ID: 100261] (Niveau 2) → ProductId: 6309\n\n└── Pièces de maintenance [ID: 100019] (Niveau 1)\n    └── Travaux supplémentaires (Niveau 2)\n        └── Additional Repairs [ID: 100598] (Niveau 2) → ProductId: 6309",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Boîtier/filtre à carburant",
+        "Fuel Filter/Housing"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100253
+      ],
+      "finalCategoryId": 100253,
+      "productId": 6309
+    },
+    {
+      "path": [
+        "Filtre",
+        "Filtre à carburant",
+        "Fuel Filter"
+      ],
+      "categoryIds": [
+        100005,
+        null,
+        100261
+      ],
+      "finalCategoryId": 100261,
+      "productId": 6309
+    },
+    {
+      "path": [
+        "Pièces de maintenance",
+        "Travaux supplémentaires",
+        "Additional Repairs"
+      ],
+      "categoryIds": [
+        100019,
+        null,
+        100598
+      ],
+      "finalCategoryId": 100598,
+      "productId": 6309
+    }
+  ],
+  "productIdsInArbo": [
+    6309
+  ],
+  "matchedProductIds": [
+    6309
+  ]
+}

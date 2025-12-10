@@ -1,0 +1,172 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.248Z",
+  "manufacturer": "EAGLE",
+  "countGroups": 7,
+  "groups": [
+    {
+      "manufacturerId": 824,
+      "manufacturerName": "EAGLE",
+      "groupKey": "2000",
+      "displayName": "2000",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10368,
+          "modelName": "2000 GTX A trois volumes",
+          "modelYearFrom": "1990-09-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 10369,
+          "modelName": "2000 GTX Break",
+          "modelYearFrom": "1991-09-01",
+          "modelYearTo": "1998-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 824,
+      "manufacturerName": "EAGLE",
+      "groupKey": "MEDALLION",
+      "displayName": "MEDALLION",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 34275,
+          "modelName": "MEDALLION A trois volumes",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "1989-12-01"
+        },
+        {
+          "modelId": 34276,
+          "modelName": "MEDALLION Break",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "1989-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 824,
+      "manufacturerName": "EAGLE",
+      "groupKey": "PREMIER",
+      "displayName": "PREMIER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10371,
+          "modelName": "PREMIER A trois volumes",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "1992-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 824,
+      "manufacturerName": "EAGLE",
+      "groupKey": "SUMMIT",
+      "displayName": "SUMMIT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 34346,
+          "modelName": "SUMMIT Break",
+          "modelYearFrom": "1991-09-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 34347,
+          "modelName": "SUMMIT A trois volumes",
+          "modelYearFrom": "1988-09-01",
+          "modelYearTo": "1992-12-01"
+        },
+        {
+          "modelId": 34348,
+          "modelName": "SUMMIT Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1990-09-01",
+          "modelYearTo": "1992-12-01"
+        },
+        {
+          "modelId": 34349,
+          "modelName": "SUMMIT Coupé",
+          "modelYearFrom": "1992-09-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 35436,
+          "modelName": "SUMMIT A trois volumes",
+          "modelYearFrom": "1992-09-01",
+          "modelYearTo": "1996-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 824,
+      "manufacturerName": "EAGLE",
+      "groupKey": "TALON",
+      "displayName": "TALON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7928,
+          "modelName": "TALON Coupé",
+          "modelYearFrom": "1989-06-01",
+          "modelYearTo": "1994-12-01"
+        },
+        {
+          "modelId": 7929,
+          "modelName": "TALON Coupé",
+          "modelYearFrom": "1994-05-01",
+          "modelYearTo": "1998-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 824,
+      "manufacturerName": "EAGLE",
+      "groupKey": "VISION",
+      "displayName": "VISION",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7422,
+          "modelName": "VISION A trois volumes",
+          "modelYearFrom": "1992-08-01",
+          "modelYearTo": "1996-09-01"
+        },
+        {
+          "modelId": 34351,
+          "modelName": "VISION A trois volumes",
+          "modelYearFrom": "1992-09-01",
+          "modelYearTo": "1997-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 824,
+      "manufacturerName": "EAGLE",
+      "groupKey": "VISTA",
+      "displayName": "VISTA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 34352,
+          "modelName": "VISTA Break",
+          "modelYearFrom": "1988-09-01",
+          "modelYearTo": "1991-12-01"
+        },
+        {
+          "modelId": 34353,
+          "modelName": "VISTA A trois volumes",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "1992-12-01"
+        },
+        {
+          "modelId": 34354,
+          "modelName": "VISTA Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1988-09-01",
+          "modelYearTo": "1992-12-01"
+        }
+      ]
+    }
+  ]
+}

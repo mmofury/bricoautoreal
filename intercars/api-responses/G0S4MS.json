@@ -1,0 +1,36 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G0S4MS",
+      "index": "FE174232",
+      "tecDoc": "174232",
+      "tecDocProd": "101",
+      "articleNumber": "174232",
+      "brand": "FEBI",
+      "shortDescription": "Slave Cylinder, clutch",
+      "description": "Electric clutch servo fits: SMART FORTWO 0.8D/1.0 01.07-",
+      "gtuCode": "GTU_07",
+      "customsCode": "87089390",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_620",
+          "primary": true,
+          "name": {
+            "en": "Slave Cylinder, clutch"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_5683",
+          "primary": false,
+          "name": {
+            "en": "Clutch Actuator"
+          }
+        }
+      ]
+    }
+  ]
+}

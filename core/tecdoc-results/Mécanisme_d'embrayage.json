@@ -1,0 +1,149 @@
+{
+  "productName": "Mécanisme d'embrayage",
+  "searchText": "Mécanisme d'embrayage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:16:29.863Z",
+  "productId": 261,
+  "arborescence": {
+    "Embrayage / composants": {
+      "categoryId": 100050,
+      "categoryName": "Embrayage / composants",
+      "level": 1,
+      "children": {
+        "Mécanisme d'embrayage": {
+          "categoryId": null,
+          "categoryName": "Mécanisme d'embrayage",
+          "level": 2,
+          "children": {
+            "Mécanisme d'embrayage": {
+              "categoryId": 100052,
+              "categoryName": "Clutch Pressure Plate",
+              "level": 2,
+              "children": [],
+              "productId": 261
+            },
+            "Vis, plaque de pression": {
+              "categoryId": 100052,
+              "categoryName": "Clutch Pressure Plate",
+              "level": 2,
+              "children": [],
+              "productId": 3181
+            }
+          }
+        },
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Clé à douille, mécanisme d'embrayage": {
+              "categoryId": 103156,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4541
+            },
+            "Dispositif de fixation, mécanisme d'embrayage": {
+              "categoryId": 103156,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 9291
+            },
+            "Kit de montage, Mécanisme d'embrayage": {
+              "categoryId": 103156,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4540
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Embrayage / composants [ID: 100050] (Niveau 1)\n    ├── Mécanisme d'embrayage (Niveau 2)\n    │   ├── Clutch Pressure Plate [ID: 100052] (Niveau 2) → ProductId: 261\n    │   └── Clutch Pressure Plate [ID: 100052] (Niveau 2) → ProductId: 3181\n    └── Outils (Niveau 2)\n        ├── Tools [ID: 103156] (Niveau 2) → ProductId: 4541\n        ├── Tools [ID: 103156] (Niveau 2) → ProductId: 9291\n        └── Tools [ID: 103156] (Niveau 2) → ProductId: 4540",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Embrayage / composants",
+        "Mécanisme d'embrayage",
+        "Clutch Pressure Plate"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100052
+      ],
+      "finalCategoryId": 100052,
+      "productId": 261
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Mécanisme d'embrayage",
+        "Clutch Pressure Plate"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100052
+      ],
+      "finalCategoryId": 100052,
+      "productId": 3181
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        103156
+      ],
+      "finalCategoryId": 103156,
+      "productId": 4541
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        103156
+      ],
+      "finalCategoryId": 103156,
+      "productId": 9291
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        103156
+      ],
+      "finalCategoryId": 103156,
+      "productId": 4540
+    }
+  ],
+  "productIdsInArbo": [
+    261,
+    3181,
+    4540,
+    4541,
+    9291
+  ],
+  "matchedProductIds": [
+    261
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "productName": "Soufflet d´air, réglage de hauteur du siège",
+  "productId": 8751,
+  "searchText": "Soufflet d´air, réglage de hauteur du siège",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Équipement / accessoires": {
+          "categoryId": 200067,
+          "categoryName": "Équipement / accessoires",
+          "level": 1,
+          "children": {
+            "Équipement intérieur": {
+              "categoryId": null,
+              "categoryName": "Équipement intérieur",
+              "level": 2,
+              "children": {
+                "Soufflet d´air, réglage de hauteur du siège": {
+                  "categoryId": 200797,
+                  "categoryName": "Interior Equipment",
+                  "level": 2,
+                  "children": {
+                    "Sièges / accessoires": {
+                      "categoryId": null,
+                      "categoryName": "Sièges / accessoires",
+                      "level": 4,
+                      "children": {
+                        "Soufflet d´air, réglage de hauteur du siège": {
+                          "categoryId": 200808,
+                          "categoryName": "Seats/ Parts",
+                          "level": 3,
+                          "children": [],
+                          "productId": 8751
+                        }
+                      }
+                    }
+                  },
+                  "productId": 8751
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Équipement / accessoires [ID: 200067] (Niveau 1)\n    └── Équipement intérieur (Niveau 2)\n        └── Interior Equipment [ID: 200797] (Niveau 2) → ProductId: 8751\n            └── Sièges / accessoires (Niveau 4)\n                └── Seats/ Parts [ID: 200808] (Niveau 3) → ProductId: 8751",
+      "productIdsInArbo": [
+        8751
+      ],
+      "matchedProductIds": [
+        8751
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:31:45.397Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

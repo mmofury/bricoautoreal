@@ -1,0 +1,133 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.547Z",
+  "manufacturer": "XPENG",
+  "countGroups": 8,
+  "groups": [
+    {
+      "manufacturerId": 5184,
+      "manufacturerName": "XPENG",
+      "groupKey": "G3",
+      "displayName": "G3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39222,
+          "modelName": "G3",
+          "modelYearFrom": "2018-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5184,
+      "manufacturerName": "XPENG",
+      "groupKey": "G3I",
+      "displayName": "G3I",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42564,
+          "modelName": "G3i",
+          "modelYearFrom": "2021-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5184,
+      "manufacturerName": "XPENG",
+      "groupKey": "G6",
+      "displayName": "G6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44587,
+          "modelName": "G6",
+          "modelYearFrom": "2023-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5184,
+      "manufacturerName": "XPENG",
+      "groupKey": "G9",
+      "displayName": "G9",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43597,
+          "modelName": "G9",
+          "modelYearFrom": "2022-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5184,
+      "manufacturerName": "XPENG",
+      "groupKey": "MONA",
+      "displayName": "MONA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45839,
+          "modelName": "MONA M03",
+          "modelYearFrom": "2024-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5184,
+      "manufacturerName": "XPENG",
+      "groupKey": "P5",
+      "displayName": "P5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42412,
+          "modelName": "P5",
+          "modelYearFrom": "2021-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5184,
+      "manufacturerName": "XPENG",
+      "groupKey": "P7",
+      "displayName": "P7",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40705,
+          "modelName": "P7",
+          "modelYearFrom": "2020-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 46016,
+          "modelName": "P7+",
+          "modelYearFrom": "2024-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5184,
+      "manufacturerName": "XPENG",
+      "groupKey": "X9",
+      "displayName": "X9",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45059,
+          "modelName": "X9",
+          "modelYearFrom": "2024-01-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

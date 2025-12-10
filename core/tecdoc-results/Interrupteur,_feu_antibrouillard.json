@@ -1,0 +1,106 @@
+{
+  "productName": "Interrupteur, feu antibrouillard",
+  "searchText": "Interrupteur, feu antibrouillard",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:47:19.335Z",
+  "productId": 810,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Interrupteur/Relais/Contrôle clignotant/Appareil d.commande": {
+          "categoryId": null,
+          "categoryName": "Interrupteur/Relais/Contrôle clignotant/Appareil d.commande",
+          "level": 2,
+          "children": {
+            "Interrupteur, feu antibrouillard": {
+              "categoryId": 100307,
+              "categoryName": "Light Switches/Relays/Controls",
+              "level": 2,
+              "children": {
+                "Interrupteur / régulateur": {
+                  "categoryId": null,
+                  "categoryName": "Interrupteur / régulateur",
+                  "level": 4,
+                  "children": {
+                    "Interrupteur, feu antibrouillard": {
+                      "categoryId": 100509,
+                      "categoryName": "Light Switch/ Lever",
+                      "level": 3,
+                      "children": [],
+                      "productId": 810
+                    }
+                  }
+                }
+              },
+              "productId": 810
+            },
+            "Interrupteur, feu antibrouillard arrière": {
+              "categoryId": 100307,
+              "categoryName": "Light Switches/Relays/Controls",
+              "level": 2,
+              "children": {
+                "Interrupteur / régulateur": {
+                  "categoryId": null,
+                  "categoryName": "Interrupteur / régulateur",
+                  "level": 4,
+                  "children": {
+                    "Interrupteur, feu antibrouillard arrière": {
+                      "categoryId": 100509,
+                      "categoryName": "Light Switch/ Lever",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3430
+                    }
+                  }
+                }
+              },
+              "productId": 3430
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Interrupteur/Relais/Contrôle clignotant/Appareil d.commande (Niveau 2)\n        ├── Light Switches/Relays/Controls [ID: 100307] (Niveau 2) → ProductId: 810\n        │   └── Interrupteur / régulateur (Niveau 4)\n        │       └── Light Switch/ Lever [ID: 100509] (Niveau 3) → ProductId: 810\n        └── Light Switches/Relays/Controls [ID: 100307] (Niveau 2) → ProductId: 3430\n            └── Interrupteur / régulateur (Niveau 4)\n                └── Light Switch/ Lever [ID: 100509] (Niveau 3) → ProductId: 3430",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Interrupteur/Relais/Contrôle clignotant/Appareil d.commande",
+        "Light Switches/Relays/Controls"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100307
+      ],
+      "finalCategoryId": 100307,
+      "productId": 810
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Interrupteur/Relais/Contrôle clignotant/Appareil d.commande",
+        "Light Switches/Relays/Controls"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100307
+      ],
+      "finalCategoryId": 100307,
+      "productId": 3430
+    }
+  ],
+  "productIdsInArbo": [
+    810,
+    3430
+  ],
+  "matchedProductIds": [
+    810
+  ]
+}

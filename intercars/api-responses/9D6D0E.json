@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "9D6D0E",
+      "index": "03.9311-0019.2",
+      "tecDoc": "03.9311-0019.2",
+      "tecDocProd": "3",
+      "articleNumber": "03.9311-0019.2",
+      "brand": "ATE",
+      "shortDescription": "Devices for working fluids and fuels",
+      "description": "Pipette set, application: brake fluid ATE",
+      "eans": [
+        "4006633020008"
+      ],
+      "packageWeight": "0,564",
+      "packageWidth": "15,600",
+      "packageDepth": "12,700",
+      "packageHeight": "29,500",
+      "customsCode": "82059090",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_2326",
+          "primary": false,
+          "name": {
+            "en": "Sampling Set, brake fluid"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91773",
+          "primary": true,
+          "name": {
+            "en": "Devices for working fluids and fuels"
+          }
+        }
+      ]
+    }
+  ]
+}

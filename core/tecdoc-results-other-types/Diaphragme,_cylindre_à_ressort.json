@@ -1,0 +1,64 @@
+{
+  "productName": "Diaphragme, cylindre à ressort",
+  "productId": 3010,
+  "searchText": "Diaphragme, cylindre à ressort",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Dispositif de freinage": {
+          "categoryId": 200058,
+          "categoryName": "Dispositif de freinage",
+          "level": 1,
+          "children": {
+            "Cylindres de frein / système d'air comprimé": {
+              "categoryId": null,
+              "categoryName": "Cylindres de frein / système d'air comprimé",
+              "level": 2,
+              "children": {
+                "Diaphragme, cylindre à ressort": {
+                  "categoryId": 200925,
+                  "categoryName": "Brake Cylinder/Compressed-air System",
+                  "level": 2,
+                  "children": {
+                    "Cylindre de frein à ressort accumulateur": {
+                      "categoryId": null,
+                      "categoryName": "Cylindre de frein à ressort accumulateur",
+                      "level": 4,
+                      "children": {
+                        "Diaphragme, cylindre à ressort": {
+                          "categoryId": 200903,
+                          "categoryName": "Spring-loaded Brake Cylinder",
+                          "level": 3,
+                          "children": [],
+                          "productId": 3010
+                        }
+                      }
+                    }
+                  },
+                  "productId": 3010
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Dispositif de freinage [ID: 200058] (Niveau 1)\n    └── Cylindres de frein / système d'air comprimé (Niveau 2)\n        └── Brake Cylinder/Compressed-air System [ID: 200925] (Niveau 2) → ProductId: 3010\n            └── Cylindre de frein à ressort accumulateur (Niveau 4)\n                └── Spring-loaded Brake Cylinder [ID: 200903] (Niveau 3) → ProductId: 3010",
+      "productIdsInArbo": [
+        3010
+      ],
+      "matchedProductIds": [
+        3010
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:19:50.066Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

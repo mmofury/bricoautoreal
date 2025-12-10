@@ -1,0 +1,69 @@
+{
+  "productName": "Flexible, alimentation en air",
+  "searchText": "Flexible, alimentation en air",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:41:21.884Z",
+  "productId": 3401,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Alimentation en air": {
+          "categoryId": null,
+          "categoryName": "Alimentation en air",
+          "level": 2,
+          "children": {
+            "Flexible, alimentation en air": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Flexibles/Conduites": {
+                  "categoryId": null,
+                  "categoryName": "Flexibles/Conduites",
+                  "level": 4,
+                  "children": {
+                    "Flexible, alimentation en air": {
+                      "categoryId": 102235,
+                      "categoryName": "Radiator Hoses",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3401
+                    }
+                  }
+                }
+              },
+              "productId": 3401
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Alimentation en air (Niveau 2)\n        └── Air Supply [ID: 100383] (Niveau 2) → ProductId: 3401\n            └── Flexibles/Conduites (Niveau 4)\n                └── Radiator Hoses [ID: 102235] (Niveau 3) → ProductId: 3401",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 3401
+    }
+  ],
+  "productIdsInArbo": [
+    3401
+  ],
+  "matchedProductIds": [
+    3401
+  ]
+}

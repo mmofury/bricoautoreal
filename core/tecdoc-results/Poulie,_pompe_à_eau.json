@@ -1,0 +1,154 @@
+{
+  "productName": "Poulie, pompe à eau",
+  "searchText": "Poulie, pompe à eau",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:03:43.347Z",
+  "productId": 3345,
+  "arborescence": {
+    "Commande à courroie": {
+      "categoryId": 100016,
+      "categoryName": "Commande à courroie",
+      "level": 1,
+      "children": {
+        "Poulie": {
+          "categoryId": null,
+          "categoryName": "Poulie",
+          "level": 2,
+          "children": {
+            "Poulie, pompe à eau": {
+              "categoryId": 101971,
+              "categoryName": "Belt Pulley",
+              "level": 2,
+              "children": [],
+              "productId": 3345
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Commande à courroie": {
+          "categoryId": null,
+          "categoryName": "Commande à courroie",
+          "level": 2,
+          "children": {
+            "Poulie, pompe à eau": {
+              "categoryId": 104302,
+              "categoryName": "Belt Drive",
+              "level": 2,
+              "children": {
+                "Poulie": {
+                  "categoryId": null,
+                  "categoryName": "Poulie",
+                  "level": 4,
+                  "children": {
+                    "Poulie, pompe à eau": {
+                      "categoryId": 104329,
+                      "categoryName": "Belt Pulley",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3345
+                    }
+                  }
+                }
+              },
+              "productId": 3345
+            }
+          }
+        }
+      }
+    },
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Pompe à eau / joint": {
+          "categoryId": null,
+          "categoryName": "Pompe à eau / joint",
+          "level": 2,
+          "children": {
+            "Poulie, pompe à eau": {
+              "categoryId": 100088,
+              "categoryName": "Water Pump/Gasket",
+              "level": 2,
+              "children": {
+                "Poulie": {
+                  "categoryId": null,
+                  "categoryName": "Poulie",
+                  "level": 4,
+                  "children": {
+                    "Poulie, pompe à eau": {
+                      "categoryId": 102211,
+                      "categoryName": "Belt Pulley",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3345
+                    }
+                  }
+                }
+              },
+              "productId": 3345
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Commande à courroie [ID: 100016] (Niveau 1)\n│   └── Poulie (Niveau 2)\n│       └── Belt Pulley [ID: 101971] (Niveau 2) → ProductId: 3345\n\n├── Moteur [ID: 100002] (Niveau 1)\n│   └── Commande à courroie (Niveau 2)\n│       └── Belt Drive [ID: 104302] (Niveau 2) → ProductId: 3345\n│           └── Poulie (Niveau 4)\n│               └── Belt Pulley [ID: 104329] (Niveau 3) → ProductId: 3345\n\n└── Refroidissement [ID: 100007] (Niveau 1)\n    └── Pompe à eau / joint (Niveau 2)\n        └── Water Pump/Gasket [ID: 100088] (Niveau 2) → ProductId: 3345\n            └── Poulie (Niveau 4)\n                └── Belt Pulley [ID: 102211] (Niveau 3) → ProductId: 3345",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Commande à courroie",
+        "Poulie",
+        "Belt Pulley"
+      ],
+      "categoryIds": [
+        100016,
+        null,
+        101971
+      ],
+      "finalCategoryId": 101971,
+      "productId": 3345
+    },
+    {
+      "path": [
+        "Moteur",
+        "Commande à courroie",
+        "Belt Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        104302
+      ],
+      "finalCategoryId": 104302,
+      "productId": 3345
+    },
+    {
+      "path": [
+        "Refroidissement",
+        "Pompe à eau / joint",
+        "Water Pump/Gasket"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100088
+      ],
+      "finalCategoryId": 100088,
+      "productId": 3345
+    }
+  ],
+  "productIdsInArbo": [
+    3345
+  ],
+  "matchedProductIds": [
+    3345
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "D0FBAD",
+      "index": "MER 21212550",
+      "tecDoc": "21212550",
+      "tecDocProd": "349",
+      "articleNumber": "21212550",
+      "brand": "MERITOR",
+      "shortDescription": "Pretensioning Cylinder",
+      "description": "Brake servo-motor fits: ROR",
+      "gtuCode": "GTU_07",
+      "packageWeight": "0,020",
+      "packageWidth": "2,000",
+      "packageDepth": "3,000",
+      "packageHeight": "2,000",
+      "customsCode": "87083099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_350",
+          "primary": true,
+          "name": {
+            "en": "Pretensioning Cylinder"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1281",
+          "primary": false,
+          "name": {
+            "en": "Repair Kit, axle beam"
+          }
+        }
+      ]
+    }
+  ]
+}

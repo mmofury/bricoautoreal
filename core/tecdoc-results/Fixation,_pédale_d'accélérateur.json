@@ -1,0 +1,54 @@
+{
+  "productName": "Fixation, pédale d'accélérateur",
+  "searchText": "Fixation, pédale d'accélérateur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:40:45.794Z",
+  "productId": 4243,
+  "arborescence": {
+    "Équipement intérieur": {
+      "categoryId": 100341,
+      "categoryName": "Équipement intérieur",
+      "level": 1,
+      "children": {
+        "Leviers manuels / Leviers de pédale": {
+          "categoryId": null,
+          "categoryName": "Leviers manuels / Leviers de pédale",
+          "level": 2,
+          "children": {
+            "Fixation, pédale d'accélérateur": {
+              "categoryId": 102695,
+              "categoryName": "Hand/Foot Lever System",
+              "level": 2,
+              "children": [],
+              "productId": 4243
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Équipement intérieur [ID: 100341] (Niveau 1)\n    └── Leviers manuels / Leviers de pédale (Niveau 2)\n        └── Hand/Foot Lever System [ID: 102695] (Niveau 2) → ProductId: 4243",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Équipement intérieur",
+        "Leviers manuels / Leviers de pédale",
+        "Hand/Foot Lever System"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102695
+      ],
+      "finalCategoryId": 102695,
+      "productId": 4243
+    }
+  ],
+  "productIdsInArbo": [
+    4243
+  ],
+  "matchedProductIds": [
+    4243
+  ]
+}

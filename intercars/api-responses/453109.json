@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "453109",
+      "index": "BOS250-115",
+      "tecDoc": "250-115",
+      "tecDocProd": "41",
+      "articleNumber": "250-115",
+      "brand": "BOSAL",
+      "shortDescription": "Clamping Piece, exhaust system",
+      "description": "Exhaust system clasp (115mm)",
+      "eans": [
+        "3351642501156"
+      ],
+      "packageWeight": "0,460",
+      "packageWidth": "25,000",
+      "packageDepth": "5,000",
+      "packageHeight": "34,000",
+      "customsCode": "73269098",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1050",
+          "primary": false,
+          "name": {
+            "en": "Pipe Connector, exhaust system"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1056",
+          "primary": true,
+          "name": {
+            "en": "Clamping Piece, exhaust system"
+          }
+        }
+      ]
+    }
+  ]
+}

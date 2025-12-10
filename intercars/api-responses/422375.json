@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "422375",
+      "index": "HP107 400",
+      "tecDoc": "107 400",
+      "tecDocProd": "301",
+      "articleNumber": "107 400",
+      "brand": "HANS PRIES",
+      "shortDescription": "Speedometer cable",
+      "description": "Speedometer cable drive fits: AUDI 100 C2, 100 C3, 80 B2, VW PASSAT B1, PASSAT B2 1.3-1.8 05.73-11.90",
+      "eans": [
+        "4092200000504"
+      ],
+      "packageWeight": "0,050",
+      "packageWidth": "1,000",
+      "packageDepth": "8,000",
+      "packageHeight": "1,000",
+      "customsCode": "90299000",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1150",
+          "primary": true,
+          "name": {
+            "en": "Speedometer cable"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_2202",
+          "primary": false,
+          "name": {
+            "en": "Angle Drive, speedometer cable"
+          }
+        }
+      ]
+    }
+  ]
+}

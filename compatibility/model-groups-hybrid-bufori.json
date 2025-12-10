@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.197Z",
+  "manufacturer": "BUFORI",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 4162,
+      "manufacturerName": "BUFORI",
+      "groupKey": "GENEVA",
+      "displayName": "GENEVA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42722,
+          "modelName": "GENEVA",
+          "modelYearFrom": "2010-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4162,
+      "manufacturerName": "BUFORI",
+      "groupKey": "LA",
+      "displayName": "LA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 12850,
+          "modelName": "LA JOYA",
+          "modelYearFrom": "2012-01-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

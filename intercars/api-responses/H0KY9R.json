@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H0KY9R",
+      "index": "SEN20868",
+      "tecDoc": "20868",
+      "tecDocProd": "2188",
+      "articleNumber": "20868",
+      "brand": "SENCOM",
+      "shortDescription": "Wiring Harness Repair Kit",
+      "description": "Harness wire (250mm, number of pins: 2)",
+      "eans": [
+        "4260093155698"
+      ],
+      "packageWeight": "0,002",
+      "packageWidth": "9,000",
+      "packageDepth": "9,000",
+      "packageHeight": "1,000",
+      "customsCode": "85366990",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4321",
+          "primary": false,
+          "name": {
+            "en": "Repair Kit, cable set"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_19546",
+          "primary": true,
+          "name": {
+            "en": "Wiring Harness Repair Kit"
+          }
+        }
+      ]
+    }
+  ]
+}

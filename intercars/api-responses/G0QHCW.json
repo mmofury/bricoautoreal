@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G0QHCW",
+      "index": "FE100960",
+      "tecDoc": "100960",
+      "tecDocProd": "101",
+      "articleNumber": "100960",
+      "brand": "FEBI",
+      "shortDescription": "Clamp",
+      "description": "Cable tie",
+      "customsCode": "73269098",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_5973",
+          "primary": true,
+          "name": {
+            "en": "Clamp"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_4612",
+          "primary": false,
+          "name": {
+            "en": "Assortment, clamping clips"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Sac de coffre",
+  "searchText": "Sac de coffre",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:15:04.209Z",
+  "productId": 3642,
+  "arborescence": {
+    "Accessoires": {
+      "categoryId": 100733,
+      "categoryName": "Accessoires",
+      "level": 1,
+      "children": {
+        "Coffre/chargement/plateau de chargement": {
+          "categoryId": null,
+          "categoryName": "Coffre/chargement/plateau de chargement",
+          "level": 2,
+          "children": {
+            "Sac de coffre": {
+              "categoryId": 100862,
+              "categoryName": "Boot/Cargo Area/Loading surface",
+              "level": 2,
+              "children": [],
+              "productId": 3642
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Accessoires [ID: 100733] (Niveau 1)\n    └── Coffre/chargement/plateau de chargement (Niveau 2)\n        └── Boot/Cargo Area/Loading surface [ID: 100862] (Niveau 2) → ProductId: 3642",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Accessoires",
+        "Coffre/chargement/plateau de chargement",
+        "Boot/Cargo Area/Loading surface"
+      ],
+      "categoryIds": [
+        100733,
+        null,
+        100862
+      ],
+      "finalCategoryId": 100862,
+      "productId": 3642
+    }
+  ],
+  "productIdsInArbo": [
+    3642
+  ],
+  "matchedProductIds": [
+    3642
+  ]
+}

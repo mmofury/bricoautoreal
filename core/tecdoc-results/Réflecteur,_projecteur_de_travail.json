@@ -1,0 +1,149 @@
+{
+  "productName": "Réflecteur, projecteur de travail",
+  "searchText": "Réflecteur, projecteur de travail",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:13:28.368Z",
+  "productId": 725,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Phares supplémentaires/composants": {
+          "categoryId": null,
+          "categoryName": "Phares supplémentaires/composants",
+          "level": 2,
+          "children": {
+            "Réflecteur, projecteur de travail": {
+              "categoryId": 101340,
+              "categoryName": "Additional Headlight/Parts",
+              "level": 2,
+              "children": {
+                "Projecteur de travail, composants": {
+                  "categoryId": null,
+                  "categoryName": "Projecteur de travail, composants",
+                  "level": 4,
+                  "children": {
+                    "Réflecteur, projecteur de travail": {
+                      "categoryId": 101349,
+                      "categoryName": "Worklight/Parts",
+                      "level": 3,
+                      "children": {
+                        "Projecteur de travail, composants": {
+                          "categoryId": null,
+                          "categoryName": "Projecteur de travail, composants",
+                          "level": 6,
+                          "children": {
+                            "Réflecteur, projecteur de travail": {
+                              "categoryId": 101352,
+                              "categoryName": "Worklight Parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 725
+                            }
+                          }
+                        }
+                      },
+                      "productId": 725
+                    }
+                  }
+                }
+              },
+              "productId": 725
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Phares supplémentaires/composants": {
+          "categoryId": null,
+          "categoryName": "Phares supplémentaires/composants",
+          "level": 2,
+          "children": {
+            "Réflecteur, projecteur de travail": {
+              "categoryId": 100787,
+              "categoryName": "Additional Headlight/Parts",
+              "level": 2,
+              "children": {
+                "Projecteur de travail, composants": {
+                  "categoryId": null,
+                  "categoryName": "Projecteur de travail, composants",
+                  "level": 4,
+                  "children": {
+                    "Réflecteur, projecteur de travail": {
+                      "categoryId": 100280,
+                      "categoryName": "Worklight/Parts",
+                      "level": 3,
+                      "children": {
+                        "Projecteur de travail, composants": {
+                          "categoryId": null,
+                          "categoryName": "Projecteur de travail, composants",
+                          "level": 6,
+                          "children": {
+                            "Réflecteur, projecteur de travail": {
+                              "categoryId": 100445,
+                              "categoryName": "Worklight Parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 725
+                            }
+                          }
+                        }
+                      },
+                      "productId": 725
+                    }
+                  }
+                }
+              },
+              "productId": 725
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carrosserie [ID: 100001] (Niveau 1)\n│   └── Phares supplémentaires/composants (Niveau 2)\n│       └── Additional Headlight/Parts [ID: 101340] (Niveau 2) → ProductId: 725\n│           └── Projecteur de travail, composants (Niveau 4)\n│               └── Worklight/Parts [ID: 101349] (Niveau 3) → ProductId: 725\n│                   └── Projecteur de travail, composants (Niveau 6)\n│                       └── Worklight Parts [ID: 101352] (Niveau 4) → ProductId: 725\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Phares supplémentaires/composants (Niveau 2)\n        └── Additional Headlight/Parts [ID: 100787] (Niveau 2) → ProductId: 725\n            └── Projecteur de travail, composants (Niveau 4)\n                └── Worklight/Parts [ID: 100280] (Niveau 3) → ProductId: 725\n                    └── Projecteur de travail, composants (Niveau 6)\n                        └── Worklight Parts [ID: 100445] (Niveau 4) → ProductId: 725",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Phares supplémentaires/composants",
+        "Additional Headlight/Parts"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101340
+      ],
+      "finalCategoryId": 101340,
+      "productId": 725
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Phares supplémentaires/composants",
+        "Additional Headlight/Parts"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100787
+      ],
+      "finalCategoryId": 100787,
+      "productId": 725
+    }
+  ],
+  "productIdsInArbo": [
+    725
+  ],
+  "matchedProductIds": [
+    725
+  ]
+}

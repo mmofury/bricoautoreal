@@ -1,0 +1,207 @@
+{
+  "productName": "Disperseur, feu antibrouillard arrière",
+  "searchText": "Disperseur, feu antibrouillard arrière",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:31:02.487Z",
+  "productId": 95,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Arrière de la voiture": {
+          "categoryId": null,
+          "categoryName": "Arrière de la voiture",
+          "level": 2,
+          "children": {
+            "Disperseur, feu antibrouillard arrière": {
+              "categoryId": 101705,
+              "categoryName": "Vehicle Rear",
+              "level": 2,
+              "children": {
+                "Feu de brouillard arrière/Composants": {
+                  "categoryId": null,
+                  "categoryName": "Feu de brouillard arrière/Composants",
+                  "level": 4,
+                  "children": {
+                    "Disperseur, feu antibrouillard arrière": {
+                      "categoryId": 101735,
+                      "categoryName": "Rear Fog Light/Parts",
+                      "level": 3,
+                      "children": {
+                        "Composants de feu de brouillard arrière": {
+                          "categoryId": null,
+                          "categoryName": "Composants de feu de brouillard arrière",
+                          "level": 6,
+                          "children": {
+                            "Disperseur, feu antibrouillard arrière": {
+                              "categoryId": 101737,
+                              "categoryName": "Rear Fog Light Individual Parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 95
+                            }
+                          }
+                        }
+                      },
+                      "productId": 95
+                    }
+                  }
+                }
+              },
+              "productId": 95
+            }
+          }
+        },
+        "Feux": {
+          "categoryId": null,
+          "categoryName": "Feux",
+          "level": 2,
+          "children": {
+            "Disperseur, feu antibrouillard arrière": {
+              "categoryId": 101407,
+              "categoryName": "Lights",
+              "level": 2,
+              "children": {
+                "Feu de brouillard arrière/Composants": {
+                  "categoryId": null,
+                  "categoryName": "Feu de brouillard arrière/Composants",
+                  "level": 4,
+                  "children": {
+                    "Disperseur, feu antibrouillard arrière": {
+                      "categoryId": 101428,
+                      "categoryName": "Rear Fog Light/Parts",
+                      "level": 3,
+                      "children": {
+                        "Composants de feu de brouillard arrière": {
+                          "categoryId": null,
+                          "categoryName": "Composants de feu de brouillard arrière",
+                          "level": 6,
+                          "children": {
+                            "Disperseur, feu antibrouillard arrière": {
+                              "categoryId": 101430,
+                              "categoryName": "Rear Fog Light Individual Parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 95
+                            }
+                          }
+                        }
+                      },
+                      "productId": 95
+                    }
+                  }
+                }
+              },
+              "productId": 95
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Feux": {
+          "categoryId": null,
+          "categoryName": "Feux",
+          "level": 2,
+          "children": {
+            "Disperseur, feu antibrouillard arrière": {
+              "categoryId": 100043,
+              "categoryName": "Lights",
+              "level": 2,
+              "children": {
+                "Feu de brouillard arrière/Composants": {
+                  "categoryId": null,
+                  "categoryName": "Feu de brouillard arrière/Composants",
+                  "level": 4,
+                  "children": {
+                    "Disperseur, feu antibrouillard arrière": {
+                      "categoryId": 100285,
+                      "categoryName": "Rear Fog Light/Parts",
+                      "level": 3,
+                      "children": {
+                        "Composants de feu de brouillard arrière": {
+                          "categoryId": null,
+                          "categoryName": "Composants de feu de brouillard arrière",
+                          "level": 6,
+                          "children": {
+                            "Disperseur, feu antibrouillard arrière": {
+                              "categoryId": 100484,
+                              "categoryName": "Rear Fog Light Individual Parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 95
+                            }
+                          }
+                        }
+                      },
+                      "productId": 95
+                    }
+                  }
+                }
+              },
+              "productId": 95
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carrosserie [ID: 100001] (Niveau 1)\n│   ├── Arrière de la voiture (Niveau 2)\n│   │   └── Vehicle Rear [ID: 101705] (Niveau 2) → ProductId: 95\n│   │       └── Feu de brouillard arrière/Composants (Niveau 4)\n│   │           └── Rear Fog Light/Parts [ID: 101735] (Niveau 3) → ProductId: 95\n│   │               └── Composants de feu de brouillard arrière (Niveau 6)\n│   │                   └── Rear Fog Light Individual Parts [ID: 101737] (Niveau 4) → ProductId: 95\n│   └── Feux (Niveau 2)\n│       └── Lights [ID: 101407] (Niveau 2) → ProductId: 95\n│           └── Feu de brouillard arrière/Composants (Niveau 4)\n│               └── Rear Fog Light/Parts [ID: 101428] (Niveau 3) → ProductId: 95\n│                   └── Composants de feu de brouillard arrière (Niveau 6)\n│                       └── Rear Fog Light Individual Parts [ID: 101430] (Niveau 4) → ProductId: 95\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Feux (Niveau 2)\n        └── Lights [ID: 100043] (Niveau 2) → ProductId: 95\n            └── Feu de brouillard arrière/Composants (Niveau 4)\n                └── Rear Fog Light/Parts [ID: 100285] (Niveau 3) → ProductId: 95\n                    └── Composants de feu de brouillard arrière (Niveau 6)\n                        └── Rear Fog Light Individual Parts [ID: 100484] (Niveau 4) → ProductId: 95",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Vehicle Rear"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101705
+      ],
+      "finalCategoryId": 101705,
+      "productId": 95
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Feux",
+        "Lights"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101407
+      ],
+      "finalCategoryId": 101407,
+      "productId": 95
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Lights"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100043
+      ],
+      "finalCategoryId": 100043,
+      "productId": 95
+    }
+  ],
+  "productIdsInArbo": [
+    95
+  ],
+  "matchedProductIds": [
+    95
+  ]
+}

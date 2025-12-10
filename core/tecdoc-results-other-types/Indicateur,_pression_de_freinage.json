@@ -1,0 +1,64 @@
+{
+  "productName": "Indicateur, pression de freinage",
+  "productId": 2200,
+  "searchText": "Indicateur, pression de freinage",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Système électrique": {
+          "categoryId": 200064,
+          "categoryName": "Système électrique",
+          "level": 1,
+          "children": {
+            "Instruments": {
+              "categoryId": null,
+              "categoryName": "Instruments",
+              "level": 2,
+              "children": {
+                "Indicateur, pression de freinage": {
+                  "categoryId": 200600,
+                  "categoryName": "Instruments",
+                  "level": 2,
+                  "children": {
+                    "Instruments indicateurs": {
+                      "categoryId": null,
+                      "categoryName": "Instruments indicateurs",
+                      "level": 4,
+                      "children": {
+                        "Indicateur, pression de freinage": {
+                          "categoryId": 200955,
+                          "categoryName": "Gauges",
+                          "level": 3,
+                          "children": [],
+                          "productId": 2200
+                        }
+                      }
+                    }
+                  },
+                  "productId": 2200
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système électrique [ID: 200064] (Niveau 1)\n    └── Instruments (Niveau 2)\n        └── Instruments [ID: 200600] (Niveau 2) → ProductId: 2200\n            └── Instruments indicateurs (Niveau 4)\n                └── Gauges [ID: 200955] (Niveau 3) → ProductId: 2200",
+      "productIdsInArbo": [
+        2200
+      ],
+      "matchedProductIds": [
+        2200
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:35:34.279Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

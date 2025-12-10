@@ -1,0 +1,91 @@
+{
+  "productName": "Régulateur de pression, dynamique de la conduite",
+  "productId": 283,
+  "searchText": "Régulateur de pression, dynamique de la conduite",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Dispositif de freinage": {
+          "categoryId": 200058,
+          "categoryName": "Dispositif de freinage",
+          "level": 1,
+          "children": {
+            "Réglage du comportement": {
+              "categoryId": null,
+              "categoryName": "Réglage du comportement",
+              "level": 2,
+              "children": {
+                "Régulateur de pression, dynamique de la conduite": {
+                  "categoryId": 200109,
+                  "categoryName": "Drive Dynamics Control",
+                  "level": 2,
+                  "children": [],
+                  "productId": 283
+                }
+              }
+            }
+          }
+        },
+        "Système électrique": {
+          "categoryId": 200064,
+          "categoryName": "Système électrique",
+          "level": 1,
+          "children": {
+            "Réglage de la dynamique de conduite": {
+              "categoryId": null,
+              "categoryName": "Réglage de la dynamique de conduite",
+              "level": 2,
+              "children": {
+                "Régulateur de pression, dynamique de la conduite": {
+                  "categoryId": 200601,
+                  "categoryName": "Drive Dynamics Control",
+                  "level": 2,
+                  "children": [],
+                  "productId": 283
+                }
+              }
+            }
+          }
+        },
+        "Système pneumatique": {
+          "categoryId": 200059,
+          "categoryName": "Système pneumatique",
+          "level": 1,
+          "children": {
+            "ABS/ASR/EBS": {
+              "categoryId": null,
+              "categoryName": "ABS/ASR/EBS",
+              "level": 2,
+              "children": {
+                "Régulateur de pression, dynamique de la conduite": {
+                  "categoryId": 200918,
+                  "categoryName": "ABS/ASR/EBS",
+                  "level": 2,
+                  "children": [],
+                  "productId": 283
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "├── Dispositif de freinage [ID: 200058] (Niveau 1)\n│   └── Réglage du comportement (Niveau 2)\n│       └── Drive Dynamics Control [ID: 200109] (Niveau 2) → ProductId: 283\n\n├── Système électrique [ID: 200064] (Niveau 1)\n│   └── Réglage de la dynamique de conduite (Niveau 2)\n│       └── Drive Dynamics Control [ID: 200601] (Niveau 2) → ProductId: 283\n\n└── Système pneumatique [ID: 200059] (Niveau 1)\n    └── ABS/ASR/EBS (Niveau 2)\n        └── ABS/ASR/EBS [ID: 200918] (Niveau 2) → ProductId: 283",
+      "productIdsInArbo": [
+        283
+      ],
+      "matchedProductIds": [
+        283
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:27:56.933Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

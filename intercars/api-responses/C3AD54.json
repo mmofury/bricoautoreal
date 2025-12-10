@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "C3AD54",
+      "index": "FE34148",
+      "tecDoc": "34148",
+      "tecDocProd": "101",
+      "articleNumber": "34148",
+      "brand": "FEBI",
+      "shortDescription": "Change-Over Valve, ventilation covers",
+      "description": "Air conditioning stepper motor fits: AUDI A3, TT, SEAT CORDOBA, CORDOBA VARIO, CORDOBA VARIO/KOMBI, IBIZA II, LEON, TOLEDO II, SKODA OCTAVIA I, OCTAVIA I/KOMBI, VW AMAROK 1.0-3.2 02.93-07.19",
+      "customsCode": "85011099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_2085",
+          "primary": false,
+          "name": {
+            "en": "Actuator, blending flap"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3557",
+          "primary": true,
+          "name": {
+            "en": "Change-Over Valve, ventilation covers"
+          }
+        }
+      ]
+    }
+  ]
+}

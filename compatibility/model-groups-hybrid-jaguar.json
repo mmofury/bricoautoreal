@@ -1,0 +1,418 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.351Z",
+  "manufacturer": "JAGUAR",
+  "countGroups": 15,
+  "groups": [
+    {
+      "manufacturerId": 56,
+      "manufacturerName": "JAGUAR",
+      "groupKey": "C",
+      "displayName": "C",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32184,
+          "modelName": "C-TYPE A trois volumes",
+          "modelYearFrom": "1950-09-01",
+          "modelYearTo": "1953-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 56,
+      "manufacturerName": "JAGUAR",
+      "groupKey": "D",
+      "displayName": "D",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32185,
+          "modelName": "D-TYPE A trois volumes",
+          "modelYearFrom": "1953-09-01",
+          "modelYearTo": "1956-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 56,
+      "manufacturerName": "JAGUAR",
+      "groupKey": "E",
+      "displayName": "E",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1712,
+          "modelName": "E-TYPE",
+          "modelYearFrom": "1961-04-01",
+          "modelYearTo": "1975-04-01"
+        },
+        {
+          "modelId": 1713,
+          "modelName": "E-TYPE 2+2",
+          "modelYearFrom": "1965-01-01",
+          "modelYearTo": "1975-04-01"
+        },
+        {
+          "modelId": 1714,
+          "modelName": "E-TYPE Convertible",
+          "modelYearFrom": "1961-04-01",
+          "modelYearTo": "1975-04-01"
+        },
+        {
+          "modelId": 38078,
+          "modelName": "E-PACE (X540)",
+          "modelYearFrom": "2017-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 56,
+      "manufacturerName": "JAGUAR",
+      "groupKey": "F",
+      "displayName": "F",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10822,
+          "modelName": "F-TYPE Décapotable (X152)",
+          "modelYearFrom": "2012-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11839,
+          "modelName": "F-TYPE Coupé (X152)",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14864,
+          "modelName": "F-PACE (X761)",
+          "modelYearFrom": "2015-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 56,
+      "manufacturerName": "JAGUAR",
+      "groupKey": "I",
+      "displayName": "I",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38533,
+          "modelName": "I-PACE (X590)",
+          "modelYearFrom": "2018-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 56,
+      "manufacturerName": "JAGUAR",
+      "groupKey": "MK",
+      "displayName": "MK",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11023,
+          "modelName": "Mk II",
+          "modelYearFrom": "1955-09-01",
+          "modelYearTo": "1970-10-01"
+        },
+        {
+          "modelId": 11031,
+          "modelName": "Mk VII",
+          "modelYearFrom": "1950-05-01",
+          "modelYearTo": "1958-10-01"
+        },
+        {
+          "modelId": 11033,
+          "modelName": "Mk X MK I",
+          "modelYearFrom": "1961-09-01",
+          "modelYearTo": "1970-10-01"
+        },
+        {
+          "modelId": 11319,
+          "modelName": "Mk I",
+          "modelYearFrom": "1955-09-01",
+          "modelYearTo": "1959-09-01"
+        },
+        {
+          "modelId": 11327,
+          "modelName": "Mk IX",
+          "modelYearFrom": "1958-10-01",
+          "modelYearTo": "1961-07-01"
+        },
+        {
+          "modelId": 11908,
+          "modelName": "Mk VIII",
+          "modelYearFrom": "1956-05-01",
+          "modelYearTo": "1958-10-01"
+        },
+        {
+          "modelId": 32187,
+          "modelName": "Mk V A trois volumes",
+          "modelYearFrom": "1948-09-01",
+          "modelYearTo": "1950-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 56,
+      "manufacturerName": "JAGUAR",
+      "groupKey": "S",
+      "displayName": "S",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3953,
+          "modelName": "S-TYPE II (X200)",
+          "modelYearFrom": "1998-10-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 11037,
+          "modelName": "S-TYPE I",
+          "modelYearFrom": "1963-05-01",
+          "modelYearTo": "1968-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 56,
+      "manufacturerName": "JAGUAR",
+      "groupKey": "VANDEN",
+      "displayName": "VANDEN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32195,
+          "modelName": "VANDEN PLAS A trois volumes",
+          "modelYearFrom": "1981-09-01",
+          "modelYearTo": "2009-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 56,
+      "manufacturerName": "JAGUAR",
+      "groupKey": "X",
+      "displayName": "X",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4741,
+          "modelName": "X-TYPE I (X400)",
+          "modelYearFrom": "2001-03-01",
+          "modelYearTo": "2009-11-01"
+        },
+        {
+          "modelId": 5107,
+          "modelName": "X-TYPE I Break (X400)",
+          "modelYearFrom": "2003-09-01",
+          "modelYearTo": "2009-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 56,
+      "manufacturerName": "JAGUAR",
+      "groupKey": "XE",
+      "displayName": "XE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13223,
+          "modelName": "XE (X760)",
+          "modelYearFrom": "2015-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 56,
+      "manufacturerName": "JAGUAR",
+      "groupKey": "XF",
+      "displayName": "XF",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6720,
+          "modelName": "XF I (X250)",
+          "modelYearFrom": "2008-03-01",
+          "modelYearTo": "2015-04-01"
+        },
+        {
+          "modelId": 10547,
+          "modelName": "XF SPORTBRAKE (X250)",
+          "modelYearFrom": "2012-09-01",
+          "modelYearTo": "2015-12-01"
+        },
+        {
+          "modelId": 14381,
+          "modelName": "XF II (X260)",
+          "modelYearFrom": "2015-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37987,
+          "modelName": "XF SPORTBRAKE (X260)",
+          "modelYearFrom": "2017-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 56,
+      "manufacturerName": "JAGUAR",
+      "groupKey": "XJ",
+      "displayName": "XJ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 95,
+          "modelName": "XJ (XJ40, XJ81)",
+          "modelYearFrom": "1986-10-01",
+          "modelYearTo": "1995-12-01"
+        },
+        {
+          "modelId": 101,
+          "modelName": "XJ",
+          "modelYearFrom": "1968-07-01",
+          "modelYearTo": "1993-02-01"
+        },
+        {
+          "modelId": 105,
+          "modelName": "XJ (X300, X330)",
+          "modelYearFrom": "1994-09-01",
+          "modelYearTo": "1999-12-01"
+        },
+        {
+          "modelId": 111,
+          "modelName": "XJ Coupé",
+          "modelYearFrom": "1973-09-01",
+          "modelYearTo": "1996-03-01"
+        },
+        {
+          "modelId": 4138,
+          "modelName": "XJ (X308)",
+          "modelYearFrom": "1996-09-01",
+          "modelYearTo": "2003-06-01"
+        },
+        {
+          "modelId": 4977,
+          "modelName": "XJ (X350, X358)",
+          "modelYearFrom": "2003-03-01",
+          "modelYearTo": "2009-03-01"
+        },
+        {
+          "modelId": 8797,
+          "modelName": "XJ (X351)",
+          "modelYearFrom": "2009-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 56,
+      "manufacturerName": "JAGUAR",
+      "groupKey": "XJ220",
+      "displayName": "XJ220",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13289,
+          "modelName": "XJ220 Coupé (X27)",
+          "modelYearFrom": "1991-06-01",
+          "modelYearTo": "1995-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 56,
+      "manufacturerName": "JAGUAR",
+      "groupKey": "XJSC",
+      "displayName": "XJSC",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 117,
+          "modelName": "XJSC Convertible (X27)",
+          "modelYearFrom": "1985-07-01",
+          "modelYearTo": "1997-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 56,
+      "manufacturerName": "JAGUAR",
+      "groupKey": "XK",
+      "displayName": "XK",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1576,
+          "modelName": "XK 8 Coupé (X100)",
+          "modelYearFrom": "1996-03-01",
+          "modelYearTo": "2006-12-01"
+        },
+        {
+          "modelId": 1577,
+          "modelName": "XK 8 Convertible (X100)",
+          "modelYearFrom": "1996-03-01",
+          "modelYearTo": "2006-12-01"
+        },
+        {
+          "modelId": 5480,
+          "modelName": "XK II Coupé (X150)",
+          "modelYearFrom": "2006-03-01",
+          "modelYearTo": "2014-12-01"
+        },
+        {
+          "modelId": 5481,
+          "modelName": "XK II Décapotable (X150)",
+          "modelYearFrom": "2006-03-01",
+          "modelYearTo": "2014-07-01"
+        },
+        {
+          "modelId": 11045,
+          "modelName": "XK Décapotable",
+          "modelYearFrom": "1950-01-01",
+          "modelYearTo": "1954-10-01"
+        },
+        {
+          "modelId": 11046,
+          "modelName": "XK Coupé",
+          "modelYearFrom": "1948-09-01",
+          "modelYearTo": "1954-12-01"
+        },
+        {
+          "modelId": 11403,
+          "modelName": "XK Coupé",
+          "modelYearFrom": "1954-10-01",
+          "modelYearTo": "1957-09-01"
+        },
+        {
+          "modelId": 11404,
+          "modelName": "XK Décapotable",
+          "modelYearFrom": "1954-10-01",
+          "modelYearTo": "1957-09-01"
+        },
+        {
+          "modelId": 11405,
+          "modelName": "XK Coupé",
+          "modelYearFrom": "1957-09-01",
+          "modelYearTo": "1960-10-01"
+        },
+        {
+          "modelId": 11407,
+          "modelName": "XK Décapotable",
+          "modelYearFrom": "1957-09-01",
+          "modelYearTo": "1960-10-01"
+        }
+      ]
+    }
+  ]
+}

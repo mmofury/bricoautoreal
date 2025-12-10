@@ -1,0 +1,109 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.528Z",
+  "manufacturer": "VINFAST",
+  "countGroups": 4,
+  "groups": [
+    {
+      "manufacturerId": 5118,
+      "manufacturerName": "VINFAST",
+      "groupKey": "FADIL",
+      "displayName": "FADIL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39851,
+          "modelName": "Fadil",
+          "modelYearFrom": "2019-06-01",
+          "modelYearTo": "2022-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5118,
+      "manufacturerName": "VINFAST",
+      "groupKey": "LUX",
+      "displayName": "LUX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39849,
+          "modelName": "LUX SA",
+          "modelYearFrom": "2019-06-01",
+          "modelYearTo": "2022-08-01"
+        },
+        {
+          "modelId": 39850,
+          "modelName": "LUX A",
+          "modelYearFrom": "2019-06-01",
+          "modelYearTo": "2022-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5118,
+      "manufacturerName": "VINFAST",
+      "groupKey": "PRESIDENT",
+      "displayName": "PRESIDENT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41811,
+          "modelName": "PRESIDENT",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5118,
+      "manufacturerName": "VINFAST",
+      "groupKey": "VF",
+      "displayName": "VF",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42807,
+          "modelName": "VF e34",
+          "modelYearFrom": "2021-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42823,
+          "modelName": "VF 8",
+          "modelYearFrom": "2022-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42824,
+          "modelName": "VF 9",
+          "modelYearFrom": "2022-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44859,
+          "modelName": "VF 5 PLUS",
+          "modelYearFrom": "2023-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44860,
+          "modelName": "VF 6",
+          "modelYearFrom": "2023-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45015,
+          "modelName": "VF 7",
+          "modelYearFrom": "2023-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45471,
+          "modelName": "VF 3",
+          "modelYearFrom": "2023-07-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

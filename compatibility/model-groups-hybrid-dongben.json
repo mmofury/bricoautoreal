@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.241Z",
+  "manufacturer": "DONGBEN",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 7738,
+      "manufacturerName": "DONGBEN",
+      "groupKey": "T30",
+      "displayName": "T30",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45150,
+          "modelName": "T30 Camion plate-forme/Châssis",
+          "modelYearFrom": "2018-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 7738,
+      "manufacturerName": "DONGBEN",
+      "groupKey": "X30",
+      "displayName": "X30",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45468,
+          "modelName": "X30",
+          "modelYearFrom": "2018-01-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

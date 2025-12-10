@@ -1,0 +1,49 @@
+{
+  "productName": "Filtre de conduite, système d'air comprimé",
+  "productId": 1340,
+  "searchText": "Filtre de conduite, système d'air comprimé",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Système pneumatique": {
+          "categoryId": 200059,
+          "categoryName": "Système pneumatique",
+          "level": 1,
+          "children": {
+            "Connecteurs/Câbles": {
+              "categoryId": null,
+              "categoryName": "Connecteurs/Câbles",
+              "level": 2,
+              "children": {
+                "Filtre de conduite, système d'air comprimé": {
+                  "categoryId": 200527,
+                  "categoryName": "Hoses/Connector Pipes",
+                  "level": 2,
+                  "children": [],
+                  "productId": 1340
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système pneumatique [ID: 200059] (Niveau 1)\n    └── Connecteurs/Câbles (Niveau 2)\n        └── Hoses/Connector Pipes [ID: 200527] (Niveau 2) → ProductId: 1340",
+      "productIdsInArbo": [
+        1340
+      ],
+      "matchedProductIds": [
+        1340
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:29:44.924Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "productName": "Kit de réparation, valve de commande de la pression",
+  "productId": 4026,
+  "searchText": "Kit de réparation, valve de commande de la pression",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Système pneumatique": {
+          "categoryId": 200059,
+          "categoryName": "Système pneumatique",
+          "level": 1,
+          "children": {
+            "Soupapes / Système d'air comprimé": {
+              "categoryId": null,
+              "categoryName": "Soupapes / Système d'air comprimé",
+              "level": 2,
+              "children": {
+                "Kit de réparation, valve de commande de la pression": {
+                  "categoryId": 200115,
+                  "categoryName": "Valves/compressed-air system",
+                  "level": 2,
+                  "children": {
+                    "Kits de réparation": {
+                      "categoryId": null,
+                      "categoryName": "Kits de réparation",
+                      "level": 4,
+                      "children": {
+                        "Kit de réparation, valve de commande de la pression": {
+                          "categoryId": 202883,
+                          "categoryName": "Repair Kits",
+                          "level": 3,
+                          "children": [],
+                          "productId": 4026
+                        }
+                      }
+                    }
+                  },
+                  "productId": 4026
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système pneumatique [ID: 200059] (Niveau 1)\n    └── Soupapes / Système d'air comprimé (Niveau 2)\n        └── Valves/compressed-air system [ID: 200115] (Niveau 2) → ProductId: 4026\n            └── Kits de réparation (Niveau 4)\n                └── Repair Kits [ID: 202883] (Niveau 3) → ProductId: 4026",
+      "productIdsInArbo": [
+        4026
+      ],
+      "matchedProductIds": [
+        4026
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:47:04.028Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

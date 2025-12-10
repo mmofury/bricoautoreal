@@ -1,0 +1,89 @@
+{
+  "productName": "Capteur de pression, réservoir de carburant",
+  "searchText": "Capteur de pression, réservoir de carburant",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:15:02.859Z",
+  "productId": 2272,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Soupapes": {
+          "categoryId": null,
+          "categoryName": "Soupapes",
+          "level": 2,
+          "children": {
+            "Capteur de pression, réservoir de carburant": {
+              "categoryId": 100252,
+              "categoryName": "Valves",
+              "level": 2,
+              "children": [],
+              "productId": 2272
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Capteurs": {
+          "categoryId": null,
+          "categoryName": "Capteurs",
+          "level": 2,
+          "children": {
+            "Capteur de pression, réservoir de carburant": {
+              "categoryId": 102747,
+              "categoryName": "Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 2272
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Alimentation carburant [ID: 100214] (Niveau 1)\n│   └── Soupapes (Niveau 2)\n│       └── Valves [ID: 100252] (Niveau 2) → ProductId: 2272\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Capteurs (Niveau 2)\n        └── Sensors [ID: 102747] (Niveau 2) → ProductId: 2272",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Soupapes",
+        "Valves"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100252
+      ],
+      "finalCategoryId": 100252,
+      "productId": 2272
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Capteurs",
+        "Sensors"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        102747
+      ],
+      "finalCategoryId": 102747,
+      "productId": 2272
+    }
+  ],
+  "productIdsInArbo": [
+    2272
+  ],
+  "matchedProductIds": [
+    2272
+  ]
+}

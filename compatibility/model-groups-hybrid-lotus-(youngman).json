@@ -1,0 +1,49 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.394Z",
+  "manufacturer": "LOTUS (YOUNGMAN)",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 3661,
+      "manufacturerName": "LOTUS (YOUNGMAN)",
+      "groupKey": "L3",
+      "displayName": "L3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10605,
+          "modelName": "L3 Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2009-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10606,
+          "modelName": "L3 A trois volumes",
+          "modelYearFrom": "2009-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3661,
+      "manufacturerName": "LOTUS (YOUNGMAN)",
+      "groupKey": "L5",
+      "displayName": "L5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10604,
+          "modelName": "L5 Sportback",
+          "modelYearFrom": "2011-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11939,
+          "modelName": "L5",
+          "modelYearFrom": "2012-04-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

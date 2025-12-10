@@ -1,0 +1,255 @@
+{
+  "productName": "Débitmètre de masse d'air",
+  "searchText": "Débitmètre de masse d'air",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:34:54.761Z",
+  "productId": 3926,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Débitmètre de masse d'air": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Capteur/sonde lambda": {
+                  "categoryId": null,
+                  "categoryName": "Capteur/sonde lambda",
+                  "level": 4,
+                  "children": {
+                    "Débitmètre de masse d'air": {
+                      "categoryId": 102809,
+                      "categoryName": "Sensor/Probe",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3926
+                    }
+                  }
+                },
+                "Débitmètre d'air": {
+                  "categoryId": null,
+                  "categoryName": "Débitmètre d'air",
+                  "level": 4,
+                  "children": {
+                    "Débitmètre de masse d'air": {
+                      "categoryId": 102806,
+                      "categoryName": "Mass Air Flow Sensor/Volume Air Flow Sensor",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3926
+                    }
+                  }
+                }
+              },
+              "productId": 3926
+            },
+            "Kit réparation de câble, débitmètre de masse d'air": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Débitmètre d'air": {
+                  "categoryId": null,
+                  "categoryName": "Débitmètre d'air",
+                  "level": 4,
+                  "children": {
+                    "Kit réparation de câble, débitmètre de masse d'air": {
+                      "categoryId": 102806,
+                      "categoryName": "Mass Air Flow Sensor/Volume Air Flow Sensor",
+                      "level": 3,
+                      "children": [],
+                      "productId": 6342
+                    }
+                  }
+                }
+              },
+              "productId": 6342
+            },
+            "Relais, débitmètre": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Débitmètre d'air": {
+                  "categoryId": null,
+                  "categoryName": "Débitmètre d'air",
+                  "level": 4,
+                  "children": {
+                    "Relais, débitmètre": {
+                      "categoryId": 102806,
+                      "categoryName": "Mass Air Flow Sensor/Volume Air Flow Sensor",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8987
+                    }
+                  }
+                }
+              },
+              "productId": 8987
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Circuit électrique du moteur": {
+          "categoryId": null,
+          "categoryName": "Circuit électrique du moteur",
+          "level": 2,
+          "children": {
+            "Débitmètre de masse d'air": {
+              "categoryId": 100754,
+              "categoryName": "Engine Electrics",
+              "level": 2,
+              "children": [],
+              "productId": 3926
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Capteurs": {
+          "categoryId": null,
+          "categoryName": "Capteurs",
+          "level": 2,
+          "children": {
+            "Débitmètre de masse d'air": {
+              "categoryId": 102747,
+              "categoryName": "Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 3926
+            }
+          }
+        },
+        "Relais": {
+          "categoryId": null,
+          "categoryName": "Relais",
+          "level": 2,
+          "children": {
+            "Relais, débitmètre": {
+              "categoryId": 100785,
+              "categoryName": "Relay",
+              "level": 2,
+              "children": [],
+              "productId": 8987
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carburation [ID: 100254] (Niveau 1)\n│   └── Mélange air-carburant (Niveau 2)\n│       ├── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 3926\n│       │   ├── Capteur/sonde lambda (Niveau 4)\n│       │   │   └── Sensor/Probe [ID: 102809] (Niveau 3) → ProductId: 3926\n│       │   └── Débitmètre d'air (Niveau 4)\n│       │       └── Mass Air Flow Sensor/Volume Air Flow Sensor [ID: 102806] (Niveau 3) → ProductId: 3926\n│       ├── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 6342\n│       │   └── Débitmètre d'air (Niveau 4)\n│       │       └── Mass Air Flow Sensor/Volume Air Flow Sensor [ID: 102806] (Niveau 3) → ProductId: 6342\n│       └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 8987\n│           └── Débitmètre d'air (Niveau 4)\n│               └── Mass Air Flow Sensor/Volume Air Flow Sensor [ID: 102806] (Niveau 3) → ProductId: 8987\n\n├── Moteur [ID: 100002] (Niveau 1)\n│   └── Circuit électrique du moteur (Niveau 2)\n│       └── Engine Electrics [ID: 100754] (Niveau 2) → ProductId: 3926\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    ├── Capteurs (Niveau 2)\n    │   └── Sensors [ID: 102747] (Niveau 2) → ProductId: 3926\n    └── Relais (Niveau 2)\n        └── Relay [ID: 100785] (Niveau 2) → ProductId: 8987",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 3926
+    },
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 6342
+    },
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 8987
+    },
+    {
+      "path": [
+        "Moteur",
+        "Circuit électrique du moteur",
+        "Engine Electrics"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100754
+      ],
+      "finalCategoryId": 100754,
+      "productId": 3926
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Capteurs",
+        "Sensors"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        102747
+      ],
+      "finalCategoryId": 102747,
+      "productId": 3926
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Relais",
+        "Relay"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100785
+      ],
+      "finalCategoryId": 100785,
+      "productId": 8987
+    }
+  ],
+  "productIdsInArbo": [
+    3926,
+    6342,
+    8987
+  ],
+  "matchedProductIds": [
+    3926
+  ]
+}

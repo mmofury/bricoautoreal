@@ -1,0 +1,84 @@
+{
+  "productName": "Ampoule, éclairage des instruments",
+  "searchText": "Ampoule, éclairage des instruments",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T18:50:39.419Z",
+  "productId": 121,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Feux": {
+          "categoryId": null,
+          "categoryName": "Feux",
+          "level": 2,
+          "children": {
+            "Ampoule, éclairage des instruments": {
+              "categoryId": 100043,
+              "categoryName": "Lights",
+              "level": 2,
+              "children": {
+                "Éclairage intérieur": {
+                  "categoryId": null,
+                  "categoryName": "Éclairage intérieur",
+                  "level": 4,
+                  "children": {
+                    "Ampoule, éclairage des instruments": {
+                      "categoryId": 100292,
+                      "categoryName": "Interior Lights",
+                      "level": 3,
+                      "children": {
+                        "Éclairage des instruments et des commandes": {
+                          "categoryId": null,
+                          "categoryName": "Éclairage des instruments et des commandes",
+                          "level": 6,
+                          "children": {
+                            "Ampoule, éclairage des instruments": {
+                              "categoryId": 100508,
+                              "categoryName": "Lighting Controls",
+                              "level": 4,
+                              "children": [],
+                              "productId": 121
+                            }
+                          }
+                        }
+                      },
+                      "productId": 121
+                    }
+                  }
+                }
+              },
+              "productId": 121
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Feux (Niveau 2)\n        └── Lights [ID: 100043] (Niveau 2) → ProductId: 121\n            └── Éclairage intérieur (Niveau 4)\n                └── Interior Lights [ID: 100292] (Niveau 3) → ProductId: 121\n                    └── Éclairage des instruments et des commandes (Niveau 6)\n                        └── Lighting Controls [ID: 100508] (Niveau 4) → ProductId: 121",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Lights"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100043
+      ],
+      "finalCategoryId": 100043,
+      "productId": 121
+    }
+  ],
+  "productIdsInArbo": [
+    121
+  ],
+  "matchedProductIds": [
+    121
+  ]
+}

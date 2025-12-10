@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G12JUV",
+      "index": "HAZ 167-3S",
+      "tecDoc": "167-3S",
+      "tecDocProd": "4808",
+      "articleNumber": "167-3S",
+      "brand": "HAZET",
+      "shortDescription": "Tool trolley",
+      "description": "Service trolley, number of shelves: 3, colour: blue",
+      "packageWeight": "28,680",
+      "packageWidth": "57,000",
+      "packageDepth": "83,000",
+      "packageHeight": "20,000",
+      "customsCode": "87168000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4756",
+          "primary": true,
+          "name": {
+            "en": "Tool trolley"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_6404",
+          "primary": false,
+          "name": {
+            "en": "Workshop Service Trolley"
+          }
+        }
+      ]
+    }
+  ]
+}

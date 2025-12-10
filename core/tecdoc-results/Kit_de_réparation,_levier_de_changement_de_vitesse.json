@@ -1,0 +1,69 @@
+{
+  "productName": "Kit de réparation, levier de changement de vitesse",
+  "searchText": "Kit de réparation, levier de changement de vitesse",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:05:15.662Z",
+  "productId": 1633,
+  "arborescence": {
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Boîte de vitesses manuelle": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesses manuelle",
+          "level": 2,
+          "children": {
+            "Kit de réparation, levier de changement de vitesse": {
+              "categoryId": 100239,
+              "categoryName": "Manual Transmission",
+              "level": 2,
+              "children": {
+                "Réparation/entretien": {
+                  "categoryId": null,
+                  "categoryName": "Réparation/entretien",
+                  "level": 4,
+                  "children": {
+                    "Kit de réparation, levier de changement de vitesse": {
+                      "categoryId": 101809,
+                      "categoryName": "Repair/Maintenance",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1633
+                    }
+                  }
+                }
+              },
+              "productId": 1633
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Boîte de vitesses [ID: 100238] (Niveau 1)\n    └── Boîte de vitesses manuelle (Niveau 2)\n        └── Manual Transmission [ID: 100239] (Niveau 2) → ProductId: 1633\n            └── Réparation/entretien (Niveau 4)\n                └── Repair/Maintenance [ID: 101809] (Niveau 3) → ProductId: 1633",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesses manuelle",
+        "Manual Transmission"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        100239
+      ],
+      "finalCategoryId": 100239,
+      "productId": 1633
+    }
+  ],
+  "productIdsInArbo": [
+    1633
+  ],
+  "matchedProductIds": [
+    1633
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G17UYV",
+      "index": "VAL366124",
+      "tecDoc": "366124",
+      "tecDocProd": "21",
+      "articleNumber": "366124",
+      "brand": "VALEO",
+      "shortDescription": "Sensor, speed",
+      "description": "Crankshaft position sensor fits: SEAT AROSA, CORDOBA, IBIZA III, SKODA FABIA I, VW FOX, LUPO I, POLO, POLO III, POLO IV 1.0-2.0 10.94-04.12",
+      "customsCode": "90328900",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3946",
+          "primary": false,
+          "name": {
+            "en": "Sensor, camshaft position"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_4112",
+          "primary": false,
+          "name": {
+            "en": "RPM Sensor, manual transmission"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_833",
+          "primary": false,
+          "name": {
+            "en": "Sensor, crankshaft pulse"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1189",
+          "primary": true,
+          "name": {
+            "en": "Sensor, speed"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1402",
+          "primary": false,
+          "name": {
+            "en": "Sensor, engine speed"
+          }
+        }
+      ]
+    }
+  ]
+}

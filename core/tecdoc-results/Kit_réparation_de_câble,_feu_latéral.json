@@ -1,0 +1,84 @@
+{
+  "productName": "Kit réparation de câble, feu latéral",
+  "searchText": "Kit réparation de câble, feu latéral",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:10:01.357Z",
+  "productId": 6345,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Feux": {
+          "categoryId": null,
+          "categoryName": "Feux",
+          "level": 2,
+          "children": {
+            "Kit réparation de câble, feu latéral": {
+              "categoryId": 100043,
+              "categoryName": "Lights",
+              "level": 2,
+              "children": {
+                "Feu de position / d'encombrement / composants": {
+                  "categoryId": null,
+                  "categoryName": "Feu de position / d'encombrement / composants",
+                  "level": 4,
+                  "children": {
+                    "Kit réparation de câble, feu latéral": {
+                      "categoryId": 100290,
+                      "categoryName": "Side Marker/End Outline Marker Light/Parts",
+                      "level": 3,
+                      "children": {
+                        "Feux latéraux": {
+                          "categoryId": null,
+                          "categoryName": "Feux latéraux",
+                          "level": 6,
+                          "children": {
+                            "Kit réparation de câble, feu latéral": {
+                              "categoryId": 100753,
+                              "categoryName": "Side Marker Lights",
+                              "level": 4,
+                              "children": [],
+                              "productId": 6345
+                            }
+                          }
+                        }
+                      },
+                      "productId": 6345
+                    }
+                  }
+                }
+              },
+              "productId": 6345
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Feux (Niveau 2)\n        └── Lights [ID: 100043] (Niveau 2) → ProductId: 6345\n            └── Feu de position / d'encombrement / composants (Niveau 4)\n                └── Side Marker/End Outline Marker Light/Parts [ID: 100290] (Niveau 3) → ProductId: 6345\n                    └── Feux latéraux (Niveau 6)\n                        └── Side Marker Lights [ID: 100753] (Niveau 4) → ProductId: 6345",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Lights"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100043
+      ],
+      "finalCategoryId": 100043,
+      "productId": 6345
+    }
+  ],
+  "productIdsInArbo": [
+    6345
+  ],
+  "matchedProductIds": [
+    6345
+  ]
+}

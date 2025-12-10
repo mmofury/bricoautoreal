@@ -1,0 +1,204 @@
+{
+  "productName": "Écrou de roue",
+  "searchText": "Écrou de roue",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:37:39.717Z",
+  "productId": 658,
+  "arborescence": {
+    "Roues/Pneus": {
+      "categoryId": 103099,
+      "categoryName": "Roues/Pneus",
+      "level": 1,
+      "children": {
+        "Accessoires": {
+          "categoryId": null,
+          "categoryName": "Accessoires",
+          "level": 2,
+          "children": {
+            "Bonnette, écrou de roue": {
+              "categoryId": 103102,
+              "categoryName": "Accessories",
+              "level": 2,
+              "children": [],
+              "productId": 4035
+            },
+            "Capuchon, boulon de roue": {
+              "categoryId": 103102,
+              "categoryName": "Accessories",
+              "level": 2,
+              "children": [],
+              "productId": 60247
+            },
+            "Écrou de roue": {
+              "categoryId": 103102,
+              "categoryName": "Accessories",
+              "level": 2,
+              "children": [],
+              "productId": 658
+            }
+          }
+        },
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Clé à douille, Écrou de roue / Boulon": {
+              "categoryId": 105409,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 9008
+            }
+          }
+        }
+      }
+    },
+    "Suspension d'essieu/Guidage des roues/Roues": {
+      "categoryId": 100013,
+      "categoryName": "Suspension d'essieu/Guidage des roues/Roues",
+      "level": 1,
+      "children": {
+        "Roue / fixation de la roue": {
+          "categoryId": null,
+          "categoryName": "Roue / fixation de la roue",
+          "level": 2,
+          "children": {
+            "Bonnette, écrou de roue": {
+              "categoryId": 100213,
+              "categoryName": "Wheel/Wheel Fastening",
+              "level": 2,
+              "children": [],
+              "productId": 4035
+            },
+            "Capuchon, boulon de roue": {
+              "categoryId": 100213,
+              "categoryName": "Wheel/Wheel Fastening",
+              "level": 2,
+              "children": [],
+              "productId": 60247
+            },
+            "Écrou de roue": {
+              "categoryId": 100213,
+              "categoryName": "Wheel/Wheel Fastening",
+              "level": 2,
+              "children": [],
+              "productId": 658
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Roues/Pneus [ID: 103099] (Niveau 1)\n│   ├── Accessoires (Niveau 2)\n│   │   ├── Accessories [ID: 103102] (Niveau 2) → ProductId: 4035\n│   │   ├── Accessories [ID: 103102] (Niveau 2) → ProductId: 60247\n│   │   └── Accessories [ID: 103102] (Niveau 2) → ProductId: 658\n│   └── Outils (Niveau 2)\n│       └── Tools [ID: 105409] (Niveau 2) → ProductId: 9008\n\n└── Suspension d'essieu/Guidage des roues/Roues [ID: 100013] (Niveau 1)\n    └── Roue / fixation de la roue (Niveau 2)\n        ├── Wheel/Wheel Fastening [ID: 100213] (Niveau 2) → ProductId: 4035\n        ├── Wheel/Wheel Fastening [ID: 100213] (Niveau 2) → ProductId: 60247\n        └── Wheel/Wheel Fastening [ID: 100213] (Niveau 2) → ProductId: 658",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Roues/Pneus",
+        "Accessoires",
+        "Accessories"
+      ],
+      "categoryIds": [
+        103099,
+        null,
+        103102
+      ],
+      "finalCategoryId": 103102,
+      "productId": 4035
+    },
+    {
+      "path": [
+        "Roues/Pneus",
+        "Accessoires",
+        "Accessories"
+      ],
+      "categoryIds": [
+        103099,
+        null,
+        103102
+      ],
+      "finalCategoryId": 103102,
+      "productId": 60247
+    },
+    {
+      "path": [
+        "Roues/Pneus",
+        "Accessoires",
+        "Accessories"
+      ],
+      "categoryIds": [
+        103099,
+        null,
+        103102
+      ],
+      "finalCategoryId": 103102,
+      "productId": 658
+    },
+    {
+      "path": [
+        "Roues/Pneus",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        103099,
+        null,
+        105409
+      ],
+      "finalCategoryId": 105409,
+      "productId": 9008
+    },
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Roue / fixation de la roue",
+        "Wheel/Wheel Fastening"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        100213
+      ],
+      "finalCategoryId": 100213,
+      "productId": 4035
+    },
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Roue / fixation de la roue",
+        "Wheel/Wheel Fastening"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        100213
+      ],
+      "finalCategoryId": 100213,
+      "productId": 60247
+    },
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Roue / fixation de la roue",
+        "Wheel/Wheel Fastening"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        100213
+      ],
+      "finalCategoryId": 100213,
+      "productId": 658
+    }
+  ],
+  "productIdsInArbo": [
+    658,
+    4035,
+    9008,
+    60247
+  ],
+  "matchedProductIds": [
+    658
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "productName": "Filtre hydraulique, direction",
+  "searchText": "Filtre hydraulique, direction",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:39:29.608Z",
+  "productId": 417,
+  "arborescence": {
+    "Direction": {
+      "categoryId": 100012,
+      "categoryName": "Direction",
+      "level": 1,
+      "children": {
+        "Crémaillère de direction/pompe": {
+          "categoryId": null,
+          "categoryName": "Crémaillère de direction/pompe",
+          "level": 2,
+          "children": {
+            "Filtre hydraulique, direction": {
+              "categoryId": 100199,
+              "categoryName": "Steering Gear/Pump",
+              "level": 2,
+              "children": [],
+              "productId": 417
+            }
+          }
+        },
+        "Filtre de direction": {
+          "categoryId": null,
+          "categoryName": "Filtre de direction",
+          "level": 2,
+          "children": {
+            "Filtre hydraulique, direction": {
+              "categoryId": 100591,
+              "categoryName": "Filter, power steering",
+              "level": 2,
+              "children": [],
+              "productId": 417
+            }
+          }
+        }
+      }
+    },
+    "Filtre": {
+      "categoryId": 100005,
+      "categoryName": "Filtre",
+      "level": 1,
+      "children": {
+        "Filtre hydraulique": {
+          "categoryId": null,
+          "categoryName": "Filtre hydraulique",
+          "level": 2,
+          "children": {
+            "Filtre hydraulique, direction": {
+              "categoryId": 706725,
+              "categoryName": "Hydraulic Filter",
+              "level": 2,
+              "children": [],
+              "productId": 417
+            }
+          }
+        }
+      }
+    },
+    "Pièces de maintenance": {
+      "categoryId": 100019,
+      "categoryName": "Pièces de maintenance",
+      "level": 1,
+      "children": {
+        "Intervalle": {
+          "categoryId": null,
+          "categoryName": "Intervalle",
+          "level": 2,
+          "children": {
+            "Filtre hydraulique, direction": {
+              "categoryId": 100597,
+              "categoryName": "Service Intervals",
+              "level": 2,
+              "children": [],
+              "productId": 417
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Direction [ID: 100012] (Niveau 1)\n│   ├── Crémaillère de direction/pompe (Niveau 2)\n│   │   └── Steering Gear/Pump [ID: 100199] (Niveau 2) → ProductId: 417\n│   └── Filtre de direction (Niveau 2)\n│       └── Filter, power steering [ID: 100591] (Niveau 2) → ProductId: 417\n\n├── Filtre [ID: 100005] (Niveau 1)\n│   └── Filtre hydraulique (Niveau 2)\n│       └── Hydraulic Filter [ID: 706725] (Niveau 2) → ProductId: 417\n\n└── Pièces de maintenance [ID: 100019] (Niveau 1)\n    └── Intervalle (Niveau 2)\n        └── Service Intervals [ID: 100597] (Niveau 2) → ProductId: 417",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Direction",
+        "Crémaillère de direction/pompe",
+        "Steering Gear/Pump"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        100199
+      ],
+      "finalCategoryId": 100199,
+      "productId": 417
+    },
+    {
+      "path": [
+        "Direction",
+        "Filtre de direction",
+        "Filter, power steering"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        100591
+      ],
+      "finalCategoryId": 100591,
+      "productId": 417
+    },
+    {
+      "path": [
+        "Filtre",
+        "Filtre hydraulique",
+        "Hydraulic Filter"
+      ],
+      "categoryIds": [
+        100005,
+        null,
+        706725
+      ],
+      "finalCategoryId": 706725,
+      "productId": 417
+    },
+    {
+      "path": [
+        "Pièces de maintenance",
+        "Intervalle",
+        "Service Intervals"
+      ],
+      "categoryIds": [
+        100019,
+        null,
+        100597
+      ],
+      "finalCategoryId": 100597,
+      "productId": 417
+    }
+  ],
+  "productIdsInArbo": [
+    417
+  ],
+  "matchedProductIds": [
+    417
+  ]
+}

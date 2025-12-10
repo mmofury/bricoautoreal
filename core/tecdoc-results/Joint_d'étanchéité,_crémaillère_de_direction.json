@@ -1,0 +1,54 @@
+{
+  "productName": "Joint d'étanchéité, crémaillère de direction",
+  "searchText": "Joint d'étanchéité, crémaillère de direction",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:52:49.850Z",
+  "productId": 680,
+  "arborescence": {
+    "Direction": {
+      "categoryId": 100012,
+      "categoryName": "Direction",
+      "level": 1,
+      "children": {
+        "Soufflet / joint": {
+          "categoryId": null,
+          "categoryName": "Soufflet / joint",
+          "level": 2,
+          "children": {
+            "Joint d'étanchéité, crémaillère de direction": {
+              "categoryId": 100201,
+              "categoryName": "Bellow/Seal",
+              "level": 2,
+              "children": [],
+              "productId": 680
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Direction [ID: 100012] (Niveau 1)\n    └── Soufflet / joint (Niveau 2)\n        └── Bellow/Seal [ID: 100201] (Niveau 2) → ProductId: 680",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Direction",
+        "Soufflet / joint",
+        "Bellow/Seal"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        100201
+      ],
+      "finalCategoryId": 100201,
+      "productId": 680
+    }
+  ],
+  "productIdsInArbo": [
+    680
+  ],
+  "matchedProductIds": [
+    680
+  ]
+}

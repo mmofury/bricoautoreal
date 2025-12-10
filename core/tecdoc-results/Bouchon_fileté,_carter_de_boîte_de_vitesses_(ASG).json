@@ -1,0 +1,69 @@
+{
+  "productName": "Bouchon fileté, carter de boîte de vitesses (ASG)",
+  "searchText": "Bouchon fileté, carter de boîte de vitesses (ASG)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:08:10.433Z",
+  "productId": 60294,
+  "arborescence": {
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Boîte de vitesses manuelle robotisée (BVR)": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesses manuelle robotisée (BVR)",
+          "level": 2,
+          "children": {
+            "Bouchon fileté, carter de boîte de vitesses (ASG)": {
+              "categoryId": 706584,
+              "categoryName": "Automated manual transmission (AMT)",
+              "level": 2,
+              "children": {
+                "Carter/composants": {
+                  "categoryId": null,
+                  "categoryName": "Carter/composants",
+                  "level": 4,
+                  "children": {
+                    "Bouchon fileté, carter de boîte de vitesses (ASG)": {
+                      "categoryId": 706586,
+                      "categoryName": "Transmission Housing/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60294
+                    }
+                  }
+                }
+              },
+              "productId": 60294
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Boîte de vitesses [ID: 100238] (Niveau 1)\n    └── Boîte de vitesses manuelle robotisée (BVR) (Niveau 2)\n        └── Automated manual transmission (AMT) [ID: 706584] (Niveau 2) → ProductId: 60294\n            └── Carter/composants (Niveau 4)\n                └── Transmission Housing/Parts [ID: 706586] (Niveau 3) → ProductId: 60294",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesses manuelle robotisée (BVR)",
+        "Automated manual transmission (AMT)"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        706584
+      ],
+      "finalCategoryId": 706584,
+      "productId": 60294
+    }
+  ],
+  "productIdsInArbo": [
+    60294
+  ],
+  "matchedProductIds": [
+    60294
+  ]
+}

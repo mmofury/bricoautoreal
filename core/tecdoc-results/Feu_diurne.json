@@ -1,0 +1,356 @@
+{
+  "productName": "Feu diurne",
+  "searchText": "Feu diurne",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:38:40.349Z",
+  "productId": 2466,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Feux": {
+          "categoryId": null,
+          "categoryName": "Feux",
+          "level": 2,
+          "children": {
+            "Ampoule, feu diurne": {
+              "categoryId": 100043,
+              "categoryName": "Lights",
+              "level": 2,
+              "children": {
+                "Feu diurne": {
+                  "categoryId": null,
+                  "categoryName": "Feu diurne",
+                  "level": 4,
+                  "children": {
+                    "Ampoule, feu diurne": {
+                      "categoryId": 100870,
+                      "categoryName": "Daytime Running Light",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3853
+                    }
+                  }
+                }
+              },
+              "productId": 3853
+            },
+            "Ampoule, feu diurne/de position": {
+              "categoryId": 100043,
+              "categoryName": "Lights",
+              "level": 2,
+              "children": {
+                "Feu diurne": {
+                  "categoryId": null,
+                  "categoryName": "Feu diurne",
+                  "level": 4,
+                  "children": {
+                    "Ampoule, feu diurne/de position": {
+                      "categoryId": 100870,
+                      "categoryName": "Daytime Running Light",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60367
+                    }
+                  }
+                }
+              },
+              "productId": 60367
+            },
+            "Feu diurne": {
+              "categoryId": 100043,
+              "categoryName": "Lights",
+              "level": 2,
+              "children": {
+                "Feu diurne": {
+                  "categoryId": null,
+                  "categoryName": "Feu diurne",
+                  "level": 4,
+                  "children": {
+                    "Feu diurne": {
+                      "categoryId": 100870,
+                      "categoryName": "Daytime Running Light",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2466
+                    }
+                  }
+                }
+              },
+              "productId": 2466
+            },
+            "Joint, feu diurne": {
+              "categoryId": 100043,
+              "categoryName": "Lights",
+              "level": 2,
+              "children": {
+                "Feu diurne": {
+                  "categoryId": null,
+                  "categoryName": "Feu diurne",
+                  "level": 4,
+                  "children": {
+                    "Joint, feu diurne": {
+                      "categoryId": 100870,
+                      "categoryName": "Daytime Running Light",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3121
+                    }
+                  }
+                }
+              },
+              "productId": 3121
+            },
+            "Kit de feux diurnes": {
+              "categoryId": 100043,
+              "categoryName": "Lights",
+              "level": 2,
+              "children": {
+                "Feu diurne": {
+                  "categoryId": null,
+                  "categoryName": "Feu diurne",
+                  "level": 4,
+                  "children": {
+                    "Kit de feux diurnes": {
+                      "categoryId": 100870,
+                      "categoryName": "Daytime Running Light",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3232
+                    }
+                  }
+                }
+              },
+              "productId": 3232
+            },
+            "Kit réparation de câble, feu diurne": {
+              "categoryId": 100043,
+              "categoryName": "Lights",
+              "level": 2,
+              "children": {
+                "Feu diurne": {
+                  "categoryId": null,
+                  "categoryName": "Feu diurne",
+                  "level": 4,
+                  "children": {
+                    "Kit réparation de câble, feu diurne": {
+                      "categoryId": 100870,
+                      "categoryName": "Daytime Running Light",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8122
+                    }
+                  }
+                }
+              },
+              "productId": 8122
+            },
+            "Relais, feu de circulation diurne": {
+              "categoryId": 100043,
+              "categoryName": "Lights",
+              "level": 2,
+              "children": {
+                "Feu diurne": {
+                  "categoryId": null,
+                  "categoryName": "Feu diurne",
+                  "level": 4,
+                  "children": {
+                    "Relais, feu de circulation diurne": {
+                      "categoryId": 100870,
+                      "categoryName": "Daytime Running Light",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8983
+                    }
+                  }
+                }
+              },
+              "productId": 8983
+            },
+            "Support, feu de jour": {
+              "categoryId": 100043,
+              "categoryName": "Lights",
+              "level": 2,
+              "children": {
+                "Feu diurne": {
+                  "categoryId": null,
+                  "categoryName": "Feu diurne",
+                  "level": 4,
+                  "children": {
+                    "Support, feu de jour": {
+                      "categoryId": 100870,
+                      "categoryName": "Daytime Running Light",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60945
+                    }
+                  }
+                }
+              },
+              "productId": 60945
+            }
+          }
+        },
+        "Relais": {
+          "categoryId": null,
+          "categoryName": "Relais",
+          "level": 2,
+          "children": {
+            "Relais, feu de circulation diurne": {
+              "categoryId": 100785,
+              "categoryName": "Relay",
+              "level": 2,
+              "children": [],
+              "productId": 8983
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    ├── Feux (Niveau 2)\n    │   ├── Lights [ID: 100043] (Niveau 2) → ProductId: 3853\n    │   │   └── Feu diurne (Niveau 4)\n    │   │       └── Daytime Running Light [ID: 100870] (Niveau 3) → ProductId: 3853\n    │   ├── Lights [ID: 100043] (Niveau 2) → ProductId: 60367\n    │   │   └── Feu diurne (Niveau 4)\n    │   │       └── Daytime Running Light [ID: 100870] (Niveau 3) → ProductId: 60367\n    │   ├── Lights [ID: 100043] (Niveau 2) → ProductId: 2466\n    │   │   └── Feu diurne (Niveau 4)\n    │   │       └── Daytime Running Light [ID: 100870] (Niveau 3) → ProductId: 2466\n    │   ├── Lights [ID: 100043] (Niveau 2) → ProductId: 3121\n    │   │   └── Feu diurne (Niveau 4)\n    │   │       └── Daytime Running Light [ID: 100870] (Niveau 3) → ProductId: 3121\n    │   ├── Lights [ID: 100043] (Niveau 2) → ProductId: 3232\n    │   │   └── Feu diurne (Niveau 4)\n    │   │       └── Daytime Running Light [ID: 100870] (Niveau 3) → ProductId: 3232\n    │   ├── Lights [ID: 100043] (Niveau 2) → ProductId: 8122\n    │   │   └── Feu diurne (Niveau 4)\n    │   │       └── Daytime Running Light [ID: 100870] (Niveau 3) → ProductId: 8122\n    │   ├── Lights [ID: 100043] (Niveau 2) → ProductId: 8983\n    │   │   └── Feu diurne (Niveau 4)\n    │   │       └── Daytime Running Light [ID: 100870] (Niveau 3) → ProductId: 8983\n    │   └── Lights [ID: 100043] (Niveau 2) → ProductId: 60945\n    │       └── Feu diurne (Niveau 4)\n    │           └── Daytime Running Light [ID: 100870] (Niveau 3) → ProductId: 60945\n    └── Relais (Niveau 2)\n        └── Relay [ID: 100785] (Niveau 2) → ProductId: 8983",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Lights"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100043
+      ],
+      "finalCategoryId": 100043,
+      "productId": 3853
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Lights"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100043
+      ],
+      "finalCategoryId": 100043,
+      "productId": 60367
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Lights"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100043
+      ],
+      "finalCategoryId": 100043,
+      "productId": 2466
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Lights"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100043
+      ],
+      "finalCategoryId": 100043,
+      "productId": 3121
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Lights"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100043
+      ],
+      "finalCategoryId": 100043,
+      "productId": 3232
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Lights"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100043
+      ],
+      "finalCategoryId": 100043,
+      "productId": 8122
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Lights"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100043
+      ],
+      "finalCategoryId": 100043,
+      "productId": 8983
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Lights"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100043
+      ],
+      "finalCategoryId": 100043,
+      "productId": 60945
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Relais",
+        "Relay"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100785
+      ],
+      "finalCategoryId": 100785,
+      "productId": 8983
+    }
+  ],
+  "productIdsInArbo": [
+    2466,
+    3121,
+    3232,
+    3853,
+    8122,
+    8983,
+    60367,
+    60945
+  ],
+  "matchedProductIds": [
+    2466
+  ]
+}

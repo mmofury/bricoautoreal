@@ -1,0 +1,120 @@
+{
+  "productName": "Tirette de volets de chauffage",
+  "searchText": "Tirette de volets de chauffage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:26:13.265Z",
+  "productId": 1239,
+  "arborescence": {
+    "Chauffage / Ventilation": {
+      "categoryId": 100241,
+      "categoryName": "Chauffage / Ventilation",
+      "level": 1,
+      "children": {
+        "Caisse de volets de chauffage": {
+          "categoryId": null,
+          "categoryName": "Caisse de volets de chauffage",
+          "level": 2,
+          "children": {
+            "Joint-soufflet, tirette de volets de chauffage": {
+              "categoryId": 100348,
+              "categoryName": "Heater Flap Box",
+              "level": 2,
+              "children": [],
+              "productId": 5975
+            },
+            "Kit de montage, tirette de volets de chauffage": {
+              "categoryId": 100348,
+              "categoryName": "Heater Flap Box",
+              "level": 2,
+              "children": [],
+              "productId": 5974
+            },
+            "Piéce intermédiaire, tirette de volets de chauffage-levier": {
+              "categoryId": 100348,
+              "categoryName": "Heater Flap Box",
+              "level": 2,
+              "children": [],
+              "productId": 5976
+            },
+            "Tirette de volets de chauffage": {
+              "categoryId": 100348,
+              "categoryName": "Heater Flap Box",
+              "level": 2,
+              "children": [],
+              "productId": 1239
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Chauffage / Ventilation [ID: 100241] (Niveau 1)\n    └── Caisse de volets de chauffage (Niveau 2)\n        ├── Heater Flap Box [ID: 100348] (Niveau 2) → ProductId: 5975\n        ├── Heater Flap Box [ID: 100348] (Niveau 2) → ProductId: 5974\n        ├── Heater Flap Box [ID: 100348] (Niveau 2) → ProductId: 5976\n        └── Heater Flap Box [ID: 100348] (Niveau 2) → ProductId: 1239",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Chauffage / Ventilation",
+        "Caisse de volets de chauffage",
+        "Heater Flap Box"
+      ],
+      "categoryIds": [
+        100241,
+        null,
+        100348
+      ],
+      "finalCategoryId": 100348,
+      "productId": 5975
+    },
+    {
+      "path": [
+        "Chauffage / Ventilation",
+        "Caisse de volets de chauffage",
+        "Heater Flap Box"
+      ],
+      "categoryIds": [
+        100241,
+        null,
+        100348
+      ],
+      "finalCategoryId": 100348,
+      "productId": 5974
+    },
+    {
+      "path": [
+        "Chauffage / Ventilation",
+        "Caisse de volets de chauffage",
+        "Heater Flap Box"
+      ],
+      "categoryIds": [
+        100241,
+        null,
+        100348
+      ],
+      "finalCategoryId": 100348,
+      "productId": 5976
+    },
+    {
+      "path": [
+        "Chauffage / Ventilation",
+        "Caisse de volets de chauffage",
+        "Heater Flap Box"
+      ],
+      "categoryIds": [
+        100241,
+        null,
+        100348
+      ],
+      "finalCategoryId": 100348,
+      "productId": 1239
+    }
+  ],
+  "productIdsInArbo": [
+    1239,
+    5974,
+    5975,
+    5976
+  ],
+  "matchedProductIds": [
+    1239
+  ]
+}

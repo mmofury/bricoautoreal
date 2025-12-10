@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.552Z",
+  "manufacturer": "ZAMYAD",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 4740,
+      "manufacturerName": "ZAMYAD",
+      "groupKey": "PADRA",
+      "displayName": "PADRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38415,
+          "modelName": "PADRA",
+          "modelYearFrom": "2016-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4740,
+      "manufacturerName": "ZAMYAD",
+      "groupKey": "SHOOKA",
+      "displayName": "SHOOKA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38416,
+          "modelName": "SHOOKA",
+          "modelYearFrom": "2016-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4740,
+      "manufacturerName": "ZAMYAD",
+      "groupKey": "Z",
+      "displayName": "Z",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38179,
+          "modelName": "Z",
+          "modelYearFrom": "2003-01-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

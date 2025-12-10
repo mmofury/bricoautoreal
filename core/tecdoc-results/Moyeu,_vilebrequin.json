@@ -1,0 +1,84 @@
+{
+  "productName": "Moyeu, vilebrequin",
+  "searchText": "Moyeu, vilebrequin",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:16:12.249Z",
+  "productId": 1742,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Système bielle-manivelle": {
+          "categoryId": null,
+          "categoryName": "Système bielle-manivelle",
+          "level": 2,
+          "children": {
+            "Moyeu, vilebrequin": {
+              "categoryId": 100515,
+              "categoryName": "Crankshaft Drive",
+              "level": 2,
+              "children": {
+                "Vilebrequin": {
+                  "categoryId": null,
+                  "categoryName": "Vilebrequin",
+                  "level": 4,
+                  "children": {
+                    "Moyeu, vilebrequin": {
+                      "categoryId": 100517,
+                      "categoryName": "Crankshaft",
+                      "level": 3,
+                      "children": {
+                        "Moyeu": {
+                          "categoryId": null,
+                          "categoryName": "Moyeu",
+                          "level": 6,
+                          "children": {
+                            "Moyeu, vilebrequin": {
+                              "categoryId": 100786,
+                              "categoryName": "Crankshaft Gear",
+                              "level": 4,
+                              "children": [],
+                              "productId": 1742
+                            }
+                          }
+                        }
+                      },
+                      "productId": 1742
+                    }
+                  }
+                }
+              },
+              "productId": 1742
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Système bielle-manivelle (Niveau 2)\n        └── Crankshaft Drive [ID: 100515] (Niveau 2) → ProductId: 1742\n            └── Vilebrequin (Niveau 4)\n                └── Crankshaft [ID: 100517] (Niveau 3) → ProductId: 1742\n                    └── Moyeu (Niveau 6)\n                        └── Crankshaft Gear [ID: 100786] (Niveau 4) → ProductId: 1742",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Crankshaft Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100515
+      ],
+      "finalCategoryId": 100515,
+      "productId": 1742
+    }
+  ],
+  "productIdsInArbo": [
+    1742
+  ],
+  "matchedProductIds": [
+    1742
+  ]
+}

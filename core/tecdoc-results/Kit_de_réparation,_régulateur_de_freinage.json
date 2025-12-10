@@ -1,0 +1,54 @@
+{
+  "productName": "Kit de réparation, régulateur de freinage",
+  "searchText": "Kit de réparation, régulateur de freinage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:06:22.250Z",
+  "productId": 782,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Régulateur de freinage": {
+          "categoryId": null,
+          "categoryName": "Régulateur de freinage",
+          "level": 2,
+          "children": {
+            "Kit de réparation, régulateur de freinage": {
+              "categoryId": 100037,
+              "categoryName": "Brake Force Regulator",
+              "level": 2,
+              "children": [],
+              "productId": 782
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif de freinage [ID: 100006] (Niveau 1)\n    └── Régulateur de freinage (Niveau 2)\n        └── Brake Force Regulator [ID: 100037] (Niveau 2) → ProductId: 782",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Régulateur de freinage",
+        "Brake Force Regulator"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100037
+      ],
+      "finalCategoryId": 100037,
+      "productId": 782
+    }
+  ],
+  "productIdsInArbo": [
+    782
+  ],
+  "matchedProductIds": [
+    782
+  ]
+}

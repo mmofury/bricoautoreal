@@ -1,0 +1,84 @@
+{
+  "productName": "Joint, intercooler",
+  "searchText": "Joint, intercooler",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:55:59.682Z",
+  "productId": 5010,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Alimentation en air": {
+          "categoryId": null,
+          "categoryName": "Alimentation en air",
+          "level": 2,
+          "children": {
+            "Joint, intercooler": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Suralimentation": {
+                  "categoryId": null,
+                  "categoryName": "Suralimentation",
+                  "level": 4,
+                  "children": {
+                    "Joint, intercooler": {
+                      "categoryId": 100390,
+                      "categoryName": "Charging (supercharged/turbocharged)",
+                      "level": 3,
+                      "children": {
+                        "Intercooler; échangeur": {
+                          "categoryId": null,
+                          "categoryName": "Intercooler; échangeur",
+                          "level": 6,
+                          "children": {
+                            "Joint, intercooler": {
+                              "categoryId": 100393,
+                              "categoryName": "Charge Air Cooler",
+                              "level": 4,
+                              "children": [],
+                              "productId": 5010
+                            }
+                          }
+                        }
+                      },
+                      "productId": 5010
+                    }
+                  }
+                }
+              },
+              "productId": 5010
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Alimentation en air (Niveau 2)\n        └── Air Supply [ID: 100383] (Niveau 2) → ProductId: 5010\n            └── Suralimentation (Niveau 4)\n                └── Charging (supercharged/turbocharged) [ID: 100390] (Niveau 3) → ProductId: 5010\n                    └── Intercooler; échangeur (Niveau 6)\n                        └── Charge Air Cooler [ID: 100393] (Niveau 4) → ProductId: 5010",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 5010
+    }
+  ],
+  "productIdsInArbo": [
+    5010
+  ],
+  "matchedProductIds": [
+    5010
+  ]
+}

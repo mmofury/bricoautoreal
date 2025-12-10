@@ -1,0 +1,36 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "CF7FB0",
+      "index": "VAL84161",
+      "tecDoc": "084161",
+      "tecDocProd": "21",
+      "articleNumber": "084161",
+      "brand": "VALEO",
+      "shortDescription": "Emergency lighting (rotating light)",
+      "description": "Beacon light electric motor, 12/24V",
+      "packageWeight": "0,800",
+      "customsCode": "85129090",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1169",
+          "primary": false,
+          "name": {
+            "en": "Electric Motor, rotating beacon"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_92176",
+          "primary": true,
+          "name": {
+            "en": "Emergency lighting (rotating light)"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "productName": "Capteur NOx, Injection d'urée",
+  "searchText": "Capteur NOx, Injection d'urée",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:14:38.794Z",
+  "productId": 4319,
+  "arborescence": {
+    "Échappement": {
+      "categoryId": 100004,
+      "categoryName": "Échappement",
+      "level": 1,
+      "children": {
+        "Injection d'urée": {
+          "categoryId": null,
+          "categoryName": "Injection d'urée",
+          "level": 2,
+          "children": {
+            "Capteur NOx, Injection d'urée": {
+              "categoryId": 103019,
+              "categoryName": "Urea Injection",
+              "level": 2,
+              "children": {
+                "Capteur": {
+                  "categoryId": null,
+                  "categoryName": "Capteur",
+                  "level": 4,
+                  "children": {
+                    "Capteur NOx, Injection d'urée": {
+                      "categoryId": 103062,
+                      "categoryName": "Sensor",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4319
+                    }
+                  }
+                }
+              },
+              "productId": 4319
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Échappement [ID: 100004] (Niveau 1)\n    └── Injection d'urée (Niveau 2)\n        └── Urea Injection [ID: 103019] (Niveau 2) → ProductId: 4319\n            └── Capteur (Niveau 4)\n                └── Sensor [ID: 103062] (Niveau 3) → ProductId: 4319",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Échappement",
+        "Injection d'urée",
+        "Urea Injection"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        103019
+      ],
+      "finalCategoryId": 103019,
+      "productId": 4319
+    }
+  ],
+  "productIdsInArbo": [
+    4319
+  ],
+  "matchedProductIds": [
+    4319
+  ]
+}

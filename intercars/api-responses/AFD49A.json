@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "AFD49A",
+      "index": "FE04916",
+      "tecDoc": "04916",
+      "tecDocProd": "101",
+      "articleNumber": "04916",
+      "brand": "FEBI",
+      "shortDescription": "Wheel bolt",
+      "description": "Wheel bolt fits: SCANIA 2, 3, 4 05.80-04.08",
+      "packageWeight": "0,176",
+      "packageWidth": "3,000",
+      "packageDepth": "7,000",
+      "packageHeight": "3,000",
+      "customsCode": "73181595",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1723",
+          "primary": false,
+          "name": {
+            "en": "Terminal board, Trilex®"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_2070",
+          "primary": true,
+          "name": {
+            "en": "Wheel bolt"
+          }
+        }
+      ]
+    }
+  ]
+}

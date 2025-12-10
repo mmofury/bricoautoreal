@@ -1,0 +1,133 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.441Z",
+  "manufacturer": "ORA",
+  "countGroups": 8,
+  "groups": [
+    {
+      "manufacturerId": 5123,
+      "manufacturerName": "ORA",
+      "groupKey": "07",
+      "displayName": "07",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45343,
+          "modelName": "07",
+          "modelYearFrom": "2024-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5123,
+      "manufacturerName": "ORA",
+      "groupKey": "EC24",
+      "displayName": "EC24",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43698,
+          "modelName": "EC24",
+          "modelYearFrom": "2022-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5123,
+      "manufacturerName": "ORA",
+      "groupKey": "ES11",
+      "displayName": "ES11",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42372,
+          "modelName": "ES11 GT",
+          "modelYearFrom": "2021-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5123,
+      "manufacturerName": "ORA",
+      "groupKey": "ES13",
+      "displayName": "ES13",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43072,
+          "modelName": "ES13",
+          "modelYearFrom": "2022-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5123,
+      "manufacturerName": "ORA",
+      "groupKey": "FUNKY",
+      "displayName": "FUNKY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41570,
+          "modelName": "FUNKY CAT",
+          "modelYearFrom": "2020-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5123,
+      "manufacturerName": "ORA",
+      "groupKey": "IQ",
+      "displayName": "IQ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38951,
+          "modelName": "iQ",
+          "modelYearFrom": "2018-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5123,
+      "manufacturerName": "ORA",
+      "groupKey": "R1",
+      "displayName": "R1",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39249,
+          "modelName": "R1",
+          "modelYearFrom": "2018-12-01",
+          "modelYearTo": "2020-07-01"
+        },
+        {
+          "modelId": 40975,
+          "modelName": "R1",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5123,
+      "manufacturerName": "ORA",
+      "groupKey": "R2",
+      "displayName": "R2",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40963,
+          "modelName": "R2",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

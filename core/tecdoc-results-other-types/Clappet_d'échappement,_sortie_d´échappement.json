@@ -1,0 +1,49 @@
+{
+  "productName": "Clappet d'échappement, sortie d´échappement",
+  "productId": 4078,
+  "searchText": "Clappet d'échappement, sortie d´échappement",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Échappement": {
+          "categoryId": 200051,
+          "categoryName": "Échappement",
+          "level": 1,
+          "children": {
+            "Tuyaux d'échappement": {
+              "categoryId": null,
+              "categoryName": "Tuyaux d'échappement",
+              "level": 2,
+              "children": {
+                "Clappet d'échappement, sortie d´échappement": {
+                  "categoryId": 200082,
+                  "categoryName": "Exhaust Pipes",
+                  "level": 2,
+                  "children": [],
+                  "productId": 4078
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Échappement [ID: 200051] (Niveau 1)\n    └── Tuyaux d'échappement (Niveau 2)\n        └── Exhaust Pipes [ID: 200082] (Niveau 2) → ProductId: 4078",
+      "productIdsInArbo": [
+        4078
+      ],
+      "matchedProductIds": [
+        4078
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:05:11.142Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "productName": "Appareil de commande, réglage de siège",
+  "searchText": "Appareil de commande, réglage de siège",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T18:55:28.552Z",
+  "productId": 1386,
+  "arborescence": {
+    "Équipement intérieur": {
+      "categoryId": 100341,
+      "categoryName": "Équipement intérieur",
+      "level": 1,
+      "children": {
+        "Sièges": {
+          "categoryId": null,
+          "categoryName": "Sièges",
+          "level": 2,
+          "children": {
+            "Appareil de commande, réglage de siège": {
+              "categoryId": 100673,
+              "categoryName": "Seats",
+              "level": 2,
+              "children": [],
+              "productId": 1386
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Appareils de commande": {
+          "categoryId": null,
+          "categoryName": "Appareils de commande",
+          "level": 2,
+          "children": {
+            "Appareil de commande, réglage de siège": {
+              "categoryId": 100727,
+              "categoryName": "Control Units",
+              "level": 2,
+              "children": [],
+              "productId": 1386
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Équipement intérieur [ID: 100341] (Niveau 1)\n│   └── Sièges (Niveau 2)\n│       └── Seats [ID: 100673] (Niveau 2) → ProductId: 1386\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Appareils de commande (Niveau 2)\n        └── Control Units [ID: 100727] (Niveau 2) → ProductId: 1386",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Équipement intérieur",
+        "Sièges",
+        "Seats"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        100673
+      ],
+      "finalCategoryId": 100673,
+      "productId": 1386
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Appareils de commande",
+        "Control Units"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100727
+      ],
+      "finalCategoryId": 100727,
+      "productId": 1386
+    }
+  ],
+  "productIdsInArbo": [
+    1386
+  ],
+  "matchedProductIds": [
+    1386
+  ]
+}

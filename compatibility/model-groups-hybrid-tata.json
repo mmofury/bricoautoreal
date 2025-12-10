@@ -1,0 +1,565 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.505Z",
+  "manufacturer": "TATA",
+  "countGroups": 30,
+  "groups": [
+    {
+      "manufacturerId": 178,
+      "manufacturerName": "TATA",
+      "groupKey": "207",
+      "displayName": "207",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9699,
+          "modelName": "207 Pick-up",
+          "modelYearFrom": "1996-06-01",
+          "modelYearTo": "2007-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 178,
+      "manufacturerName": "TATA",
+      "groupKey": "407",
+      "displayName": "407",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10517,
+          "modelName": "407 Camion plate-forme/Châssis",
+          "modelYearFrom": "1999-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 178,
+      "manufacturerName": "TATA",
+      "groupKey": "ACE",
+      "displayName": "ACE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9700,
+          "modelName": "ACE",
+          "modelYearFrom": "2005-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 9701,
+          "modelName": "ACE Zip",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40491,
+          "modelName": "ACE GOLD II",
+          "modelYearFrom": "2018-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 178,
+      "manufacturerName": "TATA",
+      "groupKey": "ALTROZ",
+      "displayName": "ALTROZ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40260,
+          "modelName": "ALTROZ",
+          "modelYearFrom": "2019-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 178,
+      "manufacturerName": "TATA",
+      "groupKey": "ARIA",
+      "displayName": "ARIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9547,
+          "modelName": "ARIA",
+          "modelYearFrom": "2010-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 178,
+      "manufacturerName": "TATA",
+      "groupKey": "B",
+      "displayName": "B",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43781,
+          "modelName": "B-Line",
+          "modelYearFrom": "2006-01-01",
+          "modelYearTo": "2016-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 178,
+      "manufacturerName": "TATA",
+      "groupKey": "BOLT",
+      "displayName": "BOLT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13852,
+          "modelName": "BOLT Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2015-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 178,
+      "manufacturerName": "TATA",
+      "groupKey": "ESTATE",
+      "displayName": "ESTATE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8972,
+          "modelName": "ESTATE",
+          "modelYearFrom": "1992-01-01",
+          "modelYearTo": "2000-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 178,
+      "manufacturerName": "TATA",
+      "groupKey": "HARRIER",
+      "displayName": "HARRIER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39215,
+          "modelName": "HARRIER",
+          "modelYearFrom": "2018-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 178,
+      "manufacturerName": "TATA",
+      "groupKey": "HEXA",
+      "displayName": "HEXA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38176,
+          "modelName": "HEXA",
+          "modelYearFrom": "2017-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 178,
+      "manufacturerName": "TATA",
+      "groupKey": "INDICA",
+      "displayName": "INDICA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4653,
+          "modelName": "INDICA",
+          "modelYearFrom": "1998-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 8748,
+          "modelName": "INDICA VISTA",
+          "modelYearFrom": "2008-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40493,
+          "modelName": "INDICA EV2",
+          "modelYearFrom": "2011-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40608,
+          "modelName": "INDICA V2",
+          "modelYearFrom": "2001-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 178,
+      "manufacturerName": "TATA",
+      "groupKey": "INDIGO",
+      "displayName": "INDIGO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5222,
+          "modelName": "INDIGO (4_V2)",
+          "modelYearFrom": "2003-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 5223,
+          "modelName": "INDIGO MARINA (4_V2)",
+          "modelYearFrom": "2003-01-01",
+          "modelYearTo": "2012-02-01"
+        },
+        {
+          "modelId": 8749,
+          "modelName": "INDIGO MANZA",
+          "modelYearFrom": "2009-08-01",
+          "modelYearTo": "2014-12-01"
+        },
+        {
+          "modelId": 40404,
+          "modelName": "INDIGO CS (4_V2)",
+          "modelYearFrom": "2008-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40464,
+          "modelName": "INDIGO ECS",
+          "modelYearFrom": "2010-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40606,
+          "modelName": "INDIGO XL",
+          "modelYearFrom": "2003-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 178,
+      "manufacturerName": "TATA",
+      "groupKey": "INTRA",
+      "displayName": "INTRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39575,
+          "modelName": "INTRA",
+          "modelYearFrom": "2019-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 178,
+      "manufacturerName": "TATA",
+      "groupKey": "LOADBETA",
+      "displayName": "LOADBETA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5388,
+          "modelName": "LOADBETA",
+          "modelYearFrom": "1994-08-01",
+          "modelYearTo": "2006-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 178,
+      "manufacturerName": "TATA",
+      "groupKey": "MAGIC",
+      "displayName": "MAGIC",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10496,
+          "modelName": "MAGIC",
+          "modelYearFrom": "2007-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10497,
+          "modelName": "MAGIC IRIS",
+          "modelYearFrom": "2007-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 178,
+      "manufacturerName": "TATA",
+      "groupKey": "MOVUS",
+      "displayName": "MOVUS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13851,
+          "modelName": "MOVUS",
+          "modelYearFrom": "2014-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 178,
+      "manufacturerName": "TATA",
+      "groupKey": "NANO",
+      "displayName": "NANO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8752,
+          "modelName": "NANO",
+          "modelYearFrom": "2008-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 178,
+      "manufacturerName": "TATA",
+      "groupKey": "NEXON",
+      "displayName": "NEXON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38238,
+          "modelName": "NEXON",
+          "modelYearFrom": "2017-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 178,
+      "manufacturerName": "TATA",
+      "groupKey": "PUNCH",
+      "displayName": "PUNCH",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42516,
+          "modelName": "PUNCH (HBX)",
+          "modelYearFrom": "2021-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 178,
+      "manufacturerName": "TATA",
+      "groupKey": "SAFARI",
+      "displayName": "SAFARI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4654,
+          "modelName": "SAFARI (42_FD)",
+          "modelYearFrom": "1998-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38304,
+          "modelName": "SAFARI STORME (X2)",
+          "modelYearFrom": "2012-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41809,
+          "modelName": "SAFARI",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 178,
+      "manufacturerName": "TATA",
+      "groupKey": "SIERRA",
+      "displayName": "SIERRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4656,
+          "modelName": "SIERRA",
+          "modelYearFrom": "1991-08-01",
+          "modelYearTo": "2002-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 178,
+      "manufacturerName": "TATA",
+      "groupKey": "SUMO",
+      "displayName": "SUMO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8755,
+          "modelName": "SUMO",
+          "modelYearFrom": "1994-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 8756,
+          "modelName": "SUMO VICTA",
+          "modelYearFrom": "2004-01-01",
+          "modelYearTo": "2011-12-01"
+        },
+        {
+          "modelId": 8757,
+          "modelName": "SUMO GRANDE",
+          "modelYearFrom": "2008-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39544,
+          "modelName": "SUMO GOLD",
+          "modelYearFrom": "2011-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40465,
+          "modelName": "SUMO SPACIO",
+          "modelYearFrom": "2000-01-01",
+          "modelYearTo": "2012-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 178,
+      "manufacturerName": "TATA",
+      "groupKey": "SUPER",
+      "displayName": "SUPER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40301,
+          "modelName": "SUPER ACE",
+          "modelYearFrom": "2005-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 178,
+      "manufacturerName": "TATA",
+      "groupKey": "TELCOLINE",
+      "displayName": "TELCOLINE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4655,
+          "modelName": "TELCOLINE (40_FD)",
+          "modelYearFrom": "1999-02-01",
+          "modelYearTo": "2011-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 178,
+      "manufacturerName": "TATA",
+      "groupKey": "TIAGO",
+      "displayName": "TIAGO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36469,
+          "modelName": "TIAGO",
+          "modelYearFrom": "2016-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 178,
+      "manufacturerName": "TATA",
+      "groupKey": "TIGOR",
+      "displayName": "TIGOR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38137,
+          "modelName": "TIGOR",
+          "modelYearFrom": "2017-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 178,
+      "manufacturerName": "TATA",
+      "groupKey": "VENTURE",
+      "displayName": "VENTURE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14454,
+          "modelName": "VENTURE",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 178,
+      "manufacturerName": "TATA",
+      "groupKey": "WINGER",
+      "displayName": "WINGER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10498,
+          "modelName": "WINGER",
+          "modelYearFrom": "2007-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 178,
+      "manufacturerName": "TATA",
+      "groupKey": "XENON",
+      "displayName": "XENON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8758,
+          "modelName": "XENON Pick-up",
+          "modelYearFrom": "2006-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10851,
+          "modelName": "XENON Camion plate-forme/Châssis",
+          "modelYearFrom": "2006-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 178,
+      "manufacturerName": "TATA",
+      "groupKey": "ZEST",
+      "displayName": "ZEST",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13850,
+          "modelName": "ZEST A trois volumes",
+          "modelYearFrom": "2014-08-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

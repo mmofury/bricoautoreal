@@ -1,0 +1,43 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "F6FD6E",
+      "index": "03.9302-9251.3",
+      "tecDoc": "03.9302-9251.3",
+      "tecDocProd": "3",
+      "articleNumber": "03.9302-9251.3",
+      "brand": "ATE",
+      "shortDescription": "Devices for working fluids and fuels",
+      "description": "Pump, application: brake fluid ATE",
+      "gtuCode": "GTU_07",
+      "eans": [
+        "4006633389877"
+      ],
+      "packageWeight": "1,415",
+      "packageWidth": "15,600",
+      "packageDepth": "12,700",
+      "packageHeight": "29,500",
+      "customsCode": "87083099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_91773",
+          "primary": true,
+          "name": {
+            "en": "Devices for working fluids and fuels"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_4656",
+          "primary": false,
+          "name": {
+            "en": "Fill-/Extraction Pump, universal"
+          }
+        }
+      ]
+    }
+  ]
+}

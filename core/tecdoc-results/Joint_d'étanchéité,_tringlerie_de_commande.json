@@ -1,0 +1,83 @@
+{
+  "productName": "Joint d'étanchéité, tringlerie de commande",
+  "searchText": "Joint d'étanchéité, tringlerie de commande",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:53:42.841Z",
+  "productId": 1801,
+  "arborescence": {
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Boîte de vitesses manuelle": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesses manuelle",
+          "level": 2,
+          "children": {
+            "Joint d'étanchéité, tringlerie de commande": {
+              "categoryId": 100239,
+              "categoryName": "Manual Transmission",
+              "level": 2,
+              "children": {
+                "Commande de boîte de vitesses": {
+                  "categoryId": null,
+                  "categoryName": "Commande de boîte de vitesses",
+                  "level": 4,
+                  "children": {
+                    "Joint d'étanchéité, tringlerie de commande": {
+                      "categoryId": 101808,
+                      "categoryName": "Transmission Control",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1801
+                    }
+                  }
+                },
+                "Joints": {
+                  "categoryId": null,
+                  "categoryName": "Joints",
+                  "level": 4,
+                  "children": {
+                    "Joint d'étanchéité, tringlerie de commande": {
+                      "categoryId": 100769,
+                      "categoryName": "Gaskets/Seals",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1801
+                    }
+                  }
+                }
+              },
+              "productId": 1801
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Boîte de vitesses [ID: 100238] (Niveau 1)\n    └── Boîte de vitesses manuelle (Niveau 2)\n        └── Manual Transmission [ID: 100239] (Niveau 2) → ProductId: 1801\n            ├── Commande de boîte de vitesses (Niveau 4)\n            │   └── Transmission Control [ID: 101808] (Niveau 3) → ProductId: 1801\n            └── Joints (Niveau 4)\n                └── Gaskets/Seals [ID: 100769] (Niveau 3) → ProductId: 1801",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesses manuelle",
+        "Manual Transmission"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        100239
+      ],
+      "finalCategoryId": 100239,
+      "productId": 1801
+    }
+  ],
+  "productIdsInArbo": [
+    1801
+  ],
+  "matchedProductIds": [
+    1801
+  ]
+}

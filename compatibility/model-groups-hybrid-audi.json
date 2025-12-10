@@ -1,0 +1,1075 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.166Z",
+  "manufacturer": "AUDI",
+  "countGroups": 32,
+  "groups": [
+    {
+      "manufacturerId": 5,
+      "manufacturerName": "AUDI",
+      "groupKey": "100",
+      "displayName": "100",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10,
+          "modelName": "100 C2 A trois volumes (431, 433, 434)",
+          "modelYearFrom": "1976-06-01",
+          "modelYearTo": "1984-08-01"
+        },
+        {
+          "modelId": 13,
+          "modelName": "100 C3 A trois volumes (443, 444)",
+          "modelYearFrom": "1982-08-01",
+          "modelYearTo": "1991-07-01"
+        },
+        {
+          "modelId": 19,
+          "modelName": "100 C4 A trois volumes (4A2)",
+          "modelYearFrom": "1990-12-01",
+          "modelYearTo": "1996-04-01"
+        },
+        {
+          "modelId": 25,
+          "modelName": "100 C2 Avant (435, 436)",
+          "modelYearFrom": "1977-07-01",
+          "modelYearTo": "1983-02-01"
+        },
+        {
+          "modelId": 30,
+          "modelName": "100 C3 Avant (445, 446)",
+          "modelYearFrom": "1982-08-01",
+          "modelYearTo": "1990-11-01"
+        },
+        {
+          "modelId": 36,
+          "modelName": "100 C4 Avant (4A5)",
+          "modelYearFrom": "1990-12-01",
+          "modelYearTo": "1994-11-01"
+        },
+        {
+          "modelId": 48,
+          "modelName": "100 C1 Coupé (817)",
+          "modelYearFrom": "1970-01-01",
+          "modelYearTo": "1976-12-01"
+        },
+        {
+          "modelId": 53,
+          "modelName": "100 C1 A trois volumes (801, 803, 805, 807, 811, 813, F104)",
+          "modelYearFrom": "1968-11-01",
+          "modelYearTo": "1976-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5,
+      "manufacturerName": "AUDI",
+      "groupKey": "200",
+      "displayName": "200",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 172,
+          "modelName": "200 C2 A trois volumes (437, 438)",
+          "modelYearFrom": "1979-10-01",
+          "modelYearTo": "1982-09-01"
+        },
+        {
+          "modelId": 176,
+          "modelName": "200 C3 A trois volumes (447, 448)",
+          "modelYearFrom": "1983-06-01",
+          "modelYearTo": "1991-12-01"
+        },
+        {
+          "modelId": 1940,
+          "modelName": "200 C3 Avant (447, 448)",
+          "modelYearFrom": "1983-09-01",
+          "modelYearTo": "1991-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5,
+      "manufacturerName": "AUDI",
+      "groupKey": "50",
+      "displayName": "50",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 433,
+          "modelName": "50 (863)",
+          "modelYearFrom": "1974-08-01",
+          "modelYearTo": "1978-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5,
+      "manufacturerName": "AUDI",
+      "groupKey": "60",
+      "displayName": "60",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1500,
+          "modelName": "60 (613, 615)",
+          "modelYearFrom": "1968-09-01",
+          "modelYearTo": "1972-08-01"
+        },
+        {
+          "modelId": 1501,
+          "modelName": "60 Variant (613, 615)",
+          "modelYearFrom": "1968-09-01",
+          "modelYearTo": "1972-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5,
+      "manufacturerName": "AUDI",
+      "groupKey": "75",
+      "displayName": "75",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1502,
+          "modelName": "75 (613, 615)",
+          "modelYearFrom": "1968-09-01",
+          "modelYearTo": "1972-08-01"
+        },
+        {
+          "modelId": 4553,
+          "modelName": "75 Variant (615)",
+          "modelYearFrom": "1968-09-01",
+          "modelYearTo": "1972-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5,
+      "manufacturerName": "AUDI",
+      "groupKey": "80",
+      "displayName": "80",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1,
+          "modelName": "80 B4 A trois volumes (8C2)",
+          "modelYearFrom": "1991-09-01",
+          "modelYearTo": "1995-07-01"
+        },
+        {
+          "modelId": 6,
+          "modelName": "80 B4 Avant (8C5)",
+          "modelYearFrom": "1991-09-01",
+          "modelYearTo": "1996-01-01"
+        },
+        {
+          "modelId": 14,
+          "modelName": "80 B1 A trois volumes (80, 82)",
+          "modelYearFrom": "1972-05-01",
+          "modelYearTo": "1978-07-01"
+        },
+        {
+          "modelId": 26,
+          "modelName": "80 B2 A trois volumes (811, 813, 814, 819, 853)",
+          "modelYearFrom": "1978-08-01",
+          "modelYearTo": "1987-03-01"
+        },
+        {
+          "modelId": 31,
+          "modelName": "80 B3 A trois volumes (893, 894, 8A2)",
+          "modelYearFrom": "1986-06-01",
+          "modelYearTo": "1991-10-01"
+        },
+        {
+          "modelId": 8554,
+          "modelName": "80 (613)",
+          "modelYearFrom": "1966-09-01",
+          "modelYearTo": "1968-08-01"
+        },
+        {
+          "modelId": 8555,
+          "modelName": "80 Variant",
+          "modelYearFrom": "1966-09-01",
+          "modelYearTo": "1968-08-01"
+        },
+        {
+          "modelId": 37935,
+          "modelName": "80 B1 Avant (331)",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1978-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5,
+      "manufacturerName": "AUDI",
+      "groupKey": "90",
+      "displayName": "90",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 78,
+          "modelName": "90 B2 (813, 814, 853)",
+          "modelYearFrom": "1984-08-01",
+          "modelYearTo": "1988-07-01"
+        },
+        {
+          "modelId": 84,
+          "modelName": "90 B3 (893, 894, 8A2)",
+          "modelYearFrom": "1987-04-01",
+          "modelYearTo": "1991-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5,
+      "manufacturerName": "AUDI",
+      "groupKey": "A1",
+      "displayName": "A1",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8604,
+          "modelName": "A1 (8X1, 8XK)",
+          "modelYearFrom": "2010-05-01",
+          "modelYearTo": "2019-09-01"
+        },
+        {
+          "modelId": 9730,
+          "modelName": "A1 Sportback (8XA, 8XF)",
+          "modelYearFrom": "2011-09-01",
+          "modelYearTo": "2019-09-01"
+        },
+        {
+          "modelId": 38933,
+          "modelName": "A1 Sportback (GBA)",
+          "modelYearFrom": "2018-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40147,
+          "modelName": "A1 City Carver (GBH)",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": "2022-06-01"
+        },
+        {
+          "modelId": 43038,
+          "modelName": "A1 Allstreet (GBH)",
+          "modelYearFrom": "2022-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5,
+      "manufacturerName": "AUDI",
+      "groupKey": "A2",
+      "displayName": "A2",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4382,
+          "modelName": "A2 (8Z0)",
+          "modelYearFrom": "2000-02-01",
+          "modelYearTo": "2005-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5,
+      "manufacturerName": "AUDI",
+      "groupKey": "A3",
+      "displayName": "A3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1557,
+          "modelName": "A3 (8L1)",
+          "modelYearFrom": "1996-09-01",
+          "modelYearTo": "2006-09-01"
+        },
+        {
+          "modelId": 4955,
+          "modelName": "A3 (8P1)",
+          "modelYearFrom": "2003-05-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 5143,
+          "modelName": "A3 Sportback (8PA)",
+          "modelYearFrom": "2004-09-01",
+          "modelYearTo": "2015-12-01"
+        },
+        {
+          "modelId": 6724,
+          "modelName": "A3 Décapotable (8P7)",
+          "modelYearFrom": "2008-04-01",
+          "modelYearTo": "2013-05-01"
+        },
+        {
+          "modelId": 10253,
+          "modelName": "A3 (8V1, 8VK)",
+          "modelYearFrom": "2012-04-01",
+          "modelYearTo": "2020-10-01"
+        },
+        {
+          "modelId": 10459,
+          "modelName": "A3 Sportback (8VA, 8VF)",
+          "modelYearFrom": "2012-09-01",
+          "modelYearTo": "2021-08-01"
+        },
+        {
+          "modelId": 11282,
+          "modelName": "A3 Limousine (8VS, 8VM)",
+          "modelYearFrom": "2013-05-01",
+          "modelYearTo": "2021-08-01"
+        },
+        {
+          "modelId": 11611,
+          "modelName": "A3 Décapotable (8V7, 8VE)",
+          "modelYearFrom": "2013-10-01",
+          "modelYearTo": "2021-04-01"
+        },
+        {
+          "modelId": 40531,
+          "modelName": "A3 Sportback (8YA, 8YF)",
+          "modelYearFrom": "2019-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40796,
+          "modelName": "A3 Limousine (8YS, 8YM)",
+          "modelYearFrom": "2020-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45351,
+          "modelName": "A3 Allstreet (8YJ)",
+          "modelYearFrom": "2024-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5,
+      "manufacturerName": "AUDI",
+      "groupKey": "A4",
+      "displayName": "A4",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 253,
+          "modelName": "A4 B5 (8D2)",
+          "modelYearFrom": "1994-11-01",
+          "modelYearTo": "2001-12-01"
+        },
+        {
+          "modelId": 3485,
+          "modelName": "A4 B5 Avant (8D5)",
+          "modelYearFrom": "1994-11-01",
+          "modelYearTo": "2002-12-01"
+        },
+        {
+          "modelId": 4731,
+          "modelName": "A4 B6 (8E2)",
+          "modelYearFrom": "2000-11-01",
+          "modelYearTo": "2005-12-01"
+        },
+        {
+          "modelId": 4797,
+          "modelName": "A4 B6 Avant (8E5)",
+          "modelYearFrom": "2000-02-01",
+          "modelYearTo": "2005-12-01"
+        },
+        {
+          "modelId": 4840,
+          "modelName": "A4 B6 Décapotable (8H7)",
+          "modelYearFrom": "2002-01-01",
+          "modelYearTo": "2009-12-01"
+        },
+        {
+          "modelId": 5376,
+          "modelName": "A4 B7 (8EC)",
+          "modelYearFrom": "2004-11-01",
+          "modelYearTo": "2009-01-01"
+        },
+        {
+          "modelId": 5377,
+          "modelName": "A4 B7 Avant (8ED)",
+          "modelYearFrom": "2004-11-01",
+          "modelYearTo": "2008-11-01"
+        },
+        {
+          "modelId": 6418,
+          "modelName": "A4 B8 (8K2)",
+          "modelYearFrom": "2007-08-01",
+          "modelYearTo": "2017-06-01"
+        },
+        {
+          "modelId": 6988,
+          "modelName": "A4 B8 Avant (8K5)",
+          "modelYearFrom": "2007-11-01",
+          "modelYearTo": "2017-06-01"
+        },
+        {
+          "modelId": 8031,
+          "modelName": "A4 Allroad B8 (8KH)",
+          "modelYearFrom": "2009-04-01",
+          "modelYearTo": "2017-06-01"
+        },
+        {
+          "modelId": 14695,
+          "modelName": "A4 B9 (8W2, 8WC)",
+          "modelYearFrom": "2015-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14696,
+          "modelName": "A4 B9 Avant (8W5, 8WD)",
+          "modelYearFrom": "2015-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 36378,
+          "modelName": "A4 Allroad B9 (8WH, 8WJ)",
+          "modelYearFrom": "2016-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41689,
+          "modelName": "A4 B7 Décapotable (8HE)",
+          "modelYearFrom": "2002-01-01",
+          "modelYearTo": "2010-01-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5,
+      "manufacturerName": "AUDI",
+      "groupKey": "A5",
+      "displayName": "A5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6243,
+          "modelName": "A5 (8T3)",
+          "modelYearFrom": "2007-06-01",
+          "modelYearTo": "2017-10-01"
+        },
+        {
+          "modelId": 8030,
+          "modelName": "A5 Décapotable (8F7)",
+          "modelYearFrom": "2009-02-01",
+          "modelYearTo": "2017-10-01"
+        },
+        {
+          "modelId": 8159,
+          "modelName": "A5 Sportback (8TA)",
+          "modelYearFrom": "2007-07-01",
+          "modelYearTo": "2017-10-01"
+        },
+        {
+          "modelId": 36928,
+          "modelName": "A5 (F53, F5P)",
+          "modelYearFrom": "2016-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37116,
+          "modelName": "A5 Sportback (F5A, F5F)",
+          "modelYearFrom": "2016-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37293,
+          "modelName": "A5 Décapotable (F57, F5E)",
+          "modelYearFrom": "2016-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45725,
+          "modelName": "A5 (FU2)",
+          "modelYearFrom": "2024-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45726,
+          "modelName": "A5 Avant (FU5)",
+          "modelYearFrom": "2024-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5,
+      "manufacturerName": "AUDI",
+      "groupKey": "A6",
+      "displayName": "A6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 258,
+          "modelName": "A6 C4 (4A2)",
+          "modelYearFrom": "1994-06-01",
+          "modelYearTo": "1998-01-01"
+        },
+        {
+          "modelId": 1891,
+          "modelName": "A6 C5 (4B2, 4B4)",
+          "modelYearFrom": "1997-01-01",
+          "modelYearTo": "2005-12-01"
+        },
+        {
+          "modelId": 3395,
+          "modelName": "A6 C5 Avant (4B5, 4B6)",
+          "modelYearFrom": "1997-11-01",
+          "modelYearTo": "2006-01-01"
+        },
+        {
+          "modelId": 3468,
+          "modelName": "A6 C4 Avant (4A5)",
+          "modelYearFrom": "1994-06-01",
+          "modelYearTo": "1998-01-01"
+        },
+        {
+          "modelId": 5110,
+          "modelName": "A6 C6 (4F2)",
+          "modelYearFrom": "2004-04-01",
+          "modelYearTo": "2011-08-01"
+        },
+        {
+          "modelId": 5381,
+          "modelName": "A6 C6 Avant (4F5)",
+          "modelYearFrom": "2004-11-01",
+          "modelYearTo": "2011-08-01"
+        },
+        {
+          "modelId": 5546,
+          "modelName": "A6 Allroad C6 (4FH)",
+          "modelYearFrom": "2006-03-01",
+          "modelYearTo": "2011-08-01"
+        },
+        {
+          "modelId": 9154,
+          "modelName": "A6 C7 (4G2, 4GC)",
+          "modelYearFrom": "2010-11-01",
+          "modelYearTo": "2019-11-01"
+        },
+        {
+          "modelId": 9627,
+          "modelName": "A6 C7 Avant (4G5, 4GD)",
+          "modelYearFrom": "2011-05-01",
+          "modelYearTo": "2019-11-01"
+        },
+        {
+          "modelId": 10161,
+          "modelName": "A6 Allroad C7 (4GH, 4GJ)",
+          "modelYearFrom": "2012-01-01",
+          "modelYearTo": "2018-09-01"
+        },
+        {
+          "modelId": 38843,
+          "modelName": "A6 C8 (4A2)",
+          "modelYearFrom": "2018-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38844,
+          "modelName": "A6 C8 Avant (4A5)",
+          "modelYearFrom": "2018-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39591,
+          "modelName": "A6 Allroad C8 (4AH)",
+          "modelYearFrom": "2018-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45735,
+          "modelName": "A6 e-tron Avant (GH5)",
+          "modelYearFrom": "2024-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45736,
+          "modelName": "A6 e-tron Sportback (GHA)",
+          "modelYearFrom": "2024-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5,
+      "manufacturerName": "AUDI",
+      "groupKey": "A7",
+      "displayName": "A7",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8986,
+          "modelName": "A7 Sportback (4GA, 4GF)",
+          "modelYearFrom": "2010-07-01",
+          "modelYearTo": "2019-11-01"
+        },
+        {
+          "modelId": 38471,
+          "modelName": "A7 Sportback (4KA)",
+          "modelYearFrom": "2017-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5,
+      "manufacturerName": "AUDI",
+      "groupKey": "A8",
+      "displayName": "A8",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 265,
+          "modelName": "A8 D2 (4D2, 4D8)",
+          "modelYearFrom": "1994-03-01",
+          "modelYearTo": "2005-12-01"
+        },
+        {
+          "modelId": 4935,
+          "modelName": "A8 D3 (4E2, 4E8)",
+          "modelYearFrom": "2002-10-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 8627,
+          "modelName": "A8 D4 (4H2, 4H8, 4HC, 4HL)",
+          "modelYearFrom": "2009-11-01",
+          "modelYearTo": "2019-11-01"
+        },
+        {
+          "modelId": 38219,
+          "modelName": "A8 D5 (4N2, 4N8, 4NC, 4NL)",
+          "modelYearFrom": "2017-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5,
+      "manufacturerName": "AUDI",
+      "groupKey": "ALLROAD",
+      "displayName": "ALLROAD",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4632,
+          "modelName": "ALLROAD C5 (4BH)",
+          "modelYearFrom": "2000-05-01",
+          "modelYearTo": "2005-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5,
+      "manufacturerName": "AUDI",
+      "groupKey": "CABRIOLET",
+      "displayName": "CABRIOLET",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 438,
+          "modelName": "CABRIOLET B3 (8G7)",
+          "modelYearFrom": "1991-05-01",
+          "modelYearTo": "2000-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5,
+      "manufacturerName": "AUDI",
+      "groupKey": "COUPE",
+      "displayName": "COUPE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 194,
+          "modelName": "COUPE B2 (81, 855, 856)",
+          "modelYearFrom": "1980-07-01",
+          "modelYearTo": "1988-10-01"
+        },
+        {
+          "modelId": 202,
+          "modelName": "COUPE B3 (89, 8B3)",
+          "modelYearFrom": "1988-10-01",
+          "modelYearTo": "1996-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5,
+      "manufacturerName": "AUDI",
+      "groupKey": "E",
+      "displayName": "E",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39213,
+          "modelName": "E-TRON (GEN)",
+          "modelYearFrom": "2018-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40160,
+          "modelName": "E-TRON Sportback (GEA)",
+          "modelYearFrom": "2019-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41812,
+          "modelName": "E-TRON GT A trois volumes (F83, F8P)",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5,
+      "manufacturerName": "AUDI",
+      "groupKey": "F103",
+      "displayName": "F103",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8552,
+          "modelName": "F103 (613, 615)",
+          "modelYearFrom": "1965-08-01",
+          "modelYearTo": "1968-08-01"
+        },
+        {
+          "modelId": 8553,
+          "modelName": "F103 Variant (613, 615)",
+          "modelYearFrom": "1966-04-01",
+          "modelYearTo": "1968-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5,
+      "manufacturerName": "AUDI",
+      "groupKey": "Q2",
+      "displayName": "Q2",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36543,
+          "modelName": "Q2 (GAB, GAG)",
+          "modelYearFrom": "2016-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5,
+      "manufacturerName": "AUDI",
+      "groupKey": "Q3",
+      "displayName": "Q3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9731,
+          "modelName": "Q3 (8UB, 8UG)",
+          "modelYearFrom": "2011-06-01",
+          "modelYearTo": "2020-03-01"
+        },
+        {
+          "modelId": 38997,
+          "modelName": "Q3 (F3B)",
+          "modelYearFrom": "2018-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40155,
+          "modelName": "Q3 Sportback (F3N)",
+          "modelYearFrom": "2019-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5,
+      "manufacturerName": "AUDI",
+      "groupKey": "Q4",
+      "displayName": "Q4",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41930,
+          "modelName": "Q4 SUV (F4B)",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42202,
+          "modelName": "Q4 Sportback (F4N)",
+          "modelYearFrom": "2021-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5,
+      "manufacturerName": "AUDI",
+      "groupKey": "Q5",
+      "displayName": "Q5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7534,
+          "modelName": "Q5 (8RB)",
+          "modelYearFrom": "2008-11-01",
+          "modelYearTo": "2019-04-01"
+        },
+        {
+          "modelId": 37161,
+          "modelName": "Q5 (FYB, FYG)",
+          "modelYearFrom": "2016-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41507,
+          "modelName": "Q5 Van (8RB)",
+          "modelYearFrom": "2008-11-01",
+          "modelYearTo": "2017-12-01"
+        },
+        {
+          "modelId": 41520,
+          "modelName": "Q5 Van (FYB, FYG)",
+          "modelYearFrom": "2016-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41715,
+          "modelName": "Q5 Sportback (FYT)",
+          "modelYearFrom": "2020-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45817,
+          "modelName": "Q5 (GUB)",
+          "modelYearFrom": "2025-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 46104,
+          "modelName": "Q5 (GUN)",
+          "modelYearFrom": "2025-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5,
+      "manufacturerName": "AUDI",
+      "groupKey": "Q6",
+      "displayName": "Q6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45332,
+          "modelName": "Q6 (GFB)",
+          "modelYearFrom": "2024-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45981,
+          "modelName": "Q6 e-tron Sportback (GFN)",
+          "modelYearFrom": "2024-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5,
+      "manufacturerName": "AUDI",
+      "groupKey": "Q7",
+      "displayName": "Q7",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5461,
+          "modelName": "Q7 (4LB)",
+          "modelYearFrom": "2006-03-01",
+          "modelYearTo": "2016-01-01"
+        },
+        {
+          "modelId": 14159,
+          "modelName": "Q7 (4MB, 4MG, 4MQ)",
+          "modelYearFrom": "2015-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41521,
+          "modelName": "Q7 Van (4LB)",
+          "modelYearFrom": "2006-03-01",
+          "modelYearTo": "2016-01-01"
+        },
+        {
+          "modelId": 41522,
+          "modelName": "Q7 Van (4MB, 4MG)",
+          "modelYearFrom": "2015-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5,
+      "manufacturerName": "AUDI",
+      "groupKey": "Q8",
+      "displayName": "Q8",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38836,
+          "modelName": "Q8 (4MN, 4MT)",
+          "modelYearFrom": "2018-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43700,
+          "modelName": "Q8 E-TRON SUV (GEG)",
+          "modelYearFrom": "2022-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43701,
+          "modelName": "Q8 E-TRON Sportback (GET)",
+          "modelYearFrom": "2022-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5,
+      "manufacturerName": "AUDI",
+      "groupKey": "QUATTRO",
+      "displayName": "QUATTRO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3910,
+          "modelName": "QUATTRO (85)",
+          "modelYearFrom": "1980-07-01",
+          "modelYearTo": "1991-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5,
+      "manufacturerName": "AUDI",
+      "groupKey": "R8",
+      "displayName": "R8",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6244,
+          "modelName": "R8 (422, 423)",
+          "modelYearFrom": "2007-04-01",
+          "modelYearTo": "2016-08-01"
+        },
+        {
+          "modelId": 8262,
+          "modelName": "R8 Spyder (427, 429)",
+          "modelYearFrom": "2010-02-01",
+          "modelYearTo": "2016-08-01"
+        },
+        {
+          "modelId": 14514,
+          "modelName": "R8 (4S3, 4SP)",
+          "modelYearFrom": "2015-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 36765,
+          "modelName": "R8 Spyder (4S9, 4SR)",
+          "modelYearFrom": "2016-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5,
+      "manufacturerName": "AUDI",
+      "groupKey": "SUPER",
+      "displayName": "SUPER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4554,
+          "modelName": "SUPER 90",
+          "modelYearFrom": "1966-09-01",
+          "modelYearTo": "1971-11-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5,
+      "manufacturerName": "AUDI",
+      "groupKey": "TT",
+      "displayName": "TT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3851,
+          "modelName": "TT (8N3)",
+          "modelYearFrom": "1998-10-01",
+          "modelYearTo": "2007-02-01"
+        },
+        {
+          "modelId": 4089,
+          "modelName": "TT Roadster (8N9)",
+          "modelYearFrom": "1999-10-01",
+          "modelYearTo": "2007-02-01"
+        },
+        {
+          "modelId": 5544,
+          "modelName": "TT (8J3)",
+          "modelYearFrom": "2006-07-01",
+          "modelYearTo": "2015-02-01"
+        },
+        {
+          "modelId": 5608,
+          "modelName": "TT Roadster (8J9)",
+          "modelYearFrom": "2007-03-01",
+          "modelYearTo": "2014-09-01"
+        },
+        {
+          "modelId": 12912,
+          "modelName": "TT (FV3, FVP)",
+          "modelYearFrom": "2014-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13274,
+          "modelName": "TT Roadster (FV9, FVR)",
+          "modelYearFrom": "2014-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5,
+      "manufacturerName": "AUDI",
+      "groupKey": "V8",
+      "displayName": "V8",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 485,
+          "modelName": "V8 (441, 442, 4C2, 4C8)",
+          "modelYearFrom": "1988-10-01",
+          "modelYearTo": "1994-02-01"
+        }
+      ]
+    }
+  ]
+}

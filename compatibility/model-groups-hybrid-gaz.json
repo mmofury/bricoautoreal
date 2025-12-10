@@ -1,0 +1,196 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.286Z",
+  "manufacturer": "GAZ",
+  "countGroups": 5,
+  "groups": [
+    {
+      "manufacturerId": 148,
+      "manufacturerName": "GAZ",
+      "groupKey": "69",
+      "displayName": "69",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36959,
+          "modelName": "69",
+          "modelYearFrom": "1953-08-01",
+          "modelYearTo": "1975-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 148,
+      "manufacturerName": "GAZ",
+      "groupKey": "GAZELLE",
+      "displayName": "GAZELLE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5635,
+          "modelName": "GAZELLE Autobus/Autocar",
+          "modelYearFrom": "1993-10-01",
+          "modelYearTo": "2002-12-01"
+        },
+        {
+          "modelId": 5636,
+          "modelName": "GAZELLE Fourgon",
+          "modelYearFrom": "1993-10-01",
+          "modelYearTo": "2002-12-01"
+        },
+        {
+          "modelId": 5637,
+          "modelName": "GAZELLE Camion plate-forme/Châssis",
+          "modelYearFrom": "1993-10-01",
+          "modelYearTo": "2002-12-01"
+        },
+        {
+          "modelId": 11297,
+          "modelName": "GAZELLE Autobus/Autocar",
+          "modelYearFrom": "2003-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11298,
+          "modelName": "GAZELLE Fourgon",
+          "modelYearFrom": "2003-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11299,
+          "modelName": "GAZELLE Camion plate-forme/Châssis",
+          "modelYearFrom": "2002-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11763,
+          "modelName": "GAZELLE NEXT Autobus/Autocar",
+          "modelYearFrom": "2013-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11764,
+          "modelName": "GAZELLE NEXT Fourgon",
+          "modelYearFrom": "2013-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11765,
+          "modelName": "GAZELLE NEXT Camion plate-forme/Châssis",
+          "modelYearFrom": "2013-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42606,
+          "modelName": "GAZELLE NN Fourgon",
+          "modelYearFrom": "2021-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42607,
+          "modelName": "GAZELLE NN Autobus/Autocar",
+          "modelYearFrom": "2021-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42608,
+          "modelName": "GAZELLE NN Camion plate-forme/Châssis",
+          "modelYearFrom": "2021-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 148,
+      "manufacturerName": "GAZ",
+      "groupKey": "SOBOL",
+      "displayName": "SOBOL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13576,
+          "modelName": "SOBOL (2310) Camion plate-forme/Châssis",
+          "modelYearFrom": "1993-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13577,
+          "modelName": "SOBOL (2217) Autobus/Autocar",
+          "modelYearFrom": "1993-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13578,
+          "modelName": "SOBOL (2752) Fourgon",
+          "modelYearFrom": "1993-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 148,
+      "manufacturerName": "GAZ",
+      "groupKey": "VALDAJ",
+      "displayName": "VALDAJ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10353,
+          "modelName": "VALDAJ",
+          "modelYearFrom": "2010-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 148,
+      "manufacturerName": "GAZ",
+      "groupKey": "VOLGA",
+      "displayName": "VOLGA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5595,
+          "modelName": "VOLGA (3102)",
+          "modelYearFrom": "1970-01-01",
+          "modelYearTo": "1993-01-01"
+        },
+        {
+          "modelId": 5596,
+          "modelName": "VOLGA Break (3102)",
+          "modelYearFrom": "1972-01-01",
+          "modelYearTo": "1993-02-01"
+        },
+        {
+          "modelId": 9607,
+          "modelName": "VOLGA",
+          "modelYearFrom": "1992-07-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 9608,
+          "modelName": "VOLGA Break",
+          "modelYearFrom": "1993-02-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 13467,
+          "modelName": "VOLGA SIBER",
+          "modelYearFrom": "2008-03-01",
+          "modelYearTo": "2010-05-01"
+        },
+        {
+          "modelId": 38683,
+          "modelName": "VOLGA Break",
+          "modelYearFrom": "2004-04-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 38684,
+          "modelName": "VOLGA",
+          "modelYearFrom": "2004-04-01",
+          "modelYearTo": "2010-12-01"
+        }
+      ]
+    }
+  ]
+}

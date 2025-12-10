@@ -1,0 +1,85 @@
+{
+  "productName": "Clip de fixation, revêtement intérieur",
+  "searchText": "Clip de fixation, revêtement intérieur",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T20:20:31.405Z",
+  "productId": 6079,
+  "arborescence": {
+    "Équipement intérieur": {
+      "categoryId": 100341,
+      "categoryName": "Équipement intérieur",
+      "level": 1,
+      "children": {
+        "Clips de fixation": {
+          "categoryId": null,
+          "categoryName": "Clips de fixation",
+          "level": 2,
+          "children": {
+            "Kit de clip de fixation, revêtement intérieur": {
+              "categoryId": 104958,
+              "categoryName": "Fastening Clips",
+              "level": 2,
+              "children": [],
+              "productId": 5060
+            }
+          }
+        },
+        "Recouvrement": {
+          "categoryId": null,
+          "categoryName": "Recouvrement",
+          "level": 2,
+          "children": {
+            "Kit de clip de fixation, revêtement intérieur": {
+              "categoryId": 102706,
+              "categoryName": "Panelling",
+              "level": 2,
+              "children": [],
+              "productId": 5060
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Équipement intérieur [ID: 100341] (Niveau 1)\n    ├── Clips de fixation (Niveau 2)\n    │   └── Fastening Clips [ID: 104958] (Niveau 2) → ProductId: 5060\n    └── Recouvrement (Niveau 2)\n        └── Panelling [ID: 102706] (Niveau 2) → ProductId: 5060",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Équipement intérieur",
+        "Clips de fixation",
+        "Fastening Clips"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        104958
+      ],
+      "finalCategoryId": 104958,
+      "productId": 5060
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Recouvrement",
+        "Panelling"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102706
+      ],
+      "finalCategoryId": 102706,
+      "productId": 5060
+    }
+  ],
+  "productIdsInArbo": [
+    5060
+  ],
+  "closestProductIds": [
+    {
+      "productId": 5060,
+      "productName": "Kit de clip de fixation, revêtement intérieur"
+    }
+  ]
+}

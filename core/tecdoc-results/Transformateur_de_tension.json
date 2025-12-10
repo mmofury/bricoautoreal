@@ -1,0 +1,57 @@
+{
+  "productName": "Transformateur de tension",
+  "searchText": "Transformateur de tension",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-03T07:27:02.302Z",
+  "productId": 2957,
+  "arborescence": {
+    "Systèmes de sécurité": {
+      "categoryId": 100417,
+      "categoryName": "Systèmes de sécurité",
+      "level": 1,
+      "children": {
+        "Système d'air-bag": {
+          "categoryId": null,
+          "categoryName": "Système d'air-bag",
+          "level": 2,
+          "children": {
+            "Transformateur de tension, tension gonflage-airbag": {
+              "categoryId": 100762,
+              "categoryName": "Air Bag System",
+              "level": 2,
+              "children": [],
+              "productId": 2972
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Systèmes de sécurité [ID: 100417] (Niveau 1)\n    └── Système d'air-bag (Niveau 2)\n        └── Air Bag System [ID: 100762] (Niveau 2) → ProductId: 2972",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Systèmes de sécurité",
+        "Système d'air-bag",
+        "Air Bag System"
+      ],
+      "categoryIds": [
+        100417,
+        null,
+        100762
+      ],
+      "finalCategoryId": 100762,
+      "productId": 2972
+    }
+  ],
+  "productIdsInArbo": [
+    2972
+  ],
+  "closestProductIds": [
+    {
+      "productId": 2972,
+      "productName": "Transformateur de tension, tension gonflage-airbag"
+    }
+  ]
+}

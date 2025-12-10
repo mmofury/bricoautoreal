@@ -1,0 +1,76 @@
+{
+  "productName": "Allume-cigares",
+  "searchText": "Allume-cigares",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T18:49:24.100Z",
+  "productId": 1446,
+  "arborescence": {
+    "Accessoires": {
+      "categoryId": 100733,
+      "categoryName": "Accessoires",
+      "level": 1,
+      "children": {
+        "Allume-cigares": {
+          "categoryId": null,
+          "categoryName": "Allume-cigares",
+          "level": 2,
+          "children": {
+            "Allume-cigares": {
+              "categoryId": 100854,
+              "categoryName": "Cigarette Lighter",
+              "level": 2,
+              "children": [],
+              "productId": 1446
+            },
+            "Kit réparation de câble, allume-cigare": {
+              "categoryId": 100854,
+              "categoryName": "Cigarette Lighter",
+              "level": 2,
+              "children": [],
+              "productId": 8991
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Accessoires [ID: 100733] (Niveau 1)\n    └── Allume-cigares (Niveau 2)\n        ├── Cigarette Lighter [ID: 100854] (Niveau 2) → ProductId: 1446\n        └── Cigarette Lighter [ID: 100854] (Niveau 2) → ProductId: 8991",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Accessoires",
+        "Allume-cigares",
+        "Cigarette Lighter"
+      ],
+      "categoryIds": [
+        100733,
+        null,
+        100854
+      ],
+      "finalCategoryId": 100854,
+      "productId": 1446
+    },
+    {
+      "path": [
+        "Accessoires",
+        "Allume-cigares",
+        "Cigarette Lighter"
+      ],
+      "categoryIds": [
+        100733,
+        null,
+        100854
+      ],
+      "finalCategoryId": 100854,
+      "productId": 8991
+    }
+  ],
+  "productIdsInArbo": [
+    1446,
+    8991
+  ],
+  "matchedProductIds": [
+    1446
+  ]
+}

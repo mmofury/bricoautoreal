@@ -1,0 +1,135 @@
+{
+  "productName": "Arbre de transmission, pompe à huile",
+  "searchText": "Arbre de transmission, pompe à huile",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T18:56:54.126Z",
+  "productId": 3706,
+  "arborescence": {
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Boîte de vitesses manuelle robotisée (BVR)": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesses manuelle robotisée (BVR)",
+          "level": 2,
+          "children": {
+            "Arbre de transmission, pompe à huile (BVR)": {
+              "categoryId": 706584,
+              "categoryName": "Automated manual transmission (AMT)",
+              "level": 2,
+              "children": {
+                "Arbres de boîte de vitesses/composants": {
+                  "categoryId": null,
+                  "categoryName": "Arbres de boîte de vitesses/composants",
+                  "level": 4,
+                  "children": {
+                    "Arbre de transmission, pompe à huile (BVR)": {
+                      "categoryId": 706615,
+                      "categoryName": "Transmission shaft/parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60307
+                    }
+                  }
+                }
+              },
+              "productId": 60307
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Lubrification": {
+          "categoryId": null,
+          "categoryName": "Lubrification",
+          "level": 2,
+          "children": {
+            "Arbre de transmission, pompe à huile": {
+              "categoryId": 100245,
+              "categoryName": "Lubrication",
+              "level": 2,
+              "children": {
+                "Pompe à huile et pièces de montage": {
+                  "categoryId": null,
+                  "categoryName": "Pompe à huile et pièces de montage",
+                  "level": 4,
+                  "children": {
+                    "Arbre de transmission, pompe à huile": {
+                      "categoryId": 100476,
+                      "categoryName": "Oil Pump/Attachment Parts",
+                      "level": 3,
+                      "children": {
+                        "Collecteur d'admission": {
+                          "categoryId": null,
+                          "categoryName": "Collecteur d'admission",
+                          "level": 6,
+                          "children": {
+                            "Arbre de transmission, pompe à huile": {
+                              "categoryId": 100494,
+                              "categoryName": "Suction Pipe",
+                              "level": 4,
+                              "children": [],
+                              "productId": 3706
+                            }
+                          }
+                        }
+                      },
+                      "productId": 3706
+                    }
+                  }
+                }
+              },
+              "productId": 3706
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Boîte de vitesses [ID: 100238] (Niveau 1)\n│   └── Boîte de vitesses manuelle robotisée (BVR) (Niveau 2)\n│       └── Automated manual transmission (AMT) [ID: 706584] (Niveau 2) → ProductId: 60307\n│           └── Arbres de boîte de vitesses/composants (Niveau 4)\n│               └── Transmission shaft/parts [ID: 706615] (Niveau 3) → ProductId: 60307\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Lubrification (Niveau 2)\n        └── Lubrication [ID: 100245] (Niveau 2) → ProductId: 3706\n            └── Pompe à huile et pièces de montage (Niveau 4)\n                └── Oil Pump/Attachment Parts [ID: 100476] (Niveau 3) → ProductId: 3706\n                    └── Collecteur d'admission (Niveau 6)\n                        └── Suction Pipe [ID: 100494] (Niveau 4) → ProductId: 3706",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesses manuelle robotisée (BVR)",
+        "Automated manual transmission (AMT)"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        706584
+      ],
+      "finalCategoryId": 706584,
+      "productId": 60307
+    },
+    {
+      "path": [
+        "Moteur",
+        "Lubrification",
+        "Lubrication"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100245
+      ],
+      "finalCategoryId": 100245,
+      "productId": 3706
+    }
+  ],
+  "productIdsInArbo": [
+    3706,
+    60307
+  ],
+  "matchedProductIds": [
+    3706
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.499Z",
+  "manufacturer": "STUDEBAKER",
+  "countGroups": 5,
+  "groups": [
+    {
+      "manufacturerId": 2715,
+      "manufacturerName": "STUDEBAKER",
+      "groupKey": "CHAMP",
+      "displayName": "CHAMP",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43813,
+          "modelName": "CHAMP Pick-up",
+          "modelYearFrom": "1960-01-01",
+          "modelYearTo": "1964-01-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2715,
+      "manufacturerName": "STUDEBAKER",
+      "groupKey": "COMMANDER",
+      "displayName": "COMMANDER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33827,
+          "modelName": "COMMANDER A trois volumes",
+          "modelYearFrom": "1926-09-01",
+          "modelYearTo": "1966-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2715,
+      "manufacturerName": "STUDEBAKER",
+      "groupKey": "GRAN",
+      "displayName": "GRAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43814,
+          "modelName": "GRAN TURISMO Coupé",
+          "modelYearFrom": "1962-01-01",
+          "modelYearTo": "1964-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2715,
+      "manufacturerName": "STUDEBAKER",
+      "groupKey": "HAWK",
+      "displayName": "HAWK",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43815,
+          "modelName": "HAWK Coupé",
+          "modelYearFrom": "1960-01-01",
+          "modelYearTo": "1961-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2715,
+      "manufacturerName": "STUDEBAKER",
+      "groupKey": "LARK",
+      "displayName": "LARK",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43816,
+          "modelName": "LARK I A trois volumes",
+          "modelYearFrom": "1958-10-01",
+          "modelYearTo": "1961-09-01"
+        },
+        {
+          "modelId": 43817,
+          "modelName": "LARK II A trois volumes",
+          "modelYearFrom": "1961-10-01",
+          "modelYearTo": "1963-09-01"
+        },
+        {
+          "modelId": 43818,
+          "modelName": "LARK III A trois volumes",
+          "modelYearFrom": "1963-10-01",
+          "modelYearTo": "1966-07-01"
+        },
+        {
+          "modelId": 43819,
+          "modelName": "LARK I Break",
+          "modelYearFrom": "1958-10-01",
+          "modelYearTo": "1961-09-01"
+        },
+        {
+          "modelId": 43820,
+          "modelName": "LARK II Break",
+          "modelYearFrom": "1961-10-01",
+          "modelYearTo": "1963-09-01"
+        },
+        {
+          "modelId": 43821,
+          "modelName": "LARK III Break",
+          "modelYearFrom": "1963-10-01",
+          "modelYearTo": "1966-07-01"
+        }
+      ]
+    }
+  ]
+}

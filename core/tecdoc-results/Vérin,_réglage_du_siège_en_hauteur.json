@@ -1,0 +1,82 @@
+{
+  "productName": "Vérin, réglage du siège en hauteur",
+  "searchText": "Vérin, réglage du siège en hauteur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:36:47.379Z",
+  "productId": 6306,
+  "arborescence": {
+    "Équipement intérieur": {
+      "categoryId": 100341,
+      "categoryName": "Équipement intérieur",
+      "level": 1,
+      "children": {
+        "Ressorts pneumatiques": {
+          "categoryId": null,
+          "categoryName": "Ressorts pneumatiques",
+          "level": 2,
+          "children": {
+            "Vérin, réglage du siège en hauteur": {
+              "categoryId": 102693,
+              "categoryName": "Gas Springs",
+              "level": 2,
+              "children": [],
+              "productId": 6306
+            }
+          }
+        },
+        "Sièges": {
+          "categoryId": null,
+          "categoryName": "Sièges",
+          "level": 2,
+          "children": {
+            "Vérin, réglage du siège en hauteur": {
+              "categoryId": 100673,
+              "categoryName": "Seats",
+              "level": 2,
+              "children": [],
+              "productId": 6306
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Équipement intérieur [ID: 100341] (Niveau 1)\n    ├── Ressorts pneumatiques (Niveau 2)\n    │   └── Gas Springs [ID: 102693] (Niveau 2) → ProductId: 6306\n    └── Sièges (Niveau 2)\n        └── Seats [ID: 100673] (Niveau 2) → ProductId: 6306",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Équipement intérieur",
+        "Ressorts pneumatiques",
+        "Gas Springs"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102693
+      ],
+      "finalCategoryId": 102693,
+      "productId": 6306
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Sièges",
+        "Seats"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        100673
+      ],
+      "finalCategoryId": 100673,
+      "productId": 6306
+    }
+  ],
+  "productIdsInArbo": [
+    6306
+  ],
+  "matchedProductIds": [
+    6306
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "productName": "Support de réparation, échappement",
+  "searchText": "Support de réparation, échappement",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:20:08.918Z",
+  "productId": 6244,
+  "arborescence": {
+    "Échappement": {
+      "categoryId": 100004,
+      "categoryName": "Échappement",
+      "level": 1,
+      "children": {
+        "Pièces de montage": {
+          "categoryId": null,
+          "categoryName": "Pièces de montage",
+          "level": 2,
+          "children": {
+            "Support de réparation, échappement": {
+              "categoryId": 100222,
+              "categoryName": "Assembly Parts",
+              "level": 2,
+              "children": {
+                "Pièces détachées de montage": {
+                  "categoryId": null,
+                  "categoryName": "Pièces détachées de montage",
+                  "level": 4,
+                  "children": {
+                    "Support de réparation, échappement": {
+                      "categoryId": 100317,
+                      "categoryName": "Individual Assembly Parts",
+                      "level": 3,
+                      "children": {
+                        "Support": {
+                          "categoryId": null,
+                          "categoryName": "Support",
+                          "level": 6,
+                          "children": {
+                            "Support de réparation, échappement": {
+                              "categoryId": 100327,
+                              "categoryName": "Holder",
+                              "level": 4,
+                              "children": [],
+                              "productId": 6244
+                            }
+                          }
+                        }
+                      },
+                      "productId": 6244
+                    }
+                  }
+                }
+              },
+              "productId": 6244
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Échappement [ID: 100004] (Niveau 1)\n    └── Pièces de montage (Niveau 2)\n        └── Assembly Parts [ID: 100222] (Niveau 2) → ProductId: 6244\n            └── Pièces détachées de montage (Niveau 4)\n                └── Individual Assembly Parts [ID: 100317] (Niveau 3) → ProductId: 6244\n                    └── Support (Niveau 6)\n                        └── Holder [ID: 100327] (Niveau 4) → ProductId: 6244",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Échappement",
+        "Pièces de montage",
+        "Assembly Parts"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100222
+      ],
+      "finalCategoryId": 100222,
+      "productId": 6244
+    }
+  ],
+  "productIdsInArbo": [
+    6244
+  ],
+  "matchedProductIds": [
+    6244
+  ]
+}

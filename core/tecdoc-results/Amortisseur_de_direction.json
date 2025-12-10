@@ -1,0 +1,127 @@
+{
+  "productName": "Amortisseur de direction",
+  "searchText": "Amortisseur de direction",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T18:49:36.362Z",
+  "productId": 130,
+  "arborescence": {
+    "Direction": {
+      "categoryId": 100012,
+      "categoryName": "Direction",
+      "level": 1,
+      "children": {
+        "Amortisseurs de direction": {
+          "categoryId": null,
+          "categoryName": "Amortisseurs de direction",
+          "level": 2,
+          "children": {
+            "Amortisseur de direction": {
+              "categoryId": 100200,
+              "categoryName": "Steering Damper",
+              "level": 2,
+              "children": [],
+              "productId": 130
+            }
+          }
+        },
+        "Barre de connexion / composants": {
+          "categoryId": null,
+          "categoryName": "Barre de connexion / composants",
+          "level": 2,
+          "children": {
+            "Douille, rotule barre-connexion (amortisseur de direction)": {
+              "categoryId": 100601,
+              "categoryName": "Tie Rod Assembly/ Parts",
+              "level": 2,
+              "children": {
+                "Composants de barre de connexion": {
+                  "categoryId": null,
+                  "categoryName": "Composants de barre de connexion",
+                  "level": 4,
+                  "children": {
+                    "Douille, rotule barre-connexion (amortisseur de direction)": {
+                      "categoryId": 100603,
+                      "categoryName": "Parts, tie rod assy.",
+                      "level": 3,
+                      "children": [],
+                      "productId": 5756
+                    }
+                  }
+                }
+              },
+              "productId": 5756
+            }
+          }
+        },
+        "Rotules": {
+          "categoryId": null,
+          "categoryName": "Rotules",
+          "level": 2,
+          "children": {
+            "Rotule, amortisseur de direction": {
+              "categoryId": 100198,
+              "categoryName": "Joints",
+              "level": 2,
+              "children": [],
+              "productId": 2472
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Direction [ID: 100012] (Niveau 1)\n    ├── Amortisseurs de direction (Niveau 2)\n    │   └── Steering Damper [ID: 100200] (Niveau 2) → ProductId: 130\n    ├── Barre de connexion / composants (Niveau 2)\n    │   └── Tie Rod Assembly/ Parts [ID: 100601] (Niveau 2) → ProductId: 5756\n    │       └── Composants de barre de connexion (Niveau 4)\n    │           └── Parts, tie rod assy. [ID: 100603] (Niveau 3) → ProductId: 5756\n    └── Rotules (Niveau 2)\n        └── Joints [ID: 100198] (Niveau 2) → ProductId: 2472",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Direction",
+        "Amortisseurs de direction",
+        "Steering Damper"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        100200
+      ],
+      "finalCategoryId": 100200,
+      "productId": 130
+    },
+    {
+      "path": [
+        "Direction",
+        "Barre de connexion / composants",
+        "Tie Rod Assembly/ Parts"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        100601
+      ],
+      "finalCategoryId": 100601,
+      "productId": 5756
+    },
+    {
+      "path": [
+        "Direction",
+        "Rotules",
+        "Joints"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        100198
+      ],
+      "finalCategoryId": 100198,
+      "productId": 2472
+    }
+  ],
+  "productIdsInArbo": [
+    130,
+    2472,
+    5756
+  ],
+  "matchedProductIds": [
+    130
+  ]
+}

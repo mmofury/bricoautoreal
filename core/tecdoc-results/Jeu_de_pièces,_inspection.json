@@ -1,0 +1,54 @@
+{
+  "productName": "Jeu de pièces, inspection",
+  "searchText": "Jeu de pièces, inspection",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:51:01.752Z",
+  "productId": 4682,
+  "arborescence": {
+    "Pièces de maintenance": {
+      "categoryId": 100019,
+      "categoryName": "Pièces de maintenance",
+      "level": 1,
+      "children": {
+        "Intervalle": {
+          "categoryId": null,
+          "categoryName": "Intervalle",
+          "level": 2,
+          "children": {
+            "Jeu de pièces, inspection": {
+              "categoryId": 100597,
+              "categoryName": "Service Intervals",
+              "level": 2,
+              "children": [],
+              "productId": 4682
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Pièces de maintenance [ID: 100019] (Niveau 1)\n    └── Intervalle (Niveau 2)\n        └── Service Intervals [ID: 100597] (Niveau 2) → ProductId: 4682",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Pièces de maintenance",
+        "Intervalle",
+        "Service Intervals"
+      ],
+      "categoryIds": [
+        100019,
+        null,
+        100597
+      ],
+      "finalCategoryId": 100597,
+      "productId": 4682
+    }
+  ],
+  "productIdsInArbo": [
+    4682
+  ],
+  "matchedProductIds": [
+    4682
+  ]
+}

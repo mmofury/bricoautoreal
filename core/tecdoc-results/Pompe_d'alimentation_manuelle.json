@@ -1,0 +1,157 @@
+{
+  "productName": "Pompe d'alimentation manuelle",
+  "searchText": "Pompe d'alimentation manuelle",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:00:59.098Z",
+  "productId": 4228,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Pompe / accessoires": {
+          "categoryId": null,
+          "categoryName": "Pompe / accessoires",
+          "level": 2,
+          "children": {
+            "Kit d'assemblage, pompe d'alimentation manuelle": {
+              "categoryId": 100251,
+              "categoryName": "Pump/Accessories",
+              "level": 2,
+              "children": {
+                "Pompe à main / accessoires": {
+                  "categoryId": null,
+                  "categoryName": "Pompe à main / accessoires",
+                  "level": 4,
+                  "children": {
+                    "Kit d'assemblage, pompe d'alimentation manuelle": {
+                      "categoryId": 706438,
+                      "categoryName": "Hand Feed Pump/ Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 615
+                    }
+                  }
+                },
+                "Réparation": {
+                  "categoryId": null,
+                  "categoryName": "Réparation",
+                  "level": 4,
+                  "children": {
+                    "Kit d'assemblage, pompe d'alimentation manuelle": {
+                      "categoryId": 100719,
+                      "categoryName": "Repair Kit",
+                      "level": 3,
+                      "children": [],
+                      "productId": 615
+                    }
+                  }
+                }
+              },
+              "productId": 615
+            },
+            "Pompe d'alimentation manuelle": {
+              "categoryId": 100251,
+              "categoryName": "Pump/Accessories",
+              "level": 2,
+              "children": {
+                "Pompe à main / accessoires": {
+                  "categoryId": null,
+                  "categoryName": "Pompe à main / accessoires",
+                  "level": 4,
+                  "children": {
+                    "Pompe d'alimentation manuelle": {
+                      "categoryId": 706438,
+                      "categoryName": "Hand Feed Pump/ Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4228
+                    }
+                  }
+                }
+              },
+              "productId": 4228
+            },
+            "Voyant, pompe d'alimentation manuelle": {
+              "categoryId": 100251,
+              "categoryName": "Pump/Accessories",
+              "level": 2,
+              "children": {
+                "Pompe à main / accessoires": {
+                  "categoryId": null,
+                  "categoryName": "Pompe à main / accessoires",
+                  "level": 4,
+                  "children": {
+                    "Voyant, pompe d'alimentation manuelle": {
+                      "categoryId": 706438,
+                      "categoryName": "Hand Feed Pump/ Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 616
+                    }
+                  }
+                }
+              },
+              "productId": 616
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Alimentation carburant [ID: 100214] (Niveau 1)\n    └── Pompe / accessoires (Niveau 2)\n        ├── Pump/Accessories [ID: 100251] (Niveau 2) → ProductId: 615\n        │   ├── Pompe à main / accessoires (Niveau 4)\n        │   │   └── Hand Feed Pump/ Parts [ID: 706438] (Niveau 3) → ProductId: 615\n        │   └── Réparation (Niveau 4)\n        │       └── Repair Kit [ID: 100719] (Niveau 3) → ProductId: 615\n        ├── Pump/Accessories [ID: 100251] (Niveau 2) → ProductId: 4228\n        │   └── Pompe à main / accessoires (Niveau 4)\n        │       └── Hand Feed Pump/ Parts [ID: 706438] (Niveau 3) → ProductId: 4228\n        └── Pump/Accessories [ID: 100251] (Niveau 2) → ProductId: 616\n            └── Pompe à main / accessoires (Niveau 4)\n                └── Hand Feed Pump/ Parts [ID: 706438] (Niveau 3) → ProductId: 616",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Pompe / accessoires",
+        "Pump/Accessories"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100251
+      ],
+      "finalCategoryId": 100251,
+      "productId": 615
+    },
+    {
+      "path": [
+        "Alimentation carburant",
+        "Pompe / accessoires",
+        "Pump/Accessories"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100251
+      ],
+      "finalCategoryId": 100251,
+      "productId": 4228
+    },
+    {
+      "path": [
+        "Alimentation carburant",
+        "Pompe / accessoires",
+        "Pump/Accessories"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100251
+      ],
+      "finalCategoryId": 100251,
+      "productId": 616
+    }
+  ],
+  "productIdsInArbo": [
+    615,
+    616,
+    4228
+  ],
+  "matchedProductIds": [
+    4228
+  ]
+}

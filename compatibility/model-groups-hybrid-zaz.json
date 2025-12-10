@@ -1,0 +1,184 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.554Z",
+  "manufacturer": "ZAZ",
+  "countGroups": 9,
+  "groups": [
+    {
+      "manufacturerId": 1139,
+      "manufacturerName": "ZAZ",
+      "groupKey": "CHANCE",
+      "displayName": "CHANCE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11605,
+          "modelName": "CHANCE A trois volumes (TF_, TA_)",
+          "modelYearFrom": "2004-10-01",
+          "modelYearTo": "2014-03-01"
+        },
+        {
+          "modelId": 40416,
+          "modelName": "CHANCE Berline bicorps trois ou cinq portes (TF_, TA_)",
+          "modelYearFrom": "2004-10-01",
+          "modelYearTo": "2014-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1139,
+      "manufacturerName": "ZAZ",
+      "groupKey": "DANA",
+      "displayName": "DANA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37115,
+          "modelName": "DANA (1105)",
+          "modelYearFrom": "1994-05-01",
+          "modelYearTo": "1999-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1139,
+      "manufacturerName": "ZAZ",
+      "groupKey": "FORZA",
+      "displayName": "FORZA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11441,
+          "modelName": "FORZA Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2010-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11442,
+          "modelName": "FORZA A trois volumes",
+          "modelYearFrom": "2010-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1139,
+      "manufacturerName": "ZAZ",
+      "groupKey": "LANOS",
+      "displayName": "LANOS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8683,
+          "modelName": "LANOS A trois volumes (TA_, TF_)",
+          "modelYearFrom": "2004-10-01",
+          "modelYearTo": "2017-02-01"
+        },
+        {
+          "modelId": 8684,
+          "modelName": "LANOS Berline bicorps trois ou cinq portes (TA_, TF_)",
+          "modelYearFrom": "2004-10-01",
+          "modelYearTo": "2017-02-01"
+        },
+        {
+          "modelId": 9856,
+          "modelName": "LANOS PICK-UP",
+          "modelYearFrom": "2004-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1139,
+      "manufacturerName": "ZAZ",
+      "groupKey": "SENS",
+      "displayName": "SENS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11604,
+          "modelName": "SENS (TF_)",
+          "modelYearFrom": "2004-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40174,
+          "modelName": "SENS Berline bicorps trois ou cinq portes (TF_)",
+          "modelYearFrom": "2004-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1139,
+      "manufacturerName": "ZAZ",
+      "groupKey": "SLAVUTA",
+      "displayName": "SLAVUTA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9854,
+          "modelName": "SLAVUTA (1103)",
+          "modelYearFrom": "1999-01-01",
+          "modelYearTo": "2006-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1139,
+      "manufacturerName": "ZAZ",
+      "groupKey": "TAVRIA",
+      "displayName": "TAVRIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3409,
+          "modelName": "TAVRIA (1102)",
+          "modelYearFrom": "1987-01-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 13385,
+          "modelName": "TAVRIA Pick-up (1105_)",
+          "modelYearFrom": "1999-06-01",
+          "modelYearTo": "2011-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1139,
+      "manufacturerName": "ZAZ",
+      "groupKey": "VIDA",
+      "displayName": "VIDA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11439,
+          "modelName": "VIDA A trois volumes (SF6_, SA6_)",
+          "modelYearFrom": "2012-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11440,
+          "modelName": "VIDA Berline bicorps trois ou cinq portes (SF4_, SA4_)",
+          "modelYearFrom": "2012-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1139,
+      "manufacturerName": "ZAZ",
+      "groupKey": "ZAPOROZHETS",
+      "displayName": "ZAPOROZHETS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37114,
+          "modelName": "ZAPOROZHETS (966_, 968_)",
+          "modelYearFrom": "1967-04-01",
+          "modelYearTo": "1994-09-01"
+        }
+      ]
+    }
+  ]
+}

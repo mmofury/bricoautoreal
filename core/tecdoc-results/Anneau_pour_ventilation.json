@@ -1,0 +1,54 @@
+{
+  "productName": "Anneau pour ventilation",
+  "searchText": "Anneau pour ventilation",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T18:54:30.364Z",
+  "productId": 4266,
+  "arborescence": {
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Ventilateur": {
+          "categoryId": null,
+          "categoryName": "Ventilateur",
+          "level": 2,
+          "children": {
+            "Anneau pour ventilation": {
+              "categoryId": 100337,
+              "categoryName": "Radiator Fan",
+              "level": 2,
+              "children": [],
+              "productId": 4266
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Refroidissement [ID: 100007] (Niveau 1)\n    └── Ventilateur (Niveau 2)\n        └── Radiator Fan [ID: 100337] (Niveau 2) → ProductId: 4266",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Refroidissement",
+        "Ventilateur",
+        "Radiator Fan"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100337
+      ],
+      "finalCategoryId": 100337,
+      "productId": 4266
+    }
+  ],
+  "productIdsInArbo": [
+    4266
+  ],
+  "matchedProductIds": [
+    4266
+  ]
+}

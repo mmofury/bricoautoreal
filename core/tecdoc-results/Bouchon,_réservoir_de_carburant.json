@@ -1,0 +1,54 @@
+{
+  "productName": "Bouchon, réservoir de carburant",
+  "searchText": "Bouchon, réservoir de carburant",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:08:39.980Z",
+  "productId": 602,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Réservoir de carburant / accessoires": {
+          "categoryId": null,
+          "categoryName": "Réservoir de carburant / accessoires",
+          "level": 2,
+          "children": {
+            "Bouchon, réservoir de carburant": {
+              "categoryId": 100250,
+              "categoryName": "Fuel Tank/Accessories",
+              "level": 2,
+              "children": [],
+              "productId": 602
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Alimentation carburant [ID: 100214] (Niveau 1)\n    └── Réservoir de carburant / accessoires (Niveau 2)\n        └── Fuel Tank/Accessories [ID: 100250] (Niveau 2) → ProductId: 602",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Réservoir de carburant / accessoires",
+        "Fuel Tank/Accessories"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100250
+      ],
+      "finalCategoryId": 100250,
+      "productId": 602
+    }
+  ],
+  "productIdsInArbo": [
+    602
+  ],
+  "matchedProductIds": [
+    602
+  ]
+}

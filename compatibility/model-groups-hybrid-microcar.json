@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.416Z",
+  "manufacturer": "MICROCAR",
+  "countGroups": 7,
+  "groups": [
+    {
+      "manufacturerId": 4219,
+      "manufacturerName": "MICROCAR",
+      "groupKey": "DUE",
+      "displayName": "DUE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14190,
+          "modelName": "DUE",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4219,
+      "manufacturerName": "MICROCAR",
+      "groupKey": "F8",
+      "displayName": "F8",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37591,
+          "modelName": "F8",
+          "modelYearFrom": "2013-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4219,
+      "manufacturerName": "MICROCAR",
+      "groupKey": "FLEX",
+      "displayName": "FLEX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14192,
+          "modelName": "FLEX Camion plate-forme/Châssis",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14194,
+          "modelName": "FLEX Fourgon",
+          "modelYearFrom": "2013-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4219,
+      "manufacturerName": "MICROCAR",
+      "groupKey": "M",
+      "displayName": "M",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13392,
+          "modelName": "M.GO",
+          "modelYearFrom": "2009-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4219,
+      "manufacturerName": "MICROCAR",
+      "groupKey": "MC",
+      "displayName": "MC",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13393,
+          "modelName": "MC 1",
+          "modelYearFrom": "2004-02-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 42736,
+          "modelName": "MC 2",
+          "modelYearFrom": "2005-04-01",
+          "modelYearTo": "2010-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4219,
+      "manufacturerName": "MICROCAR",
+      "groupKey": "OPTIMAX",
+      "displayName": "OPTIMAX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37580,
+          "modelName": "OPTIMAX",
+          "modelYearFrom": "2011-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4219,
+      "manufacturerName": "MICROCAR",
+      "groupKey": "VIRGO",
+      "displayName": "VIRGO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13391,
+          "modelName": "VIRGO",
+          "modelYearFrom": "1999-06-01",
+          "modelYearTo": "2004-06-01"
+        }
+      ]
+    }
+  ]
+}

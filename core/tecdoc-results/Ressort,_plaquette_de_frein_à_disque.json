@@ -1,0 +1,112 @@
+{
+  "productName": "Ressort, plaquette de frein à disque",
+  "searchText": "Ressort, plaquette de frein à disque",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:09:07.797Z",
+  "productId": 256,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Étrier de frein": {
+          "categoryId": null,
+          "categoryName": "Étrier de frein",
+          "level": 2,
+          "children": {
+            "Ressort, plaquette de frein à disque": {
+              "categoryId": 100027,
+              "categoryName": "Brake Caliper",
+              "level": 2,
+              "children": {
+                "Composants": {
+                  "categoryId": null,
+                  "categoryName": "Composants",
+                  "level": 4,
+                  "children": {
+                    "Ressort, plaquette de frein à disque": {
+                      "categoryId": 100806,
+                      "categoryName": "Brake Caliper Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 256
+                    }
+                  }
+                }
+              },
+              "productId": 256
+            }
+          }
+        },
+        "Frein à disque": {
+          "categoryId": null,
+          "categoryName": "Frein à disque",
+          "level": 2,
+          "children": {
+            "Ressort, plaquette de frein à disque": {
+              "categoryId": 100626,
+              "categoryName": "Disc Brake",
+              "level": 2,
+              "children": {
+                "Accessoires / composants": {
+                  "categoryId": null,
+                  "categoryName": "Accessoires / composants",
+                  "level": 4,
+                  "children": {
+                    "Ressort, plaquette de frein à disque": {
+                      "categoryId": 100630,
+                      "categoryName": "Accessories/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 256
+                    }
+                  }
+                }
+              },
+              "productId": 256
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif de freinage [ID: 100006] (Niveau 1)\n    ├── Étrier de frein (Niveau 2)\n    │   └── Brake Caliper [ID: 100027] (Niveau 2) → ProductId: 256\n    │       └── Composants (Niveau 4)\n    │           └── Brake Caliper Parts [ID: 100806] (Niveau 3) → ProductId: 256\n    └── Frein à disque (Niveau 2)\n        └── Disc Brake [ID: 100626] (Niveau 2) → ProductId: 256\n            └── Accessoires / composants (Niveau 4)\n                └── Accessories/Parts [ID: 100630] (Niveau 3) → ProductId: 256",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Étrier de frein",
+        "Brake Caliper"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100027
+      ],
+      "finalCategoryId": 100027,
+      "productId": 256
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Frein à disque",
+        "Disc Brake"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100626
+      ],
+      "finalCategoryId": 100626,
+      "productId": 256
+    }
+  ],
+  "productIdsInArbo": [
+    256
+  ],
+  "matchedProductIds": [
+    256
+  ]
+}

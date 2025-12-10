@@ -1,0 +1,97 @@
+{
+  "productName": "Oeil de levier, barre de connexion",
+  "searchText": "Oeil de levier, barre de connexion",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:17:10.944Z",
+  "productId": 388,
+  "arborescence": {
+    "Direction": {
+      "categoryId": 100012,
+      "categoryName": "Direction",
+      "level": 1,
+      "children": {
+        "Barre de connexion / composants": {
+          "categoryId": null,
+          "categoryName": "Barre de connexion / composants",
+          "level": 2,
+          "children": {
+            "Oeil de levier, barre de connexion": {
+              "categoryId": 100601,
+              "categoryName": "Tie Rod Assembly/ Parts",
+              "level": 2,
+              "children": {
+                "Composants de barre de connexion": {
+                  "categoryId": null,
+                  "categoryName": "Composants de barre de connexion",
+                  "level": 4,
+                  "children": {
+                    "Oeil de levier, barre de connexion": {
+                      "categoryId": 100603,
+                      "categoryName": "Parts, tie rod assy.",
+                      "level": 3,
+                      "children": [],
+                      "productId": 388
+                    }
+                  }
+                }
+              },
+              "productId": 388
+            }
+          }
+        },
+        "Pièces de transmission de direction": {
+          "categoryId": null,
+          "categoryName": "Pièces de transmission de direction",
+          "level": 2,
+          "children": {
+            "Oeil de levier, barre de connexion": {
+              "categoryId": 100594,
+              "categoryName": "Steering Linkage",
+              "level": 2,
+              "children": [],
+              "productId": 388
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Direction [ID: 100012] (Niveau 1)\n    ├── Barre de connexion / composants (Niveau 2)\n    │   └── Tie Rod Assembly/ Parts [ID: 100601] (Niveau 2) → ProductId: 388\n    │       └── Composants de barre de connexion (Niveau 4)\n    │           └── Parts, tie rod assy. [ID: 100603] (Niveau 3) → ProductId: 388\n    └── Pièces de transmission de direction (Niveau 2)\n        └── Steering Linkage [ID: 100594] (Niveau 2) → ProductId: 388",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Direction",
+        "Barre de connexion / composants",
+        "Tie Rod Assembly/ Parts"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        100601
+      ],
+      "finalCategoryId": 100601,
+      "productId": 388
+    },
+    {
+      "path": [
+        "Direction",
+        "Pièces de transmission de direction",
+        "Steering Linkage"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        100594
+      ],
+      "finalCategoryId": 100594,
+      "productId": 388
+    }
+  ],
+  "productIdsInArbo": [
+    388
+  ],
+  "matchedProductIds": [
+    388
+  ]
+}

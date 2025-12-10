@@ -1,0 +1,252 @@
+{
+  "productName": "Module-EGR",
+  "searchText": "Module-EGR",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:15:31.078Z",
+  "productId": 4198,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Épuration des gaz d'échappement": {
+          "categoryId": null,
+          "categoryName": "Épuration des gaz d'échappement",
+          "level": 2,
+          "children": {
+            "Kit de réparation, module EGR": {
+              "categoryId": 100790,
+              "categoryName": "Exhaust Emission Control",
+              "level": 2,
+              "children": {
+                "Recyclage des gaz d'échappement": {
+                  "categoryId": null,
+                  "categoryName": "Recyclage des gaz d'échappement",
+                  "level": 4,
+                  "children": {
+                    "Kit de réparation, module EGR": {
+                      "categoryId": 100791,
+                      "categoryName": "Exhaust Gas Recirculation",
+                      "level": 3,
+                      "children": {
+                        "Module-EGR": {
+                          "categoryId": null,
+                          "categoryName": "Module-EGR",
+                          "level": 6,
+                          "children": {
+                            "Kit de réparation, module EGR": {
+                              "categoryId": 102992,
+                              "categoryName": "EGR Module",
+                              "level": 4,
+                              "children": [],
+                              "productId": 60002
+                            }
+                          }
+                        }
+                      },
+                      "productId": 60002
+                    }
+                  }
+                }
+              },
+              "productId": 60002
+            },
+            "Module-EGR": {
+              "categoryId": 100790,
+              "categoryName": "Exhaust Emission Control",
+              "level": 2,
+              "children": {
+                "Recyclage des gaz d'échappement": {
+                  "categoryId": null,
+                  "categoryName": "Recyclage des gaz d'échappement",
+                  "level": 4,
+                  "children": {
+                    "Module-EGR": {
+                      "categoryId": 100791,
+                      "categoryName": "Exhaust Gas Recirculation",
+                      "level": 3,
+                      "children": {
+                        "Module-EGR": {
+                          "categoryId": null,
+                          "categoryName": "Module-EGR",
+                          "level": 6,
+                          "children": {
+                            "Module-EGR": {
+                              "categoryId": 102992,
+                              "categoryName": "EGR Module",
+                              "level": 4,
+                              "children": [],
+                              "productId": 4198
+                            }
+                          }
+                        }
+                      },
+                      "productId": 4198
+                    }
+                  }
+                }
+              },
+              "productId": 4198
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Épuration des gaz d'échappement": {
+          "categoryId": null,
+          "categoryName": "Épuration des gaz d'échappement",
+          "level": 2,
+          "children": {
+            "Kit de réparation, module EGR": {
+              "categoryId": 100541,
+              "categoryName": "Exhaust Emission Control",
+              "level": 2,
+              "children": {
+                "Recyclage des gaz d'échappement": {
+                  "categoryId": null,
+                  "categoryName": "Recyclage des gaz d'échappement",
+                  "level": 4,
+                  "children": {
+                    "Kit de réparation, module EGR": {
+                      "categoryId": 100542,
+                      "categoryName": "Exhaust Gas Recirculation",
+                      "level": 3,
+                      "children": {
+                        "Module-EGR": {
+                          "categoryId": null,
+                          "categoryName": "Module-EGR",
+                          "level": 6,
+                          "children": {
+                            "Kit de réparation, module EGR": {
+                              "categoryId": 102993,
+                              "categoryName": "EGR Module",
+                              "level": 4,
+                              "children": [],
+                              "productId": 60002
+                            }
+                          }
+                        }
+                      },
+                      "productId": 60002
+                    }
+                  }
+                }
+              },
+              "productId": 60002
+            },
+            "Module-EGR": {
+              "categoryId": 100541,
+              "categoryName": "Exhaust Emission Control",
+              "level": 2,
+              "children": {
+                "Recyclage des gaz d'échappement": {
+                  "categoryId": null,
+                  "categoryName": "Recyclage des gaz d'échappement",
+                  "level": 4,
+                  "children": {
+                    "Module-EGR": {
+                      "categoryId": 100542,
+                      "categoryName": "Exhaust Gas Recirculation",
+                      "level": 3,
+                      "children": {
+                        "Module-EGR": {
+                          "categoryId": null,
+                          "categoryName": "Module-EGR",
+                          "level": 6,
+                          "children": {
+                            "Module-EGR": {
+                              "categoryId": 102993,
+                              "categoryName": "EGR Module",
+                              "level": 4,
+                              "children": [],
+                              "productId": 4198
+                            }
+                          }
+                        }
+                      },
+                      "productId": 4198
+                    }
+                  }
+                }
+              },
+              "productId": 4198
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carburation [ID: 100254] (Niveau 1)\n│   └── Épuration des gaz d'échappement (Niveau 2)\n│       ├── Exhaust Emission Control [ID: 100790] (Niveau 2) → ProductId: 60002\n│       │   └── Recyclage des gaz d'échappement (Niveau 4)\n│       │       └── Exhaust Gas Recirculation [ID: 100791] (Niveau 3) → ProductId: 60002\n│       │           └── Module-EGR (Niveau 6)\n│       │               └── EGR Module [ID: 102992] (Niveau 4) → ProductId: 60002\n│       └── Exhaust Emission Control [ID: 100790] (Niveau 2) → ProductId: 4198\n│           └── Recyclage des gaz d'échappement (Niveau 4)\n│               └── Exhaust Gas Recirculation [ID: 100791] (Niveau 3) → ProductId: 4198\n│                   └── Module-EGR (Niveau 6)\n│                       └── EGR Module [ID: 102992] (Niveau 4) → ProductId: 4198\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Épuration des gaz d'échappement (Niveau 2)\n        ├── Exhaust Emission Control [ID: 100541] (Niveau 2) → ProductId: 60002\n        │   └── Recyclage des gaz d'échappement (Niveau 4)\n        │       └── Exhaust Gas Recirculation [ID: 100542] (Niveau 3) → ProductId: 60002\n        │           └── Module-EGR (Niveau 6)\n        │               └── EGR Module [ID: 102993] (Niveau 4) → ProductId: 60002\n        └── Exhaust Emission Control [ID: 100541] (Niveau 2) → ProductId: 4198\n            └── Recyclage des gaz d'échappement (Niveau 4)\n                └── Exhaust Gas Recirculation [ID: 100542] (Niveau 3) → ProductId: 4198\n                    └── Module-EGR (Niveau 6)\n                        └── EGR Module [ID: 102993] (Niveau 4) → ProductId: 4198",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Épuration des gaz d'échappement",
+        "Exhaust Emission Control"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        100790
+      ],
+      "finalCategoryId": 100790,
+      "productId": 60002
+    },
+    {
+      "path": [
+        "Carburation",
+        "Épuration des gaz d'échappement",
+        "Exhaust Emission Control"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        100790
+      ],
+      "finalCategoryId": 100790,
+      "productId": 4198
+    },
+    {
+      "path": [
+        "Moteur",
+        "Épuration des gaz d'échappement",
+        "Exhaust Emission Control"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100541
+      ],
+      "finalCategoryId": 100541,
+      "productId": 60002
+    },
+    {
+      "path": [
+        "Moteur",
+        "Épuration des gaz d'échappement",
+        "Exhaust Emission Control"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100541
+      ],
+      "finalCategoryId": 100541,
+      "productId": 4198
+    }
+  ],
+  "productIdsInArbo": [
+    4198,
+    60002
+  ],
+  "matchedProductIds": [
+    4198
+  ]
+}

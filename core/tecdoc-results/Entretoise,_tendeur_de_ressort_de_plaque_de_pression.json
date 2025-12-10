@@ -1,0 +1,104 @@
+{
+  "productName": "Entretoise, tendeur de ressort de plaque de pression",
+  "searchText": "Entretoise, tendeur de ressort de plaque de pression",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:37:16.043Z",
+  "productId": 7118,
+  "arborescence": {
+    "Outils spéciaux": {
+      "categoryId": 706365,
+      "categoryName": "Outils spéciaux",
+      "level": 1,
+      "children": {
+        "Outils spéciaux suspension/amortissement": {
+          "categoryId": null,
+          "categoryName": "Outils spéciaux suspension/amortissement",
+          "level": 2,
+          "children": {
+            "Entretoise, tendeur de ressort de plaque de pression": {
+              "categoryId": 706386,
+              "categoryName": "Suspension/Damping Special Tools",
+              "level": 2,
+              "children": {
+                "Compresseur de ressort hélicoïdal": {
+                  "categoryId": null,
+                  "categoryName": "Compresseur de ressort hélicoïdal",
+                  "level": 4,
+                  "children": {
+                    "Entretoise, tendeur de ressort de plaque de pression": {
+                      "categoryId": 706387,
+                      "categoryName": "Spring Compressor",
+                      "level": 3,
+                      "children": [],
+                      "productId": 7118
+                    }
+                  }
+                }
+              },
+              "productId": 7118
+            }
+          }
+        }
+      }
+    },
+    "Suspension/Amortissement": {
+      "categoryId": 100011,
+      "categoryName": "Suspension/Amortissement",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Entretoise, tendeur de ressort de plaque de pression": {
+              "categoryId": 104406,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 7118
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Outils spéciaux [ID: 706365] (Niveau 1)\n│   └── Outils spéciaux suspension/amortissement (Niveau 2)\n│       └── Suspension/Damping Special Tools [ID: 706386] (Niveau 2) → ProductId: 7118\n│           └── Compresseur de ressort hélicoïdal (Niveau 4)\n│               └── Spring Compressor [ID: 706387] (Niveau 3) → ProductId: 7118\n\n└── Suspension/Amortissement [ID: 100011] (Niveau 1)\n    └── Outils (Niveau 2)\n        └── Tools [ID: 104406] (Niveau 2) → ProductId: 7118",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Outils spéciaux",
+        "Outils spéciaux suspension/amortissement",
+        "Suspension/Damping Special Tools"
+      ],
+      "categoryIds": [
+        706365,
+        null,
+        706386
+      ],
+      "finalCategoryId": 706386,
+      "productId": 7118
+    },
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        104406
+      ],
+      "finalCategoryId": 104406,
+      "productId": 7118
+    }
+  ],
+  "productIdsInArbo": [
+    7118
+  ],
+  "matchedProductIds": [
+    7118
+  ]
+}

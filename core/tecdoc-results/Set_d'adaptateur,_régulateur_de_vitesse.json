@@ -1,0 +1,54 @@
+{
+  "productName": "Set d'adaptateur, régulateur de vitesse",
+  "searchText": "Set d'adaptateur, régulateur de vitesse",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:15:51.629Z",
+  "productId": 1398,
+  "arborescence": {
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Régulateur de vitesse": {
+          "categoryId": null,
+          "categoryName": "Régulateur de vitesse",
+          "level": 2,
+          "children": {
+            "Set d'adaptateur, régulateur de vitesse": {
+              "categoryId": 100615,
+              "categoryName": "Cruise Control",
+              "level": 2,
+              "children": [],
+              "productId": 1398
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Systèmes de confort [ID: 100335] (Niveau 1)\n    └── Régulateur de vitesse (Niveau 2)\n        └── Cruise Control [ID: 100615] (Niveau 2) → ProductId: 1398",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Systèmes de confort",
+        "Régulateur de vitesse",
+        "Cruise Control"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        100615
+      ],
+      "finalCategoryId": 100615,
+      "productId": 1398
+    }
+  ],
+  "productIdsInArbo": [
+    1398
+  ],
+  "matchedProductIds": [
+    1398
+  ]
+}

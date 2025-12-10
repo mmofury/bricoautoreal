@@ -1,0 +1,64 @@
+{
+  "productName": "Écrou, essieu amortisseur à ressorts",
+  "productId": 3690,
+  "searchText": "Écrou, essieu amortisseur à ressorts",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Suspension/Amortissement": {
+          "categoryId": 200060,
+          "categoryName": "Suspension/Amortissement",
+          "level": 1,
+          "children": {
+            "Suspension sur ressorts à lames": {
+              "categoryId": null,
+              "categoryName": "Suspension sur ressorts à lames",
+              "level": 2,
+              "children": {
+                "Écrou, essieu amortisseur à ressorts": {
+                  "categoryId": 200424,
+                  "categoryName": "Leaf Spring Suspension",
+                  "level": 2,
+                  "children": {
+                    "Suspension de ressort / accessoires": {
+                      "categoryId": null,
+                      "categoryName": "Suspension de ressort / accessoires",
+                      "level": 4,
+                      "children": {
+                        "Écrou, essieu amortisseur à ressorts": {
+                          "categoryId": 200882,
+                          "categoryName": "Spring Mounting/ Parts",
+                          "level": 3,
+                          "children": [],
+                          "productId": 3690
+                        }
+                      }
+                    }
+                  },
+                  "productId": 3690
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Suspension/Amortissement [ID: 200060] (Niveau 1)\n    └── Suspension sur ressorts à lames (Niveau 2)\n        └── Leaf Spring Suspension [ID: 200424] (Niveau 2) → ProductId: 3690\n            └── Suspension de ressort / accessoires (Niveau 4)\n                └── Spring Mounting/ Parts [ID: 200882] (Niveau 3) → ProductId: 3690",
+      "productIdsInArbo": [
+        3690
+      ],
+      "matchedProductIds": [
+        3690
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:47:54.993Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

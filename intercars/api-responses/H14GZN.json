@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H14GZN",
+      "index": "ELB50960",
+      "tecDoc": "B50.960",
+      "tecDocProd": "10",
+      "articleNumber": "B50.960",
+      "brand": "ELRING",
+      "shortDescription": "Cartridge Gun",
+      "description": "Jet wash gun",
+      "customsCode": "84242000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_6896",
+          "primary": false,
+          "name": {
+            "en": "Press-out gun"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_9550",
+          "primary": true,
+          "name": {
+            "en": "Cartridge Gun"
+          }
+        }
+      ]
+    }
+  ]
+}

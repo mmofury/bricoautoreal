@@ -1,0 +1,190 @@
+{
+  "productName": "Fixation de ressort",
+  "searchText": "Fixation de ressort",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:40:36.322Z",
+  "productId": 1184,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Arrière de la voiture": {
+          "categoryId": null,
+          "categoryName": "Arrière de la voiture",
+          "level": 2,
+          "children": {
+            "Fixation de ressort": {
+              "categoryId": 101705,
+              "categoryName": "Vehicle Rear",
+              "level": 2,
+              "children": {
+                "Passage de roue": {
+                  "categoryId": null,
+                  "categoryName": "Passage de roue",
+                  "level": 4,
+                  "children": {
+                    "Fixation de ressort": {
+                      "categoryId": 101710,
+                      "categoryName": "Wheelhouse",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1184
+                    }
+                  }
+                }
+              },
+              "productId": 1184
+            }
+          }
+        },
+        "Avant du véhicule": {
+          "categoryId": null,
+          "categoryName": "Avant du véhicule",
+          "level": 2,
+          "children": {
+            "Fixation de ressort": {
+              "categoryId": 101648,
+              "categoryName": "Vehicle Front",
+              "level": 2,
+              "children": {
+                "Passage de roue": {
+                  "categoryId": null,
+                  "categoryName": "Passage de roue",
+                  "level": 4,
+                  "children": {
+                    "Fixation de ressort": {
+                      "categoryId": 101652,
+                      "categoryName": "Wheelhouse",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1184
+                    }
+                  }
+                }
+              },
+              "productId": 1184
+            }
+          }
+        },
+        "Pièces de carrosserie/ailes/pares-chocs": {
+          "categoryId": null,
+          "categoryName": "Pièces de carrosserie/ailes/pares-chocs",
+          "level": 2,
+          "children": {
+            "Fixation de ressort": {
+              "categoryId": 100743,
+              "categoryName": "Body Parts/Wing/Bumper",
+              "level": 2,
+              "children": {
+                "Passage de roue": {
+                  "categoryId": null,
+                  "categoryName": "Passage de roue",
+                  "level": 4,
+                  "children": {
+                    "Fixation de ressort": {
+                      "categoryId": 100165,
+                      "categoryName": "Wheelhouse",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1184
+                    }
+                  }
+                }
+              },
+              "productId": 1184
+            }
+          }
+        }
+      }
+    },
+    "Suspension/Amortissement": {
+      "categoryId": 100011,
+      "categoryName": "Suspension/Amortissement",
+      "level": 1,
+      "children": {
+        "Suspension": {
+          "categoryId": null,
+          "categoryName": "Suspension",
+          "level": 2,
+          "children": {
+            "Fixation de ressort": {
+              "categoryId": 100113,
+              "categoryName": "Coil Springs",
+              "level": 2,
+              "children": [],
+              "productId": 1184
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carrosserie [ID: 100001] (Niveau 1)\n│   ├── Arrière de la voiture (Niveau 2)\n│   │   └── Vehicle Rear [ID: 101705] (Niveau 2) → ProductId: 1184\n│   │       └── Passage de roue (Niveau 4)\n│   │           └── Wheelhouse [ID: 101710] (Niveau 3) → ProductId: 1184\n│   ├── Avant du véhicule (Niveau 2)\n│   │   └── Vehicle Front [ID: 101648] (Niveau 2) → ProductId: 1184\n│   │       └── Passage de roue (Niveau 4)\n│   │           └── Wheelhouse [ID: 101652] (Niveau 3) → ProductId: 1184\n│   └── Pièces de carrosserie/ailes/pares-chocs (Niveau 2)\n│       └── Body Parts/Wing/Bumper [ID: 100743] (Niveau 2) → ProductId: 1184\n│           └── Passage de roue (Niveau 4)\n│               └── Wheelhouse [ID: 100165] (Niveau 3) → ProductId: 1184\n\n└── Suspension/Amortissement [ID: 100011] (Niveau 1)\n    └── Suspension (Niveau 2)\n        └── Coil Springs [ID: 100113] (Niveau 2) → ProductId: 1184",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Vehicle Rear"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101705
+      ],
+      "finalCategoryId": 101705,
+      "productId": 1184
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Avant du véhicule",
+        "Vehicle Front"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101648
+      ],
+      "finalCategoryId": 101648,
+      "productId": 1184
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Pièces de carrosserie/ailes/pares-chocs",
+        "Body Parts/Wing/Bumper"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100743
+      ],
+      "finalCategoryId": 100743,
+      "productId": 1184
+    },
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Suspension",
+        "Coil Springs"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        100113
+      ],
+      "finalCategoryId": 100113,
+      "productId": 1184
+    }
+  ],
+  "productIdsInArbo": [
+    1184
+  ],
+  "matchedProductIds": [
+    1184
+  ]
+}

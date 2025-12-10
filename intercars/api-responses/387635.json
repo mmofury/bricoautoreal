@@ -1,0 +1,36 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "387635",
+      "index": "VAL84160",
+      "tecDoc": "084160",
+      "tecDocProd": "21",
+      "articleNumber": "084160",
+      "brand": "VALEO",
+      "shortDescription": "Emergency lighting (rotating light)",
+      "description": "Beacon assembly kit, plastic, magnetic fitting",
+      "packageWeight": "0,800",
+      "customsCode": "85129090",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1171",
+          "primary": false,
+          "name": {
+            "en": "Holder, rotating beacon"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_92176",
+          "primary": true,
+          "name": {
+            "en": "Emergency lighting (rotating light)"
+          }
+        }
+      ]
+    }
+  ]
+}

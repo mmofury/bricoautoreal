@@ -1,0 +1,57 @@
+{
+  "productName": "Porte-vélo, support du dispositif d'attelage",
+  "searchText": "Porte-vélo, support du dispositif d'attelage",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-03T07:03:13.281Z",
+  "productId": 4216,
+  "arborescence": {
+    "Portes-bagages": {
+      "categoryId": 100343,
+      "categoryName": "Portes-bagages",
+      "level": 1,
+      "children": {
+        "Porte-vélo": {
+          "categoryId": null,
+          "categoryName": "Porte-vélo",
+          "level": 2,
+          "children": {
+            "Porte-vélo, support du dispositif d'attelage": {
+              "categoryId": 103009,
+              "categoryName": "Coupling Carrier",
+              "level": 2,
+              "children": [],
+              "productId": 4232
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Portes-bagages [ID: 100343] (Niveau 1)\n    └── Porte-vélo (Niveau 2)\n        └── Coupling Carrier [ID: 103009] (Niveau 2) → ProductId: 4232",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Portes-bagages",
+        "Porte-vélo",
+        "Coupling Carrier"
+      ],
+      "categoryIds": [
+        100343,
+        null,
+        103009
+      ],
+      "finalCategoryId": 103009,
+      "productId": 4232
+    }
+  ],
+  "productIdsInArbo": [
+    4232
+  ],
+  "closestProductIds": [
+    {
+      "productId": 4232,
+      "productName": "Porte-vélo, support du dispositif d'attelage"
+    }
+  ]
+}

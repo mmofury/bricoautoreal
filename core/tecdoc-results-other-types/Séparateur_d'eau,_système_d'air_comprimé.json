@@ -1,0 +1,64 @@
+{
+  "productName": "Séparateur d'eau, système d'air comprimé",
+  "productId": 337,
+  "searchText": "Séparateur d'eau, système d'air comprimé",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Système pneumatique": {
+          "categoryId": 200059,
+          "categoryName": "Système pneumatique",
+          "level": 1,
+          "children": {
+            "Réservoir d'air / accessoires": {
+              "categoryId": null,
+              "categoryName": "Réservoir d'air / accessoires",
+              "level": 2,
+              "children": {
+                "Séparateur d'eau, système d'air comprimé": {
+                  "categoryId": 200114,
+                  "categoryName": "Air Tank/Accessories",
+                  "level": 2,
+                  "children": {
+                    "Séparateur d'eau": {
+                      "categoryId": null,
+                      "categoryName": "Séparateur d'eau",
+                      "level": 4,
+                      "children": {
+                        "Séparateur d'eau, système d'air comprimé": {
+                          "categoryId": 200454,
+                          "categoryName": "Water Separator",
+                          "level": 3,
+                          "children": [],
+                          "productId": 337
+                        }
+                      }
+                    }
+                  },
+                  "productId": 337
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système pneumatique [ID: 200059] (Niveau 1)\n    └── Réservoir d'air / accessoires (Niveau 2)\n        └── Air Tank/Accessories [ID: 200114] (Niveau 2) → ProductId: 337\n            └── Séparateur d'eau (Niveau 4)\n                └── Water Separator [ID: 200454] (Niveau 3) → ProductId: 337",
+      "productIdsInArbo": [
+        337
+      ],
+      "matchedProductIds": [
+        337
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:38:17.426Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "productName": "Soupape, système de frein continu",
+  "productId": 1737,
+  "searchText": "Soupape, système de frein continu",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Système pneumatique": {
+          "categoryId": 200059,
+          "categoryName": "Système pneumatique",
+          "level": 1,
+          "children": {
+            "Soupapes / Système d'air comprimé": {
+              "categoryId": null,
+              "categoryName": "Soupapes / Système d'air comprimé",
+              "level": 2,
+              "children": {
+                "Soupape, système de frein continu": {
+                  "categoryId": 200115,
+                  "categoryName": "Valves/compressed-air system",
+                  "level": 2,
+                  "children": {
+                    "Soupapes diverses": {
+                      "categoryId": null,
+                      "categoryName": "Soupapes diverses",
+                      "level": 4,
+                      "children": {
+                        "Soupape, système de frein continu": {
+                          "categoryId": 200916,
+                          "categoryName": "Other Valves",
+                          "level": 3,
+                          "children": [],
+                          "productId": 1737
+                        }
+                      }
+                    }
+                  },
+                  "productId": 1737
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système pneumatique [ID: 200059] (Niveau 1)\n    └── Soupapes / Système d'air comprimé (Niveau 2)\n        └── Valves/compressed-air system [ID: 200115] (Niveau 2) → ProductId: 1737\n            └── Soupapes diverses (Niveau 4)\n                └── Other Valves [ID: 200916] (Niveau 3) → ProductId: 1737",
+      "productIdsInArbo": [
+        1737
+      ],
+      "matchedProductIds": [
+        1737
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:31:58.485Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

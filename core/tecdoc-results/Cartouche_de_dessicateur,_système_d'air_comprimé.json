@@ -1,0 +1,54 @@
+{
+  "productName": "Cartouche de dessicateur, système d'air comprimé",
+  "searchText": "Cartouche de dessicateur, système d'air comprimé",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:18:39.886Z",
+  "productId": 340,
+  "arborescence": {
+    "Système pneumatique": {
+      "categoryId": 103168,
+      "categoryName": "Système pneumatique",
+      "level": 1,
+      "children": {
+        "Dessicateur d'air / cartouche": {
+          "categoryId": null,
+          "categoryName": "Dessicateur d'air / cartouche",
+          "level": 2,
+          "children": {
+            "Cartouche de dessicateur, système d'air comprimé": {
+              "categoryId": 103171,
+              "categoryName": "Air Dryer/Cartridge",
+              "level": 2,
+              "children": [],
+              "productId": 340
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système pneumatique [ID: 103168] (Niveau 1)\n    └── Dessicateur d'air / cartouche (Niveau 2)\n        └── Air Dryer/Cartridge [ID: 103171] (Niveau 2) → ProductId: 340",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système pneumatique",
+        "Dessicateur d'air / cartouche",
+        "Air Dryer/Cartridge"
+      ],
+      "categoryIds": [
+        103168,
+        null,
+        103171
+      ],
+      "finalCategoryId": 103171,
+      "productId": 340
+    }
+  ],
+  "productIdsInArbo": [
+    340
+  ],
+  "matchedProductIds": [
+    340
+  ]
+}

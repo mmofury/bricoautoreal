@@ -1,0 +1,69 @@
+{
+  "productName": "Bouchon, réservoir de liquide de refroidissement",
+  "searchText": "Bouchon, réservoir de liquide de refroidissement",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:08:46.859Z",
+  "productId": 56,
+  "arborescence": {
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Radiateur d'eau/d'huile": {
+          "categoryId": null,
+          "categoryName": "Radiateur d'eau/d'huile",
+          "level": 2,
+          "children": {
+            "Bouchon, réservoir de liquide de refroidissement": {
+              "categoryId": 100102,
+              "categoryName": "Radiator/Oil Cooler",
+              "level": 2,
+              "children": {
+                "Vase d'expansion": {
+                  "categoryId": null,
+                  "categoryName": "Vase d'expansion",
+                  "level": 4,
+                  "children": {
+                    "Bouchon, réservoir de liquide de refroidissement": {
+                      "categoryId": 100112,
+                      "categoryName": "Expansion Tank",
+                      "level": 3,
+                      "children": [],
+                      "productId": 56
+                    }
+                  }
+                }
+              },
+              "productId": 56
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Refroidissement [ID: 100007] (Niveau 1)\n    └── Radiateur d'eau/d'huile (Niveau 2)\n        └── Radiator/Oil Cooler [ID: 100102] (Niveau 2) → ProductId: 56\n            └── Vase d'expansion (Niveau 4)\n                └── Expansion Tank [ID: 100112] (Niveau 3) → ProductId: 56",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Refroidissement",
+        "Radiateur d'eau/d'huile",
+        "Radiator/Oil Cooler"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100102
+      ],
+      "finalCategoryId": 100102,
+      "productId": 56
+    }
+  ],
+  "productIdsInArbo": [
+    56
+  ],
+  "matchedProductIds": [
+    56
+  ]
+}

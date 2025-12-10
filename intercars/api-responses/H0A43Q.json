@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H0A43Q",
+      "index": "V98-65030",
+      "tecDoc": "V98-65030",
+      "tecDocProd": "162",
+      "articleNumber": "V98-65030",
+      "brand": "VAICO",
+      "shortDescription": "Jack",
+      "description": "Lift",
+      "customsCode": "84254200",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_91702",
+          "primary": false,
+          "name": {
+            "en": "Portable hoists, cranes, stands, beams"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_60711",
+          "primary": true,
+          "name": {
+            "en": "Jack"
+          }
+        }
+      ]
+    }
+  ]
+}

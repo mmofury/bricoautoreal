@@ -1,0 +1,169 @@
+{
+  "productName": "Roue dentée, arbre à contrepoids d'équilibrage",
+  "searchText": "Roue dentée, arbre à contrepoids d'équilibrage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:12:23.297Z",
+  "productId": 580,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Carter de vilebrequin": {
+          "categoryId": null,
+          "categoryName": "Carter de vilebrequin",
+          "level": 2,
+          "children": {
+            "Roue dentée, arbre à contrepoids d'équilibrage": {
+              "categoryId": 100514,
+              "categoryName": "Crankcase",
+              "level": 2,
+              "children": {
+                "Arbre intermédiaire/arbre à contrepoids d'équilibrage": {
+                  "categoryId": null,
+                  "categoryName": "Arbre intermédiaire/arbre à contrepoids d'équilibrage",
+                  "level": 4,
+                  "children": {
+                    "Roue dentée, arbre à contrepoids d'équilibrage": {
+                      "categoryId": 105860,
+                      "categoryName": "Intermediate/Balance Shaft",
+                      "level": 3,
+                      "children": [],
+                      "productId": 580
+                    }
+                  }
+                }
+              },
+              "productId": 580
+            }
+          }
+        },
+        "Distribution moteur": {
+          "categoryId": null,
+          "categoryName": "Distribution moteur",
+          "level": 2,
+          "children": {
+            "Roue dentée, arbre à contrepoids d'équilibrage": {
+              "categoryId": 100003,
+              "categoryName": "Engine Timing",
+              "level": 2,
+              "children": {
+                "Pignon droit": {
+                  "categoryId": null,
+                  "categoryName": "Pignon droit",
+                  "level": 4,
+                  "children": {
+                    "Roue dentée, arbre à contrepoids d'équilibrage": {
+                      "categoryId": 100425,
+                      "categoryName": "Timing Gear",
+                      "level": 3,
+                      "children": [],
+                      "productId": 580
+                    }
+                  }
+                },
+                "roues dentées": {
+                  "categoryId": null,
+                  "categoryName": "roues dentées",
+                  "level": 4,
+                  "children": {
+                    "Roue dentée, arbre à contrepoids d'équilibrage": {
+                      "categoryId": 101833,
+                      "categoryName": "Timing Gears",
+                      "level": 3,
+                      "children": [],
+                      "productId": 580
+                    }
+                  }
+                }
+              },
+              "productId": 580
+            }
+          }
+        },
+        "Système bielle-manivelle": {
+          "categoryId": null,
+          "categoryName": "Système bielle-manivelle",
+          "level": 2,
+          "children": {
+            "Roue dentée, arbre à contrepoids d'équilibrage": {
+              "categoryId": 100515,
+              "categoryName": "Crankshaft Drive",
+              "level": 2,
+              "children": {
+                "Arbre intermédiaire/arbre à contrepoids d'équilibrage": {
+                  "categoryId": null,
+                  "categoryName": "Arbre intermédiaire/arbre à contrepoids d'équilibrage",
+                  "level": 4,
+                  "children": {
+                    "Roue dentée, arbre à contrepoids d'équilibrage": {
+                      "categoryId": 103120,
+                      "categoryName": "Intermediate/Balance Shaft",
+                      "level": 3,
+                      "children": [],
+                      "productId": 580
+                    }
+                  }
+                }
+              },
+              "productId": 580
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    ├── Carter de vilebrequin (Niveau 2)\n    │   └── Crankcase [ID: 100514] (Niveau 2) → ProductId: 580\n    │       └── Arbre intermédiaire/arbre à contrepoids d'équilibrage (Niveau 4)\n    │           └── Intermediate/Balance Shaft [ID: 105860] (Niveau 3) → ProductId: 580\n    ├── Distribution moteur (Niveau 2)\n    │   └── Engine Timing [ID: 100003] (Niveau 2) → ProductId: 580\n    │       ├── Pignon droit (Niveau 4)\n    │       │   └── Timing Gear [ID: 100425] (Niveau 3) → ProductId: 580\n    │       └── roues dentées (Niveau 4)\n    │           └── Timing Gears [ID: 101833] (Niveau 3) → ProductId: 580\n    └── Système bielle-manivelle (Niveau 2)\n        └── Crankshaft Drive [ID: 100515] (Niveau 2) → ProductId: 580\n            └── Arbre intermédiaire/arbre à contrepoids d'équilibrage (Niveau 4)\n                └── Intermediate/Balance Shaft [ID: 103120] (Niveau 3) → ProductId: 580",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Carter de vilebrequin",
+        "Crankcase"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100514
+      ],
+      "finalCategoryId": 100514,
+      "productId": 580
+    },
+    {
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Engine Timing"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100003
+      ],
+      "finalCategoryId": 100003,
+      "productId": 580
+    },
+    {
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Crankshaft Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100515
+      ],
+      "finalCategoryId": 100515,
+      "productId": 580
+    }
+  ],
+  "productIdsInArbo": [
+    580
+  ],
+  "matchedProductIds": [
+    580
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Kit de réparation, jambe de guidage",
+  "searchText": "Kit de réparation, jambe de guidage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:05:13.503Z",
+  "productId": 769,
+  "arborescence": {
+    "Suspension d'essieu/Guidage des roues/Roues": {
+      "categoryId": 100013,
+      "categoryName": "Suspension d'essieu/Guidage des roues/Roues",
+      "level": 1,
+      "children": {
+        "Jambes de force / barres": {
+          "categoryId": null,
+          "categoryName": "Jambes de force / barres",
+          "level": 2,
+          "children": {
+            "Kit de réparation, jambe de guidage": {
+              "categoryId": 100209,
+              "categoryName": "Struts/Rods",
+              "level": 2,
+              "children": [],
+              "productId": 769
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Suspension d'essieu/Guidage des roues/Roues [ID: 100013] (Niveau 1)\n    └── Jambes de force / barres (Niveau 2)\n        └── Struts/Rods [ID: 100209] (Niveau 2) → ProductId: 769",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Jambes de force / barres",
+        "Struts/Rods"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        100209
+      ],
+      "finalCategoryId": 100209,
+      "productId": 769
+    }
+  ],
+  "productIdsInArbo": [
+    769
+  ],
+  "matchedProductIds": [
+    769
+  ]
+}

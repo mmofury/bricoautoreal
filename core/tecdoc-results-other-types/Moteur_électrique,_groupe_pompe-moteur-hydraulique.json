@@ -1,0 +1,49 @@
+{
+  "productName": "Moteur électrique, groupe pompe-moteur-hydraulique",
+  "productId": 4068,
+  "searchText": "Moteur électrique, groupe pompe-moteur-hydraulique",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Système hydraulique": {
+          "categoryId": 200066,
+          "categoryName": "Système hydraulique",
+          "level": 1,
+          "children": {
+            "Groupe pompe-moteur": {
+              "categoryId": null,
+              "categoryName": "Groupe pompe-moteur",
+              "level": 2,
+              "children": {
+                "Moteur électrique, groupe pompe-moteur-hydraulique": {
+                  "categoryId": 202925,
+                  "categoryName": "Pump Unit",
+                  "level": 2,
+                  "children": [],
+                  "productId": 4068
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système hydraulique [ID: 200066] (Niveau 1)\n    └── Groupe pompe-moteur (Niveau 2)\n        └── Pump Unit [ID: 202925] (Niveau 2) → ProductId: 4068",
+      "productIdsInArbo": [
+        4068
+      ],
+      "matchedProductIds": [
+        4068
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:57:25.195Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

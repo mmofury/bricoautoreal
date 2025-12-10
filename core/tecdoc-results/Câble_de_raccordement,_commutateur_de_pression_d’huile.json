@@ -1,0 +1,97 @@
+{
+  "productName": "Câble de raccordement, commutateur de pression d’huile",
+  "searchText": "Câble de raccordement, commutateur de pression d’huile",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:29:51.233Z",
+  "productId": 9385,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Circuit électrique du moteur": {
+          "categoryId": null,
+          "categoryName": "Circuit électrique du moteur",
+          "level": 2,
+          "children": {
+            "Câble de raccordement, commutateur de pression d’huile": {
+              "categoryId": 100754,
+              "categoryName": "Engine Electrics",
+              "level": 2,
+              "children": [],
+              "productId": 9385
+            }
+          }
+        },
+        "Lubrification": {
+          "categoryId": null,
+          "categoryName": "Lubrification",
+          "level": 2,
+          "children": {
+            "Câble de raccordement, commutateur de pression d’huile": {
+              "categoryId": 100245,
+              "categoryName": "Lubrication",
+              "level": 2,
+              "children": {
+                "Indicateur de pression d'huile / capteur / soupape": {
+                  "categoryId": null,
+                  "categoryName": "Indicateur de pression d'huile / capteur / soupape",
+                  "level": 4,
+                  "children": {
+                    "Câble de raccordement, commutateur de pression d’huile": {
+                      "categoryId": 100478,
+                      "categoryName": "Oil Pressure Switch/Sensor/Valve",
+                      "level": 3,
+                      "children": [],
+                      "productId": 9385
+                    }
+                  }
+                }
+              },
+              "productId": 9385
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    ├── Circuit électrique du moteur (Niveau 2)\n    │   └── Engine Electrics [ID: 100754] (Niveau 2) → ProductId: 9385\n    └── Lubrification (Niveau 2)\n        └── Lubrication [ID: 100245] (Niveau 2) → ProductId: 9385\n            └── Indicateur de pression d'huile / capteur / soupape (Niveau 4)\n                └── Oil Pressure Switch/Sensor/Valve [ID: 100478] (Niveau 3) → ProductId: 9385",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Circuit électrique du moteur",
+        "Engine Electrics"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100754
+      ],
+      "finalCategoryId": 100754,
+      "productId": 9385
+    },
+    {
+      "path": [
+        "Moteur",
+        "Lubrification",
+        "Lubrication"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100245
+      ],
+      "finalCategoryId": 100245,
+      "productId": 9385
+    }
+  ],
+  "productIdsInArbo": [
+    9385
+  ],
+  "matchedProductIds": [
+    9385
+  ]
+}

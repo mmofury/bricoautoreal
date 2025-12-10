@@ -1,0 +1,89 @@
+{
+  "productName": "Kit réparation de câble, capteur d'aide au stationnement",
+  "searchText": "Kit réparation de câble, capteur d'aide au stationnement",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:09:09.938Z",
+  "productId": 7308,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Capteurs": {
+          "categoryId": null,
+          "categoryName": "Capteurs",
+          "level": 2,
+          "children": {
+            "Kit réparation de câble, capteur d'aide au stationnement": {
+              "categoryId": 102747,
+              "categoryName": "Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 7308
+            }
+          }
+        }
+      }
+    },
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Aide au stationnement/Alarme de marche arrière": {
+          "categoryId": null,
+          "categoryName": "Aide au stationnement/Alarme de marche arrière",
+          "level": 2,
+          "children": {
+            "Kit réparation de câble, capteur d'aide au stationnement": {
+              "categoryId": 100618,
+              "categoryName": "park distance control/Back-up Alarm",
+              "level": 2,
+              "children": [],
+              "productId": 7308
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Système électrique [ID: 100010] (Niveau 1)\n│   └── Capteurs (Niveau 2)\n│       └── Sensors [ID: 102747] (Niveau 2) → ProductId: 7308\n\n└── Systèmes de confort [ID: 100335] (Niveau 1)\n    └── Aide au stationnement/Alarme de marche arrière (Niveau 2)\n        └── park distance control/Back-up Alarm [ID: 100618] (Niveau 2) → ProductId: 7308",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Capteurs",
+        "Sensors"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        102747
+      ],
+      "finalCategoryId": 102747,
+      "productId": 7308
+    },
+    {
+      "path": [
+        "Systèmes de confort",
+        "Aide au stationnement/Alarme de marche arrière",
+        "park distance control/Back-up Alarm"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        100618
+      ],
+      "finalCategoryId": 100618,
+      "productId": 7308
+    }
+  ],
+  "productIdsInArbo": [
+    7308
+  ],
+  "matchedProductIds": [
+    7308
+  ]
+}

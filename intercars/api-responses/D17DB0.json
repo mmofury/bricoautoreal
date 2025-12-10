@@ -1,0 +1,40 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "D17DB0",
+      "index": "MER A1333V3324",
+      "tecDoc": "A1333V3324",
+      "tecDocProd": "349",
+      "articleNumber": "A1333V3324",
+      "brand": "MERITOR",
+      "shortDescription": "Wheel hub",
+      "description": "",
+      "gtuCode": "GTU_07",
+      "packageWeight": "20,620",
+      "packageWidth": "41,000",
+      "packageDepth": "57,000",
+      "packageHeight": "34,000",
+      "customsCode": "87087099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_653",
+          "primary": true,
+          "name": {
+            "en": "Wheel hub"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_5114",
+          "primary": false,
+          "name": {
+            "en": "Cover, wheel hub"
+          }
+        }
+      ]
+    }
+  ]
+}

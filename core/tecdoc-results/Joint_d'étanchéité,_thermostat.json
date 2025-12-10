@@ -1,0 +1,119 @@
+{
+  "productName": "Joint d'étanchéité, thermostat",
+  "searchText": "Joint d'étanchéité, thermostat",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:53:36.139Z",
+  "productId": 139,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Joints": {
+          "categoryId": null,
+          "categoryName": "Joints",
+          "level": 2,
+          "children": {
+            "Joint d'étanchéité, thermostat": {
+              "categoryId": 100223,
+              "categoryName": "Gaskets",
+              "level": 2,
+              "children": {
+                "Joint d'eau de refroidissement": {
+                  "categoryId": null,
+                  "categoryName": "Joint d'eau de refroidissement",
+                  "level": 4,
+                  "children": {
+                    "Joint d'étanchéité, thermostat": {
+                      "categoryId": 100683,
+                      "categoryName": "Coolant Circuit Seals",
+                      "level": 3,
+                      "children": [],
+                      "productId": 139
+                    }
+                  }
+                }
+              },
+              "productId": 139
+            }
+          }
+        }
+      }
+    },
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Joint/Thermostat": {
+          "categoryId": null,
+          "categoryName": "Joint/Thermostat",
+          "level": 2,
+          "children": {
+            "Joint d'étanchéité, thermostat": {
+              "categoryId": 100094,
+              "categoryName": "Thermostat/Seal",
+              "level": 2,
+              "children": {
+                "Joint": {
+                  "categoryId": null,
+                  "categoryName": "Joint",
+                  "level": 4,
+                  "children": {
+                    "Joint d'étanchéité, thermostat": {
+                      "categoryId": 100096,
+                      "categoryName": "Seal",
+                      "level": 3,
+                      "children": [],
+                      "productId": 139
+                    }
+                  }
+                }
+              },
+              "productId": 139
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Moteur [ID: 100002] (Niveau 1)\n│   └── Joints (Niveau 2)\n│       └── Gaskets [ID: 100223] (Niveau 2) → ProductId: 139\n│           └── Joint d'eau de refroidissement (Niveau 4)\n│               └── Coolant Circuit Seals [ID: 100683] (Niveau 3) → ProductId: 139\n\n└── Refroidissement [ID: 100007] (Niveau 1)\n    └── Joint/Thermostat (Niveau 2)\n        └── Thermostat/Seal [ID: 100094] (Niveau 2) → ProductId: 139\n            └── Joint (Niveau 4)\n                └── Seal [ID: 100096] (Niveau 3) → ProductId: 139",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Joints",
+        "Gaskets"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100223
+      ],
+      "finalCategoryId": 100223,
+      "productId": 139
+    },
+    {
+      "path": [
+        "Refroidissement",
+        "Joint/Thermostat",
+        "Thermostat/Seal"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100094
+      ],
+      "finalCategoryId": 100094,
+      "productId": 139
+    }
+  ],
+  "productIdsInArbo": [
+    139
+  ],
+  "matchedProductIds": [
+    139
+  ]
+}

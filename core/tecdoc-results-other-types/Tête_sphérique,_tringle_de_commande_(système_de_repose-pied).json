@@ -1,0 +1,69 @@
+{
+  "productName": "Tête sphérique, tringle de commande (système de repose-pied)",
+  "productId": 8133,
+  "searchText": "Tête sphérique, tringle de commande (système de repose-pied)",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 3,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Moto": {
+          "categoryId": 103671,
+          "categoryName": "Moto",
+          "level": 1,
+          "children": {
+            "Système de repose-pied": {
+              "categoryId": null,
+              "categoryName": "Système de repose-pied",
+              "level": 2,
+              "children": {
+                "Tête sphérique, tringle de commande (système de repose-pied)": {
+                  "categoryId": 103691,
+                  "categoryName": "Footrest System",
+                  "level": 2,
+                  "children": {
+                    "Tringle de commande/rallonge de tringle de commande": {
+                      "categoryId": null,
+                      "categoryName": "Tringle de commande/rallonge de tringle de commande",
+                      "level": 4,
+                      "children": {
+                        "Tête sphérique, tringle de commande (système de repose-pied)": {
+                          "categoryId": 706033,
+                          "categoryName": "Shift Rod/Shift Rod Extension",
+                          "level": 3,
+                          "children": [],
+                          "productId": 8133
+                        }
+                      }
+                    }
+                  },
+                  "productId": 8133
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Moto [ID: 103671] (Niveau 1)\n    └── Système de repose-pied (Niveau 2)\n        └── Footrest System [ID: 103691] (Niveau 2) → ProductId: 8133\n            └── Tringle de commande/rallonge de tringle de commande (Niveau 4)\n                └── Shift Rod/Shift Rod Extension [ID: 706033] (Niveau 3) → ProductId: 8133",
+      "productIdsInArbo": [
+        8133
+      ],
+      "matchedProductIds": [
+        8133
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:44:29.647Z",
+  "bestMatch": {
+    "typeId": 3,
+    "found": true,
+    "hasMatch": true
+  }
+}

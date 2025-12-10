@@ -1,0 +1,170 @@
+{
+  "productName": "Tuyau d'huile",
+  "searchText": "Tuyau d'huile",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:28:44.992Z",
+  "productId": 556,
+  "arborescence": {
+    "Embrayage / composants": {
+      "categoryId": 100050,
+      "categoryName": "Embrayage / composants",
+      "level": 1,
+      "children": {
+        "Butée d’embrayage/butée hydraulique": {
+          "categoryId": null,
+          "categoryName": "Butée d’embrayage/butée hydraulique",
+          "level": 2,
+          "children": {
+            "Tuyau d'huile, butée de débrayage": {
+              "categoryId": 100054,
+              "categoryName": "Clutch Release Bearing/Central Slave Cylinder",
+              "level": 2,
+              "children": {
+                "Butée de débrayage": {
+                  "categoryId": null,
+                  "categoryName": "Butée de débrayage",
+                  "level": 4,
+                  "children": {
+                    "Tuyau d'huile, butée de débrayage": {
+                      "categoryId": 100055,
+                      "categoryName": "Clutch Release Bearing",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4837
+                    }
+                  }
+                }
+              },
+              "productId": 4837
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Lubrification": {
+          "categoryId": null,
+          "categoryName": "Lubrification",
+          "level": 2,
+          "children": {
+            "Tuyau d'huile": {
+              "categoryId": 100245,
+              "categoryName": "Lubrication",
+              "level": 2,
+              "children": {
+                "Tuyaux d'huile / Conduites": {
+                  "categoryId": null,
+                  "categoryName": "Tuyaux d'huile / Conduites",
+                  "level": 4,
+                  "children": {
+                    "Tuyau d'huile": {
+                      "categoryId": 100481,
+                      "categoryName": "Oil Hoses/Lines",
+                      "level": 3,
+                      "children": [],
+                      "productId": 556
+                    }
+                  }
+                }
+              },
+              "productId": 556
+            }
+          }
+        }
+      }
+    },
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Tuyauterie et brides": {
+          "categoryId": null,
+          "categoryName": "Tuyauterie et brides",
+          "level": 2,
+          "children": {
+            "Tuyau d'huile": {
+              "categoryId": 100099,
+              "categoryName": "Hoses/Pipes/Flanges",
+              "level": 2,
+              "children": {
+                "Tuyaux d'huile / Conduites": {
+                  "categoryId": null,
+                  "categoryName": "Tuyaux d'huile / Conduites",
+                  "level": 4,
+                  "children": {
+                    "Tuyau d'huile": {
+                      "categoryId": 100215,
+                      "categoryName": "Oil Pipes",
+                      "level": 3,
+                      "children": [],
+                      "productId": 556
+                    }
+                  }
+                }
+              },
+              "productId": 556
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Embrayage / composants [ID: 100050] (Niveau 1)\n│   └── Butée d’embrayage/butée hydraulique (Niveau 2)\n│       └── Clutch Release Bearing/Central Slave Cylinder [ID: 100054] (Niveau 2) → ProductId: 4837\n│           └── Butée de débrayage (Niveau 4)\n│               └── Clutch Release Bearing [ID: 100055] (Niveau 3) → ProductId: 4837\n\n├── Moteur [ID: 100002] (Niveau 1)\n│   └── Lubrification (Niveau 2)\n│       └── Lubrication [ID: 100245] (Niveau 2) → ProductId: 556\n│           └── Tuyaux d'huile / Conduites (Niveau 4)\n│               └── Oil Hoses/Lines [ID: 100481] (Niveau 3) → ProductId: 556\n\n└── Refroidissement [ID: 100007] (Niveau 1)\n    └── Tuyauterie et brides (Niveau 2)\n        └── Hoses/Pipes/Flanges [ID: 100099] (Niveau 2) → ProductId: 556\n            └── Tuyaux d'huile / Conduites (Niveau 4)\n                └── Oil Pipes [ID: 100215] (Niveau 3) → ProductId: 556",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Embrayage / composants",
+        "Butée d’embrayage/butée hydraulique",
+        "Clutch Release Bearing/Central Slave Cylinder"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100054
+      ],
+      "finalCategoryId": 100054,
+      "productId": 4837
+    },
+    {
+      "path": [
+        "Moteur",
+        "Lubrification",
+        "Lubrication"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100245
+      ],
+      "finalCategoryId": 100245,
+      "productId": 556
+    },
+    {
+      "path": [
+        "Refroidissement",
+        "Tuyauterie et brides",
+        "Hoses/Pipes/Flanges"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100099
+      ],
+      "finalCategoryId": 100099,
+      "productId": 556
+    }
+  ],
+  "productIdsInArbo": [
+    556,
+    4837
+  ],
+  "matchedProductIds": [
+    556
+  ]
+}

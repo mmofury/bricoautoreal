@@ -1,0 +1,43 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "C139DD",
+      "index": "SPIRAX S3 AX 85W140 209L",
+      "tecDoc": "001D8282PL",
+      "tecDocProd": "4314",
+      "articleNumber": "001D8282PL",
+      "brand": "SHELL",
+      "shortDescription": "Manual Transmission Oil",
+      "description": "MTF oil Spirax (209L) 85W140 ,API GL-5, MAN 342 M1, MIL L-2105D, ZF TE-ML 07A, ZF TE-ML 12E, ZF TE-ML 16D, ZF TE-ML 21A",
+      "gtuCode": "GTU_03",
+      "customsCode": "27101987",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3354",
+          "primary": false,
+          "name": {
+            "en": "Power steering oil"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3069",
+          "primary": false,
+          "name": {
+            "en": "Automatic transmission oil"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3225",
+          "primary": true,
+          "name": {
+            "en": "Manual Transmission Oil"
+          }
+        }
+      ]
+    }
+  ]
+}

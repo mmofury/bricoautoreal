@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.530Z",
+  "manufacturer": "VOLVO (CHANGAN)",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 3533,
+      "manufacturerName": "VOLVO (CHANGAN)",
+      "groupKey": "S40",
+      "displayName": "S40",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8731,
+          "modelName": "S40",
+          "modelYearFrom": "2006-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3533,
+      "manufacturerName": "VOLVO (CHANGAN)",
+      "groupKey": "S80L",
+      "displayName": "S80L",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8732,
+          "modelName": "S80L",
+          "modelYearFrom": "2009-03-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

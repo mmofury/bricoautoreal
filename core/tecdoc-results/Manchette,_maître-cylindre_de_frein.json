@@ -1,0 +1,54 @@
+{
+  "productName": "Manchette, maître-cylindre de frein",
+  "searchText": "Manchette, maître-cylindre de frein",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:13:18.370Z",
+  "productId": 2299,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Maître-cylindre de frein": {
+          "categoryId": null,
+          "categoryName": "Maître-cylindre de frein",
+          "level": 2,
+          "children": {
+            "Manchette, maître-cylindre de frein": {
+              "categoryId": 100026,
+              "categoryName": "Brake Master Cylinder",
+              "level": 2,
+              "children": [],
+              "productId": 2299
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif de freinage [ID: 100006] (Niveau 1)\n    └── Maître-cylindre de frein (Niveau 2)\n        └── Brake Master Cylinder [ID: 100026] (Niveau 2) → ProductId: 2299",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Maître-cylindre de frein",
+        "Brake Master Cylinder"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100026
+      ],
+      "finalCategoryId": 100026,
+      "productId": 2299
+    }
+  ],
+  "productIdsInArbo": [
+    2299
+  ],
+  "matchedProductIds": [
+    2299
+  ]
+}

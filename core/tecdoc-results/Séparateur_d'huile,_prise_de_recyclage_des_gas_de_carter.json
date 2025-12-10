@@ -1,0 +1,69 @@
+{
+  "productName": "Séparateur d'huile, prise de recyclage des gas de carter",
+  "searchText": "Séparateur d'huile, prise de recyclage des gas de carter",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:24:27.834Z",
+  "productId": 3324,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Carter de vilebrequin": {
+          "categoryId": null,
+          "categoryName": "Carter de vilebrequin",
+          "level": 2,
+          "children": {
+            "Séparateur d'huile, prise de recyclage des gas de carter": {
+              "categoryId": 100514,
+              "categoryName": "Crankcase",
+              "level": 2,
+              "children": {
+                "Ventilation": {
+                  "categoryId": null,
+                  "categoryName": "Ventilation",
+                  "level": 4,
+                  "children": {
+                    "Séparateur d'huile, prise de recyclage des gas de carter": {
+                      "categoryId": 105862,
+                      "categoryName": "Breather",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3324
+                    }
+                  }
+                }
+              },
+              "productId": 3324
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Carter de vilebrequin (Niveau 2)\n        └── Crankcase [ID: 100514] (Niveau 2) → ProductId: 3324\n            └── Ventilation (Niveau 4)\n                └── Breather [ID: 105862] (Niveau 3) → ProductId: 3324",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Carter de vilebrequin",
+        "Crankcase"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100514
+      ],
+      "finalCategoryId": 100514,
+      "productId": 3324
+    }
+  ],
+  "productIdsInArbo": [
+    3324
+  ],
+  "matchedProductIds": [
+    3324
+  ]
+}

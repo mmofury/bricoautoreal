@@ -1,0 +1,69 @@
+{
+  "productName": "Écrou, collecteur d'admission",
+  "searchText": "Écrou, collecteur d'admission",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:38:03.766Z",
+  "productId": 1789,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Alimentation en air": {
+          "categoryId": null,
+          "categoryName": "Alimentation en air",
+          "level": 2,
+          "children": {
+            "Écrou, collecteur d'admission": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Collecteur d'admission/Tuyau": {
+                  "categoryId": null,
+                  "categoryName": "Collecteur d'admission/Tuyau",
+                  "level": 4,
+                  "children": {
+                    "Écrou, collecteur d'admission": {
+                      "categoryId": 100386,
+                      "categoryName": "Intake Manifold",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1789
+                    }
+                  }
+                }
+              },
+              "productId": 1789
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Alimentation en air (Niveau 2)\n        └── Air Supply [ID: 100383] (Niveau 2) → ProductId: 1789\n            └── Collecteur d'admission/Tuyau (Niveau 4)\n                └── Intake Manifold [ID: 100386] (Niveau 3) → ProductId: 1789",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 1789
+    }
+  ],
+  "productIdsInArbo": [
+    1789
+  ],
+  "matchedProductIds": [
+    1789
+  ]
+}

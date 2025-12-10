@@ -1,0 +1,67 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.538Z",
+  "manufacturer": "WELTMEISTER",
+  "countGroups": 4,
+  "groups": [
+    {
+      "manufacturerId": 5114,
+      "manufacturerName": "WELTMEISTER",
+      "groupKey": "E",
+      "displayName": "E",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42431,
+          "modelName": "E.5",
+          "modelYearFrom": "2021-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5114,
+      "manufacturerName": "WELTMEISTER",
+      "groupKey": "EX5",
+      "displayName": "EX5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38925,
+          "modelName": "EX5",
+          "modelYearFrom": "2018-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5114,
+      "manufacturerName": "WELTMEISTER",
+      "groupKey": "EX6",
+      "displayName": "EX6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39523,
+          "modelName": "EX6",
+          "modelYearFrom": "2019-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5114,
+      "manufacturerName": "WELTMEISTER",
+      "groupKey": "W6",
+      "displayName": "W6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41917,
+          "modelName": "W6",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

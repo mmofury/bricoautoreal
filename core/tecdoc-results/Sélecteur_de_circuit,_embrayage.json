@@ -1,0 +1,69 @@
+{
+  "productName": "Sélecteur de circuit, embrayage",
+  "searchText": "Sélecteur de circuit, embrayage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:24:16.506Z",
+  "productId": 3147,
+  "arborescence": {
+    "Embrayage / composants": {
+      "categoryId": 100050,
+      "categoryName": "Embrayage / composants",
+      "level": 1,
+      "children": {
+        "Commande d'embrayage": {
+          "categoryId": null,
+          "categoryName": "Commande d'embrayage",
+          "level": 2,
+          "children": {
+            "Sélecteur de circuit, embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Soupape/Valve alternative": {
+                  "categoryId": null,
+                  "categoryName": "Soupape/Valve alternative",
+                  "level": 4,
+                  "children": {
+                    "Sélecteur de circuit, embrayage": {
+                      "categoryId": 101926,
+                      "categoryName": "Shuttle Valve",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3147
+                    }
+                  }
+                }
+              },
+              "productId": 3147
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Embrayage / composants [ID: 100050] (Niveau 1)\n    └── Commande d'embrayage (Niveau 2)\n        └── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 3147\n            └── Soupape/Valve alternative (Niveau 4)\n                └── Shuttle Valve [ID: 101926] (Niveau 3) → ProductId: 3147",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 3147
+    }
+  ],
+  "productIdsInArbo": [
+    3147
+  ],
+  "matchedProductIds": [
+    3147
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "productName": "Totalisateur d'heures de travail",
+  "searchText": "Totalisateur d'heures de travail",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:26:43.248Z",
+  "productId": 1400,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Instruments": {
+          "categoryId": null,
+          "categoryName": "Instruments",
+          "level": 2,
+          "children": {
+            "Totalisateur d'heures de travail": {
+              "categoryId": 100322,
+              "categoryName": "Instruments",
+              "level": 2,
+              "children": {
+                "Instruments indicateurs": {
+                  "categoryId": null,
+                  "categoryName": "Instruments indicateurs",
+                  "level": 4,
+                  "children": {
+                    "Totalisateur d'heures de travail": {
+                      "categoryId": 100555,
+                      "categoryName": "Gauges",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1400
+                    }
+                  }
+                }
+              },
+              "productId": 1400
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Instruments (Niveau 2)\n        └── Instruments [ID: 100322] (Niveau 2) → ProductId: 1400\n            └── Instruments indicateurs (Niveau 4)\n                └── Gauges [ID: 100555] (Niveau 3) → ProductId: 1400",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Instruments",
+        "Instruments"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100322
+      ],
+      "finalCategoryId": 100322,
+      "productId": 1400
+    }
+  ],
+  "productIdsInArbo": [
+    1400
+  ],
+  "matchedProductIds": [
+    1400
+  ]
+}

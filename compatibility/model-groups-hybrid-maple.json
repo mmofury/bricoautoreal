@@ -1,0 +1,100 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.400Z",
+  "manufacturer": "MAPLE",
+  "countGroups": 5,
+  "groups": [
+    {
+      "manufacturerId": 5696,
+      "manufacturerName": "MAPLE",
+      "groupKey": "30X",
+      "displayName": "30X",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40682,
+          "modelName": "30X",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5696,
+      "manufacturerName": "MAPLE",
+      "groupKey": "60",
+      "displayName": "60",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44151,
+          "modelName": "60",
+          "modelYearFrom": "2023-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5696,
+      "manufacturerName": "MAPLE",
+      "groupKey": "60S",
+      "displayName": "60S",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42708,
+          "modelName": "60S",
+          "modelYearFrom": "2022-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43622,
+          "modelName": "60S PRO",
+          "modelYearFrom": "2022-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5696,
+      "manufacturerName": "MAPLE",
+      "groupKey": "80V",
+      "displayName": "80V",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42100,
+          "modelName": "80V",
+          "modelYearFrom": "2021-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43621,
+          "modelName": "80V PRO",
+          "modelYearFrom": "2022-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 90017,
+          "modelName": "80V L",
+          "modelYearFrom": "2024-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5696,
+      "manufacturerName": "MAPLE",
+      "groupKey": "X3",
+      "displayName": "X3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42924,
+          "modelName": "X3 PRO",
+          "modelYearFrom": "2022-05-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

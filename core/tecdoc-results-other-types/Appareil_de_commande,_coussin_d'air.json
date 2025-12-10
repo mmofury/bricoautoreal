@@ -1,0 +1,164 @@
+{
+  "productName": "Appareil de commande, coussin d'air",
+  "searchText": "Appareil de commande, coussin d'air",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": false,
+      "arborescence": {
+        "Système électrique": {
+          "categoryId": 200064,
+          "categoryName": "Système électrique",
+          "level": 1,
+          "children": {
+            "Appareils de commande": {
+              "categoryId": null,
+              "categoryName": "Appareils de commande",
+              "level": 2,
+              "children": {
+                "Appareil de commande, coussin d'air": {
+                  "categoryId": 202876,
+                  "categoryName": "Controls",
+                  "level": 2,
+                  "children": [],
+                  "productId": 1384
+                }
+              }
+            }
+          }
+        },
+        "Systèmes de sécurité": {
+          "categoryId": 201496,
+          "categoryName": "Systèmes de sécurité",
+          "level": 1,
+          "children": {
+            "Système d'air-bag": {
+              "categoryId": null,
+              "categoryName": "Système d'air-bag",
+              "level": 2,
+              "children": {
+                "Appareil de commande, coussin d'air": {
+                  "categoryId": 201498,
+                  "categoryName": "Air Bag System",
+                  "level": 2,
+                  "children": [],
+                  "productId": 1384
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "├── Système électrique [ID: 200064] (Niveau 1)\n│   └── Appareils de commande (Niveau 2)\n│       └── Controls [ID: 202876] (Niveau 2) → ProductId: 1384\n\n└── Systèmes de sécurité [ID: 201496] (Niveau 1)\n    └── Système d'air-bag (Niveau 2)\n        └── Air Bag System [ID: 201498] (Niveau 2) → ProductId: 1384",
+      "productIdsInArbo": [
+        1384
+      ]
+    },
+    {
+      "typeId": 3,
+      "found": true,
+      "hasMatch": false,
+      "arborescence": {
+        "Système électrique": {
+          "categoryId": 100010,
+          "categoryName": "Système électrique",
+          "level": 1,
+          "children": {
+            "Appareils de commande": {
+              "categoryId": null,
+              "categoryName": "Appareils de commande",
+              "level": 2,
+              "children": {
+                "Appareil de commande, coussin d'air": {
+                  "categoryId": 100727,
+                  "categoryName": "Control Units",
+                  "level": 2,
+                  "children": [],
+                  "productId": 1384
+                }
+              }
+            }
+          }
+        },
+        "Systèmes de sécurité": {
+          "categoryId": 100417,
+          "categoryName": "Systèmes de sécurité",
+          "level": 1,
+          "children": {
+            "Système d'air-bag": {
+              "categoryId": null,
+              "categoryName": "Système d'air-bag",
+              "level": 2,
+              "children": {
+                "Appareil de commande, coussin d'air": {
+                  "categoryId": 100762,
+                  "categoryName": "Air Bag System",
+                  "level": 2,
+                  "children": [],
+                  "productId": 1384
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "├── Système électrique [ID: 100010] (Niveau 1)\n│   └── Appareils de commande (Niveau 2)\n│       └── Control Units [ID: 100727] (Niveau 2) → ProductId: 1384\n\n└── Systèmes de sécurité [ID: 100417] (Niveau 1)\n    └── Système d'air-bag (Niveau 2)\n        └── Air Bag System [ID: 100762] (Niveau 2) → ProductId: 1384",
+      "productIdsInArbo": [
+        1384
+      ]
+    },
+    {
+      "typeId": 4,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 5,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 6,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 7,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 8,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 9,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 10,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 11,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 12,
+      "found": false,
+      "hasMatch": false
+    }
+  ],
+  "timestamp": "2025-12-03T09:41:49.801Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": false
+  }
+}

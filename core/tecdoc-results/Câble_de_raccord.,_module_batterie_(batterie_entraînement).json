@@ -1,0 +1,54 @@
+{
+  "productName": "Câble de raccord., module batterie (batterie entraînement)",
+  "searchText": "Câble de raccord., module batterie (batterie entraînement)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:29:46.240Z",
+  "productId": 60642,
+  "arborescence": {
+    "Entraînement hybride/électrique": {
+      "categoryId": 706209,
+      "categoryName": "Entraînement hybride/électrique",
+      "level": 1,
+      "children": {
+        "Module de batterie": {
+          "categoryId": null,
+          "categoryName": "Module de batterie",
+          "level": 2,
+          "children": {
+            "Câble de raccord., module batterie (batterie entraînement)": {
+              "categoryId": 706732,
+              "categoryName": "Battery module",
+              "level": 2,
+              "children": [],
+              "productId": 60642
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement hybride/électrique [ID: 706209] (Niveau 1)\n    └── Module de batterie (Niveau 2)\n        └── Battery module [ID: 706732] (Niveau 2) → ProductId: 60642",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement hybride/électrique",
+        "Module de batterie",
+        "Battery module"
+      ],
+      "categoryIds": [
+        706209,
+        null,
+        706732
+      ],
+      "finalCategoryId": 706732,
+      "productId": 60642
+    }
+  ],
+  "productIdsInArbo": [
+    60642
+  ],
+  "matchedProductIds": [
+    60642
+  ]
+}

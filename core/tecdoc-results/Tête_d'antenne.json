@@ -1,0 +1,54 @@
+{
+  "productName": "Tête d'antenne",
+  "searchText": "Tête d'antenne",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:29:51.691Z",
+  "productId": 1356,
+  "arborescence": {
+    "Système d'information et de communication": {
+      "categoryId": 100339,
+      "categoryName": "Système d'information et de communication",
+      "level": 1,
+      "children": {
+        "Antennes": {
+          "categoryId": null,
+          "categoryName": "Antennes",
+          "level": 2,
+          "children": {
+            "Tête d'antenne": {
+              "categoryId": 100695,
+              "categoryName": "Aerial",
+              "level": 2,
+              "children": [],
+              "productId": 1356
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système d'information et de communication [ID: 100339] (Niveau 1)\n    └── Antennes (Niveau 2)\n        └── Aerial [ID: 100695] (Niveau 2) → ProductId: 1356",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système d'information et de communication",
+        "Antennes",
+        "Aerial"
+      ],
+      "categoryIds": [
+        100339,
+        null,
+        100695
+      ],
+      "finalCategoryId": 100695,
+      "productId": 1356
+    }
+  ],
+  "productIdsInArbo": [
+    1356
+  ],
+  "matchedProductIds": [
+    1356
+  ]
+}

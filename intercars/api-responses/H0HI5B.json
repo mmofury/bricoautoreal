@@ -1,0 +1,43 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H0HI5B",
+      "index": "ACH 2 000P",
+      "tecDoc": "ACH 2 000P",
+      "tecDocProd": "287",
+      "articleNumber": "ACH 2 000P",
+      "brand": "MAHLE",
+      "shortDescription": "Radiator, traction battery",
+      "description": "Air cooler fits: JAGUAR I-PACE Electric 02.18-",
+      "gtuCode": "GTU_07",
+      "eans": [
+        "4057635238229"
+      ],
+      "packageWeight": "0,700",
+      "packageWidth": "10,000",
+      "packageDepth": "14,000",
+      "packageHeight": "13,000",
+      "customsCode": "87089135",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_5031",
+          "primary": true,
+          "name": {
+            "en": "Radiator, traction battery"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_60914",
+          "primary": false,
+          "name": {
+            "en": "Chiller"
+          }
+        }
+      ]
+    }
+  ]
+}

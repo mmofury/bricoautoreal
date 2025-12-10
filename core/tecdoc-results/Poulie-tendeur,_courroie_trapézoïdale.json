@@ -1,0 +1,134 @@
+{
+  "productName": "Poulie-tendeur, courroie trapézoïdale",
+  "searchText": "Poulie-tendeur, courroie trapézoïdale",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:03:51.003Z",
+  "productId": 2138,
+  "arborescence": {
+    "Commande à courroie": {
+      "categoryId": 100016,
+      "categoryName": "Commande à courroie",
+      "level": 1,
+      "children": {
+        "Jeu/ courroies trapèzoïdales": {
+          "categoryId": null,
+          "categoryName": "Jeu/ courroies trapèzoïdales",
+          "level": 2,
+          "children": {
+            "Poulie-tendeur, courroie trapézoïdale": {
+              "categoryId": 100080,
+              "categoryName": "V-Belt/Set",
+              "level": 2,
+              "children": {
+                "Courroie trapèzoïdale": {
+                  "categoryId": null,
+                  "categoryName": "Courroie trapèzoïdale",
+                  "level": 4,
+                  "children": {
+                    "Poulie-tendeur, courroie trapézoïdale": {
+                      "categoryId": 100450,
+                      "categoryName": "V-Belt",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2138
+                    }
+                  }
+                }
+              },
+              "productId": 2138
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Commande à courroie": {
+          "categoryId": null,
+          "categoryName": "Commande à courroie",
+          "level": 2,
+          "children": {
+            "Poulie-tendeur, courroie trapézoïdale": {
+              "categoryId": 104302,
+              "categoryName": "Belt Drive",
+              "level": 2,
+              "children": {
+                "Jeu/ courroies trapèzoïdales": {
+                  "categoryId": null,
+                  "categoryName": "Jeu/ courroies trapèzoïdales",
+                  "level": 4,
+                  "children": {
+                    "Poulie-tendeur, courroie trapézoïdale": {
+                      "categoryId": 104303,
+                      "categoryName": "V-Belt/Set",
+                      "level": 3,
+                      "children": {
+                        "Courroie trapèzoïdale": {
+                          "categoryId": null,
+                          "categoryName": "Courroie trapèzoïdale",
+                          "level": 6,
+                          "children": {
+                            "Poulie-tendeur, courroie trapézoïdale": {
+                              "categoryId": 104304,
+                              "categoryName": "V-Belt",
+                              "level": 4,
+                              "children": [],
+                              "productId": 2138
+                            }
+                          }
+                        }
+                      },
+                      "productId": 2138
+                    }
+                  }
+                }
+              },
+              "productId": 2138
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Commande à courroie [ID: 100016] (Niveau 1)\n│   └── Jeu/ courroies trapèzoïdales (Niveau 2)\n│       └── V-Belt/Set [ID: 100080] (Niveau 2) → ProductId: 2138\n│           └── Courroie trapèzoïdale (Niveau 4)\n│               └── V-Belt [ID: 100450] (Niveau 3) → ProductId: 2138\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Commande à courroie (Niveau 2)\n        └── Belt Drive [ID: 104302] (Niveau 2) → ProductId: 2138\n            └── Jeu/ courroies trapèzoïdales (Niveau 4)\n                └── V-Belt/Set [ID: 104303] (Niveau 3) → ProductId: 2138\n                    └── Courroie trapèzoïdale (Niveau 6)\n                        └── V-Belt [ID: 104304] (Niveau 4) → ProductId: 2138",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Commande à courroie",
+        "Jeu/ courroies trapèzoïdales",
+        "V-Belt/Set"
+      ],
+      "categoryIds": [
+        100016,
+        null,
+        100080
+      ],
+      "finalCategoryId": 100080,
+      "productId": 2138
+    },
+    {
+      "path": [
+        "Moteur",
+        "Commande à courroie",
+        "Belt Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        104302
+      ],
+      "finalCategoryId": 104302,
+      "productId": 2138
+    }
+  ],
+  "productIdsInArbo": [
+    2138
+  ],
+  "matchedProductIds": [
+    2138
+  ]
+}

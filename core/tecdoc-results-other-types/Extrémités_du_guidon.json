@@ -1,0 +1,69 @@
+{
+  "productName": "Extrémités du guidon",
+  "productId": 5381,
+  "searchText": "Extrémités du guidon",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 3,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Moto": {
+          "categoryId": 103671,
+          "categoryName": "Moto",
+          "level": 1,
+          "children": {
+            "Guidon (moto)": {
+              "categoryId": null,
+              "categoryName": "Guidon (moto)",
+              "level": 2,
+              "children": {
+                "Extrémités du guidon": {
+                  "categoryId": 103719,
+                  "categoryName": "Handlebars (motorcycle)",
+                  "level": 2,
+                  "children": {
+                    "Extrémités du guidon": {
+                      "categoryId": null,
+                      "categoryName": "Extrémités du guidon",
+                      "level": 4,
+                      "children": {
+                        "Extrémités du guidon": {
+                          "categoryId": 103721,
+                          "categoryName": "Bar Ends",
+                          "level": 3,
+                          "children": [],
+                          "productId": 5381
+                        }
+                      }
+                    }
+                  },
+                  "productId": 5381
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Moto [ID: 103671] (Niveau 1)\n    └── Guidon (moto) (Niveau 2)\n        └── Handlebars (motorcycle) [ID: 103719] (Niveau 2) → ProductId: 5381\n            └── Extrémités du guidon (Niveau 4)\n                └── Bar Ends [ID: 103721] (Niveau 3) → ProductId: 5381",
+      "productIdsInArbo": [
+        5381
+      ],
+      "matchedProductIds": [
+        5381
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:27:53.297Z",
+  "bestMatch": {
+    "typeId": 3,
+    "found": true,
+    "hasMatch": true
+  }
+}

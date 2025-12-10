@@ -1,0 +1,94 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.145Z",
+  "manufacturer": "AC",
+  "countGroups": 5,
+  "groups": [
+    {
+      "manufacturerId": 609,
+      "manufacturerName": "AC",
+      "groupKey": "428",
+      "displayName": "428",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4208,
+          "modelName": "428 Fastback",
+          "modelYearFrom": "1967-01-01",
+          "modelYearTo": "1974-12-01"
+        },
+        {
+          "modelId": 4209,
+          "modelName": "428 Décapotable",
+          "modelYearFrom": "1965-01-01",
+          "modelYearTo": "1974-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 609,
+      "manufacturerName": "AC",
+      "groupKey": "ACE",
+      "displayName": "ACE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4210,
+          "modelName": "ACE",
+          "modelYearFrom": "1995-01-01",
+          "modelYearTo": "1998-10-01"
+        },
+        {
+          "modelId": 4211,
+          "modelName": "ACE",
+          "modelYearFrom": "1998-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 609,
+      "manufacturerName": "AC",
+      "groupKey": "ACECA",
+      "displayName": "ACECA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4212,
+          "modelName": "ACECA",
+          "modelYearFrom": "1992-01-01",
+          "modelYearTo": "2001-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 609,
+      "manufacturerName": "AC",
+      "groupKey": "COBRA",
+      "displayName": "COBRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4213,
+          "modelName": "COBRA IV",
+          "modelYearFrom": "1990-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 609,
+      "manufacturerName": "AC",
+      "groupKey": "ME",
+      "displayName": "ME",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4207,
+          "modelName": "ME",
+          "modelYearFrom": "1979-01-01",
+          "modelYearTo": "1986-12-01"
+        }
+      ]
+    }
+  ]
+}

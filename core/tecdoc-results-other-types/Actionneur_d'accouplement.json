@@ -1,0 +1,152 @@
+{
+  "productName": "Actionneur d'accouplement",
+  "searchText": "Actionneur d'accouplement",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": false,
+      "arborescence": {
+        "Embrayage": {
+          "categoryId": 200053,
+          "categoryName": "Embrayage",
+          "level": 1,
+          "children": {
+            "Commande d'embrayage": {
+              "categoryId": null,
+              "categoryName": "Commande d'embrayage",
+              "level": 2,
+              "children": {
+                "Actionneur d'accouplement": {
+                  "categoryId": 200290,
+                  "categoryName": "Clutch Control",
+                  "level": 2,
+                  "children": {
+                    "Cylindre récepteur": {
+                      "categoryId": null,
+                      "categoryName": "Cylindre récepteur",
+                      "level": 4,
+                      "children": {
+                        "Actionneur d'accouplement": {
+                          "categoryId": 200302,
+                          "categoryName": "Slave Cylinder",
+                          "level": 3,
+                          "children": [],
+                          "productId": 5683
+                        }
+                      }
+                    }
+                  },
+                  "productId": 5683
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Embrayage [ID: 200053] (Niveau 1)\n    └── Commande d'embrayage (Niveau 2)\n        └── Clutch Control [ID: 200290] (Niveau 2) → ProductId: 5683\n            └── Cylindre récepteur (Niveau 4)\n                └── Slave Cylinder [ID: 200302] (Niveau 3) → ProductId: 5683",
+      "productIdsInArbo": [
+        5683
+      ]
+    },
+    {
+      "typeId": 3,
+      "found": true,
+      "hasMatch": false,
+      "arborescence": {
+        "Embrayage / composants": {
+          "categoryId": 100050,
+          "categoryName": "Embrayage / composants",
+          "level": 1,
+          "children": {
+            "Commande d'embrayage": {
+              "categoryId": null,
+              "categoryName": "Commande d'embrayage",
+              "level": 2,
+              "children": {
+                "Actionneur d'accouplement": {
+                  "categoryId": 100079,
+                  "categoryName": "Clutch Control",
+                  "level": 2,
+                  "children": {
+                    "Récepteur d'embrayage": {
+                      "categoryId": null,
+                      "categoryName": "Récepteur d'embrayage",
+                      "level": 4,
+                      "children": {
+                        "Actionneur d'accouplement": {
+                          "categoryId": 100060,
+                          "categoryName": "Slave Cylinder",
+                          "level": 3,
+                          "children": [],
+                          "productId": 5683
+                        }
+                      }
+                    }
+                  },
+                  "productId": 5683
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Embrayage / composants [ID: 100050] (Niveau 1)\n    └── Commande d'embrayage (Niveau 2)\n        └── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 5683\n            └── Récepteur d'embrayage (Niveau 4)\n                └── Slave Cylinder [ID: 100060] (Niveau 3) → ProductId: 5683",
+      "productIdsInArbo": [
+        5683
+      ]
+    },
+    {
+      "typeId": 4,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 5,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 6,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 7,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 8,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 9,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 10,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 11,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 12,
+      "found": false,
+      "hasMatch": false
+    }
+  ],
+  "timestamp": "2025-12-03T09:28:32.026Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": false
+  }
+}

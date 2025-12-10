@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.399Z",
+  "manufacturer": "MAHINDRA RENAULT",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 3554,
+      "manufacturerName": "MAHINDRA RENAULT",
+      "groupKey": "LOGAN",
+      "displayName": "LOGAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8938,
+          "modelName": "LOGAN",
+          "modelYearFrom": "2007-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3554,
+      "manufacturerName": "MAHINDRA RENAULT",
+      "groupKey": "VERITO",
+      "displayName": "VERITO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9549,
+          "modelName": "VERITO",
+          "modelYearFrom": "2011-03-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

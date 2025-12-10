@@ -1,0 +1,54 @@
+{
+  "productName": "Bride, poulie",
+  "searchText": "Bride, poulie",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:12:07.985Z",
+  "productId": 6401,
+  "arborescence": {
+    "Commande à courroie": {
+      "categoryId": 100016,
+      "categoryName": "Commande à courroie",
+      "level": 1,
+      "children": {
+        "Poulie": {
+          "categoryId": null,
+          "categoryName": "Poulie",
+          "level": 2,
+          "children": {
+            "Bride, poulie": {
+              "categoryId": 101971,
+              "categoryName": "Belt Pulley",
+              "level": 2,
+              "children": [],
+              "productId": 6401
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Commande à courroie [ID: 100016] (Niveau 1)\n    └── Poulie (Niveau 2)\n        └── Belt Pulley [ID: 101971] (Niveau 2) → ProductId: 6401",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Commande à courroie",
+        "Poulie",
+        "Belt Pulley"
+      ],
+      "categoryIds": [
+        100016,
+        null,
+        101971
+      ],
+      "finalCategoryId": 101971,
+      "productId": 6401
+    }
+  ],
+  "productIdsInArbo": [
+    6401
+  ],
+  "matchedProductIds": [
+    6401
+  ]
+}

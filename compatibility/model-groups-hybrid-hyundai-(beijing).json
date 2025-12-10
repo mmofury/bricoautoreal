@@ -1,0 +1,394 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.332Z",
+  "manufacturer": "HYUNDAI (BEIJING)",
+  "countGroups": 17,
+  "groups": [
+    {
+      "manufacturerId": 3123,
+      "manufacturerName": "HYUNDAI (BEIJING)",
+      "groupKey": "ACCENT",
+      "displayName": "ACCENT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6470,
+          "modelName": "ACCENT (MC)",
+          "modelYearFrom": "2006-02-01",
+          "modelYearTo": "2013-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3123,
+      "manufacturerName": "HYUNDAI (BEIJING)",
+      "groupKey": "CELESTA",
+      "displayName": "CELESTA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37852,
+          "modelName": "CELESTA A trois volumes (ID)",
+          "modelYearFrom": "2017-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38902,
+          "modelName": "CELESTA Break (ID)",
+          "modelYearFrom": "2018-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3123,
+      "manufacturerName": "HYUNDAI (BEIJING)",
+      "groupKey": "CUSTO",
+      "displayName": "CUSTO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42430,
+          "modelName": "CUSTO (KU)",
+          "modelYearFrom": "2021-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3123,
+      "manufacturerName": "HYUNDAI (BEIJING)",
+      "groupKey": "ELANTRA",
+      "displayName": "ELANTRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6471,
+          "modelName": "ELANTRA Berline bicorps trois ou cinq portes (XD)",
+          "modelYearFrom": "2006-01-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 6472,
+          "modelName": "ELANTRA A trois volumes (XD)",
+          "modelYearFrom": "2003-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 7857,
+          "modelName": "ELANTRA / YUEDONG (HD)",
+          "modelYearFrom": "2008-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11134,
+          "modelName": "ELANTRA / LANGDONG (MD)",
+          "modelYearFrom": "2012-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 36505,
+          "modelName": "ELANTRA / LINGDONG (AD)",
+          "modelYearFrom": "2016-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41355,
+          "modelName": "ELANTRA VII (CN)",
+          "modelYearFrom": "2020-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3123,
+      "manufacturerName": "HYUNDAI (BEIJING)",
+      "groupKey": "ENCINO",
+      "displayName": "ENCINO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38637,
+          "modelName": "ENCINO (OS)",
+          "modelYearFrom": "2018-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3123,
+      "manufacturerName": "HYUNDAI (BEIJING)",
+      "groupKey": "I30",
+      "displayName": "I30",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8399,
+          "modelName": "i30 (FD)",
+          "modelYearFrom": "2009-07-01",
+          "modelYearTo": "2014-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3123,
+      "manufacturerName": "HYUNDAI (BEIJING)",
+      "groupKey": "IX25",
+      "displayName": "IX25",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13296,
+          "modelName": "ix25 (GC)",
+          "modelYearFrom": "2014-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40146,
+          "modelName": "ix25 (SU)",
+          "modelYearFrom": "2019-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3123,
+      "manufacturerName": "HYUNDAI (BEIJING)",
+      "groupKey": "IX35",
+      "displayName": "IX35",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8677,
+          "modelName": "ix35 (LM)",
+          "modelYearFrom": "2010-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38317,
+          "modelName": "ix35 (NU)",
+          "modelYearFrom": "2017-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3123,
+      "manufacturerName": "HYUNDAI (BEIJING)",
+      "groupKey": "LA",
+      "displayName": "LA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39078,
+          "modelName": "LA FESTA (SQ)",
+          "modelYearFrom": "2018-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3123,
+      "manufacturerName": "HYUNDAI (BEIJING)",
+      "groupKey": "MISTRA",
+      "displayName": "MISTRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11759,
+          "modelName": "MISTRA (CF)",
+          "modelYearFrom": "2013-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41801,
+          "modelName": "MISTRA (DU)",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3123,
+      "manufacturerName": "HYUNDAI (BEIJING)",
+      "groupKey": "MOINCA",
+      "displayName": "MOINCA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8170,
+          "modelName": "MOINCA (EF)",
+          "modelYearFrom": "2008-08-01",
+          "modelYearTo": "2016-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3123,
+      "manufacturerName": "HYUNDAI (BEIJING)",
+      "groupKey": "MUFASA",
+      "displayName": "MUFASA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44538,
+          "modelName": "MUFASA",
+          "modelYearFrom": "2023-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3123,
+      "manufacturerName": "HYUNDAI (BEIJING)",
+      "groupKey": "REINA",
+      "displayName": "REINA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38206,
+          "modelName": "REINA (CB)",
+          "modelYearFrom": "2017-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3123,
+      "manufacturerName": "HYUNDAI (BEIJING)",
+      "groupKey": "SANTA",
+      "displayName": "SANTA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11153,
+          "modelName": "SANTA FÉ (DM)",
+          "modelYearFrom": "2012-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39263,
+          "modelName": "SANTA FÉ (TM)",
+          "modelYearFrom": "2019-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45844,
+          "modelName": "SANTA FÉ",
+          "modelYearFrom": "2024-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3123,
+      "manufacturerName": "HYUNDAI (BEIJING)",
+      "groupKey": "SONATA",
+      "displayName": "SONATA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6473,
+          "modelName": "SONATA (EF)",
+          "modelYearFrom": "2002-12-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 8592,
+          "modelName": "SONATA (NF)",
+          "modelYearFrom": "2005-09-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 8593,
+          "modelName": "SONATA (NFC)",
+          "modelYearFrom": "2008-12-01",
+          "modelYearTo": "2012-12-01"
+        },
+        {
+          "modelId": 10182,
+          "modelName": "SONATA (YF)",
+          "modelYearFrom": "2011-04-01",
+          "modelYearTo": "2015-02-01"
+        },
+        {
+          "modelId": 13999,
+          "modelName": "SONATA (LF)",
+          "modelYearFrom": "2015-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40972,
+          "modelName": "SONATA Ⅹ (DN)",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45324,
+          "modelName": "SONATA XI",
+          "modelYearFrom": "2024-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3123,
+      "manufacturerName": "HYUNDAI (BEIJING)",
+      "groupKey": "TUCSON",
+      "displayName": "TUCSON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6474,
+          "modelName": "TUCSON (JM)",
+          "modelYearFrom": "2005-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14642,
+          "modelName": "TUCSON (TL)",
+          "modelYearFrom": "2015-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41882,
+          "modelName": "TUCSON L V (NX)",
+          "modelYearFrom": "2021-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3123,
+      "manufacturerName": "HYUNDAI (BEIJING)",
+      "groupKey": "VERNA",
+      "displayName": "VERNA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9062,
+          "modelName": "VERNA A trois volumes (RB)",
+          "modelYearFrom": "2010-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 9655,
+          "modelName": "VERNA Berline bicorps trois ou cinq portes (RB)",
+          "modelYearFrom": "2010-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37476,
+          "modelName": "VERNA A trois volumes (YC)",
+          "modelYearFrom": "2016-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37659,
+          "modelName": "VERNA RV (YC)",
+          "modelYearFrom": "2017-02-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

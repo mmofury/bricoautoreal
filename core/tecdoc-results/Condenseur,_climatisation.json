@@ -1,0 +1,54 @@
+{
+  "productName": "Condenseur, climatisation",
+  "searchText": "Condenseur, climatisation",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:23:46.488Z",
+  "productId": 448,
+  "arborescence": {
+    "Climatisation": {
+      "categoryId": 100243,
+      "categoryName": "Climatisation",
+      "level": 1,
+      "children": {
+        "Condenseur": {
+          "categoryId": null,
+          "categoryName": "Condenseur",
+          "level": 2,
+          "children": {
+            "Condenseur, climatisation": {
+              "categoryId": 100355,
+              "categoryName": "Condenser",
+              "level": 2,
+              "children": [],
+              "productId": 448
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Climatisation [ID: 100243] (Niveau 1)\n    └── Condenseur (Niveau 2)\n        └── Condenser [ID: 100355] (Niveau 2) → ProductId: 448",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Climatisation",
+        "Condenseur",
+        "Condenser"
+      ],
+      "categoryIds": [
+        100243,
+        null,
+        100355
+      ],
+      "finalCategoryId": 100355,
+      "productId": 448
+    }
+  ],
+  "productIdsInArbo": [
+    448
+  ],
+  "matchedProductIds": [
+    448
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "E775A7",
+      "index": "HAZ 167T",
+      "tecDoc": "167T",
+      "tecDocProd": "4808",
+      "articleNumber": "167T",
+      "brand": "HAZET",
+      "shortDescription": "Tool trolley",
+      "description": "",
+      "eans": [
+        "4000896210503"
+      ],
+      "packageWeight": "20,000",
+      "packageWidth": "78,000",
+      "packageDepth": "92,000",
+      "packageHeight": "11,000",
+      "customsCode": "87168000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4756",
+          "primary": true,
+          "name": {
+            "en": "Tool trolley"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_6721",
+          "primary": false,
+          "name": {
+            "en": "Workbench"
+          }
+        }
+      ]
+    }
+  ]
+}

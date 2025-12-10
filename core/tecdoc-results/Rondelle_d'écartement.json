@@ -1,0 +1,299 @@
+{
+  "productName": "Rondelle d'écartement",
+  "searchText": "Rondelle d'écartement",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-03T07:11:02.914Z",
+  "productId": 3272,
+  "arborescence": {
+    "Climatisation": {
+      "categoryId": 100243,
+      "categoryName": "Climatisation",
+      "level": 1,
+      "children": {
+        "Compresseur / composants": {
+          "categoryId": null,
+          "categoryName": "Compresseur / composants",
+          "level": 2,
+          "children": {
+            "Rondelle d'écartement, arbre du compresseur": {
+              "categoryId": 100354,
+              "categoryName": "Compressor/Parts",
+              "level": 2,
+              "children": [],
+              "productId": 2923
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Système bielle-manivelle": {
+          "categoryId": null,
+          "categoryName": "Système bielle-manivelle",
+          "level": 2,
+          "children": {
+            "Rondelle d'écartement, vilebrequin": {
+              "categoryId": 100515,
+              "categoryName": "Crankshaft Drive",
+              "level": 2,
+              "children": {
+                "Vilebrequin": {
+                  "categoryId": null,
+                  "categoryName": "Vilebrequin",
+                  "level": 4,
+                  "children": {
+                    "Rondelle d'écartement, vilebrequin": {
+                      "categoryId": 100517,
+                      "categoryName": "Crankshaft",
+                      "level": 3,
+                      "children": {
+                        "Poulies de vilebrequin": {
+                          "categoryId": null,
+                          "categoryName": "Poulies de vilebrequin",
+                          "level": 6,
+                          "children": {
+                            "Rondelle d'écartement, vilebrequin": {
+                              "categoryId": 100759,
+                              "categoryName": "Thrust Washers/Thrust Bearing",
+                              "level": 4,
+                              "children": [],
+                              "productId": 1589
+                            }
+                          }
+                        }
+                      },
+                      "productId": 1589
+                    }
+                  }
+                }
+              },
+              "productId": 1589
+            }
+          }
+        }
+      }
+    },
+    "Suspension d'essieu/Guidage des roues/Roues": {
+      "categoryId": 100013,
+      "categoryName": "Suspension d'essieu/Guidage des roues/Roues",
+      "level": 1,
+      "children": {
+        "Écartement des roues élargi": {
+          "categoryId": null,
+          "categoryName": "Écartement des roues élargi",
+          "level": 2,
+          "children": {
+            "Écartement des roues élargi": {
+              "categoryId": 102733,
+              "categoryName": "Track Widening",
+              "level": 2,
+              "children": [],
+              "productId": 3792
+            }
+          }
+        },
+        "Fusée d'essieu / kit de réparation": {
+          "categoryId": null,
+          "categoryName": "Fusée d'essieu / kit de réparation",
+          "level": 2,
+          "children": {
+            "Entretoise, pivot de fusée d'essieu": {
+              "categoryId": 100207,
+              "categoryName": "Steering Knuckle/Repair Kit",
+              "level": 2,
+              "children": {
+                "Pivot de fusée d'essieu": {
+                  "categoryId": null,
+                  "categoryName": "Pivot de fusée d'essieu",
+                  "level": 4,
+                  "children": {
+                    "Entretoise, pivot de fusée d'essieu": {
+                      "categoryId": 100588,
+                      "categoryName": "Kingpin",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3514
+                    }
+                  }
+                }
+              },
+              "productId": 3514
+            }
+          }
+        },
+        "Pièce de stabilisateur / pièces de fixation": {
+          "categoryId": null,
+          "categoryName": "Pièce de stabilisateur / pièces de fixation",
+          "level": 2,
+          "children": {
+            "Bague d'écartement, barre d'accouplement": {
+              "categoryId": 100210,
+              "categoryName": "Stabiliser Bar/Fastening Parts",
+              "level": 2,
+              "children": {
+                "Pièces de fixation": {
+                  "categoryId": null,
+                  "categoryName": "Pièces de fixation",
+                  "level": 4,
+                  "children": {
+                    "Bague d'écartement, barre d'accouplement": {
+                      "categoryId": 100596,
+                      "categoryName": "Fasteners",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3185
+                    }
+                  }
+                }
+              },
+              "productId": 3185
+            }
+          }
+        }
+      }
+    },
+    "Suspension/Amortissement": {
+      "categoryId": 100011,
+      "categoryName": "Suspension/Amortissement",
+      "level": 1,
+      "children": {
+        "Suspension sur ressorts à lames": {
+          "categoryId": null,
+          "categoryName": "Suspension sur ressorts à lames",
+          "level": 2,
+          "children": {
+            "Rondelle d'écartement, main de supension": {
+              "categoryId": 100810,
+              "categoryName": "Leaf Spring Suspension",
+              "level": 2,
+              "children": [],
+              "productId": 3036
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Climatisation [ID: 100243] (Niveau 1)\n│   └── Compresseur / composants (Niveau 2)\n│       └── Compressor/Parts [ID: 100354] (Niveau 2) → ProductId: 2923\n\n├── Moteur [ID: 100002] (Niveau 1)\n│   └── Système bielle-manivelle (Niveau 2)\n│       └── Crankshaft Drive [ID: 100515] (Niveau 2) → ProductId: 1589\n│           └── Vilebrequin (Niveau 4)\n│               └── Crankshaft [ID: 100517] (Niveau 3) → ProductId: 1589\n│                   └── Poulies de vilebrequin (Niveau 6)\n│                       └── Thrust Washers/Thrust Bearing [ID: 100759] (Niveau 4) → ProductId: 1589\n\n├── Suspension d'essieu/Guidage des roues/Roues [ID: 100013] (Niveau 1)\n│   ├── Écartement des roues élargi (Niveau 2)\n│   │   └── Track Widening [ID: 102733] (Niveau 2) → ProductId: 3792\n│   ├── Fusée d'essieu / kit de réparation (Niveau 2)\n│   │   └── Steering Knuckle/Repair Kit [ID: 100207] (Niveau 2) → ProductId: 3514\n│   │       └── Pivot de fusée d'essieu (Niveau 4)\n│   │           └── Kingpin [ID: 100588] (Niveau 3) → ProductId: 3514\n│   └── Pièce de stabilisateur / pièces de fixation (Niveau 2)\n│       └── Stabiliser Bar/Fastening Parts [ID: 100210] (Niveau 2) → ProductId: 3185\n│           └── Pièces de fixation (Niveau 4)\n│               └── Fasteners [ID: 100596] (Niveau 3) → ProductId: 3185\n\n└── Suspension/Amortissement [ID: 100011] (Niveau 1)\n    └── Suspension sur ressorts à lames (Niveau 2)\n        └── Leaf Spring Suspension [ID: 100810] (Niveau 2) → ProductId: 3036",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Climatisation",
+        "Compresseur / composants",
+        "Compressor/Parts"
+      ],
+      "categoryIds": [
+        100243,
+        null,
+        100354
+      ],
+      "finalCategoryId": 100354,
+      "productId": 2923
+    },
+    {
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Crankshaft Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100515
+      ],
+      "finalCategoryId": 100515,
+      "productId": 1589
+    },
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Écartement des roues élargi",
+        "Track Widening"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        102733
+      ],
+      "finalCategoryId": 102733,
+      "productId": 3792
+    },
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Fusée d'essieu / kit de réparation",
+        "Steering Knuckle/Repair Kit"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        100207
+      ],
+      "finalCategoryId": 100207,
+      "productId": 3514
+    },
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Pièce de stabilisateur / pièces de fixation",
+        "Stabiliser Bar/Fastening Parts"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        100210
+      ],
+      "finalCategoryId": 100210,
+      "productId": 3185
+    },
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Suspension sur ressorts à lames",
+        "Leaf Spring Suspension"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        100810
+      ],
+      "finalCategoryId": 100810,
+      "productId": 3036
+    }
+  ],
+  "productIdsInArbo": [
+    1589,
+    2923,
+    3036,
+    3185,
+    3514,
+    3792
+  ],
+  "closestProductIds": [
+    {
+      "productId": 1589,
+      "productName": "Rondelle d'écartement, vilebrequin"
+    },
+    {
+      "productId": 2923,
+      "productName": "Rondelle d'écartement, arbre du compresseur"
+    },
+    {
+      "productId": 3036,
+      "productName": "Rondelle d'écartement, main de supension"
+    },
+    {
+      "productId": 3185,
+      "productName": "Bague d'écartement, barre d'accouplement"
+    },
+    {
+      "productId": 3514,
+      "productName": "Entretoise, pivot de fusée d'essieu"
+    }
+  ]
+}

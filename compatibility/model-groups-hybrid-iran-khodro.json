@@ -1,0 +1,325 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.342Z",
+  "manufacturer": "IRAN KHODRO",
+  "countGroups": 14,
+  "groups": [
+    {
+      "manufacturerId": 3084,
+      "manufacturerName": "IRAN KHODRO",
+      "groupKey": "ARISUN",
+      "displayName": "ARISUN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36241,
+          "modelName": "ARISUN Pick-up (PAR17)",
+          "modelYearFrom": "2015-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3084,
+      "manufacturerName": "IRAN KHODRO",
+      "groupKey": "DENA",
+      "displayName": "DENA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13054,
+          "modelName": "DENA A trois volumes (NX7)",
+          "modelYearFrom": "2011-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3084,
+      "manufacturerName": "IRAN KHODRO",
+      "groupKey": "DONGFENG",
+      "displayName": "DONGFENG",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38420,
+          "modelName": "DONGFENG H30 CROSS (DFM7160)",
+          "modelYearFrom": "2016-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3084,
+      "manufacturerName": "IRAN KHODRO",
+      "groupKey": "FOTON",
+      "displayName": "FOTON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38761,
+          "modelName": "FOTON TUNLAND Pick-up (BJ)",
+          "modelYearFrom": "2018-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3084,
+      "manufacturerName": "IRAN KHODRO",
+      "groupKey": "HAIMA",
+      "displayName": "HAIMA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38421,
+          "modelName": "HAIMA S7 (HMC)",
+          "modelYearFrom": "2015-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38422,
+          "modelName": "HAIMA S5 (HMA)",
+          "modelYearFrom": "2017-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3084,
+      "manufacturerName": "IRAN KHODRO",
+      "groupKey": "PAYKAN",
+      "displayName": "PAYKAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36243,
+          "modelName": "PAYKAN / BARDO Pick-up (B07)",
+          "modelYearFrom": "1968-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38344,
+          "modelName": "PAYKAN A trois volumes (B05)",
+          "modelYearFrom": "1967-04-01",
+          "modelYearTo": "2005-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3084,
+      "manufacturerName": "IRAN KHODRO",
+      "groupKey": "PEUGEOT",
+      "displayName": "PEUGEOT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37031,
+          "modelName": "PEUGEOT PARS",
+          "modelYearFrom": "1999-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38345,
+          "modelName": "PEUGEOT 504 A trois volumes (M03)",
+          "modelYearFrom": "1993-11-01",
+          "modelYearTo": "1998-10-01"
+        },
+        {
+          "modelId": 38346,
+          "modelName": "PEUGEOT 207 i Berline bicorps trois ou cinq portes (WC)",
+          "modelYearFrom": "2010-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38388,
+          "modelName": "PEUGEOT 2008 (CU)",
+          "modelYearFrom": "2017-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38389,
+          "modelName": "PEUGEOT 301 (DD)",
+          "modelYearFrom": "2017-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38390,
+          "modelName": "PEUGEOT 508 (8D)",
+          "modelYearFrom": "2017-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38398,
+          "modelName": "PEUGEOT 405 A trois volumes (15B)",
+          "modelYearFrom": "1990-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38399,
+          "modelName": "PEUGEOT 405 Break (15E)",
+          "modelYearFrom": "1997-06-01",
+          "modelYearTo": "2000-08-01"
+        },
+        {
+          "modelId": 38400,
+          "modelName": "PEUGEOT 205 (741A)",
+          "modelYearFrom": "1995-08-01",
+          "modelYearTo": "2000-07-01"
+        },
+        {
+          "modelId": 38401,
+          "modelName": "PEUGEOT RD",
+          "modelYearFrom": "1995-10-01",
+          "modelYearTo": "2005-05-01"
+        },
+        {
+          "modelId": 38402,
+          "modelName": "PEUGEOT 206 Berline bicorps trois ou cinq portes (2C, 2A)",
+          "modelYearFrom": "2000-08-01",
+          "modelYearTo": "2005-07-01"
+        },
+        {
+          "modelId": 38403,
+          "modelName": "PEUGEOT 206 Berline bicorps trois ou cinq portes (2A)",
+          "modelYearFrom": "2005-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38404,
+          "modelName": "PEUGEOT 206 A trois volumes (2R)",
+          "modelYearFrom": "2005-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38758,
+          "modelName": "PEUGEOT 207 i A trois volumes (2N)",
+          "modelYearFrom": "2018-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3084,
+      "manufacturerName": "IRAN KHODRO",
+      "groupKey": "RENAULT",
+      "displayName": "RENAULT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36242,
+          "modelName": "RENAULT TONDAR 90 A trois volumes (LSDAM)",
+          "modelYearFrom": "2004-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38391,
+          "modelName": "RENAULT CAPTUR (J5)",
+          "modelYearFrom": "2015-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38405,
+          "modelName": "RENAULT TONDAR R90 Break (KSDAM)",
+          "modelYearFrom": "2004-11-01",
+          "modelYearTo": "2010-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3084,
+      "manufacturerName": "IRAN KHODRO",
+      "groupKey": "ROA",
+      "displayName": "ROA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38370,
+          "modelName": "ROA (15B)",
+          "modelYearFrom": "1999-01-01",
+          "modelYearTo": "2010-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3084,
+      "manufacturerName": "IRAN KHODRO",
+      "groupKey": "RUNNA",
+      "displayName": "RUNNA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13053,
+          "modelName": "RUNNA A trois volumes (X12)",
+          "modelYearFrom": "2010-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3084,
+      "manufacturerName": "IRAN KHODRO",
+      "groupKey": "SAMAND",
+      "displayName": "SAMAND",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13042,
+          "modelName": "SAMAND A trois volumes (7B)",
+          "modelYearFrom": "2001-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3084,
+      "manufacturerName": "IRAN KHODRO",
+      "groupKey": "SARIR",
+      "displayName": "SARIR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13045,
+          "modelName": "SARIR A trois volumes (7B)",
+          "modelYearFrom": "2003-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3084,
+      "manufacturerName": "IRAN KHODRO",
+      "groupKey": "SOREN",
+      "displayName": "SOREN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13043,
+          "modelName": "SOREN A trois volumes (ELX)",
+          "modelYearFrom": "2007-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3084,
+      "manufacturerName": "IRAN KHODRO",
+      "groupKey": "SUZUKI",
+      "displayName": "SUZUKI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38412,
+          "modelName": "SUZUKI KIZASHI (A6B42)",
+          "modelYearFrom": "2013-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38419,
+          "modelName": "SUZUKI GRAND VITARA (JB424W)",
+          "modelYearFrom": "2006-06-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

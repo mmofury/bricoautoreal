@@ -1,0 +1,43 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H0W3Z1",
+      "index": "EL173910",
+      "tecDoc": "173.910",
+      "tecDocProd": "10",
+      "articleNumber": "173.910",
+      "brand": "ELRING",
+      "shortDescription": "Automatic Transmission",
+      "description": "Automatic transmission element, piston ZF ZF8HP65, ZF8HP75",
+      "gtuCode": "GTU_07",
+      "eans": [
+        "4041248975244"
+      ],
+      "packageWeight": "0,530",
+      "packageWidth": "19,000",
+      "packageDepth": "19,000",
+      "packageHeight": "4,000",
+      "customsCode": "87084099",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3066",
+          "primary": true,
+          "name": {
+            "en": "Automatic Transmission"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_60522",
+          "primary": false,
+          "name": {
+            "en": "Shift Piston, multi-plate clutch (automatic transmission)"
+          }
+        }
+      ]
+    }
+  ]
+}

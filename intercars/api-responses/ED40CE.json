@@ -1,0 +1,36 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "ED40CE",
+      "index": "CO49396931",
+      "tecDoc": "49396931",
+      "tecDocProd": "140",
+      "articleNumber": "49396931",
+      "brand": "CORTECO",
+      "shortDescription": "Repair Kit, steering gear",
+      "description": "Tie rod (with no end) L/R fits: NISSAN NV300, PRIMASTAR, OPEL VIVARO A, VIVARO B, RENAULT TRAFIC, TRAFIC II, TRAFIC III 1.6D-2.5D 09.94-",
+      "gtuCode": "GTU_07",
+      "customsCode": "87089993",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_51",
+          "primary": false,
+          "name": {
+            "en": "Inner Tie Rod"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3080",
+          "primary": true,
+          "name": {
+            "en": "Repair Kit, steering gear"
+          }
+        }
+      ]
+    }
+  ]
+}

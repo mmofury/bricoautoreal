@@ -1,0 +1,54 @@
+{
+  "productName": "Limiteur de couple sur le pic d'embrayage",
+  "searchText": "Limiteur de couple sur le pic d'embrayage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:12:20.670Z",
+  "productId": 5946,
+  "arborescence": {
+    "Embrayage / composants": {
+      "categoryId": 100050,
+      "categoryName": "Embrayage / composants",
+      "level": 1,
+      "children": {
+        "Limiteur de couple sur le pic d'embrayage": {
+          "categoryId": null,
+          "categoryName": "Limiteur de couple sur le pic d'embrayage",
+          "level": 2,
+          "children": {
+            "Limiteur de couple sur le pic d'embrayage": {
+              "categoryId": 104511,
+              "categoryName": "Clutch Peak Torque Limiter",
+              "level": 2,
+              "children": [],
+              "productId": 5946
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Embrayage / composants [ID: 100050] (Niveau 1)\n    └── Limiteur de couple sur le pic d'embrayage (Niveau 2)\n        └── Clutch Peak Torque Limiter [ID: 104511] (Niveau 2) → ProductId: 5946",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Embrayage / composants",
+        "Limiteur de couple sur le pic d'embrayage",
+        "Clutch Peak Torque Limiter"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        104511
+      ],
+      "finalCategoryId": 104511,
+      "productId": 5946
+    }
+  ],
+  "productIdsInArbo": [
+    5946
+  ],
+  "matchedProductIds": [
+    5946
+  ]
+}

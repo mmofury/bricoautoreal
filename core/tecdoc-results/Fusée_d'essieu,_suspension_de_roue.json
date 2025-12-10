@@ -1,0 +1,69 @@
+{
+  "productName": "Fusée d'essieu, suspension de roue",
+  "searchText": "Fusée d'essieu, suspension de roue",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:41:51.869Z",
+  "productId": 1159,
+  "arborescence": {
+    "Suspension d'essieu/Guidage des roues/Roues": {
+      "categoryId": 100013,
+      "categoryName": "Suspension d'essieu/Guidage des roues/Roues",
+      "level": 1,
+      "children": {
+        "Fusée d'essieu / kit de réparation": {
+          "categoryId": null,
+          "categoryName": "Fusée d'essieu / kit de réparation",
+          "level": 2,
+          "children": {
+            "Fusée d'essieu, suspension de roue": {
+              "categoryId": 100207,
+              "categoryName": "Steering Knuckle/Repair Kit",
+              "level": 2,
+              "children": {
+                "Fusée d'essieu": {
+                  "categoryId": null,
+                  "categoryName": "Fusée d'essieu",
+                  "level": 4,
+                  "children": {
+                    "Fusée d'essieu, suspension de roue": {
+                      "categoryId": 100587,
+                      "categoryName": "Steering Knuckle",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1159
+                    }
+                  }
+                }
+              },
+              "productId": 1159
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Suspension d'essieu/Guidage des roues/Roues [ID: 100013] (Niveau 1)\n    └── Fusée d'essieu / kit de réparation (Niveau 2)\n        └── Steering Knuckle/Repair Kit [ID: 100207] (Niveau 2) → ProductId: 1159\n            └── Fusée d'essieu (Niveau 4)\n                └── Steering Knuckle [ID: 100587] (Niveau 3) → ProductId: 1159",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Fusée d'essieu / kit de réparation",
+        "Steering Knuckle/Repair Kit"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        100207
+      ],
+      "finalCategoryId": 100207,
+      "productId": 1159
+    }
+  ],
+  "productIdsInArbo": [
+    1159
+  ],
+  "matchedProductIds": [
+    1159
+  ]
+}

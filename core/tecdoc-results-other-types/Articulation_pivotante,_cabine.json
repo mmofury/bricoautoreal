@@ -1,0 +1,49 @@
+{
+  "productName": "Articulation pivotante, cabine",
+  "productId": 522,
+  "searchText": "Articulation pivotante, cabine",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Cabine du conducteur/carrosserie": {
+          "categoryId": 200022,
+          "categoryName": "Cabine du conducteur/carrosserie",
+          "level": 1,
+          "children": {
+            "Suspension de la cabine": {
+              "categoryId": null,
+              "categoryName": "Suspension de la cabine",
+              "level": 2,
+              "children": {
+                "Articulation pivotante, cabine": {
+                  "categoryId": 200025,
+                  "categoryName": "Driver Cab Suspension",
+                  "level": 2,
+                  "children": [],
+                  "productId": 522
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Cabine du conducteur/carrosserie [ID: 200022] (Niveau 1)\n    └── Suspension de la cabine (Niveau 2)\n        └── Driver Cab Suspension [ID: 200025] (Niveau 2) → ProductId: 522",
+      "productIdsInArbo": [
+        522
+      ],
+      "matchedProductIds": [
+        522
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T09:47:22.496Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

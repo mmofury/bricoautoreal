@@ -1,0 +1,82 @@
+{
+  "productName": "Tube de réparation, catalyseur",
+  "searchText": "Tube de réparation, catalyseur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:27:50.320Z",
+  "productId": 3466,
+  "arborescence": {
+    "Échappement": {
+      "categoryId": 100004,
+      "categoryName": "Échappement",
+      "level": 1,
+      "children": {
+        "Catalyseur": {
+          "categoryId": null,
+          "categoryName": "Catalyseur",
+          "level": 2,
+          "children": {
+            "Tube de réparation, catalyseur": {
+              "categoryId": 100047,
+              "categoryName": "Catalytic Converter",
+              "level": 2,
+              "children": [],
+              "productId": 3466
+            }
+          }
+        },
+        "Tuyaux": {
+          "categoryId": null,
+          "categoryName": "Tuyaux",
+          "level": 2,
+          "children": {
+            "Tube de réparation, catalyseur": {
+              "categoryId": 100315,
+              "categoryName": "Exhaust Pipes",
+              "level": 2,
+              "children": [],
+              "productId": 3466
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Échappement [ID: 100004] (Niveau 1)\n    ├── Catalyseur (Niveau 2)\n    │   └── Catalytic Converter [ID: 100047] (Niveau 2) → ProductId: 3466\n    └── Tuyaux (Niveau 2)\n        └── Exhaust Pipes [ID: 100315] (Niveau 2) → ProductId: 3466",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Échappement",
+        "Catalyseur",
+        "Catalytic Converter"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100047
+      ],
+      "finalCategoryId": 100047,
+      "productId": 3466
+    },
+    {
+      "path": [
+        "Échappement",
+        "Tuyaux",
+        "Exhaust Pipes"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100315
+      ],
+      "finalCategoryId": 100315,
+      "productId": 3466
+    }
+  ],
+  "productIdsInArbo": [
+    3466
+  ],
+  "matchedProductIds": [
+    3466
+  ]
+}

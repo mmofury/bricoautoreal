@@ -1,0 +1,43 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "A881C7",
+      "index": "24.0101-4806.2",
+      "tecDoc": "24.0101-4806.2",
+      "tecDocProd": "3",
+      "articleNumber": "24.0101-4806.2",
+      "brand": "ATE",
+      "shortDescription": "Accessory Kit, brake caliper",
+      "description": "Brake caliper repair kit front L/R (piston diameter: 10) fits: CITROEN ZX, ZX/HATCHBACK, PEUGEOT 205 I, 205 II, 309 I, 309 II, RENAULT 11, 19 I, 19 I CHAMADE, 19 II, 19 II CHAMADE 1.0-2.2 09.81-",
+      "gtuCode": "GTU_07",
+      "eans": [
+        "4006633015547"
+      ],
+      "packageWeight": "0,134",
+      "packageWidth": "17,000",
+      "packageDepth": "1,000",
+      "packageHeight": "13,500",
+      "customsCode": "87083091",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1165",
+          "primary": false,
+          "name": {
+            "en": "Guide Sleeve Kit, brake caliper"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_2513",
+          "primary": true,
+          "name": {
+            "en": "Accessory Kit, brake caliper"
+          }
+        }
+      ]
+    }
+  ]
+}

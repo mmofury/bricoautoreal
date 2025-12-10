@@ -1,0 +1,118 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.442Z",
+  "manufacturer": "OSHAN",
+  "countGroups": 5,
+  "groups": [
+    {
+      "manufacturerId": 5115,
+      "manufacturerName": "OSHAN",
+      "groupKey": "COS1",
+      "displayName": "COS1",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38923,
+          "modelName": "COS1°",
+          "modelYearFrom": "2018-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39807,
+          "modelName": "COS1° 5",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39808,
+          "modelName": "COS1° 3",
+          "modelYearFrom": "2019-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41297,
+          "modelName": "COS1° Pro",
+          "modelYearFrom": "2020-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41298,
+          "modelName": "COS1° Pro GT",
+          "modelYearFrom": "2020-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5115,
+      "manufacturerName": "OSHAN",
+      "groupKey": "COSMOS",
+      "displayName": "COSMOS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39303,
+          "modelName": "COSMOS",
+          "modelYearFrom": "2019-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5115,
+      "manufacturerName": "OSHAN",
+      "groupKey": "X5",
+      "displayName": "X5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41609,
+          "modelName": "X5",
+          "modelYearFrom": "2020-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43910,
+          "modelName": "X5 PLUS",
+          "modelYearFrom": "2022-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5115,
+      "manufacturerName": "OSHAN",
+      "groupKey": "X7",
+      "displayName": "X7",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40225,
+          "modelName": "X7",
+          "modelYearFrom": "2019-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42469,
+          "modelName": "X7 PLUS",
+          "modelYearFrom": "2021-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5115,
+      "manufacturerName": "OSHAN",
+      "groupKey": "Z6",
+      "displayName": "Z6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43035,
+          "modelName": "Z6",
+          "modelYearFrom": "2022-06-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

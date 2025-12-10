@@ -1,0 +1,149 @@
+{
+  "productName": "Joint, soupape d'air secondaire",
+  "searchText": "Joint, soupape d'air secondaire",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:56:30.313Z",
+  "productId": 5028,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Épuration des gaz d'échappement": {
+          "categoryId": null,
+          "categoryName": "Épuration des gaz d'échappement",
+          "level": 2,
+          "children": {
+            "Joint, soupape d'air secondaire": {
+              "categoryId": 100790,
+              "categoryName": "Exhaust Emission Control",
+              "level": 2,
+              "children": {
+                "Injection d'air secondaire": {
+                  "categoryId": null,
+                  "categoryName": "Injection d'air secondaire",
+                  "level": 4,
+                  "children": {
+                    "Joint, soupape d'air secondaire": {
+                      "categoryId": 100792,
+                      "categoryName": "Secondary Air Injection",
+                      "level": 3,
+                      "children": {
+                        "Joints": {
+                          "categoryId": null,
+                          "categoryName": "Joints",
+                          "level": 6,
+                          "children": {
+                            "Joint, soupape d'air secondaire": {
+                              "categoryId": 103445,
+                              "categoryName": "Gaskets",
+                              "level": 4,
+                              "children": [],
+                              "productId": 5028
+                            }
+                          }
+                        }
+                      },
+                      "productId": 5028
+                    }
+                  }
+                }
+              },
+              "productId": 5028
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Épuration des gaz d'échappement": {
+          "categoryId": null,
+          "categoryName": "Épuration des gaz d'échappement",
+          "level": 2,
+          "children": {
+            "Joint, soupape d'air secondaire": {
+              "categoryId": 100541,
+              "categoryName": "Exhaust Emission Control",
+              "level": 2,
+              "children": {
+                "Injection d'air secondaire": {
+                  "categoryId": null,
+                  "categoryName": "Injection d'air secondaire",
+                  "level": 4,
+                  "children": {
+                    "Joint, soupape d'air secondaire": {
+                      "categoryId": 100552,
+                      "categoryName": "Secondary Air Injection",
+                      "level": 3,
+                      "children": {
+                        "Joints": {
+                          "categoryId": null,
+                          "categoryName": "Joints",
+                          "level": 6,
+                          "children": {
+                            "Joint, soupape d'air secondaire": {
+                              "categoryId": 103444,
+                              "categoryName": "Gaskets",
+                              "level": 4,
+                              "children": [],
+                              "productId": 5028
+                            }
+                          }
+                        }
+                      },
+                      "productId": 5028
+                    }
+                  }
+                }
+              },
+              "productId": 5028
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carburation [ID: 100254] (Niveau 1)\n│   └── Épuration des gaz d'échappement (Niveau 2)\n│       └── Exhaust Emission Control [ID: 100790] (Niveau 2) → ProductId: 5028\n│           └── Injection d'air secondaire (Niveau 4)\n│               └── Secondary Air Injection [ID: 100792] (Niveau 3) → ProductId: 5028\n│                   └── Joints (Niveau 6)\n│                       └── Gaskets [ID: 103445] (Niveau 4) → ProductId: 5028\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Épuration des gaz d'échappement (Niveau 2)\n        └── Exhaust Emission Control [ID: 100541] (Niveau 2) → ProductId: 5028\n            └── Injection d'air secondaire (Niveau 4)\n                └── Secondary Air Injection [ID: 100552] (Niveau 3) → ProductId: 5028\n                    └── Joints (Niveau 6)\n                        └── Gaskets [ID: 103444] (Niveau 4) → ProductId: 5028",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Épuration des gaz d'échappement",
+        "Exhaust Emission Control"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        100790
+      ],
+      "finalCategoryId": 100790,
+      "productId": 5028
+    },
+    {
+      "path": [
+        "Moteur",
+        "Épuration des gaz d'échappement",
+        "Exhaust Emission Control"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100541
+      ],
+      "finalCategoryId": 100541,
+      "productId": 5028
+    }
+  ],
+  "productIdsInArbo": [
+    5028
+  ],
+  "matchedProductIds": [
+    5028
+  ]
+}

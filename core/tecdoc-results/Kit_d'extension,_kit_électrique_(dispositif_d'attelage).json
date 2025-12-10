@@ -1,0 +1,57 @@
+{
+  "productName": "Kit d'extension, kit électrique (dispositif d'attelage)",
+  "searchText": "Kit d'extension, kit électrique (dispositif d'attelage)",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T21:07:45.851Z",
+  "productId": 6880,
+  "arborescence": {
+    "Dispositif d'attelage/accessoires": {
+      "categoryId": 100015,
+      "categoryName": "Dispositif d'attelage/accessoires",
+      "level": 1,
+      "children": {
+        "Pièces du système électrique": {
+          "categoryId": null,
+          "categoryName": "Pièces du système électrique",
+          "level": 2,
+          "children": {
+            "Kit d'extension, kit électrique (dispositif d'attelage)": {
+              "categoryId": 100608,
+              "categoryName": "Electric Parts",
+              "level": 2,
+              "children": [],
+              "productId": 6881
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif d'attelage/accessoires [ID: 100015] (Niveau 1)\n    └── Pièces du système électrique (Niveau 2)\n        └── Electric Parts [ID: 100608] (Niveau 2) → ProductId: 6881",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif d'attelage/accessoires",
+        "Pièces du système électrique",
+        "Electric Parts"
+      ],
+      "categoryIds": [
+        100015,
+        null,
+        100608
+      ],
+      "finalCategoryId": 100608,
+      "productId": 6881
+    }
+  ],
+  "productIdsInArbo": [
+    6881
+  ],
+  "closestProductIds": [
+    {
+      "productId": 6881,
+      "productName": "Kit d'extension, kit électrique (dispositif d'attelage)"
+    }
+  ]
+}

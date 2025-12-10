@@ -1,0 +1,36 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H122YI",
+      "index": "BOS261-002",
+      "tecDoc": "261-002",
+      "tecDocProd": "41",
+      "articleNumber": "261-002",
+      "brand": "BOSAL",
+      "shortDescription": "Nut, exhaust manifold",
+      "description": "Exhaust system fitting element (nut), M14x1,5, 1pcs",
+      "gtuCode": "GTU_07",
+      "customsCode": "87089299",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1788",
+          "primary": true,
+          "name": {
+            "en": "Nut, exhaust manifold"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_5908",
+          "primary": false,
+          "name": {
+            "en": "Weld-On Bung, exhaust temperature sensor"
+          }
+        }
+      ]
+    }
+  ]
+}

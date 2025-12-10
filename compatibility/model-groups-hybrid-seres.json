@@ -1,0 +1,82 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.480Z",
+  "manufacturer": "SERES",
+  "countGroups": 5,
+  "groups": [
+    {
+      "manufacturerId": 5590,
+      "manufacturerName": "SERES",
+      "groupKey": "3",
+      "displayName": "3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41802,
+          "modelName": "3",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5590,
+      "manufacturerName": "SERES",
+      "groupKey": "5",
+      "displayName": "5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44495,
+          "modelName": "5 Coupe",
+          "modelYearFrom": "2023-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5590,
+      "manufacturerName": "SERES",
+      "groupKey": "E1",
+      "displayName": "E1",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44677,
+          "modelName": "E1",
+          "modelYearFrom": "2023-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5590,
+      "manufacturerName": "SERES",
+      "groupKey": "E5",
+      "displayName": "E5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45467,
+          "modelName": "E5",
+          "modelYearFrom": "2023-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5590,
+      "manufacturerName": "SERES",
+      "groupKey": "SF",
+      "displayName": "SF",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40917,
+          "modelName": "SF 5 Coupe",
+          "modelYearFrom": "2020-06-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

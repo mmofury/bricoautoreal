@@ -1,0 +1,54 @@
+{
+  "productName": "Jeu de joints-soufflets, direction",
+  "searchText": "Jeu de joints-soufflets, direction",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:50:48.343Z",
+  "productId": 195,
+  "arborescence": {
+    "Direction": {
+      "categoryId": 100012,
+      "categoryName": "Direction",
+      "level": 1,
+      "children": {
+        "Soufflet / joint": {
+          "categoryId": null,
+          "categoryName": "Soufflet / joint",
+          "level": 2,
+          "children": {
+            "Jeu de joints-soufflets, direction": {
+              "categoryId": 100201,
+              "categoryName": "Bellow/Seal",
+              "level": 2,
+              "children": [],
+              "productId": 195
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Direction [ID: 100012] (Niveau 1)\n    └── Soufflet / joint (Niveau 2)\n        └── Bellow/Seal [ID: 100201] (Niveau 2) → ProductId: 195",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Direction",
+        "Soufflet / joint",
+        "Bellow/Seal"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        100201
+      ],
+      "finalCategoryId": 100201,
+      "productId": 195
+    }
+  ],
+  "productIdsInArbo": [
+    195
+  ],
+  "matchedProductIds": [
+    195
+  ]
+}

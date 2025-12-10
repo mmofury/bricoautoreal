@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G0QHJX",
+      "index": "FE40039",
+      "tecDoc": "40039",
+      "tecDocProd": "101",
+      "articleNumber": "40039",
+      "brand": "FEBI",
+      "shortDescription": "Oil Pump, manual transmission",
+      "description": "Oil pump fits: SCANIA 3, 4, G I, P I, R I, T DC09.108-OC9.G04 05.87-05.19",
+      "customsCode": "84133080",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3991",
+          "primary": true,
+          "name": {
+            "en": "Oil Pump, manual transmission"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_5204",
+          "primary": false,
+          "name": {
+            "en": "Oil pump, automatic transmission"
+          }
+        }
+      ]
+    }
+  ]
+}

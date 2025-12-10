@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "F70F79",
+      "index": "2.64014",
+      "tecDoc": "2.64014",
+      "tecDocProd": "355",
+      "articleNumber": "2.64014",
+      "brand": "DT SPARE PARTS",
+      "shortDescription": "Air Suspension Valve",
+      "description": "Pneumatic suspension, valve,M12x1,5",
+      "packageWeight": "0,480",
+      "packageWidth": "12,600",
+      "packageDepth": "12,400",
+      "packageHeight": "13,600",
+      "customsCode": "84812090",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_2072",
+          "primary": false,
+          "name": {
+            "en": "Valve, electronic leveling control"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_326",
+          "primary": true,
+          "name": {
+            "en": "Air Suspension Valve"
+          }
+        }
+      ]
+    }
+  ]
+}

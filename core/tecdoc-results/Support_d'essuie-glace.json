@@ -1,0 +1,60 @@
+{
+  "productName": "Support d'essuie-glace",
+  "searchText": "Support d'essuie-glace",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:20:11.187Z",
+  "productId": 302,
+  "arborescence": {
+    "Nettoyage des phares": {
+      "categoryId": 100342,
+      "categoryName": "Nettoyage des phares",
+      "level": 1,
+      "children": []
+    },
+    "Nettoyage des vitres": {
+      "categoryId": 100018,
+      "categoryName": "Nettoyage des vitres",
+      "level": 1,
+      "children": {
+        "Bras d'essuie-glace / fixation": {
+          "categoryId": null,
+          "categoryName": "Bras d'essuie-glace / fixation",
+          "level": 2,
+          "children": {
+            "Support d'essuie-glace": {
+              "categoryId": 100136,
+              "categoryName": "Wiper Arm/Bearing",
+              "level": 2,
+              "children": [],
+              "productId": 302
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Nettoyage des phares [ID: 100342] (Niveau 1)\n\n└── Nettoyage des vitres [ID: 100018] (Niveau 1)\n    └── Bras d'essuie-glace / fixation (Niveau 2)\n        └── Wiper Arm/Bearing [ID: 100136] (Niveau 2) → ProductId: 302",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Nettoyage des vitres",
+        "Bras d'essuie-glace / fixation",
+        "Wiper Arm/Bearing"
+      ],
+      "categoryIds": [
+        100018,
+        null,
+        100136
+      ],
+      "finalCategoryId": 100136,
+      "productId": 302
+    }
+  ],
+  "productIdsInArbo": [
+    302
+  ],
+  "matchedProductIds": [
+    302
+  ]
+}

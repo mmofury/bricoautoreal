@@ -1,0 +1,43 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "E1335A",
+      "index": "182211000700",
+      "tecDoc": "182211000700",
+      "tecDocProd": "95",
+      "articleNumber": "182211000700",
+      "brand": "MAGNETI MARELLI",
+      "shortDescription": "Side mirror frame",
+      "description": "Housing/cover of side mirror L (coarse) fits: IVECO DAILY IV 05.06-08.11",
+      "gtuCode": "GTU_07",
+      "customsCode": "87082990",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_848",
+          "primary": false,
+          "name": {
+            "en": "Side mirror support"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3258",
+          "primary": true,
+          "name": {
+            "en": "Side mirror frame"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_23",
+          "primary": false,
+          "name": {
+            "en": "Side mirror cover"
+          }
+        }
+      ]
+    }
+  ]
+}

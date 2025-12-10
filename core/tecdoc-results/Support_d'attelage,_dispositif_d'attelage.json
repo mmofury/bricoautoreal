@@ -1,0 +1,82 @@
+{
+  "productName": "Support d'attelage, dispositif d'attelage",
+  "searchText": "Support d'attelage, dispositif d'attelage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:19:23.203Z",
+  "productId": 38,
+  "arborescence": {
+    "Dispositif d'attelage/accessoires": {
+      "categoryId": 100015,
+      "categoryName": "Dispositif d'attelage/accessoires",
+      "level": 1,
+      "children": {
+        "Composants / pièces de montage": {
+          "categoryId": null,
+          "categoryName": "Composants / pièces de montage",
+          "level": 2,
+          "children": {
+            "Support d'attelage, dispositif d'attelage": {
+              "categoryId": 100609,
+              "categoryName": "Parts",
+              "level": 2,
+              "children": [],
+              "productId": 38
+            }
+          }
+        },
+        "Dispositif d'attelage/accessoires": {
+          "categoryId": null,
+          "categoryName": "Dispositif d'attelage/accessoires",
+          "level": 2,
+          "children": {
+            "Support d'attelage, dispositif d'attelage": {
+              "categoryId": 100607,
+              "categoryName": "Trailer Hitch",
+              "level": 2,
+              "children": [],
+              "productId": 38
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif d'attelage/accessoires [ID: 100015] (Niveau 1)\n    ├── Composants / pièces de montage (Niveau 2)\n    │   └── Parts [ID: 100609] (Niveau 2) → ProductId: 38\n    └── Dispositif d'attelage/accessoires (Niveau 2)\n        └── Trailer Hitch [ID: 100607] (Niveau 2) → ProductId: 38",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif d'attelage/accessoires",
+        "Composants / pièces de montage",
+        "Parts"
+      ],
+      "categoryIds": [
+        100015,
+        null,
+        100609
+      ],
+      "finalCategoryId": 100609,
+      "productId": 38
+    },
+    {
+      "path": [
+        "Dispositif d'attelage/accessoires",
+        "Dispositif d'attelage/accessoires",
+        "Trailer Hitch"
+      ],
+      "categoryIds": [
+        100015,
+        null,
+        100607
+      ],
+      "finalCategoryId": 100607,
+      "productId": 38
+    }
+  ],
+  "productIdsInArbo": [
+    38
+  ],
+  "matchedProductIds": [
+    38
+  ]
+}

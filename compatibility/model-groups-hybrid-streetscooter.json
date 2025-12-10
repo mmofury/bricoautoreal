@@ -1,0 +1,61 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.498Z",
+  "manufacturer": "STREETSCOOTER",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 4015,
+      "manufacturerName": "STREETSCOOTER",
+      "groupKey": "COMPACT",
+      "displayName": "COMPACT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11876,
+          "modelName": "COMPACT",
+          "modelYearFrom": "2013-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4015,
+      "manufacturerName": "STREETSCOOTER",
+      "groupKey": "WORK",
+      "displayName": "WORK",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11877,
+          "modelName": "WORK Fourgon",
+          "modelYearFrom": "2015-01-01",
+          "modelYearTo": "2022-07-01"
+        },
+        {
+          "modelId": 14590,
+          "modelName": "WORK Camion plate-forme/Châssis",
+          "modelYearFrom": "2015-01-01",
+          "modelYearTo": "2022-07-01"
+        },
+        {
+          "modelId": 39562,
+          "modelName": "WORK L Fourgon",
+          "modelYearFrom": "2019-05-01",
+          "modelYearTo": "2022-07-01"
+        },
+        {
+          "modelId": 39563,
+          "modelName": "WORK L Camion plate-forme/Châssis",
+          "modelYearFrom": "2019-05-01",
+          "modelYearTo": "2022-07-01"
+        },
+        {
+          "modelId": 41074,
+          "modelName": "WORK XL Camion plate-forme/Châssis",
+          "modelYearFrom": "2018-11-01",
+          "modelYearTo": "2022-07-01"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H158MB",
+      "index": "038.405-00",
+      "tecDoc": "038.405-00A",
+      "tecDocProd": "63",
+      "articleNumber": "038.405-00A",
+      "brand": "PETERS",
+      "shortDescription": "Door Handle, interior equipment",
+      "description": "Door handle L inner fits: MAN TGL I, TGS I, TGX I 01.04-",
+      "gtuCode": "GTU_07",
+      "customsCode": "87082990",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3719",
+          "primary": true,
+          "name": {
+            "en": "Door Handle, interior equipment"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1373",
+          "primary": false,
+          "name": {
+            "en": "Exterior Door Handle"
+          }
+        }
+      ]
+    }
+  ]
+}

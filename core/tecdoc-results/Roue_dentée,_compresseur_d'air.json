@@ -1,0 +1,54 @@
+{
+  "productName": "Roue dentée, compresseur d'air",
+  "searchText": "Roue dentée, compresseur d'air",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:12:25.602Z",
+  "productId": 4077,
+  "arborescence": {
+    "Suspension/Amortissement": {
+      "categoryId": 100011,
+      "categoryName": "Suspension/Amortissement",
+      "level": 1,
+      "children": {
+        "Suspension pneumatique": {
+          "categoryId": null,
+          "categoryName": "Suspension pneumatique",
+          "level": 2,
+          "children": {
+            "Roue dentée, compresseur d'air": {
+              "categoryId": 101884,
+              "categoryName": "Air Suspension",
+              "level": 2,
+              "children": [],
+              "productId": 4077
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Suspension/Amortissement [ID: 100011] (Niveau 1)\n    └── Suspension pneumatique (Niveau 2)\n        └── Air Suspension [ID: 101884] (Niveau 2) → ProductId: 4077",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Suspension pneumatique",
+        "Air Suspension"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        101884
+      ],
+      "finalCategoryId": 101884,
+      "productId": 4077
+    }
+  ],
+  "productIdsInArbo": [
+    4077
+  ],
+  "matchedProductIds": [
+    4077
+  ]
+}

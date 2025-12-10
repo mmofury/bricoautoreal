@@ -1,0 +1,49 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.484Z",
+  "manufacturer": "SINGER",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 4731,
+      "manufacturerName": "SINGER",
+      "groupKey": "GAZELLE",
+      "displayName": "GAZELLE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38062,
+          "modelName": "GAZELLE Décapotable",
+          "modelYearFrom": "1961-01-01",
+          "modelYearTo": "1962-02-01"
+        },
+        {
+          "modelId": 38064,
+          "modelName": "GAZELLE A trois volumes",
+          "modelYearFrom": "1958-01-01",
+          "modelYearTo": "1963-12-01"
+        },
+        {
+          "modelId": 38065,
+          "modelName": "GAZELLE A trois volumes",
+          "modelYearFrom": "1956-01-01",
+          "modelYearTo": "1958-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4731,
+      "manufacturerName": "SINGER",
+      "groupKey": "VOGUE",
+      "displayName": "VOGUE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38063,
+          "modelName": "VOGUE",
+          "modelYearFrom": "1961-01-01",
+          "modelYearTo": "1963-12-01"
+        }
+      ]
+    }
+  ]
+}

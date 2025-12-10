@@ -1,0 +1,69 @@
+{
+  "productName": "Couvercle de protecti°, palier central d'arbre de transmiss°",
+  "searchText": "Couvercle de protecti°, palier central d'arbre de transmiss°",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:26:59.791Z",
+  "productId": 2113,
+  "arborescence": {
+    "Entraînement des essieux": {
+      "categoryId": 100400,
+      "categoryName": "Entraînement des essieux",
+      "level": 1,
+      "children": {
+        "Arbre de transmission": {
+          "categoryId": null,
+          "categoryName": "Arbre de transmission",
+          "level": 2,
+          "children": {
+            "Couvercle de protecti°, palier central d'arbre de transmiss°": {
+              "categoryId": 100703,
+              "categoryName": "Propshaft",
+              "level": 2,
+              "children": {
+                "Arbre de transmission": {
+                  "categoryId": null,
+                  "categoryName": "Arbre de transmission",
+                  "level": 4,
+                  "children": {
+                    "Couvercle de protecti°, palier central d'arbre de transmiss°": {
+                      "categoryId": 100805,
+                      "categoryName": "Propshaft",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2113
+                    }
+                  }
+                }
+              },
+              "productId": 2113
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement des essieux [ID: 100400] (Niveau 1)\n    └── Arbre de transmission (Niveau 2)\n        └── Propshaft [ID: 100703] (Niveau 2) → ProductId: 2113\n            └── Arbre de transmission (Niveau 4)\n                └── Propshaft [ID: 100805] (Niveau 3) → ProductId: 2113",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des essieux",
+        "Arbre de transmission",
+        "Propshaft"
+      ],
+      "categoryIds": [
+        100400,
+        null,
+        100703
+      ],
+      "finalCategoryId": 100703,
+      "productId": 2113
+    }
+  ],
+  "productIdsInArbo": [
+    2113
+  ],
+  "matchedProductIds": [
+    2113
+  ]
+}

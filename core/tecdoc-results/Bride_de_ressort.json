@@ -1,0 +1,142 @@
+{
+  "productName": "Bride de ressort",
+  "searchText": "Bride de ressort",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:11:54.263Z",
+  "productId": 649,
+  "arborescence": {
+    "Suspension/Amortissement": {
+      "categoryId": 100011,
+      "categoryName": "Suspension/Amortissement",
+      "level": 1,
+      "children": {
+        "Suspension sur ressorts à lames": {
+          "categoryId": null,
+          "categoryName": "Suspension sur ressorts à lames",
+          "level": 2,
+          "children": {
+            "Anneau de centrage, ressort à lames": {
+              "categoryId": 100810,
+              "categoryName": "Leaf Spring Suspension",
+              "level": 2,
+              "children": [],
+              "productId": 650
+            },
+            "Bride de ressort": {
+              "categoryId": 100810,
+              "categoryName": "Leaf Spring Suspension",
+              "level": 2,
+              "children": [],
+              "productId": 649
+            },
+            "Bride de ressort, châssis": {
+              "categoryId": 100810,
+              "categoryName": "Leaf Spring Suspension",
+              "level": 2,
+              "children": [],
+              "productId": 3058
+            },
+            "Écrou de bride": {
+              "categoryId": 100810,
+              "categoryName": "Leaf Spring Suspension",
+              "level": 2,
+              "children": [],
+              "productId": 1671
+            },
+            "Kit de réparation, bride de ressort-châssis": {
+              "categoryId": 100810,
+              "categoryName": "Leaf Spring Suspension",
+              "level": 2,
+              "children": [],
+              "productId": 4030
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Suspension/Amortissement [ID: 100011] (Niveau 1)\n    └── Suspension sur ressorts à lames (Niveau 2)\n        ├── Leaf Spring Suspension [ID: 100810] (Niveau 2) → ProductId: 650\n        ├── Leaf Spring Suspension [ID: 100810] (Niveau 2) → ProductId: 649\n        ├── Leaf Spring Suspension [ID: 100810] (Niveau 2) → ProductId: 3058\n        ├── Leaf Spring Suspension [ID: 100810] (Niveau 2) → ProductId: 1671\n        └── Leaf Spring Suspension [ID: 100810] (Niveau 2) → ProductId: 4030",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Suspension sur ressorts à lames",
+        "Leaf Spring Suspension"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        100810
+      ],
+      "finalCategoryId": 100810,
+      "productId": 650
+    },
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Suspension sur ressorts à lames",
+        "Leaf Spring Suspension"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        100810
+      ],
+      "finalCategoryId": 100810,
+      "productId": 649
+    },
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Suspension sur ressorts à lames",
+        "Leaf Spring Suspension"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        100810
+      ],
+      "finalCategoryId": 100810,
+      "productId": 3058
+    },
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Suspension sur ressorts à lames",
+        "Leaf Spring Suspension"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        100810
+      ],
+      "finalCategoryId": 100810,
+      "productId": 1671
+    },
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Suspension sur ressorts à lames",
+        "Leaf Spring Suspension"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        100810
+      ],
+      "finalCategoryId": 100810,
+      "productId": 4030
+    }
+  ],
+  "productIdsInArbo": [
+    649,
+    650,
+    1671,
+    3058,
+    4030
+  ],
+  "matchedProductIds": [
+    649
+  ]
+}

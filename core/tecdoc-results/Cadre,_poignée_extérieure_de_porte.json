@@ -1,0 +1,54 @@
+{
+  "productName": "Cadre, poignée extérieure de porte",
+  "searchText": "Cadre, poignée extérieure de porte",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:13:46.760Z",
+  "productId": 1377,
+  "arborescence": {
+    "Verrouillage": {
+      "categoryId": 100685,
+      "categoryName": "Verrouillage",
+      "level": 1,
+      "children": {
+        "Poignées": {
+          "categoryId": null,
+          "categoryName": "Poignées",
+          "level": 2,
+          "children": {
+            "Cadre, poignée extérieure de porte": {
+              "categoryId": 100691,
+              "categoryName": "Handles",
+              "level": 2,
+              "children": [],
+              "productId": 1377
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Verrouillage [ID: 100685] (Niveau 1)\n    └── Poignées (Niveau 2)\n        └── Handles [ID: 100691] (Niveau 2) → ProductId: 1377",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Verrouillage",
+        "Poignées",
+        "Handles"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100691
+      ],
+      "finalCategoryId": 100691,
+      "productId": 1377
+    }
+  ],
+  "productIdsInArbo": [
+    1377
+  ],
+  "matchedProductIds": [
+    1377
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "productName": "Vérin, frein à inertie",
+  "searchText": "Vérin, frein à inertie",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:36:26.327Z",
+  "productId": 232,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Ressorts pneumatiques": {
+          "categoryId": null,
+          "categoryName": "Ressorts pneumatiques",
+          "level": 2,
+          "children": {
+            "Vérin, frein à inertie": {
+              "categoryId": 100826,
+              "categoryName": "Gas Springs",
+              "level": 2,
+              "children": [],
+              "productId": 232
+            }
+          }
+        }
+      }
+    },
+    "Dispositif d'attelage/accessoires": {
+      "categoryId": 100015,
+      "categoryName": "Dispositif d'attelage/accessoires",
+      "level": 1,
+      "children": {
+        "Composants / pièces de montage": {
+          "categoryId": null,
+          "categoryName": "Composants / pièces de montage",
+          "level": 2,
+          "children": {
+            "Vérin, frein à inertie": {
+              "categoryId": 100609,
+              "categoryName": "Parts",
+              "level": 2,
+              "children": [],
+              "productId": 232
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carrosserie [ID: 100001] (Niveau 1)\n│   └── Ressorts pneumatiques (Niveau 2)\n│       └── Gas Springs [ID: 100826] (Niveau 2) → ProductId: 232\n\n└── Dispositif d'attelage/accessoires [ID: 100015] (Niveau 1)\n    └── Composants / pièces de montage (Niveau 2)\n        └── Parts [ID: 100609] (Niveau 2) → ProductId: 232",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Ressorts pneumatiques",
+        "Gas Springs"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100826
+      ],
+      "finalCategoryId": 100826,
+      "productId": 232
+    },
+    {
+      "path": [
+        "Dispositif d'attelage/accessoires",
+        "Composants / pièces de montage",
+        "Parts"
+      ],
+      "categoryIds": [
+        100015,
+        null,
+        100609
+      ],
+      "finalCategoryId": 100609,
+      "productId": 232
+    }
+  ],
+  "productIdsInArbo": [
+    232
+  ],
+  "matchedProductIds": [
+    232
+  ]
+}

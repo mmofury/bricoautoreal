@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G0NFCK",
+      "index": "VKN 1001",
+      "tecDoc": "VKN 1001",
+      "tecDocProd": "50",
+      "articleNumber": "VKN 1001",
+      "brand": "SKF",
+      "shortDescription": "Timing gear lock",
+      "description": "Camshaft lock, VAG 1.4/1.6, 16V, gasoline engines, timing belt",
+      "eans": [
+        "7316576177422"
+      ],
+      "packageWeight": "0,920",
+      "packageWidth": "19,000",
+      "packageDepth": "27,000",
+      "packageHeight": "9,000",
+      "customsCode": "82055980",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4173",
+          "primary": false,
+          "name": {
+            "en": "Mounting Tool Set, belt drive"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_94037",
+          "primary": true,
+          "name": {
+            "en": "Timing gear lock"
+          }
+        }
+      ]
+    }
+  ]
+}

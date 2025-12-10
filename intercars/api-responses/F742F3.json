@@ -1,0 +1,40 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "F742F3",
+      "index": "7.74150",
+      "tecDoc": "7.74150",
+      "tecDocProd": "355",
+      "articleNumber": "7.74150",
+      "brand": "DT SPARE PARTS",
+      "shortDescription": "Cover, wheel hub",
+      "description": "Wheel hub cover",
+      "gtuCode": "GTU_07",
+      "packageWeight": "0,360",
+      "packageWidth": "27,000",
+      "packageDepth": "7,000",
+      "packageHeight": "49,000",
+      "customsCode": "87087099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4403",
+          "primary": false,
+          "name": {
+            "en": "Cover, fresh air conduit (cabin air)"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_5114",
+          "primary": true,
+          "name": {
+            "en": "Cover, wheel hub"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "E4192F",
+      "index": "2XX354 833-011",
+      "tecDoc": "2XX 354 833-011",
+      "tecDocProd": "2",
+      "articleNumber": "2XX 354 833-011",
+      "brand": "HELLA",
+      "shortDescription": "Rear light",
+      "description": "Rear lamp L (inner)",
+      "eans": [
+        "4082300692815"
+      ],
+      "packageWeight": "0,420",
+      "packageWidth": "28,000",
+      "packageDepth": "19,000",
+      "packageHeight": "9,500",
+      "customsCode": "85122000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_391",
+          "primary": true,
+          "name": {
+            "en": "Rear light"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_2968",
+          "primary": false,
+          "name": {
+            "en": "Cover, tailgate"
+          }
+        }
+      ]
+    }
+  ]
+}

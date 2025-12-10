@@ -1,0 +1,54 @@
+{
+  "productName": "Vanne d'inversion, blocage de différentiel",
+  "searchText": "Vanne d'inversion, blocage de différentiel",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:32:16.942Z",
+  "productId": 3556,
+  "arborescence": {
+    "Entraînement des essieux": {
+      "categoryId": 100400,
+      "categoryName": "Entraînement des essieux",
+      "level": 1,
+      "children": {
+        "Interrupteur/Soupapes": {
+          "categoryId": null,
+          "categoryName": "Interrupteur/Soupapes",
+          "level": 2,
+          "children": {
+            "Vanne d'inversion, blocage de différentiel": {
+              "categoryId": 100768,
+              "categoryName": "Switches/Valves",
+              "level": 2,
+              "children": [],
+              "productId": 3556
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement des essieux [ID: 100400] (Niveau 1)\n    └── Interrupteur/Soupapes (Niveau 2)\n        └── Switches/Valves [ID: 100768] (Niveau 2) → ProductId: 3556",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des essieux",
+        "Interrupteur/Soupapes",
+        "Switches/Valves"
+      ],
+      "categoryIds": [
+        100400,
+        null,
+        100768
+      ],
+      "finalCategoryId": 100768,
+      "productId": 3556
+    }
+  ],
+  "productIdsInArbo": [
+    3556
+  ],
+  "matchedProductIds": [
+    3556
+  ]
+}

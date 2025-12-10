@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "E130FB",
+      "index": "519000055300",
+      "tecDoc": "519000055300",
+      "tecDocProd": "95",
+      "articleNumber": "519000055300",
+      "brand": "MAGNETI MARELLI",
+      "shortDescription": "Fuel level control sensor",
+      "description": "Fuel level sensor fits: FIAT SCUDO 1.6D 01.07-03.16",
+      "customsCode": "90261029",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_454",
+          "primary": false,
+          "name": {
+            "en": "Fuel Supply Module"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1409",
+          "primary": true,
+          "name": {
+            "en": "Fuel level control sensor"
+          }
+        }
+      ]
+    }
+  ]
+}

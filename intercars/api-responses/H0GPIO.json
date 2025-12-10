@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H0GPIO",
+      "index": "HEPAP8428",
+      "tecDoc": "AP8428",
+      "tecDocProd": "178",
+      "articleNumber": "AP8428",
+      "brand": "HEPU",
+      "shortDescription": "Water pump, cooling circuit electrical drive",
+      "description": "Additional water pump (operation mode electric) fits: AUDI E-TRON Electric 09.18-",
+      "customsCode": "84133080",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_60575",
+          "primary": true,
+          "name": {
+            "en": "Water pump, cooling circuit electrical drive"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1351",
+          "primary": false,
+          "name": {
+            "en": "Auxiliary Water Pump (cooling water circuit)"
+          }
+        }
+      ]
+    }
+  ]
+}

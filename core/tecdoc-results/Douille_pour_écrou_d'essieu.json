@@ -1,0 +1,104 @@
+{
+  "productName": "Douille pour écrou d'essieu",
+  "searchText": "Douille pour écrou d'essieu",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:33:53.847Z",
+  "productId": 5790,
+  "arborescence": {
+    "Entraînement des essieux": {
+      "categoryId": 100400,
+      "categoryName": "Entraînement des essieux",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Douille pour écrou d'essieu": {
+              "categoryId": 104405,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 5790
+            }
+          }
+        }
+      }
+    },
+    "Outils spéciaux": {
+      "categoryId": 706365,
+      "categoryName": "Outils spéciaux",
+      "level": 1,
+      "children": {
+        "Outils spéciaux entraînement d’essieu": {
+          "categoryId": null,
+          "categoryName": "Outils spéciaux entraînement d’essieu",
+          "level": 2,
+          "children": {
+            "Douille pour écrou d'essieu": {
+              "categoryId": 706376,
+              "categoryName": "Special Tools, axle drive",
+              "level": 2,
+              "children": {
+                "Écrou d’essieu": {
+                  "categoryId": null,
+                  "categoryName": "Écrou d’essieu",
+                  "level": 4,
+                  "children": {
+                    "Douille pour écrou d'essieu": {
+                      "categoryId": 706377,
+                      "categoryName": "Axle Nut",
+                      "level": 3,
+                      "children": [],
+                      "productId": 5790
+                    }
+                  }
+                }
+              },
+              "productId": 5790
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Entraînement des essieux [ID: 100400] (Niveau 1)\n│   └── Outils (Niveau 2)\n│       └── Tools [ID: 104405] (Niveau 2) → ProductId: 5790\n\n└── Outils spéciaux [ID: 706365] (Niveau 1)\n    └── Outils spéciaux entraînement d’essieu (Niveau 2)\n        └── Special Tools, axle drive [ID: 706376] (Niveau 2) → ProductId: 5790\n            └── Écrou d’essieu (Niveau 4)\n                └── Axle Nut [ID: 706377] (Niveau 3) → ProductId: 5790",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des essieux",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100400,
+        null,
+        104405
+      ],
+      "finalCategoryId": 104405,
+      "productId": 5790
+    },
+    {
+      "path": [
+        "Outils spéciaux",
+        "Outils spéciaux entraînement d’essieu",
+        "Special Tools, axle drive"
+      ],
+      "categoryIds": [
+        706365,
+        null,
+        706376
+      ],
+      "finalCategoryId": 706376,
+      "productId": 5790
+    }
+  ],
+  "productIdsInArbo": [
+    5790
+  ],
+  "matchedProductIds": [
+    5790
+  ]
+}

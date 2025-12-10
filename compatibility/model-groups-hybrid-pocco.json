@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.449Z",
+  "manufacturer": "POCCO",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 6146,
+      "manufacturerName": "POCCO",
+      "groupKey": "DUODUO",
+      "displayName": "DUODUO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42420,
+          "modelName": "DUODUO",
+          "modelYearFrom": "2021-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6146,
+      "manufacturerName": "POCCO",
+      "groupKey": "MEIMEI",
+      "displayName": "MEIMEI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42103,
+          "modelName": "MEIMEI",
+          "modelYearFrom": "2021-03-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

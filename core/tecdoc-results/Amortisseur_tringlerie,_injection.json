@@ -1,0 +1,69 @@
+{
+  "productName": "Amortisseur tringlerie, injection",
+  "searchText": "Amortisseur tringlerie, injection",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T18:50:04.015Z",
+  "productId": 3912,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Amortisseur tringlerie, injection": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Câble/ tige d'accélérateur": {
+                  "categoryId": null,
+                  "categoryName": "Câble/ tige d'accélérateur",
+                  "level": 4,
+                  "children": {
+                    "Amortisseur tringlerie, injection": {
+                      "categoryId": 102802,
+                      "categoryName": "Accelerator Cable/Linkages",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3912
+                    }
+                  }
+                }
+              },
+              "productId": 3912
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carburation [ID: 100254] (Niveau 1)\n    └── Mélange air-carburant (Niveau 2)\n        └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 3912\n            └── Câble/ tige d'accélérateur (Niveau 4)\n                └── Accelerator Cable/Linkages [ID: 102802] (Niveau 3) → ProductId: 3912",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 3912
+    }
+  ],
+  "productIdsInArbo": [
+    3912
+  ],
+  "matchedProductIds": [
+    3912
+  ]
+}

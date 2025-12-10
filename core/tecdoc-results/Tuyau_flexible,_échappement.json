@@ -1,0 +1,115 @@
+{
+  "productName": "Tuyau flexible, échappement",
+  "searchText": "Tuyau flexible, échappement",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-03T07:28:56.879Z",
+  "productId": 3191,
+  "arborescence": {
+    "Échappement": {
+      "categoryId": 100004,
+      "categoryName": "Échappement",
+      "level": 1,
+      "children": {
+        "Pièces de montage": {
+          "categoryId": null,
+          "categoryName": "Pièces de montage",
+          "level": 2,
+          "children": {
+            "Tuyau flexible, échappement": {
+              "categoryId": 100222,
+              "categoryName": "Assembly Parts",
+              "level": 2,
+              "children": {
+                "Pièces détachées de montage": {
+                  "categoryId": null,
+                  "categoryName": "Pièces détachées de montage",
+                  "level": 4,
+                  "children": {
+                    "Tuyau flexible, échappement": {
+                      "categoryId": 100317,
+                      "categoryName": "Individual Assembly Parts",
+                      "level": 3,
+                      "children": {
+                        "Tuyaux": {
+                          "categoryId": null,
+                          "categoryName": "Tuyaux",
+                          "level": 6,
+                          "children": {
+                            "Tuyau flexible, échappement": {
+                              "categoryId": 102875,
+                              "categoryName": "Exhaust Pipes",
+                              "level": 4,
+                              "children": [],
+                              "productId": 3971
+                            }
+                          }
+                        }
+                      },
+                      "productId": 3971
+                    }
+                  }
+                }
+              },
+              "productId": 3971
+            }
+          }
+        },
+        "Tuyaux": {
+          "categoryId": null,
+          "categoryName": "Tuyaux",
+          "level": 2,
+          "children": {
+            "Tuyau flexible, échappement": {
+              "categoryId": 100315,
+              "categoryName": "Exhaust Pipes",
+              "level": 2,
+              "children": [],
+              "productId": 3971
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Échappement [ID: 100004] (Niveau 1)\n    ├── Pièces de montage (Niveau 2)\n    │   └── Assembly Parts [ID: 100222] (Niveau 2) → ProductId: 3971\n    │       └── Pièces détachées de montage (Niveau 4)\n    │           └── Individual Assembly Parts [ID: 100317] (Niveau 3) → ProductId: 3971\n    │               └── Tuyaux (Niveau 6)\n    │                   └── Exhaust Pipes [ID: 102875] (Niveau 4) → ProductId: 3971\n    └── Tuyaux (Niveau 2)\n        └── Exhaust Pipes [ID: 100315] (Niveau 2) → ProductId: 3971",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Échappement",
+        "Pièces de montage",
+        "Assembly Parts"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100222
+      ],
+      "finalCategoryId": 100222,
+      "productId": 3971
+    },
+    {
+      "path": [
+        "Échappement",
+        "Tuyaux",
+        "Exhaust Pipes"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100315
+      ],
+      "finalCategoryId": 100315,
+      "productId": 3971
+    }
+  ],
+  "productIdsInArbo": [
+    3971
+  ],
+  "closestProductIds": [
+    {
+      "productId": 3971,
+      "productName": "Tuyau flexible, échappement"
+    }
+  ]
+}

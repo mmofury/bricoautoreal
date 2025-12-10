@@ -1,0 +1,109 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.229Z",
+  "manufacturer": "DADI",
+  "countGroups": 6,
+  "groups": [
+    {
+      "manufacturerId": 2901,
+      "manufacturerName": "DADI",
+      "groupKey": "BADAO",
+      "displayName": "BADAO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8417,
+          "modelName": "BADAO",
+          "modelYearFrom": "2004-01-01",
+          "modelYearTo": "2012-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2901,
+      "manufacturerName": "DADI",
+      "groupKey": "CITY",
+      "displayName": "CITY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5950,
+          "modelName": "CITY COURSER",
+          "modelYearFrom": "2001-09-01",
+          "modelYearTo": "2004-08-01"
+        },
+        {
+          "modelId": 5951,
+          "modelName": "CITY COURSER",
+          "modelYearFrom": "2004-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2901,
+      "manufacturerName": "DADI",
+      "groupKey": "DUSHIWEILING",
+      "displayName": "DUSHIWEILING",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8421,
+          "modelName": "DUSHIWEILING",
+          "modelYearFrom": "2005-01-01",
+          "modelYearTo": "2009-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2901,
+      "manufacturerName": "DADI",
+      "groupKey": "ELEGANTEST",
+      "displayName": "ELEGANTEST",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6401,
+          "modelName": "ELEGANTEST",
+          "modelYearFrom": "2003-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2901,
+      "manufacturerName": "DADI",
+      "groupKey": "PICK",
+      "displayName": "PICK",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6113,
+          "modelName": "PICK UP",
+          "modelYearFrom": "2001-02-01",
+          "modelYearTo": "2003-07-01"
+        },
+        {
+          "modelId": 6114,
+          "modelName": "PICK UP",
+          "modelYearFrom": "2003-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2901,
+      "manufacturerName": "DADI",
+      "groupKey": "SHUNCHI",
+      "displayName": "SHUNCHI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39543,
+          "modelName": "SHUNCHI",
+          "modelYearFrom": "2006-12-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

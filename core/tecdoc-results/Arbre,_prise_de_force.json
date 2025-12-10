@@ -1,0 +1,54 @@
+{
+  "productName": "Arbre, prise de force",
+  "searchText": "Arbre, prise de force",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T18:57:16.465Z",
+  "productId": 8753,
+  "arborescence": {
+    "Prise de force": {
+      "categoryId": 103202,
+      "categoryName": "Prise de force",
+      "level": 1,
+      "children": {
+        "Prise de force": {
+          "categoryId": null,
+          "categoryName": "Prise de force",
+          "level": 2,
+          "children": {
+            "Arbre, prise de force": {
+              "categoryId": 706164,
+              "categoryName": "Power Take-off",
+              "level": 2,
+              "children": [],
+              "productId": 8753
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Prise de force [ID: 103202] (Niveau 1)\n    └── Prise de force (Niveau 2)\n        └── Power Take-off [ID: 706164] (Niveau 2) → ProductId: 8753",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Prise de force",
+        "Prise de force",
+        "Power Take-off"
+      ],
+      "categoryIds": [
+        103202,
+        null,
+        706164
+      ],
+      "finalCategoryId": 706164,
+      "productId": 8753
+    }
+  ],
+  "productIdsInArbo": [
+    8753
+  ],
+  "matchedProductIds": [
+    8753
+  ]
+}

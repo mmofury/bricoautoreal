@@ -1,0 +1,109 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.187Z",
+  "manufacturer": "BESTURN (FAW)",
+  "countGroups": 6,
+  "groups": [
+    {
+      "manufacturerId": 3762,
+      "manufacturerName": "BESTURN (FAW)",
+      "groupKey": "B30",
+      "displayName": "B30",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14842,
+          "modelName": "B30",
+          "modelYearFrom": "2015-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3762,
+      "manufacturerName": "BESTURN (FAW)",
+      "groupKey": "B50",
+      "displayName": "B50",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11787,
+          "modelName": "B50",
+          "modelYearFrom": "2009-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39184,
+          "modelName": "B50",
+          "modelYearFrom": "2016-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3762,
+      "manufacturerName": "BESTURN (FAW)",
+      "groupKey": "B70",
+      "displayName": "B70",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 12834,
+          "modelName": "B70",
+          "modelYearFrom": "2014-05-01",
+          "modelYearTo": "2020-12-01"
+        },
+        {
+          "modelId": 13411,
+          "modelName": "B70",
+          "modelYearFrom": "2006-01-01",
+          "modelYearTo": "2014-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3762,
+      "manufacturerName": "BESTURN (FAW)",
+      "groupKey": "B90",
+      "displayName": "B90",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11132,
+          "modelName": "B90",
+          "modelYearFrom": "2012-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3762,
+      "manufacturerName": "BESTURN (FAW)",
+      "groupKey": "X40",
+      "displayName": "X40",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37820,
+          "modelName": "X40",
+          "modelYearFrom": "2017-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3762,
+      "manufacturerName": "BESTURN (FAW)",
+      "groupKey": "X80",
+      "displayName": "X80",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11629,
+          "modelName": "X80",
+          "modelYearFrom": "2013-05-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

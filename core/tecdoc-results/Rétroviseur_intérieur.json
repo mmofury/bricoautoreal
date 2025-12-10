@@ -1,0 +1,191 @@
+{
+  "productName": "Rétroviseur intérieur",
+  "searchText": "Rétroviseur intérieur",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-03T07:14:56.351Z",
+  "productId": 849,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Habitacle": {
+          "categoryId": null,
+          "categoryName": "Habitacle",
+          "level": 2,
+          "children": {
+            "Rétroviseur intérieur": {
+              "categoryId": 101690,
+              "categoryName": "Passenger Cabin",
+              "level": 2,
+              "children": {
+                "Miroirs": {
+                  "categoryId": null,
+                  "categoryName": "Miroirs",
+                  "level": 4,
+                  "children": {
+                    "Rétroviseur intérieur": {
+                      "categoryId": 101698,
+                      "categoryName": "Mirrors",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3861
+                    }
+                  }
+                }
+              },
+              "productId": 3861
+            }
+          }
+        },
+        "Vitrages/Miroirs": {
+          "categoryId": null,
+          "categoryName": "Vitrages/Miroirs",
+          "level": 2,
+          "children": {
+            "Kit réparation de câble, rétroviseur intérieur": {
+              "categoryId": 100744,
+              "categoryName": "Glazing/Mirrors",
+              "level": 2,
+              "children": {
+                "Miroirs": {
+                  "categoryId": null,
+                  "categoryName": "Miroirs",
+                  "level": 4,
+                  "children": {
+                    "Kit réparation de câble, rétroviseur intérieur": {
+                      "categoryId": 100566,
+                      "categoryName": "Mirrors",
+                      "level": 3,
+                      "children": [],
+                      "productId": 9870
+                    }
+                  }
+                }
+              },
+              "productId": 9870
+            },
+            "Rétroviseur intérieur": {
+              "categoryId": 100744,
+              "categoryName": "Glazing/Mirrors",
+              "level": 2,
+              "children": {
+                "Miroirs": {
+                  "categoryId": null,
+                  "categoryName": "Miroirs",
+                  "level": 4,
+                  "children": {
+                    "Rétroviseur intérieur": {
+                      "categoryId": 100566,
+                      "categoryName": "Mirrors",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3861
+                    }
+                  }
+                }
+              },
+              "productId": 3861
+            }
+          }
+        }
+      }
+    },
+    "Équipement intérieur": {
+      "categoryId": 100341,
+      "categoryName": "Équipement intérieur",
+      "level": 1,
+      "children": {
+        "Accessoires": {
+          "categoryId": null,
+          "categoryName": "Accessoires",
+          "level": 2,
+          "children": {
+            "Rétroviseur intérieur": {
+              "categoryId": 100730,
+              "categoryName": "Accessories",
+              "level": 2,
+              "children": [],
+              "productId": 3861
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carrosserie [ID: 100001] (Niveau 1)\n│   ├── Habitacle (Niveau 2)\n│   │   └── Passenger Cabin [ID: 101690] (Niveau 2) → ProductId: 3861\n│   │       └── Miroirs (Niveau 4)\n│   │           └── Mirrors [ID: 101698] (Niveau 3) → ProductId: 3861\n│   └── Vitrages/Miroirs (Niveau 2)\n│       ├── Glazing/Mirrors [ID: 100744] (Niveau 2) → ProductId: 9870\n│       │   └── Miroirs (Niveau 4)\n│       │       └── Mirrors [ID: 100566] (Niveau 3) → ProductId: 9870\n│       └── Glazing/Mirrors [ID: 100744] (Niveau 2) → ProductId: 3861\n│           └── Miroirs (Niveau 4)\n│               └── Mirrors [ID: 100566] (Niveau 3) → ProductId: 3861\n\n└── Équipement intérieur [ID: 100341] (Niveau 1)\n    └── Accessoires (Niveau 2)\n        └── Accessories [ID: 100730] (Niveau 2) → ProductId: 3861",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Habitacle",
+        "Passenger Cabin"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101690
+      ],
+      "finalCategoryId": 101690,
+      "productId": 3861
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Vitrages/Miroirs",
+        "Glazing/Mirrors"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100744
+      ],
+      "finalCategoryId": 100744,
+      "productId": 9870
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Vitrages/Miroirs",
+        "Glazing/Mirrors"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100744
+      ],
+      "finalCategoryId": 100744,
+      "productId": 3861
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Accessoires",
+        "Accessories"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        100730
+      ],
+      "finalCategoryId": 100730,
+      "productId": 3861
+    }
+  ],
+  "productIdsInArbo": [
+    3861,
+    9870
+  ],
+  "closestProductIds": [
+    {
+      "productId": 3861,
+      "productName": "Rétroviseur intérieur"
+    },
+    {
+      "productId": 9870,
+      "productName": "Kit réparation de câble, rétroviseur intérieur"
+    }
+  ]
+}

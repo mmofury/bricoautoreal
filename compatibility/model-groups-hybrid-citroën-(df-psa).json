@@ -1,0 +1,220 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.221Z",
+  "manufacturer": "CITROËN (DF-PSA)",
+  "countGroups": 9,
+  "groups": [
+    {
+      "manufacturerId": 2891,
+      "manufacturerName": "CITROËN (DF-PSA)",
+      "groupKey": "C",
+      "displayName": "C",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5706,
+          "modelName": "C-TRIOMPHE",
+          "modelYearFrom": "2006-05-01",
+          "modelYearTo": "2012-12-01"
+        },
+        {
+          "modelId": 7882,
+          "modelName": "C-QUATRE Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2008-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 8140,
+          "modelName": "C-QUATRE A trois volumes",
+          "modelYearFrom": "2009-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2891,
+      "manufacturerName": "CITROËN (DF-PSA)",
+      "groupKey": "C2",
+      "displayName": "C2",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6501,
+          "modelName": "C2 (T11)",
+          "modelYearFrom": "2006-10-01",
+          "modelYearTo": "2014-12-01"
+        },
+        {
+          "modelId": 36893,
+          "modelName": "C2 CROSS",
+          "modelYearFrom": "2012-10-01",
+          "modelYearTo": "2014-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2891,
+      "manufacturerName": "CITROËN (DF-PSA)",
+      "groupKey": "C3",
+      "displayName": "C3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13567,
+          "modelName": "C3-XR",
+          "modelYearFrom": "2014-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40897,
+          "modelName": "C3 L",
+          "modelYearFrom": "2020-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2891,
+      "manufacturerName": "CITROËN (DF-PSA)",
+      "groupKey": "C4",
+      "displayName": "C4",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11119,
+          "modelName": "C4 L",
+          "modelYearFrom": "2012-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37907,
+          "modelName": "C4 SHIJIA",
+          "modelYearFrom": "2015-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38943,
+          "modelName": "C4 AIRCROSS",
+          "modelYearFrom": "2018-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2891,
+      "manufacturerName": "CITROËN (DF-PSA)",
+      "groupKey": "C5",
+      "displayName": "C5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8093,
+          "modelName": "C5",
+          "modelYearFrom": "2009-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38256,
+          "modelName": "C5 AIRCROSS",
+          "modelYearFrom": "2017-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42428,
+          "modelName": "C5 X",
+          "modelYearFrom": "2021-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2891,
+      "manufacturerName": "CITROËN (DF-PSA)",
+      "groupKey": "C6",
+      "displayName": "C6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37465,
+          "modelName": "C6",
+          "modelYearFrom": "2016-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2891,
+      "manufacturerName": "CITROËN (DF-PSA)",
+      "groupKey": "ELYSEE",
+      "displayName": "ELYSEE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5708,
+          "modelName": "ELYSEE A trois volumes (7B)",
+          "modelYearFrom": "2001-06-01",
+          "modelYearTo": "2008-09-01"
+        },
+        {
+          "modelId": 8423,
+          "modelName": "ELYSEE A trois volumes (R31)",
+          "modelYearFrom": "2008-01-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 9851,
+          "modelName": "ELYSEE Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2009-02-01",
+          "modelYearTo": "2012-12-01"
+        },
+        {
+          "modelId": 13069,
+          "modelName": "ELYSEE A trois volumes",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2891,
+      "manufacturerName": "CITROËN (DF-PSA)",
+      "groupKey": "FUKANG",
+      "displayName": "FUKANG",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5713,
+          "modelName": "FUKANG Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1992-02-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 8596,
+          "modelName": "FUKANG A trois volumes",
+          "modelYearFrom": "1992-02-01",
+          "modelYearTo": "2009-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2891,
+      "manufacturerName": "CITROËN (DF-PSA)",
+      "groupKey": "XSARA",
+      "displayName": "XSARA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6502,
+          "modelName": "XSARA",
+          "modelYearFrom": "2003-05-01",
+          "modelYearTo": "2005-12-01"
+        },
+        {
+          "modelId": 6503,
+          "modelName": "XSARA PICASSO (N68)",
+          "modelYearFrom": "2001-09-01",
+          "modelYearTo": "2012-12-01"
+        }
+      ]
+    }
+  ]
+}

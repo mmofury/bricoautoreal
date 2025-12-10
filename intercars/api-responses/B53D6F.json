@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "B53D6F",
+      "index": "1.22379",
+      "tecDoc": "1.22379",
+      "tecDocProd": "355",
+      "articleNumber": "1.22379",
+      "brand": "DT SPARE PARTS",
+      "shortDescription": "Valve, seat height adjustment",
+      "description": "Seat height regulation 4",
+      "eans": [
+        "4047755047412"
+      ],
+      "packageWeight": "0,050",
+      "packageWidth": "5,000",
+      "packageDepth": "7,000",
+      "packageHeight": "5,000",
+      "customsCode": "85365019",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_920",
+          "primary": false,
+          "name": {
+            "en": "Actuator, seat adjustment"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_8750",
+          "primary": true,
+          "name": {
+            "en": "Valve, seat height adjustment"
+          }
+        }
+      ]
+    }
+  ]
+}

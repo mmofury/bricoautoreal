@@ -1,0 +1,69 @@
+{
+  "productName": "Kit de joints, module d'huile (axe E)",
+  "searchText": "Kit de joints, module d'huile (axe E)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:01:03.776Z",
+  "productId": 61352,
+  "arborescence": {
+    "Entraînement hybride/électrique": {
+      "categoryId": 706209,
+      "categoryName": "Entraînement hybride/électrique",
+      "level": 1,
+      "children": {
+        "Boîte de vitesses": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesses",
+          "level": 2,
+          "children": {
+            "Kit de joints, module d'huile (axe E)": {
+              "categoryId": 706569,
+              "categoryName": "Transmission",
+              "level": 2,
+              "children": {
+                "Joints": {
+                  "categoryId": null,
+                  "categoryName": "Joints",
+                  "level": 4,
+                  "children": {
+                    "Kit de joints, module d'huile (axe E)": {
+                      "categoryId": 706764,
+                      "categoryName": "Gaskets",
+                      "level": 3,
+                      "children": [],
+                      "productId": 61352
+                    }
+                  }
+                }
+              },
+              "productId": 61352
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement hybride/électrique [ID: 706209] (Niveau 1)\n    └── Boîte de vitesses (Niveau 2)\n        └── Transmission [ID: 706569] (Niveau 2) → ProductId: 61352\n            └── Joints (Niveau 4)\n                └── Gaskets [ID: 706764] (Niveau 3) → ProductId: 61352",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement hybride/électrique",
+        "Boîte de vitesses",
+        "Transmission"
+      ],
+      "categoryIds": [
+        706209,
+        null,
+        706569
+      ],
+      "finalCategoryId": 706569,
+      "productId": 61352
+    }
+  ],
+  "productIdsInArbo": [
+    61352
+  ],
+  "matchedProductIds": [
+    61352
+  ]
+}

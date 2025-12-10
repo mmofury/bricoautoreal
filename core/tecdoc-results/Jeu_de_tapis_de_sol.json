@@ -1,0 +1,89 @@
+{
+  "productName": "Jeu de tapis de sol",
+  "searchText": "Jeu de tapis de sol",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:51:33.850Z",
+  "productId": 215,
+  "arborescence": {
+    "Accessoires": {
+      "categoryId": 100733,
+      "categoryName": "Accessoires",
+      "level": 1,
+      "children": {
+        "Tapis": {
+          "categoryId": null,
+          "categoryName": "Tapis",
+          "level": 2,
+          "children": {
+            "Jeu de tapis de sol": {
+              "categoryId": 100857,
+              "categoryName": "Floor Mats",
+              "level": 2,
+              "children": [],
+              "productId": 215
+            }
+          }
+        }
+      }
+    },
+    "Équipement intérieur": {
+      "categoryId": 100341,
+      "categoryName": "Équipement intérieur",
+      "level": 1,
+      "children": {
+        "Tapis de plancher": {
+          "categoryId": null,
+          "categoryName": "Tapis de plancher",
+          "level": 2,
+          "children": {
+            "Jeu de tapis de sol": {
+              "categoryId": 102692,
+              "categoryName": "Floor Mats",
+              "level": 2,
+              "children": [],
+              "productId": 215
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Accessoires [ID: 100733] (Niveau 1)\n│   └── Tapis (Niveau 2)\n│       └── Floor Mats [ID: 100857] (Niveau 2) → ProductId: 215\n\n└── Équipement intérieur [ID: 100341] (Niveau 1)\n    └── Tapis de plancher (Niveau 2)\n        └── Floor Mats [ID: 102692] (Niveau 2) → ProductId: 215",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Accessoires",
+        "Tapis",
+        "Floor Mats"
+      ],
+      "categoryIds": [
+        100733,
+        null,
+        100857
+      ],
+      "finalCategoryId": 100857,
+      "productId": 215
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Tapis de plancher",
+        "Floor Mats"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102692
+      ],
+      "finalCategoryId": 102692,
+      "productId": 215
+    }
+  ],
+  "productIdsInArbo": [
+    215
+  ],
+  "matchedProductIds": [
+    215
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H0FXWF",
+      "index": "FE186606",
+      "tecDoc": "186606",
+      "tecDocProd": "101",
+      "articleNumber": "186606",
+      "brand": "FEBI",
+      "shortDescription": "Timing belt",
+      "description": "Timing belt fits: AUDI A4 ALLROAD B9, A4 B9, A5, A6 C8, A7, Q3, Q5, Q7, Q8, CUPRA LEON SPORTSTOURER 2.0-2.0H 05.15-",
+      "customsCode": "40103900",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_306",
+          "primary": true,
+          "name": {
+            "en": "Timing belt"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_60089",
+          "primary": false,
+          "name": {
+            "en": "Timing Belt, power take-off"
+          }
+        }
+      ]
+    }
+  ]
+}

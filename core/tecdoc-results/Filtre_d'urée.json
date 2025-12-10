@@ -1,0 +1,141 @@
+{
+  "productName": "Filtre d'urée",
+  "searchText": "Filtre d'urée",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:39:22.443Z",
+  "productId": 3855,
+  "arborescence": {
+    "Échappement": {
+      "categoryId": 100004,
+      "categoryName": "Échappement",
+      "level": 1,
+      "children": {
+        "Injection d'urée": {
+          "categoryId": null,
+          "categoryName": "Injection d'urée",
+          "level": 2,
+          "children": {
+            "Couvercle, boîtier du filtre à urée": {
+              "categoryId": 103019,
+              "categoryName": "Urea Injection",
+              "level": 2,
+              "children": {
+                "Filtre d'urée": {
+                  "categoryId": null,
+                  "categoryName": "Filtre d'urée",
+                  "level": 4,
+                  "children": {
+                    "Couvercle, boîtier du filtre à urée": {
+                      "categoryId": 103023,
+                      "categoryName": "Urea Filter",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60471
+                    }
+                  }
+                }
+              },
+              "productId": 60471
+            },
+            "Filtre d'urée": {
+              "categoryId": 103019,
+              "categoryName": "Urea Injection",
+              "level": 2,
+              "children": {
+                "Filtre d'urée": {
+                  "categoryId": null,
+                  "categoryName": "Filtre d'urée",
+                  "level": 4,
+                  "children": {
+                    "Filtre d'urée": {
+                      "categoryId": 103023,
+                      "categoryName": "Urea Filter",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3855
+                    }
+                  }
+                }
+              },
+              "productId": 3855
+            }
+          }
+        }
+      }
+    },
+    "Filtre": {
+      "categoryId": 100005,
+      "categoryName": "Filtre",
+      "level": 1,
+      "children": {
+        "Filtre d'urée": {
+          "categoryId": null,
+          "categoryName": "Filtre d'urée",
+          "level": 2,
+          "children": {
+            "Filtre d'urée": {
+              "categoryId": 706873,
+              "categoryName": "Urea Filter",
+              "level": 2,
+              "children": [],
+              "productId": 3855
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Échappement [ID: 100004] (Niveau 1)\n│   └── Injection d'urée (Niveau 2)\n│       ├── Urea Injection [ID: 103019] (Niveau 2) → ProductId: 60471\n│       │   └── Filtre d'urée (Niveau 4)\n│       │       └── Urea Filter [ID: 103023] (Niveau 3) → ProductId: 60471\n│       └── Urea Injection [ID: 103019] (Niveau 2) → ProductId: 3855\n│           └── Filtre d'urée (Niveau 4)\n│               └── Urea Filter [ID: 103023] (Niveau 3) → ProductId: 3855\n\n└── Filtre [ID: 100005] (Niveau 1)\n    └── Filtre d'urée (Niveau 2)\n        └── Urea Filter [ID: 706873] (Niveau 2) → ProductId: 3855",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Échappement",
+        "Injection d'urée",
+        "Urea Injection"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        103019
+      ],
+      "finalCategoryId": 103019,
+      "productId": 60471
+    },
+    {
+      "path": [
+        "Échappement",
+        "Injection d'urée",
+        "Urea Injection"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        103019
+      ],
+      "finalCategoryId": 103019,
+      "productId": 3855
+    },
+    {
+      "path": [
+        "Filtre",
+        "Filtre d'urée",
+        "Urea Filter"
+      ],
+      "categoryIds": [
+        100005,
+        null,
+        706873
+      ],
+      "finalCategoryId": 706873,
+      "productId": 3855
+    }
+  ],
+  "productIdsInArbo": [
+    3855,
+    60471
+  ],
+  "matchedProductIds": [
+    3855
+  ]
+}

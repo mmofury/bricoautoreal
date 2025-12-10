@@ -1,0 +1,84 @@
+{
+  "productName": "Ampoule, éclairage intérieur",
+  "searchText": "Ampoule, éclairage intérieur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T18:50:41.733Z",
+  "productId": 117,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Feux": {
+          "categoryId": null,
+          "categoryName": "Feux",
+          "level": 2,
+          "children": {
+            "Ampoule, éclairage intérieur": {
+              "categoryId": 100043,
+              "categoryName": "Lights",
+              "level": 2,
+              "children": {
+                "Éclairage intérieur": {
+                  "categoryId": null,
+                  "categoryName": "Éclairage intérieur",
+                  "level": 4,
+                  "children": {
+                    "Ampoule, éclairage intérieur": {
+                      "categoryId": 100292,
+                      "categoryName": "Interior Lights",
+                      "level": 3,
+                      "children": {
+                        "Éclairage de l'habitacle": {
+                          "categoryId": null,
+                          "categoryName": "Éclairage de l'habitacle",
+                          "level": 6,
+                          "children": {
+                            "Ampoule, éclairage intérieur": {
+                              "categoryId": 100505,
+                              "categoryName": "Interior Lighting",
+                              "level": 4,
+                              "children": [],
+                              "productId": 117
+                            }
+                          }
+                        }
+                      },
+                      "productId": 117
+                    }
+                  }
+                }
+              },
+              "productId": 117
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Feux (Niveau 2)\n        └── Lights [ID: 100043] (Niveau 2) → ProductId: 117\n            └── Éclairage intérieur (Niveau 4)\n                └── Interior Lights [ID: 100292] (Niveau 3) → ProductId: 117\n                    └── Éclairage de l'habitacle (Niveau 6)\n                        └── Interior Lighting [ID: 100505] (Niveau 4) → ProductId: 117",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Lights"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100043
+      ],
+      "finalCategoryId": 100043,
+      "productId": 117
+    }
+  ],
+  "productIdsInArbo": [
+    117
+  ],
+  "matchedProductIds": [
+    117
+  ]
+}

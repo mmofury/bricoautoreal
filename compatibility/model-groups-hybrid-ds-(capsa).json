@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.246Z",
+  "manufacturer": "DS (CAPSA)",
+  "countGroups": 1,
+  "groups": [
+    {
+      "manufacturerId": 3999,
+      "manufacturerName": "DS (CAPSA)",
+      "groupKey": "DS",
+      "displayName": "DS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11721,
+          "modelName": "DS 5",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13192,
+          "modelName": "DS 6",
+          "modelYearFrom": "2014-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13430,
+          "modelName": "DS 5 LS",
+          "modelYearFrom": "2014-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 36725,
+          "modelName": "DS 4S",
+          "modelYearFrom": "2016-01-01",
+          "modelYearTo": "2020-12-01"
+        },
+        {
+          "modelId": 38643,
+          "modelName": "DS 7",
+          "modelYearFrom": "2018-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41904,
+          "modelName": "DS 9",
+          "modelYearFrom": "2021-03-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

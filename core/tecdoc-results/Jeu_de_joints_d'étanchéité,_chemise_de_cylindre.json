@@ -1,0 +1,140 @@
+{
+  "productName": "Jeu de joints d'étanchéité, chemise de cylindre",
+  "searchText": "Jeu de joints d'étanchéité, chemise de cylindre",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:49:59.777Z",
+  "productId": 151,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Carter de vilebrequin": {
+          "categoryId": null,
+          "categoryName": "Carter de vilebrequin",
+          "level": 2,
+          "children": {
+            "Jeu de joints d'étanchéité, chemise de cylindre": {
+              "categoryId": 100514,
+              "categoryName": "Crankcase",
+              "level": 2,
+              "children": {
+                "Kit-/chemises de cylindre": {
+                  "categoryId": null,
+                  "categoryName": "Kit-/chemises de cylindre",
+                  "level": 4,
+                  "children": {
+                    "Jeu de joints d'étanchéité, chemise de cylindre": {
+                      "categoryId": 100534,
+                      "categoryName": "Cylinder Liners/Set",
+                      "level": 3,
+                      "children": [],
+                      "productId": 151
+                    }
+                  }
+                }
+              },
+              "productId": 151
+            }
+          }
+        },
+        "Cylindre et piston": {
+          "categoryId": null,
+          "categoryName": "Cylindre et piston",
+          "level": 2,
+          "children": {
+            "Jeu de joints d'étanchéité, chemise de cylindre": {
+              "categoryId": 104377,
+              "categoryName": "Cylinders/Pistons",
+              "level": 2,
+              "children": [],
+              "productId": 151
+            }
+          }
+        },
+        "Joints": {
+          "categoryId": null,
+          "categoryName": "Joints",
+          "level": 2,
+          "children": {
+            "Jeu de joints d'étanchéité, chemise de cylindre": {
+              "categoryId": 100223,
+              "categoryName": "Gaskets",
+              "level": 2,
+              "children": {
+                "Joint du carter de moteur": {
+                  "categoryId": null,
+                  "categoryName": "Joint du carter de moteur",
+                  "level": 4,
+                  "children": {
+                    "Jeu de joints d'étanchéité, chemise de cylindre": {
+                      "categoryId": 100233,
+                      "categoryName": "Crankcase Gasket",
+                      "level": 3,
+                      "children": [],
+                      "productId": 151
+                    }
+                  }
+                }
+              },
+              "productId": 151
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    ├── Carter de vilebrequin (Niveau 2)\n    │   └── Crankcase [ID: 100514] (Niveau 2) → ProductId: 151\n    │       └── Kit-/chemises de cylindre (Niveau 4)\n    │           └── Cylinder Liners/Set [ID: 100534] (Niveau 3) → ProductId: 151\n    ├── Cylindre et piston (Niveau 2)\n    │   └── Cylinders/Pistons [ID: 104377] (Niveau 2) → ProductId: 151\n    └── Joints (Niveau 2)\n        └── Gaskets [ID: 100223] (Niveau 2) → ProductId: 151\n            └── Joint du carter de moteur (Niveau 4)\n                └── Crankcase Gasket [ID: 100233] (Niveau 3) → ProductId: 151",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Carter de vilebrequin",
+        "Crankcase"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100514
+      ],
+      "finalCategoryId": 100514,
+      "productId": 151
+    },
+    {
+      "path": [
+        "Moteur",
+        "Cylindre et piston",
+        "Cylinders/Pistons"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        104377
+      ],
+      "finalCategoryId": 104377,
+      "productId": 151
+    },
+    {
+      "path": [
+        "Moteur",
+        "Joints",
+        "Gaskets"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100223
+      ],
+      "finalCategoryId": 100223,
+      "productId": 151
+    }
+  ],
+  "productIdsInArbo": [
+    151
+  ],
+  "matchedProductIds": [
+    151
+  ]
+}

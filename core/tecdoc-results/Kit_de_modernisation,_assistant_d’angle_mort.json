@@ -1,0 +1,57 @@
+{
+  "productName": "Kit de modernisation, assistant d’angle mort",
+  "searchText": "Kit de modernisation, assistant d’angle mort",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T21:01:32.334Z",
+  "productId": 9615,
+  "arborescence": {
+    "Systèmes de sécurité": {
+      "categoryId": 100417,
+      "categoryName": "Systèmes de sécurité",
+      "level": 1,
+      "children": {
+        "Système d'aide à la conduite": {
+          "categoryId": null,
+          "categoryName": "Système d'aide à la conduite",
+          "level": 2,
+          "children": {
+            "Kit de modernisation, assistant d’angle mort": {
+              "categoryId": 706455,
+              "categoryName": "Driver Assistance System",
+              "level": 2,
+              "children": [],
+              "productId": 9616
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Systèmes de sécurité [ID: 100417] (Niveau 1)\n    └── Système d'aide à la conduite (Niveau 2)\n        └── Driver Assistance System [ID: 706455] (Niveau 2) → ProductId: 9616",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Systèmes de sécurité",
+        "Système d'aide à la conduite",
+        "Driver Assistance System"
+      ],
+      "categoryIds": [
+        100417,
+        null,
+        706455
+      ],
+      "finalCategoryId": 706455,
+      "productId": 9616
+    }
+  ],
+  "productIdsInArbo": [
+    9616
+  ],
+  "closestProductIds": [
+    {
+      "productId": 9616,
+      "productName": "Kit de modernisation, assistant d’angle mort"
+    }
+  ]
+}

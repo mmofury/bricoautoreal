@@ -1,0 +1,424 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.363Z",
+  "manufacturer": "JMC",
+  "countGroups": 21,
+  "groups": [
+    {
+      "manufacturerId": 3040,
+      "manufacturerName": "JMC",
+      "groupKey": "BAOWEI",
+      "displayName": "BAOWEI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13187,
+          "modelName": "BAOWEI",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38041,
+          "modelName": "BAOWEI",
+          "modelYearFrom": "2007-01-01",
+          "modelYearTo": "2015-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3040,
+      "manufacturerName": "JMC",
+      "groupKey": "BOARDING",
+      "displayName": "BOARDING",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10581,
+          "modelName": "BOARDING",
+          "modelYearFrom": "2007-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42902,
+          "modelName": "BOARDING",
+          "modelYearFrom": "2020-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3040,
+      "manufacturerName": "JMC",
+      "groupKey": "CARRYING",
+      "displayName": "CARRYING",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10582,
+          "modelName": "CARRYING",
+          "modelYearFrom": "2012-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3040,
+      "manufacturerName": "JMC",
+      "groupKey": "CONVEY",
+      "displayName": "CONVEY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37700,
+          "modelName": "CONVEY",
+          "modelYearFrom": "2012-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3040,
+      "manufacturerName": "JMC",
+      "groupKey": "DADAO",
+      "displayName": "DADAO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44526,
+          "modelName": "DADAO",
+          "modelYearFrom": "2023-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3040,
+      "manufacturerName": "JMC",
+      "groupKey": "E",
+      "displayName": "E",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43752,
+          "modelName": "E LUSHUN",
+          "modelYearFrom": "2022-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45311,
+          "modelName": "E LUSHUN V6",
+          "modelYearFrom": "2024-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3040,
+      "manufacturerName": "JMC",
+      "groupKey": "FUSHUN",
+      "displayName": "FUSHUN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43541,
+          "modelName": "FUSHUN Autobus/Autocar",
+          "modelYearFrom": "2022-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43542,
+          "modelName": "FUSHUN Fourgon",
+          "modelYearFrom": "2022-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3040,
+      "manufacturerName": "JMC",
+      "groupKey": "KAIRUI",
+      "displayName": "KAIRUI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43670,
+          "modelName": "KAIRUI Camion plate-forme/Châssis",
+          "modelYearFrom": "2009-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43671,
+          "modelName": "KAIRUI 800 Camion plate-forme/Châssis",
+          "modelYearFrom": "2011-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44193,
+          "modelName": "KAIRUI Camion plate-forme/Châssis",
+          "modelYearFrom": "2019-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3040,
+      "manufacturerName": "JMC",
+      "groupKey": "KAIWEI",
+      "displayName": "KAIWEI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44194,
+          "modelName": "KAIWEI Camion plate-forme/Châssis",
+          "modelYearFrom": "2020-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3040,
+      "manufacturerName": "JMC",
+      "groupKey": "KAIYUN",
+      "displayName": "KAIYUN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43672,
+          "modelName": "KAIYUN Camion plate-forme/Châssis",
+          "modelYearFrom": "2004-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43673,
+          "modelName": "KAIYUN Camion plate-forme/Châssis",
+          "modelYearFrom": "2010-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43674,
+          "modelName": "KAIYUN Camion plate-forme/Châssis",
+          "modelYearFrom": "2016-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44196,
+          "modelName": "KAIYUN Camion plate-forme/Châssis",
+          "modelYearFrom": "2022-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3040,
+      "manufacturerName": "JMC",
+      "groupKey": "N",
+      "displayName": "N",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 90171,
+          "modelName": "N",
+          "modelYearFrom": "2010-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3040,
+      "manufacturerName": "JMC",
+      "groupKey": "QILING",
+      "displayName": "QILING",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36996,
+          "modelName": "QILING T3",
+          "modelYearFrom": "2014-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3040,
+      "manufacturerName": "JMC",
+      "groupKey": "S330",
+      "displayName": "S330",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37203,
+          "modelName": "S330",
+          "modelYearFrom": "2016-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3040,
+      "manufacturerName": "JMC",
+      "groupKey": "S350",
+      "displayName": "S350",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11703,
+          "modelName": "S350",
+          "modelYearFrom": "2010-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3040,
+      "manufacturerName": "JMC",
+      "groupKey": "SHUNDA",
+      "displayName": "SHUNDA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43669,
+          "modelName": "SHUNDA Camion plate-forme/Châssis",
+          "modelYearFrom": "2019-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43676,
+          "modelName": "SHUNDA Camion plate-forme/Châssis",
+          "modelYearFrom": "2010-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43678,
+          "modelName": "SHUNDA CLASSIC Camion plate-forme/Châssis",
+          "modelYearFrom": "2007-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3040,
+      "manufacturerName": "JMC",
+      "groupKey": "SHUNDAXIAOKA",
+      "displayName": "SHUNDAXIAOKA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43679,
+          "modelName": "SHUNDAXIAOKA Camion plate-forme/Châssis",
+          "modelYearFrom": "2018-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44200,
+          "modelName": "SHUNDAXIAOKA Camion plate-forme/Châssis",
+          "modelYearFrom": "2019-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3040,
+      "manufacturerName": "JMC",
+      "groupKey": "SHUNWEI",
+      "displayName": "SHUNWEI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44201,
+          "modelName": "SHUNWEI Camion plate-forme/Châssis",
+          "modelYearFrom": "2021-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3040,
+      "manufacturerName": "JMC",
+      "groupKey": "SHUNWEIXIAOKA",
+      "displayName": "SHUNWEIXIAOKA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44202,
+          "modelName": "SHUNWEIXIAOKA Camion plate-forme/Châssis",
+          "modelYearFrom": "2020-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3040,
+      "manufacturerName": "JMC",
+      "groupKey": "TESHUN",
+      "displayName": "TESHUN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38142,
+          "modelName": "TESHUN Autobus/Autocar",
+          "modelYearFrom": "2017-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39999,
+          "modelName": "TESHUN Fourgon",
+          "modelYearFrom": "2017-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3040,
+      "manufacturerName": "JMC",
+      "groupKey": "YUHU",
+      "displayName": "YUHU",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14107,
+          "modelName": "YUHU",
+          "modelYearFrom": "2012-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38938,
+          "modelName": "YUHU 7",
+          "modelYearFrom": "2017-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38939,
+          "modelName": "YUHU 5",
+          "modelYearFrom": "2018-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38941,
+          "modelName": "YUHU 3",
+          "modelYearFrom": "2018-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40178,
+          "modelName": "YUHU 9",
+          "modelYearFrom": "2019-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3040,
+      "manufacturerName": "JMC",
+      "groupKey": "YUNBA",
+      "displayName": "YUNBA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13710,
+          "modelName": "YUNBA",
+          "modelYearFrom": "2007-11-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

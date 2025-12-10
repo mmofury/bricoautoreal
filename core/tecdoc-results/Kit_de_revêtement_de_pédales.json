@@ -1,0 +1,54 @@
+{
+  "productName": "Kit de revêtement de pédales",
+  "searchText": "Kit de revêtement de pédales",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:02:45.860Z",
+  "productId": 6002,
+  "arborescence": {
+    "Accessoires": {
+      "categoryId": 100733,
+      "categoryName": "Accessoires",
+      "level": 1,
+      "children": {
+        "Kit de revêtement de pédales": {
+          "categoryId": null,
+          "categoryName": "Kit de revêtement de pédales",
+          "level": 2,
+          "children": {
+            "Kit de revêtement de pédales": {
+              "categoryId": 104631,
+              "categoryName": "Pedal Pad Set",
+              "level": 2,
+              "children": [],
+              "productId": 6002
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Accessoires [ID: 100733] (Niveau 1)\n    └── Kit de revêtement de pédales (Niveau 2)\n        └── Pedal Pad Set [ID: 104631] (Niveau 2) → ProductId: 6002",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Accessoires",
+        "Kit de revêtement de pédales",
+        "Pedal Pad Set"
+      ],
+      "categoryIds": [
+        100733,
+        null,
+        104631
+      ],
+      "finalCategoryId": 104631,
+      "productId": 6002
+    }
+  ],
+  "productIdsInArbo": [
+    6002
+  ],
+  "matchedProductIds": [
+    6002
+  ]
+}

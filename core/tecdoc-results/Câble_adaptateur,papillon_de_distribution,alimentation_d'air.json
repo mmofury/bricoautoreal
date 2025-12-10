@@ -1,0 +1,69 @@
+{
+  "productName": "Câble adaptateur,papillon de distribution,alimentation d'air",
+  "searchText": "Câble adaptateur,papillon de distribution,alimentation d'air",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:29:09.715Z",
+  "productId": 4933,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Alimentation en air": {
+          "categoryId": null,
+          "categoryName": "Alimentation en air",
+          "level": 2,
+          "children": {
+            "Câble adaptateur,papillon de distribution,alimentation d'air": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Clapet de commande": {
+                  "categoryId": null,
+                  "categoryName": "Clapet de commande",
+                  "level": 4,
+                  "children": {
+                    "Câble adaptateur,papillon de distribution,alimentation d'air": {
+                      "categoryId": 100387,
+                      "categoryName": "Control Flap",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4933
+                    }
+                  }
+                }
+              },
+              "productId": 4933
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Alimentation en air (Niveau 2)\n        └── Air Supply [ID: 100383] (Niveau 2) → ProductId: 4933\n            └── Clapet de commande (Niveau 4)\n                └── Control Flap [ID: 100387] (Niveau 3) → ProductId: 4933",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 4933
+    }
+  ],
+  "productIdsInArbo": [
+    4933
+  ],
+  "matchedProductIds": [
+    4933
+  ]
+}

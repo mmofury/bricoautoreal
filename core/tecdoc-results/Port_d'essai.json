@@ -1,0 +1,54 @@
+{
+  "productName": "Port d'essai",
+  "searchText": "Port d'essai",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:02:44.394Z",
+  "productId": 367,
+  "arborescence": {
+    "Système pneumatique": {
+      "categoryId": 103168,
+      "categoryName": "Système pneumatique",
+      "level": 1,
+      "children": {
+        "Port d'essai": {
+          "categoryId": null,
+          "categoryName": "Port d'essai",
+          "level": 2,
+          "children": {
+            "Port d'essai": {
+              "categoryId": 103181,
+              "categoryName": "Test Connection",
+              "level": 2,
+              "children": [],
+              "productId": 367
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système pneumatique [ID: 103168] (Niveau 1)\n    └── Port d'essai (Niveau 2)\n        └── Test Connection [ID: 103181] (Niveau 2) → ProductId: 367",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système pneumatique",
+        "Port d'essai",
+        "Test Connection"
+      ],
+      "categoryIds": [
+        103168,
+        null,
+        103181
+      ],
+      "finalCategoryId": 103181,
+      "productId": 367
+    }
+  ],
+  "productIdsInArbo": [
+    367
+  ],
+  "matchedProductIds": [
+    367
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "E6FC0A",
+      "index": "CS0099",
+      "tecDoc": "CS0099",
+      "tecDocProd": "215",
+      "articleNumber": "CS0099",
+      "brand": "CALORSTAT BY VERNET",
+      "shortDescription": "Sensor, crankshaft pulse",
+      "description": "Crankshaft position sensor fits: FIAT PALIO 1.0 04.96-10.03",
+      "customsCode": "90328900",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_833",
+          "primary": true,
+          "name": {
+            "en": "Sensor, crankshaft pulse"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3946",
+          "primary": false,
+          "name": {
+            "en": "Sensor, camshaft position"
+          }
+        }
+      ]
+    }
+  ]
+}

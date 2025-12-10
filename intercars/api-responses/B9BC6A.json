@@ -1,0 +1,40 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "B9BC6A",
+      "index": "4.50322",
+      "tecDoc": "4.50322",
+      "tecDocProd": "355",
+      "articleNumber": "4.50322",
+      "brand": "DT SPARE PARTS",
+      "shortDescription": "Washer",
+      "description": "Driving pinion washer (thickness: 4mm) fits: MAN CLA 10.150 HOCL/10.190 HOCL/11.150 HOCL/11.190 HOCL/1214 A/1217 CA/1222/1222 A/1222 A, 1222 LA/1222 S/1222 S, 1222 LS/1224 F/1227 A/1227 AF, 1227 LAF/1",
+      "gtuCode": "GTU_07",
+      "packageWeight": "1,500",
+      "packageWidth": "20,500",
+      "packageDepth": "20,500",
+      "packageHeight": "4,000",
+      "customsCode": "87085099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1222",
+          "primary": true,
+          "name": {
+            "en": "Washer"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3514",
+          "primary": false,
+          "name": {
+            "en": "Spacer, kingpin"
+          }
+        }
+      ]
+    }
+  ]
+}

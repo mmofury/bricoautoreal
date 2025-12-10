@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.219Z",
+  "manufacturer": "CIIMO",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 5596,
+      "manufacturerName": "CIIMO",
+      "groupKey": "CIIMO",
+      "displayName": "CIIMO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40557,
+          "modelName": "CIIMO",
+          "modelYearFrom": "2012-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5596,
+      "manufacturerName": "CIIMO",
+      "groupKey": "M",
+      "displayName": "M",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41556,
+          "modelName": "M-NV",
+          "modelYearFrom": "2020-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5596,
+      "manufacturerName": "CIIMO",
+      "groupKey": "X",
+      "displayName": "X",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40558,
+          "modelName": "X-NV",
+          "modelYearFrom": "2019-10-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

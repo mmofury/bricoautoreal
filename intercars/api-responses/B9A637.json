@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "B9A637",
+      "index": "03.9302-0516.2",
+      "tecDoc": "03.9302-0516.2",
+      "tecDocProd": "3",
+      "articleNumber": "03.9302-0516.2",
+      "brand": "ATE",
+      "shortDescription": "Brake system handling tools",
+      "description": "Bottle for brake fluid disposal",
+      "packageWeight": "0,800",
+      "packageWidth": "14,000",
+      "packageDepth": "14,600",
+      "packageHeight": "37,000",
+      "customsCode": "39233090",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_2352",
+          "primary": false,
+          "name": {
+            "en": "Brake Fluid Collecting Container"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91783",
+          "primary": true,
+          "name": {
+            "en": "Brake system handling tools"
+          }
+        }
+      ]
+    }
+  ]
+}

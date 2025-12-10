@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H0ZB5H",
+      "index": "FE196651",
+      "tecDoc": "196651",
+      "tecDocProd": "101",
+      "articleNumber": "196651",
+      "brand": "FEBI",
+      "shortDescription": "Valve, compressed-air system",
+      "description": "Pressure adjustment valve, height regulation fits: LAND ROVER DISCOVERY III, DISCOVERY IV, RANGE ROVER III, RANGE ROVER SPORT I 2.7D-5.0 03.02-12.18",
+      "customsCode": "84812090",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_342",
+          "primary": true,
+          "name": {
+            "en": "Valve, compressed-air system"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_60975",
+          "primary": false,
+          "name": {
+            "en": "Solenoid Valve, air suspension"
+          }
+        }
+      ]
+    }
+  ]
+}

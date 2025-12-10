@@ -1,0 +1,64 @@
+{
+  "productName": "Soupape, correcteur d'assiette électronique",
+  "productId": 2072,
+  "searchText": "Soupape, correcteur d'assiette électronique",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Système pneumatique": {
+          "categoryId": 200059,
+          "categoryName": "Système pneumatique",
+          "level": 1,
+          "children": {
+            "Correcteur d'assiette / système hydraulique": {
+              "categoryId": null,
+              "categoryName": "Correcteur d'assiette / système hydraulique",
+              "level": 2,
+              "children": {
+                "Soupape, correcteur d'assiette électronique": {
+                  "categoryId": 200507,
+                  "categoryName": "Level Control/Lifting System",
+                  "level": 2,
+                  "children": {
+                    "Soupape à plusieurs voies, correcteur d'assiette": {
+                      "categoryId": null,
+                      "categoryName": "Soupape à plusieurs voies, correcteur d'assiette",
+                      "level": 4,
+                      "children": {
+                        "Soupape, correcteur d'assiette électronique": {
+                          "categoryId": 200564,
+                          "categoryName": "Directional Control Valve, level control",
+                          "level": 3,
+                          "children": [],
+                          "productId": 2072
+                        }
+                      }
+                    }
+                  },
+                  "productId": 2072
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système pneumatique [ID: 200059] (Niveau 1)\n    └── Correcteur d'assiette / système hydraulique (Niveau 2)\n        └── Level Control/Lifting System [ID: 200507] (Niveau 2) → ProductId: 2072\n            └── Soupape à plusieurs voies, correcteur d'assiette (Niveau 4)\n                └── Directional Control Valve, level control [ID: 200564] (Niveau 3) → ProductId: 2072",
+      "productIdsInArbo": [
+        2072
+      ],
+      "matchedProductIds": [
+        2072
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:31:53.184Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

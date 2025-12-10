@@ -1,0 +1,69 @@
+{
+  "productName": "Joint d'étanchéité, bride de carburateur",
+  "searchText": "Joint d'étanchéité, bride de carburateur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:52:27.957Z",
+  "productId": 205,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Carburateurs": {
+          "categoryId": null,
+          "categoryName": "Carburateurs",
+          "level": 2,
+          "children": {
+            "Joint d'étanchéité, bride de carburateur": {
+              "categoryId": 102903,
+              "categoryName": "Carburettor System",
+              "level": 2,
+              "children": {
+                "Joints": {
+                  "categoryId": null,
+                  "categoryName": "Joints",
+                  "level": 4,
+                  "children": {
+                    "Joint d'étanchéité, bride de carburateur": {
+                      "categoryId": 102907,
+                      "categoryName": "Gaskets",
+                      "level": 3,
+                      "children": [],
+                      "productId": 205
+                    }
+                  }
+                }
+              },
+              "productId": 205
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carburation [ID: 100254] (Niveau 1)\n    └── Carburateurs (Niveau 2)\n        └── Carburettor System [ID: 102903] (Niveau 2) → ProductId: 205\n            └── Joints (Niveau 4)\n                └── Gaskets [ID: 102907] (Niveau 3) → ProductId: 205",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Carburateurs",
+        "Carburettor System"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102903
+      ],
+      "finalCategoryId": 102903,
+      "productId": 205
+    }
+  ],
+  "productIdsInArbo": [
+    205
+  ],
+  "matchedProductIds": [
+    205
+  ]
+}

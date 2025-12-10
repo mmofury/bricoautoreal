@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "534639",
+      "index": "0 433 171 034",
+      "tecDoc": "0 433 171 034",
+      "tecDocProd": "30",
+      "articleNumber": "0 433 171 034",
+      "brand": "BOSCH",
+      "shortDescription": "Nozzle Body",
+      "description": "Injector tip (nozzle)",
+      "eans": [
+        "4047024538542"
+      ],
+      "packageWeight": "0,030",
+      "packageWidth": "1,700",
+      "packageDepth": "6,600",
+      "packageHeight": "1,700",
+      "customsCode": "84099900",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3899",
+          "primary": true,
+          "name": {
+            "en": "Nozzle Body"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3901",
+          "primary": false,
+          "name": {
+            "en": "Injector"
+          }
+        }
+      ]
+    }
+  ]
+}

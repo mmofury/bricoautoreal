@@ -1,0 +1,49 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "D99230",
+      "index": "SEN5030160",
+      "tecDoc": "5030160",
+      "tecDocProd": "2188",
+      "articleNumber": "5030160",
+      "brand": "SENCOM",
+      "shortDescription": "Repair Kit, cable set",
+      "description": "Harness wire (300mm, number of pins: 4) fits: CITROEN BERLINGO, BERLINGO MULTISPACE, BERLINGO/MINIVAN, C2, C3 I, C3 PLURIEL, C4, C4 GRAND PICASSO I, C4 I, C4 PICASSO I, C5 II 0.9-Electric 04.93-",
+      "eans": [
+        "4260093133818"
+      ],
+      "packageWeight": "0,034",
+      "packageWidth": "12,000",
+      "packageDepth": "12,000",
+      "packageHeight": "2,000",
+      "customsCode": "85443000",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4321",
+          "primary": true,
+          "name": {
+            "en": "Repair Kit, cable set"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_6343",
+          "primary": false,
+          "name": {
+            "en": "Cable Repair Set, direction indicator"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_7314",
+          "primary": false,
+          "name": {
+            "en": "Cable Repair Set, fuel pump"
+          }
+        }
+      ]
+    }
+  ]
+}

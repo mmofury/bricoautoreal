@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "427615",
+      "index": "HAZ 2183-2",
+      "tecDoc": "2183-2",
+      "tecDocProd": "4808",
+      "articleNumber": "2183-2",
+      "brand": "HAZET",
+      "shortDescription": "Grip pliers",
+      "description": "Pliers adjustable for pipes, length: 535mm",
+      "customsCode": "82032000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_5666",
+          "primary": false,
+          "name": {
+            "en": "Locking pliers"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_93349",
+          "primary": true,
+          "name": {
+            "en": "Grip pliers"
+          }
+        }
+      ]
+    }
+  ]
+}

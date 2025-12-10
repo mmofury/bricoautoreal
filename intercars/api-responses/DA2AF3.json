@@ -1,0 +1,49 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "DA2AF3",
+      "index": "PHI 12361/B1",
+      "tecDoc": "12361B1",
+      "tecDocProd": "75",
+      "articleNumber": "12361B1",
+      "brand": "PHILIPS",
+      "shortDescription": "Bulb, spotlight",
+      "description": "Light bulb (blister pack 1pcs) H9 12V 65W PGJ 19-5 Vision",
+      "customsCode": "85392930",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3680",
+          "primary": false,
+          "name": {
+            "en": "Bulb, cornering light"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_60560",
+          "primary": false,
+          "name": {
+            "en": "Light bulb"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_106",
+          "primary": true,
+          "name": {
+            "en": "Bulb, spotlight"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1457",
+          "primary": false,
+          "name": {
+            "en": "Light bulb"
+          }
+        }
+      ]
+    }
+  ]
+}

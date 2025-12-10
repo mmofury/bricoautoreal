@@ -1,0 +1,54 @@
+{
+  "productName": "Télescope d'antenne",
+  "searchText": "Télescope d'antenne",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:29:32.765Z",
+  "productId": 1357,
+  "arborescence": {
+    "Système d'information et de communication": {
+      "categoryId": 100339,
+      "categoryName": "Système d'information et de communication",
+      "level": 1,
+      "children": {
+        "Antennes": {
+          "categoryId": null,
+          "categoryName": "Antennes",
+          "level": 2,
+          "children": {
+            "Télescope d'antenne": {
+              "categoryId": 100695,
+              "categoryName": "Aerial",
+              "level": 2,
+              "children": [],
+              "productId": 1357
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système d'information et de communication [ID: 100339] (Niveau 1)\n    └── Antennes (Niveau 2)\n        └── Aerial [ID: 100695] (Niveau 2) → ProductId: 1357",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système d'information et de communication",
+        "Antennes",
+        "Aerial"
+      ],
+      "categoryIds": [
+        100339,
+        null,
+        100695
+      ],
+      "finalCategoryId": 100695,
+      "productId": 1357
+    }
+  ],
+  "productIdsInArbo": [
+    1357
+  ],
+  "matchedProductIds": [
+    1357
+  ]
+}

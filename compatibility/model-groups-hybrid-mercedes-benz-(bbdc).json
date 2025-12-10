@@ -1,0 +1,220 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.410Z",
+  "manufacturer": "MERCEDES-BENZ (BBDC)",
+  "countGroups": 11,
+  "groups": [
+    {
+      "manufacturerId": 3645,
+      "manufacturerName": "MERCEDES-BENZ (BBDC)",
+      "groupKey": "A",
+      "displayName": "A",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39380,
+          "modelName": "A-CLASS (W177)",
+          "modelYearFrom": "2018-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3645,
+      "manufacturerName": "MERCEDES-BENZ (BBDC)",
+      "groupKey": "C",
+      "displayName": "C",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9644,
+          "modelName": "C-CLASS (W204)",
+          "modelYearFrom": "2008-01-01",
+          "modelYearTo": "2014-12-01"
+        },
+        {
+          "modelId": 13144,
+          "modelName": "C-CLASS (W205)",
+          "modelYearFrom": "2014-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42377,
+          "modelName": "C-CLASS (W206)",
+          "modelYearFrom": "2021-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3645,
+      "manufacturerName": "MERCEDES-BENZ (BBDC)",
+      "groupKey": "E",
+      "displayName": "E",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9645,
+          "modelName": "E-CLASS (W211)",
+          "modelYearFrom": "2005-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 9652,
+          "modelName": "E-CLASS (W212)",
+          "modelYearFrom": "2010-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37206,
+          "modelName": "E-CLASS (W213)",
+          "modelYearFrom": "2016-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45035,
+          "modelName": "E-CLASS (W214)",
+          "modelYearFrom": "2023-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3645,
+      "manufacturerName": "MERCEDES-BENZ (BBDC)",
+      "groupKey": "EQA",
+      "displayName": "EQA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42539,
+          "modelName": "EQA (H243)",
+          "modelYearFrom": "2021-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3645,
+      "manufacturerName": "MERCEDES-BENZ (BBDC)",
+      "groupKey": "EQB",
+      "displayName": "EQB",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42540,
+          "modelName": "EQB (X243)",
+          "modelYearFrom": "2021-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3645,
+      "manufacturerName": "MERCEDES-BENZ (BBDC)",
+      "groupKey": "EQC",
+      "displayName": "EQC",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40159,
+          "modelName": "EQC (N293)",
+          "modelYearFrom": "2019-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3645,
+      "manufacturerName": "MERCEDES-BENZ (BBDC)",
+      "groupKey": "EQE",
+      "displayName": "EQE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43536,
+          "modelName": "EQE A trois volumes (V295)",
+          "modelYearFrom": "2022-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44511,
+          "modelName": "EQE SUV (X294)",
+          "modelYearFrom": "2023-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3645,
+      "manufacturerName": "MERCEDES-BENZ (BBDC)",
+      "groupKey": "GLA",
+      "displayName": "GLA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14170,
+          "modelName": "GLA (X156)",
+          "modelYearFrom": "2015-04-01",
+          "modelYearTo": "2019-12-01"
+        },
+        {
+          "modelId": 40971,
+          "modelName": "GLA (H247)",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3645,
+      "manufacturerName": "MERCEDES-BENZ (BBDC)",
+      "groupKey": "GLB",
+      "displayName": "GLB",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40231,
+          "modelName": "GLB (X247)",
+          "modelYearFrom": "2019-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3645,
+      "manufacturerName": "MERCEDES-BENZ (BBDC)",
+      "groupKey": "GLC",
+      "displayName": "GLC",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14854,
+          "modelName": "GLC (X253)",
+          "modelYearFrom": "2015-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44266,
+          "modelName": "GLC (X254)",
+          "modelYearFrom": "2023-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3645,
+      "manufacturerName": "MERCEDES-BENZ (BBDC)",
+      "groupKey": "GLK",
+      "displayName": "GLK",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10779,
+          "modelName": "GLK-CLASS (X204)",
+          "modelYearFrom": "2012-04-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Valve, tuyauterie d'eau de nettoyage",
+  "searchText": "Valve, tuyauterie d'eau de nettoyage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:31:58.858Z",
+  "productId": 840,
+  "arborescence": {
+    "Nettoyage des vitres": {
+      "categoryId": 100018,
+      "categoryName": "Nettoyage des vitres",
+      "level": 1,
+      "children": {
+        "Réservoir d'eau de lavage / conduite": {
+          "categoryId": null,
+          "categoryName": "Réservoir d'eau de lavage / conduite",
+          "level": 2,
+          "children": {
+            "Valve, tuyauterie d'eau de nettoyage": {
+              "categoryId": 100610,
+              "categoryName": "Water Tank/ Pipe, windscreen",
+              "level": 2,
+              "children": [],
+              "productId": 840
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Nettoyage des vitres [ID: 100018] (Niveau 1)\n    └── Réservoir d'eau de lavage / conduite (Niveau 2)\n        └── Water Tank/ Pipe, windscreen [ID: 100610] (Niveau 2) → ProductId: 840",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Nettoyage des vitres",
+        "Réservoir d'eau de lavage / conduite",
+        "Water Tank/ Pipe, windscreen"
+      ],
+      "categoryIds": [
+        100018,
+        null,
+        100610
+      ],
+      "finalCategoryId": 100610,
+      "productId": 840
+    }
+  ],
+  "productIdsInArbo": [
+    840
+  ],
+  "matchedProductIds": [
+    840
+  ]
+}

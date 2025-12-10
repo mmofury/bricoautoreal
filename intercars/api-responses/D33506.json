@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "D33506",
+      "index": "HAZ 9040-3",
+      "tecDoc": "9040-3",
+      "tecDocProd": "4808",
+      "articleNumber": "9040-3",
+      "brand": "HAZET",
+      "shortDescription": "Blowing gun",
+      "description": "Air gun, inlet size: 1/4, nozzle length: 109mm, (pen-type)",
+      "eans": [
+        "4000896109500"
+      ],
+      "packageWeight": "0,060",
+      "packageWidth": "7,000",
+      "packageDepth": "3,000",
+      "packageHeight": "18,000",
+      "customsCode": "84242000",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_7117",
+          "primary": false,
+          "name": {
+            "en": "Blow-out Pin"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_93336",
+          "primary": true,
+          "name": {
+            "en": "Blowing gun"
+          }
+        }
+      ]
+    }
+  ]
+}

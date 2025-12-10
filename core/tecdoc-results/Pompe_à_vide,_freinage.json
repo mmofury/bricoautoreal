@@ -1,0 +1,104 @@
+{
+  "productName": "Pompe à vide, freinage",
+  "searchText": "Pompe à vide, freinage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:02:22.674Z",
+  "productId": 387,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Pompe à vide": {
+          "categoryId": null,
+          "categoryName": "Pompe à vide",
+          "level": 2,
+          "children": {
+            "Pompe à vide, freinage": {
+              "categoryId": 100039,
+              "categoryName": "Vacuum Pump",
+              "level": 2,
+              "children": [],
+              "productId": 387
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Culasse / pieces de montage": {
+          "categoryId": null,
+          "categoryName": "Culasse / pieces de montage",
+          "level": 2,
+          "children": {
+            "Pompe à vide, freinage": {
+              "categoryId": 100373,
+              "categoryName": "Cylinder Head/Attachment Parts",
+              "level": 2,
+              "children": {
+                "Pompe à vide": {
+                  "categoryId": null,
+                  "categoryName": "Pompe à vide",
+                  "level": 4,
+                  "children": {
+                    "Pompe à vide, freinage": {
+                      "categoryId": 102450,
+                      "categoryName": "Vacuum Pump",
+                      "level": 3,
+                      "children": [],
+                      "productId": 387
+                    }
+                  }
+                }
+              },
+              "productId": 387
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Dispositif de freinage [ID: 100006] (Niveau 1)\n│   └── Pompe à vide (Niveau 2)\n│       └── Vacuum Pump [ID: 100039] (Niveau 2) → ProductId: 387\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Culasse / pieces de montage (Niveau 2)\n        └── Cylinder Head/Attachment Parts [ID: 100373] (Niveau 2) → ProductId: 387\n            └── Pompe à vide (Niveau 4)\n                └── Vacuum Pump [ID: 102450] (Niveau 3) → ProductId: 387",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Pompe à vide",
+        "Vacuum Pump"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100039
+      ],
+      "finalCategoryId": 100039,
+      "productId": 387
+    },
+    {
+      "path": [
+        "Moteur",
+        "Culasse / pieces de montage",
+        "Cylinder Head/Attachment Parts"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100373
+      ],
+      "finalCategoryId": 100373,
+      "productId": 387
+    }
+  ],
+  "productIdsInArbo": [
+    387
+  ],
+  "matchedProductIds": [
+    387
+  ]
+}

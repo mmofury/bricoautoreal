@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "BA503E",
+      "index": "03.9302-9303.3",
+      "tecDoc": "03.9302-9303.3",
+      "tecDocProd": "3",
+      "articleNumber": "03.9302-9303.3",
+      "brand": "ATE",
+      "shortDescription": "Devices for working fluids and fuels",
+      "description": "Pump, application: brake fluid, for product (ref. no): 03.9302-3005.4, 03.9302-3015.4, 03.9302-3025.4, FB 30 ATE",
+      "eans": [
+        "4006633336567"
+      ],
+      "packageWeight": "0,530",
+      "packageWidth": "12,500",
+      "packageDepth": "7,800",
+      "packageHeight": "19,500",
+      "customsCode": "90319000",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4330",
+          "primary": false,
+          "name": {
+            "en": "Suction Pump, filling/bleeding unit (brake hydraulics)"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91773",
+          "primary": true,
+          "name": {
+            "en": "Devices for working fluids and fuels"
+          }
+        }
+      ]
+    }
+  ]
+}

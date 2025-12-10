@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "211847",
+      "index": "FE11537",
+      "tecDoc": "11537",
+      "tecDocProd": "101",
+      "articleNumber": "11537",
+      "brand": "FEBI",
+      "shortDescription": "Sensor, pneumatic suspension level",
+      "description": "Febi limit sensor pads ciśń.w axis 7.5 + -0.8 bar M16x1, 5mm VOLVO FL7",
+      "eans": [
+        "4027816115373"
+      ],
+      "packageWeight": "0,120",
+      "customsCode": "90262020",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_268",
+          "primary": true,
+          "name": {
+            "en": "Sensor, pneumatic suspension level"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1757",
+          "primary": false,
+          "name": {
+            "en": "Pressure Switch, axle load limitation"
+          }
+        }
+      ]
+    }
+  ]
+}

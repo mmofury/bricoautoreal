@@ -1,0 +1,69 @@
+{
+  "productName": "Pompe d’additif",
+  "searchText": "Pompe d’additif",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:01:18.166Z",
+  "productId": 9878,
+  "arborescence": {
+    "Échappement": {
+      "categoryId": 100004,
+      "categoryName": "Échappement",
+      "level": 1,
+      "children": {
+        "Régénération de suie et particules": {
+          "categoryId": null,
+          "categoryName": "Régénération de suie et particules",
+          "level": 2,
+          "children": {
+            "Pompe d’additif": {
+              "categoryId": 104273,
+              "categoryName": "Soot/Particulate Filter Regeneration",
+              "level": 2,
+              "children": {
+                "Pompe d'additif": {
+                  "categoryId": null,
+                  "categoryName": "Pompe d'additif",
+                  "level": 4,
+                  "children": {
+                    "Pompe d’additif": {
+                      "categoryId": 706492,
+                      "categoryName": "Additive Pump",
+                      "level": 3,
+                      "children": [],
+                      "productId": 9878
+                    }
+                  }
+                }
+              },
+              "productId": 9878
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Échappement [ID: 100004] (Niveau 1)\n    └── Régénération de suie et particules (Niveau 2)\n        └── Soot/Particulate Filter Regeneration [ID: 104273] (Niveau 2) → ProductId: 9878\n            └── Pompe d'additif (Niveau 4)\n                └── Additive Pump [ID: 706492] (Niveau 3) → ProductId: 9878",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Échappement",
+        "Régénération de suie et particules",
+        "Soot/Particulate Filter Regeneration"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        104273
+      ],
+      "finalCategoryId": 104273,
+      "productId": 9878
+    }
+  ],
+  "productIdsInArbo": [
+    9878
+  ],
+  "matchedProductIds": [
+    9878
+  ]
+}

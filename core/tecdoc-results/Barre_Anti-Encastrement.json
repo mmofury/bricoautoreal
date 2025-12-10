@@ -1,0 +1,57 @@
+{
+  "productName": "Barre Anti-Encastrement",
+  "searchText": "Barre Anti-Encastrement",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T20:06:25.529Z",
+  "productId": 8092,
+  "arborescence": {
+    "Dispositif d'attelage/accessoires": {
+      "categoryId": 100015,
+      "categoryName": "Dispositif d'attelage/accessoires",
+      "level": 1,
+      "children": {
+        "Composants / pièces de montage": {
+          "categoryId": null,
+          "categoryName": "Composants / pièces de montage",
+          "level": 2,
+          "children": {
+            "Barre Anti-Encastrement, dispositif d'attelage": {
+              "categoryId": 100609,
+              "categoryName": "Parts",
+              "level": 2,
+              "children": [],
+              "productId": 4940
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif d'attelage/accessoires [ID: 100015] (Niveau 1)\n    └── Composants / pièces de montage (Niveau 2)\n        └── Parts [ID: 100609] (Niveau 2) → ProductId: 4940",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif d'attelage/accessoires",
+        "Composants / pièces de montage",
+        "Parts"
+      ],
+      "categoryIds": [
+        100015,
+        null,
+        100609
+      ],
+      "finalCategoryId": 100609,
+      "productId": 4940
+    }
+  ],
+  "productIdsInArbo": [
+    4940
+  ],
+  "closestProductIds": [
+    {
+      "productId": 4940,
+      "productName": "Barre Anti-Encastrement, dispositif d'attelage"
+    }
+  ]
+}

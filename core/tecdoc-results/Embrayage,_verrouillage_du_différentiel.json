@@ -1,0 +1,54 @@
+{
+  "productName": "Embrayage, verrouillage du différentiel",
+  "searchText": "Embrayage, verrouillage du différentiel",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:36:11.889Z",
+  "productId": 5148,
+  "arborescence": {
+    "Entraînement des essieux": {
+      "categoryId": 100400,
+      "categoryName": "Entraînement des essieux",
+      "level": 1,
+      "children": {
+        "Différentiel": {
+          "categoryId": null,
+          "categoryName": "Différentiel",
+          "level": 2,
+          "children": {
+            "Embrayage, verrouillage du différentiel": {
+              "categoryId": 100415,
+              "categoryName": "Differential",
+              "level": 2,
+              "children": [],
+              "productId": 5148
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement des essieux [ID: 100400] (Niveau 1)\n    └── Différentiel (Niveau 2)\n        └── Differential [ID: 100415] (Niveau 2) → ProductId: 5148",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des essieux",
+        "Différentiel",
+        "Differential"
+      ],
+      "categoryIds": [
+        100400,
+        null,
+        100415
+      ],
+      "finalCategoryId": 100415,
+      "productId": 5148
+    }
+  ],
+  "productIdsInArbo": [
+    5148
+  ],
+  "matchedProductIds": [
+    5148
+  ]
+}

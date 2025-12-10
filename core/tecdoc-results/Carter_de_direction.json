@@ -1,0 +1,54 @@
+{
+  "productName": "Carter de direction",
+  "searchText": "Carter de direction",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:18:17.976Z",
+  "productId": 4470,
+  "arborescence": {
+    "Direction": {
+      "categoryId": 100012,
+      "categoryName": "Direction",
+      "level": 1,
+      "children": {
+        "Carter de direction": {
+          "categoryId": null,
+          "categoryName": "Carter de direction",
+          "level": 2,
+          "children": {
+            "Carter de direction": {
+              "categoryId": 103133,
+              "categoryName": "Steering Box",
+              "level": 2,
+              "children": [],
+              "productId": 4470
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Direction [ID: 100012] (Niveau 1)\n    └── Carter de direction (Niveau 2)\n        └── Steering Box [ID: 103133] (Niveau 2) → ProductId: 4470",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Direction",
+        "Carter de direction",
+        "Steering Box"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        103133
+      ],
+      "finalCategoryId": 103133,
+      "productId": 4470
+    }
+  ],
+  "productIdsInArbo": [
+    4470
+  ],
+  "matchedProductIds": [
+    4470
+  ]
+}

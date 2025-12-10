@@ -1,0 +1,49 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G10SXU",
+      "index": "HP410 488",
+      "tecDoc": "410 488",
+      "tecDocProd": "301",
+      "articleNumber": "410 488",
+      "brand": "HANS PRIES",
+      "shortDescription": "Repair Kit, cable set",
+      "description": "Harness wire (131mm, number of pins: 2) fits: MERCEDES C (CL203), C (W203), C (W204), C T-MODEL (S202), C T-MODEL (S203), C T-MODEL (S204), CLC (CL203), CLK (A208), CLK (A209) 1.8-2.0 05.00-12.18",
+      "eans": [
+        "4063926447584"
+      ],
+      "packageWeight": "0,038",
+      "packageWidth": "5,500",
+      "packageDepth": "8,000",
+      "packageHeight": "5,500",
+      "customsCode": "85443000",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_9456",
+          "primary": false,
+          "name": {
+            "en": "Connecting Cable, camshaft adjuster actuating solenoid"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_4321",
+          "primary": true,
+          "name": {
+            "en": "Repair Kit, cable set"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_6154",
+          "primary": false,
+          "name": {
+            "en": "Connector Cable, camshaft sensor"
+          }
+        }
+      ]
+    }
+  ]
+}

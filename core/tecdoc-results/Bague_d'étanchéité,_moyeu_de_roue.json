@@ -1,0 +1,84 @@
+{
+  "productName": "Bague d'étanchéité, moyeu de roue",
+  "searchText": "Bague d'étanchéité, moyeu de roue",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:03:59.299Z",
+  "productId": 656,
+  "arborescence": {
+    "Suspension d'essieu/Guidage des roues/Roues": {
+      "categoryId": 100013,
+      "categoryName": "Suspension d'essieu/Guidage des roues/Roues",
+      "level": 1,
+      "children": {
+        "Moyeu de roue / fixation": {
+          "categoryId": null,
+          "categoryName": "Moyeu de roue / fixation",
+          "level": 2,
+          "children": {
+            "Bague d'étanchéité, moyeu de roue": {
+              "categoryId": 100206,
+              "categoryName": "Wheel Hub/Mounting",
+              "level": 2,
+              "children": {
+                "Bague d'étanchéité d'arbre radial": {
+                  "categoryId": null,
+                  "categoryName": "Bague d'étanchéité d'arbre radial",
+                  "level": 4,
+                  "children": {
+                    "Bague d'étanchéité, moyeu de roue": {
+                      "categoryId": 100580,
+                      "categoryName": "Radial Shaft Seal",
+                      "level": 3,
+                      "children": [],
+                      "productId": 656
+                    }
+                  }
+                },
+                "Moyeu de roue": {
+                  "categoryId": null,
+                  "categoryName": "Moyeu de roue",
+                  "level": 4,
+                  "children": {
+                    "Bague d'étanchéité, moyeu de roue": {
+                      "categoryId": 100578,
+                      "categoryName": "Wheel Hub",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1745
+                    }
+                  }
+                }
+              },
+              "productId": 1745
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Suspension d'essieu/Guidage des roues/Roues [ID: 100013] (Niveau 1)\n    └── Moyeu de roue / fixation (Niveau 2)\n        └── Wheel Hub/Mounting [ID: 100206] (Niveau 2) → ProductId: 1745\n            ├── Bague d'étanchéité d'arbre radial (Niveau 4)\n            │   └── Radial Shaft Seal [ID: 100580] (Niveau 3) → ProductId: 656\n            └── Moyeu de roue (Niveau 4)\n                └── Wheel Hub [ID: 100578] (Niveau 3) → ProductId: 1745",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Moyeu de roue / fixation",
+        "Wheel Hub/Mounting"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        100206
+      ],
+      "finalCategoryId": 100206,
+      "productId": 1745
+    }
+  ],
+  "productIdsInArbo": [
+    656,
+    1745
+  ],
+  "matchedProductIds": [
+    656
+  ]
+}

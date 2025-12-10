@@ -1,0 +1,125 @@
+{
+  "productName": "Centrale clignotante",
+  "searchText": "Centrale clignotante",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:19:01.351Z",
+  "productId": 61,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Centrale clignotante/Relais": {
+          "categoryId": null,
+          "categoryName": "Centrale clignotante/Relais",
+          "level": 2,
+          "children": {
+            "Centrale clignotante": {
+              "categoryId": 100511,
+              "categoryName": "Flasher Unit/Relay",
+              "level": 2,
+              "children": [],
+              "productId": 61
+            },
+            "Relais de signal de détresse": {
+              "categoryId": 100511,
+              "categoryName": "Flasher Unit/Relay",
+              "level": 2,
+              "children": [],
+              "productId": 802
+            }
+          }
+        },
+        "Relais": {
+          "categoryId": null,
+          "categoryName": "Relais",
+          "level": 2,
+          "children": {
+            "Centrale clignotante": {
+              "categoryId": 100785,
+              "categoryName": "Relay",
+              "level": 2,
+              "children": [],
+              "productId": 61
+            },
+            "Relais de signal de détresse": {
+              "categoryId": 100785,
+              "categoryName": "Relay",
+              "level": 2,
+              "children": [],
+              "productId": 802
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    ├── Centrale clignotante/Relais (Niveau 2)\n    │   ├── Flasher Unit/Relay [ID: 100511] (Niveau 2) → ProductId: 61\n    │   └── Flasher Unit/Relay [ID: 100511] (Niveau 2) → ProductId: 802\n    └── Relais (Niveau 2)\n        ├── Relay [ID: 100785] (Niveau 2) → ProductId: 61\n        └── Relay [ID: 100785] (Niveau 2) → ProductId: 802",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Centrale clignotante/Relais",
+        "Flasher Unit/Relay"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100511
+      ],
+      "finalCategoryId": 100511,
+      "productId": 61
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Centrale clignotante/Relais",
+        "Flasher Unit/Relay"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100511
+      ],
+      "finalCategoryId": 100511,
+      "productId": 802
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Relais",
+        "Relay"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100785
+      ],
+      "finalCategoryId": 100785,
+      "productId": 61
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Relais",
+        "Relay"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100785
+      ],
+      "finalCategoryId": 100785,
+      "productId": 802
+    }
+  ],
+  "productIdsInArbo": [
+    61,
+    802
+  ],
+  "matchedProductIds": [
+    61
+  ]
+}

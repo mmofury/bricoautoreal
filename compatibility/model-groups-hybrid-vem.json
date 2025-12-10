@@ -1,0 +1,82 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.524Z",
+  "manufacturer": "VEM",
+  "countGroups": 5,
+  "groups": [
+    {
+      "manufacturerId": 4646,
+      "manufacturerName": "VEM",
+      "groupKey": "CARGO",
+      "displayName": "CARGO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37687,
+          "modelName": "CARGO Fourgon",
+          "modelYearFrom": "2010-01-01",
+          "modelYearTo": "2013-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4646,
+      "manufacturerName": "VEM",
+      "groupKey": "COVER",
+      "displayName": "COVER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37684,
+          "modelName": "COVER Fourgon",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": "2016-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4646,
+      "manufacturerName": "VEM",
+      "groupKey": "OPEN",
+      "displayName": "OPEN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37683,
+          "modelName": "OPEN Camion plate-forme/Châssis",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": "2018-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4646,
+      "manufacturerName": "VEM",
+      "groupKey": "PEOPLE",
+      "displayName": "PEOPLE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37686,
+          "modelName": "PEOPLE Autobus/Autocar",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": "2016-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4646,
+      "manufacturerName": "VEM",
+      "groupKey": "RIBALTABILE",
+      "displayName": "RIBALTABILE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37685,
+          "modelName": "RIBALTABILE Camion plate-forme/Châssis",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": "2013-12-01"
+        }
+      ]
+    }
+  ]
+}

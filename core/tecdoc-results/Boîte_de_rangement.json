@@ -1,0 +1,244 @@
+{
+  "productName": "Boîte de rangement",
+  "searchText": "Boîte de rangement",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T20:10:22.816Z",
+  "productId": 2531,
+  "arborescence": {
+    "Accessoires": {
+      "categoryId": 100733,
+      "categoryName": "Accessoires",
+      "level": 1,
+      "children": {
+        "Coffre / boîte de rangement": {
+          "categoryId": null,
+          "categoryName": "Coffre / boîte de rangement",
+          "level": 2,
+          "children": {
+            "Caisse organisatrice": {
+              "categoryId": 706576,
+              "categoryName": "Stowage box/storage box",
+              "level": 2,
+              "children": [],
+              "productId": 2451
+            },
+            "Coffre": {
+              "categoryId": 706576,
+              "categoryName": "Stowage box/storage box",
+              "level": 2,
+              "children": [],
+              "productId": 60214
+            }
+          }
+        },
+        "Coffre/chargement/plateau de chargement": {
+          "categoryId": null,
+          "categoryName": "Coffre/chargement/plateau de chargement",
+          "level": 2,
+          "children": {
+            "Caisse organisatrice": {
+              "categoryId": 100862,
+              "categoryName": "Boot/Cargo Area/Loading surface",
+              "level": 2,
+              "children": [],
+              "productId": 2451
+            },
+            "Coffre": {
+              "categoryId": 100862,
+              "categoryName": "Boot/Cargo Area/Loading surface",
+              "level": 2,
+              "children": [],
+              "productId": 60214
+            }
+          }
+        }
+      }
+    },
+    "Équipement intérieur": {
+      "categoryId": 100341,
+      "categoryName": "Équipement intérieur",
+      "level": 1,
+      "children": {
+        "Accessoires": {
+          "categoryId": null,
+          "categoryName": "Accessoires",
+          "level": 2,
+          "children": {
+            "Coffre": {
+              "categoryId": 100730,
+              "categoryName": "Accessories",
+              "level": 2,
+              "children": [],
+              "productId": 60214
+            }
+          }
+        },
+        "Coffre": {
+          "categoryId": null,
+          "categoryName": "Coffre",
+          "level": 2,
+          "children": {
+            "Coffre": {
+              "categoryId": 706581,
+              "categoryName": "Stowage Box",
+              "level": 2,
+              "children": [],
+              "productId": 60214
+            }
+          }
+        },
+        "Coffre à bagages / compartiment de chargement": {
+          "categoryId": null,
+          "categoryName": "Coffre à bagages / compartiment de chargement",
+          "level": 2,
+          "children": {
+            "Caisse organisatrice": {
+              "categoryId": 102697,
+              "categoryName": "Boot",
+              "level": 2,
+              "children": [],
+              "productId": 2451
+            },
+            "Coffre": {
+              "categoryId": 102697,
+              "categoryName": "Boot",
+              "level": 2,
+              "children": [],
+              "productId": 60214
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Accessoires [ID: 100733] (Niveau 1)\n│   ├── Coffre / boîte de rangement (Niveau 2)\n│   │   ├── Stowage box/storage box [ID: 706576] (Niveau 2) → ProductId: 2451\n│   │   └── Stowage box/storage box [ID: 706576] (Niveau 2) → ProductId: 60214\n│   └── Coffre/chargement/plateau de chargement (Niveau 2)\n│       ├── Boot/Cargo Area/Loading surface [ID: 100862] (Niveau 2) → ProductId: 2451\n│       └── Boot/Cargo Area/Loading surface [ID: 100862] (Niveau 2) → ProductId: 60214\n\n└── Équipement intérieur [ID: 100341] (Niveau 1)\n    ├── Accessoires (Niveau 2)\n    │   └── Accessories [ID: 100730] (Niveau 2) → ProductId: 60214\n    ├── Coffre (Niveau 2)\n    │   └── Stowage Box [ID: 706581] (Niveau 2) → ProductId: 60214\n    └── Coffre à bagages / compartiment de chargement (Niveau 2)\n        ├── Boot [ID: 102697] (Niveau 2) → ProductId: 2451\n        └── Boot [ID: 102697] (Niveau 2) → ProductId: 60214",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Accessoires",
+        "Coffre / boîte de rangement",
+        "Stowage box/storage box"
+      ],
+      "categoryIds": [
+        100733,
+        null,
+        706576
+      ],
+      "finalCategoryId": 706576,
+      "productId": 2451
+    },
+    {
+      "path": [
+        "Accessoires",
+        "Coffre / boîte de rangement",
+        "Stowage box/storage box"
+      ],
+      "categoryIds": [
+        100733,
+        null,
+        706576
+      ],
+      "finalCategoryId": 706576,
+      "productId": 60214
+    },
+    {
+      "path": [
+        "Accessoires",
+        "Coffre/chargement/plateau de chargement",
+        "Boot/Cargo Area/Loading surface"
+      ],
+      "categoryIds": [
+        100733,
+        null,
+        100862
+      ],
+      "finalCategoryId": 100862,
+      "productId": 2451
+    },
+    {
+      "path": [
+        "Accessoires",
+        "Coffre/chargement/plateau de chargement",
+        "Boot/Cargo Area/Loading surface"
+      ],
+      "categoryIds": [
+        100733,
+        null,
+        100862
+      ],
+      "finalCategoryId": 100862,
+      "productId": 60214
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Accessoires",
+        "Accessories"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        100730
+      ],
+      "finalCategoryId": 100730,
+      "productId": 60214
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Coffre",
+        "Stowage Box"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        706581
+      ],
+      "finalCategoryId": 706581,
+      "productId": 60214
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Coffre à bagages / compartiment de chargement",
+        "Boot"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102697
+      ],
+      "finalCategoryId": 102697,
+      "productId": 2451
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Coffre à bagages / compartiment de chargement",
+        "Boot"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102697
+      ],
+      "finalCategoryId": 102697,
+      "productId": 60214
+    }
+  ],
+  "productIdsInArbo": [
+    2451,
+    60214
+  ],
+  "closestProductIds": [
+    {
+      "productId": 2451,
+      "productName": "Caisse organisatrice"
+    },
+    {
+      "productId": 60214,
+      "productName": "Coffre"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "productName": "Interrupteur, chauffage du siège",
+  "searchText": "Interrupteur, chauffage du siège",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:47:03.318Z",
+  "productId": 1772,
+  "arborescence": {
+    "Équipement intérieur": {
+      "categoryId": 100341,
+      "categoryName": "Équipement intérieur",
+      "level": 1,
+      "children": {
+        "Sièges": {
+          "categoryId": null,
+          "categoryName": "Sièges",
+          "level": 2,
+          "children": {
+            "Interrupteur, chauffage du siège": {
+              "categoryId": 100673,
+              "categoryName": "Seats",
+              "level": 2,
+              "children": [],
+              "productId": 1772
+            }
+          }
+        }
+      }
+    },
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Chauffage des sièges": {
+          "categoryId": null,
+          "categoryName": "Chauffage des sièges",
+          "level": 2,
+          "children": {
+            "Interrupteur, chauffage du siège": {
+              "categoryId": 100863,
+              "categoryName": "Seat Heating",
+              "level": 2,
+              "children": [],
+              "productId": 1772
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Équipement intérieur [ID: 100341] (Niveau 1)\n│   └── Sièges (Niveau 2)\n│       └── Seats [ID: 100673] (Niveau 2) → ProductId: 1772\n\n└── Systèmes de confort [ID: 100335] (Niveau 1)\n    └── Chauffage des sièges (Niveau 2)\n        └── Seat Heating [ID: 100863] (Niveau 2) → ProductId: 1772",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Équipement intérieur",
+        "Sièges",
+        "Seats"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        100673
+      ],
+      "finalCategoryId": 100673,
+      "productId": 1772
+    },
+    {
+      "path": [
+        "Systèmes de confort",
+        "Chauffage des sièges",
+        "Seat Heating"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        100863
+      ],
+      "finalCategoryId": 100863,
+      "productId": 1772
+    }
+  ],
+  "productIdsInArbo": [
+    1772
+  ],
+  "matchedProductIds": [
+    1772
+  ]
+}

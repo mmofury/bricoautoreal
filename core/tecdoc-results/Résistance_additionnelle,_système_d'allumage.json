@@ -1,0 +1,54 @@
+{
+  "productName": "Résistance additionnelle, système d'allumage",
+  "searchText": "Résistance additionnelle, système d'allumage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:14:43.869Z",
+  "productId": 706,
+  "arborescence": {
+    "Allumage / préchauffage": {
+      "categoryId": 100008,
+      "categoryName": "Allumage / préchauffage",
+      "level": 1,
+      "children": {
+        "Résistance additionnellle": {
+          "categoryId": null,
+          "categoryName": "Résistance additionnellle",
+          "level": 2,
+          "children": {
+            "Résistance additionnelle, système d'allumage": {
+              "categoryId": 100757,
+              "categoryName": "Series Resistor",
+              "level": 2,
+              "children": [],
+              "productId": 706
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Allumage / préchauffage [ID: 100008] (Niveau 1)\n    └── Résistance additionnellle (Niveau 2)\n        └── Series Resistor [ID: 100757] (Niveau 2) → ProductId: 706",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Résistance additionnellle",
+        "Series Resistor"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        100757
+      ],
+      "finalCategoryId": 100757,
+      "productId": 706
+    }
+  ],
+  "productIdsInArbo": [
+    706
+  ],
+  "matchedProductIds": [
+    706
+  ]
+}

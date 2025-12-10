@@ -1,0 +1,175 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.297Z",
+  "manufacturer": "GONOW",
+  "countGroups": 10,
+  "groups": [
+    {
+      "manufacturerId": 2902,
+      "manufacturerName": "GONOW",
+      "groupKey": "COXSWAIN",
+      "displayName": "COXSWAIN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5971,
+          "modelName": "COXSWAIN",
+          "modelYearFrom": "2004-11-01",
+          "modelYearTo": "2010-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2902,
+      "manufacturerName": "GONOW",
+      "groupKey": "FAN",
+      "displayName": "FAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37762,
+          "modelName": "FAN",
+          "modelYearFrom": "2010-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2902,
+      "manufacturerName": "GONOW",
+      "groupKey": "JETSTAR",
+      "displayName": "JETSTAR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6053,
+          "modelName": "JETSTAR",
+          "modelYearFrom": "2004-08-01",
+          "modelYearTo": "2005-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2902,
+      "manufacturerName": "GONOW",
+      "groupKey": "KYLIN",
+      "displayName": "KYLIN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6058,
+          "modelName": "KYLIN",
+          "modelYearFrom": "2004-08-01",
+          "modelYearTo": "2010-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2902,
+      "manufacturerName": "GONOW",
+      "groupKey": "SAILING",
+      "displayName": "SAILING",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6996,
+          "modelName": "SAILING",
+          "modelYearFrom": "2004-06-01",
+          "modelYearTo": "2010-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2902,
+      "manufacturerName": "GONOW",
+      "groupKey": "SUV",
+      "displayName": "SUV",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7000,
+          "modelName": "SUV",
+          "modelYearFrom": "2005-05-01",
+          "modelYearTo": "2010-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2902,
+      "manufacturerName": "GONOW",
+      "groupKey": "TROY",
+      "displayName": "TROY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6189,
+          "modelName": "TROY Camion plate-forme/Châssis",
+          "modelYearFrom": "2004-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11421,
+          "modelName": "TROY Pick-up",
+          "modelYearFrom": "2008-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2902,
+      "manufacturerName": "GONOW",
+      "groupKey": "VICTOR",
+      "displayName": "VICTOR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6203,
+          "modelName": "VICTOR",
+          "modelYearFrom": "2003-02-01",
+          "modelYearTo": "2010-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2902,
+      "manufacturerName": "GONOW",
+      "groupKey": "WAY",
+      "displayName": "WAY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37763,
+          "modelName": "WAY M1 Camion plate-forme/Châssis",
+          "modelYearFrom": "2009-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37764,
+          "modelName": "WAY CL Autobus/Autocar",
+          "modelYearFrom": "2012-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42901,
+          "modelName": "WAY Fourgon",
+          "modelYearFrom": "2013-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2902,
+      "manufacturerName": "GONOW",
+      "groupKey": "X",
+      "displayName": "X",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10580,
+          "modelName": "X-SPACE",
+          "modelYearFrom": "2007-01-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

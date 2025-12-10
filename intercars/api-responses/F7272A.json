@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "F7272A",
+      "index": "1.10913SP",
+      "tecDoc": "1.10913SP",
+      "tecDocProd": "355",
+      "articleNumber": "1.10913SP",
+      "brand": "DT SPARE PARTS",
+      "shortDescription": "Air filter",
+      "description": "Air filter (screwed)",
+      "packageWeight": "3,852",
+      "packageWidth": "53,000",
+      "packageDepth": "38,000",
+      "packageHeight": "67,000",
+      "customsCode": "84213100",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_8",
+          "primary": true,
+          "name": {
+            "en": "Air filter"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_8147",
+          "primary": false,
+          "name": {
+            "en": "Housing, air filter"
+          }
+        }
+      ]
+    }
+  ]
+}

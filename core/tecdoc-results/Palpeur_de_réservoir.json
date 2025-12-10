@@ -1,0 +1,193 @@
+{
+  "productName": "Palpeur de réservoir",
+  "searchText": "Palpeur de réservoir",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:18:49.519Z",
+  "productId": 8289,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Capteur de niveau de carburant": {
+          "categoryId": null,
+          "categoryName": "Capteur de niveau de carburant",
+          "level": 2,
+          "children": {
+            "Joint d'étanchéité, palpeur de réservoir": {
+              "categoryId": 100268,
+              "categoryName": "Fuel Sender Unit",
+              "level": 2,
+              "children": [],
+              "productId": 148
+            },
+            "Kit réparation de câble, palpeur de réservoir": {
+              "categoryId": 100268,
+              "categoryName": "Fuel Sender Unit",
+              "level": 2,
+              "children": [],
+              "productId": 7316
+            },
+            "Palpeur de réservoir": {
+              "categoryId": 100268,
+              "categoryName": "Fuel Sender Unit",
+              "level": 2,
+              "children": [],
+              "productId": 8289
+            }
+          }
+        },
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Clé de jauge de réservoir": {
+              "categoryId": 103148,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 9046
+            },
+            "Jeu de clés pour jauge de réservoir": {
+              "categoryId": 103148,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 9049
+            }
+          }
+        },
+        "Pompe / accessoires": {
+          "categoryId": null,
+          "categoryName": "Pompe / accessoires",
+          "level": 2,
+          "children": {
+            "Kit de montage, palpeur de réservoir/pompe à carburant": {
+              "categoryId": 100251,
+              "categoryName": "Pump/Accessories",
+              "level": 2,
+              "children": {
+                "Pompe d'alimentation": {
+                  "categoryId": null,
+                  "categoryName": "Pompe d'alimentation",
+                  "level": 4,
+                  "children": {
+                    "Kit de montage, palpeur de réservoir/pompe à carburant": {
+                      "categoryId": 100717,
+                      "categoryName": "Fuel Pump",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8263
+                    }
+                  }
+                }
+              },
+              "productId": 8263
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Alimentation carburant [ID: 100214] (Niveau 1)\n    ├── Capteur de niveau de carburant (Niveau 2)\n    │   ├── Fuel Sender Unit [ID: 100268] (Niveau 2) → ProductId: 148\n    │   ├── Fuel Sender Unit [ID: 100268] (Niveau 2) → ProductId: 7316\n    │   └── Fuel Sender Unit [ID: 100268] (Niveau 2) → ProductId: 8289\n    ├── Outils (Niveau 2)\n    │   ├── Tools [ID: 103148] (Niveau 2) → ProductId: 9046\n    │   └── Tools [ID: 103148] (Niveau 2) → ProductId: 9049\n    └── Pompe / accessoires (Niveau 2)\n        └── Pump/Accessories [ID: 100251] (Niveau 2) → ProductId: 8263\n            └── Pompe d'alimentation (Niveau 4)\n                └── Fuel Pump [ID: 100717] (Niveau 3) → ProductId: 8263",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Capteur de niveau de carburant",
+        "Fuel Sender Unit"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100268
+      ],
+      "finalCategoryId": 100268,
+      "productId": 148
+    },
+    {
+      "path": [
+        "Alimentation carburant",
+        "Capteur de niveau de carburant",
+        "Fuel Sender Unit"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100268
+      ],
+      "finalCategoryId": 100268,
+      "productId": 7316
+    },
+    {
+      "path": [
+        "Alimentation carburant",
+        "Capteur de niveau de carburant",
+        "Fuel Sender Unit"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100268
+      ],
+      "finalCategoryId": 100268,
+      "productId": 8289
+    },
+    {
+      "path": [
+        "Alimentation carburant",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        103148
+      ],
+      "finalCategoryId": 103148,
+      "productId": 9046
+    },
+    {
+      "path": [
+        "Alimentation carburant",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        103148
+      ],
+      "finalCategoryId": 103148,
+      "productId": 9049
+    },
+    {
+      "path": [
+        "Alimentation carburant",
+        "Pompe / accessoires",
+        "Pump/Accessories"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100251
+      ],
+      "finalCategoryId": 100251,
+      "productId": 8263
+    }
+  ],
+  "productIdsInArbo": [
+    148,
+    7316,
+    8263,
+    8289,
+    9046,
+    9049
+  ],
+  "matchedProductIds": [
+    8289
+  ]
+}

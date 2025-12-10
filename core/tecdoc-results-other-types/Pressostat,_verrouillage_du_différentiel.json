@@ -1,0 +1,64 @@
+{
+  "productName": "Pressostat, verrouillage du différentiel",
+  "productId": 1692,
+  "searchText": "Pressostat, verrouillage du différentiel",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Système électrique": {
+          "categoryId": 200064,
+          "categoryName": "Système électrique",
+          "level": 1,
+          "children": {
+            "Instruments": {
+              "categoryId": null,
+              "categoryName": "Instruments",
+              "level": 2,
+              "children": {
+                "Pressostat, verrouillage du différentiel": {
+                  "categoryId": 200600,
+                  "categoryName": "Instruments",
+                  "level": 2,
+                  "children": {
+                    "Palpeurs/interrupteurs (transmetteur)": {
+                      "categoryId": null,
+                      "categoryName": "Palpeurs/interrupteurs (transmetteur)",
+                      "level": 4,
+                      "children": {
+                        "Pressostat, verrouillage du différentiel": {
+                          "categoryId": 200954,
+                          "categoryName": "Sensors/Switches",
+                          "level": 3,
+                          "children": [],
+                          "productId": 1692
+                        }
+                      }
+                    }
+                  },
+                  "productId": 1692
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système électrique [ID: 200064] (Niveau 1)\n    └── Instruments (Niveau 2)\n        └── Instruments [ID: 200600] (Niveau 2) → ProductId: 1692\n            └── Palpeurs/interrupteurs (transmetteur) (Niveau 4)\n                └── Sensors/Switches [ID: 200954] (Niveau 3) → ProductId: 1692",
+      "productIdsInArbo": [
+        1692
+      ],
+      "matchedProductIds": [
+        1692
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:17:53.167Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

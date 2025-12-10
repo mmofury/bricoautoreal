@@ -1,0 +1,69 @@
+{
+  "productName": "Système de rétroviseur",
+  "searchText": "Système de rétroviseur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:24:07.246Z",
+  "productId": 3379,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Vitrages/Miroirs": {
+          "categoryId": null,
+          "categoryName": "Vitrages/Miroirs",
+          "level": 2,
+          "children": {
+            "Système de rétroviseur": {
+              "categoryId": 100744,
+              "categoryName": "Glazing/Mirrors",
+              "level": 2,
+              "children": {
+                "Miroirs": {
+                  "categoryId": null,
+                  "categoryName": "Miroirs",
+                  "level": 4,
+                  "children": {
+                    "Système de rétroviseur": {
+                      "categoryId": 100566,
+                      "categoryName": "Mirrors",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3379
+                    }
+                  }
+                }
+              },
+              "productId": 3379
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    └── Vitrages/Miroirs (Niveau 2)\n        └── Glazing/Mirrors [ID: 100744] (Niveau 2) → ProductId: 3379\n            └── Miroirs (Niveau 4)\n                └── Mirrors [ID: 100566] (Niveau 3) → ProductId: 3379",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Vitrages/Miroirs",
+        "Glazing/Mirrors"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100744
+      ],
+      "finalCategoryId": 100744,
+      "productId": 3379
+    }
+  ],
+  "productIdsInArbo": [
+    3379
+  ],
+  "matchedProductIds": [
+    3379
+  ]
+}

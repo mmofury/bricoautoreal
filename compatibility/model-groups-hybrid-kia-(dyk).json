@@ -1,0 +1,415 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.372Z",
+  "manufacturer": "KIA (DYK)",
+  "countGroups": 22,
+  "groups": [
+    {
+      "manufacturerId": 3127,
+      "manufacturerName": "KIA (DYK)",
+      "groupKey": "CARNIVAL",
+      "displayName": "CARNIVAL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6513,
+          "modelName": "CARNIVAL",
+          "modelYearFrom": "2004-01-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 42419,
+          "modelName": "CARNIVAL",
+          "modelYearFrom": "2021-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3127,
+      "manufacturerName": "KIA (DYK)",
+      "groupKey": "CERATO",
+      "displayName": "CERATO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6514,
+          "modelName": "CERATO A trois volumes",
+          "modelYearFrom": "2005-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 7840,
+          "modelName": "CERATO Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2007-12-01",
+          "modelYearTo": "2014-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3127,
+      "manufacturerName": "KIA (DYK)",
+      "groupKey": "EV5",
+      "displayName": "EV5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45007,
+          "modelName": "EV5",
+          "modelYearFrom": "2023-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3127,
+      "manufacturerName": "KIA (DYK)",
+      "groupKey": "FORTE",
+      "displayName": "FORTE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8141,
+          "modelName": "FORTE",
+          "modelYearFrom": "2009-06-01",
+          "modelYearTo": "2017-11-01"
+        },
+        {
+          "modelId": 38302,
+          "modelName": "FORTE",
+          "modelYearFrom": "2017-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3127,
+      "manufacturerName": "KIA (DYK)",
+      "groupKey": "K2",
+      "displayName": "K2",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9858,
+          "modelName": "K2 A trois volumes",
+          "modelYearFrom": "2011-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 36377,
+          "modelName": "K2 Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2011-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40002,
+          "modelName": "K2 A trois volumes",
+          "modelYearFrom": "2016-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3127,
+      "manufacturerName": "KIA (DYK)",
+      "groupKey": "K3",
+      "displayName": "K3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11141,
+          "modelName": "K3",
+          "modelYearFrom": "2012-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39564,
+          "modelName": "K3",
+          "modelYearFrom": "2019-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3127,
+      "manufacturerName": "KIA (DYK)",
+      "groupKey": "K3S",
+      "displayName": "K3S",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 12772,
+          "modelName": "K3S",
+          "modelYearFrom": "2014-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3127,
+      "manufacturerName": "KIA (DYK)",
+      "groupKey": "K4",
+      "displayName": "K4",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13182,
+          "modelName": "K4",
+          "modelYearFrom": "2014-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3127,
+      "manufacturerName": "KIA (DYK)",
+      "groupKey": "K5",
+      "displayName": "K5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9686,
+          "modelName": "K5",
+          "modelYearFrom": "2011-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40005,
+          "modelName": "K5",
+          "modelYearFrom": "2015-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41106,
+          "modelName": "K5",
+          "modelYearFrom": "2020-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3127,
+      "manufacturerName": "KIA (DYK)",
+      "groupKey": "KX",
+      "displayName": "KX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38199,
+          "modelName": "KX CROSS",
+          "modelYearFrom": "2017-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3127,
+      "manufacturerName": "KIA (DYK)",
+      "groupKey": "KX1",
+      "displayName": "KX1",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38854,
+          "modelName": "KX1",
+          "modelYearFrom": "2018-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3127,
+      "manufacturerName": "KIA (DYK)",
+      "groupKey": "KX3",
+      "displayName": "KX3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13959,
+          "modelName": "KX3",
+          "modelYearFrom": "2015-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41656,
+          "modelName": "KX3",
+          "modelYearFrom": "2019-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3127,
+      "manufacturerName": "KIA (DYK)",
+      "groupKey": "KX5",
+      "displayName": "KX5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36509,
+          "modelName": "KX5",
+          "modelYearFrom": "2016-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3127,
+      "manufacturerName": "KIA (DYK)",
+      "groupKey": "KX7",
+      "displayName": "KX7",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37777,
+          "modelName": "KX7",
+          "modelYearFrom": "2017-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3127,
+      "manufacturerName": "KIA (DYK)",
+      "groupKey": "OPTIMA",
+      "displayName": "OPTIMA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6515,
+          "modelName": "OPTIMA",
+          "modelYearFrom": "2004-09-01",
+          "modelYearTo": "2013-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3127,
+      "manufacturerName": "KIA (DYK)",
+      "groupKey": "PEGAS",
+      "displayName": "PEGAS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38251,
+          "modelName": "PEGAS",
+          "modelYearFrom": "2017-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3127,
+      "manufacturerName": "KIA (DYK)",
+      "groupKey": "QIANLIMA",
+      "displayName": "QIANLIMA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6518,
+          "modelName": "QIANLIMA",
+          "modelYearFrom": "2002-12-01",
+          "modelYearTo": "2007-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3127,
+      "manufacturerName": "KIA (DYK)",
+      "groupKey": "RIO",
+      "displayName": "RIO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6519,
+          "modelName": "RIO",
+          "modelYearFrom": "2007-01-01",
+          "modelYearTo": "2014-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3127,
+      "manufacturerName": "KIA (DYK)",
+      "groupKey": "SELTOS",
+      "displayName": "SELTOS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44294,
+          "modelName": "SELTOS",
+          "modelYearFrom": "2023-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3127,
+      "manufacturerName": "KIA (DYK)",
+      "groupKey": "SONET",
+      "displayName": "SONET",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45504,
+          "modelName": "SONET",
+          "modelYearFrom": "2024-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3127,
+      "manufacturerName": "KIA (DYK)",
+      "groupKey": "SOUL",
+      "displayName": "SOUL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8688,
+          "modelName": "SOUL",
+          "modelYearFrom": "2009-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3127,
+      "manufacturerName": "KIA (DYK)",
+      "groupKey": "SPORTAGE",
+      "displayName": "SPORTAGE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7829,
+          "modelName": "SPORTAGE II (JE)",
+          "modelYearFrom": "2007-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 9169,
+          "modelName": "SPORTAGE-R (SL)",
+          "modelYearFrom": "2010-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38636,
+          "modelName": "SPORTAGE III (NP)",
+          "modelYearFrom": "2018-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42134,
+          "modelName": "SPORTAGE-ACE (NP)",
+          "modelYearFrom": "2021-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43731,
+          "modelName": "SPORTAGE (NQ5)",
+          "modelYearFrom": "2022-11-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Déflecteur de sortie d´échappement",
+  "searchText": "Déflecteur de sortie d´échappement",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:35:01.989Z",
+  "productId": 181,
+  "arborescence": {
+    "Échappement": {
+      "categoryId": 100004,
+      "categoryName": "Échappement",
+      "level": 1,
+      "children": {
+        "Enjoliveur": {
+          "categoryId": null,
+          "categoryName": "Enjoliveur",
+          "level": 2,
+          "children": {
+            "Déflecteur de sortie d´échappement": {
+              "categoryId": 100195,
+              "categoryName": "Baffle",
+              "level": 2,
+              "children": [],
+              "productId": 181
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Échappement [ID: 100004] (Niveau 1)\n    └── Enjoliveur (Niveau 2)\n        └── Baffle [ID: 100195] (Niveau 2) → ProductId: 181",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Échappement",
+        "Enjoliveur",
+        "Baffle"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100195
+      ],
+      "finalCategoryId": 100195,
+      "productId": 181
+    }
+  ],
+  "productIdsInArbo": [
+    181
+  ],
+  "matchedProductIds": [
+    181
+  ]
+}

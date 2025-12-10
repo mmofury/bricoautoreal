@@ -1,0 +1,119 @@
+{
+  "productName": "Capteur de température d’huile, BV manuelle robotisée (BVR)",
+  "searchText": "Capteur de température d’huile, BV manuelle robotisée (BVR)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:15:14.821Z",
+  "productId": 60297,
+  "arborescence": {
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Boîte de vitesses manuelle robotisée (BVR)": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesses manuelle robotisée (BVR)",
+          "level": 2,
+          "children": {
+            "Capteur de température d’huile, BV manuelle robotisée (BVR)": {
+              "categoryId": 706584,
+              "categoryName": "Automated manual transmission (AMT)",
+              "level": 2,
+              "children": {
+                "Capteurs/Conatct": {
+                  "categoryId": null,
+                  "categoryName": "Capteurs/Conatct",
+                  "level": 4,
+                  "children": {
+                    "Capteur de température d’huile, BV manuelle robotisée (BVR)": {
+                      "categoryId": 706636,
+                      "categoryName": "Sensors/Switches",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60297
+                    }
+                  }
+                }
+              },
+              "productId": 60297
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Instruments": {
+          "categoryId": null,
+          "categoryName": "Instruments",
+          "level": 2,
+          "children": {
+            "Capteur de température d’huile, BV manuelle robotisée (BVR)": {
+              "categoryId": 100322,
+              "categoryName": "Instruments",
+              "level": 2,
+              "children": {
+                "Capteurs/Conatct": {
+                  "categoryId": null,
+                  "categoryName": "Capteurs/Conatct",
+                  "level": 4,
+                  "children": {
+                    "Capteur de température d’huile, BV manuelle robotisée (BVR)": {
+                      "categoryId": 100553,
+                      "categoryName": "Sensors/Switches",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60297
+                    }
+                  }
+                }
+              },
+              "productId": 60297
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Boîte de vitesses [ID: 100238] (Niveau 1)\n│   └── Boîte de vitesses manuelle robotisée (BVR) (Niveau 2)\n│       └── Automated manual transmission (AMT) [ID: 706584] (Niveau 2) → ProductId: 60297\n│           └── Capteurs/Conatct (Niveau 4)\n│               └── Sensors/Switches [ID: 706636] (Niveau 3) → ProductId: 60297\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Instruments (Niveau 2)\n        └── Instruments [ID: 100322] (Niveau 2) → ProductId: 60297\n            └── Capteurs/Conatct (Niveau 4)\n                └── Sensors/Switches [ID: 100553] (Niveau 3) → ProductId: 60297",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesses manuelle robotisée (BVR)",
+        "Automated manual transmission (AMT)"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        706584
+      ],
+      "finalCategoryId": 706584,
+      "productId": 60297
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Instruments",
+        "Instruments"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100322
+      ],
+      "finalCategoryId": 100322,
+      "productId": 60297
+    }
+  ],
+  "productIdsInArbo": [
+    60297
+  ],
+  "matchedProductIds": [
+    60297
+  ]
+}

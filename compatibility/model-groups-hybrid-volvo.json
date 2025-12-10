@@ -1,0 +1,907 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.530Z",
+  "manufacturer": "VOLVO",
+  "countGroups": 40,
+  "groups": [
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "140",
+      "displayName": "140",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 385,
+          "modelName": "140 (142, 144)",
+          "modelYearFrom": "1966-08-01",
+          "modelYearTo": "1975-08-01"
+        },
+        {
+          "modelId": 1622,
+          "modelName": "140 Break (145)",
+          "modelYearFrom": "1966-08-01",
+          "modelYearTo": "1975-02-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "164",
+      "displayName": "164",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1623,
+          "modelName": "164 (164)",
+          "modelYearFrom": "1968-08-01",
+          "modelYearTo": "1975-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "240",
+      "displayName": "240",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 211,
+          "modelName": "240 (P242, P244)",
+          "modelYearFrom": "1974-08-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 215,
+          "modelName": "240 Kombi (P245)",
+          "modelYearFrom": "1974-08-01",
+          "modelYearTo": "1993-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "260",
+      "displayName": "260",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 228,
+          "modelName": "260 (P262, P264)",
+          "modelYearFrom": "1974-08-01",
+          "modelYearTo": "1982-07-01"
+        },
+        {
+          "modelId": 1633,
+          "modelName": "260 Break (P265)",
+          "modelYearFrom": "1975-07-01",
+          "modelYearTo": "1982-07-01"
+        },
+        {
+          "modelId": 2073,
+          "modelName": "260 Coupé (P262)",
+          "modelYearFrom": "1975-09-01",
+          "modelYearTo": "1985-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "340",
+      "displayName": "340",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 370,
+          "modelName": "340-360 A trois volumes (344)",
+          "modelYearFrom": "1979-08-01",
+          "modelYearTo": "1991-07-01"
+        },
+        {
+          "modelId": 375,
+          "modelName": "340-360 (343, 345)",
+          "modelYearFrom": "1975-08-01",
+          "modelYearTo": "1991-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "440",
+      "displayName": "440",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1634,
+          "modelName": "440 (445)",
+          "modelYearFrom": "1988-08-01",
+          "modelYearTo": "1996-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "460",
+      "displayName": "460",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 417,
+          "modelName": "460 (464)",
+          "modelYearFrom": "1988-09-01",
+          "modelYearTo": "1996-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "480",
+      "displayName": "480",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 429,
+          "modelName": "480 (482)",
+          "modelYearFrom": "1986-04-01",
+          "modelYearTo": "1996-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "66",
+      "displayName": "66",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1619,
+          "modelName": "66 Break (64)",
+          "modelYearFrom": "1975-10-01",
+          "modelYearTo": "1979-11-01"
+        },
+        {
+          "modelId": 3438,
+          "modelName": "66 (31, 36)",
+          "modelYearFrom": "1975-08-01",
+          "modelYearTo": "1978-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "740",
+      "displayName": "740",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 553,
+          "modelName": "740 (744)",
+          "modelYearFrom": "1983-04-01",
+          "modelYearTo": "1992-12-01"
+        },
+        {
+          "modelId": 3453,
+          "modelName": "740 Kombi (745)",
+          "modelYearFrom": "1984-08-01",
+          "modelYearTo": "1992-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "760",
+      "displayName": "760",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 562,
+          "modelName": "760 (704, 764)",
+          "modelYearFrom": "1981-08-01",
+          "modelYearTo": "1992-07-01"
+        },
+        {
+          "modelId": 567,
+          "modelName": "760 Kombi (704, 765)",
+          "modelYearFrom": "1982-01-01",
+          "modelYearTo": "1992-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "780",
+      "displayName": "780",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1639,
+          "modelName": "780 (782)",
+          "modelYearFrom": "1986-04-01",
+          "modelYearTo": "1990-11-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "850",
+      "displayName": "850",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 57,
+          "modelName": "850 Break (855)",
+          "modelYearFrom": "1992-04-01",
+          "modelYearTo": "1997-10-01"
+        },
+        {
+          "modelId": 3925,
+          "modelName": "850 (854)",
+          "modelYearFrom": "1991-06-01",
+          "modelYearTo": "1997-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "940",
+      "displayName": "940",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 193,
+          "modelName": "940 (944)",
+          "modelYearFrom": "1990-08-01",
+          "modelYearTo": "1995-03-01"
+        },
+        {
+          "modelId": 197,
+          "modelName": "940 II (944)",
+          "modelYearFrom": "1994-08-01",
+          "modelYearTo": "1998-12-01"
+        },
+        {
+          "modelId": 201,
+          "modelName": "940 II Break (945)",
+          "modelYearFrom": "1990-09-01",
+          "modelYearTo": "1998-10-01"
+        },
+        {
+          "modelId": 3926,
+          "modelName": "940 Kombi (945)",
+          "modelYearFrom": "1990-08-01",
+          "modelYearTo": "1995-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "960",
+      "displayName": "960",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 216,
+          "modelName": "960 (964)",
+          "modelYearFrom": "1990-08-01",
+          "modelYearTo": "1994-07-01"
+        },
+        {
+          "modelId": 220,
+          "modelName": "960 II (964)",
+          "modelYearFrom": "1994-07-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 225,
+          "modelName": "960 II Break (965)",
+          "modelYearFrom": "1994-07-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 229,
+          "modelName": "960 Kombi (965)",
+          "modelYearFrom": "1990-08-01",
+          "modelYearTo": "1994-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "C30",
+      "displayName": "C30",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5610,
+          "modelName": "C30 (533)",
+          "modelYearFrom": "2006-09-01",
+          "modelYearTo": "2013-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "C303",
+      "displayName": "C303",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38424,
+          "modelName": "C303",
+          "modelYearFrom": "1974-05-01",
+          "modelYearTo": "1980-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "C40",
+      "displayName": "C40",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42573,
+          "modelName": "C40 (539)",
+          "modelYearFrom": "2021-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "C70",
+      "displayName": "C70",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1989,
+          "modelName": "C70 I Coupé (872)",
+          "modelYearFrom": "1997-03-01",
+          "modelYearTo": "2002-09-01"
+        },
+        {
+          "modelId": 3559,
+          "modelName": "C70 I Décapotable (873)",
+          "modelYearFrom": "1998-03-01",
+          "modelYearTo": "2005-10-01"
+        },
+        {
+          "modelId": 5568,
+          "modelName": "C70 II Décapotable (542)",
+          "modelYearFrom": "2006-03-01",
+          "modelYearTo": "2013-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "EC40",
+      "displayName": "EC40",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45214,
+          "modelName": "EC40 (539)",
+          "modelYearFrom": "2024-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "ES90",
+      "displayName": "ES90",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 46342,
+          "modelName": "ES90",
+          "modelYearFrom": "2025-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "EX30",
+      "displayName": "EX30",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44393,
+          "modelName": "EX30 (416)",
+          "modelYearFrom": "2023-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 46251,
+          "modelName": "EX30 Cross Country",
+          "modelYearFrom": "2025-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "EX40",
+      "displayName": "EX40",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45215,
+          "modelName": "EX40 (536)",
+          "modelYearFrom": "2024-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "EX90",
+      "displayName": "EX90",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43843,
+          "modelName": "EX90 (356)",
+          "modelYearFrom": "2022-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "P",
+      "displayName": "P",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1617,
+          "modelName": "P 121",
+          "modelYearFrom": "1959-05-01",
+          "modelYearTo": "1971-05-01"
+        },
+        {
+          "modelId": 1618,
+          "modelName": "P 122 S AMAZON",
+          "modelYearFrom": "1959-05-01",
+          "modelYearTo": "1971-05-01"
+        },
+        {
+          "modelId": 1624,
+          "modelName": "P 1800 (P18)",
+          "modelYearFrom": "1962-04-01",
+          "modelYearTo": "1973-11-01"
+        },
+        {
+          "modelId": 1625,
+          "modelName": "P 2200 Break (P210)",
+          "modelYearFrom": "1964-09-01",
+          "modelYearTo": "1967-08-01"
+        },
+        {
+          "modelId": 1638,
+          "modelName": "P 210 DUETT (P211, P212)",
+          "modelYearFrom": "1960-05-01",
+          "modelYearTo": "1967-07-01"
+        },
+        {
+          "modelId": 2068,
+          "modelName": "P 122 S AMAZON Break (120, 121)",
+          "modelYearFrom": "1959-05-01",
+          "modelYearTo": "1971-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "PV",
+      "displayName": "PV",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1635,
+          "modelName": "PV 544 (P11)",
+          "modelYearFrom": "1958-08-01",
+          "modelYearTo": "1967-07-01"
+        },
+        {
+          "modelId": 34194,
+          "modelName": "PV 444 A trois volumes (P11)",
+          "modelYearFrom": "1943-09-01",
+          "modelYearTo": "1958-08-01"
+        },
+        {
+          "modelId": 40797,
+          "modelName": "PV 445 DUETT (P445)",
+          "modelYearFrom": "1953-09-01",
+          "modelYearTo": "1961-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "S40",
+      "displayName": "S40",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1513,
+          "modelName": "S40 I (644)",
+          "modelYearFrom": "1995-07-01",
+          "modelYearTo": "2004-12-01"
+        },
+        {
+          "modelId": 5089,
+          "modelName": "S40 II (544)",
+          "modelYearFrom": "2003-12-01",
+          "modelYearTo": "2012-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "S60",
+      "displayName": "S60",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4696,
+          "modelName": "S60 I (384)",
+          "modelYearFrom": "2000-07-01",
+          "modelYearTo": "2010-04-01"
+        },
+        {
+          "modelId": 8616,
+          "modelName": "S60 II (134)",
+          "modelYearFrom": "2010-04-01",
+          "modelYearTo": "2019-12-01"
+        },
+        {
+          "modelId": 39574,
+          "modelName": "S60 III (224)",
+          "modelYearFrom": "2019-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43013,
+          "modelName": "S60 II Cross Country (134)",
+          "modelYearFrom": "2015-03-01",
+          "modelYearTo": "2018-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "S70",
+      "displayName": "S70",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3499,
+          "modelName": "S70 (874)",
+          "modelYearFrom": "1996-11-01",
+          "modelYearTo": "2000-11-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "S80",
+      "displayName": "S80",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3550,
+          "modelName": "S80 I (184)",
+          "modelYearFrom": "1998-05-01",
+          "modelYearTo": "2008-02-01"
+        },
+        {
+          "modelId": 5520,
+          "modelName": "S80 II (124)",
+          "modelYearFrom": "2006-03-01",
+          "modelYearTo": "2016-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "S90",
+      "displayName": "S90",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1821,
+          "modelName": "S90 I (964)",
+          "modelYearFrom": "1996-11-01",
+          "modelYearTo": "1998-12-01"
+        },
+        {
+          "modelId": 36541,
+          "modelName": "S90 II (234)",
+          "modelYearFrom": "2016-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "V40",
+      "displayName": "V40",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1514,
+          "modelName": "V40 Break (645)",
+          "modelYearFrom": "1995-07-01",
+          "modelYearTo": "2004-06-01"
+        },
+        {
+          "modelId": 10251,
+          "modelName": "V40 Berline bicorps trois ou cinq portes (525)",
+          "modelYearFrom": "2012-03-01",
+          "modelYearTo": "2019-08-01"
+        },
+        {
+          "modelId": 39043,
+          "modelName": "V40 Camionnette/Berline bicorps trois ou cinq portes (525)",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": "2015-12-01"
+        },
+        {
+          "modelId": 42985,
+          "modelName": "V40 Cross Country (526)",
+          "modelYearFrom": "2012-10-01",
+          "modelYearTo": "2019-08-01"
+        },
+        {
+          "modelId": 42986,
+          "modelName": "V40 Cross Country (526)",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": "2015-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "V50",
+      "displayName": "V50",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5090,
+          "modelName": "V50 (545)",
+          "modelYearFrom": "2003-12-01",
+          "modelYearTo": "2012-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "V60",
+      "displayName": "V60",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9124,
+          "modelName": "V60 I (155)",
+          "modelYearFrom": "2010-07-01",
+          "modelYearTo": "2018-12-01"
+        },
+        {
+          "modelId": 38603,
+          "modelName": "V60 II (225)",
+          "modelYearFrom": "2018-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39044,
+          "modelName": "V60 I Fourgon/Break (155)",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": "2015-12-01"
+        },
+        {
+          "modelId": 43018,
+          "modelName": "V60 I Cross Country (157)",
+          "modelYearFrom": "2010-09-01",
+          "modelYearTo": "2018-12-01"
+        },
+        {
+          "modelId": 43021,
+          "modelName": "V60 II Cross Country (227)",
+          "modelYearFrom": "2018-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "V70",
+      "displayName": "V70",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1820,
+          "modelName": "V70 I (875, 876)",
+          "modelYearFrom": "1995-12-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 4600,
+          "modelName": "V70 II (285)",
+          "modelYearFrom": "1999-11-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 6390,
+          "modelName": "V70 III (135)",
+          "modelYearFrom": "2007-04-01",
+          "modelYearTo": "2016-04-01"
+        },
+        {
+          "modelId": 39037,
+          "modelName": "V70 III Fourgon/Break (135)",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": "2015-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "V90",
+      "displayName": "V90",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1822,
+          "modelName": "V90 I Break (965)",
+          "modelYearFrom": "1996-11-01",
+          "modelYearTo": "1998-12-01"
+        },
+        {
+          "modelId": 36540,
+          "modelName": "V90 II Break (235)",
+          "modelYearFrom": "2016-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43022,
+          "modelName": "V90 II Cross Country (236)",
+          "modelYearFrom": "2016-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "XC40",
+      "displayName": "XC40",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38232,
+          "modelName": "XC40 (536)",
+          "modelYearFrom": "2017-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "XC60",
+      "displayName": "XC60",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7583,
+          "modelName": "XC60 I SUV (156)",
+          "modelYearFrom": "2008-05-01",
+          "modelYearTo": "2018-07-01"
+        },
+        {
+          "modelId": 37773,
+          "modelName": "XC60 II (246)",
+          "modelYearFrom": "2017-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41675,
+          "modelName": "XC60 I VAN (156)",
+          "modelYearFrom": "2008-05-01",
+          "modelYearTo": "2017-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "XC70",
+      "displayName": "XC70",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4867,
+          "modelName": "XC70 I Cross Country (295)",
+          "modelYearFrom": "1997-10-01",
+          "modelYearTo": "2007-10-01"
+        },
+        {
+          "modelId": 6391,
+          "modelName": "XC70 II (136)",
+          "modelYearFrom": "2007-04-01",
+          "modelYearTo": "2016-12-01"
+        },
+        {
+          "modelId": 41742,
+          "modelName": "XC70 II VAN (136)",
+          "modelYearFrom": "2007-04-01",
+          "modelYearTo": "2016-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 120,
+      "manufacturerName": "VOLVO",
+      "groupKey": "XC90",
+      "displayName": "XC90",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4879,
+          "modelName": "XC90 I (275)",
+          "modelYearFrom": "2002-06-01",
+          "modelYearTo": "2015-01-01"
+        },
+        {
+          "modelId": 13084,
+          "modelName": "XC90 II (256)",
+          "modelYearFrom": "2014-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41682,
+          "modelName": "XC90 I VAN (275)",
+          "modelYearFrom": "2002-06-01",
+          "modelYearTo": "2015-01-01"
+        }
+      ]
+    }
+  ]
+}

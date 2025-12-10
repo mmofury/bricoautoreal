@@ -1,0 +1,69 @@
+{
+  "productName": "Garniture, anti-poussière - roulement de roue",
+  "searchText": "Garniture, anti-poussière - roulement de roue",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:42:41.904Z",
+  "productId": 2990,
+  "arborescence": {
+    "Suspension d'essieu/Guidage des roues/Roues": {
+      "categoryId": 100013,
+      "categoryName": "Suspension d'essieu/Guidage des roues/Roues",
+      "level": 1,
+      "children": {
+        "Moyeu de roue / fixation": {
+          "categoryId": null,
+          "categoryName": "Moyeu de roue / fixation",
+          "level": 2,
+          "children": {
+            "Garniture, anti-poussière - roulement de roue": {
+              "categoryId": 100206,
+              "categoryName": "Wheel Hub/Mounting",
+              "level": 2,
+              "children": {
+                "Roulement de roue": {
+                  "categoryId": null,
+                  "categoryName": "Roulement de roue",
+                  "level": 4,
+                  "children": {
+                    "Garniture, anti-poussière - roulement de roue": {
+                      "categoryId": 100579,
+                      "categoryName": "Wheel Bearing",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2990
+                    }
+                  }
+                }
+              },
+              "productId": 2990
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Suspension d'essieu/Guidage des roues/Roues [ID: 100013] (Niveau 1)\n    └── Moyeu de roue / fixation (Niveau 2)\n        └── Wheel Hub/Mounting [ID: 100206] (Niveau 2) → ProductId: 2990\n            └── Roulement de roue (Niveau 4)\n                └── Wheel Bearing [ID: 100579] (Niveau 3) → ProductId: 2990",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Moyeu de roue / fixation",
+        "Wheel Hub/Mounting"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        100206
+      ],
+      "finalCategoryId": 100206,
+      "productId": 2990
+    }
+  ],
+  "productIdsInArbo": [
+    2990
+  ],
+  "matchedProductIds": [
+    2990
+  ]
+}

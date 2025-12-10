@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.443Z",
+  "manufacturer": "PACKARD",
+  "countGroups": 1,
+  "groups": [
+    {
+      "manufacturerId": 2806,
+      "manufacturerName": "PACKARD",
+      "groupKey": "MODEL",
+      "displayName": "MODEL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33276,
+          "modelName": "MODEL 2301 A trois volumes",
+          "modelYearFrom": "1948-09-01",
+          "modelYearTo": "1949-12-01"
+        },
+        {
+          "modelId": 33292,
+          "modelName": "MODEL 726 A trois volumes",
+          "modelYearFrom": "1929-09-01",
+          "modelYearTo": "1930-12-01"
+        }
+      ]
+    }
+  ]
+}

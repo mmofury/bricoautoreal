@@ -1,0 +1,89 @@
+{
+  "productName": "Tête de filtre, filtre à carburant",
+  "searchText": "Tête de filtre, filtre à carburant",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:29:56.239Z",
+  "productId": 60195,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Boîtier/filtre à carburant": {
+          "categoryId": null,
+          "categoryName": "Boîtier/filtre à carburant",
+          "level": 2,
+          "children": {
+            "Tête de filtre, filtre à carburant": {
+              "categoryId": 100253,
+              "categoryName": "Fuel Filter/Housing",
+              "level": 2,
+              "children": [],
+              "productId": 60195
+            }
+          }
+        }
+      }
+    },
+    "Filtre": {
+      "categoryId": 100005,
+      "categoryName": "Filtre",
+      "level": 1,
+      "children": {
+        "Filtre à carburant": {
+          "categoryId": null,
+          "categoryName": "Filtre à carburant",
+          "level": 2,
+          "children": {
+            "Tête de filtre, filtre à carburant": {
+              "categoryId": 100261,
+              "categoryName": "Fuel Filter",
+              "level": 2,
+              "children": [],
+              "productId": 60195
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Alimentation carburant [ID: 100214] (Niveau 1)\n│   └── Boîtier/filtre à carburant (Niveau 2)\n│       └── Fuel Filter/Housing [ID: 100253] (Niveau 2) → ProductId: 60195\n\n└── Filtre [ID: 100005] (Niveau 1)\n    └── Filtre à carburant (Niveau 2)\n        └── Fuel Filter [ID: 100261] (Niveau 2) → ProductId: 60195",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Boîtier/filtre à carburant",
+        "Fuel Filter/Housing"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100253
+      ],
+      "finalCategoryId": 100253,
+      "productId": 60195
+    },
+    {
+      "path": [
+        "Filtre",
+        "Filtre à carburant",
+        "Fuel Filter"
+      ],
+      "categoryIds": [
+        100005,
+        null,
+        100261
+      ],
+      "finalCategoryId": 100261,
+      "productId": 60195
+    }
+  ],
+  "productIdsInArbo": [
+    60195
+  ],
+  "matchedProductIds": [
+    60195
+  ]
+}

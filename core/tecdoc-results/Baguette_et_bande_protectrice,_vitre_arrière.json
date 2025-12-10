@@ -1,0 +1,243 @@
+{
+  "productName": "Baguette et bande protectrice, vitre arrière",
+  "searchText": "Baguette et bande protectrice, vitre arrière",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:05:38.375Z",
+  "productId": 1250,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Arrière de la voiture": {
+          "categoryId": null,
+          "categoryName": "Arrière de la voiture",
+          "level": 2,
+          "children": {
+            "Baguette et bande protectrice, vitre arrière": {
+              "categoryId": 101705,
+              "categoryName": "Vehicle Rear",
+              "level": 2,
+              "children": {
+                "Composants/suppléments": {
+                  "categoryId": null,
+                  "categoryName": "Composants/suppléments",
+                  "level": 4,
+                  "children": {
+                    "Baguette et bande protectrice, vitre arrière": {
+                      "categoryId": 101745,
+                      "categoryName": "Parts",
+                      "level": 3,
+                      "children": {
+                        "Enjoliveur/bande protectrice": {
+                          "categoryId": null,
+                          "categoryName": "Enjoliveur/bande protectrice",
+                          "level": 6,
+                          "children": {
+                            "Baguette et bande protectrice, vitre arrière": {
+                              "categoryId": 101750,
+                              "categoryName": "Trim/Protection Strips",
+                              "level": 4,
+                              "children": [],
+                              "productId": 1250
+                            }
+                          }
+                        }
+                      },
+                      "productId": 1250
+                    }
+                  }
+                }
+              },
+              "productId": 1250
+            }
+          }
+        },
+        "Grilles décoratives, logos, anti-éclaboussures": {
+          "categoryId": null,
+          "categoryName": "Grilles décoratives, logos, anti-éclaboussures",
+          "level": 2,
+          "children": {
+            "Baguette et bande protectrice, vitre arrière": {
+              "categoryId": 100219,
+              "categoryName": "Trim/Protection/Decorative Strips/Emblems",
+              "level": 2,
+              "children": {
+                "Enjoliveur/bande protectrice": {
+                  "categoryId": null,
+                  "categoryName": "Enjoliveur/bande protectrice",
+                  "level": 4,
+                  "children": {
+                    "Baguette et bande protectrice, vitre arrière": {
+                      "categoryId": 100740,
+                      "categoryName": "Trim/Protection Strips",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1250
+                    }
+                  }
+                }
+              },
+              "productId": 1250
+            }
+          }
+        },
+        "Habitacle": {
+          "categoryId": null,
+          "categoryName": "Habitacle",
+          "level": 2,
+          "children": {
+            "Baguette et bande protectrice, vitre arrière": {
+              "categoryId": 101690,
+              "categoryName": "Passenger Cabin",
+              "level": 2,
+              "children": {
+                "Composants/suppléments": {
+                  "categoryId": null,
+                  "categoryName": "Composants/suppléments",
+                  "level": 4,
+                  "children": {
+                    "Baguette et bande protectrice, vitre arrière": {
+                      "categoryId": 101700,
+                      "categoryName": "Parts",
+                      "level": 3,
+                      "children": {
+                        "Enjoliveur/bande protectrice": {
+                          "categoryId": null,
+                          "categoryName": "Enjoliveur/bande protectrice",
+                          "level": 6,
+                          "children": {
+                            "Baguette et bande protectrice, vitre arrière": {
+                              "categoryId": 101702,
+                              "categoryName": "Trim/Protection Strips",
+                              "level": 4,
+                              "children": [],
+                              "productId": 1250
+                            }
+                          }
+                        }
+                      },
+                      "productId": 1250
+                    }
+                  }
+                }
+              },
+              "productId": 1250
+            }
+          }
+        },
+        "Vitrages/Miroirs": {
+          "categoryId": null,
+          "categoryName": "Vitrages/Miroirs",
+          "level": 2,
+          "children": {
+            "Baguette et bande protectrice, vitre arrière": {
+              "categoryId": 100744,
+              "categoryName": "Glazing/Mirrors",
+              "level": 2,
+              "children": {
+                "Vitrage": {
+                  "categoryId": null,
+                  "categoryName": "Vitrage",
+                  "level": 4,
+                  "children": {
+                    "Baguette et bande protectrice, vitre arrière": {
+                      "categoryId": 100745,
+                      "categoryName": "Glazing",
+                      "level": 3,
+                      "children": {
+                        "Pièces de montage": {
+                          "categoryId": null,
+                          "categoryName": "Pièces de montage",
+                          "level": 6,
+                          "children": {
+                            "Baguette et bande protectrice, vitre arrière": {
+                              "categoryId": 100569,
+                              "categoryName": "Assembly Parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 1250
+                            }
+                          }
+                        }
+                      },
+                      "productId": 1250
+                    }
+                  }
+                }
+              },
+              "productId": 1250
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    ├── Arrière de la voiture (Niveau 2)\n    │   └── Vehicle Rear [ID: 101705] (Niveau 2) → ProductId: 1250\n    │       └── Composants/suppléments (Niveau 4)\n    │           └── Parts [ID: 101745] (Niveau 3) → ProductId: 1250\n    │               └── Enjoliveur/bande protectrice (Niveau 6)\n    │                   └── Trim/Protection Strips [ID: 101750] (Niveau 4) → ProductId: 1250\n    ├── Grilles décoratives, logos, anti-éclaboussures (Niveau 2)\n    │   └── Trim/Protection/Decorative Strips/Emblems [ID: 100219] (Niveau 2) → ProductId: 1250\n    │       └── Enjoliveur/bande protectrice (Niveau 4)\n    │           └── Trim/Protection Strips [ID: 100740] (Niveau 3) → ProductId: 1250\n    ├── Habitacle (Niveau 2)\n    │   └── Passenger Cabin [ID: 101690] (Niveau 2) → ProductId: 1250\n    │       └── Composants/suppléments (Niveau 4)\n    │           └── Parts [ID: 101700] (Niveau 3) → ProductId: 1250\n    │               └── Enjoliveur/bande protectrice (Niveau 6)\n    │                   └── Trim/Protection Strips [ID: 101702] (Niveau 4) → ProductId: 1250\n    └── Vitrages/Miroirs (Niveau 2)\n        └── Glazing/Mirrors [ID: 100744] (Niveau 2) → ProductId: 1250\n            └── Vitrage (Niveau 4)\n                └── Glazing [ID: 100745] (Niveau 3) → ProductId: 1250\n                    └── Pièces de montage (Niveau 6)\n                        └── Assembly Parts [ID: 100569] (Niveau 4) → ProductId: 1250",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Vehicle Rear"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101705
+      ],
+      "finalCategoryId": 101705,
+      "productId": 1250
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Grilles décoratives, logos, anti-éclaboussures",
+        "Trim/Protection/Decorative Strips/Emblems"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100219
+      ],
+      "finalCategoryId": 100219,
+      "productId": 1250
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Habitacle",
+        "Passenger Cabin"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101690
+      ],
+      "finalCategoryId": 101690,
+      "productId": 1250
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Vitrages/Miroirs",
+        "Glazing/Mirrors"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100744
+      ],
+      "finalCategoryId": 100744,
+      "productId": 1250
+    }
+  ],
+  "productIdsInArbo": [
+    1250
+  ],
+  "matchedProductIds": [
+    1250
+  ]
+}

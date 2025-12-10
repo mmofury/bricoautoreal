@@ -1,0 +1,54 @@
+{
+  "productName": "Évaporateur climatisation",
+  "searchText": "Évaporateur climatisation",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:39:51.139Z",
+  "productId": 471,
+  "arborescence": {
+    "Climatisation": {
+      "categoryId": 100243,
+      "categoryName": "Climatisation",
+      "level": 1,
+      "children": {
+        "Évaporateur": {
+          "categoryId": null,
+          "categoryName": "Évaporateur",
+          "level": 2,
+          "children": {
+            "Évaporateur climatisation": {
+              "categoryId": 100356,
+              "categoryName": "Evaporator",
+              "level": 2,
+              "children": [],
+              "productId": 471
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Climatisation [ID: 100243] (Niveau 1)\n    └── Évaporateur (Niveau 2)\n        └── Evaporator [ID: 100356] (Niveau 2) → ProductId: 471",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Climatisation",
+        "Évaporateur",
+        "Evaporator"
+      ],
+      "categoryIds": [
+        100243,
+        null,
+        100356
+      ],
+      "finalCategoryId": 100356,
+      "productId": 471
+    }
+  ],
+  "productIdsInArbo": [
+    471
+  ],
+  "matchedProductIds": [
+    471
+  ]
+}

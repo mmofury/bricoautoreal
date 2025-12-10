@@ -1,0 +1,69 @@
+{
+  "productName": "Levier de commande, système de repose-pied",
+  "productId": 7851,
+  "searchText": "Levier de commande, système de repose-pied",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 3,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Moto": {
+          "categoryId": 103671,
+          "categoryName": "Moto",
+          "level": 1,
+          "children": {
+            "Système de repose-pied": {
+              "categoryId": null,
+              "categoryName": "Système de repose-pied",
+              "level": 2,
+              "children": {
+                "Levier de commande, système de repose-pied": {
+                  "categoryId": 103691,
+                  "categoryName": "Footrest System",
+                  "level": 2,
+                  "children": {
+                    "Levier de changement de vitesse": {
+                      "categoryId": null,
+                      "categoryName": "Levier de changement de vitesse",
+                      "level": 4,
+                      "children": {
+                        "Levier de commande, système de repose-pied": {
+                          "categoryId": 105943,
+                          "categoryName": "Foot Shift Lever",
+                          "level": 3,
+                          "children": [],
+                          "productId": 7851
+                        }
+                      }
+                    }
+                  },
+                  "productId": 7851
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Moto [ID: 103671] (Niveau 1)\n    └── Système de repose-pied (Niveau 2)\n        └── Footrest System [ID: 103691] (Niveau 2) → ProductId: 7851\n            └── Levier de changement de vitesse (Niveau 4)\n                └── Foot Shift Lever [ID: 105943] (Niveau 3) → ProductId: 7851",
+      "productIdsInArbo": [
+        7851
+      ],
+      "matchedProductIds": [
+        7851
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:49:34.572Z",
+  "bestMatch": {
+    "typeId": 3,
+    "found": true,
+    "hasMatch": true
+  }
+}

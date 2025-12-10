@@ -1,0 +1,186 @@
+{
+  "productName": "Poignée extérieure de porte",
+  "searchText": "Poignée extérieure de porte",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:00:22.690Z",
+  "productId": 1373,
+  "arborescence": {
+    "Verrouillage": {
+      "categoryId": 100685,
+      "categoryName": "Verrouillage",
+      "level": 1,
+      "children": {
+        "Poignées": {
+          "categoryId": null,
+          "categoryName": "Poignées",
+          "level": 2,
+          "children": {
+            "Articulation, poignée extérieure de porte": {
+              "categoryId": 100691,
+              "categoryName": "Handles",
+              "level": 2,
+              "children": [],
+              "productId": 61053
+            },
+            "Cadre, poignée extérieure de porte": {
+              "categoryId": 100691,
+              "categoryName": "Handles",
+              "level": 2,
+              "children": [],
+              "productId": 1377
+            },
+            "Capteur, poignée extérieure de porte": {
+              "categoryId": 100691,
+              "categoryName": "Handles",
+              "level": 2,
+              "children": [],
+              "productId": 60063
+            },
+            "Capuchon, poignée extérieure de porte": {
+              "categoryId": 100691,
+              "categoryName": "Handles",
+              "level": 2,
+              "children": [],
+              "productId": 3559
+            },
+            "Entraîneur (poignée extérieure de porte)": {
+              "categoryId": 100691,
+              "categoryName": "Handles",
+              "level": 2,
+              "children": [],
+              "productId": 61054
+            },
+            "Kit de réparation, poignée extérieure de porte": {
+              "categoryId": 100691,
+              "categoryName": "Handles",
+              "level": 2,
+              "children": [],
+              "productId": 61052
+            },
+            "Poignée extérieure de porte": {
+              "categoryId": 100691,
+              "categoryName": "Handles",
+              "level": 2,
+              "children": [],
+              "productId": 1373
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Verrouillage [ID: 100685] (Niveau 1)\n    └── Poignées (Niveau 2)\n        ├── Handles [ID: 100691] (Niveau 2) → ProductId: 61053\n        ├── Handles [ID: 100691] (Niveau 2) → ProductId: 1377\n        ├── Handles [ID: 100691] (Niveau 2) → ProductId: 60063\n        ├── Handles [ID: 100691] (Niveau 2) → ProductId: 3559\n        ├── Handles [ID: 100691] (Niveau 2) → ProductId: 61054\n        ├── Handles [ID: 100691] (Niveau 2) → ProductId: 61052\n        └── Handles [ID: 100691] (Niveau 2) → ProductId: 1373",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Verrouillage",
+        "Poignées",
+        "Handles"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100691
+      ],
+      "finalCategoryId": 100691,
+      "productId": 61053
+    },
+    {
+      "path": [
+        "Verrouillage",
+        "Poignées",
+        "Handles"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100691
+      ],
+      "finalCategoryId": 100691,
+      "productId": 1377
+    },
+    {
+      "path": [
+        "Verrouillage",
+        "Poignées",
+        "Handles"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100691
+      ],
+      "finalCategoryId": 100691,
+      "productId": 60063
+    },
+    {
+      "path": [
+        "Verrouillage",
+        "Poignées",
+        "Handles"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100691
+      ],
+      "finalCategoryId": 100691,
+      "productId": 3559
+    },
+    {
+      "path": [
+        "Verrouillage",
+        "Poignées",
+        "Handles"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100691
+      ],
+      "finalCategoryId": 100691,
+      "productId": 61054
+    },
+    {
+      "path": [
+        "Verrouillage",
+        "Poignées",
+        "Handles"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100691
+      ],
+      "finalCategoryId": 100691,
+      "productId": 61052
+    },
+    {
+      "path": [
+        "Verrouillage",
+        "Poignées",
+        "Handles"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100691
+      ],
+      "finalCategoryId": 100691,
+      "productId": 1373
+    }
+  ],
+  "productIdsInArbo": [
+    1373,
+    1377,
+    3559,
+    60063,
+    61052,
+    61053,
+    61054
+  ],
+  "matchedProductIds": [
+    1373
+  ]
+}

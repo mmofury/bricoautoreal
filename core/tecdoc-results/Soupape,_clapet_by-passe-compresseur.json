@@ -1,0 +1,84 @@
+{
+  "productName": "Soupape, clapet by-passe-compresseur",
+  "searchText": "Soupape, clapet by-passe-compresseur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:17:33.911Z",
+  "productId": 4218,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Alimentation en air": {
+          "categoryId": null,
+          "categoryName": "Alimentation en air",
+          "level": 2,
+          "children": {
+            "Soupape, clapet by-passe-compresseur": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Suralimentation": {
+                  "categoryId": null,
+                  "categoryName": "Suralimentation",
+                  "level": 4,
+                  "children": {
+                    "Soupape, clapet by-passe-compresseur": {
+                      "categoryId": 100390,
+                      "categoryName": "Charging (supercharged/turbocharged)",
+                      "level": 3,
+                      "children": {
+                        "Réglage d'air de suralimentation": {
+                          "categoryId": null,
+                          "categoryName": "Réglage d'air de suralimentation",
+                          "level": 6,
+                          "children": {
+                            "Soupape, clapet by-passe-compresseur": {
+                              "categoryId": 100394,
+                              "categoryName": "Charge Air Control",
+                              "level": 4,
+                              "children": [],
+                              "productId": 4218
+                            }
+                          }
+                        }
+                      },
+                      "productId": 4218
+                    }
+                  }
+                }
+              },
+              "productId": 4218
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Alimentation en air (Niveau 2)\n        └── Air Supply [ID: 100383] (Niveau 2) → ProductId: 4218\n            └── Suralimentation (Niveau 4)\n                └── Charging (supercharged/turbocharged) [ID: 100390] (Niveau 3) → ProductId: 4218\n                    └── Réglage d'air de suralimentation (Niveau 6)\n                        └── Charge Air Control [ID: 100394] (Niveau 4) → ProductId: 4218",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 4218
+    }
+  ],
+  "productIdsInArbo": [
+    4218
+  ],
+  "matchedProductIds": [
+    4218
+  ]
+}

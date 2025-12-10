@@ -1,0 +1,126 @@
+{
+  "total": 3364,
+  "processed": 1,
+  "found": 1,
+  "notFound": 0,
+  "errors": 0,
+  "products": [
+    {
+      "productName": "Accoudoir",
+      "searchText": "Accoudoir",
+      "found": true,
+      "productId": 1343,
+      "productIdsInArbo": [
+        1343,
+        61359
+      ],
+      "matchedProductIds": [
+        1343
+      ],
+      "arborescence": {
+        "Accessoires": {
+          "categoryId": 100733,
+          "categoryName": "Accessoires",
+          "level": 1,
+          "children": {
+            "Accoudoir": {
+              "categoryId": null,
+              "categoryName": "Accoudoir",
+              "level": 2,
+              "children": {
+                "Accoudoir": {
+                  "categoryId": 100860,
+                  "categoryName": "Armrest",
+                  "level": 2,
+                  "children": [],
+                  "productId": 1343
+                }
+              }
+            }
+          }
+        },
+        "Équipement intérieur": {
+          "categoryId": 100341,
+          "categoryName": "Équipement intérieur",
+          "level": 1,
+          "children": {
+            "Accessoires": {
+              "categoryId": null,
+              "categoryName": "Accessoires",
+              "level": 2,
+              "children": {
+                "Accoudoir": {
+                  "categoryId": 100730,
+                  "categoryName": "Accessories",
+                  "level": 2,
+                  "children": [],
+                  "productId": 1343
+                }
+              }
+            },
+            "Accoudoir": {
+              "categoryId": null,
+              "categoryName": "Accoudoir",
+              "level": 2,
+              "children": {
+                "Accoudoir": {
+                  "categoryId": 102689,
+                  "categoryName": "Armrest",
+                  "level": 2,
+                  "children": [],
+                  "productId": 1343
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "├── Accessoires [ID: 100733] (Niveau 1)\n│   └── Accoudoir (Niveau 2)\n│       └── Armrest [ID: 100860] (Niveau 2) → ProductId: 1343\n\n└── Équipement intérieur [ID: 100341] (Niveau 1)\n    ├── Accessoires (Niveau 2)\n    │   └── Accessories [ID: 100730] (Niveau 2) → ProductId: 1343\n    └── Accoudoir (Niveau 2)\n        └── Armrest [ID: 102689] (Niveau 2) → ProductId: 1343",
+      "arborescencePaths": [
+        {
+          "path": [
+            "Accessoires",
+            "Accoudoir",
+            "Armrest"
+          ],
+          "categoryIds": [
+            100733,
+            null,
+            100860
+          ],
+          "finalCategoryId": 100860,
+          "productId": 1343
+        },
+        {
+          "path": [
+            "Équipement intérieur",
+            "Accessoires",
+            "Accessories"
+          ],
+          "categoryIds": [
+            100341,
+            null,
+            100730
+          ],
+          "finalCategoryId": 100730,
+          "productId": 1343
+        },
+        {
+          "path": [
+            "Équipement intérieur",
+            "Accoudoir",
+            "Armrest"
+          ],
+          "categoryIds": [
+            100341,
+            null,
+            102689
+          ],
+          "finalCategoryId": 102689,
+          "productId": 1343
+        }
+      ]
+    }
+  ],
+  "timestamp": "2025-12-02T18:07:35.330Z"
+}

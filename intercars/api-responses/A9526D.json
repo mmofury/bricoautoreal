@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "A9526D",
+      "index": "99 583 00,00 93",
+      "tecDoc": "99583000093",
+      "tecDocProd": "264",
+      "articleNumber": "99583000093",
+      "brand": "BERAL",
+      "shortDescription": "Other air-operated tools",
+      "description": "BERAL basis roznitowująca 5-10mm for pneumatic rivet",
+      "customsCode": "68138100",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_60561",
+          "primary": false,
+          "name": {
+            "en": "Riveting machine"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91711",
+          "primary": true,
+          "name": {
+            "en": "Other air-operated tools"
+          }
+        }
+      ]
+    }
+  ]
+}

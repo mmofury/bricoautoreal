@@ -1,0 +1,175 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.487Z",
+  "manufacturer": "SKODA (SVW)",
+  "countGroups": 8,
+  "groups": [
+    {
+      "manufacturerId": 3530,
+      "manufacturerName": "SKODA (SVW)",
+      "groupKey": "FABIA",
+      "displayName": "FABIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8721,
+          "modelName": "FABIA (551)",
+          "modelYearFrom": "2008-12-01",
+          "modelYearTo": "2015-12-01"
+        },
+        {
+          "modelId": 14163,
+          "modelName": "FABIA (0F1)",
+          "modelYearFrom": "2015-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3530,
+      "manufacturerName": "SKODA (SVW)",
+      "groupKey": "KAMIQ",
+      "displayName": "KAMIQ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38806,
+          "modelName": "KAMIQ (0N7)",
+          "modelYearFrom": "2018-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40175,
+          "modelName": "KAMIQ GT (0N8)",
+          "modelYearFrom": "2019-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3530,
+      "manufacturerName": "SKODA (SVW)",
+      "groupKey": "KAROQ",
+      "displayName": "KAROQ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38574,
+          "modelName": "KAROQ (0X7)",
+          "modelYearFrom": "2018-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3530,
+      "manufacturerName": "SKODA (SVW)",
+      "groupKey": "KODIAQ",
+      "displayName": "KODIAQ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38164,
+          "modelName": "KODIAQ (0Z7)",
+          "modelYearFrom": "2017-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39197,
+          "modelName": "KODIAQ GT (0Z8)",
+          "modelYearFrom": "2017-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3530,
+      "manufacturerName": "SKODA (SVW)",
+      "groupKey": "OCTAVIA",
+      "displayName": "OCTAVIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8722,
+          "modelName": "OCTAVIA Berline bicorps trois ou cinq portes (913)",
+          "modelYearFrom": "2007-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 12835,
+          "modelName": "OCTAVIA Berline bicorps trois ou cinq portes (NM2, NM3, NM4)",
+          "modelYearFrom": "2014-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38172,
+          "modelName": "OCTAVIA Break (NM5)",
+          "modelYearFrom": "2017-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41929,
+          "modelName": "OCTAVIA PRO (0Q3)",
+          "modelYearFrom": "2021-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3530,
+      "manufacturerName": "SKODA (SVW)",
+      "groupKey": "RAPID",
+      "displayName": "RAPID",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11626,
+          "modelName": "RAPID A trois volumes (NG2, NG4, NG5)",
+          "modelYearFrom": "2013-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 12759,
+          "modelName": "RAPID Spaceback (0G3, 0G4, 0G5)",
+          "modelYearFrom": "2014-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3530,
+      "manufacturerName": "SKODA (SVW)",
+      "groupKey": "SUPERB",
+      "displayName": "SUPERB",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8723,
+          "modelName": "SUPERB (374)",
+          "modelYearFrom": "2009-08-01",
+          "modelYearTo": "2015-12-01"
+        },
+        {
+          "modelId": 14813,
+          "modelName": "SUPERB III (NT3)",
+          "modelYearFrom": "2015-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3530,
+      "manufacturerName": "SKODA (SVW)",
+      "groupKey": "YETI",
+      "displayName": "YETI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11756,
+          "modelName": "YETI (0Y6, 0Y7)",
+          "modelYearFrom": "2013-11-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

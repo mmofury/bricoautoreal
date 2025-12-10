@@ -1,0 +1,49 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "296824",
+      "index": "FE03604",
+      "tecDoc": "03604",
+      "tecDocProd": "101",
+      "articleNumber": "03604",
+      "brand": "FEBI",
+      "shortDescription": "Flange, central injection",
+      "description": "Rubber carburettor stand fits: AUDI 100 C3, 80 B3, 80 B4, SEAT CORDOBA, CORDOBA VARIO, IBIZA II, INCA, TOLEDO I, VW CADDY II/MINIVAN, GOLF II, GOLF III, GOLF IV, JETTA II 1.4-2.0 03.85-09.02",
+      "eans": [
+        "4027816036043"
+      ],
+      "packageWeight": "0,350",
+      "packageWidth": "12,000",
+      "packageDepth": "12,500",
+      "packageHeight": "2,500",
+      "customsCode": "40169952",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3910",
+          "primary": true,
+          "name": {
+            "en": "Flange, central injection"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1081",
+          "primary": false,
+          "name": {
+            "en": "Flange, carburettor"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1992",
+          "primary": false,
+          "name": {
+            "en": "Intermediate Flange, carburettor"
+          }
+        }
+      ]
+    }
+  ]
+}

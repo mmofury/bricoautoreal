@@ -1,0 +1,76 @@
+{
+  "productName": "Vis de purge de carburant",
+  "searchText": "Vis de purge de carburant",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:33:52.272Z",
+  "productId": 603,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Réservoir de carburant / accessoires": {
+          "categoryId": null,
+          "categoryName": "Réservoir de carburant / accessoires",
+          "level": 2,
+          "children": {
+            "Bague d'étanchéité, vis de purge de carburant": {
+              "categoryId": 100250,
+              "categoryName": "Fuel Tank/Accessories",
+              "level": 2,
+              "children": [],
+              "productId": 604
+            },
+            "Vis de purge de carburant": {
+              "categoryId": 100250,
+              "categoryName": "Fuel Tank/Accessories",
+              "level": 2,
+              "children": [],
+              "productId": 603
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Alimentation carburant [ID: 100214] (Niveau 1)\n    └── Réservoir de carburant / accessoires (Niveau 2)\n        ├── Fuel Tank/Accessories [ID: 100250] (Niveau 2) → ProductId: 604\n        └── Fuel Tank/Accessories [ID: 100250] (Niveau 2) → ProductId: 603",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Réservoir de carburant / accessoires",
+        "Fuel Tank/Accessories"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100250
+      ],
+      "finalCategoryId": 100250,
+      "productId": 604
+    },
+    {
+      "path": [
+        "Alimentation carburant",
+        "Réservoir de carburant / accessoires",
+        "Fuel Tank/Accessories"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100250
+      ],
+      "finalCategoryId": 100250,
+      "productId": 603
+    }
+  ],
+  "productIdsInArbo": [
+    603,
+    604
+  ],
+  "matchedProductIds": [
+    603
+  ]
+}

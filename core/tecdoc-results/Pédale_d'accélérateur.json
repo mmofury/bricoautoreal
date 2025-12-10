@@ -1,0 +1,342 @@
+{
+  "productName": "Pédale d'accélérateur",
+  "searchText": "Pédale d'accélérateur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:05:27.264Z",
+  "productId": 1526,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Capteur, position d'accelerateur": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Capteur/sonde lambda": {
+                  "categoryId": null,
+                  "categoryName": "Capteur/sonde lambda",
+                  "level": 4,
+                  "children": {
+                    "Capteur, position d'accelerateur": {
+                      "categoryId": 102809,
+                      "categoryName": "Sensor/Probe",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3941
+                    }
+                  }
+                },
+                "Pédale d'accélérateur/potenciomètre": {
+                  "categoryId": null,
+                  "categoryName": "Pédale d'accélérateur/potenciomètre",
+                  "level": 4,
+                  "children": {
+                    "Capteur, position d'accelerateur": {
+                      "categoryId": 102801,
+                      "categoryName": "Accelerator Pedal",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3941
+                    }
+                  }
+                }
+              },
+              "productId": 3941
+            },
+            "Jeu de pédales d'accélérateur": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Capteur/sonde lambda": {
+                  "categoryId": null,
+                  "categoryName": "Capteur/sonde lambda",
+                  "level": 4,
+                  "children": {
+                    "Jeu de pédales d'accélérateur": {
+                      "categoryId": 102809,
+                      "categoryName": "Sensor/Probe",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3908
+                    }
+                  }
+                },
+                "Pédale d'accélérateur/potenciomètre": {
+                  "categoryId": null,
+                  "categoryName": "Pédale d'accélérateur/potenciomètre",
+                  "level": 4,
+                  "children": {
+                    "Jeu de pédales d'accélérateur": {
+                      "categoryId": 102801,
+                      "categoryName": "Accelerator Pedal",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3908
+                    }
+                  }
+                }
+              },
+              "productId": 3908
+            },
+            "Kit rép. de câble, capteur position pédale d'accélérateur": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Pédale d'accélérateur/potenciomètre": {
+                  "categoryId": null,
+                  "categoryName": "Pédale d'accélérateur/potenciomètre",
+                  "level": 4,
+                  "children": {
+                    "Kit rép. de câble, capteur position pédale d'accélérateur": {
+                      "categoryId": 102801,
+                      "categoryName": "Accelerator Pedal",
+                      "level": 3,
+                      "children": [],
+                      "productId": 9193
+                    }
+                  }
+                }
+              },
+              "productId": 9193
+            }
+          }
+        }
+      }
+    },
+    "Équipement intérieur": {
+      "categoryId": 100341,
+      "categoryName": "Équipement intérieur",
+      "level": 1,
+      "children": {
+        "Leviers manuels / Leviers de pédale": {
+          "categoryId": null,
+          "categoryName": "Leviers manuels / Leviers de pédale",
+          "level": 2,
+          "children": {
+            "Fixation, pédale d'accélérateur": {
+              "categoryId": 102695,
+              "categoryName": "Hand/Foot Lever System",
+              "level": 2,
+              "children": [],
+              "productId": 4243
+            },
+            "Kit de réparation, pédale d'accélérateur": {
+              "categoryId": 102695,
+              "categoryName": "Hand/Foot Lever System",
+              "level": 2,
+              "children": [],
+              "productId": 5995
+            },
+            "Pédale d'accélérateur": {
+              "categoryId": 102695,
+              "categoryName": "Hand/Foot Lever System",
+              "level": 2,
+              "children": [],
+              "productId": 1526
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Circuit électrique du moteur": {
+          "categoryId": null,
+          "categoryName": "Circuit électrique du moteur",
+          "level": 2,
+          "children": {
+            "Capteur, position d'accelerateur": {
+              "categoryId": 100754,
+              "categoryName": "Engine Electrics",
+              "level": 2,
+              "children": [],
+              "productId": 3941
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Capteurs": {
+          "categoryId": null,
+          "categoryName": "Capteurs",
+          "level": 2,
+          "children": {
+            "Capteur, position d'accelerateur": {
+              "categoryId": 102747,
+              "categoryName": "Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 3941
+            },
+            "Kit rép. de câble, capteur position pédale d'accélérateur": {
+              "categoryId": 102747,
+              "categoryName": "Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 9193
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carburation [ID: 100254] (Niveau 1)\n│   └── Mélange air-carburant (Niveau 2)\n│       ├── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 3941\n│       │   ├── Capteur/sonde lambda (Niveau 4)\n│       │   │   └── Sensor/Probe [ID: 102809] (Niveau 3) → ProductId: 3941\n│       │   └── Pédale d'accélérateur/potenciomètre (Niveau 4)\n│       │       └── Accelerator Pedal [ID: 102801] (Niveau 3) → ProductId: 3941\n│       ├── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 3908\n│       │   ├── Capteur/sonde lambda (Niveau 4)\n│       │   │   └── Sensor/Probe [ID: 102809] (Niveau 3) → ProductId: 3908\n│       │   └── Pédale d'accélérateur/potenciomètre (Niveau 4)\n│       │       └── Accelerator Pedal [ID: 102801] (Niveau 3) → ProductId: 3908\n│       └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 9193\n│           └── Pédale d'accélérateur/potenciomètre (Niveau 4)\n│               └── Accelerator Pedal [ID: 102801] (Niveau 3) → ProductId: 9193\n\n├── Équipement intérieur [ID: 100341] (Niveau 1)\n│   └── Leviers manuels / Leviers de pédale (Niveau 2)\n│       ├── Hand/Foot Lever System [ID: 102695] (Niveau 2) → ProductId: 4243\n│       ├── Hand/Foot Lever System [ID: 102695] (Niveau 2) → ProductId: 5995\n│       └── Hand/Foot Lever System [ID: 102695] (Niveau 2) → ProductId: 1526\n\n├── Moteur [ID: 100002] (Niveau 1)\n│   └── Circuit électrique du moteur (Niveau 2)\n│       └── Engine Electrics [ID: 100754] (Niveau 2) → ProductId: 3941\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Capteurs (Niveau 2)\n        ├── Sensors [ID: 102747] (Niveau 2) → ProductId: 3941\n        └── Sensors [ID: 102747] (Niveau 2) → ProductId: 9193",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 3941
+    },
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 3908
+    },
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 9193
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Leviers manuels / Leviers de pédale",
+        "Hand/Foot Lever System"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102695
+      ],
+      "finalCategoryId": 102695,
+      "productId": 4243
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Leviers manuels / Leviers de pédale",
+        "Hand/Foot Lever System"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102695
+      ],
+      "finalCategoryId": 102695,
+      "productId": 5995
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Leviers manuels / Leviers de pédale",
+        "Hand/Foot Lever System"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102695
+      ],
+      "finalCategoryId": 102695,
+      "productId": 1526
+    },
+    {
+      "path": [
+        "Moteur",
+        "Circuit électrique du moteur",
+        "Engine Electrics"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100754
+      ],
+      "finalCategoryId": 100754,
+      "productId": 3941
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Capteurs",
+        "Sensors"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        102747
+      ],
+      "finalCategoryId": 102747,
+      "productId": 3941
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Capteurs",
+        "Sensors"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        102747
+      ],
+      "finalCategoryId": 102747,
+      "productId": 9193
+    }
+  ],
+  "productIdsInArbo": [
+    1526,
+    3908,
+    3941,
+    4243,
+    5995,
+    9193
+  ],
+  "matchedProductIds": [
+    1526
+  ]
+}

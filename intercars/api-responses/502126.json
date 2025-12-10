@@ -1,0 +1,43 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "502126",
+      "index": "433 543 516 0",
+      "tecDoc": "4335435160",
+      "tecDocProd": "22",
+      "articleNumber": "4335435160",
+      "brand": "WABCO",
+      "shortDescription": "Adjuster, drum brake",
+      "description": "Brake slack adjuster R fits: SETRA",
+      "gtuCode": "GTU_07",
+      "eans": [
+        "4057875175292"
+      ],
+      "packageWeight": "3,200",
+      "packageWidth": "18,500",
+      "packageDepth": "23,500",
+      "packageHeight": "12,500",
+      "customsCode": "87083099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_743",
+          "primary": true,
+          "name": {
+            "en": "Adjuster, drum brake"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3540",
+          "primary": false,
+          "name": {
+            "en": "Slack Adjuster"
+          }
+        }
+      ]
+    }
+  ]
+}

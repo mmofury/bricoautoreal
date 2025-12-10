@@ -1,0 +1,178 @@
+{
+  "productName": "Appareil de commande, système d'antipatinage des roues",
+  "searchText": "Appareil de commande, système d'antipatinage des roues",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": false,
+      "arborescence": {
+        "Dispositif de freinage": {
+          "categoryId": 200058,
+          "categoryName": "Dispositif de freinage",
+          "level": 1,
+          "children": {
+            "Réglage du comportement": {
+              "categoryId": null,
+              "categoryName": "Réglage du comportement",
+              "level": 2,
+              "children": {
+                "Appareil de commande, système d'antipatinage des roues": {
+                  "categoryId": 200109,
+                  "categoryName": "Drive Dynamics Control",
+                  "level": 2,
+                  "children": [],
+                  "productId": 287
+                }
+              }
+            }
+          }
+        },
+        "Système électrique": {
+          "categoryId": 200064,
+          "categoryName": "Système électrique",
+          "level": 1,
+          "children": {
+            "Appareils de commande": {
+              "categoryId": null,
+              "categoryName": "Appareils de commande",
+              "level": 2,
+              "children": {
+                "Appareil de commande, système d'antipatinage des roues": {
+                  "categoryId": 202876,
+                  "categoryName": "Controls",
+                  "level": 2,
+                  "children": [],
+                  "productId": 287
+                }
+              }
+            },
+            "Réglage de la dynamique de conduite": {
+              "categoryId": null,
+              "categoryName": "Réglage de la dynamique de conduite",
+              "level": 2,
+              "children": {
+                "Appareil de commande, système d'antipatinage des roues": {
+                  "categoryId": 200601,
+                  "categoryName": "Drive Dynamics Control",
+                  "level": 2,
+                  "children": [],
+                  "productId": 287
+                }
+              }
+            }
+          }
+        },
+        "Système pneumatique": {
+          "categoryId": 200059,
+          "categoryName": "Système pneumatique",
+          "level": 1,
+          "children": {
+            "ABS/ASR/EBS": {
+              "categoryId": null,
+              "categoryName": "ABS/ASR/EBS",
+              "level": 2,
+              "children": {
+                "Appareil de commande, système d'antipatinage des roues": {
+                  "categoryId": 200918,
+                  "categoryName": "ABS/ASR/EBS",
+                  "level": 2,
+                  "children": [],
+                  "productId": 287
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "├── Dispositif de freinage [ID: 200058] (Niveau 1)\n│   └── Réglage du comportement (Niveau 2)\n│       └── Drive Dynamics Control [ID: 200109] (Niveau 2) → ProductId: 287\n\n├── Système électrique [ID: 200064] (Niveau 1)\n│   ├── Appareils de commande (Niveau 2)\n│   │   └── Controls [ID: 202876] (Niveau 2) → ProductId: 287\n│   └── Réglage de la dynamique de conduite (Niveau 2)\n│       └── Drive Dynamics Control [ID: 200601] (Niveau 2) → ProductId: 287\n\n└── Système pneumatique [ID: 200059] (Niveau 1)\n    └── ABS/ASR/EBS (Niveau 2)\n        └── ABS/ASR/EBS [ID: 200918] (Niveau 2) → ProductId: 287",
+      "productIdsInArbo": [
+        287
+      ]
+    },
+    {
+      "typeId": 3,
+      "found": true,
+      "hasMatch": false,
+      "arborescence": {
+        "Système électrique": {
+          "categoryId": 100010,
+          "categoryName": "Système électrique",
+          "level": 1,
+          "children": {
+            "Appareils de commande": {
+              "categoryId": null,
+              "categoryName": "Appareils de commande",
+              "level": 2,
+              "children": {
+                "Appareil de commande, système d'antipatinage des roues": {
+                  "categoryId": 100727,
+                  "categoryName": "Control Units",
+                  "level": 2,
+                  "children": [],
+                  "productId": 287
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Appareils de commande (Niveau 2)\n        └── Control Units [ID: 100727] (Niveau 2) → ProductId: 287",
+      "productIdsInArbo": [
+        287
+      ]
+    },
+    {
+      "typeId": 4,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 5,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 6,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 7,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 8,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 9,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 10,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 11,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 12,
+      "found": false,
+      "hasMatch": false
+    }
+  ],
+  "timestamp": "2025-12-03T09:43:11.377Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": false
+  }
+}

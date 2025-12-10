@@ -1,0 +1,49 @@
+{
+  "productName": "Fourche de la barre d'attelage, valve égalisatrice",
+  "productId": 4047,
+  "searchText": "Fourche de la barre d'attelage, valve égalisatrice",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Cabine du conducteur/carrosserie": {
+          "categoryId": 200022,
+          "categoryName": "Cabine du conducteur/carrosserie",
+          "level": 1,
+          "children": {
+            "Suspension / Amortissement de la cabine": {
+              "categoryId": null,
+              "categoryName": "Suspension / Amortissement de la cabine",
+              "level": 2,
+              "children": {
+                "Fourche de la barre d'attelage, valve égalisatrice": {
+                  "categoryId": 200826,
+                  "categoryName": "Driver Cab Suspension",
+                  "level": 2,
+                  "children": [],
+                  "productId": 4047
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Cabine du conducteur/carrosserie [ID: 200022] (Niveau 1)\n    └── Suspension / Amortissement de la cabine (Niveau 2)\n        └── Driver Cab Suspension [ID: 200826] (Niveau 2) → ProductId: 4047",
+      "productIdsInArbo": [
+        4047
+      ],
+      "matchedProductIds": [
+        4047
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:30:45.671Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

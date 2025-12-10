@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "E599E5",
+      "index": "2.10234",
+      "tecDoc": "2.10234",
+      "tecDocProd": "355",
+      "articleNumber": "2.10234",
+      "brand": "DT SPARE PARTS",
+      "shortDescription": "Repair Kit, water pump",
+      "description": "Power steering pump repair kit (gearwheel) fits: VOLVO",
+      "eans": [
+        "4057795525757"
+      ],
+      "packageWeight": "0,876",
+      "packageWidth": "14,000",
+      "packageDepth": "14,000",
+      "packageHeight": "2,000",
+      "customsCode": "73269098",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3481",
+          "primary": true,
+          "name": {
+            "en": "Repair Kit, water pump"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_8759",
+          "primary": false,
+          "name": {
+            "en": "Gear, servo pump"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "productName": "Dispositif d'assistance de frein",
+  "searchText": "Dispositif d'assistance de frein",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:31:36.356Z",
+  "productId": 74,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Servofrein": {
+          "categoryId": null,
+          "categoryName": "Servofrein",
+          "level": 2,
+          "children": {
+            "Capteur de pression, servofrein": {
+              "categoryId": 100025,
+              "categoryName": "Brake Booster",
+              "level": 2,
+              "children": [],
+              "productId": 4144
+            },
+            "Dispositif d'assistance de frein": {
+              "categoryId": 100025,
+              "categoryName": "Brake Booster",
+              "level": 2,
+              "children": [],
+              "productId": 74
+            },
+            "Joint, servofrein": {
+              "categoryId": 100025,
+              "categoryName": "Brake Booster",
+              "level": 2,
+              "children": [],
+              "productId": 60941
+            },
+            "Kit d'assemblage, dispositif d'assistance de frein": {
+              "categoryId": 100025,
+              "categoryName": "Brake Booster",
+              "level": 2,
+              "children": [],
+              "productId": 662
+            },
+            "Piston de vanne, servofein": {
+              "categoryId": 100025,
+              "categoryName": "Brake Booster",
+              "level": 2,
+              "children": [],
+              "productId": 2298
+            },
+            "Raccord, tuyau de dépression": {
+              "categoryId": 100025,
+              "categoryName": "Brake Booster",
+              "level": 2,
+              "children": [],
+              "productId": 2306
+            },
+            "Soupape, dispositif d'assistance de frein": {
+              "categoryId": 100025,
+              "categoryName": "Brake Booster",
+              "level": 2,
+              "children": [],
+              "productId": 663
+            },
+            "Tuyau de dépression, servofrein": {
+              "categoryId": 100025,
+              "categoryName": "Brake Booster",
+              "level": 2,
+              "children": [],
+              "productId": 2303
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif de freinage [ID: 100006] (Niveau 1)\n    └── Servofrein (Niveau 2)\n        ├── Brake Booster [ID: 100025] (Niveau 2) → ProductId: 4144\n        ├── Brake Booster [ID: 100025] (Niveau 2) → ProductId: 74\n        ├── Brake Booster [ID: 100025] (Niveau 2) → ProductId: 60941\n        ├── Brake Booster [ID: 100025] (Niveau 2) → ProductId: 662\n        ├── Brake Booster [ID: 100025] (Niveau 2) → ProductId: 2298\n        ├── Brake Booster [ID: 100025] (Niveau 2) → ProductId: 2306\n        ├── Brake Booster [ID: 100025] (Niveau 2) → ProductId: 663\n        └── Brake Booster [ID: 100025] (Niveau 2) → ProductId: 2303",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Servofrein",
+        "Brake Booster"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100025
+      ],
+      "finalCategoryId": 100025,
+      "productId": 4144
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Servofrein",
+        "Brake Booster"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100025
+      ],
+      "finalCategoryId": 100025,
+      "productId": 74
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Servofrein",
+        "Brake Booster"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100025
+      ],
+      "finalCategoryId": 100025,
+      "productId": 60941
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Servofrein",
+        "Brake Booster"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100025
+      ],
+      "finalCategoryId": 100025,
+      "productId": 662
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Servofrein",
+        "Brake Booster"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100025
+      ],
+      "finalCategoryId": 100025,
+      "productId": 2298
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Servofrein",
+        "Brake Booster"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100025
+      ],
+      "finalCategoryId": 100025,
+      "productId": 2306
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Servofrein",
+        "Brake Booster"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100025
+      ],
+      "finalCategoryId": 100025,
+      "productId": 663
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Servofrein",
+        "Brake Booster"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100025
+      ],
+      "finalCategoryId": 100025,
+      "productId": 2303
+    }
+  ],
+  "productIdsInArbo": [
+    74,
+    662,
+    663,
+    2298,
+    2303,
+    2306,
+    4144,
+    60941
+  ],
+  "matchedProductIds": [
+    74
+  ]
+}

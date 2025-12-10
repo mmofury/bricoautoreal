@@ -1,0 +1,69 @@
+{
+  "productName": "Jeu de cylindres émetteurs et récepteurs, embrayage",
+  "searchText": "Jeu de cylindres émetteurs et récepteurs, embrayage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:49:17.366Z",
+  "productId": 2152,
+  "arborescence": {
+    "Embrayage / composants": {
+      "categoryId": 100050,
+      "categoryName": "Embrayage / composants",
+      "level": 1,
+      "children": {
+        "Commande d'embrayage": {
+          "categoryId": null,
+          "categoryName": "Commande d'embrayage",
+          "level": 2,
+          "children": {
+            "Jeu de cylindres émetteurs et récepteurs, embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Jeu de cylindres émetteurs/récepteurs": {
+                  "categoryId": null,
+                  "categoryName": "Jeu de cylindres émetteurs/récepteurs",
+                  "level": 4,
+                  "children": {
+                    "Jeu de cylindres émetteurs et récepteurs, embrayage": {
+                      "categoryId": 100831,
+                      "categoryName": "Master/Slave Cylinder Set",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2152
+                    }
+                  }
+                }
+              },
+              "productId": 2152
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Embrayage / composants [ID: 100050] (Niveau 1)\n    └── Commande d'embrayage (Niveau 2)\n        └── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 2152\n            └── Jeu de cylindres émetteurs/récepteurs (Niveau 4)\n                └── Master/Slave Cylinder Set [ID: 100831] (Niveau 3) → ProductId: 2152",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 2152
+    }
+  ],
+  "productIdsInArbo": [
+    2152
+  ],
+  "matchedProductIds": [
+    2152
+  ]
+}

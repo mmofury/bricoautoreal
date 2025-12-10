@@ -1,0 +1,37 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G0LNBF",
+      "index": "008.375-80",
+      "tecDoc": "008.375-80A",
+      "tecDocProd": "63",
+      "articleNumber": "008.375-80A",
+      "brand": "PETERS",
+      "shortDescription": "Cover, wide angle mirror",
+      "description": "Housing/cover of side mirror L/R fits: MAN E2000, F2000, F90, M 2000 M 01.86-",
+      "gtuCode": "GTU_07",
+      "packageWeight": "0,165",
+      "customsCode": "87082990",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3256",
+          "primary": true,
+          "name": {
+            "en": "Cover, wide angle mirror"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_23",
+          "primary": false,
+          "name": {
+            "en": "Side mirror cover"
+          }
+        }
+      ]
+    }
+  ]
+}

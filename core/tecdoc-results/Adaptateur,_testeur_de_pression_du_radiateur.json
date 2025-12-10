@@ -1,0 +1,57 @@
+{
+  "productName": "Adaptateur, testeur de pression du radiateur",
+  "searchText": "Adaptateur, testeur de pression du radiateur",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T18:48:43.340Z",
+  "productId": 5871,
+  "arborescence": {
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Adaptateur, testeur de pression du radiateur": {
+              "categoryId": 103131,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 7251
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Refroidissement [ID: 100007] (Niveau 1)\n    └── Outils (Niveau 2)\n        └── Tools [ID: 103131] (Niveau 2) → ProductId: 7251",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Refroidissement",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        103131
+      ],
+      "finalCategoryId": 103131,
+      "productId": 7251
+    }
+  ],
+  "productIdsInArbo": [
+    7251
+  ],
+  "closestProductIds": [
+    {
+      "productId": 7251,
+      "productName": "Adaptateur, testeur de pression du radiateur"
+    }
+  ]
+}

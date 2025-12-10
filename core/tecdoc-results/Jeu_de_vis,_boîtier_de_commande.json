@@ -1,0 +1,69 @@
+{
+  "productName": "Jeu de vis, boîtier de commande",
+  "searchText": "Jeu de vis, boîtier de commande",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:51:36.269Z",
+  "productId": 60168,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Distribution moteur": {
+          "categoryId": null,
+          "categoryName": "Distribution moteur",
+          "level": 2,
+          "children": {
+            "Jeu de vis, boîtier de commande": {
+              "categoryId": 100003,
+              "categoryName": "Engine Timing",
+              "level": 2,
+              "children": {
+                "Carter de distribution / joint": {
+                  "categoryId": null,
+                  "categoryName": "Carter de distribution / joint",
+                  "level": 4,
+                  "children": {
+                    "Jeu de vis, boîtier de commande": {
+                      "categoryId": 100401,
+                      "categoryName": "Timing Case/Gasket",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60168
+                    }
+                  }
+                }
+              },
+              "productId": 60168
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Distribution moteur (Niveau 2)\n        └── Engine Timing [ID: 100003] (Niveau 2) → ProductId: 60168\n            └── Carter de distribution / joint (Niveau 4)\n                └── Timing Case/Gasket [ID: 100401] (Niveau 3) → ProductId: 60168",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Engine Timing"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100003
+      ],
+      "finalCategoryId": 100003,
+      "productId": 60168
+    }
+  ],
+  "productIdsInArbo": [
+    60168
+  ],
+  "matchedProductIds": [
+    60168
+  ]
+}

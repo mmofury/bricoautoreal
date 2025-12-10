@@ -1,0 +1,143 @@
+{
+  "productName": "Radiateur, refroidissement du moteur",
+  "searchText": "Radiateur, refroidissement du moteur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:06:46.988Z",
+  "productId": 470,
+  "arborescence": {
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Radiateur d'eau/d'huile": {
+          "categoryId": null,
+          "categoryName": "Radiateur d'eau/d'huile",
+          "level": 2,
+          "children": {
+            "Faisceau de radiateur, refroidissement du moteur": {
+              "categoryId": 100102,
+              "categoryName": "Radiator/Oil Cooler",
+              "level": 2,
+              "children": {
+                "Radiateur d'eau/composants": {
+                  "categoryId": null,
+                  "categoryName": "Radiateur d'eau/composants",
+                  "level": 4,
+                  "children": {
+                    "Faisceau de radiateur, refroidissement du moteur": {
+                      "categoryId": 100103,
+                      "categoryName": "Radiator/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2692
+                    }
+                  }
+                }
+              },
+              "productId": 2692
+            },
+            "Kit de radiateur, refroidissement du moteur": {
+              "categoryId": 100102,
+              "categoryName": "Radiator/Oil Cooler",
+              "level": 2,
+              "children": {
+                "Radiateur d'eau/composants": {
+                  "categoryId": null,
+                  "categoryName": "Radiateur d'eau/composants",
+                  "level": 4,
+                  "children": {
+                    "Kit de radiateur, refroidissement du moteur": {
+                      "categoryId": 100103,
+                      "categoryName": "Radiator/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8238
+                    }
+                  }
+                }
+              },
+              "productId": 8238
+            },
+            "Radiateur, refroidissement du moteur": {
+              "categoryId": 100102,
+              "categoryName": "Radiator/Oil Cooler",
+              "level": 2,
+              "children": {
+                "Radiateur d'eau/composants": {
+                  "categoryId": null,
+                  "categoryName": "Radiateur d'eau/composants",
+                  "level": 4,
+                  "children": {
+                    "Radiateur, refroidissement du moteur": {
+                      "categoryId": 100103,
+                      "categoryName": "Radiator/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 470
+                    }
+                  }
+                }
+              },
+              "productId": 470
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Refroidissement [ID: 100007] (Niveau 1)\n    └── Radiateur d'eau/d'huile (Niveau 2)\n        ├── Radiator/Oil Cooler [ID: 100102] (Niveau 2) → ProductId: 2692\n        │   └── Radiateur d'eau/composants (Niveau 4)\n        │       └── Radiator/Parts [ID: 100103] (Niveau 3) → ProductId: 2692\n        ├── Radiator/Oil Cooler [ID: 100102] (Niveau 2) → ProductId: 8238\n        │   └── Radiateur d'eau/composants (Niveau 4)\n        │       └── Radiator/Parts [ID: 100103] (Niveau 3) → ProductId: 8238\n        └── Radiator/Oil Cooler [ID: 100102] (Niveau 2) → ProductId: 470\n            └── Radiateur d'eau/composants (Niveau 4)\n                └── Radiator/Parts [ID: 100103] (Niveau 3) → ProductId: 470",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Refroidissement",
+        "Radiateur d'eau/d'huile",
+        "Radiator/Oil Cooler"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100102
+      ],
+      "finalCategoryId": 100102,
+      "productId": 2692
+    },
+    {
+      "path": [
+        "Refroidissement",
+        "Radiateur d'eau/d'huile",
+        "Radiator/Oil Cooler"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100102
+      ],
+      "finalCategoryId": 100102,
+      "productId": 8238
+    },
+    {
+      "path": [
+        "Refroidissement",
+        "Radiateur d'eau/d'huile",
+        "Radiator/Oil Cooler"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100102
+      ],
+      "finalCategoryId": 100102,
+      "productId": 470
+    }
+  ],
+  "productIdsInArbo": [
+    470,
+    2692,
+    8238
+  ],
+  "matchedProductIds": [
+    470
+  ]
+}

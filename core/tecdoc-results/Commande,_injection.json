@@ -1,0 +1,233 @@
+{
+  "productName": "Commande, injection",
+  "searchText": "Commande, injection",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:22:54.640Z",
+  "productId": 3952,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Commande, injection": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Contrôle": {
+                  "categoryId": null,
+                  "categoryName": "Contrôle",
+                  "level": 4,
+                  "children": {
+                    "Commande, injection": {
+                      "categoryId": 102810,
+                      "categoryName": "Control Unit",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3952
+                    }
+                  }
+                }
+              },
+              "productId": 3952
+            }
+          }
+        }
+      }
+    },
+    "Échappement": {
+      "categoryId": 100004,
+      "categoryName": "Échappement",
+      "level": 1,
+      "children": {
+        "Injection d'urée": {
+          "categoryId": null,
+          "categoryName": "Injection d'urée",
+          "level": 2,
+          "children": {
+            "Appareil de commande, Injection d'urée": {
+              "categoryId": 103019,
+              "categoryName": "Urea Injection",
+              "level": 2,
+              "children": {
+                "Contrôle": {
+                  "categoryId": null,
+                  "categoryName": "Contrôle",
+                  "level": 4,
+                  "children": {
+                    "Appareil de commande, Injection d'urée": {
+                      "categoryId": 103091,
+                      "categoryName": "Control Unit",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4382
+                    }
+                  }
+                }
+              },
+              "productId": 4382
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Circuit électrique du moteur": {
+          "categoryId": null,
+          "categoryName": "Circuit électrique du moteur",
+          "level": 2,
+          "children": {
+            "Appareil de commande, injection de carburant": {
+              "categoryId": 100754,
+              "categoryName": "Engine Electrics",
+              "level": 2,
+              "children": [],
+              "productId": 3954
+            },
+            "Commande, injection": {
+              "categoryId": 100754,
+              "categoryName": "Engine Electrics",
+              "level": 2,
+              "children": [],
+              "productId": 3952
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Appareils de commande": {
+          "categoryId": null,
+          "categoryName": "Appareils de commande",
+          "level": 2,
+          "children": {
+            "Appareil de commande, injection de carburant": {
+              "categoryId": 100727,
+              "categoryName": "Control Units",
+              "level": 2,
+              "children": [],
+              "productId": 3954
+            },
+            "Commande, injection": {
+              "categoryId": 100727,
+              "categoryName": "Control Units",
+              "level": 2,
+              "children": [],
+              "productId": 3952
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carburation [ID: 100254] (Niveau 1)\n│   └── Mélange air-carburant (Niveau 2)\n│       └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 3952\n│           └── Contrôle (Niveau 4)\n│               └── Control Unit [ID: 102810] (Niveau 3) → ProductId: 3952\n\n├── Échappement [ID: 100004] (Niveau 1)\n│   └── Injection d'urée (Niveau 2)\n│       └── Urea Injection [ID: 103019] (Niveau 2) → ProductId: 4382\n│           └── Contrôle (Niveau 4)\n│               └── Control Unit [ID: 103091] (Niveau 3) → ProductId: 4382\n\n├── Moteur [ID: 100002] (Niveau 1)\n│   └── Circuit électrique du moteur (Niveau 2)\n│       ├── Engine Electrics [ID: 100754] (Niveau 2) → ProductId: 3954\n│       └── Engine Electrics [ID: 100754] (Niveau 2) → ProductId: 3952\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Appareils de commande (Niveau 2)\n        ├── Control Units [ID: 100727] (Niveau 2) → ProductId: 3954\n        └── Control Units [ID: 100727] (Niveau 2) → ProductId: 3952",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 3952
+    },
+    {
+      "path": [
+        "Échappement",
+        "Injection d'urée",
+        "Urea Injection"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        103019
+      ],
+      "finalCategoryId": 103019,
+      "productId": 4382
+    },
+    {
+      "path": [
+        "Moteur",
+        "Circuit électrique du moteur",
+        "Engine Electrics"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100754
+      ],
+      "finalCategoryId": 100754,
+      "productId": 3954
+    },
+    {
+      "path": [
+        "Moteur",
+        "Circuit électrique du moteur",
+        "Engine Electrics"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100754
+      ],
+      "finalCategoryId": 100754,
+      "productId": 3952
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Appareils de commande",
+        "Control Units"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100727
+      ],
+      "finalCategoryId": 100727,
+      "productId": 3954
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Appareils de commande",
+        "Control Units"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100727
+      ],
+      "finalCategoryId": 100727,
+      "productId": 3952
+    }
+  ],
+  "productIdsInArbo": [
+    3952,
+    3954,
+    4382
+  ],
+  "matchedProductIds": [
+    3952
+  ]
+}

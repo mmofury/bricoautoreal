@@ -1,0 +1,155 @@
+{
+  "productName": "Bague d'étanchéité, arbre à cames",
+  "searchText": "Bague d'étanchéité, arbre à cames",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:02:52.849Z",
+  "productId": 757,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Culasse / pieces de montage": {
+          "categoryId": null,
+          "categoryName": "Culasse / pieces de montage",
+          "level": 2,
+          "children": {
+            "Bague d'étanchéité, arbre à cames": {
+              "categoryId": 100373,
+              "categoryName": "Cylinder Head/Attachment Parts",
+              "level": 2,
+              "children": {
+                "Joints toriques": {
+                  "categoryId": null,
+                  "categoryName": "Joints toriques",
+                  "level": 4,
+                  "children": {
+                    "Bague d'étanchéité, arbre à cames": {
+                      "categoryId": 102778,
+                      "categoryName": "Shaft Seal Rings",
+                      "level": 3,
+                      "children": [],
+                      "productId": 757
+                    }
+                  }
+                }
+              },
+              "productId": 757
+            }
+          }
+        },
+        "Distribution moteur": {
+          "categoryId": null,
+          "categoryName": "Distribution moteur",
+          "level": 2,
+          "children": {
+            "Bague d'étanchéité, arbre à cames": {
+              "categoryId": 100003,
+              "categoryName": "Engine Timing",
+              "level": 2,
+              "children": {
+                "Arbre à cames": {
+                  "categoryId": null,
+                  "categoryName": "Arbre à cames",
+                  "level": 4,
+                  "children": {
+                    "Bague d'étanchéité, arbre à cames": {
+                      "categoryId": 100397,
+                      "categoryName": "Camshaft",
+                      "level": 3,
+                      "children": [],
+                      "productId": 757
+                    }
+                  }
+                }
+              },
+              "productId": 757
+            }
+          }
+        },
+        "Joints": {
+          "categoryId": null,
+          "categoryName": "Joints",
+          "level": 2,
+          "children": {
+            "Bague d'étanchéité, arbre à cames": {
+              "categoryId": 100223,
+              "categoryName": "Gaskets",
+              "level": 2,
+              "children": {
+                "Kit-/bagues d'étanchéité": {
+                  "categoryId": null,
+                  "categoryName": "Kit-/bagues d'étanchéité",
+                  "level": 4,
+                  "children": {
+                    "Bague d'étanchéité, arbre à cames": {
+                      "categoryId": 100789,
+                      "categoryName": "Shaft Seal/Set",
+                      "level": 3,
+                      "children": [],
+                      "productId": 757
+                    }
+                  }
+                }
+              },
+              "productId": 757
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    ├── Culasse / pieces de montage (Niveau 2)\n    │   └── Cylinder Head/Attachment Parts [ID: 100373] (Niveau 2) → ProductId: 757\n    │       └── Joints toriques (Niveau 4)\n    │           └── Shaft Seal Rings [ID: 102778] (Niveau 3) → ProductId: 757\n    ├── Distribution moteur (Niveau 2)\n    │   └── Engine Timing [ID: 100003] (Niveau 2) → ProductId: 757\n    │       └── Arbre à cames (Niveau 4)\n    │           └── Camshaft [ID: 100397] (Niveau 3) → ProductId: 757\n    └── Joints (Niveau 2)\n        └── Gaskets [ID: 100223] (Niveau 2) → ProductId: 757\n            └── Kit-/bagues d'étanchéité (Niveau 4)\n                └── Shaft Seal/Set [ID: 100789] (Niveau 3) → ProductId: 757",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Culasse / pieces de montage",
+        "Cylinder Head/Attachment Parts"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100373
+      ],
+      "finalCategoryId": 100373,
+      "productId": 757
+    },
+    {
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Engine Timing"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100003
+      ],
+      "finalCategoryId": 100003,
+      "productId": 757
+    },
+    {
+      "path": [
+        "Moteur",
+        "Joints",
+        "Gaskets"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100223
+      ],
+      "finalCategoryId": 100223,
+      "productId": 757
+    }
+  ],
+  "productIdsInArbo": [
+    757
+  ],
+  "matchedProductIds": [
+    757
+  ]
+}

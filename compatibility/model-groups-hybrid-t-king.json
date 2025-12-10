@@ -1,0 +1,40 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.502Z",
+  "manufacturer": "T-KING",
+  "countGroups": 1,
+  "groups": [
+    {
+      "manufacturerId": 5999,
+      "manufacturerName": "T-KING",
+      "groupKey": "SAILING",
+      "displayName": "SAILING",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43586,
+          "modelName": "SAILING Camion plate-forme/Châssis",
+          "modelYearFrom": "2010-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43587,
+          "modelName": "SAILING A6 Camion plate-forme/Châssis",
+          "modelYearFrom": "2015-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43588,
+          "modelName": "SAILING F3 Camion plate-forme/Châssis",
+          "modelYearFrom": "2019-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44159,
+          "modelName": "SAILING F3 Véhicule municipal",
+          "modelYearFrom": "2019-11-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

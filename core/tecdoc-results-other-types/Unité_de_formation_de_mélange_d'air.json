@@ -1,0 +1,49 @@
+{
+  "productName": "Unité de formation de mélange d'air",
+  "productId": 2101,
+  "searchText": "Unité de formation de mélange d'air",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Système pneumatique": {
+          "categoryId": 200059,
+          "categoryName": "Système pneumatique",
+          "level": 1,
+          "children": {
+            "Dessicateur d'air / cartouche": {
+              "categoryId": null,
+              "categoryName": "Dessicateur d'air / cartouche",
+              "level": 2,
+              "children": {
+                "Unité de formation de mélange d'air": {
+                  "categoryId": 200112,
+                  "categoryName": "Air Dryer/Cartridge",
+                  "level": 2,
+                  "children": [],
+                  "productId": 2101
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système pneumatique [ID: 200059] (Niveau 1)\n    └── Dessicateur d'air / cartouche (Niveau 2)\n        └── Air Dryer/Cartridge [ID: 200112] (Niveau 2) → ProductId: 2101",
+      "productIdsInArbo": [
+        2101
+      ],
+      "matchedProductIds": [
+        2101
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:44:37.268Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

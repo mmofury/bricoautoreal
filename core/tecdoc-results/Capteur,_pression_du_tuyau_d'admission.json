@@ -1,0 +1,104 @@
+{
+  "productName": "Capteur, pression du tuyau d'admission",
+  "searchText": "Capteur, pression du tuyau d'admission",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:16:34.186Z",
+  "productId": 3947,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Capteur, pression du tuyau d'admission": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Capteur/sonde lambda": {
+                  "categoryId": null,
+                  "categoryName": "Capteur/sonde lambda",
+                  "level": 4,
+                  "children": {
+                    "Capteur, pression du tuyau d'admission": {
+                      "categoryId": 102809,
+                      "categoryName": "Sensor/Probe",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3947
+                    }
+                  }
+                }
+              },
+              "productId": 3947
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Capteurs": {
+          "categoryId": null,
+          "categoryName": "Capteurs",
+          "level": 2,
+          "children": {
+            "Capteur, pression du tuyau d'admission": {
+              "categoryId": 102747,
+              "categoryName": "Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 3947
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carburation [ID: 100254] (Niveau 1)\n│   └── Mélange air-carburant (Niveau 2)\n│       └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 3947\n│           └── Capteur/sonde lambda (Niveau 4)\n│               └── Sensor/Probe [ID: 102809] (Niveau 3) → ProductId: 3947\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Capteurs (Niveau 2)\n        └── Sensors [ID: 102747] (Niveau 2) → ProductId: 3947",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 3947
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Capteurs",
+        "Sensors"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        102747
+      ],
+      "finalCategoryId": 102747,
+      "productId": 3947
+    }
+  ],
+  "productIdsInArbo": [
+    3947
+  ],
+  "matchedProductIds": [
+    3947
+  ]
+}

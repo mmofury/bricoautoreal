@@ -1,0 +1,69 @@
+{
+  "productName": "Suspension , châssis du véhicule",
+  "searchText": "Suspension , châssis du véhicule",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:22:23.490Z",
+  "productId": 6308,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Pièces de carrosserie/ailes/pares-chocs": {
+          "categoryId": null,
+          "categoryName": "Pièces de carrosserie/ailes/pares-chocs",
+          "level": 2,
+          "children": {
+            "Suspension , châssis du véhicule": {
+              "categoryId": 100743,
+              "categoryName": "Body Parts/Wing/Bumper",
+              "level": 2,
+              "children": {
+                "Châssis du véhicule/composants": {
+                  "categoryId": null,
+                  "categoryName": "Châssis du véhicule/composants",
+                  "level": 4,
+                  "children": {
+                    "Suspension , châssis du véhicule": {
+                      "categoryId": 104812,
+                      "categoryName": "Vehicle Frame/-Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 6308
+                    }
+                  }
+                }
+              },
+              "productId": 6308
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    └── Pièces de carrosserie/ailes/pares-chocs (Niveau 2)\n        └── Body Parts/Wing/Bumper [ID: 100743] (Niveau 2) → ProductId: 6308\n            └── Châssis du véhicule/composants (Niveau 4)\n                └── Vehicle Frame/-Parts [ID: 104812] (Niveau 3) → ProductId: 6308",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Pièces de carrosserie/ailes/pares-chocs",
+        "Body Parts/Wing/Bumper"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100743
+      ],
+      "finalCategoryId": 100743,
+      "productId": 6308
+    }
+  ],
+  "productIdsInArbo": [
+    6308
+  ],
+  "matchedProductIds": [
+    6308
+  ]
+}

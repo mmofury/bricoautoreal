@@ -1,0 +1,49 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "DA141D",
+      "index": "V25-1705",
+      "tecDoc": "V25-1705",
+      "tecDocProd": "162",
+      "articleNumber": "V25-1705",
+      "brand": "VAICO",
+      "shortDescription": "Intermediate Bearing, drive shaft",
+      "description": "Propeller shaft intermediate bearing (45mm/75mm) fits: VOLVO C30, C70 II, S60 II, S80 II, V40, V50, V60 I, V70 III, XC60 I, FORD FIESTA IV, FIESTA V, FIESTA VI, FIESTA/HATCHBACK 1.0-3.2D 03.95-",
+      "eans": [
+        "4046001583650"
+      ],
+      "packageWeight": "0,320",
+      "packageWidth": "1,900",
+      "packageDepth": "7,500",
+      "packageHeight": "7,500",
+      "customsCode": "84828000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_2109",
+          "primary": false,
+          "name": {
+            "en": "Bearing, propshaft centre bearing"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3302",
+          "primary": true,
+          "name": {
+            "en": "Intermediate Bearing, drive shaft"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3521",
+          "primary": false,
+          "name": {
+            "en": "Bearing, drive shaft"
+          }
+        }
+      ]
+    }
+  ]
+}

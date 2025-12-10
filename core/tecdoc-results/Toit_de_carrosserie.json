@@ -1,0 +1,69 @@
+{
+  "productName": "Toit de carrosserie",
+  "searchText": "Toit de carrosserie",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:26:41.034Z",
+  "productId": 9308,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Habitacle": {
+          "categoryId": null,
+          "categoryName": "Habitacle",
+          "level": 2,
+          "children": {
+            "Toit de carrosserie": {
+              "categoryId": 101690,
+              "categoryName": "Passenger Cabin",
+              "level": 2,
+              "children": {
+                "Cadre de montant de toit / Cadre de montant de porte": {
+                  "categoryId": null,
+                  "categoryName": "Cadre de montant de toit / Cadre de montant de porte",
+                  "level": 4,
+                  "children": {
+                    "Toit de carrosserie": {
+                      "categoryId": 101691,
+                      "categoryName": "Roof/Door Pillars/Frames",
+                      "level": 3,
+                      "children": [],
+                      "productId": 9308
+                    }
+                  }
+                }
+              },
+              "productId": 9308
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    └── Habitacle (Niveau 2)\n        └── Passenger Cabin [ID: 101690] (Niveau 2) → ProductId: 9308\n            └── Cadre de montant de toit / Cadre de montant de porte (Niveau 4)\n                └── Roof/Door Pillars/Frames [ID: 101691] (Niveau 3) → ProductId: 9308",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Habitacle",
+        "Passenger Cabin"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101690
+      ],
+      "finalCategoryId": 101690,
+      "productId": 9308
+    }
+  ],
+  "productIdsInArbo": [
+    9308
+  ],
+  "matchedProductIds": [
+    9308
+  ]
+}

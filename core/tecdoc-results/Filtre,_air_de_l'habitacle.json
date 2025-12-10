@@ -1,0 +1,124 @@
+{
+  "productName": "Filtre, air de l'habitacle",
+  "searchText": "Filtre, air de l'habitacle",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:40:07.527Z",
+  "productId": 424,
+  "arborescence": {
+    "Chauffage / Ventilation": {
+      "categoryId": 100241,
+      "categoryName": "Chauffage / Ventilation",
+      "level": 1,
+      "children": {
+        "Filtre d'habitacle": {
+          "categoryId": null,
+          "categoryName": "Filtre d'habitacle",
+          "level": 2,
+          "children": {
+            "Filtre, air de l'habitacle": {
+              "categoryId": 100346,
+              "categoryName": "Cabin Air Filter",
+              "level": 2,
+              "children": [],
+              "productId": 424
+            }
+          }
+        }
+      }
+    },
+    "Filtre": {
+      "categoryId": 100005,
+      "categoryName": "Filtre",
+      "level": 1,
+      "children": {
+        "Filtre à air pour habitacle": {
+          "categoryId": null,
+          "categoryName": "Filtre à air pour habitacle",
+          "level": 2,
+          "children": {
+            "Filtre, air de l'habitacle": {
+              "categoryId": 100263,
+              "categoryName": "Cabin Air Filter",
+              "level": 2,
+              "children": [],
+              "productId": 424
+            }
+          }
+        }
+      }
+    },
+    "Pièces de maintenance": {
+      "categoryId": 100019,
+      "categoryName": "Pièces de maintenance",
+      "level": 1,
+      "children": {
+        "Intervalle": {
+          "categoryId": null,
+          "categoryName": "Intervalle",
+          "level": 2,
+          "children": {
+            "Filtre, air de l'habitacle": {
+              "categoryId": 100597,
+              "categoryName": "Service Intervals",
+              "level": 2,
+              "children": [],
+              "productId": 424
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Chauffage / Ventilation [ID: 100241] (Niveau 1)\n│   └── Filtre d'habitacle (Niveau 2)\n│       └── Cabin Air Filter [ID: 100346] (Niveau 2) → ProductId: 424\n\n├── Filtre [ID: 100005] (Niveau 1)\n│   └── Filtre à air pour habitacle (Niveau 2)\n│       └── Cabin Air Filter [ID: 100263] (Niveau 2) → ProductId: 424\n\n└── Pièces de maintenance [ID: 100019] (Niveau 1)\n    └── Intervalle (Niveau 2)\n        └── Service Intervals [ID: 100597] (Niveau 2) → ProductId: 424",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Chauffage / Ventilation",
+        "Filtre d'habitacle",
+        "Cabin Air Filter"
+      ],
+      "categoryIds": [
+        100241,
+        null,
+        100346
+      ],
+      "finalCategoryId": 100346,
+      "productId": 424
+    },
+    {
+      "path": [
+        "Filtre",
+        "Filtre à air pour habitacle",
+        "Cabin Air Filter"
+      ],
+      "categoryIds": [
+        100005,
+        null,
+        100263
+      ],
+      "finalCategoryId": 100263,
+      "productId": 424
+    },
+    {
+      "path": [
+        "Pièces de maintenance",
+        "Intervalle",
+        "Service Intervals"
+      ],
+      "categoryIds": [
+        100019,
+        null,
+        100597
+      ],
+      "finalCategoryId": 100597,
+      "productId": 424
+    }
+  ],
+  "productIdsInArbo": [
+    424
+  ],
+  "matchedProductIds": [
+    424
+  ]
+}

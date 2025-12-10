@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "C08917",
+      "index": "2.12317",
+      "tecDoc": "2.12317",
+      "tecDocProd": "355",
+      "articleNumber": "2.12317",
+      "brand": "DT SPARE PARTS",
+      "shortDescription": "Fuel Filter",
+      "description": "Fuel filter fits: VOLVO FH12, FH16 D12A340-D16G700 08.93-",
+      "packageWeight": "0,040",
+      "packageWidth": "5,200",
+      "packageDepth": "13,700",
+      "packageHeight": "5,200",
+      "customsCode": "84212300",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_9",
+          "primary": true,
+          "name": {
+            "en": "Fuel Filter"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3407",
+          "primary": false,
+          "name": {
+            "en": "Filter, fuel feed unit"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Refroidisseur de carburant",
+  "searchText": "Refroidisseur de carburant",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:07:06.878Z",
+  "productId": 3640,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Refroidisseur de carburant": {
+          "categoryId": null,
+          "categoryName": "Refroidisseur de carburant",
+          "level": 2,
+          "children": {
+            "Refroidisseur de carburant": {
+              "categoryId": 102603,
+              "categoryName": "Fuel Cooler",
+              "level": 2,
+              "children": [],
+              "productId": 3640
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Alimentation carburant [ID: 100214] (Niveau 1)\n    └── Refroidisseur de carburant (Niveau 2)\n        └── Fuel Cooler [ID: 102603] (Niveau 2) → ProductId: 3640",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Refroidisseur de carburant",
+        "Fuel Cooler"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        102603
+      ],
+      "finalCategoryId": 102603,
+      "productId": 3640
+    }
+  ],
+  "productIdsInArbo": [
+    3640
+  ],
+  "matchedProductIds": [
+    3640
+  ]
+}

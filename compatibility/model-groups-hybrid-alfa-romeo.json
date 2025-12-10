@@ -1,0 +1,922 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.151Z",
+  "manufacturer": "ALFA ROMEO",
+  "countGroups": 47,
+  "groups": [
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "145",
+      "displayName": "145",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 278,
+          "modelName": "145 (930_)",
+          "modelYearFrom": "1994-07-01",
+          "modelYearTo": "2001-01-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "146",
+      "displayName": "146",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1321,
+          "modelName": "146 (930_)",
+          "modelYearFrom": "1994-12-01",
+          "modelYearTo": "2001-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "147",
+      "displayName": "147",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4735,
+          "modelName": "147 (937_)",
+          "modelYearFrom": "2000-10-01",
+          "modelYearTo": "2010-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "155",
+      "displayName": "155",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 282,
+          "modelName": "155 (167_)",
+          "modelYearFrom": "1992-01-01",
+          "modelYearTo": "1997-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "156",
+      "displayName": "156",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 2053,
+          "modelName": "156 (932_)",
+          "modelYearFrom": "1997-09-01",
+          "modelYearTo": "2005-10-01"
+        },
+        {
+          "modelId": 4635,
+          "modelName": "156 Sportwagon (932_)",
+          "modelYearFrom": "1997-02-01",
+          "modelYearTo": "2006-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "159",
+      "displayName": "159",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5452,
+          "modelName": "159 (939_)",
+          "modelYearFrom": "2005-06-01",
+          "modelYearTo": "2012-12-01"
+        },
+        {
+          "modelId": 5543,
+          "modelName": "159 Sportwagon (939_)",
+          "modelYearFrom": "2005-06-01",
+          "modelYearTo": "2012-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "164",
+      "displayName": "164",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 287,
+          "modelName": "164 (164_)",
+          "modelYearFrom": "1987-01-01",
+          "modelYearTo": "1998-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "166",
+      "displayName": "166",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3891,
+          "modelName": "166 (936_)",
+          "modelYearFrom": "1998-09-01",
+          "modelYearTo": "2007-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "1750",
+      "displayName": "1750",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1818,
+          "modelName": "1750-2000 (105_)",
+          "modelYearFrom": "1968-03-01",
+          "modelYearTo": "1975-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "1900",
+      "displayName": "1900",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7546,
+          "modelName": "1900 (190_)",
+          "modelYearFrom": "1950-10-01",
+          "modelYearTo": "1959-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "2300",
+      "displayName": "2300",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4626,
+          "modelName": "2300 (102_)",
+          "modelYearFrom": "1974-03-01",
+          "modelYearTo": "1987-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "2600",
+      "displayName": "2600",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7547,
+          "modelName": "2600 Sprint (117_)",
+          "modelYearFrom": "1962-01-01",
+          "modelYearTo": "1966-12-01"
+        },
+        {
+          "modelId": 7548,
+          "modelName": "2600 Spider (117_)",
+          "modelYearFrom": "1961-01-01",
+          "modelYearTo": "1965-12-01"
+        },
+        {
+          "modelId": 7549,
+          "modelName": "2600 Berlina (117_)",
+          "modelYearFrom": "1962-01-01",
+          "modelYearTo": "1969-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "33",
+      "displayName": "33",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 291,
+          "modelName": "33 (905_)",
+          "modelYearFrom": "1983-05-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 295,
+          "modelName": "33 (907_)",
+          "modelYearFrom": "1990-01-01",
+          "modelYearTo": "1994-09-01"
+        },
+        {
+          "modelId": 300,
+          "modelName": "33 Sportwagon (905_)",
+          "modelYearFrom": "1984-01-01",
+          "modelYearTo": "1989-12-01"
+        },
+        {
+          "modelId": 305,
+          "modelName": "33 Sportwagon (907_)",
+          "modelYearFrom": "1990-01-01",
+          "modelYearTo": "1994-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "4C",
+      "displayName": "4C",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11241,
+          "modelName": "4C (960_)",
+          "modelYearFrom": "2013-03-01",
+          "modelYearTo": "2020-12-01"
+        },
+        {
+          "modelId": 13239,
+          "modelName": "4C SPIDER (960_)",
+          "modelYearFrom": "2014-10-01",
+          "modelYearTo": "2020-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "6",
+      "displayName": "6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 309,
+          "modelName": "6 (119_)",
+          "modelYearFrom": "1979-04-01",
+          "modelYearTo": "1986-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "75",
+      "displayName": "75",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 312,
+          "modelName": "75 (162_)",
+          "modelYearFrom": "1985-05-01",
+          "modelYearTo": "1992-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "8C",
+      "displayName": "8C",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9069,
+          "modelName": "8C (920_)",
+          "modelYearFrom": "2007-01-01",
+          "modelYearTo": "2009-10-01"
+        },
+        {
+          "modelId": 9071,
+          "modelName": "8C SPIDER (920_)",
+          "modelYearFrom": "2008-01-01",
+          "modelYearTo": "2010-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "90",
+      "displayName": "90",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 316,
+          "modelName": "90 (162_)",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1987-11-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "A11",
+      "displayName": "A11",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10044,
+          "modelName": "A11 / A12 Camion plate-forme/Châssis",
+          "modelYearFrom": "1967-01-01",
+          "modelYearTo": "1983-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "ALFASUD",
+      "displayName": "ALFASUD",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 321,
+          "modelName": "ALFASUD (901_)",
+          "modelYearFrom": "1972-06-01",
+          "modelYearTo": "1985-06-01"
+        },
+        {
+          "modelId": 325,
+          "modelName": "ALFASUD Giardinetta (904_)",
+          "modelYearFrom": "1978-01-01",
+          "modelYearTo": "1981-12-01"
+        },
+        {
+          "modelId": 329,
+          "modelName": "ALFASUD Sprint (902_)",
+          "modelYearFrom": "1976-09-01",
+          "modelYearTo": "1989-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "ALFETTA",
+      "displayName": "ALFETTA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 334,
+          "modelName": "ALFETTA GT (116_)",
+          "modelYearFrom": "1974-01-01",
+          "modelYearTo": "1986-01-01"
+        },
+        {
+          "modelId": 339,
+          "modelName": "ALFETTA (116_)",
+          "modelYearFrom": "1974-07-01",
+          "modelYearTo": "1984-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "AR",
+      "displayName": "AR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3847,
+          "modelName": "AR 6 Autobus/Autocar (280_)",
+          "modelYearFrom": "1985-04-01",
+          "modelYearTo": "1989-12-01"
+        },
+        {
+          "modelId": 3848,
+          "modelName": "AR 6 Fourgon (280_)",
+          "modelYearFrom": "1985-04-01",
+          "modelYearTo": "1989-12-01"
+        },
+        {
+          "modelId": 3849,
+          "modelName": "AR 8 Fourgon (280_)",
+          "modelYearFrom": "1978-04-01",
+          "modelYearTo": "1989-12-01"
+        },
+        {
+          "modelId": 3850,
+          "modelName": "AR 8 Camion plate-forme/Châssis (280_)",
+          "modelYearFrom": "1978-04-01",
+          "modelYearTo": "1989-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "ARNA",
+      "displayName": "ARNA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 353,
+          "modelName": "ARNA (920_)",
+          "modelYearFrom": "1983-03-01",
+          "modelYearTo": "1986-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "BERLINA",
+      "displayName": "BERLINA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30027,
+          "modelName": "BERLINA (105_)",
+          "modelYearFrom": "1966-09-01",
+          "modelYearTo": "1977-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "BRERA",
+      "displayName": "BRERA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5479,
+          "modelName": "BRERA (939_)",
+          "modelYearFrom": "2006-01-01",
+          "modelYearTo": "2011-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "DISCO",
+      "displayName": "DISCO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39009,
+          "modelName": "DISCO VOLANTE",
+          "modelYearFrom": "2012-03-01",
+          "modelYearTo": "2013-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "F11",
+      "displayName": "F11",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10045,
+          "modelName": "F11 / F12 Autobus/Autocar",
+          "modelYearFrom": "1967-01-01",
+          "modelYearTo": "1983-12-01"
+        },
+        {
+          "modelId": 10046,
+          "modelName": "F11 / F12 Fourgon",
+          "modelYearFrom": "1967-01-01",
+          "modelYearTo": "1983-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "FNM",
+      "displayName": "FNM",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 12776,
+          "modelName": "FNM 2000 (105_)",
+          "modelYearFrom": "1960-01-01",
+          "modelYearTo": "1973-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "GIULIA",
+      "displayName": "GIULIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 345,
+          "modelName": "GIULIA (105_)",
+          "modelYearFrom": "1962-01-01",
+          "modelYearTo": "1979-03-01"
+        },
+        {
+          "modelId": 3686,
+          "modelName": "GIULIA GT (105_)",
+          "modelYearFrom": "1962-01-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 10217,
+          "modelName": "GIULIA SPIDER (101_)",
+          "modelYearFrom": "1962-03-01",
+          "modelYearTo": "1969-02-01"
+        },
+        {
+          "modelId": 30029,
+          "modelName": "GIULIA SPRINT Coupé",
+          "modelYearFrom": "1966-09-01",
+          "modelYearTo": "1968-12-01"
+        },
+        {
+          "modelId": 36486,
+          "modelName": "GIULIA (952_)",
+          "modelYearFrom": "2015-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "GIULIETTA",
+      "displayName": "GIULIETTA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 483,
+          "modelName": "GIULIETTA (116_)",
+          "modelYearFrom": "1977-10-01",
+          "modelYearTo": "1985-12-01"
+        },
+        {
+          "modelId": 7550,
+          "modelName": "GIULIETTA Sprint (101_)",
+          "modelYearFrom": "1954-01-01",
+          "modelYearTo": "1962-12-01"
+        },
+        {
+          "modelId": 7551,
+          "modelName": "GIULIETTA Berlina (101_)",
+          "modelYearFrom": "1955-01-01",
+          "modelYearTo": "1962-12-01"
+        },
+        {
+          "modelId": 7552,
+          "modelName": "GIULIETTA Spider (101_)",
+          "modelYearFrom": "1955-01-01",
+          "modelYearTo": "1962-12-01"
+        },
+        {
+          "modelId": 7553,
+          "modelName": "GIULIETTA PANORAMA (101_)",
+          "modelYearFrom": "1957-01-01",
+          "modelYearTo": "1962-12-01"
+        },
+        {
+          "modelId": 7554,
+          "modelName": "GIULIETTA Sprint Speciale (101_)",
+          "modelYearFrom": "1958-01-01",
+          "modelYearTo": "1961-12-01"
+        },
+        {
+          "modelId": 7555,
+          "modelName": "GIULIETTA Coupé (101_)",
+          "modelYearFrom": "1958-01-01",
+          "modelYearTo": "1961-12-01"
+        },
+        {
+          "modelId": 8603,
+          "modelName": "GIULIETTA (940_)",
+          "modelYearFrom": "2010-04-01",
+          "modelYearTo": "2020-12-01"
+        },
+        {
+          "modelId": 39004,
+          "modelName": "GIULIETTA Camionnette/Berline bicorps trois ou cinq portes (",
+          "modelYearFrom": "2011-04-01",
+          "modelYearTo": "2020-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "GT",
+      "displayName": "GT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 536,
+          "modelName": "GT (105_)",
+          "modelYearFrom": "1963-03-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 5080,
+          "modelName": "GT (937_)",
+          "modelYearFrom": "2003-11-01",
+          "modelYearTo": "2010-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "GTA",
+      "displayName": "GTA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4625,
+          "modelName": "GTA Coupé (113_)",
+          "modelYearFrom": "1968-05-01",
+          "modelYearTo": "1976-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "GTV",
+      "displayName": "GTV",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1460,
+          "modelName": "GTV (916_)",
+          "modelYearFrom": "1994-09-01",
+          "modelYearTo": "2005-10-01"
+        },
+        {
+          "modelId": 3389,
+          "modelName": "GTV (116_)",
+          "modelYearFrom": "1978-01-01",
+          "modelYearTo": "1987-02-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "JUNIOR",
+      "displayName": "JUNIOR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45381,
+          "modelName": "JUNIOR (626_, 627_)",
+          "modelYearFrom": "2024-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "MATTA",
+      "displayName": "MATTA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7556,
+          "modelName": "MATTA Véhicule tout terrain à carrosserie ouverte (AR5_)",
+          "modelYearFrom": "1952-01-01",
+          "modelYearTo": "1954-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "MILANO",
+      "displayName": "MILANO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30034,
+          "modelName": "MILANO A trois volumes (162_)",
+          "modelYearFrom": "1986-09-01",
+          "modelYearTo": "1989-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "MITO",
+      "displayName": "MITO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7587,
+          "modelName": "MITO (955_)",
+          "modelYearFrom": "2008-08-01",
+          "modelYearTo": "2018-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "MONTREAL",
+      "displayName": "MONTREAL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1819,
+          "modelName": "MONTREAL (105_)",
+          "modelYearFrom": "1972-12-01",
+          "modelYearTo": "1979-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "RL",
+      "displayName": "RL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30035,
+          "modelName": "RL A trois volumes",
+          "modelYearFrom": "1921-09-01",
+          "modelYearTo": "1926-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "ROMEO",
+      "displayName": "ROMEO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9818,
+          "modelName": "ROMEO 2 Autobus/Autocar (T10_)",
+          "modelYearFrom": "1956-01-01",
+          "modelYearTo": "1967-12-01"
+        },
+        {
+          "modelId": 9819,
+          "modelName": "ROMEO 2 Fourgon (T10_)",
+          "modelYearFrom": "1956-01-01",
+          "modelYearTo": "1967-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "RZ",
+      "displayName": "RZ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3602,
+          "modelName": "RZ (162_)",
+          "modelYearFrom": "1992-01-01",
+          "modelYearTo": "1994-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "SPIDER",
+      "displayName": "SPIDER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 289,
+          "modelName": "SPIDER (105_)",
+          "modelYearFrom": "1966-03-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 293,
+          "modelName": "SPIDER (115_)",
+          "modelYearFrom": "1971-01-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 1461,
+          "modelName": "SPIDER (916_)",
+          "modelYearFrom": "1994-09-01",
+          "modelYearTo": "2005-04-01"
+        },
+        {
+          "modelId": 5567,
+          "modelName": "SPIDER (939_)",
+          "modelYearFrom": "2006-03-01",
+          "modelYearTo": "2011-03-01"
+        },
+        {
+          "modelId": 10181,
+          "modelName": "SPIDER (102_)",
+          "modelYearFrom": "1958-01-01",
+          "modelYearTo": "1961-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "SPORT",
+      "displayName": "SPORT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30038,
+          "modelName": "SPORT A trois volumes",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1979-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "SPRINT",
+      "displayName": "SPRINT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30039,
+          "modelName": "SPRINT Coupé (902_)",
+          "modelYearFrom": "1976-09-01",
+          "modelYearTo": "1989-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "STELVIO",
+      "displayName": "STELVIO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37292,
+          "modelName": "STELVIO (949_)",
+          "modelYearFrom": "2016-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "SZ",
+      "displayName": "SZ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3507,
+          "modelName": "SZ (162_)",
+          "modelYearFrom": "1988-09-01",
+          "modelYearTo": "1994-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2,
+      "manufacturerName": "ALFA ROMEO",
+      "groupKey": "TONALE",
+      "displayName": "TONALE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42679,
+          "modelName": "TONALE (965_)",
+          "modelYearFrom": "2022-03-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

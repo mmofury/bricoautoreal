@@ -1,0 +1,46 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "D335B4",
+      "index": "HAZ 4797-5",
+      "tecDoc": "4797-5",
+      "tecDocProd": "4808",
+      "articleNumber": "4797-5",
+      "brand": "HAZET",
+      "shortDescription": "Fuel system maintenance special tools",
+      "description": "",
+      "packageWeight": "0,780",
+      "packageWidth": "5,000",
+      "packageDepth": "17,000",
+      "packageHeight": "5,000",
+      "customsCode": "90318080",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_8781",
+          "primary": false,
+          "name": {
+            "en": "Adapter, impact extractor (common rail injector)"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91788",
+          "primary": true,
+          "name": {
+            "en": "Fuel system maintenance special tools"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_4520",
+          "primary": false,
+          "name": {
+            "en": "Adapter, CR injector disassembly tool"
+          }
+        }
+      ]
+    }
+  ]
+}

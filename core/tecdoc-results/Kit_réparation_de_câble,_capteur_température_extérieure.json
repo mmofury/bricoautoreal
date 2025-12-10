@@ -1,0 +1,132 @@
+{
+  "productName": "Kit réparation de câble, capteur température extérieure",
+  "searchText": "Kit réparation de câble, capteur température extérieure",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:09:35.932Z",
+  "productId": 7706,
+  "arborescence": {
+    "Système d'information et de communication": {
+      "categoryId": 100339,
+      "categoryName": "Système d'information et de communication",
+      "level": 1,
+      "children": {
+        "Instruments": {
+          "categoryId": null,
+          "categoryName": "Instruments",
+          "level": 2,
+          "children": {
+            "Kit réparation de câble, capteur température extérieure": {
+              "categoryId": 100693,
+              "categoryName": "Instruments",
+              "level": 2,
+              "children": [],
+              "productId": 7706
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Capteurs": {
+          "categoryId": null,
+          "categoryName": "Capteurs",
+          "level": 2,
+          "children": {
+            "Kit réparation de câble, capteur température extérieure": {
+              "categoryId": 102747,
+              "categoryName": "Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 7706
+            }
+          }
+        },
+        "Instruments": {
+          "categoryId": null,
+          "categoryName": "Instruments",
+          "level": 2,
+          "children": {
+            "Kit réparation de câble, capteur température extérieure": {
+              "categoryId": 100322,
+              "categoryName": "Instruments",
+              "level": 2,
+              "children": {
+                "Capteurs/Conatct": {
+                  "categoryId": null,
+                  "categoryName": "Capteurs/Conatct",
+                  "level": 4,
+                  "children": {
+                    "Kit réparation de câble, capteur température extérieure": {
+                      "categoryId": 100553,
+                      "categoryName": "Sensors/Switches",
+                      "level": 3,
+                      "children": [],
+                      "productId": 7706
+                    }
+                  }
+                }
+              },
+              "productId": 7706
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Système d'information et de communication [ID: 100339] (Niveau 1)\n│   └── Instruments (Niveau 2)\n│       └── Instruments [ID: 100693] (Niveau 2) → ProductId: 7706\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    ├── Capteurs (Niveau 2)\n    │   └── Sensors [ID: 102747] (Niveau 2) → ProductId: 7706\n    └── Instruments (Niveau 2)\n        └── Instruments [ID: 100322] (Niveau 2) → ProductId: 7706\n            └── Capteurs/Conatct (Niveau 4)\n                └── Sensors/Switches [ID: 100553] (Niveau 3) → ProductId: 7706",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système d'information et de communication",
+        "Instruments",
+        "Instruments"
+      ],
+      "categoryIds": [
+        100339,
+        null,
+        100693
+      ],
+      "finalCategoryId": 100693,
+      "productId": 7706
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Capteurs",
+        "Sensors"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        102747
+      ],
+      "finalCategoryId": 102747,
+      "productId": 7706
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Instruments",
+        "Instruments"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100322
+      ],
+      "finalCategoryId": 100322,
+      "productId": 7706
+    }
+  ],
+  "productIdsInArbo": [
+    7706
+  ],
+  "matchedProductIds": [
+    7706
+  ]
+}

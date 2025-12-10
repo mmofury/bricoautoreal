@@ -1,0 +1,84 @@
+{
+  "productName": "Écrou de bielle",
+  "searchText": "Écrou de bielle",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:37:30.275Z",
+  "productId": 1631,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Système bielle-manivelle": {
+          "categoryId": null,
+          "categoryName": "Système bielle-manivelle",
+          "level": 2,
+          "children": {
+            "Écrou de bielle": {
+              "categoryId": 100515,
+              "categoryName": "Crankshaft Drive",
+              "level": 2,
+              "children": {
+                "Bielle": {
+                  "categoryId": null,
+                  "categoryName": "Bielle",
+                  "level": 4,
+                  "children": {
+                    "Écrou de bielle": {
+                      "categoryId": 100519,
+                      "categoryName": "Connecting Rod",
+                      "level": 3,
+                      "children": {
+                        "Tête de bielle / écrou": {
+                          "categoryId": null,
+                          "categoryName": "Tête de bielle / écrou",
+                          "level": 6,
+                          "children": {
+                            "Écrou de bielle": {
+                              "categoryId": 100528,
+                              "categoryName": "Connecting Rod Bolt/Nut",
+                              "level": 4,
+                              "children": [],
+                              "productId": 1631
+                            }
+                          }
+                        }
+                      },
+                      "productId": 1631
+                    }
+                  }
+                }
+              },
+              "productId": 1631
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Système bielle-manivelle (Niveau 2)\n        └── Crankshaft Drive [ID: 100515] (Niveau 2) → ProductId: 1631\n            └── Bielle (Niveau 4)\n                └── Connecting Rod [ID: 100519] (Niveau 3) → ProductId: 1631\n                    └── Tête de bielle / écrou (Niveau 6)\n                        └── Connecting Rod Bolt/Nut [ID: 100528] (Niveau 4) → ProductId: 1631",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Crankshaft Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100515
+      ],
+      "finalCategoryId": 100515,
+      "productId": 1631
+    }
+  ],
+  "productIdsInArbo": [
+    1631
+  ],
+  "matchedProductIds": [
+    1631
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H11SWL",
+      "index": "51277471",
+      "tecDoc": "51277471",
+      "tecDocProd": "72",
+      "articleNumber": "51277471",
+      "brand": "HERTH+BUSS ELPARTS",
+      "shortDescription": "Electric Cable",
+      "description": "Harness wire (175mm, number of pins: 3) fits: VOLVO C30, S40 II, S80 II, V50, V70 III, CITROEN BERLINGO, BERLINGO MULTISPACE, BERLINGO/MINIVAN, C-CROSSER, C-CROSSER ENTERPRISE 1.4D-2.2D 09.01-",
+      "customsCode": "85443000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_833",
+          "primary": false,
+          "name": {
+            "en": "Sensor, crankshaft pulse"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3491",
+          "primary": true,
+          "name": {
+            "en": "Electric Cable"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_7704",
+          "primary": false,
+          "name": {
+            "en": "Cable Repair Set, camshaft sensor"
+          }
+        }
+      ]
+    }
+  ]
+}

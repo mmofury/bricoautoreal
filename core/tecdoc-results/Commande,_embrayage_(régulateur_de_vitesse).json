@@ -1,0 +1,97 @@
+{
+  "productName": "Commande, embrayage (régulateur de vitesse)",
+  "searchText": "Commande, embrayage (régulateur de vitesse)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:22:49.929Z",
+  "productId": 2415,
+  "arborescence": {
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Moteur / Relais": {
+          "categoryId": null,
+          "categoryName": "Moteur / Relais",
+          "level": 2,
+          "children": {
+            "Commande, embrayage (régulateur de vitesse)": {
+              "categoryId": 104156,
+              "categoryName": "Motor/Relay/Switch",
+              "level": 2,
+              "children": {
+                "Régulateur de vitesse": {
+                  "categoryId": null,
+                  "categoryName": "Régulateur de vitesse",
+                  "level": 4,
+                  "children": {
+                    "Commande, embrayage (régulateur de vitesse)": {
+                      "categoryId": 104163,
+                      "categoryName": "Cruise Control System",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2415
+                    }
+                  }
+                }
+              },
+              "productId": 2415
+            }
+          }
+        },
+        "Régulateur de vitesse": {
+          "categoryId": null,
+          "categoryName": "Régulateur de vitesse",
+          "level": 2,
+          "children": {
+            "Commande, embrayage (régulateur de vitesse)": {
+              "categoryId": 100615,
+              "categoryName": "Cruise Control",
+              "level": 2,
+              "children": [],
+              "productId": 2415
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Systèmes de confort [ID: 100335] (Niveau 1)\n    ├── Moteur / Relais (Niveau 2)\n    │   └── Motor/Relay/Switch [ID: 104156] (Niveau 2) → ProductId: 2415\n    │       └── Régulateur de vitesse (Niveau 4)\n    │           └── Cruise Control System [ID: 104163] (Niveau 3) → ProductId: 2415\n    └── Régulateur de vitesse (Niveau 2)\n        └── Cruise Control [ID: 100615] (Niveau 2) → ProductId: 2415",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Systèmes de confort",
+        "Moteur / Relais",
+        "Motor/Relay/Switch"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        104156
+      ],
+      "finalCategoryId": 104156,
+      "productId": 2415
+    },
+    {
+      "path": [
+        "Systèmes de confort",
+        "Régulateur de vitesse",
+        "Cruise Control"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        100615
+      ],
+      "finalCategoryId": 100615,
+      "productId": 2415
+    }
+  ],
+  "productIdsInArbo": [
+    2415
+  ],
+  "matchedProductIds": [
+    2415
+  ]
+}

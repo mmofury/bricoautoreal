@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.550Z",
+  "manufacturer": "YULON",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 1559,
+      "manufacturerName": "YULON",
+      "groupKey": "101",
+      "displayName": "101",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4385,
+          "modelName": "101 FEELING",
+          "modelYearFrom": "1989-01-01",
+          "modelYearTo": "1993-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1559,
+      "manufacturerName": "YULON",
+      "groupKey": "YULON",
+      "displayName": "YULON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4392,
+          "modelName": "YULON",
+          "modelYearFrom": "1993-01-01",
+          "modelYearTo": "1998-12-01"
+        }
+      ]
+    }
+  ]
+}

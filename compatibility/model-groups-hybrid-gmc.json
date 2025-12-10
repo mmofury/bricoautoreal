@@ -1,0 +1,2143 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.292Z",
+  "manufacturer": "GMC",
+  "countGroups": 54,
+  "groups": [
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "ACADIA",
+      "displayName": "ACADIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10290,
+          "modelName": "ACADIA (T_14)",
+          "modelYearFrom": "2006-09-01",
+          "modelYearTo": "2017-03-01"
+        },
+        {
+          "modelId": 36385,
+          "modelName": "ACADIA (TN1)",
+          "modelYearFrom": "2017-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45651,
+          "modelName": "ACADIA",
+          "modelYearFrom": "2024-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "C15",
+      "displayName": "C15",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31719,
+          "modelName": "C15 Cab & Chassis",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 31720,
+          "modelName": "C15 Standard Cab Pickup",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 31722,
+          "modelName": "C15 Pick-up",
+          "modelYearFrom": "1965-09-01",
+          "modelYearTo": "1974-12-01"
+        },
+        {
+          "modelId": 31723,
+          "modelName": "C15 SUBURBAN Véhicule tout terrain fermé",
+          "modelYearFrom": "1967-09-01",
+          "modelYearTo": "1974-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "C15/C1500",
+      "displayName": "C15/C1500",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31721,
+          "modelName": "C15/C1500 SUBURBAN Véhicule tout terrain fermé",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1991-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "C1500",
+      "displayName": "C1500",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11052,
+          "modelName": "C1500 Standard Cab Pickup",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 31724,
+          "modelName": "C1500 Cab & Chassis",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 35158,
+          "modelName": "C1500 Extended Cab Pickup",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 35159,
+          "modelName": "C1500 Standard Cab Pickup",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 35161,
+          "modelName": "C1500 SUBURBAN Véhicule tout terrain fermé",
+          "modelYearFrom": "1991-09-01",
+          "modelYearTo": "1999-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "C25",
+      "displayName": "C25",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31728,
+          "modelName": "C25 Cab & Chassis",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 31732,
+          "modelName": "C25 SUBURBAN Véhicule tout terrain fermé",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1991-12-01"
+        },
+        {
+          "modelId": 31733,
+          "modelName": "C25 Pick-up",
+          "modelYearFrom": "1965-09-01",
+          "modelYearTo": "1974-12-01"
+        },
+        {
+          "modelId": 31734,
+          "modelName": "C25 SUBURBAN Véhicule tout terrain fermé",
+          "modelYearFrom": "1967-09-01",
+          "modelYearTo": "1972-12-01"
+        },
+        {
+          "modelId": 35154,
+          "modelName": "C25 Crew Cab Pickup",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 38426,
+          "modelName": "C25 Standard Cab Pickup",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1987-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "C2500",
+      "displayName": "C2500",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11055,
+          "modelName": "C2500 Cab & Chassis",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 11058,
+          "modelName": "C2500 Crew Cab Pickup",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 11059,
+          "modelName": "C2500 Extended Cab Pickup",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 11060,
+          "modelName": "C2500 Extended Cab Pickup",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 11699,
+          "modelName": "C2500 SUBURBAN Véhicule tout terrain fermé",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1991-12-01"
+        },
+        {
+          "modelId": 14575,
+          "modelName": "C2500 Standard Cab Pickup",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 31735,
+          "modelName": "C2500 Cab & Chassis",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 35155,
+          "modelName": "C2500 Crew Cab Pickup",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 35156,
+          "modelName": "C2500 Standard Cab Pickup",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 35160,
+          "modelName": "C2500 SUBURBAN Véhicule tout terrain fermé",
+          "modelYearFrom": "1988-09-01",
+          "modelYearTo": "1999-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "C35",
+      "displayName": "C35",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11024,
+          "modelName": "C35 Extended Cab Pickup",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 31740,
+          "modelName": "C35 Cab & Chassis",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 35153,
+          "modelName": "C35 Crew Cab Pickup",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 39401,
+          "modelName": "C35 Pick-up",
+          "modelYearFrom": "1965-09-01",
+          "modelYearTo": "1974-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "C3500",
+      "displayName": "C3500",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11056,
+          "modelName": "C3500 Crew Cab Pickup",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 11057,
+          "modelName": "C3500 Pick-up",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "2002-12-01"
+        },
+        {
+          "modelId": 14578,
+          "modelName": "C3500 Standard Cab Pickup",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 14580,
+          "modelName": "C3500 Extended Cab Pickup",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 14581,
+          "modelName": "C3500 Extended Cab Pickup",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 31745,
+          "modelName": "C3500 Cab & Chassis",
+          "modelYearFrom": "1978-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 35157,
+          "modelName": "C3500 Crew Cab Pickup",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 35804,
+          "modelName": "C3500 Standard Cab Pickup",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "2001-12-01"
+        },
+        {
+          "modelId": 41768,
+          "modelName": "C3500 Cab & Chassis",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "2002-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "CABALLERO",
+      "displayName": "CABALLERO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31749,
+          "modelName": "CABALLERO Standard Cab Pickup",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1987-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "CANYON",
+      "displayName": "CANYON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10291,
+          "modelName": "CANYON",
+          "modelYearFrom": "2004-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13216,
+          "modelName": "CANYON Crew Cab Pickup",
+          "modelYearFrom": "2012-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13217,
+          "modelName": "CANYON Extended Cab Pickup",
+          "modelYearFrom": "2012-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 31750,
+          "modelName": "CANYON Crew Cab Pickup",
+          "modelYearFrom": "2003-09-01",
+          "modelYearTo": "2012-12-01"
+        },
+        {
+          "modelId": 36010,
+          "modelName": "CANYON Cab & Chassis",
+          "modelYearFrom": "2003-09-01",
+          "modelYearTo": "2012-12-01"
+        },
+        {
+          "modelId": 36011,
+          "modelName": "CANYON Extended Cab Pickup",
+          "modelYearFrom": "2003-09-01",
+          "modelYearTo": "2012-12-01"
+        },
+        {
+          "modelId": 36012,
+          "modelName": "CANYON Standard Cab Pickup",
+          "modelYearFrom": "2003-09-01",
+          "modelYearTo": "2012-12-01"
+        },
+        {
+          "modelId": 44154,
+          "modelName": "CANYON Crew Cab Pickup (T4_)",
+          "modelYearFrom": "2022-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "ENVOY",
+      "displayName": "ENVOY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31753,
+          "modelName": "ENVOY SUV",
+          "modelYearFrom": "2001-09-01",
+          "modelYearTo": "2009-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "G",
+      "displayName": "G",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7450,
+          "modelName": "G SERIE Fourgon",
+          "modelYearFrom": "1973-03-01",
+          "modelYearTo": "1984-03-01"
+        },
+        {
+          "modelId": 39360,
+          "modelName": "G SERIE Standard Passenger Van",
+          "modelYearFrom": "1973-03-01",
+          "modelYearTo": "1984-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "G15",
+      "displayName": "G15",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 35162,
+          "modelName": "G15 Extended Cargo Van",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 35169,
+          "modelName": "G15 Extended Passenger Van",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 39339,
+          "modelName": "G15 Standard Cargo Van",
+          "modelYearFrom": "1966-09-01",
+          "modelYearTo": "1970-12-01"
+        },
+        {
+          "modelId": 39354,
+          "modelName": "G15 Standard Cargo Van",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 39355,
+          "modelName": "G15 Standard Passenger Van",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1996-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "G1500",
+      "displayName": "G1500",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31763,
+          "modelName": "G1500 Standard Passenger Van",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 35163,
+          "modelName": "G1500 Extended Cargo Van",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 35164,
+          "modelName": "G1500 Standard Cargo Van",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 35170,
+          "modelName": "G1500 Extended Passenger Van",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1996-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "G25",
+      "displayName": "G25",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 35165,
+          "modelName": "G25 Extended Cargo Van",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 35172,
+          "modelName": "G25 Extended Passenger Van",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 39341,
+          "modelName": "G25 Standard Cargo Van",
+          "modelYearFrom": "1966-09-01",
+          "modelYearTo": "1970-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "G2500",
+      "displayName": "G2500",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 35166,
+          "modelName": "G2500 Extended Cargo Van",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 35173,
+          "modelName": "G2500 Extended Passenger Van",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 35174,
+          "modelName": "G2500 Standard Passenger Van",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 36013,
+          "modelName": "G2500 Standard Cargo Van",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1996-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "G35",
+      "displayName": "G35",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11061,
+          "modelName": "G35 Extended Cargo Van",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 31773,
+          "modelName": "G35 Standard Cargo Van",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 31776,
+          "modelName": "G35 Standard Passenger Van",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 39342,
+          "modelName": "G35 Standard Cargo Van",
+          "modelYearFrom": "1966-09-01",
+          "modelYearTo": "1970-12-01"
+        },
+        {
+          "modelId": 39343,
+          "modelName": "G35 Standard Passenger Van",
+          "modelYearFrom": "1966-09-01",
+          "modelYearTo": "1970-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "G3500",
+      "displayName": "G3500",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11062,
+          "modelName": "G3500 Extended Cargo Van",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 11704,
+          "modelName": "G3500 Standard Passenger Van",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 35167,
+          "modelName": "G3500 Cutaway Van",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 35175,
+          "modelName": "G3500 Extended Passenger Van",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 35176,
+          "modelName": "G3500 Standard Cargo Van",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1996-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "HUMMER",
+      "displayName": "HUMMER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42483,
+          "modelName": "HUMMER EV Crew Cab Pickup",
+          "modelYearFrom": "2021-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44153,
+          "modelName": "HUMMER EV SUV (TT)",
+          "modelYearFrom": "2023-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "JIMMY",
+      "displayName": "JIMMY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7932,
+          "modelName": "JIMMY",
+          "modelYearFrom": "1994-10-01",
+          "modelYearTo": "2012-12-01"
+        },
+        {
+          "modelId": 31784,
+          "modelName": "JIMMY",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1991-12-01"
+        },
+        {
+          "modelId": 39374,
+          "modelName": "JIMMY",
+          "modelYearFrom": "1968-09-01",
+          "modelYearTo": "1972-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "K15",
+      "displayName": "K15",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31785,
+          "modelName": "K15 Cab & Chassis",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 31786,
+          "modelName": "K15 Standard Cab Pickup",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 31787,
+          "modelName": "K15 SUBURBAN Véhicule tout terrain fermé",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1991-12-01"
+        },
+        {
+          "modelId": 31788,
+          "modelName": "K15 Pick-up",
+          "modelYearFrom": "1965-09-01",
+          "modelYearTo": "1974-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "K15/K1500",
+      "displayName": "K15/K1500",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11066,
+          "modelName": "K15/K1500 SUBURBAN Véhicule tout terrain fermé",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1991-12-01"
+        },
+        {
+          "modelId": 31789,
+          "modelName": "K15/K1500 SUBURBAN Véhicule tout terrain fermé",
+          "modelYearFrom": "1967-09-01",
+          "modelYearTo": "1974-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "K1500",
+      "displayName": "K1500",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10403,
+          "modelName": "K1500 Standard Cab Pickup",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 31790,
+          "modelName": "K1500 Cab & Chassis",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 31793,
+          "modelName": "K1500 SUBURBAN Véhicule tout terrain fermé",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1991-12-01"
+        },
+        {
+          "modelId": 35177,
+          "modelName": "K1500 Extended Cab Pickup",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 35178,
+          "modelName": "K1500 Standard Cab Pickup",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 35187,
+          "modelName": "K1500 SUBURBAN Véhicule tout terrain fermé",
+          "modelYearFrom": "1991-09-01",
+          "modelYearTo": "2000-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "K25",
+      "displayName": "K25",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31794,
+          "modelName": "K25 Cab & Chassis",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 31797,
+          "modelName": "K25 SUBURBAN Véhicule tout terrain fermé",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1991-12-01"
+        },
+        {
+          "modelId": 35179,
+          "modelName": "K25 Extended Cab Pickup",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 39416,
+          "modelName": "K25 Pick-up",
+          "modelYearFrom": "1966-09-01",
+          "modelYearTo": "1974-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "K25/K2500",
+      "displayName": "K25/K2500",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11067,
+          "modelName": "K25/K2500 SUBURBAN Véhicule tout terrain fermé",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1991-12-01"
+        },
+        {
+          "modelId": 31799,
+          "modelName": "K25/K2500 SUBURBAN Véhicule tout terrain fermé",
+          "modelYearFrom": "1967-09-01",
+          "modelYearTo": "1972-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "K2500",
+      "displayName": "K2500",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11709,
+          "modelName": "K2500 Crew Cab Pickup",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 14583,
+          "modelName": "K2500 Standard Cab Pickup",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 31800,
+          "modelName": "K2500 Cab & Chassis",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 31802,
+          "modelName": "K2500 Extended Cab Pickup",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 31804,
+          "modelName": "K2500 SUBURBAN Véhicule tout terrain fermé",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1991-12-01"
+        },
+        {
+          "modelId": 35180,
+          "modelName": "K2500 Extended Cab Pickup",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 35181,
+          "modelName": "K2500 Standard Cab Pickup",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 35185,
+          "modelName": "K2500 Cab & Chassis",
+          "modelYearFrom": "1987-12-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 35188,
+          "modelName": "K2500 SUBURBAN Véhicule tout terrain fermé",
+          "modelYearFrom": "1991-09-01",
+          "modelYearTo": "1999-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "K35",
+      "displayName": "K35",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31805,
+          "modelName": "K35 Cab & Chassis",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 35182,
+          "modelName": "K35 Crew Cab Pickup",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 38359,
+          "modelName": "K35 Standard Cab Pickup",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 39423,
+          "modelName": "K35 Pick-up",
+          "modelYearFrom": "1966-09-01",
+          "modelYearTo": "1971-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "K35/K3500",
+      "displayName": "K35/K3500",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31809,
+          "modelName": "K35/K3500 Pick-up",
+          "modelYearFrom": "1966-09-01",
+          "modelYearTo": "1974-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "K3500",
+      "displayName": "K3500",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11068,
+          "modelName": "K3500 Crew Cab Pickup",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 14542,
+          "modelName": "K3500 Standard Cab Pickup",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 14547,
+          "modelName": "K3500 Extended Cab Pickup",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 14548,
+          "modelName": "K3500 Extended Cab Pickup",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 31810,
+          "modelName": "K3500 Cab & Chassis",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 35183,
+          "modelName": "K3500 Crew Cab Pickup",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 35184,
+          "modelName": "K3500 Standard Cab Pickup",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 35186,
+          "modelName": "K3500 Cab & Chassis",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "2000-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "P15",
+      "displayName": "P15",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31814,
+          "modelName": "P15 Standard Cargo Van",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1979-12-01"
+        },
+        {
+          "modelId": 31815,
+          "modelName": "P15 Stripped Chassis",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1978-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "P1500",
+      "displayName": "P1500",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31817,
+          "modelName": "P1500 Standard Cargo Van",
+          "modelYearFrom": "1978-09-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 31818,
+          "modelName": "P1500 Stripped Chassis",
+          "modelYearFrom": "1978-09-01",
+          "modelYearTo": "1980-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "P25",
+      "displayName": "P25",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31819,
+          "modelName": "P25 Standard Cargo Van",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1978-12-01"
+        },
+        {
+          "modelId": 31820,
+          "modelName": "P25 Stripped Chassis",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1979-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "P2500",
+      "displayName": "P2500",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31822,
+          "modelName": "P2500 Standard Cargo Van",
+          "modelYearFrom": "1978-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 35189,
+          "modelName": "P2500 Stripped Chassis",
+          "modelYearFrom": "1978-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 35190,
+          "modelName": "P2500 Stripped Chassis",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "1989-12-01"
+        },
+        {
+          "modelId": 35805,
+          "modelName": "P2500 Standard Cargo Van",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "1989-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "P35",
+      "displayName": "P35",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31824,
+          "modelName": "P35 Standard Cargo Van",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1978-12-01"
+        },
+        {
+          "modelId": 31825,
+          "modelName": "P35 Stripped Chassis",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1994-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "P3500",
+      "displayName": "P3500",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31828,
+          "modelName": "P3500 Standard Cargo Van",
+          "modelYearFrom": "1978-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 35191,
+          "modelName": "P3500 Cab & Chassis",
+          "modelYearFrom": "1986-09-01",
+          "modelYearTo": "1999-12-01"
+        },
+        {
+          "modelId": 35192,
+          "modelName": "P3500 Stripped Chassis",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "1999-12-01"
+        },
+        {
+          "modelId": 35193,
+          "modelName": "P3500 Standard Cargo Van",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "1999-12-01"
+        },
+        {
+          "modelId": 36191,
+          "modelName": "P3500 Stripped Chassis",
+          "modelYearFrom": "1978-09-01",
+          "modelYearTo": "1987-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "R1500",
+      "displayName": "R1500",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31834,
+          "modelName": "R1500 Standard Cab Pickup",
+          "modelYearFrom": "1986-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 31835,
+          "modelName": "R1500 SUBURBAN Véhicule tout terrain fermé",
+          "modelYearFrom": "1986-09-01",
+          "modelYearTo": "1991-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "R2500",
+      "displayName": "R2500",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14599,
+          "modelName": "R2500 Standard Cab Pickup",
+          "modelYearFrom": "1986-09-01",
+          "modelYearTo": "1999-12-01"
+        },
+        {
+          "modelId": 14601,
+          "modelName": "R2500 Cab & Chassis",
+          "modelYearFrom": "1986-09-01",
+          "modelYearTo": "1999-12-01"
+        },
+        {
+          "modelId": 31839,
+          "modelName": "R2500 SUBURBAN Véhicule tout terrain fermé",
+          "modelYearFrom": "1986-09-01",
+          "modelYearTo": "1991-12-01"
+        },
+        {
+          "modelId": 35194,
+          "modelName": "R2500 Crew Cab Pickup",
+          "modelYearFrom": "1986-09-01",
+          "modelYearTo": "2000-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "R3500",
+      "displayName": "R3500",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14594,
+          "modelName": "R3500 Standard Cab Pickup",
+          "modelYearFrom": "1986-09-01",
+          "modelYearTo": "1991-12-01"
+        },
+        {
+          "modelId": 31840,
+          "modelName": "R3500 Cab & Chassis",
+          "modelYearFrom": "1986-09-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 35195,
+          "modelName": "R3500 Crew Cab Pickup",
+          "modelYearFrom": "1986-09-01",
+          "modelYearTo": "2000-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "S15",
+      "displayName": "S15",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31843,
+          "modelName": "S15 Cab & Chassis",
+          "modelYearFrom": "1981-09-01",
+          "modelYearTo": "1994-12-01"
+        },
+        {
+          "modelId": 31846,
+          "modelName": "S15 JIMMY SUV",
+          "modelYearFrom": "1982-09-01",
+          "modelYearTo": "1994-12-01"
+        },
+        {
+          "modelId": 35196,
+          "modelName": "S15 Extended Cab Pickup",
+          "modelYearFrom": "1981-09-01",
+          "modelYearTo": "1994-12-01"
+        },
+        {
+          "modelId": 35197,
+          "modelName": "S15 Standard Cab Pickup",
+          "modelYearFrom": "1981-09-01",
+          "modelYearTo": "1994-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "SAFARI",
+      "displayName": "SAFARI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11070,
+          "modelName": "SAFARI Extended Cargo Van",
+          "modelYearFrom": "1994-09-01",
+          "modelYearTo": "2005-12-01"
+        },
+        {
+          "modelId": 11712,
+          "modelName": "SAFARI Standard Cargo Van",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1995-12-01"
+        },
+        {
+          "modelId": 11713,
+          "modelName": "SAFARI Standard Passenger Van",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1995-12-01"
+        },
+        {
+          "modelId": 11879,
+          "modelName": "SAFARI Extended Passenger Van",
+          "modelYearFrom": "1994-09-01",
+          "modelYearTo": "2005-12-01"
+        },
+        {
+          "modelId": 35199,
+          "modelName": "SAFARI Extended Passenger Van",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1994-12-01"
+        },
+        {
+          "modelId": 35200,
+          "modelName": "SAFARI Standard Passenger Van",
+          "modelYearFrom": "1994-09-01",
+          "modelYearTo": "2005-12-01"
+        },
+        {
+          "modelId": 35201,
+          "modelName": "SAFARI Extended Cargo Van",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1994-12-01"
+        },
+        {
+          "modelId": 35202,
+          "modelName": "SAFARI Standard Cargo Van",
+          "modelYearFrom": "1994-09-01",
+          "modelYearTo": "2005-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "SAVANA",
+      "displayName": "SAVANA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10235,
+          "modelName": "SAVANA 4500 Cutaway Van",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10780,
+          "modelName": "SAVANA 2500 Extended Cargo Van",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10784,
+          "modelName": "SAVANA 3500 Extended Passenger Van",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11714,
+          "modelName": "SAVANA 2500 Extended Passenger Van",
+          "modelYearFrom": "1995-09-01",
+          "modelYearTo": "2002-12-01"
+        },
+        {
+          "modelId": 11715,
+          "modelName": "SAVANA 2500 Extended Passenger Van",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13869,
+          "modelName": "SAVANA",
+          "modelYearFrom": "2010-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14287,
+          "modelName": "SAVANA 2500 Standard Passenger Van",
+          "modelYearFrom": "1995-09-01",
+          "modelYearTo": "2002-12-01"
+        },
+        {
+          "modelId": 14288,
+          "modelName": "SAVANA 2500 Standard Cargo Van",
+          "modelYearFrom": "1995-09-01",
+          "modelYearTo": "2002-12-01"
+        },
+        {
+          "modelId": 14290,
+          "modelName": "SAVANA 3500 Standard Passenger Van",
+          "modelYearFrom": "1995-09-01",
+          "modelYearTo": "2002-12-01"
+        },
+        {
+          "modelId": 14291,
+          "modelName": "SAVANA 3500 Extended Cargo Van",
+          "modelYearFrom": "1995-09-01",
+          "modelYearTo": "2002-12-01"
+        },
+        {
+          "modelId": 14292,
+          "modelName": "SAVANA 3500 Standard Cargo Van",
+          "modelYearFrom": "1995-09-01",
+          "modelYearTo": "2002-12-01"
+        },
+        {
+          "modelId": 31852,
+          "modelName": "SAVANA 1500 Standard Cargo Van",
+          "modelYearFrom": "1995-09-01",
+          "modelYearTo": "2002-12-01"
+        },
+        {
+          "modelId": 31853,
+          "modelName": "SAVANA 1500 Standard Passenger Van",
+          "modelYearFrom": "1995-09-01",
+          "modelYearTo": "2002-12-01"
+        },
+        {
+          "modelId": 35203,
+          "modelName": "SAVANA 1500 Standard Passenger Van",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 35204,
+          "modelName": "SAVANA 1500 Standard Cargo Van",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 35206,
+          "modelName": "SAVANA 2500 Standard Passenger Van",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 35207,
+          "modelName": "SAVANA 2500 Extended Cargo Van",
+          "modelYearFrom": "1995-09-01",
+          "modelYearTo": "2002-12-01"
+        },
+        {
+          "modelId": 35208,
+          "modelName": "SAVANA 2500 Standard Cargo Van",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 35209,
+          "modelName": "SAVANA 3500 Extended Passenger Van",
+          "modelYearFrom": "1995-09-01",
+          "modelYearTo": "2002-12-01"
+        },
+        {
+          "modelId": 35210,
+          "modelName": "SAVANA 3500 Standard Passenger Van",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 35211,
+          "modelName": "SAVANA 3500 Cutaway Van",
+          "modelYearFrom": "1995-09-01",
+          "modelYearTo": "2002-12-01"
+        },
+        {
+          "modelId": 35212,
+          "modelName": "SAVANA 3500 Standard Cargo Van",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 36015,
+          "modelName": "SAVANA 3500 Cutaway Van",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 36016,
+          "modelName": "SAVANA 3500 Extended Cargo Van",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "SIERRA",
+      "displayName": "SIERRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6847,
+          "modelName": "SIERRA",
+          "modelYearFrom": "1996-05-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 10292,
+          "modelName": "SIERRA",
+          "modelYearFrom": "2007-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10668,
+          "modelName": "SIERRA 1500 Extended Cab Pickup",
+          "modelYearFrom": "2007-01-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 10669,
+          "modelName": "SIERRA Standard Cab Pickup",
+          "modelYearFrom": "2006-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11071,
+          "modelName": "SIERRA 1500 Extended Cab Pickup",
+          "modelYearFrom": "1997-09-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 11072,
+          "modelName": "SIERRA 1500 Standard Cab Pickup",
+          "modelYearFrom": "1997-09-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 11073,
+          "modelName": "SIERRA 2500 Extended Cab Pickup",
+          "modelYearFrom": "1997-09-01",
+          "modelYearTo": "2006-12-01"
+        },
+        {
+          "modelId": 12852,
+          "modelName": "SIERRA 1500 Crew Cab Pickup",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 12853,
+          "modelName": "SIERRA 1500 Extended Cab Pickup",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 12854,
+          "modelName": "SIERRA 1500 Standard Cab Pickup",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 12985,
+          "modelName": "SIERRA 2500 HD Standard Cab Pickup",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 12986,
+          "modelName": "SIERRA 2500 HD Extended Cab Pickup",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 12987,
+          "modelName": "SIERRA 2500 HD Crew Cab Pickup",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 12988,
+          "modelName": "SIERRA 3500 HD Standard Cab Pickup",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 12989,
+          "modelName": "SIERRA 3500 HD Crew Cab Pickup",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 12990,
+          "modelName": "SIERRA 3500 HD Extended Cab Pickup",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 12991,
+          "modelName": "SIERRA 3500 HD Cab & Chassis",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13113,
+          "modelName": "SIERRA Crew Cab Pickup",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13114,
+          "modelName": "SIERRA Standard Cab Pickup",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14264,
+          "modelName": "SIERRA 2500 HD Extended Cab Pickup",
+          "modelYearFrom": "2000-09-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 14265,
+          "modelName": "SIERRA 2500 HD Standard Cab Pickup",
+          "modelYearFrom": "2000-09-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 14629,
+          "modelName": "SIERRA 2500 Standard Cab Pickup",
+          "modelYearFrom": "1997-09-01",
+          "modelYearTo": "2006-12-01"
+        },
+        {
+          "modelId": 31868,
+          "modelName": "SIERRA 1500 HD Crew Cab Pickup",
+          "modelYearFrom": "2000-09-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 31869,
+          "modelName": "SIERRA 2500 Cab & Chassis",
+          "modelYearFrom": "1997-09-01",
+          "modelYearTo": "2006-12-01"
+        },
+        {
+          "modelId": 31873,
+          "modelName": "SIERRA 2500 HD Cab & Chassis",
+          "modelYearFrom": "2000-09-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 31877,
+          "modelName": "SIERRA 3500 Cab & Chassis",
+          "modelYearFrom": "2000-09-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 31883,
+          "modelName": "SIERRA Extended Cab Pickup",
+          "modelYearFrom": "1998-10-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 34500,
+          "modelName": "SIERRA Crew Cab Pickup",
+          "modelYearFrom": "2006-09-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 35213,
+          "modelName": "SIERRA 1500 Crew Cab Pickup",
+          "modelYearFrom": "1997-09-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 35214,
+          "modelName": "SIERRA 2500 HD Crew Cab Pickup",
+          "modelYearFrom": "2000-09-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 35215,
+          "modelName": "SIERRA 3500 Crew Cab Pickup",
+          "modelYearFrom": "2000-09-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 35806,
+          "modelName": "SIERRA 2500 Crew Cab Pickup",
+          "modelYearFrom": "1997-09-01",
+          "modelYearTo": "2006-12-01"
+        },
+        {
+          "modelId": 36017,
+          "modelName": "SIERRA 1500 Crew Cab Pickup",
+          "modelYearFrom": "2006-09-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 36019,
+          "modelName": "SIERRA 1500 Standard Cab Pickup",
+          "modelYearFrom": "2007-01-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 36020,
+          "modelName": "SIERRA 2500 HD Cab & Chassis",
+          "modelYearFrom": "2006-09-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 36021,
+          "modelName": "SIERRA 2500 HD Crew Cab Pickup",
+          "modelYearFrom": "2006-09-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 36022,
+          "modelName": "SIERRA 2500 HD Extended Cab Pickup",
+          "modelYearFrom": "2006-09-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 36023,
+          "modelName": "SIERRA 2500 HD Standard Cab Pickup",
+          "modelYearFrom": "2006-09-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 36024,
+          "modelName": "SIERRA 3500 HD Cab & Chassis",
+          "modelYearFrom": "2006-09-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 36025,
+          "modelName": "SIERRA 3500 HD Crew Cab Pickup",
+          "modelYearFrom": "2006-09-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 36026,
+          "modelName": "SIERRA 3500 HD Extended Cab Pickup",
+          "modelYearFrom": "2006-09-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 36027,
+          "modelName": "SIERRA 3500 HD Standard Cab Pickup",
+          "modelYearFrom": "2006-09-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 39433,
+          "modelName": "SIERRA 2500 HD Cab & Chassis",
+          "modelYearFrom": "2013-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40444,
+          "modelName": "SIERRA 2500 HD Standard Cab Pickup (C20, K20)",
+          "modelYearFrom": "2019-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40445,
+          "modelName": "SIERRA 2500 HD Crew Cab Pickup (C20, K20)",
+          "modelYearFrom": "2019-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40447,
+          "modelName": "SIERRA 2500 HD Extended Cab Pickup (C20, K20)",
+          "modelYearFrom": "2019-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40453,
+          "modelName": "SIERRA 3500 HD Standard Cab Pickup",
+          "modelYearFrom": "2019-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40454,
+          "modelName": "SIERRA 3500 HD Crew Cab Pickup",
+          "modelYearFrom": "2019-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40455,
+          "modelName": "SIERRA 3500 HD Extended Cab Pickup",
+          "modelYearFrom": "2019-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40474,
+          "modelName": "SIERRA 1500 Standard Cab Pickup",
+          "modelYearFrom": "2019-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40475,
+          "modelName": "SIERRA 1500 Crew Cab Pickup",
+          "modelYearFrom": "2019-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40476,
+          "modelName": "SIERRA 1500 Extended Cab Pickup",
+          "modelYearFrom": "2019-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40478,
+          "modelName": "SIERRA Crew Cab Pickup",
+          "modelYearFrom": "2019-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40479,
+          "modelName": "SIERRA Standard Cab Pickup",
+          "modelYearFrom": "2019-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44040,
+          "modelName": "SIERRA 3500 HD Cab & Chassis",
+          "modelYearFrom": "2019-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45649,
+          "modelName": "SIERRA EV Crew Cab Pickup",
+          "modelYearFrom": "2024-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "SONOMA",
+      "displayName": "SONOMA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11075,
+          "modelName": "SONOMA Extended Cab Pickup",
+          "modelYearFrom": "1981-09-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 11076,
+          "modelName": "SONOMA Standard Cab Pickup",
+          "modelYearFrom": "1981-09-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 11077,
+          "modelName": "SONOMA Extended Cab Pickup",
+          "modelYearFrom": "1993-09-01",
+          "modelYearTo": "2004-12-01"
+        },
+        {
+          "modelId": 14293,
+          "modelName": "SONOMA Standard Cab Pickup",
+          "modelYearFrom": "1993-09-01",
+          "modelYearTo": "2003-12-01"
+        },
+        {
+          "modelId": 35217,
+          "modelName": "SONOMA Crew Cab Pickup",
+          "modelYearFrom": "1993-09-01",
+          "modelYearTo": "2004-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "SPRINT",
+      "displayName": "SPRINT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31888,
+          "modelName": "SPRINT Standard Cab Pickup",
+          "modelYearFrom": "1969-09-01",
+          "modelYearTo": "1977-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "SUBURBAN",
+      "displayName": "SUBURBAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7451,
+          "modelName": "SUBURBAN",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1999-09-01"
+        },
+        {
+          "modelId": 7452,
+          "modelName": "SUBURBAN",
+          "modelYearFrom": "1999-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "SYCLONE",
+      "displayName": "SYCLONE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31890,
+          "modelName": "SYCLONE Standard Cab Pickup",
+          "modelYearFrom": "1990-09-01",
+          "modelYearTo": "1991-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "TERRAIN",
+      "displayName": "TERRAIN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10293,
+          "modelName": "TERRAIN",
+          "modelYearFrom": "2009-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38512,
+          "modelName": "TERRAIN",
+          "modelYearFrom": "2017-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "TRACKER",
+      "displayName": "TRACKER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36031,
+          "modelName": "TRACKER Véhicule tout terrain fermé",
+          "modelYearFrom": "1988-09-01",
+          "modelYearTo": "1991-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "TRUCK",
+      "displayName": "TRUCK",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31891,
+          "modelName": "TRUCK",
+          "modelYearFrom": "1952-09-01",
+          "modelYearTo": "1960-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "TYPHOON",
+      "displayName": "TYPHOON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31892,
+          "modelName": "TYPHOON Véhicule tout terrain fermé",
+          "modelYearFrom": "1991-09-01",
+          "modelYearTo": "1993-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "V1500",
+      "displayName": "V1500",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31893,
+          "modelName": "V1500 Standard Cab Pickup",
+          "modelYearFrom": "1986-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 31894,
+          "modelName": "V1500 SUBURBAN Véhicule tout terrain fermé",
+          "modelYearFrom": "1986-09-01",
+          "modelYearTo": "1991-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "V2500",
+      "displayName": "V2500",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31895,
+          "modelName": "V2500 Standard Cab Pickup",
+          "modelYearFrom": "1986-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 31896,
+          "modelName": "V2500 SUBURBAN Véhicule tout terrain fermé",
+          "modelYearFrom": "1986-09-01",
+          "modelYearTo": "1991-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "V3500",
+      "displayName": "V3500",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14592,
+          "modelName": "V3500 Standard Cab Pickup",
+          "modelYearFrom": "1986-09-01",
+          "modelYearTo": "1991-12-01"
+        },
+        {
+          "modelId": 31898,
+          "modelName": "V3500 Cab & Chassis",
+          "modelYearFrom": "1986-09-01",
+          "modelYearTo": "1991-12-01"
+        },
+        {
+          "modelId": 35219,
+          "modelName": "V3500 Crew Cab Pickup",
+          "modelYearFrom": "1986-09-01",
+          "modelYearTo": "1991-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 39,
+      "manufacturerName": "GMC",
+      "groupKey": "YUKON",
+      "displayName": "YUKON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6848,
+          "modelName": "YUKON",
+          "modelYearFrom": "1991-04-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 10294,
+          "modelName": "YUKON (GMT900)",
+          "modelYearFrom": "2006-09-01",
+          "modelYearTo": "2014-07-01"
+        },
+        {
+          "modelId": 12984,
+          "modelName": "YUKON (K2UG)",
+          "modelYearFrom": "2014-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 31901,
+          "modelName": "YUKON",
+          "modelYearFrom": "1999-09-01",
+          "modelYearTo": "2006-12-01"
+        },
+        {
+          "modelId": 31904,
+          "modelName": "YUKON XL 1500",
+          "modelYearFrom": "1999-09-01",
+          "modelYearTo": "2006-12-01"
+        },
+        {
+          "modelId": 31905,
+          "modelName": "YUKON XL 2500",
+          "modelYearFrom": "1999-09-01",
+          "modelYearTo": "2006-12-01"
+        },
+        {
+          "modelId": 36028,
+          "modelName": "YUKON XL 2500",
+          "modelYearFrom": "2006-09-01",
+          "modelYearTo": "2014-12-01"
+        },
+        {
+          "modelId": 36029,
+          "modelName": "YUKON XL 1500",
+          "modelYearFrom": "2006-09-01",
+          "modelYearTo": "2014-07-01"
+        },
+        {
+          "modelId": 39802,
+          "modelName": "YUKON XL (K2Y)",
+          "modelYearFrom": "2014-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40958,
+          "modelName": "YUKON (GMT1UG)",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40959,
+          "modelName": "YUKON XL (GMT1YG)",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

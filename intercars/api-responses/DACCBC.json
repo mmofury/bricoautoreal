@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "DACCBC",
+      "index": "FE38048",
+      "tecDoc": "38048",
+      "tecDocProd": "101",
+      "articleNumber": "38048",
+      "brand": "FEBI",
+      "shortDescription": "Fuel Filter",
+      "description": "Fuel filter fits: MERCEDES O 302, T2/L OM355.960-OM360.985 01.59-01.95",
+      "eans": [
+        "4027816380481"
+      ],
+      "packageWeight": "2,013",
+      "packageWidth": "23,000",
+      "packageDepth": "23,000",
+      "packageHeight": "16,000",
+      "customsCode": "84212300",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_9",
+          "primary": true,
+          "name": {
+            "en": "Fuel Filter"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_600",
+          "primary": false,
+          "name": {
+            "en": "Housing, fuel filter"
+          }
+        }
+      ]
+    }
+  ]
+}

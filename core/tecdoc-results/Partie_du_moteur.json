@@ -1,0 +1,106 @@
+{
+  "productName": "Partie du moteur",
+  "searchText": "Partie du moteur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:19:14.978Z",
+  "productId": 1265,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Moteur complet / Partie du moteur": {
+          "categoryId": null,
+          "categoryName": "Moteur complet / Partie du moteur",
+          "level": 2,
+          "children": {
+            "Moteur complet": {
+              "categoryId": 100700,
+              "categoryName": "Complete/Partial Engine",
+              "level": 2,
+              "children": {
+                "Moteur complet": {
+                  "categoryId": null,
+                  "categoryName": "Moteur complet",
+                  "level": 4,
+                  "children": {
+                    "Moteur complet": {
+                      "categoryId": 100701,
+                      "categoryName": "Complete Engine",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1264
+                    }
+                  }
+                }
+              },
+              "productId": 1264
+            },
+            "Partie du moteur": {
+              "categoryId": 100700,
+              "categoryName": "Complete/Partial Engine",
+              "level": 2,
+              "children": {
+                "Partie du moteur": {
+                  "categoryId": null,
+                  "categoryName": "Partie du moteur",
+                  "level": 4,
+                  "children": {
+                    "Partie du moteur": {
+                      "categoryId": 100702,
+                      "categoryName": "Partial Engine",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1265
+                    }
+                  }
+                }
+              },
+              "productId": 1265
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Moteur complet / Partie du moteur (Niveau 2)\n        ├── Complete/Partial Engine [ID: 100700] (Niveau 2) → ProductId: 1264\n        │   └── Moteur complet (Niveau 4)\n        │       └── Complete Engine [ID: 100701] (Niveau 3) → ProductId: 1264\n        └── Complete/Partial Engine [ID: 100700] (Niveau 2) → ProductId: 1265\n            └── Partie du moteur (Niveau 4)\n                └── Partial Engine [ID: 100702] (Niveau 3) → ProductId: 1265",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Moteur complet / Partie du moteur",
+        "Complete/Partial Engine"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100700
+      ],
+      "finalCategoryId": 100700,
+      "productId": 1264
+    },
+    {
+      "path": [
+        "Moteur",
+        "Moteur complet / Partie du moteur",
+        "Complete/Partial Engine"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100700
+      ],
+      "finalCategoryId": 100700,
+      "productId": 1265
+    }
+  ],
+  "productIdsInArbo": [
+    1264,
+    1265
+  ],
+  "matchedProductIds": [
+    1265
+  ]
+}

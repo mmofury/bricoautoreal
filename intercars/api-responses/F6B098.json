@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "F6B098",
+      "index": "ADG05528",
+      "tecDoc": "ADG05528",
+      "tecDocProd": "350",
+      "articleNumber": "ADG05528",
+      "brand": "BLUE PRINT",
+      "shortDescription": "Vent Hose, fuel tank",
+      "description": "Fuel tank elements (fuel tank breather hose) (Diesel)",
+      "customsCode": "40169952",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_2341",
+          "primary": false,
+          "name": {
+            "en": "Bleeding Hose"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1697",
+          "primary": true,
+          "name": {
+            "en": "Vent Hose, fuel tank"
+          }
+        }
+      ]
+    }
+  ]
+}

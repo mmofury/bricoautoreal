@@ -1,0 +1,57 @@
+{
+  "productName": "Additif au carburant",
+  "searchText": "Additif au carburant",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T18:48:54.806Z",
+  "productId": 3470,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Additifs": {
+          "categoryId": null,
+          "categoryName": "Additifs",
+          "level": 2,
+          "children": {
+            "Additif au carburant": {
+              "categoryId": 706479,
+              "categoryName": "Additive",
+              "level": 2,
+              "children": [],
+              "productId": 9797
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Alimentation carburant [ID: 100214] (Niveau 1)\n    └── Additifs (Niveau 2)\n        └── Additive [ID: 706479] (Niveau 2) → ProductId: 9797",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Additifs",
+        "Additive"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        706479
+      ],
+      "finalCategoryId": 706479,
+      "productId": 9797
+    }
+  ],
+  "productIdsInArbo": [
+    9797
+  ],
+  "closestProductIds": [
+    {
+      "productId": 9797,
+      "productName": "Additif au carburant"
+    }
+  ]
+}

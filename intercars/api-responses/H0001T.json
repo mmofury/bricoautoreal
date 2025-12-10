@@ -1,0 +1,36 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H0001T",
+      "index": "GS8924",
+      "tecDoc": "GS8924",
+      "tecDocProd": "161",
+      "articleNumber": "GS8924",
+      "brand": "TRW",
+      "shortDescription": "Brake shoe set",
+      "description": "Brake shoe fits: MAZDA TRIBUTE 2.0/2.3/3.0 03.00-05.08",
+      "gtuCode": "GTU_07",
+      "customsCode": "87083099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_70",
+          "primary": true,
+          "name": {
+            "en": "Brake shoe set"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1419",
+          "primary": false,
+          "name": {
+            "en": "Brake Shoe Set, parking brake"
+          }
+        }
+      ]
+    }
+  ]
+}

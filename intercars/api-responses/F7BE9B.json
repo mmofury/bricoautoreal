@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "F7BE9B",
+      "index": "090106",
+      "tecDoc": "090106",
+      "tecDocProd": "168",
+      "articleNumber": "090106",
+      "brand": "MOTIP",
+      "shortDescription": "Primers",
+      "description": "Anticorrosion agent (0,15L)",
+      "packageWeight": "0,550",
+      "packageWidth": "6,500",
+      "packageDepth": "1,000",
+      "packageHeight": "24,000",
+      "customsCode": "32089019",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1869",
+          "primary": false,
+          "name": {
+            "en": "Rust Protection Primer"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91657",
+          "primary": true,
+          "name": {
+            "en": "Primers"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,619 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.486Z",
+  "manufacturer": "SKODA",
+  "countGroups": 24,
+  "groups": [
+    {
+      "manufacturerId": 106,
+      "manufacturerName": "SKODA",
+      "groupKey": "100",
+      "displayName": "100",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 268,
+          "modelName": "100",
+          "modelYearFrom": "1970-01-01",
+          "modelYearTo": "1977-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 106,
+      "manufacturerName": "SKODA",
+      "groupKey": "1000MB",
+      "displayName": "1000MB",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1814,
+          "modelName": "1000MB (710, 990)",
+          "modelYearFrom": "1964-09-01",
+          "modelYearTo": "1970-01-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 106,
+      "manufacturerName": "SKODA",
+      "groupKey": "105",
+      "displayName": "105",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 272,
+          "modelName": "105,120 (742)",
+          "modelYearFrom": "1976-08-01",
+          "modelYearTo": "1990-12-01"
+        },
+        {
+          "modelId": 3992,
+          "modelName": "105,120 (744)",
+          "modelYearFrom": "1983-02-01",
+          "modelYearTo": "1990-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 106,
+      "manufacturerName": "SKODA",
+      "groupKey": "110",
+      "displayName": "110",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1816,
+          "modelName": "110",
+          "modelYearFrom": "1969-12-01",
+          "modelYearTo": "1982-03-01"
+        },
+        {
+          "modelId": 2085,
+          "modelName": "110 Coupé",
+          "modelYearFrom": "1970-07-01",
+          "modelYearTo": "1982-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 106,
+      "manufacturerName": "SKODA",
+      "groupKey": "1100MB",
+      "displayName": "1100MB",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3993,
+          "modelName": "1100MB (715)",
+          "modelYearFrom": "1969-01-01",
+          "modelYearTo": "1970-01-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 106,
+      "manufacturerName": "SKODA",
+      "groupKey": "130",
+      "displayName": "130",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1817,
+          "modelName": "130",
+          "modelYearFrom": "1985-02-01",
+          "modelYearTo": "1991-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 106,
+      "manufacturerName": "SKODA",
+      "groupKey": "CITIGO",
+      "displayName": "CITIGO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10126,
+          "modelName": "CITIGO (NF1)",
+          "modelYearFrom": "2011-10-01",
+          "modelYearTo": "2019-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 106,
+      "manufacturerName": "SKODA",
+      "groupKey": "E",
+      "displayName": "E",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40839,
+          "modelName": "E-CITIGO (NE1)",
+          "modelYearFrom": "2019-09-01",
+          "modelYearTo": "2021-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 106,
+      "manufacturerName": "SKODA",
+      "groupKey": "ELROQ",
+      "displayName": "ELROQ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45683,
+          "modelName": "ELROQ (PYL)",
+          "modelYearFrom": "2024-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 106,
+      "manufacturerName": "SKODA",
+      "groupKey": "ENYAQ",
+      "displayName": "ENYAQ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41279,
+          "modelName": "ENYAQ iV SUV (5AZ)",
+          "modelYearFrom": "2020-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42681,
+          "modelName": "ENYAQ iV Coupe (5AC)",
+          "modelYearFrom": "2021-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 106,
+      "manufacturerName": "SKODA",
+      "groupKey": "FABIA",
+      "displayName": "FABIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4383,
+          "modelName": "FABIA I (6Y2)",
+          "modelYearFrom": "1999-08-01",
+          "modelYearTo": "2008-03-01"
+        },
+        {
+          "modelId": 4727,
+          "modelName": "FABIA I Combi (6Y5)",
+          "modelYearFrom": "2000-04-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 4777,
+          "modelName": "FABIA I A trois volumes (6Y3)",
+          "modelYearFrom": "1999-10-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 5009,
+          "modelName": "FABIA I Praktik (6Y5)",
+          "modelYearFrom": "2000-01-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 6363,
+          "modelName": "FABIA II (542)",
+          "modelYearFrom": "2006-12-01",
+          "modelYearTo": "2014-12-01"
+        },
+        {
+          "modelId": 6395,
+          "modelName": "FABIA II Combi (545)",
+          "modelYearFrom": "2007-10-01",
+          "modelYearTo": "2014-12-01"
+        },
+        {
+          "modelId": 13331,
+          "modelName": "FABIA III (NJ3)",
+          "modelYearFrom": "2014-08-01",
+          "modelYearTo": "2021-06-01"
+        },
+        {
+          "modelId": 13332,
+          "modelName": "FABIA III Break (NJ5)",
+          "modelYearFrom": "2014-08-01",
+          "modelYearTo": "2022-12-01"
+        },
+        {
+          "modelId": 42133,
+          "modelName": "FABIA IV (PJ3)",
+          "modelYearFrom": "2021-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44365,
+          "modelName": "FABIA II Praktik (545)",
+          "modelYearFrom": "2006-12-01",
+          "modelYearTo": "2014-12-01"
+        },
+        {
+          "modelId": 44366,
+          "modelName": "FABIA III Praktik (NJ5)",
+          "modelYearFrom": "2014-08-01",
+          "modelYearTo": "2022-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 106,
+      "manufacturerName": "SKODA",
+      "groupKey": "FAVORIT",
+      "displayName": "FAVORIT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 398,
+          "modelName": "FAVORIT (781)",
+          "modelYearFrom": "1989-05-01",
+          "modelYearTo": "1994-09-01"
+        },
+        {
+          "modelId": 426,
+          "modelName": "FAVORIT Forman (785)",
+          "modelYearFrom": "1988-06-01",
+          "modelYearTo": "1995-06-01"
+        },
+        {
+          "modelId": 4074,
+          "modelName": "FAVORIT Pick-up (787)",
+          "modelYearFrom": "1992-06-01",
+          "modelYearTo": "1997-06-01"
+        },
+        {
+          "modelId": 41769,
+          "modelName": "FAVORIT Fourgon/Break (785)",
+          "modelYearFrom": "1989-01-01",
+          "modelYearTo": "1995-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 106,
+      "manufacturerName": "SKODA",
+      "groupKey": "FELICIA",
+      "displayName": "FELICIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1319,
+          "modelName": "FELICIA I (6U1)",
+          "modelYearFrom": "1994-10-01",
+          "modelYearTo": "1998-03-01"
+        },
+        {
+          "modelId": 1480,
+          "modelName": "FELICIA I Break (6U5)",
+          "modelYearFrom": "1995-07-01",
+          "modelYearTo": "1998-03-01"
+        },
+        {
+          "modelId": 3994,
+          "modelName": "FELICIA I Pick-up (6UF, 6U7)",
+          "modelYearFrom": "1995-10-01",
+          "modelYearTo": "2002-04-01"
+        },
+        {
+          "modelId": 4075,
+          "modelName": "FELICIA II (6U1)",
+          "modelYearFrom": "1998-01-01",
+          "modelYearTo": "2001-06-01"
+        },
+        {
+          "modelId": 4076,
+          "modelName": "FELICIA II Break (6U5)",
+          "modelYearFrom": "1995-07-01",
+          "modelYearTo": "2001-06-01"
+        },
+        {
+          "modelId": 38756,
+          "modelName": "FELICIA Cube Van (6U5)",
+          "modelYearFrom": "1995-11-01",
+          "modelYearTo": "2001-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 106,
+      "manufacturerName": "SKODA",
+      "groupKey": "KAMIQ",
+      "displayName": "KAMIQ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39796,
+          "modelName": "KAMIQ (NW4)",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 106,
+      "manufacturerName": "SKODA",
+      "groupKey": "KAROQ",
+      "displayName": "KAROQ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38149,
+          "modelName": "KAROQ (NU7, ND7)",
+          "modelYearFrom": "2017-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 106,
+      "manufacturerName": "SKODA",
+      "groupKey": "KODIAQ",
+      "displayName": "KODIAQ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37164,
+          "modelName": "KODIAQ I (NS6, NS7, NV7)",
+          "modelYearFrom": "2016-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45125,
+          "modelName": "KODIAQ II (PS7)",
+          "modelYearFrom": "2024-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 90085,
+          "modelName": "KODIAQ I (NS6, NS7, NV7)",
+          "modelYearFrom": "2016-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 106,
+      "manufacturerName": "SKODA",
+      "groupKey": "KUSHAQ",
+      "displayName": "KUSHAQ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42384,
+          "modelName": "KUSHAQ SUV (PA1)",
+          "modelYearFrom": "2021-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 106,
+      "manufacturerName": "SKODA",
+      "groupKey": "OCTAVIA",
+      "displayName": "OCTAVIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1815,
+          "modelName": "OCTAVIA",
+          "modelYearFrom": "1959-04-01",
+          "modelYearTo": "1971-10-01"
+        },
+        {
+          "modelId": 1904,
+          "modelName": "OCTAVIA I (1U2)",
+          "modelYearFrom": "1996-09-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 3560,
+          "modelName": "OCTAVIA I Combi (1U5)",
+          "modelYearFrom": "1998-07-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 5120,
+          "modelName": "OCTAVIA II (1Z3)",
+          "modelYearFrom": "2004-02-01",
+          "modelYearTo": "2013-06-01"
+        },
+        {
+          "modelId": 5162,
+          "modelName": "OCTAVIA II Combi (1Z5)",
+          "modelYearFrom": "2004-02-01",
+          "modelYearTo": "2013-06-01"
+        },
+        {
+          "modelId": 11195,
+          "modelName": "OCTAVIA III (5E3, NL3, NR3)",
+          "modelYearFrom": "2012-11-01",
+          "modelYearTo": "2021-03-01"
+        },
+        {
+          "modelId": 11196,
+          "modelName": "OCTAVIA III Combi (5E5, 5E6)",
+          "modelYearFrom": "2012-11-01",
+          "modelYearTo": "2020-10-01"
+        },
+        {
+          "modelId": 39014,
+          "modelName": "OCTAVIA I Fourgon/Break (1U5)",
+          "modelYearFrom": "2000-08-01",
+          "modelYearTo": "2010-03-01"
+        },
+        {
+          "modelId": 40412,
+          "modelName": "OCTAVIA IV Combi (NX5, PV5)",
+          "modelYearFrom": "2019-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40538,
+          "modelName": "OCTAVIA IV (NX3, NN3, PV3)",
+          "modelYearFrom": "2020-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 106,
+      "manufacturerName": "SKODA",
+      "groupKey": "RAPID",
+      "displayName": "RAPID",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 23,
+          "modelName": "RAPID (120G, 130G, 135G)",
+          "modelYearFrom": "1983-02-01",
+          "modelYearTo": "1991-10-01"
+        },
+        {
+          "modelId": 10006,
+          "modelName": "RAPID (NA2)",
+          "modelYearFrom": "2011-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10587,
+          "modelName": "RAPID (NH3, NK3, NK6)",
+          "modelYearFrom": "2012-07-01",
+          "modelYearTo": "2022-03-01"
+        },
+        {
+          "modelId": 11519,
+          "modelName": "RAPID Spaceback (NH1)",
+          "modelYearFrom": "2012-07-01",
+          "modelYearTo": "2019-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 106,
+      "manufacturerName": "SKODA",
+      "groupKey": "ROOMSTER",
+      "displayName": "ROOMSTER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5507,
+          "modelName": "ROOMSTER (5J7)",
+          "modelYearFrom": "2006-03-01",
+          "modelYearTo": "2015-05-01"
+        },
+        {
+          "modelId": 6412,
+          "modelName": "ROOMSTER Praktik (5J)",
+          "modelYearFrom": "2007-03-01",
+          "modelYearTo": "2015-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 106,
+      "manufacturerName": "SKODA",
+      "groupKey": "SCALA",
+      "displayName": "SCALA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39378,
+          "modelName": "SCALA (NW1)",
+          "modelYearFrom": "2019-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 106,
+      "manufacturerName": "SKODA",
+      "groupKey": "SLAVIA",
+      "displayName": "SLAVIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42789,
+          "modelName": "SLAVIA A trois volumes (PB2)",
+          "modelYearFrom": "2022-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 106,
+      "manufacturerName": "SKODA",
+      "groupKey": "SUPERB",
+      "displayName": "SUPERB",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4837,
+          "modelName": "SUPERB I (3U4)",
+          "modelYearFrom": "2001-12-01",
+          "modelYearTo": "2008-03-01"
+        },
+        {
+          "modelId": 7588,
+          "modelName": "SUPERB II (3T4)",
+          "modelYearFrom": "2008-03-01",
+          "modelYearTo": "2015-05-01"
+        },
+        {
+          "modelId": 8495,
+          "modelName": "SUPERB II Break (3T5)",
+          "modelYearFrom": "2009-10-01",
+          "modelYearTo": "2015-05-01"
+        },
+        {
+          "modelId": 14018,
+          "modelName": "SUPERB III (3V3)",
+          "modelYearFrom": "2015-03-01",
+          "modelYearTo": "2024-06-01"
+        },
+        {
+          "modelId": 14382,
+          "modelName": "SUPERB III Break (3V5)",
+          "modelYearFrom": "2015-03-01",
+          "modelYearTo": "2024-06-01"
+        },
+        {
+          "modelId": 45010,
+          "modelName": "SUPERB IV Break (NZ5)",
+          "modelYearFrom": "2023-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45132,
+          "modelName": "SUPERB IV (NZ3)",
+          "modelYearFrom": "2023-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 106,
+      "manufacturerName": "SKODA",
+      "groupKey": "YETI",
+      "displayName": "YETI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8486,
+          "modelName": "YETI (5L)",
+          "modelYearFrom": "2009-05-01",
+          "modelYearTo": "2017-12-01"
+        }
+      ]
+    }
+  ]
+}

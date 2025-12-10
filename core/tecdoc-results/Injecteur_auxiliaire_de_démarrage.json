@@ -1,0 +1,106 @@
+{
+  "productName": "Injecteur auxiliaire de démarrage",
+  "searchText": "Injecteur auxiliaire de démarrage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:45:48.428Z",
+  "productId": 3920,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Injecteur auxiliaire de démarrage": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Réglage du ralenti/réglage de mise en température": {
+                  "categoryId": null,
+                  "categoryName": "Réglage du ralenti/réglage de mise en température",
+                  "level": 4,
+                  "children": {
+                    "Injecteur auxiliaire de démarrage": {
+                      "categoryId": 102805,
+                      "categoryName": "Idle Control",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3920
+                    }
+                  }
+                }
+              },
+              "productId": 3920
+            },
+            "Kit réparation de câble, injecteur auxiliaire de démarrage": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Réglage du ralenti/réglage de mise en température": {
+                  "categoryId": null,
+                  "categoryName": "Réglage du ralenti/réglage de mise en température",
+                  "level": 4,
+                  "children": {
+                    "Kit réparation de câble, injecteur auxiliaire de démarrage": {
+                      "categoryId": 102805,
+                      "categoryName": "Idle Control",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60026
+                    }
+                  }
+                }
+              },
+              "productId": 60026
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carburation [ID: 100254] (Niveau 1)\n    └── Mélange air-carburant (Niveau 2)\n        ├── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 3920\n        │   └── Réglage du ralenti/réglage de mise en température (Niveau 4)\n        │       └── Idle Control [ID: 102805] (Niveau 3) → ProductId: 3920\n        └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 60026\n            └── Réglage du ralenti/réglage de mise en température (Niveau 4)\n                └── Idle Control [ID: 102805] (Niveau 3) → ProductId: 60026",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 3920
+    },
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 60026
+    }
+  ],
+  "productIdsInArbo": [
+    3920,
+    60026
+  ],
+  "matchedProductIds": [
+    3920
+  ]
+}

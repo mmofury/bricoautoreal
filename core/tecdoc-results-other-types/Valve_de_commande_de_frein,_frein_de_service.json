@@ -1,0 +1,64 @@
+{
+  "productName": "Valve de commande de frein, frein de service",
+  "productId": 347,
+  "searchText": "Valve de commande de frein, frein de service",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Système pneumatique": {
+          "categoryId": 200059,
+          "categoryName": "Système pneumatique",
+          "level": 1,
+          "children": {
+            "Soupapes / Système d'air comprimé": {
+              "categoryId": null,
+              "categoryName": "Soupapes / Système d'air comprimé",
+              "level": 2,
+              "children": {
+                "Valve de commande de frein, frein de service": {
+                  "categoryId": 200115,
+                  "categoryName": "Valves/compressed-air system",
+                  "level": 2,
+                  "children": {
+                    "Robinet de commande de frein, frein de service": {
+                      "categoryId": null,
+                      "categoryName": "Robinet de commande de frein, frein de service",
+                      "level": 4,
+                      "children": {
+                        "Valve de commande de frein, frein de service": {
+                          "categoryId": 200905,
+                          "categoryName": "Brake Valve, service brake",
+                          "level": 3,
+                          "children": [],
+                          "productId": 347
+                        }
+                      }
+                    }
+                  },
+                  "productId": 347
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système pneumatique [ID: 200059] (Niveau 1)\n    └── Soupapes / Système d'air comprimé (Niveau 2)\n        └── Valves/compressed-air system [ID: 200115] (Niveau 2) → ProductId: 347\n            └── Robinet de commande de frein, frein de service (Niveau 4)\n                └── Brake Valve, service brake [ID: 200905] (Niveau 3) → ProductId: 347",
+      "productIdsInArbo": [
+        347
+      ],
+      "matchedProductIds": [
+        347
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:44:45.927Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

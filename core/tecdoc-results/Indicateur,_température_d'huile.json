@@ -1,0 +1,104 @@
+{
+  "productName": "Indicateur, température d'huile",
+  "searchText": "Indicateur, température d'huile",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:45:38.489Z",
+  "productId": 956,
+  "arborescence": {
+    "Système d'information et de communication": {
+      "categoryId": 100339,
+      "categoryName": "Système d'information et de communication",
+      "level": 1,
+      "children": {
+        "Instruments": {
+          "categoryId": null,
+          "categoryName": "Instruments",
+          "level": 2,
+          "children": {
+            "Indicateur, température d'huile": {
+              "categoryId": 100693,
+              "categoryName": "Instruments",
+              "level": 2,
+              "children": [],
+              "productId": 956
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Instruments": {
+          "categoryId": null,
+          "categoryName": "Instruments",
+          "level": 2,
+          "children": {
+            "Indicateur, température d'huile": {
+              "categoryId": 100322,
+              "categoryName": "Instruments",
+              "level": 2,
+              "children": {
+                "Instruments indicateurs": {
+                  "categoryId": null,
+                  "categoryName": "Instruments indicateurs",
+                  "level": 4,
+                  "children": {
+                    "Indicateur, température d'huile": {
+                      "categoryId": 100555,
+                      "categoryName": "Gauges",
+                      "level": 3,
+                      "children": [],
+                      "productId": 956
+                    }
+                  }
+                }
+              },
+              "productId": 956
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Système d'information et de communication [ID: 100339] (Niveau 1)\n│   └── Instruments (Niveau 2)\n│       └── Instruments [ID: 100693] (Niveau 2) → ProductId: 956\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Instruments (Niveau 2)\n        └── Instruments [ID: 100322] (Niveau 2) → ProductId: 956\n            └── Instruments indicateurs (Niveau 4)\n                └── Gauges [ID: 100555] (Niveau 3) → ProductId: 956",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système d'information et de communication",
+        "Instruments",
+        "Instruments"
+      ],
+      "categoryIds": [
+        100339,
+        null,
+        100693
+      ],
+      "finalCategoryId": 100693,
+      "productId": 956
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Instruments",
+        "Instruments"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100322
+      ],
+      "finalCategoryId": 100322,
+      "productId": 956
+    }
+  ],
+  "productIdsInArbo": [
+    956
+  ],
+  "matchedProductIds": [
+    956
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Unité de contrôle, dépression",
+  "searchText": "Unité de contrôle, dépression",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:30:34.885Z",
+  "productId": 6159,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Soupapes": {
+          "categoryId": null,
+          "categoryName": "Soupapes",
+          "level": 2,
+          "children": {
+            "Unité de contrôle, dépression": {
+              "categoryId": 101924,
+              "categoryName": "Valves",
+              "level": 2,
+              "children": [],
+              "productId": 6159
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif de freinage [ID: 100006] (Niveau 1)\n    └── Soupapes (Niveau 2)\n        └── Valves [ID: 101924] (Niveau 2) → ProductId: 6159",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Soupapes",
+        "Valves"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        101924
+      ],
+      "finalCategoryId": 101924,
+      "productId": 6159
+    }
+  ],
+  "productIdsInArbo": [
+    6159
+  ],
+  "matchedProductIds": [
+    6159
+  ]
+}

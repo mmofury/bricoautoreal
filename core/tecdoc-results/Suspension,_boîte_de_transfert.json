@@ -1,0 +1,54 @@
+{
+  "productName": "Suspension, boîte de transfert",
+  "searchText": "Suspension, boîte de transfert",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:22:55.711Z",
+  "productId": 1709,
+  "arborescence": {
+    "Entraînement des essieux": {
+      "categoryId": 100400,
+      "categoryName": "Entraînement des essieux",
+      "level": 1,
+      "children": {
+        "Boîte de transfert": {
+          "categoryId": null,
+          "categoryName": "Boîte de transfert",
+          "level": 2,
+          "children": {
+            "Suspension, boîte de transfert": {
+              "categoryId": 100416,
+              "categoryName": "Transfer Case",
+              "level": 2,
+              "children": [],
+              "productId": 1709
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement des essieux [ID: 100400] (Niveau 1)\n    └── Boîte de transfert (Niveau 2)\n        └── Transfer Case [ID: 100416] (Niveau 2) → ProductId: 1709",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des essieux",
+        "Boîte de transfert",
+        "Transfer Case"
+      ],
+      "categoryIds": [
+        100400,
+        null,
+        100416
+      ],
+      "finalCategoryId": 100416,
+      "productId": 1709
+    }
+  ],
+  "productIdsInArbo": [
+    1709
+  ],
+  "matchedProductIds": [
+    1709
+  ]
+}

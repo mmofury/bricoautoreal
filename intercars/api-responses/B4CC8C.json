@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "B4CC8C",
+      "index": "03.9302-0504.3",
+      "tecDoc": "03.9302-0504.3",
+      "tecDocProd": "3",
+      "articleNumber": "03.9302-0504.3",
+      "brand": "ATE",
+      "shortDescription": "Devices for working fluids and fuels",
+      "description": "Brake fluid disposal device, application: brake fluid, 220L ATE SYSTEM 220",
+      "packageWeight": "12,000",
+      "packageWidth": "60,000",
+      "packageDepth": "85,000",
+      "packageHeight": "60,000",
+      "customsCode": "39233090",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_2349",
+          "primary": false,
+          "name": {
+            "en": "Disposal Unit, brake fluid"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91773",
+          "primary": true,
+          "name": {
+            "en": "Devices for working fluids and fuels"
+          }
+        }
+      ]
+    }
+  ]
+}

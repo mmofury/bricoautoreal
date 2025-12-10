@@ -1,0 +1,69 @@
+{
+  "productName": "Kit de barres de connexion",
+  "searchText": "Kit de barres de connexion",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:58:43.953Z",
+  "productId": 3236,
+  "arborescence": {
+    "Direction": {
+      "categoryId": 100012,
+      "categoryName": "Direction",
+      "level": 1,
+      "children": {
+        "Barre de connexion / composants": {
+          "categoryId": null,
+          "categoryName": "Barre de connexion / composants",
+          "level": 2,
+          "children": {
+            "Kit de barres de connexion": {
+              "categoryId": 100601,
+              "categoryName": "Tie Rod Assembly/ Parts",
+              "level": 2,
+              "children": {
+                "Barre de connexion": {
+                  "categoryId": null,
+                  "categoryName": "Barre de connexion",
+                  "level": 4,
+                  "children": {
+                    "Kit de barres de connexion": {
+                      "categoryId": 100197,
+                      "categoryName": "Tie Rod Assembly",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3236
+                    }
+                  }
+                }
+              },
+              "productId": 3236
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Direction [ID: 100012] (Niveau 1)\n    └── Barre de connexion / composants (Niveau 2)\n        └── Tie Rod Assembly/ Parts [ID: 100601] (Niveau 2) → ProductId: 3236\n            └── Barre de connexion (Niveau 4)\n                └── Tie Rod Assembly [ID: 100197] (Niveau 3) → ProductId: 3236",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Direction",
+        "Barre de connexion / composants",
+        "Tie Rod Assembly/ Parts"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        100601
+      ],
+      "finalCategoryId": 100601,
+      "productId": 3236
+    }
+  ],
+  "productIdsInArbo": [
+    3236
+  ],
+  "matchedProductIds": [
+    3236
+  ]
+}

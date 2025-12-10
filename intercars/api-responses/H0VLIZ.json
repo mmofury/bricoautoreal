@@ -1,0 +1,40 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H0VLIZ",
+      "index": "AA02872397ZF",
+      "tecDoc": "AA02.872.397",
+      "tecDocProd": "68",
+      "articleNumber": "AA02.872.397",
+      "brand": "ZF",
+      "shortDescription": "Manual Transmission Oil",
+      "description": "Transmission oil ZF ECOFLUID XE (208L) 75W85",
+      "gtuCode": "GTU_03",
+      "packageWeight": "207,000",
+      "packageWidth": "51,000",
+      "packageDepth": "51,000",
+      "packageHeight": "120,000",
+      "customsCode": "27101987",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3225",
+          "primary": true,
+          "name": {
+            "en": "Manual Transmission Oil"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_61034",
+          "primary": false,
+          "name": {
+            "en": "Oil, e-transmission"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "productName": "Antenne réceptrice, contrôle de pression des pneus",
+  "searchText": "Antenne réceptrice, contrôle de pression des pneus",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T18:54:37.819Z",
+  "productId": 2231,
+  "arborescence": {
+    "Roues/Pneus": {
+      "categoryId": 103099,
+      "categoryName": "Roues/Pneus",
+      "level": 1,
+      "children": {
+        "Contrôle de pression des pneumatiques": {
+          "categoryId": null,
+          "categoryName": "Contrôle de pression des pneumatiques",
+          "level": 2,
+          "children": {
+            "Antenne réceptrice, contrôle de pression des pneus": {
+              "categoryId": 103479,
+              "categoryName": "Tyre-Pressure Monitoring System",
+              "level": 2,
+              "children": [],
+              "productId": 2231
+            }
+          }
+        }
+      }
+    },
+    "Suspension d'essieu/Guidage des roues/Roues": {
+      "categoryId": 100013,
+      "categoryName": "Suspension d'essieu/Guidage des roues/Roues",
+      "level": 1,
+      "children": {
+        "Contrôle de pression des pneumatiques": {
+          "categoryId": null,
+          "categoryName": "Contrôle de pression des pneumatiques",
+          "level": 2,
+          "children": {
+            "Antenne réceptrice, contrôle de pression des pneus": {
+              "categoryId": 100834,
+              "categoryName": "Tyre-Pressure Monitoring System",
+              "level": 2,
+              "children": [],
+              "productId": 2231
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Roues/Pneus [ID: 103099] (Niveau 1)\n│   └── Contrôle de pression des pneumatiques (Niveau 2)\n│       └── Tyre-Pressure Monitoring System [ID: 103479] (Niveau 2) → ProductId: 2231\n\n└── Suspension d'essieu/Guidage des roues/Roues [ID: 100013] (Niveau 1)\n    └── Contrôle de pression des pneumatiques (Niveau 2)\n        └── Tyre-Pressure Monitoring System [ID: 100834] (Niveau 2) → ProductId: 2231",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Roues/Pneus",
+        "Contrôle de pression des pneumatiques",
+        "Tyre-Pressure Monitoring System"
+      ],
+      "categoryIds": [
+        103099,
+        null,
+        103479
+      ],
+      "finalCategoryId": 103479,
+      "productId": 2231
+    },
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Contrôle de pression des pneumatiques",
+        "Tyre-Pressure Monitoring System"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        100834
+      ],
+      "finalCategoryId": 100834,
+      "productId": 2231
+    }
+  ],
+  "productIdsInArbo": [
+    2231
+  ],
+  "matchedProductIds": [
+    2231
+  ]
+}

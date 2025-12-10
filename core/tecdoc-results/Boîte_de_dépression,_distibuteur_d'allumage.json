@@ -1,0 +1,82 @@
+{
+  "productName": "Boîte de dépression, distibuteur d'allumage",
+  "searchText": "Boîte de dépression, distibuteur d'allumage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:10:18.047Z",
+  "productId": 2061,
+  "arborescence": {
+    "Allumage / préchauffage": {
+      "categoryId": 100008,
+      "categoryName": "Allumage / préchauffage",
+      "level": 1,
+      "children": {
+        "Distributeur d'allumage/Composants": {
+          "categoryId": null,
+          "categoryName": "Distributeur d'allumage/Composants",
+          "level": 2,
+          "children": {
+            "Boîte de dépression, distibuteur d'allumage": {
+              "categoryId": 100148,
+              "categoryName": "Ignition Distributor/Parts",
+              "level": 2,
+              "children": [],
+              "productId": 2061
+            }
+          }
+        },
+        "Système à dépression": {
+          "categoryId": null,
+          "categoryName": "Système à dépression",
+          "level": 2,
+          "children": {
+            "Boîte de dépression, distibuteur d'allumage": {
+              "categoryId": 100827,
+              "categoryName": "Vacuum System",
+              "level": 2,
+              "children": [],
+              "productId": 2061
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Allumage / préchauffage [ID: 100008] (Niveau 1)\n    ├── Distributeur d'allumage/Composants (Niveau 2)\n    │   └── Ignition Distributor/Parts [ID: 100148] (Niveau 2) → ProductId: 2061\n    └── Système à dépression (Niveau 2)\n        └── Vacuum System [ID: 100827] (Niveau 2) → ProductId: 2061",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Distributeur d'allumage/Composants",
+        "Ignition Distributor/Parts"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        100148
+      ],
+      "finalCategoryId": 100148,
+      "productId": 2061
+    },
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Système à dépression",
+        "Vacuum System"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        100827
+      ],
+      "finalCategoryId": 100827,
+      "productId": 2061
+    }
+  ],
+  "productIdsInArbo": [
+    2061
+  ],
+  "matchedProductIds": [
+    2061
+  ]
+}

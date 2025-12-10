@@ -1,0 +1,64 @@
+{
+  "productName": "Couvercle, bac d'accumulateur",
+  "productId": 4063,
+  "searchText": "Couvercle, bac d'accumulateur",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Système électrique": {
+          "categoryId": 200064,
+          "categoryName": "Système électrique",
+          "level": 1,
+          "children": {
+            "Batterie": {
+              "categoryId": null,
+              "categoryName": "Batterie",
+              "level": 2,
+              "children": {
+                "Couvercle, bac d'accumulateur": {
+                  "categoryId": 200553,
+                  "categoryName": "Battery",
+                  "level": 2,
+                  "children": {
+                    "Batterie": {
+                      "categoryId": null,
+                      "categoryName": "Batterie",
+                      "level": 4,
+                      "children": {
+                        "Couvercle, bac d'accumulateur": {
+                          "categoryId": 200556,
+                          "categoryName": "Battery",
+                          "level": 3,
+                          "children": [],
+                          "productId": 4063
+                        }
+                      }
+                    }
+                  },
+                  "productId": 4063
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système électrique [ID: 200064] (Niveau 1)\n    └── Batterie (Niveau 2)\n        └── Battery [ID: 200553] (Niveau 2) → ProductId: 4063\n            └── Batterie (Niveau 4)\n                └── Battery [ID: 200556] (Niveau 3) → ProductId: 4063",
+      "productIdsInArbo": [
+        4063
+      ],
+      "matchedProductIds": [
+        4063
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:13:19.728Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

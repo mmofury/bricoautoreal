@@ -1,0 +1,43 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G17Y33",
+      "index": "STA492874",
+      "tecDoc": "492874",
+      "tecDocProd": "126",
+      "articleNumber": "492874",
+      "brand": "STABILUS",
+      "shortDescription": "Gas Spring, boot/cargo area",
+      "description": "Electric motor for boot lid R fits: VOLVO S90 II 2.0-2.0H 03.16-",
+      "gtuCode": "GTU_07",
+      "eans": [
+        "4060232550670"
+      ],
+      "packageWeight": "1,015",
+      "packageWidth": "11,000",
+      "packageDepth": "85,000",
+      "packageHeight": "6,500",
+      "customsCode": "87082990",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_7413",
+          "primary": false,
+          "name": {
+            "en": "Electric Motor, tailgate"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_219",
+          "primary": true,
+          "name": {
+            "en": "Gas Spring, boot/cargo area"
+          }
+        }
+      ]
+    }
+  ]
+}

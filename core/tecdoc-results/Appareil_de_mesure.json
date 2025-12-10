@@ -1,0 +1,118 @@
+{
+  "productName": "Appareil de mesure",
+  "searchText": "Appareil de mesure",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T18:55:58.446Z",
+  "productId": 1471,
+  "arborescence": {
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Témoin de niveau d'huile, Vidange": {
+              "categoryId": 103157,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4546
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Dispositif de mesure, tension de la chaîne de distribution": {
+              "categoryId": 103129,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 6152
+            },
+            "Témoin de niveau d'huile, Vidange": {
+              "categoryId": 103129,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4546
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Boîte de vitesses [ID: 100238] (Niveau 1)\n│   └── Outils (Niveau 2)\n│       └── Tools [ID: 103157] (Niveau 2) → ProductId: 4546\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Outils (Niveau 2)\n        ├── Tools [ID: 103129] (Niveau 2) → ProductId: 6152\n        └── Tools [ID: 103129] (Niveau 2) → ProductId: 4546",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        103157
+      ],
+      "finalCategoryId": 103157,
+      "productId": 4546
+    },
+    {
+      "path": [
+        "Moteur",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        103129
+      ],
+      "finalCategoryId": 103129,
+      "productId": 6152
+    },
+    {
+      "path": [
+        "Moteur",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        103129
+      ],
+      "finalCategoryId": 103129,
+      "productId": 4546
+    }
+  ],
+  "productIdsInArbo": [
+    4546,
+    6152
+  ],
+  "closestProductIds": [
+    {
+      "productId": 4546,
+      "productName": "Témoin de niveau d'huile, Vidange"
+    },
+    {
+      "productId": 6152,
+      "productName": "Dispositif de mesure, tension de la chaîne de distribution"
+    }
+  ]
+}

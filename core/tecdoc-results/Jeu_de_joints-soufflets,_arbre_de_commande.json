@@ -1,0 +1,54 @@
+{
+  "productName": "Jeu de joints-soufflets, arbre de commande",
+  "searchText": "Jeu de joints-soufflets, arbre de commande",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:50:46.176Z",
+  "productId": 194,
+  "arborescence": {
+    "Entraînement des roues": {
+      "categoryId": 100014,
+      "categoryName": "Entraînement des roues",
+      "level": 1,
+      "children": {
+        "Soufflet": {
+          "categoryId": null,
+          "categoryName": "Soufflet",
+          "level": 2,
+          "children": {
+            "Jeu de joints-soufflets, arbre de commande": {
+              "categoryId": 100074,
+              "categoryName": "Bellow",
+              "level": 2,
+              "children": [],
+              "productId": 194
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement des roues [ID: 100014] (Niveau 1)\n    └── Soufflet (Niveau 2)\n        └── Bellow [ID: 100074] (Niveau 2) → ProductId: 194",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des roues",
+        "Soufflet",
+        "Bellow"
+      ],
+      "categoryIds": [
+        100014,
+        null,
+        100074
+      ],
+      "finalCategoryId": 100074,
+      "productId": 194
+    }
+  ],
+  "productIdsInArbo": [
+    194
+  ],
+  "matchedProductIds": [
+    194
+  ]
+}

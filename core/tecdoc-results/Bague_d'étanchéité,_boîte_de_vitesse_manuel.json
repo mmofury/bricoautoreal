@@ -1,0 +1,69 @@
+{
+  "productName": "Bague d'étanchéité, boîte de vitesse manuel",
+  "searchText": "Bague d'étanchéité, boîte de vitesse manuel",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:03:02.759Z",
+  "productId": 624,
+  "arborescence": {
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Boîte de vitesses manuelle": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesses manuelle",
+          "level": 2,
+          "children": {
+            "Bague d'étanchéité, boîte de vitesse manuel": {
+              "categoryId": 100239,
+              "categoryName": "Manual Transmission",
+              "level": 2,
+              "children": {
+                "Joints": {
+                  "categoryId": null,
+                  "categoryName": "Joints",
+                  "level": 4,
+                  "children": {
+                    "Bague d'étanchéité, boîte de vitesse manuel": {
+                      "categoryId": 100769,
+                      "categoryName": "Gaskets/Seals",
+                      "level": 3,
+                      "children": [],
+                      "productId": 624
+                    }
+                  }
+                }
+              },
+              "productId": 624
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Boîte de vitesses [ID: 100238] (Niveau 1)\n    └── Boîte de vitesses manuelle (Niveau 2)\n        └── Manual Transmission [ID: 100239] (Niveau 2) → ProductId: 624\n            └── Joints (Niveau 4)\n                └── Gaskets/Seals [ID: 100769] (Niveau 3) → ProductId: 624",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesses manuelle",
+        "Manual Transmission"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        100239
+      ],
+      "finalCategoryId": 100239,
+      "productId": 624
+    }
+  ],
+  "productIdsInArbo": [
+    624
+  ],
+  "matchedProductIds": [
+    624
+  ]
+}

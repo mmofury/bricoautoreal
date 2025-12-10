@@ -1,0 +1,69 @@
+{
+  "productName": "Accumulateur de pression, embrayage",
+  "searchText": "Accumulateur de pression, embrayage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T18:47:31.589Z",
+  "productId": 3686,
+  "arborescence": {
+    "Embrayage / composants": {
+      "categoryId": 100050,
+      "categoryName": "Embrayage / composants",
+      "level": 1,
+      "children": {
+        "Commande d'embrayage": {
+          "categoryId": null,
+          "categoryName": "Commande d'embrayage",
+          "level": 2,
+          "children": {
+            "Accumulateur de pression, embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Accumulateur de pression": {
+                  "categoryId": null,
+                  "categoryName": "Accumulateur de pression",
+                  "level": 4,
+                  "children": {
+                    "Accumulateur de pression, embrayage": {
+                      "categoryId": 102673,
+                      "categoryName": "Pressure Accumulator",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3686
+                    }
+                  }
+                }
+              },
+              "productId": 3686
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Embrayage / composants [ID: 100050] (Niveau 1)\n    └── Commande d'embrayage (Niveau 2)\n        └── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 3686\n            └── Accumulateur de pression (Niveau 4)\n                └── Pressure Accumulator [ID: 102673] (Niveau 3) → ProductId: 3686",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 3686
+    }
+  ],
+  "productIdsInArbo": [
+    3686
+  ],
+  "matchedProductIds": [
+    3686
+  ]
+}

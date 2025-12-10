@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "A74894",
+      "index": "1 237 330 035",
+      "tecDoc": "1 237 330 035",
+      "tecDocProd": "30",
+      "articleNumber": "1 237 330 035",
+      "brand": "BOSCH",
+      "shortDescription": "Capacitor, ignition system",
+      "description": "Distributor condenser",
+      "eans": [
+        "3165141058635"
+      ],
+      "packageWeight": "0,017",
+      "packageWidth": "3,700",
+      "packageDepth": "5,700",
+      "packageHeight": "3,600",
+      "customsCode": "85322900",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_2293",
+          "primary": false,
+          "name": {
+            "en": "Capacitor, magneto"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_690",
+          "primary": true,
+          "name": {
+            "en": "Capacitor, ignition system"
+          }
+        }
+      ]
+    }
+  ]
+}

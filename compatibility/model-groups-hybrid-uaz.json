@@ -1,0 +1,220 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.520Z",
+  "manufacturer": "UAZ",
+  "countGroups": 13,
+  "groups": [
+    {
+      "manufacturerId": 1553,
+      "manufacturerName": "UAZ",
+      "groupKey": "2206",
+      "displayName": "2206",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13512,
+          "modelName": "2206",
+          "modelYearFrom": "2006-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1553,
+      "manufacturerName": "UAZ",
+      "groupKey": "3151",
+      "displayName": "3151",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40334,
+          "modelName": "3151 (3151_)",
+          "modelYearFrom": "1992-10-01",
+          "modelYearTo": "2003-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1553,
+      "manufacturerName": "UAZ",
+      "groupKey": "31512",
+      "displayName": "31512",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4393,
+          "modelName": "31512 Véhicule tout terrain à carrosserie ouverte",
+          "modelYearFrom": "1993-01-01",
+          "modelYearTo": "2008-11-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1553,
+      "manufacturerName": "UAZ",
+      "groupKey": "3160",
+      "displayName": "3160",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4394,
+          "modelName": "3160 Véhicule tout terrain fermé",
+          "modelYearFrom": "1994-01-01",
+          "modelYearTo": "2007-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1553,
+      "manufacturerName": "UAZ",
+      "groupKey": "452",
+      "displayName": "452",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9602,
+          "modelName": "452 Autobus/Autocar (2206_)",
+          "modelYearFrom": "1966-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14271,
+          "modelName": "452 Camion plate-forme/Châssis (3303_, 3909_)",
+          "modelYearFrom": "1966-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14272,
+          "modelName": "452 Fourgon (3741_, 3962_)",
+          "modelYearFrom": "1966-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1553,
+      "manufacturerName": "UAZ",
+      "groupKey": "469",
+      "displayName": "469",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9601,
+          "modelName": "469 / 469 B",
+          "modelYearFrom": "1972-12-01",
+          "modelYearTo": "1993-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1553,
+      "manufacturerName": "UAZ",
+      "groupKey": "BARS",
+      "displayName": "BARS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14447,
+          "modelName": "BARS (3159)",
+          "modelYearFrom": "1999-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1553,
+      "manufacturerName": "UAZ",
+      "groupKey": "CARGO",
+      "displayName": "CARGO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9604,
+          "modelName": "CARGO (23602)",
+          "modelYearFrom": "2008-11-01",
+          "modelYearTo": "2017-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1553,
+      "manufacturerName": "UAZ",
+      "groupKey": "HUNTER",
+      "displayName": "HUNTER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9605,
+          "modelName": "HUNTER (31519_)",
+          "modelYearFrom": "2003-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38178,
+          "modelName": "HUNTER Véhicule tout terrain à carrosserie ouverte (31519_)",
+          "modelYearFrom": "2011-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1553,
+      "manufacturerName": "UAZ",
+      "groupKey": "PATRIOT",
+      "displayName": "PATRIOT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9603,
+          "modelName": "PATRIOT",
+          "modelYearFrom": "2004-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1553,
+      "manufacturerName": "UAZ",
+      "groupKey": "PICKUP",
+      "displayName": "PICKUP",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37103,
+          "modelName": "PICKUP",
+          "modelYearFrom": "2009-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1553,
+      "manufacturerName": "UAZ",
+      "groupKey": "PROFI",
+      "displayName": "PROFI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39710,
+          "modelName": "PROFI Camion plate-forme/Châssis (2360_)",
+          "modelYearFrom": "2017-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1553,
+      "manufacturerName": "UAZ",
+      "groupKey": "SIMBIR",
+      "displayName": "SIMBIR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4395,
+          "modelName": "SIMBIR (3162) Véhicule tout terrain fermé",
+          "modelYearFrom": "1997-01-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

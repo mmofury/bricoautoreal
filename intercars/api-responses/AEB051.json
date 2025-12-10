@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "AEB051",
+      "index": "1 410 137 020",
+      "tecDoc": "1 410 137 020",
+      "tecDocProd": "30",
+      "articleNumber": "1 410 137 020",
+      "brand": "BOSCH",
+      "shortDescription": "Fuel pump element",
+      "description": "Diesel Injection",
+      "eans": [
+        "3165141698114"
+      ],
+      "packageWeight": "0,003",
+      "packageWidth": "6,300",
+      "packageDepth": "2,700",
+      "packageHeight": "7,000",
+      "customsCode": "84139100",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_92717",
+          "primary": true,
+          "name": {
+            "en": "Fuel pump element"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1451",
+          "primary": false,
+          "name": {
+            "en": "Seal"
+          }
+        }
+      ]
+    }
+  ]
+}

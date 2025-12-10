@@ -1,0 +1,89 @@
+{
+  "productName": "Huile pour boîte automatique",
+  "searchText": "Huile pour boîte automatique",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:44:44.351Z",
+  "productId": 3069,
+  "arborescence": {
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Huiles": {
+          "categoryId": null,
+          "categoryName": "Huiles",
+          "level": 2,
+          "children": {
+            "Huile pour boîte automatique": {
+              "categoryId": 706233,
+              "categoryName": "Oil",
+              "level": 2,
+              "children": [],
+              "productId": 3069
+            }
+          }
+        }
+      }
+    },
+    "Pièces de maintenance": {
+      "categoryId": 100019,
+      "categoryName": "Pièces de maintenance",
+      "level": 1,
+      "children": {
+        "Intervalle": {
+          "categoryId": null,
+          "categoryName": "Intervalle",
+          "level": 2,
+          "children": {
+            "Huile pour boîte automatique": {
+              "categoryId": 100597,
+              "categoryName": "Service Intervals",
+              "level": 2,
+              "children": [],
+              "productId": 3069
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Boîte de vitesses [ID: 100238] (Niveau 1)\n│   └── Huiles (Niveau 2)\n│       └── Oil [ID: 706233] (Niveau 2) → ProductId: 3069\n\n└── Pièces de maintenance [ID: 100019] (Niveau 1)\n    └── Intervalle (Niveau 2)\n        └── Service Intervals [ID: 100597] (Niveau 2) → ProductId: 3069",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Huiles",
+        "Oil"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        706233
+      ],
+      "finalCategoryId": 706233,
+      "productId": 3069
+    },
+    {
+      "path": [
+        "Pièces de maintenance",
+        "Intervalle",
+        "Service Intervals"
+      ],
+      "categoryIds": [
+        100019,
+        null,
+        100597
+      ],
+      "finalCategoryId": 100597,
+      "productId": 3069
+    }
+  ],
+  "productIdsInArbo": [
+    3069
+  ],
+  "matchedProductIds": [
+    3069
+  ]
+}

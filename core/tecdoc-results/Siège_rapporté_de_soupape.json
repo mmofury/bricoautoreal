@@ -1,0 +1,69 @@
+{
+  "productName": "Siège rapporté de soupape",
+  "searchText": "Siège rapporté de soupape",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:16:20.780Z",
+  "productId": 1274,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Culasse / pieces de montage": {
+          "categoryId": null,
+          "categoryName": "Culasse / pieces de montage",
+          "level": 2,
+          "children": {
+            "Siège rapporté de soupape": {
+              "categoryId": 100373,
+              "categoryName": "Cylinder Head/Attachment Parts",
+              "level": 2,
+              "children": {
+                "Guide de soupape / joint / réglage": {
+                  "categoryId": null,
+                  "categoryName": "Guide de soupape / joint / réglage",
+                  "level": 4,
+                  "children": {
+                    "Siège rapporté de soupape": {
+                      "categoryId": 100377,
+                      "categoryName": "Valve Guide/Stem Seal/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1274
+                    }
+                  }
+                }
+              },
+              "productId": 1274
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Culasse / pieces de montage (Niveau 2)\n        └── Cylinder Head/Attachment Parts [ID: 100373] (Niveau 2) → ProductId: 1274\n            └── Guide de soupape / joint / réglage (Niveau 4)\n                └── Valve Guide/Stem Seal/Parts [ID: 100377] (Niveau 3) → ProductId: 1274",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Culasse / pieces de montage",
+        "Cylinder Head/Attachment Parts"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100373
+      ],
+      "finalCategoryId": 100373,
+      "productId": 1274
+    }
+  ],
+  "productIdsInArbo": [
+    1274
+  ],
+  "matchedProductIds": [
+    1274
+  ]
+}

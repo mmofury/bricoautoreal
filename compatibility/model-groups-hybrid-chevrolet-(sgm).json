@@ -1,0 +1,361 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.215Z",
+  "manufacturer": "CHEVROLET (SGM)",
+  "countGroups": 18,
+  "groups": [
+    {
+      "manufacturerId": 3527,
+      "manufacturerName": "CHEVROLET (SGM)",
+      "groupKey": "AVEO",
+      "displayName": "AVEO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8711,
+          "modelName": "AVEO Berline bicorps trois ou cinq portes (SET)",
+          "modelYearFrom": "2005-07-01",
+          "modelYearTo": "2010-05-01"
+        },
+        {
+          "modelId": 9687,
+          "modelName": "AVEO Berline bicorps trois ou cinq portes (SJ1)",
+          "modelYearFrom": "2011-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 9688,
+          "modelName": "AVEO A trois volumes (SJ1)",
+          "modelYearFrom": "2011-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3527,
+      "manufacturerName": "CHEVROLET (SGM)",
+      "groupKey": "BLAZER",
+      "displayName": "BLAZER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8712,
+          "modelName": "BLAZER (C41)",
+          "modelYearFrom": "2001-08-01",
+          "modelYearTo": "2004-08-01"
+        },
+        {
+          "modelId": 40676,
+          "modelName": "BLAZER (SN4)",
+          "modelYearFrom": "2020-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3527,
+      "manufacturerName": "CHEVROLET (SGM)",
+      "groupKey": "CAPTIVA",
+      "displayName": "CAPTIVA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8713,
+          "modelName": "CAPTIVA (C7L)",
+          "modelYearFrom": "2011-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3527,
+      "manufacturerName": "CHEVROLET (SGM)",
+      "groupKey": "CAVALIER",
+      "displayName": "CAVALIER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37045,
+          "modelName": "CAVALIER (SK2)",
+          "modelYearFrom": "2016-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3527,
+      "manufacturerName": "CHEVROLET (SGM)",
+      "groupKey": "CRUZE",
+      "displayName": "CRUZE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8714,
+          "modelName": "CRUZE A trois volumes (CP1)",
+          "modelYearFrom": "2009-04-01",
+          "modelYearTo": "2016-07-01"
+        },
+        {
+          "modelId": 11785,
+          "modelName": "CRUZE Berline bicorps trois ou cinq portes (CP1)",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": "2017-02-01"
+        },
+        {
+          "modelId": 13142,
+          "modelName": "CRUZE A trois volumes (CP3)",
+          "modelYearFrom": "2014-08-01",
+          "modelYearTo": "2016-07-01"
+        },
+        {
+          "modelId": 37658,
+          "modelName": "CRUZE Berline bicorps trois ou cinq portes (CP7)",
+          "modelYearFrom": "2017-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40228,
+          "modelName": "CRUZE A trois volumes (CP7)",
+          "modelYearFrom": "2016-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3527,
+      "manufacturerName": "CHEVROLET (SGM)",
+      "groupKey": "EPICA",
+      "displayName": "EPICA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8715,
+          "modelName": "EPICA (SEV, CEV)",
+          "modelYearFrom": "2005-04-01",
+          "modelYearTo": "2015-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3527,
+      "manufacturerName": "CHEVROLET (SGM)",
+      "groupKey": "EQUINOX",
+      "displayName": "EQUINOX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37918,
+          "modelName": "EQUINOX (CP8)",
+          "modelYearFrom": "2017-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45500,
+          "modelName": "EQUINOX PLUS",
+          "modelYearFrom": "2024-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3527,
+      "manufacturerName": "CHEVROLET (SGM)",
+      "groupKey": "LOVA",
+      "displayName": "LOVA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8716,
+          "modelName": "LOVA (CET)",
+          "modelYearFrom": "2006-01-01",
+          "modelYearTo": "2011-07-01"
+        },
+        {
+          "modelId": 14851,
+          "modelName": "LOVA RV (SH3)",
+          "modelYearFrom": "2015-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3527,
+      "manufacturerName": "CHEVROLET (SGM)",
+      "groupKey": "MALIBU",
+      "displayName": "MALIBU",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10178,
+          "modelName": "MALIBU (EG3)",
+          "modelYearFrom": "2012-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 36393,
+          "modelName": "MALIBU XL (EG5)",
+          "modelYearFrom": "2016-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3527,
+      "manufacturerName": "CHEVROLET (SGM)",
+      "groupKey": "MENLO",
+      "displayName": "MENLO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40441,
+          "modelName": "MENLO (SK0)",
+          "modelYearFrom": "2020-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3527,
+      "manufacturerName": "CHEVROLET (SGM)",
+      "groupKey": "MONZA",
+      "displayName": "MONZA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39478,
+          "modelName": "MONZA (SK8)",
+          "modelYearFrom": "2019-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3527,
+      "manufacturerName": "CHEVROLET (SGM)",
+      "groupKey": "ONIX",
+      "displayName": "ONIX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40798,
+          "modelName": "ONIX (SM1)",
+          "modelYearFrom": "2019-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3527,
+      "manufacturerName": "CHEVROLET (SGM)",
+      "groupKey": "ORLANDO",
+      "displayName": "ORLANDO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38966,
+          "modelName": "ORLANDO (SK7)",
+          "modelYearFrom": "2018-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3527,
+      "manufacturerName": "CHEVROLET (SGM)",
+      "groupKey": "SAIL",
+      "displayName": "SAIL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8717,
+          "modelName": "SAIL A trois volumes (CS3)",
+          "modelYearFrom": "2010-01-01",
+          "modelYearTo": "2015-12-01"
+        },
+        {
+          "modelId": 8718,
+          "modelName": "SAIL Break (CS2)",
+          "modelYearFrom": "2005-02-01",
+          "modelYearTo": "2008-07-01"
+        },
+        {
+          "modelId": 9051,
+          "modelName": "SAIL Berline bicorps trois ou cinq portes (CS3, SH1)",
+          "modelYearFrom": "2010-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13565,
+          "modelName": "SAIL 3 (SH2)",
+          "modelYearFrom": "2014-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40670,
+          "modelName": "SAIL A trois volumes (CS2)",
+          "modelYearFrom": "2005-02-01",
+          "modelYearTo": "2008-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3527,
+      "manufacturerName": "CHEVROLET (SGM)",
+      "groupKey": "SEEKER",
+      "displayName": "SEEKER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43596,
+          "modelName": "SEEKER",
+          "modelYearFrom": "2022-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3527,
+      "manufacturerName": "CHEVROLET (SGM)",
+      "groupKey": "TRACKER",
+      "displayName": "TRACKER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39600,
+          "modelName": "TRACKER (SM2)",
+          "modelYearFrom": "2019-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3527,
+      "manufacturerName": "CHEVROLET (SGM)",
+      "groupKey": "TRAILBLAZER",
+      "displayName": "TRAILBLAZER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39506,
+          "modelName": "TRAILBLAZER (SV3)",
+          "modelYearFrom": "2019-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3527,
+      "manufacturerName": "CHEVROLET (SGM)",
+      "groupKey": "TRAX",
+      "displayName": "TRAX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 12761,
+          "modelName": "TRAX (SJ3)",
+          "modelYearFrom": "2014-04-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

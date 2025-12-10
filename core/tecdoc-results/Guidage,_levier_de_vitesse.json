@@ -1,0 +1,69 @@
+{
+  "productName": "Guidage, levier de vitesse",
+  "searchText": "Guidage, levier de vitesse",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:44:13.718Z",
+  "productId": 5746,
+  "arborescence": {
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Boîte de vitesses manuelle": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesses manuelle",
+          "level": 2,
+          "children": {
+            "Guidage, levier de vitesse": {
+              "categoryId": 100239,
+              "categoryName": "Manual Transmission",
+              "level": 2,
+              "children": {
+                "Commande de boîte de vitesses": {
+                  "categoryId": null,
+                  "categoryName": "Commande de boîte de vitesses",
+                  "level": 4,
+                  "children": {
+                    "Guidage, levier de vitesse": {
+                      "categoryId": 101808,
+                      "categoryName": "Transmission Control",
+                      "level": 3,
+                      "children": [],
+                      "productId": 5746
+                    }
+                  }
+                }
+              },
+              "productId": 5746
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Boîte de vitesses [ID: 100238] (Niveau 1)\n    └── Boîte de vitesses manuelle (Niveau 2)\n        └── Manual Transmission [ID: 100239] (Niveau 2) → ProductId: 5746\n            └── Commande de boîte de vitesses (Niveau 4)\n                └── Transmission Control [ID: 101808] (Niveau 3) → ProductId: 5746",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesses manuelle",
+        "Manual Transmission"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        100239
+      ],
+      "finalCategoryId": 100239,
+      "productId": 5746
+    }
+  ],
+  "productIdsInArbo": [
+    5746
+  ],
+  "matchedProductIds": [
+    5746
+  ]
+}

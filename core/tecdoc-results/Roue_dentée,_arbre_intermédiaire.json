@@ -1,0 +1,134 @@
+{
+  "productName": "Roue dentée, arbre intermédiaire",
+  "searchText": "Roue dentée, arbre intermédiaire",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:12:16.487Z",
+  "productId": 1069,
+  "arborescence": {
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Boîte de vitesses manuelle": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesses manuelle",
+          "level": 2,
+          "children": {
+            "Roue dentée, arbre intermédiaire": {
+              "categoryId": 100239,
+              "categoryName": "Manual Transmission",
+              "level": 2,
+              "children": {
+                "Carter/composants": {
+                  "categoryId": null,
+                  "categoryName": "Carter/composants",
+                  "level": 4,
+                  "children": {
+                    "Roue dentée, arbre intermédiaire": {
+                      "categoryId": 100774,
+                      "categoryName": "Transmission Housing/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4904
+                    }
+                  }
+                }
+              },
+              "productId": 4904
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Distribution moteur": {
+          "categoryId": null,
+          "categoryName": "Distribution moteur",
+          "level": 2,
+          "children": {
+            "Roue dentée, arbre intermédiaire": {
+              "categoryId": 100003,
+              "categoryName": "Engine Timing",
+              "level": 2,
+              "children": {
+                "Pignon droit": {
+                  "categoryId": null,
+                  "categoryName": "Pignon droit",
+                  "level": 4,
+                  "children": {
+                    "Roue dentée, arbre intermédiaire": {
+                      "categoryId": 100425,
+                      "categoryName": "Timing Gear",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1069
+                    }
+                  }
+                },
+                "roues dentées": {
+                  "categoryId": null,
+                  "categoryName": "roues dentées",
+                  "level": 4,
+                  "children": {
+                    "Roue dentée, arbre intermédiaire": {
+                      "categoryId": 101833,
+                      "categoryName": "Timing Gears",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1069
+                    }
+                  }
+                }
+              },
+              "productId": 1069
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Boîte de vitesses [ID: 100238] (Niveau 1)\n│   └── Boîte de vitesses manuelle (Niveau 2)\n│       └── Manual Transmission [ID: 100239] (Niveau 2) → ProductId: 4904\n│           └── Carter/composants (Niveau 4)\n│               └── Transmission Housing/Parts [ID: 100774] (Niveau 3) → ProductId: 4904\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Distribution moteur (Niveau 2)\n        └── Engine Timing [ID: 100003] (Niveau 2) → ProductId: 1069\n            ├── Pignon droit (Niveau 4)\n            │   └── Timing Gear [ID: 100425] (Niveau 3) → ProductId: 1069\n            └── roues dentées (Niveau 4)\n                └── Timing Gears [ID: 101833] (Niveau 3) → ProductId: 1069",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesses manuelle",
+        "Manual Transmission"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        100239
+      ],
+      "finalCategoryId": 100239,
+      "productId": 4904
+    },
+    {
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Engine Timing"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100003
+      ],
+      "finalCategoryId": 100003,
+      "productId": 1069
+    }
+  ],
+  "productIdsInArbo": [
+    1069,
+    4904
+  ],
+  "matchedProductIds": [
+    1069
+  ]
+}

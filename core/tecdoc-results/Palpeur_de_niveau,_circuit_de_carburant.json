@@ -1,0 +1,54 @@
+{
+  "productName": "Palpeur de niveau, circuit de carburant",
+  "searchText": "Palpeur de niveau, circuit de carburant",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:18:47.311Z",
+  "productId": 4363,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Palpeur de niveau": {
+          "categoryId": null,
+          "categoryName": "Palpeur de niveau",
+          "level": 2,
+          "children": {
+            "Palpeur de niveau, circuit de carburant": {
+              "categoryId": 103077,
+              "categoryName": "Water Sensor",
+              "level": 2,
+              "children": [],
+              "productId": 4363
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Alimentation carburant [ID: 100214] (Niveau 1)\n    └── Palpeur de niveau (Niveau 2)\n        └── Water Sensor [ID: 103077] (Niveau 2) → ProductId: 4363",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Palpeur de niveau",
+        "Water Sensor"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        103077
+      ],
+      "finalCategoryId": 103077,
+      "productId": 4363
+    }
+  ],
+  "productIdsInArbo": [
+    4363
+  ],
+  "matchedProductIds": [
+    4363
+  ]
+}

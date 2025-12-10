@@ -1,0 +1,96 @@
+{
+  "productName": "Anneau de poussée",
+  "productId": 3273,
+  "searchText": "Anneau de poussée",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": false,
+      "arborescence": {
+        "Entraînement des essieux": {
+          "categoryId": 200056,
+          "categoryName": "Entraînement des essieux",
+          "level": 1,
+          "children": {
+            "Outils": {
+              "categoryId": null,
+              "categoryName": "Outils",
+              "level": 2,
+              "children": {
+                "Bague d’appui, poussoir bague d’étanchéité d’arbre": {
+                  "categoryId": 205430,
+                  "categoryName": "Tools",
+                  "level": 2,
+                  "children": [],
+                  "productId": 9446
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Entraînement des essieux [ID: 200056] (Niveau 1)\n    └── Outils (Niveau 2)\n        └── Tools [ID: 205430] (Niveau 2) → ProductId: 9446",
+      "productIdsInArbo": [
+        9446
+      ]
+    },
+    {
+      "typeId": 3,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 4,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 5,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 6,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 7,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 8,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 9,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 10,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 11,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 12,
+      "found": false,
+      "hasMatch": false
+    }
+  ],
+  "timestamp": "2025-12-03T09:40:36.982Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": false
+  }
+}

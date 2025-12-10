@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "AEE447",
+      "index": "YCB351",
+      "tecDoc": "YCB351",
+      "tecDocProd": "161",
+      "articleNumber": "YCB351",
+      "brand": "TRW",
+      "shortDescription": "Devices for working fluids and fuels",
+      "description": "Brake fluid change and system bleeding device, application: brake fluid, 20L TRW YCB 351",
+      "eans": [
+        "3322937537228"
+      ],
+      "packageWeight": "24,249",
+      "packageWidth": "45,000",
+      "packageDepth": "107,000",
+      "packageHeight": "51,000",
+      "customsCode": "84131100",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_2013",
+          "primary": false,
+          "name": {
+            "en": "Filling/Bleeding Unit, brake hydraulics"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91773",
+          "primary": true,
+          "name": {
+            "en": "Devices for working fluids and fuels"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.285Z",
+  "manufacturer": "GAC NE",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 5745,
+      "manufacturerName": "GAC NE",
+      "groupKey": "AION",
+      "displayName": "AION",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40922,
+          "modelName": "AION LX",
+          "modelYearFrom": "2019-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40923,
+          "modelName": "AION S",
+          "modelYearFrom": "2019-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40924,
+          "modelName": "AION V",
+          "modelYearFrom": "2020-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41914,
+          "modelName": "AION Y",
+          "modelYearFrom": "2021-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42084,
+          "modelName": "AION S PLUS",
+          "modelYearFrom": "2021-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42448,
+          "modelName": "AION V PLUS",
+          "modelYearFrom": "2021-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42632,
+          "modelName": "AION LX PLUS",
+          "modelYearFrom": "2022-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43623,
+          "modelName": "AION Y PLUS",
+          "modelYearFrom": "2022-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44878,
+          "modelName": "AION S MAX",
+          "modelYearFrom": "2023-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45687,
+          "modelName": "AION V",
+          "modelYearFrom": "2024-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 46010,
+          "modelName": "AION RT",
+          "modelYearFrom": "2024-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5745,
+      "manufacturerName": "GAC NE",
+      "groupKey": "TRUMPCHI",
+      "displayName": "TRUMPCHI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40927,
+          "modelName": "TRUMPCHI GE3",
+          "modelYearFrom": "2017-07-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

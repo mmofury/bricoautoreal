@@ -1,0 +1,49 @@
+{
+  "productName": "Plaque d'admission, pivot d'attelage",
+  "productId": 2760,
+  "searchText": "Plaque d'admission, pivot d'attelage",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Dispositif d'attelage/d'accouplement": {
+          "categoryId": 200941,
+          "categoryName": "Dispositif d'attelage/d'accouplement",
+          "level": 1,
+          "children": {
+            "Dispositif d'accouplement": {
+              "categoryId": null,
+              "categoryName": "Dispositif d'accouplement",
+              "level": 2,
+              "children": {
+                "Plaque d'admission, pivot d'attelage": {
+                  "categoryId": 200946,
+                  "categoryName": "Pulling Device",
+                  "level": 2,
+                  "children": [],
+                  "productId": 2760
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Dispositif d'attelage/d'accouplement [ID: 200941] (Niveau 1)\n    └── Dispositif d'accouplement (Niveau 2)\n        └── Pulling Device [ID: 200946] (Niveau 2) → ProductId: 2760",
+      "productIdsInArbo": [
+        2760
+      ],
+      "matchedProductIds": [
+        2760
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:11:37.250Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

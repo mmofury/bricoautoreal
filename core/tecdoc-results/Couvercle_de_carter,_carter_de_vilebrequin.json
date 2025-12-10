@@ -1,0 +1,106 @@
+{
+  "productName": "Couvercle de carter, carter de vilebrequin",
+  "searchText": "Couvercle de carter, carter de vilebrequin",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:26:50.272Z",
+  "productId": 1700,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Carter de vilebrequin": {
+          "categoryId": null,
+          "categoryName": "Carter de vilebrequin",
+          "level": 2,
+          "children": {
+            "Couvercle de carter, carter de vilebrequin": {
+              "categoryId": 100514,
+              "categoryName": "Crankcase",
+              "level": 2,
+              "children": {
+                "Carter de vilebrequin": {
+                  "categoryId": null,
+                  "categoryName": "Carter de vilebrequin",
+                  "level": 4,
+                  "children": {
+                    "Couvercle de carter, carter de vilebrequin": {
+                      "categoryId": 100533,
+                      "categoryName": "Crankcase",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1700
+                    }
+                  }
+                }
+              },
+              "productId": 1700
+            },
+            "Joint, couvercle de carter (carter de vilebrequin)": {
+              "categoryId": 100514,
+              "categoryName": "Crankcase",
+              "level": 2,
+              "children": {
+                "Carter de vilebrequin": {
+                  "categoryId": null,
+                  "categoryName": "Carter de vilebrequin",
+                  "level": 4,
+                  "children": {
+                    "Joint, couvercle de carter (carter de vilebrequin)": {
+                      "categoryId": 100533,
+                      "categoryName": "Crankcase",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3815
+                    }
+                  }
+                }
+              },
+              "productId": 3815
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Carter de vilebrequin (Niveau 2)\n        ├── Crankcase [ID: 100514] (Niveau 2) → ProductId: 1700\n        │   └── Carter de vilebrequin (Niveau 4)\n        │       └── Crankcase [ID: 100533] (Niveau 3) → ProductId: 1700\n        └── Crankcase [ID: 100514] (Niveau 2) → ProductId: 3815\n            └── Carter de vilebrequin (Niveau 4)\n                └── Crankcase [ID: 100533] (Niveau 3) → ProductId: 3815",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Carter de vilebrequin",
+        "Crankcase"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100514
+      ],
+      "finalCategoryId": 100514,
+      "productId": 1700
+    },
+    {
+      "path": [
+        "Moteur",
+        "Carter de vilebrequin",
+        "Crankcase"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100514
+      ],
+      "finalCategoryId": 100514,
+      "productId": 3815
+    }
+  ],
+  "productIdsInArbo": [
+    1700,
+    3815
+  ],
+  "matchedProductIds": [
+    1700
+  ]
+}

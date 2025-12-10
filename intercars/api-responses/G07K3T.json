@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G07K3T",
+      "index": "HAZ 2162-8",
+      "tecDoc": "2162-8",
+      "tecDocProd": "4808",
+      "articleNumber": "2162-8",
+      "brand": "HAZET",
+      "shortDescription": "Oil Syringe",
+      "description": "Oil filler manual, capacity 1l",
+      "eans": [
+        "4000896213337"
+      ],
+      "packageWeight": "1,160",
+      "packageWidth": "14,000",
+      "packageDepth": "49,000",
+      "packageHeight": "8,000",
+      "customsCode": "84099900",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_9176",
+          "primary": false,
+          "name": {
+            "en": "Dosing Hand Pump"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_9128",
+          "primary": true,
+          "name": {
+            "en": "Oil Syringe"
+          }
+        }
+      ]
+    }
+  ]
+}

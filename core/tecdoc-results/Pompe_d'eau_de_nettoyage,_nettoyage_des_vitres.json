@@ -1,0 +1,54 @@
+{
+  "productName": "Pompe d'eau de nettoyage, nettoyage des vitres",
+  "searchText": "Pompe d'eau de nettoyage, nettoyage des vitres",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:01:13.236Z",
+  "productId": 794,
+  "arborescence": {
+    "Nettoyage des vitres": {
+      "categoryId": 100018,
+      "categoryName": "Nettoyage des vitres",
+      "level": 1,
+      "children": {
+        "Pompe-à-eau / essuie-glaces": {
+          "categoryId": null,
+          "categoryName": "Pompe-à-eau / essuie-glaces",
+          "level": 2,
+          "children": {
+            "Pompe d'eau de nettoyage, nettoyage des vitres": {
+              "categoryId": 100135,
+              "categoryName": "Washer Fluid Pump",
+              "level": 2,
+              "children": [],
+              "productId": 794
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Nettoyage des vitres [ID: 100018] (Niveau 1)\n    └── Pompe-à-eau / essuie-glaces (Niveau 2)\n        └── Washer Fluid Pump [ID: 100135] (Niveau 2) → ProductId: 794",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Nettoyage des vitres",
+        "Pompe-à-eau / essuie-glaces",
+        "Washer Fluid Pump"
+      ],
+      "categoryIds": [
+        100018,
+        null,
+        100135
+      ],
+      "finalCategoryId": 100135,
+      "productId": 794
+    }
+  ],
+  "productIdsInArbo": [
+    794
+  ],
+  "matchedProductIds": [
+    794
+  ]
+}

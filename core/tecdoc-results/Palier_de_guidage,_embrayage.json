@@ -1,0 +1,54 @@
+{
+  "productName": "Palier de guidage, embrayage",
+  "searchText": "Palier de guidage, embrayage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:18:23.025Z",
+  "productId": 579,
+  "arborescence": {
+    "Embrayage / composants": {
+      "categoryId": 100050,
+      "categoryName": "Embrayage / composants",
+      "level": 1,
+      "children": {
+        "Palier guide / Rondelle de butée": {
+          "categoryId": null,
+          "categoryName": "Palier guide / Rondelle de butée",
+          "level": 2,
+          "children": {
+            "Palier de guidage, embrayage": {
+              "categoryId": 100059,
+              "categoryName": "Pilot Bearing/Thrust Washer",
+              "level": 2,
+              "children": [],
+              "productId": 579
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Embrayage / composants [ID: 100050] (Niveau 1)\n    └── Palier guide / Rondelle de butée (Niveau 2)\n        └── Pilot Bearing/Thrust Washer [ID: 100059] (Niveau 2) → ProductId: 579",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Embrayage / composants",
+        "Palier guide / Rondelle de butée",
+        "Pilot Bearing/Thrust Washer"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100059
+      ],
+      "finalCategoryId": 100059,
+      "productId": 579
+    }
+  ],
+  "productIdsInArbo": [
+    579
+  ],
+  "matchedProductIds": [
+    579
+  ]
+}

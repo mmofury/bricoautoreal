@@ -1,0 +1,148 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.221Z",
+  "manufacturer": "CMC",
+  "countGroups": 9,
+  "groups": [
+    {
+      "manufacturerId": 3772,
+      "manufacturerName": "CMC",
+      "groupKey": "AMANDLA",
+      "displayName": "AMANDLA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10589,
+          "modelName": "AMANDLA Autobus/Autocar",
+          "modelYearFrom": "2009-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3772,
+      "manufacturerName": "CMC",
+      "groupKey": "CYRUS",
+      "displayName": "CYRUS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10591,
+          "modelName": "CYRUS Pick-up",
+          "modelYearFrom": "2008-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3772,
+      "manufacturerName": "CMC",
+      "groupKey": "LIFAN",
+      "displayName": "LIFAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10821,
+          "modelName": "LIFAN",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3772,
+      "manufacturerName": "CMC",
+      "groupKey": "PLUTUS",
+      "displayName": "PLUTUS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10586,
+          "modelName": "PLUTUS Pick-up",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3772,
+      "manufacturerName": "CMC",
+      "groupKey": "SES",
+      "displayName": "SES",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10588,
+          "modelName": "SES BUYILE Autobus/Autocar",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3772,
+      "manufacturerName": "CMC",
+      "groupKey": "TIGO",
+      "displayName": "TIGO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10592,
+          "modelName": "TIGO Pick-up",
+          "modelYearFrom": "2008-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3772,
+      "manufacturerName": "CMC",
+      "groupKey": "VERYCA",
+      "displayName": "VERYCA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11768,
+          "modelName": "VERYCA Autobus/Autocar",
+          "modelYearFrom": "1998-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37143,
+          "modelName": "VERYCA Camion plate-forme/Châssis",
+          "modelYearFrom": "2010-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3772,
+      "manufacturerName": "CMC",
+      "groupKey": "Z7",
+      "displayName": "Z7",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39353,
+          "modelName": "Z7",
+          "modelYearFrom": "2012-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3772,
+      "manufacturerName": "CMC",
+      "groupKey": "ZINGER",
+      "displayName": "ZINGER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11772,
+          "modelName": "ZINGER SUV",
+          "modelYearFrom": "2005-10-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.258Z",
+  "manufacturer": "EUROPESTAR",
+  "countGroups": 1,
+  "groups": [
+    {
+      "manufacturerId": 3267,
+      "manufacturerName": "EUROPESTAR",
+      "groupKey": "RCR",
+      "displayName": "RCR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7992,
+          "modelName": "RCR Coupé",
+          "modelYearFrom": "2008-04-01",
+          "modelYearTo": "2012-12-01"
+        },
+        {
+          "modelId": 8102,
+          "modelName": "RCR A trois volumes",
+          "modelYearFrom": "2008-04-01",
+          "modelYearTo": "2012-12-01"
+        }
+      ]
+    }
+  ]
+}

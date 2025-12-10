@@ -1,0 +1,69 @@
+{
+  "productName": "Vis banjo , flexible de frein",
+  "productId": 5310,
+  "searchText": "Vis banjo , flexible de frein",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 3,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Moto": {
+          "categoryId": 103671,
+          "categoryName": "Moto",
+          "level": 1,
+          "children": {
+            "Dispositif de freinage": {
+              "categoryId": null,
+              "categoryName": "Dispositif de freinage",
+              "level": 2,
+              "children": {
+                "Vis banjo , flexible de frein": {
+                  "categoryId": 103672,
+                  "categoryName": "Braking System",
+                  "level": 2,
+                  "children": {
+                    "Conduites et flexibles de frein / accessoires": {
+                      "categoryId": null,
+                      "categoryName": "Conduites et flexibles de frein / accessoires",
+                      "level": 4,
+                      "children": {
+                        "Vis banjo , flexible de frein": {
+                          "categoryId": 104087,
+                          "categoryName": "Brake Lines/Hoses/Accessories",
+                          "level": 3,
+                          "children": [],
+                          "productId": 5310
+                        }
+                      }
+                    }
+                  },
+                  "productId": 5310
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Moto [ID: 103671] (Niveau 1)\n    └── Dispositif de freinage (Niveau 2)\n        └── Braking System [ID: 103672] (Niveau 2) → ProductId: 5310\n            └── Conduites et flexibles de frein / accessoires (Niveau 4)\n                └── Brake Lines/Hoses/Accessories [ID: 104087] (Niveau 3) → ProductId: 5310",
+      "productIdsInArbo": [
+        5310
+      ],
+      "matchedProductIds": [
+        5310
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:46:44.975Z",
+  "bestMatch": {
+    "typeId": 3,
+    "found": true,
+    "hasMatch": true
+  }
+}

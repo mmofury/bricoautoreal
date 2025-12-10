@@ -1,0 +1,69 @@
+{
+  "productName": "Kit de roues dentées, distribution",
+  "searchText": "Kit de roues dentées, distribution",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:02:50.826Z",
+  "productId": 5013,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Distribution moteur": {
+          "categoryId": null,
+          "categoryName": "Distribution moteur",
+          "level": 2,
+          "children": {
+            "Kit de roues dentées, distribution": {
+              "categoryId": 100003,
+              "categoryName": "Engine Timing",
+              "level": 2,
+              "children": {
+                "roues dentées": {
+                  "categoryId": null,
+                  "categoryName": "roues dentées",
+                  "level": 4,
+                  "children": {
+                    "Kit de roues dentées, distribution": {
+                      "categoryId": 101833,
+                      "categoryName": "Timing Gears",
+                      "level": 3,
+                      "children": [],
+                      "productId": 5013
+                    }
+                  }
+                }
+              },
+              "productId": 5013
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Distribution moteur (Niveau 2)\n        └── Engine Timing [ID: 100003] (Niveau 2) → ProductId: 5013\n            └── roues dentées (Niveau 4)\n                └── Timing Gears [ID: 101833] (Niveau 3) → ProductId: 5013",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Engine Timing"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100003
+      ],
+      "finalCategoryId": 100003,
+      "productId": 5013
+    }
+  ],
+  "productIdsInArbo": [
+    5013
+  ],
+  "matchedProductIds": [
+    5013
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "productName": "Vis-bouchon, carter de vilebrequin",
+  "searchText": "Vis-bouchon, carter de vilebrequin",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:35:15.665Z",
+  "productId": 1800,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Carter de vilebrequin": {
+          "categoryId": null,
+          "categoryName": "Carter de vilebrequin",
+          "level": 2,
+          "children": {
+            "Vis-bouchon, carter de vilebrequin": {
+              "categoryId": 100514,
+              "categoryName": "Crankcase",
+              "level": 2,
+              "children": {
+                "Carter de vilebrequin": {
+                  "categoryId": null,
+                  "categoryName": "Carter de vilebrequin",
+                  "level": 4,
+                  "children": {
+                    "Vis-bouchon, carter de vilebrequin": {
+                      "categoryId": 100533,
+                      "categoryName": "Crankcase",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1800
+                    }
+                  }
+                }
+              },
+              "productId": 1800
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Carter de vilebrequin (Niveau 2)\n        └── Crankcase [ID: 100514] (Niveau 2) → ProductId: 1800\n            └── Carter de vilebrequin (Niveau 4)\n                └── Crankcase [ID: 100533] (Niveau 3) → ProductId: 1800",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Carter de vilebrequin",
+        "Crankcase"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100514
+      ],
+      "finalCategoryId": 100514,
+      "productId": 1800
+    }
+  ],
+  "productIdsInArbo": [
+    1800
+  ],
+  "matchedProductIds": [
+    1800
+  ]
+}

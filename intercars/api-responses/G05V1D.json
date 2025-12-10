@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G05V1D",
+      "index": "1.11725",
+      "tecDoc": "1.11725",
+      "tecDocProd": "355",
+      "articleNumber": "1.11725",
+      "brand": "DT SPARE PARTS",
+      "shortDescription": "Exhaust pipe",
+      "description": "Air inlet pipe fits: SCANIA G I, P I, R I, T DC11.09-DT12.17 03.04-05.19",
+      "eans": [
+        "4057795234512"
+      ],
+      "packageWeight": "2,680",
+      "packageWidth": "17,000",
+      "packageDepth": "17,000",
+      "packageHeight": "60,000",
+      "customsCode": "84099900",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_17",
+          "primary": true,
+          "name": {
+            "en": "Exhaust pipe"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_859",
+          "primary": false,
+          "name": {
+            "en": "Intake Manifold, air supply"
+          }
+        }
+      ]
+    }
+  ]
+}

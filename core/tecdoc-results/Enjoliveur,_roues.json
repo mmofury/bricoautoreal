@@ -1,0 +1,89 @@
+{
+  "productName": "Enjoliveur, roues",
+  "searchText": "Enjoliveur, roues",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:36:38.596Z",
+  "productId": 1436,
+  "arborescence": {
+    "Roues/Pneus": {
+      "categoryId": 103099,
+      "categoryName": "Roues/Pneus",
+      "level": 1,
+      "children": {
+        "Accessoires": {
+          "categoryId": null,
+          "categoryName": "Accessoires",
+          "level": 2,
+          "children": {
+            "Enjoliveur, roues": {
+              "categoryId": 103102,
+              "categoryName": "Accessories",
+              "level": 2,
+              "children": [],
+              "productId": 1436
+            }
+          }
+        }
+      }
+    },
+    "Suspension d'essieu/Guidage des roues/Roues": {
+      "categoryId": 100013,
+      "categoryName": "Suspension d'essieu/Guidage des roues/Roues",
+      "level": 1,
+      "children": {
+        "Roue / fixation de la roue": {
+          "categoryId": null,
+          "categoryName": "Roue / fixation de la roue",
+          "level": 2,
+          "children": {
+            "Enjoliveur, roues": {
+              "categoryId": 100213,
+              "categoryName": "Wheel/Wheel Fastening",
+              "level": 2,
+              "children": [],
+              "productId": 1436
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Roues/Pneus [ID: 103099] (Niveau 1)\n│   └── Accessoires (Niveau 2)\n│       └── Accessories [ID: 103102] (Niveau 2) → ProductId: 1436\n\n└── Suspension d'essieu/Guidage des roues/Roues [ID: 100013] (Niveau 1)\n    └── Roue / fixation de la roue (Niveau 2)\n        └── Wheel/Wheel Fastening [ID: 100213] (Niveau 2) → ProductId: 1436",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Roues/Pneus",
+        "Accessoires",
+        "Accessories"
+      ],
+      "categoryIds": [
+        103099,
+        null,
+        103102
+      ],
+      "finalCategoryId": 103102,
+      "productId": 1436
+    },
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Roue / fixation de la roue",
+        "Wheel/Wheel Fastening"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        100213
+      ],
+      "finalCategoryId": 100213,
+      "productId": 1436
+    }
+  ],
+  "productIdsInArbo": [
+    1436
+  ],
+  "matchedProductIds": [
+    1436
+  ]
+}

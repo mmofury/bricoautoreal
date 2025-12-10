@@ -1,0 +1,104 @@
+{
+  "productName": "Capteur, pression du carter",
+  "searchText": "Capteur, pression du carter",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:16:32.068Z",
+  "productId": 60329,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Carter de vilebrequin": {
+          "categoryId": null,
+          "categoryName": "Carter de vilebrequin",
+          "level": 2,
+          "children": {
+            "Capteur, pression du carter": {
+              "categoryId": 100514,
+              "categoryName": "Crankcase",
+              "level": 2,
+              "children": {
+                "Carter de vilebrequin": {
+                  "categoryId": null,
+                  "categoryName": "Carter de vilebrequin",
+                  "level": 4,
+                  "children": {
+                    "Capteur, pression du carter": {
+                      "categoryId": 100533,
+                      "categoryName": "Crankcase",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60329
+                    }
+                  }
+                }
+              },
+              "productId": 60329
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Capteurs": {
+          "categoryId": null,
+          "categoryName": "Capteurs",
+          "level": 2,
+          "children": {
+            "Capteur, pression du carter": {
+              "categoryId": 102747,
+              "categoryName": "Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 60329
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Moteur [ID: 100002] (Niveau 1)\n│   └── Carter de vilebrequin (Niveau 2)\n│       └── Crankcase [ID: 100514] (Niveau 2) → ProductId: 60329\n│           └── Carter de vilebrequin (Niveau 4)\n│               └── Crankcase [ID: 100533] (Niveau 3) → ProductId: 60329\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Capteurs (Niveau 2)\n        └── Sensors [ID: 102747] (Niveau 2) → ProductId: 60329",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Carter de vilebrequin",
+        "Crankcase"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100514
+      ],
+      "finalCategoryId": 100514,
+      "productId": 60329
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Capteurs",
+        "Sensors"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        102747
+      ],
+      "finalCategoryId": 102747,
+      "productId": 60329
+    }
+  ],
+  "productIdsInArbo": [
+    60329
+  ],
+  "matchedProductIds": [
+    60329
+  ]
+}

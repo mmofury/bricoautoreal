@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G0SGX7",
+      "index": "HAZ 4937-120",
+      "tecDoc": "4937-120",
+      "tecDocProd": "4808",
+      "articleNumber": "4937-120",
+      "brand": "HAZET",
+      "shortDescription": "Sockets",
+      "description": "Socket, socket 3/4, for vehicle axles, socket size: 110 mm",
+      "customsCode": "82042000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_91757",
+          "primary": false,
+          "name": {
+            "en": "Wheel wrenches"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_4744",
+          "primary": true,
+          "name": {
+            "en": "Sockets"
+          }
+        }
+      ]
+    }
+  ]
+}

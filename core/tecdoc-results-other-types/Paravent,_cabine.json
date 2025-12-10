@@ -1,0 +1,49 @@
+{
+  "productName": "Paravent, cabine",
+  "productId": 844,
+  "searchText": "Paravent, cabine",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Cabine du conducteur/carrosserie": {
+          "categoryId": 200022,
+          "categoryName": "Cabine du conducteur/carrosserie",
+          "level": 1,
+          "children": {
+            "Pièces de montage / accessoires": {
+              "categoryId": null,
+              "categoryName": "Pièces de montage / accessoires",
+              "level": 2,
+              "children": {
+                "Paravent, cabine": {
+                  "categoryId": 200118,
+                  "categoryName": "Extras/ Accessories",
+                  "level": 2,
+                  "children": [],
+                  "productId": 844
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Cabine du conducteur/carrosserie [ID: 200022] (Niveau 1)\n    └── Pièces de montage / accessoires (Niveau 2)\n        └── Extras/ Accessories [ID: 200118] (Niveau 2) → ProductId: 844",
+      "productIdsInArbo": [
+        844
+      ],
+      "matchedProductIds": [
+        844
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:03:45.266Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

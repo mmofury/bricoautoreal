@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.271Z",
+  "manufacturer": "FISKER",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 3738,
+      "manufacturerName": "FISKER",
+      "groupKey": "KARMA",
+      "displayName": "KARMA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10311,
+          "modelName": "KARMA",
+          "modelYearFrom": "2012-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3738,
+      "manufacturerName": "FISKER",
+      "groupKey": "OCEAN",
+      "displayName": "OCEAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43959,
+          "modelName": "OCEAN",
+          "modelYearFrom": "2023-02-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

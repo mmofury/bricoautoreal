@@ -1,0 +1,151 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.304Z",
+  "manufacturer": "GURGEL",
+  "countGroups": 8,
+  "groups": [
+    {
+      "manufacturerId": 2249,
+      "manufacturerName": "GURGEL",
+      "groupKey": "BR",
+      "displayName": "BR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9939,
+          "modelName": "BR-800",
+          "modelYearFrom": "1987-01-01",
+          "modelYearTo": "1991-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2249,
+      "manufacturerName": "GURGEL",
+      "groupKey": "CARAJAS",
+      "displayName": "CARAJAS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9940,
+          "modelName": "CARAJAS",
+          "modelYearFrom": "1984-01-01",
+          "modelYearTo": "1994-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2249,
+      "manufacturerName": "GURGEL",
+      "groupKey": "G",
+      "displayName": "G",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9942,
+          "modelName": "G-800",
+          "modelYearFrom": "1983-01-01",
+          "modelYearTo": "1991-12-01"
+        },
+        {
+          "modelId": 12756,
+          "modelName": "G-15 Pick-up",
+          "modelYearFrom": "1977-01-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 12757,
+          "modelName": "G-15",
+          "modelYearFrom": "1977-01-01",
+          "modelYearTo": "1986-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2249,
+      "manufacturerName": "GURGEL",
+      "groupKey": "SUPERMINI",
+      "displayName": "SUPERMINI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9934,
+          "modelName": "SUPERMINI",
+          "modelYearFrom": "1991-01-01",
+          "modelYearTo": "1994-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2249,
+      "manufacturerName": "GURGEL",
+      "groupKey": "TOCANTINS",
+      "displayName": "TOCANTINS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45524,
+          "modelName": "TOCANTINS",
+          "modelYearFrom": "1989-01-01",
+          "modelYearTo": "1991-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2249,
+      "manufacturerName": "GURGEL",
+      "groupKey": "X",
+      "displayName": "X",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9935,
+          "modelName": "X-12",
+          "modelYearFrom": "1979-01-01",
+          "modelYearTo": "1991-12-01"
+        },
+        {
+          "modelId": 9936,
+          "modelName": "X-15",
+          "modelYearFrom": "1975-02-01",
+          "modelYearTo": "1993-05-01"
+        },
+        {
+          "modelId": 9937,
+          "modelName": "X-15 Pick-up",
+          "modelYearFrom": "1980-01-01",
+          "modelYearTo": "1984-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2249,
+      "manufacturerName": "GURGEL",
+      "groupKey": "XEF",
+      "displayName": "XEF",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9938,
+          "modelName": "XEF",
+          "modelYearFrom": "1981-01-01",
+          "modelYearTo": "1989-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2249,
+      "manufacturerName": "GURGEL",
+      "groupKey": "XT",
+      "displayName": "XT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 12788,
+          "modelName": "XT",
+          "modelYearFrom": "1970-01-01",
+          "modelYearTo": "1993-05-01"
+        }
+      ]
+    }
+  ]
+}

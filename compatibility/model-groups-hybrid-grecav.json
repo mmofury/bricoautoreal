@@ -1,0 +1,49 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.302Z",
+  "manufacturer": "GRECAV",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 2926,
+      "manufacturerName": "GRECAV",
+      "groupKey": "EKE",
+      "displayName": "EKE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37743,
+          "modelName": "EKE Fourgon/Break",
+          "modelYearFrom": "2000-01-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 37744,
+          "modelName": "EKE Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2000-01-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 43631,
+          "modelName": "EKE Pick-up",
+          "modelYearFrom": "2000-01-01",
+          "modelYearTo": "2008-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2926,
+      "manufacturerName": "GRECAV",
+      "groupKey": "SONIQUE",
+      "displayName": "SONIQUE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37745,
+          "modelName": "SONIQUE Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2009-01-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

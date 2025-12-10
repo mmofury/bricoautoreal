@@ -1,0 +1,54 @@
+{
+  "productName": "Serrure de boîte à gants",
+  "searchText": "Serrure de boîte à gants",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:15:30.286Z",
+  "productId": 1368,
+  "arborescence": {
+    "Verrouillage": {
+      "categoryId": 100685,
+      "categoryName": "Verrouillage",
+      "level": 1,
+      "children": {
+        "Serrure intérieure": {
+          "categoryId": null,
+          "categoryName": "Serrure intérieure",
+          "level": 2,
+          "children": {
+            "Serrure de boîte à gants": {
+              "categoryId": 100688,
+              "categoryName": "Interior Locks",
+              "level": 2,
+              "children": [],
+              "productId": 1368
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Verrouillage [ID: 100685] (Niveau 1)\n    └── Serrure intérieure (Niveau 2)\n        └── Interior Locks [ID: 100688] (Niveau 2) → ProductId: 1368",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Verrouillage",
+        "Serrure intérieure",
+        "Interior Locks"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100688
+      ],
+      "finalCategoryId": 100688,
+      "productId": 1368
+    }
+  ],
+  "productIdsInArbo": [
+    1368
+  ],
+  "matchedProductIds": [
+    1368
+  ]
+}

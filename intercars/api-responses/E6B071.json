@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "E6B071",
+      "index": "HAZ 847-1027A",
+      "tecDoc": "847-1027A",
+      "tecDocProd": "4808",
+      "articleNumber": "847-1027A",
+      "brand": "HAZET",
+      "shortDescription": "Cutting and sawing tools",
+      "description": "",
+      "eans": [
+        "4000896139910"
+      ],
+      "packageWeight": "0,280",
+      "packageWidth": "13,000",
+      "packageDepth": "2,500",
+      "packageHeight": "4,800",
+      "customsCode": "82031000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_5566",
+          "primary": false,
+          "name": {
+            "en": "Nut Splitter"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91628",
+          "primary": true,
+          "name": {
+            "en": "Cutting and sawing tools"
+          }
+        }
+      ]
+    }
+  ]
+}

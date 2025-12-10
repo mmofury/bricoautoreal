@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G04O10",
+      "index": "FS20121",
+      "tecDoc": "FS20121",
+      "tecDocProd": "4581",
+      "articleNumber": "FS20121",
+      "brand": "FLEETGUARD",
+      "shortDescription": "Fuel Filter",
+      "description": "Fuel filter fits: CUMMINS",
+      "packageWeight": "1,353",
+      "packageWidth": "11,500",
+      "packageDepth": "12,000",
+      "packageHeight": "28,000",
+      "customsCode": "84212300",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_9",
+          "primary": true,
+          "name": {
+            "en": "Fuel Filter"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3102",
+          "primary": false,
+          "name": {
+            "en": "Water Trap, fuel system"
+          }
+        }
+      ]
+    }
+  ]
+}

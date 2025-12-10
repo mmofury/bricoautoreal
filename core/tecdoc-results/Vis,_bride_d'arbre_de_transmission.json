@@ -1,0 +1,54 @@
+{
+  "productName": "Vis, bride d'arbre de transmission",
+  "searchText": "Vis, bride d'arbre de transmission",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:34:35.308Z",
+  "productId": 1611,
+  "arborescence": {
+    "Entraînement des roues": {
+      "categoryId": 100014,
+      "categoryName": "Entraînement des roues",
+      "level": 1,
+      "children": {
+        "Pièces de fixation / accessoires": {
+          "categoryId": null,
+          "categoryName": "Pièces de fixation / accessoires",
+          "level": 2,
+          "children": {
+            "Vis, bride d'arbre de transmission": {
+              "categoryId": 100066,
+              "categoryName": "Assembly Parts",
+              "level": 2,
+              "children": [],
+              "productId": 1611
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement des roues [ID: 100014] (Niveau 1)\n    └── Pièces de fixation / accessoires (Niveau 2)\n        └── Assembly Parts [ID: 100066] (Niveau 2) → ProductId: 1611",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des roues",
+        "Pièces de fixation / accessoires",
+        "Assembly Parts"
+      ],
+      "categoryIds": [
+        100014,
+        null,
+        100066
+      ],
+      "finalCategoryId": 100066,
+      "productId": 1611
+    }
+  ],
+  "productIdsInArbo": [
+    1611
+  ],
+  "matchedProductIds": [
+    1611
+  ]
+}

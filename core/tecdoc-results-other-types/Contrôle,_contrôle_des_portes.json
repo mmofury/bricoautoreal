@@ -1,0 +1,85 @@
+{
+  "productName": "Contrôle, contrôle des portes",
+  "productId": 2443,
+  "searchText": "Contrôle, contrôle des portes",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Cabine du conducteur/carrosserie": {
+          "categoryId": 200022,
+          "categoryName": "Cabine du conducteur/carrosserie",
+          "level": 1,
+          "children": {
+            "Hayons/Capots/Portes/Toits ouvrants": {
+              "categoryId": null,
+              "categoryName": "Hayons/Capots/Portes/Toits ouvrants",
+              "level": 2,
+              "children": {
+                "Contrôle, contrôle des portes": {
+                  "categoryId": 201076,
+                  "categoryName": "Hatches/ Bonnets/ Doors/ Sunroof",
+                  "level": 2,
+                  "children": {
+                    "Portière avant/composants": {
+                      "categoryId": null,
+                      "categoryName": "Portière avant/composants",
+                      "level": 4,
+                      "children": {
+                        "Contrôle, contrôle des portes": {
+                          "categoryId": 201078,
+                          "categoryName": "Doors/Parts",
+                          "level": 3,
+                          "children": [],
+                          "productId": 2443
+                        }
+                      }
+                    }
+                  },
+                  "productId": 2443
+                }
+              }
+            }
+          }
+        },
+        "Système électrique": {
+          "categoryId": 200064,
+          "categoryName": "Système électrique",
+          "level": 1,
+          "children": {
+            "Appareils de commande": {
+              "categoryId": null,
+              "categoryName": "Appareils de commande",
+              "level": 2,
+              "children": {
+                "Contrôle, contrôle des portes": {
+                  "categoryId": 202876,
+                  "categoryName": "Controls",
+                  "level": 2,
+                  "children": [],
+                  "productId": 2443
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "├── Cabine du conducteur/carrosserie [ID: 200022] (Niveau 1)\n│   └── Hayons/Capots/Portes/Toits ouvrants (Niveau 2)\n│       └── Hatches/ Bonnets/ Doors/ Sunroof [ID: 201076] (Niveau 2) → ProductId: 2443\n│           └── Portière avant/composants (Niveau 4)\n│               └── Doors/Parts [ID: 201078] (Niveau 3) → ProductId: 2443\n\n└── Système électrique [ID: 200064] (Niveau 1)\n    └── Appareils de commande (Niveau 2)\n        └── Controls [ID: 202876] (Niveau 2) → ProductId: 2443",
+      "productIdsInArbo": [
+        2443
+      ],
+      "matchedProductIds": [
+        2443
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:11:21.499Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

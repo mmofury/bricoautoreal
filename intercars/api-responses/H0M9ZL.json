@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H0M9ZL",
+      "index": "HAZ 6002CT",
+      "tecDoc": "6002CT",
+      "tecDocProd": "4808",
+      "articleNumber": "6002CT",
+      "brand": "HAZET",
+      "shortDescription": "Torque tools",
+      "description": "Screwdriver torque, torque range: 0,1-1,2 Nm, HEX",
+      "customsCode": "82054000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_6596",
+          "primary": false,
+          "name": {
+            "en": "Torque Screwdriver"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91631",
+          "primary": true,
+          "name": {
+            "en": "Torque tools"
+          }
+        }
+      ]
+    }
+  ]
+}

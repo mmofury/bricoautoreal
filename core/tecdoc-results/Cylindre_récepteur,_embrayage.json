@@ -1,0 +1,69 @@
+{
+  "productName": "Cylindre récepteur, embrayage",
+  "searchText": "Cylindre récepteur, embrayage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:28:47.348Z",
+  "productId": 620,
+  "arborescence": {
+    "Embrayage / composants": {
+      "categoryId": 100050,
+      "categoryName": "Embrayage / composants",
+      "level": 1,
+      "children": {
+        "Commande d'embrayage": {
+          "categoryId": null,
+          "categoryName": "Commande d'embrayage",
+          "level": 2,
+          "children": {
+            "Cylindre récepteur, embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Récepteur d'embrayage": {
+                  "categoryId": null,
+                  "categoryName": "Récepteur d'embrayage",
+                  "level": 4,
+                  "children": {
+                    "Cylindre récepteur, embrayage": {
+                      "categoryId": 100060,
+                      "categoryName": "Slave Cylinder",
+                      "level": 3,
+                      "children": [],
+                      "productId": 620
+                    }
+                  }
+                }
+              },
+              "productId": 620
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Embrayage / composants [ID: 100050] (Niveau 1)\n    └── Commande d'embrayage (Niveau 2)\n        └── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 620\n            └── Récepteur d'embrayage (Niveau 4)\n                └── Slave Cylinder [ID: 100060] (Niveau 3) → ProductId: 620",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 620
+    }
+  ],
+  "productIdsInArbo": [
+    620
+  ],
+  "matchedProductIds": [
+    620
+  ]
+}

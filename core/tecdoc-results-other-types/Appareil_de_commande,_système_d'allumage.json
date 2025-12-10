@@ -1,0 +1,407 @@
+{
+  "productName": "Appareil de commande, système d'allumage",
+  "searchText": "Appareil de commande, système d'allumage",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": false,
+      "arborescence": {
+        "Moteur": {
+          "categoryId": 200026,
+          "categoryName": "Moteur",
+          "level": 1,
+          "children": {
+            "Circuit électrique du moteur": {
+              "categoryId": null,
+              "categoryName": "Circuit électrique du moteur",
+              "level": 2,
+              "children": {
+                "Appareil de commande, système d'allumage": {
+                  "categoryId": 201066,
+                  "categoryName": "Engine Electrics",
+                  "level": 2,
+                  "children": [],
+                  "productId": 932
+                }
+              }
+            }
+          }
+        },
+        "Système électrique": {
+          "categoryId": 200064,
+          "categoryName": "Système électrique",
+          "level": 1,
+          "children": {
+            "Appareils de commande": {
+              "categoryId": null,
+              "categoryName": "Appareils de commande",
+              "level": 2,
+              "children": {
+                "Appareil de commande, système d'allumage": {
+                  "categoryId": 202876,
+                  "categoryName": "Controls",
+                  "level": 2,
+                  "children": [],
+                  "productId": 932
+                }
+              }
+            },
+            "Système d'allumage": {
+              "categoryId": null,
+              "categoryName": "Système d'allumage",
+              "level": 2,
+              "children": {
+                "Appareil de commande, système d'allumage": {
+                  "categoryId": 200569,
+                  "categoryName": "Ignition System",
+                  "level": 2,
+                  "children": {
+                    "Appareil de contrôle, système d'allumage": {
+                      "categoryId": null,
+                      "categoryName": "Appareil de contrôle, système d'allumage",
+                      "level": 4,
+                      "children": {
+                        "Appareil de commande, système d'allumage": {
+                          "categoryId": 200578,
+                          "categoryName": "Switch Unit, ignition system",
+                          "level": 3,
+                          "children": [],
+                          "productId": 1218
+                        }
+                      }
+                    },
+                    "Bobine/unite de bobine d'allumage": {
+                      "categoryId": null,
+                      "categoryName": "Bobine/unite de bobine d'allumage",
+                      "level": 4,
+                      "children": {
+                        "Appareil de commande, système d'allumage": {
+                          "categoryId": 200576,
+                          "categoryName": "Ignition Coil/Ignition Coil Unit",
+                          "level": 3,
+                          "children": [],
+                          "productId": 1218
+                        }
+                      }
+                    }
+                  },
+                  "productId": 1218
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "├── Moteur [ID: 200026] (Niveau 1)\n│   └── Circuit électrique du moteur (Niveau 2)\n│       └── Engine Electrics [ID: 201066] (Niveau 2) → ProductId: 932\n\n└── Système électrique [ID: 200064] (Niveau 1)\n    ├── Appareils de commande (Niveau 2)\n    │   └── Controls [ID: 202876] (Niveau 2) → ProductId: 932\n    └── Système d'allumage (Niveau 2)\n        └── Ignition System [ID: 200569] (Niveau 2) → ProductId: 1218\n            ├── Appareil de contrôle, système d'allumage (Niveau 4)\n            │   └── Switch Unit, ignition system [ID: 200578] (Niveau 3) → ProductId: 1218\n            └── Bobine/unite de bobine d'allumage (Niveau 4)\n                └── Ignition Coil/Ignition Coil Unit [ID: 200576] (Niveau 3) → ProductId: 1218",
+      "productIdsInArbo": [
+        932,
+        1218
+      ]
+    },
+    {
+      "typeId": 3,
+      "found": true,
+      "hasMatch": false,
+      "arborescence": {
+        "Allumage / préchauffage": {
+          "categoryId": 100008,
+          "categoryName": "Allumage / préchauffage",
+          "level": 1,
+          "children": {
+            "Appareil de commande / relais": {
+              "categoryId": null,
+              "categoryName": "Appareil de commande / relais",
+              "level": 2,
+              "children": {
+                "Appareil de commande, système d'allumage": {
+                  "categoryId": 100247,
+                  "categoryName": "Control Unit/Relay/Sensors",
+                  "level": 2,
+                  "children": [],
+                  "productId": 932
+                }
+              }
+            },
+            "Bobine/unite de bobine d'allumage": {
+              "categoryId": null,
+              "categoryName": "Bobine/unite de bobine d'allumage",
+              "level": 2,
+              "children": {
+                "Appareil de commande, système d'allumage": {
+                  "categoryId": 100150,
+                  "categoryName": "Ignition Coil/Ignition Coil Unit",
+                  "level": 2,
+                  "children": [],
+                  "productId": 1218
+                }
+              }
+            },
+            "Module d'allumage/Appareil de commande": {
+              "categoryId": null,
+              "categoryName": "Module d'allumage/Appareil de commande",
+              "level": 2,
+              "children": {
+                "Appareil de commande, système d'allumage": {
+                  "categoryId": 100246,
+                  "categoryName": "Ignition Module/Control Unit",
+                  "level": 2,
+                  "children": [],
+                  "productId": 1218
+                }
+              }
+            }
+          }
+        },
+        "Moteur": {
+          "categoryId": 100002,
+          "categoryName": "Moteur",
+          "level": 1,
+          "children": {
+            "Circuit électrique du moteur": {
+              "categoryId": null,
+              "categoryName": "Circuit électrique du moteur",
+              "level": 2,
+              "children": {
+                "Appareil de commande, système d'allumage": {
+                  "categoryId": 100754,
+                  "categoryName": "Engine Electrics",
+                  "level": 2,
+                  "children": [],
+                  "productId": 932
+                }
+              }
+            }
+          }
+        },
+        "Moto": {
+          "categoryId": 103671,
+          "categoryName": "Moto",
+          "level": 1,
+          "children": {
+            "Moteur": {
+              "categoryId": null,
+              "categoryName": "Moteur",
+              "level": 2,
+              "children": {
+                "Appareil de commande, système d'allumage": {
+                  "categoryId": 103814,
+                  "categoryName": "Engine",
+                  "level": 2,
+                  "children": {
+                    "Circuit électrique du moteur": {
+                      "categoryId": null,
+                      "categoryName": "Circuit électrique du moteur",
+                      "level": 4,
+                      "children": {
+                        "Appareil de commande, système d'allumage": {
+                          "categoryId": 104263,
+                          "categoryName": "Engine Electrics",
+                          "level": 3,
+                          "children": [],
+                          "productId": 932
+                        }
+                      }
+                    }
+                  },
+                  "productId": 932
+                }
+              }
+            },
+            "Système d'allumage": {
+              "categoryId": null,
+              "categoryName": "Système d'allumage",
+              "level": 2,
+              "children": {
+                "Appareil de commande, système d'allumage": {
+                  "categoryId": 103931,
+                  "categoryName": "Ignition System",
+                  "level": 2,
+                  "children": {
+                    "Appareil de commande / relais": {
+                      "categoryId": null,
+                      "categoryName": "Appareil de commande / relais",
+                      "level": 4,
+                      "children": {
+                        "Appareil de commande, système d'allumage": {
+                          "categoryId": 103939,
+                          "categoryName": "Control Unit/Relay/Sensors",
+                          "level": 3,
+                          "children": [],
+                          "productId": 932
+                        }
+                      }
+                    },
+                    "Bobine/unite de bobine d'allumage": {
+                      "categoryId": null,
+                      "categoryName": "Bobine/unite de bobine d'allumage",
+                      "level": 4,
+                      "children": {
+                        "Appareil de commande, système d'allumage": {
+                          "categoryId": 103934,
+                          "categoryName": "Ignition Coil/Ignition Coil Unit",
+                          "level": 3,
+                          "children": [],
+                          "productId": 1218
+                        }
+                      }
+                    },
+                    "Module d'allumage/Appareil de commande": {
+                      "categoryId": null,
+                      "categoryName": "Module d'allumage/Appareil de commande",
+                      "level": 4,
+                      "children": {
+                        "Appareil de commande, système d'allumage": {
+                          "categoryId": 103938,
+                          "categoryName": "Ignition Module/Control Unit",
+                          "level": 3,
+                          "children": [],
+                          "productId": 1218
+                        }
+                      }
+                    }
+                  },
+                  "productId": 1218
+                }
+              }
+            }
+          }
+        },
+        "Système électrique": {
+          "categoryId": 100010,
+          "categoryName": "Système électrique",
+          "level": 1,
+          "children": {
+            "Appareils de commande": {
+              "categoryId": null,
+              "categoryName": "Appareils de commande",
+              "level": 2,
+              "children": {
+                "Appareil de commande, système d'allumage": {
+                  "categoryId": 100727,
+                  "categoryName": "Control Units",
+                  "level": 2,
+                  "children": [],
+                  "productId": 932
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "├── Allumage / préchauffage [ID: 100008] (Niveau 1)\n│   ├── Appareil de commande / relais (Niveau 2)\n│   │   └── Control Unit/Relay/Sensors [ID: 100247] (Niveau 2) → ProductId: 932\n│   ├── Bobine/unite de bobine d'allumage (Niveau 2)\n│   │   └── Ignition Coil/Ignition Coil Unit [ID: 100150] (Niveau 2) → ProductId: 1218\n│   └── Module d'allumage/Appareil de commande (Niveau 2)\n│       └── Ignition Module/Control Unit [ID: 100246] (Niveau 2) → ProductId: 1218\n\n├── Moteur [ID: 100002] (Niveau 1)\n│   └── Circuit électrique du moteur (Niveau 2)\n│       └── Engine Electrics [ID: 100754] (Niveau 2) → ProductId: 932\n\n├── Moto [ID: 103671] (Niveau 1)\n│   ├── Moteur (Niveau 2)\n│   │   └── Engine [ID: 103814] (Niveau 2) → ProductId: 932\n│   │       └── Circuit électrique du moteur (Niveau 4)\n│   │           └── Engine Electrics [ID: 104263] (Niveau 3) → ProductId: 932\n│   └── Système d'allumage (Niveau 2)\n│       └── Ignition System [ID: 103931] (Niveau 2) → ProductId: 1218\n│           ├── Appareil de commande / relais (Niveau 4)\n│           │   └── Control Unit/Relay/Sensors [ID: 103939] (Niveau 3) → ProductId: 932\n│           ├── Bobine/unite de bobine d'allumage (Niveau 4)\n│           │   └── Ignition Coil/Ignition Coil Unit [ID: 103934] (Niveau 3) → ProductId: 1218\n│           └── Module d'allumage/Appareil de commande (Niveau 4)\n│               └── Ignition Module/Control Unit [ID: 103938] (Niveau 3) → ProductId: 1218\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Appareils de commande (Niveau 2)\n        └── Control Units [ID: 100727] (Niveau 2) → ProductId: 932",
+      "productIdsInArbo": [
+        932,
+        1218
+      ]
+    },
+    {
+      "typeId": 4,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 5,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 6,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 7,
+      "found": true,
+      "hasMatch": false,
+      "arborescence": {
+        "Allumage / préchauffage": {
+          "categoryId": 302321,
+          "categoryName": "Allumage / préchauffage",
+          "level": 1,
+          "children": {
+            "Appareil de commande / relais": {
+              "categoryId": null,
+              "categoryName": "Appareil de commande / relais",
+              "level": 2,
+              "children": {
+                "Appareil de commande, système d'allumage": {
+                  "categoryId": 302328,
+                  "categoryName": "Control Unit/Relay/Sensors",
+                  "level": 2,
+                  "children": [],
+                  "productId": 932
+                }
+              }
+            },
+            "Bobine/unite de bobine d'allumage": {
+              "categoryId": null,
+              "categoryName": "Bobine/unite de bobine d'allumage",
+              "level": 2,
+              "children": {
+                "Appareil de commande, système d'allumage": {
+                  "categoryId": 302323,
+                  "categoryName": "Ignition Coil/Ignition Coil Unit",
+                  "level": 2,
+                  "children": [],
+                  "productId": 1218
+                }
+              }
+            },
+            "Module d'allumage/Appareil de commande": {
+              "categoryId": null,
+              "categoryName": "Module d'allumage/Appareil de commande",
+              "level": 2,
+              "children": {
+                "Appareil de commande, système d'allumage": {
+                  "categoryId": 302326,
+                  "categoryName": "Ignition Module/Control Unit",
+                  "level": 2,
+                  "children": [],
+                  "productId": 1218
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Allumage / préchauffage [ID: 302321] (Niveau 1)\n    ├── Appareil de commande / relais (Niveau 2)\n    │   └── Control Unit/Relay/Sensors [ID: 302328] (Niveau 2) → ProductId: 932\n    ├── Bobine/unite de bobine d'allumage (Niveau 2)\n    │   └── Ignition Coil/Ignition Coil Unit [ID: 302323] (Niveau 2) → ProductId: 1218\n    └── Module d'allumage/Appareil de commande (Niveau 2)\n        └── Ignition Module/Control Unit [ID: 302326] (Niveau 2) → ProductId: 1218",
+      "productIdsInArbo": [
+        932,
+        1218
+      ]
+    },
+    {
+      "typeId": 8,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 9,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 10,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 11,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 12,
+      "found": false,
+      "hasMatch": false
+    }
+  ],
+  "timestamp": "2025-12-03T09:42:57.616Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": false
+  }
+}

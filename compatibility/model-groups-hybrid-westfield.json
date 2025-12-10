@@ -1,0 +1,97 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.539Z",
+  "manufacturer": "WESTFIELD",
+  "countGroups": 6,
+  "groups": [
+    {
+      "manufacturerId": 907,
+      "manufacturerName": "WESTFIELD",
+      "groupKey": "130",
+      "displayName": "130",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4390,
+          "modelName": "130 Roadster",
+          "modelYearFrom": "1997-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 907,
+      "manufacturerName": "WESTFIELD",
+      "groupKey": "FW",
+      "displayName": "FW",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37539,
+          "modelName": "FW",
+          "modelYearFrom": "2010-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 907,
+      "manufacturerName": "WESTFIELD",
+      "groupKey": "SE",
+      "displayName": "SE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11682,
+          "modelName": "SE / SEVEN",
+          "modelYearFrom": "1980-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 907,
+      "manufacturerName": "WESTFIELD",
+      "groupKey": "XI",
+      "displayName": "XI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9100,
+          "modelName": "XI",
+          "modelYearFrom": "1982-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 907,
+      "manufacturerName": "WESTFIELD",
+      "groupKey": "XTR",
+      "displayName": "XTR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9099,
+          "modelName": "XTR",
+          "modelYearFrom": "2001-09-01",
+          "modelYearTo": "2008-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 907,
+      "manufacturerName": "WESTFIELD",
+      "groupKey": "ZE",
+      "displayName": "ZE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4391,
+          "modelName": "ZE",
+          "modelYearFrom": "1993-01-01",
+          "modelYearTo": "1997-12-01"
+        }
+      ]
+    }
+  ]
+}

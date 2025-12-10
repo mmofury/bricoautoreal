@@ -1,0 +1,69 @@
+{
+  "productName": "Suspension, support de boîte de vitesse manuelle",
+  "searchText": "Suspension, support de boîte de vitesse manuelle",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:23:28.078Z",
+  "productId": 1616,
+  "arborescence": {
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Boîte de vitesses manuelle": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesses manuelle",
+          "level": 2,
+          "children": {
+            "Suspension, support de boîte de vitesse manuelle": {
+              "categoryId": 100239,
+              "categoryName": "Manual Transmission",
+              "level": 2,
+              "children": {
+                "Fixation": {
+                  "categoryId": null,
+                  "categoryName": "Fixation",
+                  "level": 4,
+                  "children": {
+                    "Suspension, support de boîte de vitesse manuelle": {
+                      "categoryId": 100772,
+                      "categoryName": "Transmission Mounting",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1616
+                    }
+                  }
+                }
+              },
+              "productId": 1616
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Boîte de vitesses [ID: 100238] (Niveau 1)\n    └── Boîte de vitesses manuelle (Niveau 2)\n        └── Manual Transmission [ID: 100239] (Niveau 2) → ProductId: 1616\n            └── Fixation (Niveau 4)\n                └── Transmission Mounting [ID: 100772] (Niveau 3) → ProductId: 1616",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesses manuelle",
+        "Manual Transmission"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        100239
+      ],
+      "finalCategoryId": 100239,
+      "productId": 1616
+    }
+  ],
+  "productIdsInArbo": [
+    1616
+  ],
+  "matchedProductIds": [
+    1616
+  ]
+}

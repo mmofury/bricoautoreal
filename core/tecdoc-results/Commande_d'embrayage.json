@@ -1,0 +1,2229 @@
+{
+  "productName": "Commande d'embrayage",
+  "searchText": "Commande d'embrayage",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T20:22:42.785Z",
+  "productId": 5409,
+  "arborescence": {
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Calibre de réglage, commande de l'embrayage": {
+              "categoryId": 103157,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 9079
+            }
+          }
+        }
+      }
+    },
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Interrupteur, commande d'embrayage (gestion du moteur)": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Interrupteur / relais": {
+                  "categoryId": null,
+                  "categoryName": "Interrupteur / relais",
+                  "level": 4,
+                  "children": {
+                    "Interrupteur, commande d'embrayage (gestion du moteur)": {
+                      "categoryId": 102808,
+                      "categoryName": "Switch/ Relay",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3936
+                    }
+                  }
+                }
+              },
+              "productId": 3936
+            }
+          }
+        }
+      }
+    },
+    "Embrayage / composants": {
+      "categoryId": 100050,
+      "categoryName": "Embrayage / composants",
+      "level": 1,
+      "children": {
+        "Butée d’embrayage/butée hydraulique": {
+          "categoryId": null,
+          "categoryName": "Butée d’embrayage/butée hydraulique",
+          "level": 2,
+          "children": {
+            "Butée, commande d'embrayage": {
+              "categoryId": 100054,
+              "categoryName": "Clutch Release Bearing/Central Slave Cylinder",
+              "level": 2,
+              "children": {
+                "Butée de débrayage": {
+                  "categoryId": null,
+                  "categoryName": "Butée de débrayage",
+                  "level": 4,
+                  "children": {
+                    "Butée, commande d'embrayage": {
+                      "categoryId": 100055,
+                      "categoryName": "Clutch Release Bearing",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4117
+                    }
+                  }
+                },
+                "Fourchette de débrayage": {
+                  "categoryId": null,
+                  "categoryName": "Fourchette de débrayage",
+                  "level": 4,
+                  "children": {
+                    "Butée, commande d'embrayage": {
+                      "categoryId": 102080,
+                      "categoryName": "Release Fork",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4117
+                    }
+                  }
+                }
+              },
+              "productId": 4117
+            }
+          }
+        },
+        "Commande d'embrayage": {
+          "categoryId": null,
+          "categoryName": "Commande d'embrayage",
+          "level": 2,
+          "children": {
+            "Accumulateur de pression, embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Accumulateur de pression": {
+                  "categoryId": null,
+                  "categoryName": "Accumulateur de pression",
+                  "level": 4,
+                  "children": {
+                    "Accumulateur de pression, embrayage": {
+                      "categoryId": 102673,
+                      "categoryName": "Pressure Accumulator",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3686
+                    }
+                  }
+                }
+              },
+              "productId": 3686
+            },
+            "Actionneur à levier (double embrayage)": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Leviers/pièces de transmission": {
+                  "categoryId": null,
+                  "categoryName": "Leviers/pièces de transmission",
+                  "level": 4,
+                  "children": {
+                    "Actionneur à levier (double embrayage)": {
+                      "categoryId": 100780,
+                      "categoryName": "Clutch Levers/Linkage",
+                      "level": 3,
+                      "children": [],
+                      "productId": 61264
+                    }
+                  }
+                }
+              },
+              "productId": 61264
+            },
+            "Actionneur d'accouplement": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Récepteur d'embrayage": {
+                  "categoryId": null,
+                  "categoryName": "Récepteur d'embrayage",
+                  "level": 4,
+                  "children": {
+                    "Actionneur d'accouplement": {
+                      "categoryId": 100060,
+                      "categoryName": "Slave Cylinder",
+                      "level": 3,
+                      "children": [],
+                      "productId": 5683
+                    }
+                  }
+                }
+              },
+              "productId": 5683
+            },
+            "Adaptateur, cylindre émetteur": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Cylindre émetteur": {
+                  "categoryId": null,
+                  "categoryName": "Cylindre émetteur",
+                  "level": 4,
+                  "children": {
+                    "Adaptateur, cylindre émetteur": {
+                      "categoryId": 100061,
+                      "categoryName": "Master Cylinder",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2743
+                    }
+                  }
+                }
+              },
+              "productId": 2743
+            },
+            "Barre/boulons, cylindre émetteur": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Cylindre émetteur": {
+                  "categoryId": null,
+                  "categoryName": "Cylindre émetteur",
+                  "level": 4,
+                  "children": {
+                    "Barre/boulons, cylindre émetteur": {
+                      "categoryId": 100061,
+                      "categoryName": "Master Cylinder",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2250
+                    }
+                  }
+                }
+              },
+              "productId": 2250
+            },
+            "Barre/boulons, cylindre récepteur": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Récepteur d'embrayage": {
+                  "categoryId": null,
+                  "categoryName": "Récepteur d'embrayage",
+                  "level": 4,
+                  "children": {
+                    "Barre/boulons, cylindre récepteur": {
+                      "categoryId": 100060,
+                      "categoryName": "Slave Cylinder",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2249
+                    }
+                  }
+                }
+              },
+              "productId": 2249
+            },
+            "Boulon à rotule, commande d'embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Récepteur d'embrayage": {
+                  "categoryId": null,
+                  "categoryName": "Récepteur d'embrayage",
+                  "level": 4,
+                  "children": {
+                    "Boulon à rotule, commande d'embrayage": {
+                      "categoryId": 100060,
+                      "categoryName": "Slave Cylinder",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1810
+                    }
+                  }
+                }
+              },
+              "productId": 1810
+            },
+            "Boulon de sécurité, câble d'embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Câble d'embrayage": {
+                  "categoryId": null,
+                  "categoryName": "Câble d'embrayage",
+                  "level": 4,
+                  "children": {
+                    "Boulon de sécurité, câble d'embrayage": {
+                      "categoryId": 100077,
+                      "categoryName": "Clutch Cable",
+                      "level": 3,
+                      "children": [],
+                      "productId": 5943
+                    }
+                  }
+                }
+              },
+              "productId": 5943
+            },
+            "Commande d'embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Leviers/pièces de transmission": {
+                  "categoryId": null,
+                  "categoryName": "Leviers/pièces de transmission",
+                  "level": 4,
+                  "children": {
+                    "Commande d'embrayage": {
+                      "categoryId": 100780,
+                      "categoryName": "Clutch Levers/Linkage",
+                      "level": 3,
+                      "children": [],
+                      "productId": 5745
+                    }
+                  }
+                }
+              },
+              "productId": 5745
+            },
+            "Conduite d'embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Cylindre émetteur": {
+                  "categoryId": null,
+                  "categoryName": "Cylindre émetteur",
+                  "level": 4,
+                  "children": {
+                    "Conduite d'embrayage": {
+                      "categoryId": 100061,
+                      "categoryName": "Master Cylinder",
+                      "level": 3,
+                      "children": [],
+                      "productId": 516
+                    }
+                  }
+                },
+                "Récepteur d'embrayage": {
+                  "categoryId": null,
+                  "categoryName": "Récepteur d'embrayage",
+                  "level": 4,
+                  "children": {
+                    "Conduite d'embrayage": {
+                      "categoryId": 100060,
+                      "categoryName": "Slave Cylinder",
+                      "level": 3,
+                      "children": [],
+                      "productId": 516
+                    }
+                  }
+                },
+                "Tuyaux / conduites": {
+                  "categoryId": null,
+                  "categoryName": "Tuyaux / conduites",
+                  "level": 4,
+                  "children": {
+                    "Conduite d'embrayage": {
+                      "categoryId": 100298,
+                      "categoryName": "Hoses/Pipes",
+                      "level": 3,
+                      "children": [],
+                      "productId": 516
+                    }
+                  }
+                }
+              },
+              "productId": 516
+            },
+            "Cylindre émetteur, embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Cylindre émetteur": {
+                  "categoryId": null,
+                  "categoryName": "Cylindre émetteur",
+                  "level": 4,
+                  "children": {
+                    "Cylindre émetteur, embrayage": {
+                      "categoryId": 100061,
+                      "categoryName": "Master Cylinder",
+                      "level": 3,
+                      "children": [],
+                      "productId": 234
+                    }
+                  }
+                }
+              },
+              "productId": 234
+            },
+            "Cylindre récepteur, embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Récepteur d'embrayage": {
+                  "categoryId": null,
+                  "categoryName": "Récepteur d'embrayage",
+                  "level": 4,
+                  "children": {
+                    "Cylindre récepteur, embrayage": {
+                      "categoryId": 100060,
+                      "categoryName": "Slave Cylinder",
+                      "level": 3,
+                      "children": [],
+                      "productId": 620
+                    }
+                  }
+                }
+              },
+              "productId": 620
+            },
+            "Écrou-guide, câble d'embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Câble d'embrayage": {
+                  "categoryId": null,
+                  "categoryName": "Câble d'embrayage",
+                  "level": 4,
+                  "children": {
+                    "Écrou-guide, câble d'embrayage": {
+                      "categoryId": 100077,
+                      "categoryName": "Clutch Cable",
+                      "level": 3,
+                      "children": [],
+                      "productId": 5941
+                    }
+                  }
+                }
+              },
+              "productId": 5941
+            },
+            "Filtre, purge (réservoir hydraulique d'embrayage)": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Ventilation": {
+                  "categoryId": null,
+                  "categoryName": "Ventilation",
+                  "level": 4,
+                  "children": {
+                    "Filtre, purge (réservoir hydraulique d'embrayage)": {
+                      "categoryId": 105589,
+                      "categoryName": "Breather",
+                      "level": 3,
+                      "children": [],
+                      "productId": 7399
+                    }
+                  }
+                }
+              },
+              "productId": 7399
+            },
+            "Goupille cannelée, actionneur levier (double embrayage)": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Leviers/pièces de transmission": {
+                  "categoryId": null,
+                  "categoryName": "Leviers/pièces de transmission",
+                  "level": 4,
+                  "children": {
+                    "Goupille cannelée, actionneur levier (double embrayage)": {
+                      "categoryId": 100780,
+                      "categoryName": "Clutch Levers/Linkage",
+                      "level": 3,
+                      "children": [],
+                      "productId": 61273
+                    }
+                  }
+                }
+              },
+              "productId": 61273
+            },
+            "Jeu d'actionneurs à levier (double embrayage)": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Leviers/pièces de transmission": {
+                  "categoryId": null,
+                  "categoryName": "Leviers/pièces de transmission",
+                  "level": 4,
+                  "children": {
+                    "Jeu d'actionneurs à levier (double embrayage)": {
+                      "categoryId": 100780,
+                      "categoryName": "Clutch Levers/Linkage",
+                      "level": 3,
+                      "children": [],
+                      "productId": 61266
+                    }
+                  }
+                }
+              },
+              "productId": 61266
+            },
+            "Jeu de cylindres émetteurs et récepteurs, embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Jeu de cylindres émetteurs/récepteurs": {
+                  "categoryId": null,
+                  "categoryName": "Jeu de cylindres émetteurs/récepteurs",
+                  "level": 4,
+                  "children": {
+                    "Jeu de cylindres émetteurs et récepteurs, embrayage": {
+                      "categoryId": 100831,
+                      "categoryName": "Master/Slave Cylinder Set",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2152
+                    }
+                  }
+                }
+              },
+              "productId": 2152
+            },
+            "Jeu servomoteurs, actionneur levier (double embrayage)": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Servomoteur": {
+                  "categoryId": null,
+                  "categoryName": "Servomoteur",
+                  "level": 4,
+                  "children": {
+                    "Jeu servomoteurs, actionneur levier (double embrayage)": {
+                      "categoryId": 706853,
+                      "categoryName": "Actuator",
+                      "level": 3,
+                      "children": [],
+                      "productId": 61270
+                    }
+                  }
+                }
+              },
+              "productId": 61270
+            },
+            "Joint, câble d'embrayage (écrou-guide)": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Câble d'embrayage": {
+                  "categoryId": null,
+                  "categoryName": "Câble d'embrayage",
+                  "level": 4,
+                  "children": {
+                    "Joint, câble d'embrayage (écrou-guide)": {
+                      "categoryId": 100077,
+                      "categoryName": "Clutch Cable",
+                      "level": 3,
+                      "children": [],
+                      "productId": 5952
+                    }
+                  }
+                }
+              },
+              "productId": 5952
+            },
+            "Kit d'assemblage, cylindre émetteur d'embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Cylindre émetteur": {
+                  "categoryId": null,
+                  "categoryName": "Cylindre émetteur",
+                  "level": 4,
+                  "children": {
+                    "Kit d'assemblage, cylindre émetteur d'embrayage": {
+                      "categoryId": 100061,
+                      "categoryName": "Master Cylinder",
+                      "level": 3,
+                      "children": [],
+                      "productId": 621
+                    }
+                  }
+                }
+              },
+              "productId": 621
+            },
+            "Kit d'assemblage, cylindre récepteur d'embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Récepteur d'embrayage": {
+                  "categoryId": null,
+                  "categoryName": "Récepteur d'embrayage",
+                  "level": 4,
+                  "children": {
+                    "Kit d'assemblage, cylindre récepteur d'embrayage": {
+                      "categoryId": 100060,
+                      "categoryName": "Slave Cylinder",
+                      "level": 3,
+                      "children": [],
+                      "productId": 622
+                    }
+                  }
+                }
+              },
+              "productId": 622
+            },
+            "Kit de réparation, réglage automatique de l'embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Câble d'embrayage": {
+                  "categoryId": null,
+                  "categoryName": "Câble d'embrayage",
+                  "level": 4,
+                  "children": {
+                    "Kit de réparation, réglage automatique de l'embrayage": {
+                      "categoryId": 100077,
+                      "categoryName": "Clutch Cable",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1751
+                    }
+                  }
+                }
+              },
+              "productId": 1751
+            },
+            "Kit réparation de câble, cylindre émetteur": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Cylindre émetteur": {
+                  "categoryId": null,
+                  "categoryName": "Cylindre émetteur",
+                  "level": 4,
+                  "children": {
+                    "Kit réparation de câble, cylindre émetteur": {
+                      "categoryId": 100061,
+                      "categoryName": "Master Cylinder",
+                      "level": 3,
+                      "children": [],
+                      "productId": 9604
+                    }
+                  }
+                }
+              },
+              "productId": 9604
+            },
+            "Kit réparation de câble, cylindre récepteur": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Récepteur d'embrayage": {
+                  "categoryId": null,
+                  "categoryName": "Récepteur d'embrayage",
+                  "level": 4,
+                  "children": {
+                    "Kit réparation de câble, cylindre récepteur": {
+                      "categoryId": 100060,
+                      "categoryName": "Slave Cylinder",
+                      "level": 3,
+                      "children": [],
+                      "productId": 9596
+                    }
+                  }
+                }
+              },
+              "productId": 9596
+            },
+            "Kit réparation, actionnement embray. (pièces transmission)": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Leviers/pièces de transmission": {
+                  "categoryId": null,
+                  "categoryName": "Leviers/pièces de transmission",
+                  "level": 4,
+                  "children": {
+                    "Kit réparation, actionnement embray. (pièces transmission)": {
+                      "categoryId": 100780,
+                      "categoryName": "Clutch Levers/Linkage",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8752
+                    }
+                  }
+                }
+              },
+              "productId": 8752
+            },
+            "Levier de braquage, pédale d'embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Pédale": {
+                  "categoryId": null,
+                  "categoryName": "Pédale",
+                  "level": 4,
+                  "children": {
+                    "Levier de braquage, pédale d'embrayage": {
+                      "categoryId": 100712,
+                      "categoryName": "Clutch Pedal",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60860
+                    }
+                  }
+                }
+              },
+              "productId": 60860
+            },
+            "Manchette, cylindre récepteur": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Récepteur d'embrayage": {
+                  "categoryId": null,
+                  "categoryName": "Récepteur d'embrayage",
+                  "level": 4,
+                  "children": {
+                    "Manchette, cylindre récepteur": {
+                      "categoryId": 100060,
+                      "categoryName": "Slave Cylinder",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2302
+                    }
+                  }
+                }
+              },
+              "productId": 2302
+            },
+            "Manchette, maître-cylindre d'embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Cylindre émetteur": {
+                  "categoryId": null,
+                  "categoryName": "Cylindre émetteur",
+                  "level": 4,
+                  "children": {
+                    "Manchette, maître-cylindre d'embrayage": {
+                      "categoryId": 100061,
+                      "categoryName": "Master Cylinder",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2301
+                    }
+                  }
+                }
+              },
+              "productId": 2301
+            },
+            "Pédale d'embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Pédale": {
+                  "categoryId": null,
+                  "categoryName": "Pédale",
+                  "level": 4,
+                  "children": {
+                    "Pédale d'embrayage": {
+                      "categoryId": 100712,
+                      "categoryName": "Clutch Pedal",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1525
+                    }
+                  }
+                }
+              },
+              "productId": 1525
+            },
+            "Régulateur de pression d'embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Régulateur de pression": {
+                  "categoryId": null,
+                  "categoryName": "Régulateur de pression",
+                  "level": 4,
+                  "children": {
+                    "Régulateur de pression d'embrayage": {
+                      "categoryId": 706881,
+                      "categoryName": "Pressure Regulator",
+                      "level": 3,
+                      "children": [],
+                      "productId": 61366
+                    }
+                  }
+                }
+              },
+              "productId": 61366
+            },
+            "Ressort, commande d'embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Leviers/pièces de transmission": {
+                  "categoryId": null,
+                  "categoryName": "Leviers/pièces de transmission",
+                  "level": 4,
+                  "children": {
+                    "Ressort, commande d'embrayage": {
+                      "categoryId": 100780,
+                      "categoryName": "Clutch Levers/Linkage",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4689
+                    }
+                  }
+                }
+              },
+              "productId": 4689
+            },
+            "Ressort, pédale d'embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Pédale": {
+                  "categoryId": null,
+                  "categoryName": "Pédale",
+                  "level": 4,
+                  "children": {
+                    "Ressort, pédale d'embrayage": {
+                      "categoryId": 100712,
+                      "categoryName": "Clutch Pedal",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4034
+                    }
+                  }
+                }
+              },
+              "productId": 4034
+            },
+            "Revêtement de pédale, pédale d'embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Pédale": {
+                  "categoryId": null,
+                  "categoryName": "Pédale",
+                  "level": 4,
+                  "children": {
+                    "Revêtement de pédale, pédale d'embrayage": {
+                      "categoryId": 100712,
+                      "categoryName": "Clutch Pedal",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1630
+                    }
+                  }
+                }
+              },
+              "productId": 1630
+            },
+            "Sélecteur de circuit, embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Soupape/Valve alternative": {
+                  "categoryId": null,
+                  "categoryName": "Soupape/Valve alternative",
+                  "level": 4,
+                  "children": {
+                    "Sélecteur de circuit, embrayage": {
+                      "categoryId": 101926,
+                      "categoryName": "Shuttle Valve",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3147
+                    }
+                  }
+                }
+              },
+              "productId": 3147
+            },
+            "Servo-débrayeur": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Servo-débrayeur": {
+                  "categoryId": null,
+                  "categoryName": "Servo-débrayeur",
+                  "level": 4,
+                  "children": {
+                    "Servo-débrayeur": {
+                      "categoryId": 706697,
+                      "categoryName": "Clutch Booster",
+                      "level": 3,
+                      "children": [],
+                      "productId": 264
+                    }
+                  }
+                }
+              },
+              "productId": 264
+            },
+            "Servomoteur, actionneur à levier (double embrayage)": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Servomoteur": {
+                  "categoryId": null,
+                  "categoryName": "Servomoteur",
+                  "level": 4,
+                  "children": {
+                    "Servomoteur, actionneur à levier (double embrayage)": {
+                      "categoryId": 706853,
+                      "categoryName": "Actuator",
+                      "level": 3,
+                      "children": [],
+                      "productId": 61268
+                    }
+                  }
+                }
+              },
+              "productId": 61268
+            },
+            "Soupape maintien de pression, cylindre récepteur d'embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Récepteur d'embrayage": {
+                  "categoryId": null,
+                  "categoryName": "Récepteur d'embrayage",
+                  "level": 4,
+                  "children": {
+                    "Soupape maintien de pression, cylindre récepteur d'embrayage": {
+                      "categoryId": 100060,
+                      "categoryName": "Slave Cylinder",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1304
+                    }
+                  }
+                }
+              },
+              "productId": 1304
+            },
+            "Soupape maintien de pression,cylindre émetteur d'embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Cylindre émetteur": {
+                  "categoryId": null,
+                  "categoryName": "Cylindre émetteur",
+                  "level": 4,
+                  "children": {
+                    "Soupape maintien de pression,cylindre émetteur d'embrayage": {
+                      "categoryId": 100061,
+                      "categoryName": "Master Cylinder",
+                      "level": 3,
+                      "children": [],
+                      "productId": 164
+                    }
+                  }
+                }
+              },
+              "productId": 164
+            },
+            "Support, commande d'embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Leviers/pièces de transmission": {
+                  "categoryId": null,
+                  "categoryName": "Leviers/pièces de transmission",
+                  "level": 4,
+                  "children": {
+                    "Support, commande d'embrayage": {
+                      "categoryId": 100780,
+                      "categoryName": "Clutch Levers/Linkage",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1753
+                    }
+                  }
+                }
+              },
+              "productId": 1753
+            },
+            "Système commande d´embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Système commande d´embrayage": {
+                  "categoryId": null,
+                  "categoryName": "Système commande d´embrayage",
+                  "level": 4,
+                  "children": {
+                    "Système commande d´embrayage": {
+                      "categoryId": 102754,
+                      "categoryName": "Clutch Actuation System",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3825
+                    }
+                  }
+                }
+              },
+              "productId": 3825
+            },
+            "Tirette à câble, commande d'embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Câble d'embrayage": {
+                  "categoryId": null,
+                  "categoryName": "Câble d'embrayage",
+                  "level": 4,
+                  "children": {
+                    "Tirette à câble, commande d'embrayage": {
+                      "categoryId": 100077,
+                      "categoryName": "Clutch Cable",
+                      "level": 3,
+                      "children": [],
+                      "productId": 478
+                    }
+                  }
+                }
+              },
+              "productId": 478
+            },
+            "Tringlerie d'embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Leviers/pièces de transmission": {
+                  "categoryId": null,
+                  "categoryName": "Leviers/pièces de transmission",
+                  "level": 4,
+                  "children": {
+                    "Tringlerie d'embrayage": {
+                      "categoryId": 100780,
+                      "categoryName": "Clutch Levers/Linkage",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60922
+                    }
+                  }
+                }
+              },
+              "productId": 60922
+            },
+            "Tuyau d'embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Cylindre émetteur": {
+                  "categoryId": null,
+                  "categoryName": "Cylindre émetteur",
+                  "level": 4,
+                  "children": {
+                    "Tuyau d'embrayage": {
+                      "categoryId": 100061,
+                      "categoryName": "Master Cylinder",
+                      "level": 3,
+                      "children": [],
+                      "productId": 457
+                    }
+                  }
+                },
+                "Récepteur d'embrayage": {
+                  "categoryId": null,
+                  "categoryName": "Récepteur d'embrayage",
+                  "level": 4,
+                  "children": {
+                    "Tuyau d'embrayage": {
+                      "categoryId": 100060,
+                      "categoryName": "Slave Cylinder",
+                      "level": 3,
+                      "children": [],
+                      "productId": 457
+                    }
+                  }
+                },
+                "Tuyaux / conduites": {
+                  "categoryId": null,
+                  "categoryName": "Tuyaux / conduites",
+                  "level": 4,
+                  "children": {
+                    "Tuyau d'embrayage": {
+                      "categoryId": 100298,
+                      "categoryName": "Hoses/Pipes",
+                      "level": 3,
+                      "children": [],
+                      "productId": 457
+                    }
+                  }
+                }
+              },
+              "productId": 457
+            },
+            "Vis d'ajustement, câble d'embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Câble d'embrayage": {
+                  "categoryId": null,
+                  "categoryName": "Câble d'embrayage",
+                  "level": 4,
+                  "children": {
+                    "Vis d'ajustement, câble d'embrayage": {
+                      "categoryId": 100077,
+                      "categoryName": "Clutch Cable",
+                      "level": 3,
+                      "children": [],
+                      "productId": 5940
+                    }
+                  }
+                }
+              },
+              "productId": 5940
+            },
+            "Vis, actionneur à levier (double embrayage)": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Leviers/pièces de transmission": {
+                  "categoryId": null,
+                  "categoryName": "Leviers/pièces de transmission",
+                  "level": 4,
+                  "children": {
+                    "Vis, actionneur à levier (double embrayage)": {
+                      "categoryId": 100780,
+                      "categoryName": "Clutch Levers/Linkage",
+                      "level": 3,
+                      "children": [],
+                      "productId": 61271
+                    }
+                  }
+                }
+              },
+              "productId": 61271
+            },
+            "Vis, commande d'embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Leviers/pièces de transmission": {
+                  "categoryId": null,
+                  "categoryName": "Leviers/pièces de transmission",
+                  "level": 4,
+                  "children": {
+                    "Vis, commande d'embrayage": {
+                      "categoryId": 100780,
+                      "categoryName": "Clutch Levers/Linkage",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4740
+                    }
+                  }
+                }
+              },
+              "productId": 4740
+            }
+          }
+        },
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Calibre de réglage, commande de l'embrayage": {
+              "categoryId": 103156,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 9079
+            }
+          }
+        }
+      }
+    },
+    "Équipement intérieur": {
+      "categoryId": 100341,
+      "categoryName": "Équipement intérieur",
+      "level": 1,
+      "children": {
+        "Leviers manuels / Leviers de pédale": {
+          "categoryId": null,
+          "categoryName": "Leviers manuels / Leviers de pédale",
+          "level": 2,
+          "children": {
+            "Levier de braquage, pédale d'embrayage": {
+              "categoryId": 102695,
+              "categoryName": "Hand/Foot Lever System",
+              "level": 2,
+              "children": [],
+              "productId": 60860
+            },
+            "Pédale d'embrayage": {
+              "categoryId": 102695,
+              "categoryName": "Hand/Foot Lever System",
+              "level": 2,
+              "children": [],
+              "productId": 1525
+            },
+            "Ressort, pédale d'embrayage": {
+              "categoryId": 102695,
+              "categoryName": "Hand/Foot Lever System",
+              "level": 2,
+              "children": [],
+              "productId": 4034
+            },
+            "Revêtement de pédale, pédale d'embrayage": {
+              "categoryId": 102695,
+              "categoryName": "Hand/Foot Lever System",
+              "level": 2,
+              "children": [],
+              "productId": 1630
+            }
+          }
+        }
+      }
+    },
+    "Filtre": {
+      "categoryId": 100005,
+      "categoryName": "Filtre",
+      "level": 1,
+      "children": {
+        "Filtre hydraulique": {
+          "categoryId": null,
+          "categoryName": "Filtre hydraulique",
+          "level": 2,
+          "children": {
+            "Filtre, purge (réservoir hydraulique d'embrayage)": {
+              "categoryId": 706725,
+              "categoryName": "Hydraulic Filter",
+              "level": 2,
+              "children": [],
+              "productId": 7399
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Circuit électrique du moteur": {
+          "categoryId": null,
+          "categoryName": "Circuit électrique du moteur",
+          "level": 2,
+          "children": {
+            "Interrupteur, commande d'embrayage (gestion du moteur)": {
+              "categoryId": 100754,
+              "categoryName": "Engine Electrics",
+              "level": 2,
+              "children": [],
+              "productId": 3936
+            }
+          }
+        }
+      }
+    },
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Moteur / Relais": {
+          "categoryId": null,
+          "categoryName": "Moteur / Relais",
+          "level": 2,
+          "children": {
+            "Commande, embrayage (régulateur de vitesse)": {
+              "categoryId": 104156,
+              "categoryName": "Motor/Relay/Switch",
+              "level": 2,
+              "children": {
+                "Régulateur de vitesse": {
+                  "categoryId": null,
+                  "categoryName": "Régulateur de vitesse",
+                  "level": 4,
+                  "children": {
+                    "Commande, embrayage (régulateur de vitesse)": {
+                      "categoryId": 104163,
+                      "categoryName": "Cruise Control System",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2415
+                    }
+                  }
+                }
+              },
+              "productId": 2415
+            }
+          }
+        },
+        "Régulateur de vitesse": {
+          "categoryId": null,
+          "categoryName": "Régulateur de vitesse",
+          "level": 2,
+          "children": {
+            "Commande, embrayage (régulateur de vitesse)": {
+              "categoryId": 100615,
+              "categoryName": "Cruise Control",
+              "level": 2,
+              "children": [],
+              "productId": 2415
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Boîte de vitesses [ID: 100238] (Niveau 1)\n│   └── Outils (Niveau 2)\n│       └── Tools [ID: 103157] (Niveau 2) → ProductId: 9079\n\n├── Carburation [ID: 100254] (Niveau 1)\n│   └── Mélange air-carburant (Niveau 2)\n│       └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 3936\n│           └── Interrupteur / relais (Niveau 4)\n│               └── Switch/ Relay [ID: 102808] (Niveau 3) → ProductId: 3936\n\n├── Embrayage / composants [ID: 100050] (Niveau 1)\n│   ├── Butée d’embrayage/butée hydraulique (Niveau 2)\n│   │   └── Clutch Release Bearing/Central Slave Cylinder [ID: 100054] (Niveau 2) → ProductId: 4117\n│   │       ├── Butée de débrayage (Niveau 4)\n│   │       │   └── Clutch Release Bearing [ID: 100055] (Niveau 3) → ProductId: 4117\n│   │       └── Fourchette de débrayage (Niveau 4)\n│   │           └── Release Fork [ID: 102080] (Niveau 3) → ProductId: 4117\n│   ├── Commande d'embrayage (Niveau 2)\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 3686\n│   │   │   └── Accumulateur de pression (Niveau 4)\n│   │   │       └── Pressure Accumulator [ID: 102673] (Niveau 3) → ProductId: 3686\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 61264\n│   │   │   └── Leviers/pièces de transmission (Niveau 4)\n│   │   │       └── Clutch Levers/Linkage [ID: 100780] (Niveau 3) → ProductId: 61264\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 5683\n│   │   │   └── Récepteur d'embrayage (Niveau 4)\n│   │   │       └── Slave Cylinder [ID: 100060] (Niveau 3) → ProductId: 5683\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 2743\n│   │   │   └── Cylindre émetteur (Niveau 4)\n│   │   │       └── Master Cylinder [ID: 100061] (Niveau 3) → ProductId: 2743\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 2250\n│   │   │   └── Cylindre émetteur (Niveau 4)\n│   │   │       └── Master Cylinder [ID: 100061] (Niveau 3) → ProductId: 2250\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 2249\n│   │   │   └── Récepteur d'embrayage (Niveau 4)\n│   │   │       └── Slave Cylinder [ID: 100060] (Niveau 3) → ProductId: 2249\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 1810\n│   │   │   └── Récepteur d'embrayage (Niveau 4)\n│   │   │       └── Slave Cylinder [ID: 100060] (Niveau 3) → ProductId: 1810\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 5943\n│   │   │   └── Câble d'embrayage (Niveau 4)\n│   │   │       └── Clutch Cable [ID: 100077] (Niveau 3) → ProductId: 5943\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 5745\n│   │   │   └── Leviers/pièces de transmission (Niveau 4)\n│   │   │       └── Clutch Levers/Linkage [ID: 100780] (Niveau 3) → ProductId: 5745\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 516\n│   │   │   ├── Cylindre émetteur (Niveau 4)\n│   │   │   │   └── Master Cylinder [ID: 100061] (Niveau 3) → ProductId: 516\n│   │   │   ├── Récepteur d'embrayage (Niveau 4)\n│   │   │   │   └── Slave Cylinder [ID: 100060] (Niveau 3) → ProductId: 516\n│   │   │   └── Tuyaux / conduites (Niveau 4)\n│   │   │       └── Hoses/Pipes [ID: 100298] (Niveau 3) → ProductId: 516\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 234\n│   │   │   └── Cylindre émetteur (Niveau 4)\n│   │   │       └── Master Cylinder [ID: 100061] (Niveau 3) → ProductId: 234\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 620\n│   │   │   └── Récepteur d'embrayage (Niveau 4)\n│   │   │       └── Slave Cylinder [ID: 100060] (Niveau 3) → ProductId: 620\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 5941\n│   │   │   └── Câble d'embrayage (Niveau 4)\n│   │   │       └── Clutch Cable [ID: 100077] (Niveau 3) → ProductId: 5941\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 7399\n│   │   │   └── Ventilation (Niveau 4)\n│   │   │       └── Breather [ID: 105589] (Niveau 3) → ProductId: 7399\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 61273\n│   │   │   └── Leviers/pièces de transmission (Niveau 4)\n│   │   │       └── Clutch Levers/Linkage [ID: 100780] (Niveau 3) → ProductId: 61273\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 61266\n│   │   │   └── Leviers/pièces de transmission (Niveau 4)\n│   │   │       └── Clutch Levers/Linkage [ID: 100780] (Niveau 3) → ProductId: 61266\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 2152\n│   │   │   └── Jeu de cylindres émetteurs/récepteurs (Niveau 4)\n│   │   │       └── Master/Slave Cylinder Set [ID: 100831] (Niveau 3) → ProductId: 2152\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 61270\n│   │   │   └── Servomoteur (Niveau 4)\n│   │   │       └── Actuator [ID: 706853] (Niveau 3) → ProductId: 61270\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 5952\n│   │   │   └── Câble d'embrayage (Niveau 4)\n│   │   │       └── Clutch Cable [ID: 100077] (Niveau 3) → ProductId: 5952\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 621\n│   │   │   └── Cylindre émetteur (Niveau 4)\n│   │   │       └── Master Cylinder [ID: 100061] (Niveau 3) → ProductId: 621\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 622\n│   │   │   └── Récepteur d'embrayage (Niveau 4)\n│   │   │       └── Slave Cylinder [ID: 100060] (Niveau 3) → ProductId: 622\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 1751\n│   │   │   └── Câble d'embrayage (Niveau 4)\n│   │   │       └── Clutch Cable [ID: 100077] (Niveau 3) → ProductId: 1751\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 9604\n│   │   │   └── Cylindre émetteur (Niveau 4)\n│   │   │       └── Master Cylinder [ID: 100061] (Niveau 3) → ProductId: 9604\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 9596\n│   │   │   └── Récepteur d'embrayage (Niveau 4)\n│   │   │       └── Slave Cylinder [ID: 100060] (Niveau 3) → ProductId: 9596\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 8752\n│   │   │   └── Leviers/pièces de transmission (Niveau 4)\n│   │   │       └── Clutch Levers/Linkage [ID: 100780] (Niveau 3) → ProductId: 8752\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 60860\n│   │   │   └── Pédale (Niveau 4)\n│   │   │       └── Clutch Pedal [ID: 100712] (Niveau 3) → ProductId: 60860\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 2302\n│   │   │   └── Récepteur d'embrayage (Niveau 4)\n│   │   │       └── Slave Cylinder [ID: 100060] (Niveau 3) → ProductId: 2302\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 2301\n│   │   │   └── Cylindre émetteur (Niveau 4)\n│   │   │       └── Master Cylinder [ID: 100061] (Niveau 3) → ProductId: 2301\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 1525\n│   │   │   └── Pédale (Niveau 4)\n│   │   │       └── Clutch Pedal [ID: 100712] (Niveau 3) → ProductId: 1525\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 61366\n│   │   │   └── Régulateur de pression (Niveau 4)\n│   │   │       └── Pressure Regulator [ID: 706881] (Niveau 3) → ProductId: 61366\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 4689\n│   │   │   └── Leviers/pièces de transmission (Niveau 4)\n│   │   │       └── Clutch Levers/Linkage [ID: 100780] (Niveau 3) → ProductId: 4689\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 4034\n│   │   │   └── Pédale (Niveau 4)\n│   │   │       └── Clutch Pedal [ID: 100712] (Niveau 3) → ProductId: 4034\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 1630\n│   │   │   └── Pédale (Niveau 4)\n│   │   │       └── Clutch Pedal [ID: 100712] (Niveau 3) → ProductId: 1630\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 3147\n│   │   │   └── Soupape/Valve alternative (Niveau 4)\n│   │   │       └── Shuttle Valve [ID: 101926] (Niveau 3) → ProductId: 3147\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 264\n│   │   │   └── Servo-débrayeur (Niveau 4)\n│   │   │       └── Clutch Booster [ID: 706697] (Niveau 3) → ProductId: 264\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 61268\n│   │   │   └── Servomoteur (Niveau 4)\n│   │   │       └── Actuator [ID: 706853] (Niveau 3) → ProductId: 61268\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 1304\n│   │   │   └── Récepteur d'embrayage (Niveau 4)\n│   │   │       └── Slave Cylinder [ID: 100060] (Niveau 3) → ProductId: 1304\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 164\n│   │   │   └── Cylindre émetteur (Niveau 4)\n│   │   │       └── Master Cylinder [ID: 100061] (Niveau 3) → ProductId: 164\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 1753\n│   │   │   └── Leviers/pièces de transmission (Niveau 4)\n│   │   │       └── Clutch Levers/Linkage [ID: 100780] (Niveau 3) → ProductId: 1753\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 3825\n│   │   │   └── Système commande d´embrayage (Niveau 4)\n│   │   │       └── Clutch Actuation System [ID: 102754] (Niveau 3) → ProductId: 3825\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 478\n│   │   │   └── Câble d'embrayage (Niveau 4)\n│   │   │       └── Clutch Cable [ID: 100077] (Niveau 3) → ProductId: 478\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 60922\n│   │   │   └── Leviers/pièces de transmission (Niveau 4)\n│   │   │       └── Clutch Levers/Linkage [ID: 100780] (Niveau 3) → ProductId: 60922\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 457\n│   │   │   ├── Cylindre émetteur (Niveau 4)\n│   │   │   │   └── Master Cylinder [ID: 100061] (Niveau 3) → ProductId: 457\n│   │   │   ├── Récepteur d'embrayage (Niveau 4)\n│   │   │   │   └── Slave Cylinder [ID: 100060] (Niveau 3) → ProductId: 457\n│   │   │   └── Tuyaux / conduites (Niveau 4)\n│   │   │       └── Hoses/Pipes [ID: 100298] (Niveau 3) → ProductId: 457\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 5940\n│   │   │   └── Câble d'embrayage (Niveau 4)\n│   │   │       └── Clutch Cable [ID: 100077] (Niveau 3) → ProductId: 5940\n│   │   ├── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 61271\n│   │   │   └── Leviers/pièces de transmission (Niveau 4)\n│   │   │       └── Clutch Levers/Linkage [ID: 100780] (Niveau 3) → ProductId: 61271\n│   │   └── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 4740\n│   │       └── Leviers/pièces de transmission (Niveau 4)\n│   │           └── Clutch Levers/Linkage [ID: 100780] (Niveau 3) → ProductId: 4740\n│   └── Outils (Niveau 2)\n│       └── Tools [ID: 103156] (Niveau 2) → ProductId: 9079\n\n├── Équipement intérieur [ID: 100341] (Niveau 1)\n│   └── Leviers manuels / Leviers de pédale (Niveau 2)\n│       ├── Hand/Foot Lever System [ID: 102695] (Niveau 2) → ProductId: 60860\n│       ├── Hand/Foot Lever System [ID: 102695] (Niveau 2) → ProductId: 1525\n│       ├── Hand/Foot Lever System [ID: 102695] (Niveau 2) → ProductId: 4034\n│       └── Hand/Foot Lever System [ID: 102695] (Niveau 2) → ProductId: 1630\n\n├── Filtre [ID: 100005] (Niveau 1)\n│   └── Filtre hydraulique (Niveau 2)\n│       └── Hydraulic Filter [ID: 706725] (Niveau 2) → ProductId: 7399\n\n├── Moteur [ID: 100002] (Niveau 1)\n│   └── Circuit électrique du moteur (Niveau 2)\n│       └── Engine Electrics [ID: 100754] (Niveau 2) → ProductId: 3936\n\n└── Systèmes de confort [ID: 100335] (Niveau 1)\n    ├── Moteur / Relais (Niveau 2)\n    │   └── Motor/Relay/Switch [ID: 104156] (Niveau 2) → ProductId: 2415\n    │       └── Régulateur de vitesse (Niveau 4)\n    │           └── Cruise Control System [ID: 104163] (Niveau 3) → ProductId: 2415\n    └── Régulateur de vitesse (Niveau 2)\n        └── Cruise Control [ID: 100615] (Niveau 2) → ProductId: 2415",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        103157
+      ],
+      "finalCategoryId": 103157,
+      "productId": 9079
+    },
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 3936
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Butée d’embrayage/butée hydraulique",
+        "Clutch Release Bearing/Central Slave Cylinder"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100054
+      ],
+      "finalCategoryId": 100054,
+      "productId": 4117
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 3686
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 61264
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 5683
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 2743
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 2250
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 2249
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 1810
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 5943
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 5745
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 516
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 234
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 620
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 5941
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 7399
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 61273
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 61266
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 2152
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 61270
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 5952
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 621
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 622
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 1751
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 9604
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 9596
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 8752
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 60860
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 2302
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 2301
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 1525
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 61366
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 4689
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 4034
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 1630
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 3147
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 264
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 61268
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 1304
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 164
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 1753
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 3825
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 478
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 60922
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 457
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 5940
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 61271
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 4740
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        103156
+      ],
+      "finalCategoryId": 103156,
+      "productId": 9079
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Leviers manuels / Leviers de pédale",
+        "Hand/Foot Lever System"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102695
+      ],
+      "finalCategoryId": 102695,
+      "productId": 60860
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Leviers manuels / Leviers de pédale",
+        "Hand/Foot Lever System"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102695
+      ],
+      "finalCategoryId": 102695,
+      "productId": 1525
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Leviers manuels / Leviers de pédale",
+        "Hand/Foot Lever System"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102695
+      ],
+      "finalCategoryId": 102695,
+      "productId": 4034
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Leviers manuels / Leviers de pédale",
+        "Hand/Foot Lever System"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102695
+      ],
+      "finalCategoryId": 102695,
+      "productId": 1630
+    },
+    {
+      "path": [
+        "Filtre",
+        "Filtre hydraulique",
+        "Hydraulic Filter"
+      ],
+      "categoryIds": [
+        100005,
+        null,
+        706725
+      ],
+      "finalCategoryId": 706725,
+      "productId": 7399
+    },
+    {
+      "path": [
+        "Moteur",
+        "Circuit électrique du moteur",
+        "Engine Electrics"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100754
+      ],
+      "finalCategoryId": 100754,
+      "productId": 3936
+    },
+    {
+      "path": [
+        "Systèmes de confort",
+        "Moteur / Relais",
+        "Motor/Relay/Switch"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        104156
+      ],
+      "finalCategoryId": 104156,
+      "productId": 2415
+    },
+    {
+      "path": [
+        "Systèmes de confort",
+        "Régulateur de vitesse",
+        "Cruise Control"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        100615
+      ],
+      "finalCategoryId": 100615,
+      "productId": 2415
+    }
+  ],
+  "productIdsInArbo": [
+    164,
+    234,
+    264,
+    457,
+    478,
+    516,
+    620,
+    621,
+    622,
+    1304,
+    1525,
+    1630,
+    1751,
+    1753,
+    1810,
+    2152,
+    2249,
+    2250,
+    2301,
+    2302,
+    2415,
+    2743,
+    3147,
+    3686,
+    3825,
+    3936,
+    4034,
+    4117,
+    4689,
+    4740,
+    5683,
+    5745,
+    5940,
+    5941,
+    5943,
+    5952,
+    7399,
+    8752,
+    9079,
+    9596,
+    9604,
+    60860,
+    60922,
+    61264,
+    61266,
+    61268,
+    61270,
+    61271,
+    61273,
+    61366
+  ],
+  "closestProductIds": [
+    {
+      "productId": 164,
+      "productName": "Soupape maintien de pression,cylindre émetteur d'embrayage"
+    },
+    {
+      "productId": 234,
+      "productName": "Cylindre émetteur, embrayage"
+    },
+    {
+      "productId": 264,
+      "productName": "Servo-débrayeur"
+    },
+    {
+      "productId": 457,
+      "productName": "Tuyau d'embrayage"
+    },
+    {
+      "productId": 478,
+      "productName": "Tirette à câble, commande d'embrayage"
+    }
+  ]
+}

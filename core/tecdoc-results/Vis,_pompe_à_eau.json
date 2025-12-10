@@ -1,0 +1,69 @@
+{
+  "productName": "Vis, pompe à eau",
+  "searchText": "Vis, pompe à eau",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:35:00.355Z",
+  "productId": 4946,
+  "arborescence": {
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Pompe à eau / joint": {
+          "categoryId": null,
+          "categoryName": "Pompe à eau / joint",
+          "level": 2,
+          "children": {
+            "Vis, pompe à eau": {
+              "categoryId": 100088,
+              "categoryName": "Water Pump/Gasket",
+              "level": 2,
+              "children": {
+                "Pompe à eau": {
+                  "categoryId": null,
+                  "categoryName": "Pompe à eau",
+                  "level": 4,
+                  "children": {
+                    "Vis, pompe à eau": {
+                      "categoryId": 100091,
+                      "categoryName": "Water Pump",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4946
+                    }
+                  }
+                }
+              },
+              "productId": 4946
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Refroidissement [ID: 100007] (Niveau 1)\n    └── Pompe à eau / joint (Niveau 2)\n        └── Water Pump/Gasket [ID: 100088] (Niveau 2) → ProductId: 4946\n            └── Pompe à eau (Niveau 4)\n                └── Water Pump [ID: 100091] (Niveau 3) → ProductId: 4946",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Refroidissement",
+        "Pompe à eau / joint",
+        "Water Pump/Gasket"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100088
+      ],
+      "finalCategoryId": 100088,
+      "productId": 4946
+    }
+  ],
+  "productIdsInArbo": [
+    4946
+  ],
+  "matchedProductIds": [
+    4946
+  ]
+}

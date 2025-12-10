@@ -1,0 +1,170 @@
+{
+  "productName": "Vérin, hayon (coffre arrière)",
+  "searchText": "Vérin, hayon (coffre arrière)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:36:30.707Z",
+  "productId": 5032,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Arrière de la voiture": {
+          "categoryId": null,
+          "categoryName": "Arrière de la voiture",
+          "level": 2,
+          "children": {
+            "Vérin, hayon (coffre arrière)": {
+              "categoryId": 101705,
+              "categoryName": "Vehicle Rear",
+              "level": 2,
+              "children": {
+                "Composants/suppléments": {
+                  "categoryId": null,
+                  "categoryName": "Composants/suppléments",
+                  "level": 4,
+                  "children": {
+                    "Vérin, hayon (coffre arrière)": {
+                      "categoryId": 101745,
+                      "categoryName": "Parts",
+                      "level": 3,
+                      "children": {
+                        "Ressorts pneumatiques": {
+                          "categoryId": null,
+                          "categoryName": "Ressorts pneumatiques",
+                          "level": 6,
+                          "children": {
+                            "Vérin, hayon (coffre arrière)": {
+                              "categoryId": 101752,
+                              "categoryName": "Gas Springs",
+                              "level": 4,
+                              "children": [],
+                              "productId": 5032
+                            }
+                          }
+                        }
+                      },
+                      "productId": 5032
+                    }
+                  }
+                }
+              },
+              "productId": 5032
+            }
+          }
+        },
+        "Habitacle": {
+          "categoryId": null,
+          "categoryName": "Habitacle",
+          "level": 2,
+          "children": {
+            "Vérin, hayon (coffre arrière)": {
+              "categoryId": 101690,
+              "categoryName": "Passenger Cabin",
+              "level": 2,
+              "children": {
+                "Composants/suppléments": {
+                  "categoryId": null,
+                  "categoryName": "Composants/suppléments",
+                  "level": 4,
+                  "children": {
+                    "Vérin, hayon (coffre arrière)": {
+                      "categoryId": 101700,
+                      "categoryName": "Parts",
+                      "level": 3,
+                      "children": {
+                        "Ressorts pneumatiques": {
+                          "categoryId": null,
+                          "categoryName": "Ressorts pneumatiques",
+                          "level": 6,
+                          "children": {
+                            "Vérin, hayon (coffre arrière)": {
+                              "categoryId": 101703,
+                              "categoryName": "Gas Springs",
+                              "level": 4,
+                              "children": [],
+                              "productId": 5032
+                            }
+                          }
+                        }
+                      },
+                      "productId": 5032
+                    }
+                  }
+                }
+              },
+              "productId": 5032
+            }
+          }
+        },
+        "Ressorts pneumatiques": {
+          "categoryId": null,
+          "categoryName": "Ressorts pneumatiques",
+          "level": 2,
+          "children": {
+            "Vérin, hayon (coffre arrière)": {
+              "categoryId": 100826,
+              "categoryName": "Gas Springs",
+              "level": 2,
+              "children": [],
+              "productId": 5032
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    ├── Arrière de la voiture (Niveau 2)\n    │   └── Vehicle Rear [ID: 101705] (Niveau 2) → ProductId: 5032\n    │       └── Composants/suppléments (Niveau 4)\n    │           └── Parts [ID: 101745] (Niveau 3) → ProductId: 5032\n    │               └── Ressorts pneumatiques (Niveau 6)\n    │                   └── Gas Springs [ID: 101752] (Niveau 4) → ProductId: 5032\n    ├── Habitacle (Niveau 2)\n    │   └── Passenger Cabin [ID: 101690] (Niveau 2) → ProductId: 5032\n    │       └── Composants/suppléments (Niveau 4)\n    │           └── Parts [ID: 101700] (Niveau 3) → ProductId: 5032\n    │               └── Ressorts pneumatiques (Niveau 6)\n    │                   └── Gas Springs [ID: 101703] (Niveau 4) → ProductId: 5032\n    └── Ressorts pneumatiques (Niveau 2)\n        └── Gas Springs [ID: 100826] (Niveau 2) → ProductId: 5032",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Vehicle Rear"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101705
+      ],
+      "finalCategoryId": 101705,
+      "productId": 5032
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Habitacle",
+        "Passenger Cabin"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101690
+      ],
+      "finalCategoryId": 101690,
+      "productId": 5032
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Ressorts pneumatiques",
+        "Gas Springs"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100826
+      ],
+      "finalCategoryId": 100826,
+      "productId": 5032
+    }
+  ],
+  "productIdsInArbo": [
+    5032
+  ],
+  "matchedProductIds": [
+    5032
+  ]
+}

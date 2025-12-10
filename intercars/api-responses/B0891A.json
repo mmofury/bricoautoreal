@@ -1,0 +1,36 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "B0891A",
+      "index": "EL773204",
+      "tecDoc": "773.204",
+      "tecDocProd": "10",
+      "articleNumber": "773.204",
+      "brand": "ELRING",
+      "shortDescription": "Seal, air compressor",
+      "description": "DB Elring compressor seal",
+      "packageWeight": "0,016",
+      "customsCode": "84849000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1679",
+          "primary": true,
+          "name": {
+            "en": "Seal, air compressor"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_60011",
+          "primary": false,
+          "name": {
+            "en": "Cylinder Head Gasket, air compressor"
+          }
+        }
+      ]
+    }
+  ]
+}

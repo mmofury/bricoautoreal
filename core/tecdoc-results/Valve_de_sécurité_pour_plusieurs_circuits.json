@@ -1,0 +1,69 @@
+{
+  "productName": "Valve de sécurité pour plusieurs circuits",
+  "searchText": "Valve de sécurité pour plusieurs circuits",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:31:44.957Z",
+  "productId": 341,
+  "arborescence": {
+    "Système pneumatique": {
+      "categoryId": 103168,
+      "categoryName": "Système pneumatique",
+      "level": 1,
+      "children": {
+        "Soupapes / Système d'air comprimé": {
+          "categoryId": null,
+          "categoryName": "Soupapes / Système d'air comprimé",
+          "level": 2,
+          "children": {
+            "Valve de sécurité pour plusieurs circuits": {
+              "categoryId": 103198,
+              "categoryName": "Valves/compressed-air system",
+              "level": 2,
+              "children": {
+                "Valve de sécurité pour plusieurs circuits": {
+                  "categoryId": null,
+                  "categoryName": "Valve de sécurité pour plusieurs circuits",
+                  "level": 4,
+                  "children": {
+                    "Valve de sécurité pour plusieurs circuits": {
+                      "categoryId": 103199,
+                      "categoryName": "Multiple-Circuit Protection Valve",
+                      "level": 3,
+                      "children": [],
+                      "productId": 341
+                    }
+                  }
+                }
+              },
+              "productId": 341
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système pneumatique [ID: 103168] (Niveau 1)\n    └── Soupapes / Système d'air comprimé (Niveau 2)\n        └── Valves/compressed-air system [ID: 103198] (Niveau 2) → ProductId: 341\n            └── Valve de sécurité pour plusieurs circuits (Niveau 4)\n                └── Multiple-Circuit Protection Valve [ID: 103199] (Niveau 3) → ProductId: 341",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système pneumatique",
+        "Soupapes / Système d'air comprimé",
+        "Valves/compressed-air system"
+      ],
+      "categoryIds": [
+        103168,
+        null,
+        103198
+      ],
+      "finalCategoryId": 103198,
+      "productId": 341
+    }
+  ],
+  "productIdsInArbo": [
+    341
+  ],
+  "matchedProductIds": [
+    341
+  ]
+}

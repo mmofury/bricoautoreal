@@ -1,0 +1,69 @@
+{
+  "productName": "Collier de fixation, pompe à eau additionnelle",
+  "searchText": "Collier de fixation, pompe à eau additionnelle",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:22:27.844Z",
+  "productId": 5760,
+  "arborescence": {
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Pompe à eau / joint": {
+          "categoryId": null,
+          "categoryName": "Pompe à eau / joint",
+          "level": 2,
+          "children": {
+            "Collier de fixation, pompe à eau additionnelle": {
+              "categoryId": 100088,
+              "categoryName": "Water Pump/Gasket",
+              "level": 2,
+              "children": {
+                "Pompe à eau": {
+                  "categoryId": null,
+                  "categoryName": "Pompe à eau",
+                  "level": 4,
+                  "children": {
+                    "Collier de fixation, pompe à eau additionnelle": {
+                      "categoryId": 100091,
+                      "categoryName": "Water Pump",
+                      "level": 3,
+                      "children": [],
+                      "productId": 5760
+                    }
+                  }
+                }
+              },
+              "productId": 5760
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Refroidissement [ID: 100007] (Niveau 1)\n    └── Pompe à eau / joint (Niveau 2)\n        └── Water Pump/Gasket [ID: 100088] (Niveau 2) → ProductId: 5760\n            └── Pompe à eau (Niveau 4)\n                └── Water Pump [ID: 100091] (Niveau 3) → ProductId: 5760",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Refroidissement",
+        "Pompe à eau / joint",
+        "Water Pump/Gasket"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100088
+      ],
+      "finalCategoryId": 100088,
+      "productId": 5760
+    }
+  ],
+  "productIdsInArbo": [
+    5760
+  ],
+  "matchedProductIds": [
+    5760
+  ]
+}

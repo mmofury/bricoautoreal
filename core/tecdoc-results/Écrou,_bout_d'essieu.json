@@ -1,0 +1,69 @@
+{
+  "productName": "Écrou, bout d'essieu",
+  "searchText": "Écrou, bout d'essieu",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:37:58.955Z",
+  "productId": 2065,
+  "arborescence": {
+    "Suspension d'essieu/Guidage des roues/Roues": {
+      "categoryId": 100013,
+      "categoryName": "Suspension d'essieu/Guidage des roues/Roues",
+      "level": 1,
+      "children": {
+        "Moyeu de roue / fixation": {
+          "categoryId": null,
+          "categoryName": "Moyeu de roue / fixation",
+          "level": 2,
+          "children": {
+            "Écrou, bout d'essieu": {
+              "categoryId": 100206,
+              "categoryName": "Wheel Hub/Mounting",
+              "level": 2,
+              "children": {
+                "Bout d'essieu": {
+                  "categoryId": null,
+                  "categoryName": "Bout d'essieu",
+                  "level": 4,
+                  "children": {
+                    "Écrou, bout d'essieu": {
+                      "categoryId": 100803,
+                      "categoryName": "Stub Axle",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2065
+                    }
+                  }
+                }
+              },
+              "productId": 2065
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Suspension d'essieu/Guidage des roues/Roues [ID: 100013] (Niveau 1)\n    └── Moyeu de roue / fixation (Niveau 2)\n        └── Wheel Hub/Mounting [ID: 100206] (Niveau 2) → ProductId: 2065\n            └── Bout d'essieu (Niveau 4)\n                └── Stub Axle [ID: 100803] (Niveau 3) → ProductId: 2065",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Moyeu de roue / fixation",
+        "Wheel Hub/Mounting"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        100206
+      ],
+      "finalCategoryId": 100206,
+      "productId": 2065
+    }
+  ],
+  "productIdsInArbo": [
+    2065
+  ],
+  "matchedProductIds": [
+    2065
+  ]
+}

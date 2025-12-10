@@ -1,0 +1,133 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.437Z",
+  "manufacturer": "NSU",
+  "countGroups": 8,
+  "groups": [
+    {
+      "manufacturerId": 81,
+      "manufacturerName": "NSU",
+      "groupKey": "1000",
+      "displayName": "1000",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1736,
+          "modelName": "1000",
+          "modelYearFrom": "1963-01-01",
+          "modelYearTo": "1972-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 81,
+      "manufacturerName": "NSU",
+      "groupKey": "1200",
+      "displayName": "1200",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1739,
+          "modelName": "1200",
+          "modelYearFrom": "1969-09-01",
+          "modelYearTo": "1971-11-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 81,
+      "manufacturerName": "NSU",
+      "groupKey": "PRINZ",
+      "displayName": "PRINZ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1735,
+          "modelName": "PRINZ",
+          "modelYearFrom": "1961-08-01",
+          "modelYearTo": "1974-03-01"
+        },
+        {
+          "modelId": 36971,
+          "modelName": "PRINZ",
+          "modelYearFrom": "1964-01-01",
+          "modelYearTo": "1967-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 81,
+      "manufacturerName": "NSU",
+      "groupKey": "RO",
+      "displayName": "RO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4062,
+          "modelName": "RO 80",
+          "modelYearFrom": "1967-10-01",
+          "modelYearTo": "1977-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 81,
+      "manufacturerName": "NSU",
+      "groupKey": "SPIDER",
+      "displayName": "SPIDER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3523,
+          "modelName": "SPIDER",
+          "modelYearFrom": "1964-01-01",
+          "modelYearTo": "1968-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 81,
+      "manufacturerName": "NSU",
+      "groupKey": "SPORTPRINZ",
+      "displayName": "SPORTPRINZ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36970,
+          "modelName": "SPORTPRINZ (41)",
+          "modelYearFrom": "1959-01-01",
+          "modelYearTo": "1967-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 81,
+      "manufacturerName": "NSU",
+      "groupKey": "TT",
+      "displayName": "TT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1737,
+          "modelName": "TT",
+          "modelYearFrom": "1965-07-01",
+          "modelYearTo": "1971-11-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 81,
+      "manufacturerName": "NSU",
+      "groupKey": "TTS",
+      "displayName": "TTS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1738,
+          "modelName": "TTS",
+          "modelYearFrom": "1967-02-01",
+          "modelYearTo": "1971-11-01"
+        }
+      ]
+    }
+  ]
+}

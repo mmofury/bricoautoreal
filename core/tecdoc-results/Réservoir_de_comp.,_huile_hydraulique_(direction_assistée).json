@@ -1,0 +1,54 @@
+{
+  "productName": "Réservoir de comp., huile hydraulique (direction assistée)",
+  "searchText": "Réservoir de comp., huile hydraulique (direction assistée)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:14:28.671Z",
+  "productId": 3145,
+  "arborescence": {
+    "Direction": {
+      "categoryId": 100012,
+      "categoryName": "Direction",
+      "level": 1,
+      "children": {
+        "Vase d'expansion de l'huile hydraulique": {
+          "categoryId": null,
+          "categoryName": "Vase d'expansion de l'huile hydraulique",
+          "level": 2,
+          "children": {
+            "Réservoir de comp., huile hydraulique (direction assistée)": {
+              "categoryId": 101857,
+              "categoryName": "Hydraulic Oil fluid reservoir",
+              "level": 2,
+              "children": [],
+              "productId": 3145
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Direction [ID: 100012] (Niveau 1)\n    └── Vase d'expansion de l'huile hydraulique (Niveau 2)\n        └── Hydraulic Oil fluid reservoir [ID: 101857] (Niveau 2) → ProductId: 3145",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Direction",
+        "Vase d'expansion de l'huile hydraulique",
+        "Hydraulic Oil fluid reservoir"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        101857
+      ],
+      "finalCategoryId": 101857,
+      "productId": 3145
+    }
+  ],
+  "productIdsInArbo": [
+    3145
+  ],
+  "matchedProductIds": [
+    3145
+  ]
+}

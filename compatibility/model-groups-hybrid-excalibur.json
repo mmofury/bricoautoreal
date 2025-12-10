@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.260Z",
+  "manufacturer": "EXCALIBUR",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 2709,
+      "manufacturerName": "EXCALIBUR",
+      "groupKey": "LIMITED",
+      "displayName": "LIMITED",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31299,
+          "modelName": "LIMITED Décapotable",
+          "modelYearFrom": "1992-09-01",
+          "modelYearTo": "1993-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2709,
+      "manufacturerName": "EXCALIBUR",
+      "groupKey": "PHAETON",
+      "displayName": "PHAETON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31301,
+          "modelName": "PHAETON Décapotable",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1989-12-01"
+        }
+      ]
+    }
+  ]
+}

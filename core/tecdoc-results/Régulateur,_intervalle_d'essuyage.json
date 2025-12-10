@@ -1,0 +1,54 @@
+{
+  "productName": "Régulateur, intervalle d'essuyage",
+  "searchText": "Régulateur, intervalle d'essuyage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:14:06.943Z",
+  "productId": 751,
+  "arborescence": {
+    "Nettoyage des vitres": {
+      "categoryId": 100018,
+      "categoryName": "Nettoyage des vitres",
+      "level": 1,
+      "children": {
+        "Interrupteur / relais": {
+          "categoryId": null,
+          "categoryName": "Interrupteur / relais",
+          "level": 2,
+          "children": {
+            "Régulateur, intervalle d'essuyage": {
+              "categoryId": 100613,
+              "categoryName": "Switch/ Relay",
+              "level": 2,
+              "children": [],
+              "productId": 751
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Nettoyage des vitres [ID: 100018] (Niveau 1)\n    └── Interrupteur / relais (Niveau 2)\n        └── Switch/ Relay [ID: 100613] (Niveau 2) → ProductId: 751",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Nettoyage des vitres",
+        "Interrupteur / relais",
+        "Switch/ Relay"
+      ],
+      "categoryIds": [
+        100018,
+        null,
+        100613
+      ],
+      "finalCategoryId": 100613,
+      "productId": 751
+    }
+  ],
+  "productIdsInArbo": [
+    751
+  ],
+  "matchedProductIds": [
+    751
+  ]
+}

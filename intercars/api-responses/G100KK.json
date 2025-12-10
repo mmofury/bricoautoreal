@@ -1,0 +1,40 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G100KK",
+      "index": "ORIS400-016",
+      "tecDoc": "400-016",
+      "tecDocProd": "6102",
+      "articleNumber": "400-016",
+      "brand": "ORIS",
+      "shortDescription": "Tow hitch",
+      "description": "Electric towbar fits: BMW 5 (G30, F90), 5 (G31) 09.16-",
+      "gtuCode": "GTU_07",
+      "packageWeight": "30,400",
+      "packageWidth": "38,000",
+      "packageDepth": "118,100",
+      "packageHeight": "31,000",
+      "customsCode": "87082990",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_61032",
+          "primary": false,
+          "name": {
+            "en": "Retrofit Kit, trailer hitch"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_39",
+          "primary": true,
+          "name": {
+            "en": "Tow hitch"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "BC038E",
+      "index": "BOS258-350",
+      "tecDoc": "258-350",
+      "tecDocProd": "41",
+      "articleNumber": "258-350",
+      "brand": "BOSAL",
+      "shortDescription": "Nut, exhaust manifold",
+      "description": "Exhaust system fitting element (nut)",
+      "eans": [
+        "3351642583503"
+      ],
+      "packageWeight": "0,330",
+      "packageWidth": "12,600",
+      "packageDepth": "5,000",
+      "packageHeight": "18,000",
+      "customsCode": "73181639",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1473",
+          "primary": false,
+          "name": {
+            "en": "Nut"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1788",
+          "primary": true,
+          "name": {
+            "en": "Nut, exhaust manifold"
+          }
+        }
+      ]
+    }
+  ]
+}

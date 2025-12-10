@@ -1,0 +1,64 @@
+{
+  "productName": "Pompe à huile, boîte de vitesse manuelle",
+  "productId": 3991,
+  "searchText": "Pompe à huile, boîte de vitesse manuelle",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Boîte de vitesses": {
+          "categoryId": 200054,
+          "categoryName": "Boîte de vitesses",
+          "level": 1,
+          "children": {
+            "Boîte de vitesse manuelle / pièces de montage": {
+              "categoryId": null,
+              "categoryName": "Boîte de vitesse manuelle / pièces de montage",
+              "level": 2,
+              "children": {
+                "Pompe à huile, boîte de vitesse manuelle": {
+                  "categoryId": 200095,
+                  "categoryName": "Manual Transmission/ Parts",
+                  "level": 2,
+                  "children": {
+                    "Pompe à huile": {
+                      "categoryId": null,
+                      "categoryName": "Pompe à huile",
+                      "level": 4,
+                      "children": {
+                        "Pompe à huile, boîte de vitesse manuelle": {
+                          "categoryId": 706676,
+                          "categoryName": "Oil Pump",
+                          "level": 3,
+                          "children": [],
+                          "productId": 3991
+                        }
+                      }
+                    }
+                  },
+                  "productId": 3991
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Boîte de vitesses [ID: 200054] (Niveau 1)\n    └── Boîte de vitesse manuelle / pièces de montage (Niveau 2)\n        └── Manual Transmission/ Parts [ID: 200095] (Niveau 2) → ProductId: 3991\n            └── Pompe à huile (Niveau 4)\n                └── Oil Pump [ID: 706676] (Niveau 3) → ProductId: 3991",
+      "productIdsInArbo": [
+        3991
+      ],
+      "matchedProductIds": [
+        3991
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:16:35.429Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

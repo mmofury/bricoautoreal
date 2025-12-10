@@ -1,0 +1,54 @@
+{
+  "productName": "Câble de connexion, système stabilisateur de la remorque",
+  "searchText": "Câble de connexion, système stabilisateur de la remorque",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:29:36.465Z",
+  "productId": 3831,
+  "arborescence": {
+    "Dispositif d'attelage/accessoires": {
+      "categoryId": 100015,
+      "categoryName": "Dispositif d'attelage/accessoires",
+      "level": 1,
+      "children": {
+        "Pièces du système électrique": {
+          "categoryId": null,
+          "categoryName": "Pièces du système électrique",
+          "level": 2,
+          "children": {
+            "Câble de connexion, système stabilisateur de la remorque": {
+              "categoryId": 100608,
+              "categoryName": "Electric Parts",
+              "level": 2,
+              "children": [],
+              "productId": 3831
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif d'attelage/accessoires [ID: 100015] (Niveau 1)\n    └── Pièces du système électrique (Niveau 2)\n        └── Electric Parts [ID: 100608] (Niveau 2) → ProductId: 3831",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif d'attelage/accessoires",
+        "Pièces du système électrique",
+        "Electric Parts"
+      ],
+      "categoryIds": [
+        100015,
+        null,
+        100608
+      ],
+      "finalCategoryId": 100608,
+      "productId": 3831
+    }
+  ],
+  "productIdsInArbo": [
+    3831
+  ],
+  "matchedProductIds": [
+    3831
+  ]
+}

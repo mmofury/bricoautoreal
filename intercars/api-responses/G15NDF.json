@@ -1,0 +1,37 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G15NDF",
+      "index": "2216211COJ",
+      "tecDoc": "2216211",
+      "tecDocProd": "495",
+      "articleNumber": "2216211",
+      "brand": "COJALI",
+      "shortDescription": "Control Unit, automatic transmission",
+      "description": "Automatic control box",
+      "gtuCode": "GTU_07",
+      "packageWeight": "4,132",
+      "customsCode": "87084099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1278",
+          "primary": true,
+          "name": {
+            "en": "Control Unit, automatic transmission"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3999",
+          "primary": false,
+          "name": {
+            "en": "Anti-Rotation Actuator, manual transmission"
+          }
+        }
+      ]
+    }
+  ]
+}

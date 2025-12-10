@@ -1,0 +1,82 @@
+{
+  "productName": "Catalyseur de mise à niveau",
+  "searchText": "Catalyseur de mise à niveau",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:18:56.382Z",
+  "productId": 2767,
+  "arborescence": {
+    "Échappement": {
+      "categoryId": 100004,
+      "categoryName": "Échappement",
+      "level": 1,
+      "children": {
+        "Catalyseur": {
+          "categoryId": null,
+          "categoryName": "Catalyseur",
+          "level": 2,
+          "children": {
+            "Catalyseur de mise à niveau": {
+              "categoryId": 100047,
+              "categoryName": "Catalytic Converter",
+              "level": 2,
+              "children": [],
+              "productId": 2767
+            }
+          }
+        },
+        "Mise à niveau Euro1/Euro2": {
+          "categoryId": null,
+          "categoryName": "Mise à niveau Euro1/Euro2",
+          "level": 2,
+          "children": {
+            "Catalyseur de mise à niveau": {
+              "categoryId": 100873,
+              "categoryName": "Euro1-/Euro2-/D3 Conversion",
+              "level": 2,
+              "children": [],
+              "productId": 2767
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Échappement [ID: 100004] (Niveau 1)\n    ├── Catalyseur (Niveau 2)\n    │   └── Catalytic Converter [ID: 100047] (Niveau 2) → ProductId: 2767\n    └── Mise à niveau Euro1/Euro2 (Niveau 2)\n        └── Euro1-/Euro2-/D3 Conversion [ID: 100873] (Niveau 2) → ProductId: 2767",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Échappement",
+        "Catalyseur",
+        "Catalytic Converter"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100047
+      ],
+      "finalCategoryId": 100047,
+      "productId": 2767
+    },
+    {
+      "path": [
+        "Échappement",
+        "Mise à niveau Euro1/Euro2",
+        "Euro1-/Euro2-/D3 Conversion"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100873
+      ],
+      "finalCategoryId": 100873,
+      "productId": 2767
+    }
+  ],
+  "productIdsInArbo": [
+    2767
+  ],
+  "matchedProductIds": [
+    2767
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "productName": "Serrure de capot-moteur",
+  "searchText": "Serrure de capot-moteur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:15:32.503Z",
+  "productId": 1365,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Avant du véhicule": {
+          "categoryId": null,
+          "categoryName": "Avant du véhicule",
+          "level": 2,
+          "children": {
+            "Crochet de sécurité serrure de capot moteur": {
+              "categoryId": 101648,
+              "categoryName": "Vehicle Front",
+              "level": 2,
+              "children": {
+                "Capot avant / composants / insonorisation": {
+                  "categoryId": null,
+                  "categoryName": "Capot avant / composants / insonorisation",
+                  "level": 4,
+                  "children": {
+                    "Crochet de sécurité serrure de capot moteur": {
+                      "categoryId": 101654,
+                      "categoryName": "Bonnet/Parts/Noise Insulation",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8109
+                    }
+                  }
+                }
+              },
+              "productId": 8109
+            },
+            "Serrure de capot-moteur": {
+              "categoryId": 101648,
+              "categoryName": "Vehicle Front",
+              "level": 2,
+              "children": {
+                "Capot avant / composants / insonorisation": {
+                  "categoryId": null,
+                  "categoryName": "Capot avant / composants / insonorisation",
+                  "level": 4,
+                  "children": {
+                    "Serrure de capot-moteur": {
+                      "categoryId": 101654,
+                      "categoryName": "Bonnet/Parts/Noise Insulation",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1365
+                    }
+                  }
+                }
+              },
+              "productId": 1365
+            }
+          }
+        }
+      }
+    },
+    "Verrouillage": {
+      "categoryId": 100685,
+      "categoryName": "Verrouillage",
+      "level": 1,
+      "children": {
+        "Serrure extérieure": {
+          "categoryId": null,
+          "categoryName": "Serrure extérieure",
+          "level": 2,
+          "children": {
+            "Serrure de capot-moteur": {
+              "categoryId": 100687,
+              "categoryName": "Exterior Locks",
+              "level": 2,
+              "children": [],
+              "productId": 1365
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carrosserie [ID: 100001] (Niveau 1)\n│   └── Avant du véhicule (Niveau 2)\n│       ├── Vehicle Front [ID: 101648] (Niveau 2) → ProductId: 8109\n│       │   └── Capot avant / composants / insonorisation (Niveau 4)\n│       │       └── Bonnet/Parts/Noise Insulation [ID: 101654] (Niveau 3) → ProductId: 8109\n│       └── Vehicle Front [ID: 101648] (Niveau 2) → ProductId: 1365\n│           └── Capot avant / composants / insonorisation (Niveau 4)\n│               └── Bonnet/Parts/Noise Insulation [ID: 101654] (Niveau 3) → ProductId: 1365\n\n└── Verrouillage [ID: 100685] (Niveau 1)\n    └── Serrure extérieure (Niveau 2)\n        └── Exterior Locks [ID: 100687] (Niveau 2) → ProductId: 1365",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Avant du véhicule",
+        "Vehicle Front"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101648
+      ],
+      "finalCategoryId": 101648,
+      "productId": 8109
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Avant du véhicule",
+        "Vehicle Front"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101648
+      ],
+      "finalCategoryId": 101648,
+      "productId": 1365
+    },
+    {
+      "path": [
+        "Verrouillage",
+        "Serrure extérieure",
+        "Exterior Locks"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100687
+      ],
+      "finalCategoryId": 100687,
+      "productId": 1365
+    }
+  ],
+  "productIdsInArbo": [
+    1365,
+    8109
+  ],
+  "matchedProductIds": [
+    1365
+  ]
+}

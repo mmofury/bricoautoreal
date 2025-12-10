@@ -1,0 +1,104 @@
+{
+  "productName": "Kit de plaquettes de frein, frein à disque",
+  "searchText": "Kit de plaquettes de frein, frein à disque",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:02:11.049Z",
+  "productId": 402,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Frein à disque": {
+          "categoryId": null,
+          "categoryName": "Frein à disque",
+          "level": 2,
+          "children": {
+            "Kit de plaquettes de frein, frein à disque": {
+              "categoryId": 100626,
+              "categoryName": "Disc Brake",
+              "level": 2,
+              "children": {
+                "Plaquette de frein": {
+                  "categoryId": null,
+                  "categoryName": "Plaquette de frein",
+                  "level": 4,
+                  "children": {
+                    "Kit de plaquettes de frein, frein à disque": {
+                      "categoryId": 100030,
+                      "categoryName": "Brake Pad",
+                      "level": 3,
+                      "children": [],
+                      "productId": 402
+                    }
+                  }
+                }
+              },
+              "productId": 402
+            }
+          }
+        }
+      }
+    },
+    "Pièces de maintenance": {
+      "categoryId": 100019,
+      "categoryName": "Pièces de maintenance",
+      "level": 1,
+      "children": {
+        "Travaux supplémentaires": {
+          "categoryId": null,
+          "categoryName": "Travaux supplémentaires",
+          "level": 2,
+          "children": {
+            "Kit de plaquettes de frein, frein à disque": {
+              "categoryId": 100598,
+              "categoryName": "Additional Repairs",
+              "level": 2,
+              "children": [],
+              "productId": 402
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Dispositif de freinage [ID: 100006] (Niveau 1)\n│   └── Frein à disque (Niveau 2)\n│       └── Disc Brake [ID: 100626] (Niveau 2) → ProductId: 402\n│           └── Plaquette de frein (Niveau 4)\n│               └── Brake Pad [ID: 100030] (Niveau 3) → ProductId: 402\n\n└── Pièces de maintenance [ID: 100019] (Niveau 1)\n    └── Travaux supplémentaires (Niveau 2)\n        └── Additional Repairs [ID: 100598] (Niveau 2) → ProductId: 402",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Frein à disque",
+        "Disc Brake"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100626
+      ],
+      "finalCategoryId": 100626,
+      "productId": 402
+    },
+    {
+      "path": [
+        "Pièces de maintenance",
+        "Travaux supplémentaires",
+        "Additional Repairs"
+      ],
+      "categoryIds": [
+        100019,
+        null,
+        100598
+      ],
+      "finalCategoryId": 100598,
+      "productId": 402
+    }
+  ],
+  "productIdsInArbo": [
+    402
+  ],
+  "matchedProductIds": [
+    402
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "productName": "Module de filtre à huile",
+  "searchText": "Module de filtre à huile",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:15:12.298Z",
+  "productId": 60777,
+  "arborescence": {
+    "Filtre": {
+      "categoryId": 100005,
+      "categoryName": "Filtre",
+      "level": 1,
+      "children": {
+        "Filtre à huile": {
+          "categoryId": null,
+          "categoryName": "Filtre à huile",
+          "level": 2,
+          "children": {
+            "Module de filtre à huile": {
+              "categoryId": 100259,
+              "categoryName": "Oil Filter",
+              "level": 2,
+              "children": [],
+              "productId": 60777
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Lubrification": {
+          "categoryId": null,
+          "categoryName": "Lubrification",
+          "level": 2,
+          "children": {
+            "Module de filtre à huile": {
+              "categoryId": 100245,
+              "categoryName": "Lubrication",
+              "level": 2,
+              "children": {
+                "Filtre à huile": {
+                  "categoryId": null,
+                  "categoryName": "Filtre à huile",
+                  "level": 4,
+                  "children": {
+                    "Module de filtre à huile": {
+                      "categoryId": 100470,
+                      "categoryName": "Oil Filter",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60777
+                    }
+                  }
+                }
+              },
+              "productId": 60777
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Filtre [ID: 100005] (Niveau 1)\n│   └── Filtre à huile (Niveau 2)\n│       └── Oil Filter [ID: 100259] (Niveau 2) → ProductId: 60777\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Lubrification (Niveau 2)\n        └── Lubrication [ID: 100245] (Niveau 2) → ProductId: 60777\n            └── Filtre à huile (Niveau 4)\n                └── Oil Filter [ID: 100470] (Niveau 3) → ProductId: 60777",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Filtre",
+        "Filtre à huile",
+        "Oil Filter"
+      ],
+      "categoryIds": [
+        100005,
+        null,
+        100259
+      ],
+      "finalCategoryId": 100259,
+      "productId": 60777
+    },
+    {
+      "path": [
+        "Moteur",
+        "Lubrification",
+        "Lubrication"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100245
+      ],
+      "finalCategoryId": 100245,
+      "productId": 60777
+    }
+  ],
+  "productIdsInArbo": [
+    60777
+  ],
+  "matchedProductIds": [
+    60777
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Capteur, système d'air comprimé",
+  "searchText": "Capteur, système d'air comprimé",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:16:43.951Z",
+  "productId": 1231,
+  "arborescence": {
+    "Système pneumatique": {
+      "categoryId": 103168,
+      "categoryName": "Système pneumatique",
+      "level": 1,
+      "children": {
+        "Capteur": {
+          "categoryId": null,
+          "categoryName": "Capteur",
+          "level": 2,
+          "children": {
+            "Capteur, système d'air comprimé": {
+              "categoryId": 706481,
+              "categoryName": "Sensor",
+              "level": 2,
+              "children": [],
+              "productId": 1231
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système pneumatique [ID: 103168] (Niveau 1)\n    └── Capteur (Niveau 2)\n        └── Sensor [ID: 706481] (Niveau 2) → ProductId: 1231",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système pneumatique",
+        "Capteur",
+        "Sensor"
+      ],
+      "categoryIds": [
+        103168,
+        null,
+        706481
+      ],
+      "finalCategoryId": 706481,
+      "productId": 1231
+    }
+  ],
+  "productIdsInArbo": [
+    1231
+  ],
+  "matchedProductIds": [
+    1231
+  ]
+}

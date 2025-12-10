@@ -1,0 +1,208 @@
+{
+  "productName": "Corps papillon",
+  "searchText": "Corps papillon",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:25:17.248Z",
+  "productId": 158,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Bague d'étanchéité, tubulure du papillon des gaz": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Papillon des gaz / tubulure / tuyau de dépression": {
+                  "categoryId": null,
+                  "categoryName": "Papillon des gaz / tubulure / tuyau de dépression",
+                  "level": 4,
+                  "children": {
+                    "Bague d'étanchéité, tubulure du papillon des gaz": {
+                      "categoryId": 102796,
+                      "categoryName": "Throttle Valve/Throttle Body/Vacuum Pipe",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60677
+                    }
+                  }
+                }
+              },
+              "productId": 60677
+            },
+            "Corps papillon": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Papillon des gaz / tubulure / tuyau de dépression": {
+                  "categoryId": null,
+                  "categoryName": "Papillon des gaz / tubulure / tuyau de dépression",
+                  "level": 4,
+                  "children": {
+                    "Corps papillon": {
+                      "categoryId": 102796,
+                      "categoryName": "Throttle Valve/Throttle Body/Vacuum Pipe",
+                      "level": 3,
+                      "children": [],
+                      "productId": 158
+                    }
+                  }
+                }
+              },
+              "productId": 158
+            },
+            "Joint, manchon de vanne papillon": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Papillon des gaz / tubulure / tuyau de dépression": {
+                  "categoryId": null,
+                  "categoryName": "Papillon des gaz / tubulure / tuyau de dépression",
+                  "level": 4,
+                  "children": {
+                    "Joint, manchon de vanne papillon": {
+                      "categoryId": 102796,
+                      "categoryName": "Throttle Valve/Throttle Body/Vacuum Pipe",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8257
+                    }
+                  }
+                }
+              },
+              "productId": 8257
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Alimentation en air": {
+          "categoryId": null,
+          "categoryName": "Alimentation en air",
+          "level": 2,
+          "children": {
+            "Corps papillon": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Papillon des gaz /-capteur": {
+                  "categoryId": null,
+                  "categoryName": "Papillon des gaz /-capteur",
+                  "level": 4,
+                  "children": {
+                    "Corps papillon": {
+                      "categoryId": 100704,
+                      "categoryName": "Throttle Valve/Sensor",
+                      "level": 3,
+                      "children": {
+                        "Corps papillon": {
+                          "categoryId": null,
+                          "categoryName": "Corps papillon",
+                          "level": 6,
+                          "children": {
+                            "Corps papillon": {
+                              "categoryId": 102339,
+                              "categoryName": "Throttle Body",
+                              "level": 4,
+                              "children": [],
+                              "productId": 158
+                            }
+                          }
+                        }
+                      },
+                      "productId": 158
+                    }
+                  }
+                }
+              },
+              "productId": 158
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carburation [ID: 100254] (Niveau 1)\n│   └── Mélange air-carburant (Niveau 2)\n│       ├── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 60677\n│       │   └── Papillon des gaz / tubulure / tuyau de dépression (Niveau 4)\n│       │       └── Throttle Valve/Throttle Body/Vacuum Pipe [ID: 102796] (Niveau 3) → ProductId: 60677\n│       ├── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 158\n│       │   └── Papillon des gaz / tubulure / tuyau de dépression (Niveau 4)\n│       │       └── Throttle Valve/Throttle Body/Vacuum Pipe [ID: 102796] (Niveau 3) → ProductId: 158\n│       └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 8257\n│           └── Papillon des gaz / tubulure / tuyau de dépression (Niveau 4)\n│               └── Throttle Valve/Throttle Body/Vacuum Pipe [ID: 102796] (Niveau 3) → ProductId: 8257\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Alimentation en air (Niveau 2)\n        └── Air Supply [ID: 100383] (Niveau 2) → ProductId: 158\n            └── Papillon des gaz /-capteur (Niveau 4)\n                └── Throttle Valve/Sensor [ID: 100704] (Niveau 3) → ProductId: 158\n                    └── Corps papillon (Niveau 6)\n                        └── Throttle Body [ID: 102339] (Niveau 4) → ProductId: 158",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 60677
+    },
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 158
+    },
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 8257
+    },
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 158
+    }
+  ],
+  "productIdsInArbo": [
+    158,
+    8257,
+    60677
+  ],
+  "matchedProductIds": [
+    158
+  ]
+}

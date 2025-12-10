@@ -1,0 +1,49 @@
+{
+  "productName": "Vase d'expansion, embrayage",
+  "productId": 5063,
+  "searchText": "Vase d'expansion, embrayage",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Embrayage": {
+          "categoryId": 200053,
+          "categoryName": "Embrayage",
+          "level": 1,
+          "children": {
+            "Vase d'expansion": {
+              "categoryId": null,
+              "categoryName": "Vase d'expansion",
+              "level": 2,
+              "children": {
+                "Vase d'expansion, embrayage": {
+                  "categoryId": 203462,
+                  "categoryName": "Expansion Tank",
+                  "level": 2,
+                  "children": [],
+                  "productId": 5063
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Embrayage [ID: 200053] (Niveau 1)\n    └── Vase d'expansion (Niveau 2)\n        └── Expansion Tank [ID: 203462] (Niveau 2) → ProductId: 5063",
+      "productIdsInArbo": [
+        5063
+      ],
+      "matchedProductIds": [
+        5063
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:45:14.155Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

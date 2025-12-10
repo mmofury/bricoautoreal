@@ -1,0 +1,64 @@
+{
+  "productName": "Guide, joint pour arbre à came de frein",
+  "productId": 2762,
+  "searchText": "Guide, joint pour arbre à came de frein",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Dispositif de freinage": {
+          "categoryId": 200058,
+          "categoryName": "Dispositif de freinage",
+          "level": 1,
+          "children": {
+            "Frein à tambour": {
+              "categoryId": null,
+              "categoryName": "Frein à tambour",
+              "level": 2,
+              "children": {
+                "Guide, joint pour arbre à came de frein": {
+                  "categoryId": 200098,
+                  "categoryName": "Drum Brake",
+                  "level": 2,
+                  "children": {
+                    "Arbre de frein / accessoires": {
+                      "categoryId": null,
+                      "categoryName": "Arbre de frein / accessoires",
+                      "level": 4,
+                      "children": {
+                        "Guide, joint pour arbre à came de frein": {
+                          "categoryId": 200364,
+                          "categoryName": "Brake Shaft/ Equipment",
+                          "level": 3,
+                          "children": [],
+                          "productId": 2762
+                        }
+                      }
+                    }
+                  },
+                  "productId": 2762
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Dispositif de freinage [ID: 200058] (Niveau 1)\n    └── Frein à tambour (Niveau 2)\n        └── Drum Brake [ID: 200098] (Niveau 2) → ProductId: 2762\n            └── Arbre de frein / accessoires (Niveau 4)\n                └── Brake Shaft/ Equipment [ID: 200364] (Niveau 3) → ProductId: 2762",
+      "productIdsInArbo": [
+        2762
+      ],
+      "matchedProductIds": [
+        2762
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:34:34.104Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

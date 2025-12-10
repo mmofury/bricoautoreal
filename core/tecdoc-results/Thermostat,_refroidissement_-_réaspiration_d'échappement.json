@@ -1,0 +1,149 @@
+{
+  "productName": "Thermostat, refroidissement - réaspiration d'échappement",
+  "searchText": "Thermostat, refroidissement - réaspiration d'échappement",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:25:54.464Z",
+  "productId": 5276,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Épuration des gaz d'échappement": {
+          "categoryId": null,
+          "categoryName": "Épuration des gaz d'échappement",
+          "level": 2,
+          "children": {
+            "Thermostat, refroidissement - réaspiration d'échappement": {
+              "categoryId": 100790,
+              "categoryName": "Exhaust Emission Control",
+              "level": 2,
+              "children": {
+                "Recyclage des gaz d'échappement": {
+                  "categoryId": null,
+                  "categoryName": "Recyclage des gaz d'échappement",
+                  "level": 4,
+                  "children": {
+                    "Thermostat, refroidissement - réaspiration d'échappement": {
+                      "categoryId": 100791,
+                      "categoryName": "Exhaust Gas Recirculation",
+                      "level": 3,
+                      "children": {
+                        "Radiateur": {
+                          "categoryId": null,
+                          "categoryName": "Radiateur",
+                          "level": 6,
+                          "children": {
+                            "Thermostat, refroidissement - réaspiration d'échappement": {
+                              "categoryId": 103241,
+                              "categoryName": "Cooler",
+                              "level": 4,
+                              "children": [],
+                              "productId": 5276
+                            }
+                          }
+                        }
+                      },
+                      "productId": 5276
+                    }
+                  }
+                }
+              },
+              "productId": 5276
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Épuration des gaz d'échappement": {
+          "categoryId": null,
+          "categoryName": "Épuration des gaz d'échappement",
+          "level": 2,
+          "children": {
+            "Thermostat, refroidissement - réaspiration d'échappement": {
+              "categoryId": 100541,
+              "categoryName": "Exhaust Emission Control",
+              "level": 2,
+              "children": {
+                "Recyclage des gaz d'échappement": {
+                  "categoryId": null,
+                  "categoryName": "Recyclage des gaz d'échappement",
+                  "level": 4,
+                  "children": {
+                    "Thermostat, refroidissement - réaspiration d'échappement": {
+                      "categoryId": 100542,
+                      "categoryName": "Exhaust Gas Recirculation",
+                      "level": 3,
+                      "children": {
+                        "Radiateur": {
+                          "categoryId": null,
+                          "categoryName": "Radiateur",
+                          "level": 6,
+                          "children": {
+                            "Thermostat, refroidissement - réaspiration d'échappement": {
+                              "categoryId": 103237,
+                              "categoryName": "Cooler",
+                              "level": 4,
+                              "children": [],
+                              "productId": 5276
+                            }
+                          }
+                        }
+                      },
+                      "productId": 5276
+                    }
+                  }
+                }
+              },
+              "productId": 5276
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carburation [ID: 100254] (Niveau 1)\n│   └── Épuration des gaz d'échappement (Niveau 2)\n│       └── Exhaust Emission Control [ID: 100790] (Niveau 2) → ProductId: 5276\n│           └── Recyclage des gaz d'échappement (Niveau 4)\n│               └── Exhaust Gas Recirculation [ID: 100791] (Niveau 3) → ProductId: 5276\n│                   └── Radiateur (Niveau 6)\n│                       └── Cooler [ID: 103241] (Niveau 4) → ProductId: 5276\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Épuration des gaz d'échappement (Niveau 2)\n        └── Exhaust Emission Control [ID: 100541] (Niveau 2) → ProductId: 5276\n            └── Recyclage des gaz d'échappement (Niveau 4)\n                └── Exhaust Gas Recirculation [ID: 100542] (Niveau 3) → ProductId: 5276\n                    └── Radiateur (Niveau 6)\n                        └── Cooler [ID: 103237] (Niveau 4) → ProductId: 5276",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Épuration des gaz d'échappement",
+        "Exhaust Emission Control"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        100790
+      ],
+      "finalCategoryId": 100790,
+      "productId": 5276
+    },
+    {
+      "path": [
+        "Moteur",
+        "Épuration des gaz d'échappement",
+        "Exhaust Emission Control"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100541
+      ],
+      "finalCategoryId": 100541,
+      "productId": 5276
+    }
+  ],
+  "productIdsInArbo": [
+    5276
+  ],
+  "matchedProductIds": [
+    5276
+  ]
+}

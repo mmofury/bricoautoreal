@@ -1,0 +1,54 @@
+{
+  "productName": "Interrupteur principal, batterie",
+  "searchText": "Interrupteur principal, batterie",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:46:38.011Z",
+  "productId": 2263,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Batterie": {
+          "categoryId": null,
+          "categoryName": "Batterie",
+          "level": 2,
+          "children": {
+            "Interrupteur principal, batterie": {
+              "categoryId": 100042,
+              "categoryName": "Battery",
+              "level": 2,
+              "children": [],
+              "productId": 2263
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Batterie (Niveau 2)\n        └── Battery [ID: 100042] (Niveau 2) → ProductId: 2263",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Batterie",
+        "Battery"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100042
+      ],
+      "finalCategoryId": 100042,
+      "productId": 2263
+    }
+  ],
+  "productIdsInArbo": [
+    2263
+  ],
+  "matchedProductIds": [
+    2263
+  ]
+}

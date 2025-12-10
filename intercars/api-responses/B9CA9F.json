@@ -1,0 +1,43 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "B9CA9F",
+      "index": "1.11363",
+      "tecDoc": "1.11363",
+      "tecDocProd": "355",
+      "articleNumber": "1.11363",
+      "brand": "DT SPARE PARTS",
+      "shortDescription": "Mounting, radiator",
+      "description": "Radiator mounting bottom L fits: SCANIA 4 DC11.01-DT12.08 05.95-04.08",
+      "gtuCode": "GTU_07",
+      "eans": [
+        "4047755011949"
+      ],
+      "packageWeight": "0,380",
+      "packageWidth": "18,000",
+      "packageDepth": "2,300",
+      "packageHeight": "18,500",
+      "customsCode": "87082990",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_473",
+          "primary": false,
+          "name": {
+            "en": "Holder, radiator grille"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_2132",
+          "primary": true,
+          "name": {
+            "en": "Mounting, radiator"
+          }
+        }
+      ]
+    }
+  ]
+}

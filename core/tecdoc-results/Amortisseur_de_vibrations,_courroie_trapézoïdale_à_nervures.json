@@ -1,0 +1,134 @@
+{
+  "productName": "Amortisseur de vibrations, courroie trapézoïdale à nervures",
+  "searchText": "Amortisseur de vibrations, courroie trapézoïdale à nervures",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T18:49:54.467Z",
+  "productId": 1637,
+  "arborescence": {
+    "Commande à courroie": {
+      "categoryId": 100016,
+      "categoryName": "Commande à courroie",
+      "level": 1,
+      "children": {
+        "Jeu/ courroies trapézoïdales à nervures": {
+          "categoryId": null,
+          "categoryName": "Jeu/ courroies trapézoïdales à nervures",
+          "level": 2,
+          "children": {
+            "Amortisseur de vibrations, courroie trapézoïdale à nervures": {
+              "categoryId": 100082,
+              "categoryName": "V-Ribbed Belt/Set",
+              "level": 2,
+              "children": {
+                "Amortisseur de vibrations": {
+                  "categoryId": null,
+                  "categoryName": "Amortisseur de vibrations",
+                  "level": 4,
+                  "children": {
+                    "Amortisseur de vibrations, courroie trapézoïdale à nervures": {
+                      "categoryId": 100876,
+                      "categoryName": "Vibration Damper",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1637
+                    }
+                  }
+                }
+              },
+              "productId": 1637
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Commande à courroie": {
+          "categoryId": null,
+          "categoryName": "Commande à courroie",
+          "level": 2,
+          "children": {
+            "Amortisseur de vibrations, courroie trapézoïdale à nervures": {
+              "categoryId": 104302,
+              "categoryName": "Belt Drive",
+              "level": 2,
+              "children": {
+                "Jeu/ courroies trapézoïdales à nervures": {
+                  "categoryId": null,
+                  "categoryName": "Jeu/ courroies trapézoïdales à nervures",
+                  "level": 4,
+                  "children": {
+                    "Amortisseur de vibrations, courroie trapézoïdale à nervures": {
+                      "categoryId": 104308,
+                      "categoryName": "V-Ribbed Belt/Set",
+                      "level": 3,
+                      "children": {
+                        "Amortisseur de vibrations": {
+                          "categoryId": null,
+                          "categoryName": "Amortisseur de vibrations",
+                          "level": 6,
+                          "children": {
+                            "Amortisseur de vibrations, courroie trapézoïdale à nervures": {
+                              "categoryId": 104315,
+                              "categoryName": "Vibration Damper",
+                              "level": 4,
+                              "children": [],
+                              "productId": 1637
+                            }
+                          }
+                        }
+                      },
+                      "productId": 1637
+                    }
+                  }
+                }
+              },
+              "productId": 1637
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Commande à courroie [ID: 100016] (Niveau 1)\n│   └── Jeu/ courroies trapézoïdales à nervures (Niveau 2)\n│       └── V-Ribbed Belt/Set [ID: 100082] (Niveau 2) → ProductId: 1637\n│           └── Amortisseur de vibrations (Niveau 4)\n│               └── Vibration Damper [ID: 100876] (Niveau 3) → ProductId: 1637\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Commande à courroie (Niveau 2)\n        └── Belt Drive [ID: 104302] (Niveau 2) → ProductId: 1637\n            └── Jeu/ courroies trapézoïdales à nervures (Niveau 4)\n                └── V-Ribbed Belt/Set [ID: 104308] (Niveau 3) → ProductId: 1637\n                    └── Amortisseur de vibrations (Niveau 6)\n                        └── Vibration Damper [ID: 104315] (Niveau 4) → ProductId: 1637",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Commande à courroie",
+        "Jeu/ courroies trapézoïdales à nervures",
+        "V-Ribbed Belt/Set"
+      ],
+      "categoryIds": [
+        100016,
+        null,
+        100082
+      ],
+      "finalCategoryId": 100082,
+      "productId": 1637
+    },
+    {
+      "path": [
+        "Moteur",
+        "Commande à courroie",
+        "Belt Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        104302
+      ],
+      "finalCategoryId": 104302,
+      "productId": 1637
+    }
+  ],
+  "productIdsInArbo": [
+    1637
+  ],
+  "matchedProductIds": [
+    1637
+  ]
+}

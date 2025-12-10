@@ -1,0 +1,69 @@
+{
+  "productName": "Kit réparation, actionnement embray. (pièces transmission)",
+  "searchText": "Kit réparation, actionnement embray. (pièces transmission)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:10:49.689Z",
+  "productId": 8752,
+  "arborescence": {
+    "Embrayage / composants": {
+      "categoryId": 100050,
+      "categoryName": "Embrayage / composants",
+      "level": 1,
+      "children": {
+        "Commande d'embrayage": {
+          "categoryId": null,
+          "categoryName": "Commande d'embrayage",
+          "level": 2,
+          "children": {
+            "Kit réparation, actionnement embray. (pièces transmission)": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Leviers/pièces de transmission": {
+                  "categoryId": null,
+                  "categoryName": "Leviers/pièces de transmission",
+                  "level": 4,
+                  "children": {
+                    "Kit réparation, actionnement embray. (pièces transmission)": {
+                      "categoryId": 100780,
+                      "categoryName": "Clutch Levers/Linkage",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8752
+                    }
+                  }
+                }
+              },
+              "productId": 8752
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Embrayage / composants [ID: 100050] (Niveau 1)\n    └── Commande d'embrayage (Niveau 2)\n        └── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 8752\n            └── Leviers/pièces de transmission (Niveau 4)\n                └── Clutch Levers/Linkage [ID: 100780] (Niveau 3) → ProductId: 8752",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 8752
+    }
+  ],
+  "productIdsInArbo": [
+    8752
+  ],
+  "matchedProductIds": [
+    8752
+  ]
+}

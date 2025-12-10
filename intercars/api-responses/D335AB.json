@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "D335AB",
+      "index": "HAZ 9035-5",
+      "tecDoc": "9035-5",
+      "tecDocProd": "4808",
+      "articleNumber": "9035-5",
+      "brand": "HAZET",
+      "shortDescription": "Other air-operated tools",
+      "description": "Pneumatic needle scaler, 3200 ud./min., air consumption: 170 l/min., connection size: 1/4 inch",
+      "eans": [
+        "4000896132355"
+      ],
+      "packageWeight": "3,040",
+      "packageWidth": "18,500",
+      "packageDepth": "38,000",
+      "packageHeight": "5,500",
+      "customsCode": "90318080",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_8336",
+          "primary": false,
+          "name": {
+            "en": "Needle Scaler (compressed air)"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91711",
+          "primary": true,
+          "name": {
+            "en": "Other air-operated tools"
+          }
+        }
+      ]
+    }
+  ]
+}

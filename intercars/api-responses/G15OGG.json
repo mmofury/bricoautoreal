@@ -1,0 +1,36 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G15OGG",
+      "index": "2260930COJ",
+      "tecDoc": "2260930",
+      "tecDocProd": "495",
+      "articleNumber": "2260930",
+      "brand": "COJALI",
+      "shortDescription": "Sensor, pneumatic suspension level",
+      "description": "Pressure sensor (M16x1,5mm, 320 mv/bar, measuring range: 0 .. 14 bar, oval socket hdscs, voltage : 8 - 32v dc)",
+      "packageWeight": "0,042",
+      "customsCode": "85365019",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1231",
+          "primary": false,
+          "name": {
+            "en": "Sensor, compressed-air system"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_268",
+          "primary": true,
+          "name": {
+            "en": "Sensor, pneumatic suspension level"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "productName": "Jumelle de ressort",
+  "searchText": "Jumelle de ressort",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:57:10.145Z",
+  "productId": 646,
+  "arborescence": {
+    "Suspension/Amortissement": {
+      "categoryId": 100011,
+      "categoryName": "Suspension/Amortissement",
+      "level": 1,
+      "children": {
+        "Suspension sur ressorts à lames": {
+          "categoryId": null,
+          "categoryName": "Suspension sur ressorts à lames",
+          "level": 2,
+          "children": {
+            "Coussinet de palier, jumelle de ressort,-/main de ressort": {
+              "categoryId": 100810,
+              "categoryName": "Leaf Spring Suspension",
+              "level": 2,
+              "children": [],
+              "productId": 3177
+            },
+            "Coussinet, jumelle de ressort": {
+              "categoryId": 100810,
+              "categoryName": "Leaf Spring Suspension",
+              "level": 2,
+              "children": [],
+              "productId": 647
+            },
+            "Jumelle de ressort": {
+              "categoryId": 100810,
+              "categoryName": "Leaf Spring Suspension",
+              "level": 2,
+              "children": [],
+              "productId": 646
+            },
+            "Rondelle de butée, jumelle de ressort": {
+              "categoryId": 100810,
+              "categoryName": "Leaf Spring Suspension",
+              "level": 2,
+              "children": [],
+              "productId": 1693
+            },
+            "Suspension, jumelle de ressort": {
+              "categoryId": 100810,
+              "categoryName": "Leaf Spring Suspension",
+              "level": 2,
+              "children": [],
+              "productId": 1707
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Suspension/Amortissement [ID: 100011] (Niveau 1)\n    └── Suspension sur ressorts à lames (Niveau 2)\n        ├── Leaf Spring Suspension [ID: 100810] (Niveau 2) → ProductId: 3177\n        ├── Leaf Spring Suspension [ID: 100810] (Niveau 2) → ProductId: 647\n        ├── Leaf Spring Suspension [ID: 100810] (Niveau 2) → ProductId: 646\n        ├── Leaf Spring Suspension [ID: 100810] (Niveau 2) → ProductId: 1693\n        └── Leaf Spring Suspension [ID: 100810] (Niveau 2) → ProductId: 1707",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Suspension sur ressorts à lames",
+        "Leaf Spring Suspension"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        100810
+      ],
+      "finalCategoryId": 100810,
+      "productId": 3177
+    },
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Suspension sur ressorts à lames",
+        "Leaf Spring Suspension"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        100810
+      ],
+      "finalCategoryId": 100810,
+      "productId": 647
+    },
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Suspension sur ressorts à lames",
+        "Leaf Spring Suspension"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        100810
+      ],
+      "finalCategoryId": 100810,
+      "productId": 646
+    },
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Suspension sur ressorts à lames",
+        "Leaf Spring Suspension"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        100810
+      ],
+      "finalCategoryId": 100810,
+      "productId": 1693
+    },
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Suspension sur ressorts à lames",
+        "Leaf Spring Suspension"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        100810
+      ],
+      "finalCategoryId": 100810,
+      "productId": 1707
+    }
+  ],
+  "productIdsInArbo": [
+    646,
+    647,
+    1693,
+    1707,
+    3177
+  ],
+  "matchedProductIds": [
+    646
+  ]
+}

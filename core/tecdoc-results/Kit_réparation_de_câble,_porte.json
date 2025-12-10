@@ -1,0 +1,148 @@
+{
+  "productName": "Kit réparation de câble, porte",
+  "searchText": "Kit réparation de câble, porte",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T21:10:29.939Z",
+  "productId": 8022,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Trappes/capots/portes/toit coul./toit panoram./toit pliant": {
+          "categoryId": null,
+          "categoryName": "Trappes/capots/portes/toit coul./toit panoram./toit pliant",
+          "level": 2,
+          "children": {
+            "Kit réparation de câble, porte": {
+              "categoryId": 100746,
+              "categoryName": "Hatches/Bonnets/Doors/Sunroof/Panoramic Roof",
+              "level": 2,
+              "children": {
+                "Portière avant/composants": {
+                  "categoryId": null,
+                  "categoryName": "Portière avant/composants",
+                  "level": 4,
+                  "children": {
+                    "Kit réparation de câble, porte": {
+                      "categoryId": 100189,
+                      "categoryName": "Doors/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8430
+                    }
+                  }
+                }
+              },
+              "productId": 8430
+            },
+            "Kit réparation de câble, porte coulissante": {
+              "categoryId": 100746,
+              "categoryName": "Hatches/Bonnets/Doors/Sunroof/Panoramic Roof",
+              "level": 2,
+              "children": {
+                "Portière avant/composants": {
+                  "categoryId": null,
+                  "categoryName": "Portière avant/composants",
+                  "level": 4,
+                  "children": {
+                    "Kit réparation de câble, porte coulissante": {
+                      "categoryId": 100189,
+                      "categoryName": "Doors/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60729
+                    }
+                  }
+                }
+              },
+              "productId": 60729
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Kit/pièces de câble": {
+          "categoryId": null,
+          "categoryName": "Kit/pièces de câble",
+          "level": 2,
+          "children": {
+            "Kit réparation de câble, porte": {
+              "categoryId": 103066,
+              "categoryName": "Cable Set/individual parts",
+              "level": 2,
+              "children": [],
+              "productId": 8430
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carrosserie [ID: 100001] (Niveau 1)\n│   └── Trappes/capots/portes/toit coul./toit panoram./toit pliant (Niveau 2)\n│       ├── Hatches/Bonnets/Doors/Sunroof/Panoramic Roof [ID: 100746] (Niveau 2) → ProductId: 8430\n│       │   └── Portière avant/composants (Niveau 4)\n│       │       └── Doors/Parts [ID: 100189] (Niveau 3) → ProductId: 8430\n│       └── Hatches/Bonnets/Doors/Sunroof/Panoramic Roof [ID: 100746] (Niveau 2) → ProductId: 60729\n│           └── Portière avant/composants (Niveau 4)\n│               └── Doors/Parts [ID: 100189] (Niveau 3) → ProductId: 60729\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Kit/pièces de câble (Niveau 2)\n        └── Cable Set/individual parts [ID: 103066] (Niveau 2) → ProductId: 8430",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Trappes/capots/portes/toit coul./toit panoram./toit pliant",
+        "Hatches/Bonnets/Doors/Sunroof/Panoramic Roof"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100746
+      ],
+      "finalCategoryId": 100746,
+      "productId": 8430
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Trappes/capots/portes/toit coul./toit panoram./toit pliant",
+        "Hatches/Bonnets/Doors/Sunroof/Panoramic Roof"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100746
+      ],
+      "finalCategoryId": 100746,
+      "productId": 60729
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Kit/pièces de câble",
+        "Cable Set/individual parts"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        103066
+      ],
+      "finalCategoryId": 103066,
+      "productId": 8430
+    }
+  ],
+  "productIdsInArbo": [
+    8430,
+    60729
+  ],
+  "closestProductIds": [
+    {
+      "productId": 8430,
+      "productName": "Kit réparation de câble, porte"
+    },
+    {
+      "productId": 60729,
+      "productName": "Kit réparation de câble, porte coulissante"
+    }
+  ]
+}

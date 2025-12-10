@@ -1,0 +1,205 @@
+{
+  "productName": "Vérin, support de roue de secours",
+  "searchText": "Vérin, support de roue de secours",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:36:49.594Z",
+  "productId": 231,
+  "arborescence": {
+    "Accessoires": {
+      "categoryId": 100733,
+      "categoryName": "Accessoires",
+      "level": 1,
+      "children": {
+        "Ressorts pneumatiques": {
+          "categoryId": null,
+          "categoryName": "Ressorts pneumatiques",
+          "level": 2,
+          "children": {
+            "Vérin, support de roue de secours": {
+              "categoryId": 100861,
+              "categoryName": "Gas Springs",
+              "level": 2,
+              "children": [],
+              "productId": 231
+            }
+          }
+        }
+      }
+    },
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Arrière de la voiture": {
+          "categoryId": null,
+          "categoryName": "Arrière de la voiture",
+          "level": 2,
+          "children": {
+            "Vérin, support de roue de secours": {
+              "categoryId": 101705,
+              "categoryName": "Vehicle Rear",
+              "level": 2,
+              "children": {
+                "Composants/suppléments": {
+                  "categoryId": null,
+                  "categoryName": "Composants/suppléments",
+                  "level": 4,
+                  "children": {
+                    "Vérin, support de roue de secours": {
+                      "categoryId": 101745,
+                      "categoryName": "Parts",
+                      "level": 3,
+                      "children": {
+                        "Ressorts pneumatiques": {
+                          "categoryId": null,
+                          "categoryName": "Ressorts pneumatiques",
+                          "level": 6,
+                          "children": {
+                            "Vérin, support de roue de secours": {
+                              "categoryId": 101752,
+                              "categoryName": "Gas Springs",
+                              "level": 4,
+                              "children": [],
+                              "productId": 231
+                            }
+                          }
+                        }
+                      },
+                      "productId": 231
+                    }
+                  }
+                }
+              },
+              "productId": 231
+            }
+          }
+        },
+        "Avant du véhicule": {
+          "categoryId": null,
+          "categoryName": "Avant du véhicule",
+          "level": 2,
+          "children": {
+            "Vérin, support de roue de secours": {
+              "categoryId": 101648,
+              "categoryName": "Vehicle Front",
+              "level": 2,
+              "children": {
+                "Composants/suppléments": {
+                  "categoryId": null,
+                  "categoryName": "Composants/suppléments",
+                  "level": 4,
+                  "children": {
+                    "Vérin, support de roue de secours": {
+                      "categoryId": 101673,
+                      "categoryName": "Parts",
+                      "level": 3,
+                      "children": {
+                        "Ressorts pneumatiques": {
+                          "categoryId": null,
+                          "categoryName": "Ressorts pneumatiques",
+                          "level": 6,
+                          "children": {
+                            "Vérin, support de roue de secours": {
+                              "categoryId": 101777,
+                              "categoryName": "Gas Springs",
+                              "level": 4,
+                              "children": [],
+                              "productId": 231
+                            }
+                          }
+                        }
+                      },
+                      "productId": 231
+                    }
+                  }
+                }
+              },
+              "productId": 231
+            }
+          }
+        },
+        "Ressorts pneumatiques": {
+          "categoryId": null,
+          "categoryName": "Ressorts pneumatiques",
+          "level": 2,
+          "children": {
+            "Vérin, support de roue de secours": {
+              "categoryId": 100826,
+              "categoryName": "Gas Springs",
+              "level": 2,
+              "children": [],
+              "productId": 231
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Accessoires [ID: 100733] (Niveau 1)\n│   └── Ressorts pneumatiques (Niveau 2)\n│       └── Gas Springs [ID: 100861] (Niveau 2) → ProductId: 231\n\n└── Carrosserie [ID: 100001] (Niveau 1)\n    ├── Arrière de la voiture (Niveau 2)\n    │   └── Vehicle Rear [ID: 101705] (Niveau 2) → ProductId: 231\n    │       └── Composants/suppléments (Niveau 4)\n    │           └── Parts [ID: 101745] (Niveau 3) → ProductId: 231\n    │               └── Ressorts pneumatiques (Niveau 6)\n    │                   └── Gas Springs [ID: 101752] (Niveau 4) → ProductId: 231\n    ├── Avant du véhicule (Niveau 2)\n    │   └── Vehicle Front [ID: 101648] (Niveau 2) → ProductId: 231\n    │       └── Composants/suppléments (Niveau 4)\n    │           └── Parts [ID: 101673] (Niveau 3) → ProductId: 231\n    │               └── Ressorts pneumatiques (Niveau 6)\n    │                   └── Gas Springs [ID: 101777] (Niveau 4) → ProductId: 231\n    └── Ressorts pneumatiques (Niveau 2)\n        └── Gas Springs [ID: 100826] (Niveau 2) → ProductId: 231",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Accessoires",
+        "Ressorts pneumatiques",
+        "Gas Springs"
+      ],
+      "categoryIds": [
+        100733,
+        null,
+        100861
+      ],
+      "finalCategoryId": 100861,
+      "productId": 231
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Vehicle Rear"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101705
+      ],
+      "finalCategoryId": 101705,
+      "productId": 231
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Avant du véhicule",
+        "Vehicle Front"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101648
+      ],
+      "finalCategoryId": 101648,
+      "productId": 231
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Ressorts pneumatiques",
+        "Gas Springs"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100826
+      ],
+      "finalCategoryId": 100826,
+      "productId": 231
+    }
+  ],
+  "productIdsInArbo": [
+    231
+  ],
+  "matchedProductIds": [
+    231
+  ]
+}

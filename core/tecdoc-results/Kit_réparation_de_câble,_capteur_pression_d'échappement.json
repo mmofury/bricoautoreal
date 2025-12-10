@@ -1,0 +1,104 @@
+{
+  "productName": "Kit réparation de câble, capteur pression d'échappement",
+  "searchText": "Kit réparation de câble, capteur pression d'échappement",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:09:31.215Z",
+  "productId": 8029,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Épuration des gaz d'échappement": {
+          "categoryId": null,
+          "categoryName": "Épuration des gaz d'échappement",
+          "level": 2,
+          "children": {
+            "Kit réparation de câble, capteur pression d'échappement": {
+              "categoryId": 100790,
+              "categoryName": "Exhaust Emission Control",
+              "level": 2,
+              "children": {
+                "Capteur/sonde lambda": {
+                  "categoryId": null,
+                  "categoryName": "Capteur/sonde lambda",
+                  "level": 4,
+                  "children": {
+                    "Kit réparation de câble, capteur pression d'échappement": {
+                      "categoryId": 103047,
+                      "categoryName": "Sensor/Probe",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8029
+                    }
+                  }
+                }
+              },
+              "productId": 8029
+            }
+          }
+        }
+      }
+    },
+    "Échappement": {
+      "categoryId": 100004,
+      "categoryName": "Échappement",
+      "level": 1,
+      "children": {
+        "Capteur/sonde lambda": {
+          "categoryId": null,
+          "categoryName": "Capteur/sonde lambda",
+          "level": 2,
+          "children": {
+            "Kit réparation de câble, capteur pression d'échappement": {
+              "categoryId": 103414,
+              "categoryName": "Sensor/Probe",
+              "level": 2,
+              "children": [],
+              "productId": 8029
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carburation [ID: 100254] (Niveau 1)\n│   └── Épuration des gaz d'échappement (Niveau 2)\n│       └── Exhaust Emission Control [ID: 100790] (Niveau 2) → ProductId: 8029\n│           └── Capteur/sonde lambda (Niveau 4)\n│               └── Sensor/Probe [ID: 103047] (Niveau 3) → ProductId: 8029\n\n└── Échappement [ID: 100004] (Niveau 1)\n    └── Capteur/sonde lambda (Niveau 2)\n        └── Sensor/Probe [ID: 103414] (Niveau 2) → ProductId: 8029",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Épuration des gaz d'échappement",
+        "Exhaust Emission Control"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        100790
+      ],
+      "finalCategoryId": 100790,
+      "productId": 8029
+    },
+    {
+      "path": [
+        "Échappement",
+        "Capteur/sonde lambda",
+        "Sensor/Probe"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        103414
+      ],
+      "finalCategoryId": 103414,
+      "productId": 8029
+    }
+  ],
+  "productIdsInArbo": [
+    8029
+  ],
+  "matchedProductIds": [
+    8029
+  ]
+}

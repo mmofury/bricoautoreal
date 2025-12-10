@@ -1,0 +1,49 @@
+{
+  "productName": "Mécanisme de verrouillage, cabine",
+  "productId": 525,
+  "searchText": "Mécanisme de verrouillage, cabine",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Cabine du conducteur/carrosserie": {
+          "categoryId": 200022,
+          "categoryName": "Cabine du conducteur/carrosserie",
+          "level": 1,
+          "children": {
+            "Suspension de la cabine": {
+              "categoryId": null,
+              "categoryName": "Suspension de la cabine",
+              "level": 2,
+              "children": {
+                "Mécanisme de verrouillage, cabine": {
+                  "categoryId": 200025,
+                  "categoryName": "Driver Cab Suspension",
+                  "level": 2,
+                  "children": [],
+                  "productId": 525
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Cabine du conducteur/carrosserie [ID: 200022] (Niveau 1)\n    └── Suspension de la cabine (Niveau 2)\n        └── Driver Cab Suspension [ID: 200025] (Niveau 2) → ProductId: 525",
+      "productIdsInArbo": [
+        525
+      ],
+      "matchedProductIds": [
+        525
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:58:06.910Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

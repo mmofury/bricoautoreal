@@ -1,0 +1,43 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H0ABW5",
+      "index": "V30-4401",
+      "tecDoc": "V30-4401",
+      "tecDocProd": "162",
+      "articleNumber": "V30-4401",
+      "brand": "VAICO",
+      "shortDescription": "Rod/Strut, wheel suspension",
+      "description": "Suspension beam support rear fits: MERCEDES C (C205), C (W205), C T-MODEL (S205), GLC (C253), GLC (X253) 12.13-04.23",
+      "gtuCode": "GTU_07",
+      "customsCode": "87082990",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_395",
+          "primary": false,
+          "name": {
+            "en": "Axle Beam"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_2980",
+          "primary": false,
+          "name": {
+            "en": "Support Frame/Subframe"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3230",
+          "primary": true,
+          "name": {
+            "en": "Rod/Strut, wheel suspension"
+          }
+        }
+      ]
+    }
+  ]
+}

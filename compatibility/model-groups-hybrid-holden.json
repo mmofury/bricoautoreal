@@ -1,0 +1,2344 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.317Z",
+  "manufacturer": "HOLDEN",
+  "countGroups": 49,
+  "groups": [
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "48/215",
+      "displayName": "48/215",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7678,
+          "modelName": "48/215 A trois volumes (FX)",
+          "modelYearFrom": "1948-11-01",
+          "modelYearTo": "1953-09-01"
+        },
+        {
+          "modelId": 37990,
+          "modelName": "48/215 Coupe Utility (FX)",
+          "modelYearFrom": "1951-01-01",
+          "modelYearTo": "1953-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "ACADIA",
+      "displayName": "ACADIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39083,
+          "modelName": "ACADIA SUV (AC)",
+          "modelYearFrom": "2018-08-01",
+          "modelYearTo": "2019-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "ADVENTRA",
+      "displayName": "ADVENTRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5858,
+          "modelName": "ADVENTRA Break (VY)",
+          "modelYearFrom": "2003-08-01",
+          "modelYearTo": "2004-10-01"
+        },
+        {
+          "modelId": 8321,
+          "modelName": "ADVENTRA Break (VZ)",
+          "modelYearFrom": "2004-10-01",
+          "modelYearTo": "2009-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "APOLLO",
+      "displayName": "APOLLO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5868,
+          "modelName": "APOLLO A trois volumes (JM)",
+          "modelYearFrom": "1993-03-01",
+          "modelYearTo": "1997-05-01"
+        },
+        {
+          "modelId": 5869,
+          "modelName": "APOLLO Break (JM)",
+          "modelYearFrom": "1993-03-01",
+          "modelYearTo": "1997-05-01"
+        },
+        {
+          "modelId": 8183,
+          "modelName": "APOLLO A trois volumes (JK)",
+          "modelYearFrom": "1989-08-01",
+          "modelYearTo": "1991-08-01"
+        },
+        {
+          "modelId": 8184,
+          "modelName": "APOLLO Break (JK)",
+          "modelYearFrom": "1989-08-01",
+          "modelYearTo": "1991-08-01"
+        },
+        {
+          "modelId": 8297,
+          "modelName": "APOLLO A trois volumes (JL)",
+          "modelYearFrom": "1991-08-01",
+          "modelYearTo": "1993-03-01"
+        },
+        {
+          "modelId": 8298,
+          "modelName": "APOLLO A trois volumes (JP)",
+          "modelYearFrom": "1993-03-01",
+          "modelYearTo": "1997-12-01"
+        },
+        {
+          "modelId": 8299,
+          "modelName": "APOLLO Break (JL)",
+          "modelYearFrom": "1991-08-01",
+          "modelYearTo": "1993-03-01"
+        },
+        {
+          "modelId": 8300,
+          "modelName": "APOLLO Break (JP)",
+          "modelYearFrom": "1995-01-01",
+          "modelYearTo": "1997-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "ASTRA",
+      "displayName": "ASTRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5879,
+          "modelName": "ASTRA Berline bicorps trois ou cinq portes (TR)",
+          "modelYearFrom": "1995-08-01",
+          "modelYearTo": "1998-09-01"
+        },
+        {
+          "modelId": 5880,
+          "modelName": "ASTRA A trois volumes (TR)",
+          "modelYearFrom": "1995-08-01",
+          "modelYearTo": "1998-09-01"
+        },
+        {
+          "modelId": 5881,
+          "modelName": "ASTRA Berline bicorps trois ou cinq portes (TS)",
+          "modelYearFrom": "1998-02-01",
+          "modelYearTo": "2005-10-01"
+        },
+        {
+          "modelId": 5882,
+          "modelName": "ASTRA A trois volumes (TS)",
+          "modelYearFrom": "1998-02-01",
+          "modelYearTo": "2005-10-01"
+        },
+        {
+          "modelId": 5884,
+          "modelName": "ASTRA Décapotable (TS)",
+          "modelYearFrom": "2001-02-01",
+          "modelYearTo": "2006-12-01"
+        },
+        {
+          "modelId": 7564,
+          "modelName": "ASTRA (AH)",
+          "modelYearFrom": "2004-12-01",
+          "modelYearTo": "2010-03-01"
+        },
+        {
+          "modelId": 7565,
+          "modelName": "ASTRA SPORTSBACK (AH)",
+          "modelYearFrom": "2005-07-01",
+          "modelYearTo": "2010-03-01"
+        },
+        {
+          "modelId": 8113,
+          "modelName": "ASTRA Berline bicorps trois ou cinq portes (LB, LC)",
+          "modelYearFrom": "1984-08-01",
+          "modelYearTo": "1987-07-01"
+        },
+        {
+          "modelId": 8114,
+          "modelName": "ASTRA Berline bicorps trois ou cinq portes (LD)",
+          "modelYearFrom": "1987-07-01",
+          "modelYearTo": "1989-07-01"
+        },
+        {
+          "modelId": 8185,
+          "modelName": "ASTRA Break (AH)",
+          "modelYearFrom": "2004-12-01",
+          "modelYearTo": "2010-03-01"
+        },
+        {
+          "modelId": 8186,
+          "modelName": "ASTRA A trois volumes (LD)",
+          "modelYearFrom": "1987-07-01",
+          "modelYearTo": "1989-07-01"
+        },
+        {
+          "modelId": 9073,
+          "modelName": "ASTRA TWINTOP (AH)",
+          "modelYearFrom": "2008-03-01",
+          "modelYearTo": "2010-03-01"
+        },
+        {
+          "modelId": 14374,
+          "modelName": "ASTRA Berline bicorps trois ou cinq portes (PJ)",
+          "modelYearFrom": "2014-12-01",
+          "modelYearTo": "2016-08-01"
+        },
+        {
+          "modelId": 38272,
+          "modelName": "ASTRA A trois volumes (BL)",
+          "modelYearFrom": "2017-06-01",
+          "modelYearTo": "2018-07-01"
+        },
+        {
+          "modelId": 38379,
+          "modelName": "ASTRA Berline bicorps trois ou cinq portes (BK)",
+          "modelYearFrom": "2016-09-01",
+          "modelYearTo": "2020-10-01"
+        },
+        {
+          "modelId": 38380,
+          "modelName": "ASTRA Break (BK)",
+          "modelYearFrom": "2017-09-01",
+          "modelYearTo": "2018-10-01"
+        },
+        {
+          "modelId": 90183,
+          "modelName": "ASTRA Break (TS)",
+          "modelYearFrom": "1998-02-01",
+          "modelYearTo": "2004-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "BARINA",
+      "displayName": "BARINA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5897,
+          "modelName": "BARINA Berline bicorps trois ou cinq portes (MF)",
+          "modelYearFrom": "1989-02-01",
+          "modelYearTo": "1997-04-01"
+        },
+        {
+          "modelId": 5899,
+          "modelName": "BARINA Berline bicorps trois ou cinq portes (SB)",
+          "modelYearFrom": "1994-04-01",
+          "modelYearTo": "2001-02-01"
+        },
+        {
+          "modelId": 5900,
+          "modelName": "BARINA Berline bicorps trois ou cinq portes (XC)",
+          "modelYearFrom": "2000-09-01",
+          "modelYearTo": "2005-12-01"
+        },
+        {
+          "modelId": 5901,
+          "modelName": "BARINA Berline bicorps trois ou cinq portes (TK)",
+          "modelYearFrom": "2005-03-01",
+          "modelYearTo": "2012-06-01"
+        },
+        {
+          "modelId": 7459,
+          "modelName": "BARINA A trois volumes (TK)",
+          "modelYearFrom": "2005-03-01",
+          "modelYearTo": "2012-06-01"
+        },
+        {
+          "modelId": 8115,
+          "modelName": "BARINA Berline bicorps trois ou cinq portes (MB)",
+          "modelYearFrom": "1985-02-01",
+          "modelYearTo": "1986-08-01"
+        },
+        {
+          "modelId": 8239,
+          "modelName": "BARINA Décapotable (SB)",
+          "modelYearFrom": "1997-11-01",
+          "modelYearTo": "2000-11-01"
+        },
+        {
+          "modelId": 8295,
+          "modelName": "BARINA Berline bicorps trois ou cinq portes (ML)",
+          "modelYearFrom": "1985-02-01",
+          "modelYearTo": "1989-12-01"
+        },
+        {
+          "modelId": 8296,
+          "modelName": "BARINA Berline bicorps trois ou cinq portes (MH)",
+          "modelYearFrom": "1991-09-01",
+          "modelYearTo": "1997-04-01"
+        },
+        {
+          "modelId": 9568,
+          "modelName": "BARINA SPARK (MJ)",
+          "modelYearFrom": "2010-10-01",
+          "modelYearTo": "2015-12-01"
+        },
+        {
+          "modelId": 10168,
+          "modelName": "BARINA Berline bicorps trois ou cinq portes (TM)",
+          "modelYearFrom": "2011-11-01",
+          "modelYearTo": "2018-09-01"
+        },
+        {
+          "modelId": 11170,
+          "modelName": "BARINA A trois volumes (TM)",
+          "modelYearFrom": "2012-12-01",
+          "modelYearTo": "2016-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "BERLINA",
+      "displayName": "BERLINA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44627,
+          "modelName": "BERLINA A trois volumes (VK)",
+          "modelYearFrom": "1984-03-01",
+          "modelYearTo": "1986-03-01"
+        },
+        {
+          "modelId": 44628,
+          "modelName": "BERLINA Break (VK)",
+          "modelYearFrom": "1984-03-01",
+          "modelYearTo": "1986-03-01"
+        },
+        {
+          "modelId": 44629,
+          "modelName": "BERLINA A trois volumes (VL)",
+          "modelYearFrom": "1986-03-01",
+          "modelYearTo": "1988-09-01"
+        },
+        {
+          "modelId": 44630,
+          "modelName": "BERLINA Break (VL)",
+          "modelYearFrom": "1986-03-01",
+          "modelYearTo": "1988-09-01"
+        },
+        {
+          "modelId": 44631,
+          "modelName": "BERLINA A trois volumes (VN)",
+          "modelYearFrom": "1988-08-01",
+          "modelYearTo": "1991-10-01"
+        },
+        {
+          "modelId": 44632,
+          "modelName": "BERLINA Break (VN)",
+          "modelYearFrom": "1988-08-01",
+          "modelYearTo": "1991-10-01"
+        },
+        {
+          "modelId": 44633,
+          "modelName": "BERLINA A trois volumes (VP)",
+          "modelYearFrom": "1991-09-01",
+          "modelYearTo": "1993-07-01"
+        },
+        {
+          "modelId": 44634,
+          "modelName": "BERLINA Break (VP)",
+          "modelYearFrom": "1991-09-01",
+          "modelYearTo": "1993-07-01"
+        },
+        {
+          "modelId": 44635,
+          "modelName": "BERLINA A trois volumes (VR)",
+          "modelYearFrom": "1993-08-01",
+          "modelYearTo": "1995-04-01"
+        },
+        {
+          "modelId": 44636,
+          "modelName": "BERLINA Break (VR)",
+          "modelYearFrom": "1993-08-01",
+          "modelYearTo": "1995-04-01"
+        },
+        {
+          "modelId": 44637,
+          "modelName": "BERLINA A trois volumes (VS)",
+          "modelYearFrom": "1995-04-01",
+          "modelYearTo": "1997-08-01"
+        },
+        {
+          "modelId": 44638,
+          "modelName": "BERLINA Break (VS)",
+          "modelYearFrom": "1995-04-01",
+          "modelYearTo": "1997-08-01"
+        },
+        {
+          "modelId": 44639,
+          "modelName": "BERLINA A trois volumes (VT)",
+          "modelYearFrom": "1997-08-01",
+          "modelYearTo": "2000-09-01"
+        },
+        {
+          "modelId": 44640,
+          "modelName": "BERLINA Break (VT)",
+          "modelYearFrom": "1997-08-01",
+          "modelYearTo": "2000-09-01"
+        },
+        {
+          "modelId": 44641,
+          "modelName": "BERLINA A trois volumes (VX)",
+          "modelYearFrom": "2000-09-01",
+          "modelYearTo": "2002-09-01"
+        },
+        {
+          "modelId": 44642,
+          "modelName": "BERLINA Break (VX)",
+          "modelYearFrom": "2000-09-01",
+          "modelYearTo": "2002-09-01"
+        },
+        {
+          "modelId": 44643,
+          "modelName": "BERLINA A trois volumes (VY)",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": "2004-08-01"
+        },
+        {
+          "modelId": 44644,
+          "modelName": "BERLINA Break (VY)",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": "2004-08-01"
+        },
+        {
+          "modelId": 44645,
+          "modelName": "BERLINA A trois volumes (VZ)",
+          "modelYearFrom": "2004-09-01",
+          "modelYearTo": "2006-06-01"
+        },
+        {
+          "modelId": 44646,
+          "modelName": "BERLINA Break (VZ)",
+          "modelYearFrom": "2004-09-01",
+          "modelYearTo": "2007-07-01"
+        },
+        {
+          "modelId": 44647,
+          "modelName": "BERLINA A trois volumes (VE)",
+          "modelYearFrom": "2006-08-01",
+          "modelYearTo": "2013-05-01"
+        },
+        {
+          "modelId": 44648,
+          "modelName": "BERLINA Break (VE)",
+          "modelYearFrom": "2008-11-01",
+          "modelYearTo": "2013-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "CALAIS",
+      "displayName": "CALAIS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13002,
+          "modelName": "CALAIS A trois volumes (VE)",
+          "modelYearFrom": "2006-07-01",
+          "modelYearTo": "2013-05-01"
+        },
+        {
+          "modelId": 13003,
+          "modelName": "CALAIS A trois volumes (VR)",
+          "modelYearFrom": "1993-08-01",
+          "modelYearTo": "1995-04-01"
+        },
+        {
+          "modelId": 13004,
+          "modelName": "CALAIS A trois volumes (VF)",
+          "modelYearFrom": "2013-06-01",
+          "modelYearTo": "2017-10-01"
+        },
+        {
+          "modelId": 13005,
+          "modelName": "CALAIS A trois volumes (VL)",
+          "modelYearFrom": "1986-01-01",
+          "modelYearTo": "1988-09-01"
+        },
+        {
+          "modelId": 13006,
+          "modelName": "CALAIS A trois volumes (VK)",
+          "modelYearFrom": "1984-03-01",
+          "modelYearTo": "1987-03-01"
+        },
+        {
+          "modelId": 13007,
+          "modelName": "CALAIS A trois volumes (VS)",
+          "modelYearFrom": "1995-04-01",
+          "modelYearTo": "1997-09-01"
+        },
+        {
+          "modelId": 13008,
+          "modelName": "CALAIS A trois volumes (VT)",
+          "modelYearFrom": "1997-09-01",
+          "modelYearTo": "2000-10-01"
+        },
+        {
+          "modelId": 13009,
+          "modelName": "CALAIS A trois volumes (VX)",
+          "modelYearFrom": "2000-09-01",
+          "modelYearTo": "2002-09-01"
+        },
+        {
+          "modelId": 13010,
+          "modelName": "CALAIS A trois volumes (VY)",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": "2004-08-01"
+        },
+        {
+          "modelId": 13011,
+          "modelName": "CALAIS A trois volumes (VN)",
+          "modelYearFrom": "1988-08-01",
+          "modelYearTo": "1991-10-01"
+        },
+        {
+          "modelId": 13012,
+          "modelName": "CALAIS A trois volumes (VZ)",
+          "modelYearFrom": "2004-08-01",
+          "modelYearTo": "2006-06-01"
+        },
+        {
+          "modelId": 13013,
+          "modelName": "CALAIS A trois volumes (VP)",
+          "modelYearFrom": "1991-09-01",
+          "modelYearTo": "1993-07-01"
+        },
+        {
+          "modelId": 13014,
+          "modelName": "CALAIS Break (VE)",
+          "modelYearFrom": "2006-07-01",
+          "modelYearTo": "2013-05-01"
+        },
+        {
+          "modelId": 13015,
+          "modelName": "CALAIS Break (VL)",
+          "modelYearFrom": "1988-01-01",
+          "modelYearTo": "1988-12-01"
+        },
+        {
+          "modelId": 13016,
+          "modelName": "CALAIS Break (VF)",
+          "modelYearFrom": "2013-06-01",
+          "modelYearTo": "2017-10-01"
+        },
+        {
+          "modelId": 38634,
+          "modelName": "CALAIS Berline bicorps trois ou cinq portes (ZB)",
+          "modelYearFrom": "2017-10-01",
+          "modelYearTo": "2020-10-01"
+        },
+        {
+          "modelId": 38635,
+          "modelName": "CALAIS Break (ZB)",
+          "modelYearFrom": "2017-10-01",
+          "modelYearTo": "2020-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "CALIBRA",
+      "displayName": "CALIBRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8118,
+          "modelName": "CALIBRA (YE)",
+          "modelYearFrom": "1990-06-01",
+          "modelYearTo": "1998-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "CAMIRA",
+      "displayName": "CAMIRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7679,
+          "modelName": "CAMIRA A trois volumes (JB)",
+          "modelYearFrom": "1982-08-01",
+          "modelYearTo": "1989-08-01"
+        },
+        {
+          "modelId": 7680,
+          "modelName": "CAMIRA A trois volumes (JD)",
+          "modelYearFrom": "1984-11-01",
+          "modelYearTo": "1987-03-01"
+        },
+        {
+          "modelId": 8132,
+          "modelName": "CAMIRA A trois volumes (JE)",
+          "modelYearFrom": "1987-04-01",
+          "modelYearTo": "1989-08-01"
+        },
+        {
+          "modelId": 8238,
+          "modelName": "CAMIRA Break (JB)",
+          "modelYearFrom": "1982-08-01",
+          "modelYearTo": "1989-07-01"
+        },
+        {
+          "modelId": 8323,
+          "modelName": "CAMIRA Break (JD)",
+          "modelYearFrom": "1984-11-01",
+          "modelYearTo": "1987-03-01"
+        },
+        {
+          "modelId": 8324,
+          "modelName": "CAMIRA Break (JE)",
+          "modelYearFrom": "1987-04-01",
+          "modelYearTo": "1989-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "CAPRICE",
+      "displayName": "CAPRICE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5925,
+          "modelName": "CAPRICE A trois volumes (VQ)",
+          "modelYearFrom": "1990-04-01",
+          "modelYearTo": "1999-06-01"
+        },
+        {
+          "modelId": 5926,
+          "modelName": "CAPRICE A trois volumes (WH)",
+          "modelYearFrom": "1999-06-01",
+          "modelYearTo": "2003-04-01"
+        },
+        {
+          "modelId": 7462,
+          "modelName": "CAPRICE A trois volumes (WM)",
+          "modelYearFrom": "2006-07-01",
+          "modelYearTo": "2013-08-01"
+        },
+        {
+          "modelId": 8327,
+          "modelName": "CAPRICE A trois volumes (VR)",
+          "modelYearFrom": "1994-03-01",
+          "modelYearTo": "1995-04-01"
+        },
+        {
+          "modelId": 8328,
+          "modelName": "CAPRICE A trois volumes (VS)",
+          "modelYearFrom": "1995-04-01",
+          "modelYearTo": "1999-06-01"
+        },
+        {
+          "modelId": 8329,
+          "modelName": "CAPRICE A trois volumes (WK)",
+          "modelYearFrom": "2003-05-01",
+          "modelYearTo": "2004-07-01"
+        },
+        {
+          "modelId": 8330,
+          "modelName": "CAPRICE A trois volumes (WL)",
+          "modelYearFrom": "2004-08-01",
+          "modelYearTo": "2006-07-01"
+        },
+        {
+          "modelId": 11469,
+          "modelName": "CAPRICE A trois volumes (WN)",
+          "modelYearFrom": "2013-05-01",
+          "modelYearTo": "2017-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "CAPTIVA",
+      "displayName": "CAPTIVA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6661,
+          "modelName": "CAPTIVA 5 Gen. I (CG)",
+          "modelYearFrom": "2006-12-01",
+          "modelYearTo": "2011-12-01"
+        },
+        {
+          "modelId": 13294,
+          "modelName": "CAPTIVA 5 Gen. II (CG)",
+          "modelYearFrom": "2011-03-01",
+          "modelYearTo": "2017-12-01"
+        },
+        {
+          "modelId": 13520,
+          "modelName": "CAPTIVA 7 Gen. II (CG)",
+          "modelYearFrom": "2011-03-01",
+          "modelYearTo": "2018-12-01"
+        },
+        {
+          "modelId": 39219,
+          "modelName": "CAPTIVA 7 Gen. I (CG)",
+          "modelYearFrom": "2006-12-01",
+          "modelYearTo": "2011-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "CASCADA",
+      "displayName": "CASCADA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14395,
+          "modelName": "CASCADA Décapotable (CJ)",
+          "modelYearFrom": "2014-08-01",
+          "modelYearTo": "2017-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "COLORADO",
+      "displayName": "COLORADO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8251,
+          "modelName": "COLORADO Pick-up (RC)",
+          "modelYearFrom": "2008-03-01",
+          "modelYearTo": "2012-06-01"
+        },
+        {
+          "modelId": 8252,
+          "modelName": "COLORADO Camion plate-forme/Châssis (RC)",
+          "modelYearFrom": "2008-03-01",
+          "modelYearTo": "2012-06-01"
+        },
+        {
+          "modelId": 11168,
+          "modelName": "COLORADO Pick-up (RG)",
+          "modelYearFrom": "2012-06-01",
+          "modelYearTo": "2020-10-01"
+        },
+        {
+          "modelId": 11169,
+          "modelName": "COLORADO Camion plate-forme/Châssis (RG)",
+          "modelYearFrom": "2012-06-01",
+          "modelYearTo": "2020-10-01"
+        },
+        {
+          "modelId": 11262,
+          "modelName": "COLORADO 7 (RG)",
+          "modelYearFrom": "2012-06-01",
+          "modelYearTo": "2016-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "COMBO",
+      "displayName": "COMBO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5954,
+          "modelName": "COMBO Fourgon (XC)",
+          "modelYearFrom": "2001-08-01",
+          "modelYearTo": "2012-12-01"
+        },
+        {
+          "modelId": 8357,
+          "modelName": "COMBO Fourgon (SB)",
+          "modelYearFrom": "1996-03-01",
+          "modelYearTo": "2002-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "COMMODORE",
+      "displayName": "COMMODORE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5955,
+          "modelName": "COMMODORE A trois volumes (VL)",
+          "modelYearFrom": "1986-01-01",
+          "modelYearTo": "1989-06-01"
+        },
+        {
+          "modelId": 5956,
+          "modelName": "COMMODORE Break (VB)",
+          "modelYearFrom": "1978-09-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 5958,
+          "modelName": "COMMODORE Break (VN)",
+          "modelYearFrom": "1988-01-01",
+          "modelYearTo": "1991-03-01"
+        },
+        {
+          "modelId": 5959,
+          "modelName": "COMMODORE A trois volumes (VZ)",
+          "modelYearFrom": "2004-09-01",
+          "modelYearTo": "2006-07-01"
+        },
+        {
+          "modelId": 5960,
+          "modelName": "COMMODORE Break (VY)",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": "2004-08-01"
+        },
+        {
+          "modelId": 7576,
+          "modelName": "COMMODORE A trois volumes (VT)",
+          "modelYearFrom": "1995-08-01",
+          "modelYearTo": "2000-08-01"
+        },
+        {
+          "modelId": 7577,
+          "modelName": "COMMODORE Break (VT)",
+          "modelYearFrom": "1995-08-01",
+          "modelYearTo": "2002-09-01"
+        },
+        {
+          "modelId": 8082,
+          "modelName": "COMMODORE Pick-up (VG)",
+          "modelYearFrom": "1988-01-01",
+          "modelYearTo": "1991-09-01"
+        },
+        {
+          "modelId": 8096,
+          "modelName": "COMMODORE Pick-up (VU)",
+          "modelYearFrom": "2000-12-01",
+          "modelYearTo": "2002-09-01"
+        },
+        {
+          "modelId": 8097,
+          "modelName": "COMMODORE A trois volumes (VE)",
+          "modelYearFrom": "2006-07-01",
+          "modelYearTo": "2013-05-01"
+        },
+        {
+          "modelId": 8180,
+          "modelName": "COMMODORE Break (VE)",
+          "modelYearFrom": "2006-07-01",
+          "modelYearTo": "2013-05-01"
+        },
+        {
+          "modelId": 8250,
+          "modelName": "COMMODORE Pick-up (VE)",
+          "modelYearFrom": "2007-09-01",
+          "modelYearTo": "2013-10-01"
+        },
+        {
+          "modelId": 8285,
+          "modelName": "COMMODORE A trois volumes (VB)",
+          "modelYearFrom": "1978-10-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 8286,
+          "modelName": "COMMODORE A trois volumes (VC)",
+          "modelYearFrom": "1980-04-01",
+          "modelYearTo": "1981-09-01"
+        },
+        {
+          "modelId": 8287,
+          "modelName": "COMMODORE A trois volumes (VH)",
+          "modelYearFrom": "1981-09-01",
+          "modelYearTo": "1984-03-01"
+        },
+        {
+          "modelId": 8288,
+          "modelName": "COMMODORE A trois volumes (VK)",
+          "modelYearFrom": "1984-03-01",
+          "modelYearTo": "1986-03-01"
+        },
+        {
+          "modelId": 8289,
+          "modelName": "COMMODORE A trois volumes (VN)",
+          "modelYearFrom": "1988-08-01",
+          "modelYearTo": "1991-10-01"
+        },
+        {
+          "modelId": 8290,
+          "modelName": "COMMODORE A trois volumes (VP)",
+          "modelYearFrom": "1991-09-01",
+          "modelYearTo": "1993-07-01"
+        },
+        {
+          "modelId": 8291,
+          "modelName": "COMMODORE A trois volumes (VR)",
+          "modelYearFrom": "1993-07-01",
+          "modelYearTo": "1995-04-01"
+        },
+        {
+          "modelId": 8292,
+          "modelName": "COMMODORE A trois volumes (VS)",
+          "modelYearFrom": "1995-04-01",
+          "modelYearTo": "1998-12-01"
+        },
+        {
+          "modelId": 8293,
+          "modelName": "COMMODORE A trois volumes (VX)",
+          "modelYearFrom": "2000-09-01",
+          "modelYearTo": "2002-09-01"
+        },
+        {
+          "modelId": 8294,
+          "modelName": "COMMODORE A trois volumes (VY)",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": "2004-08-01"
+        },
+        {
+          "modelId": 8306,
+          "modelName": "COMMODORE Break (VC)",
+          "modelYearFrom": "1980-04-01",
+          "modelYearTo": "1981-09-01"
+        },
+        {
+          "modelId": 8307,
+          "modelName": "COMMODORE Break (VH)",
+          "modelYearFrom": "1981-09-01",
+          "modelYearTo": "1984-03-01"
+        },
+        {
+          "modelId": 8308,
+          "modelName": "COMMODORE Break (VK)",
+          "modelYearFrom": "1984-03-01",
+          "modelYearTo": "1986-03-01"
+        },
+        {
+          "modelId": 8309,
+          "modelName": "COMMODORE Break (VL)",
+          "modelYearFrom": "1986-01-01",
+          "modelYearTo": "1989-06-01"
+        },
+        {
+          "modelId": 8310,
+          "modelName": "COMMODORE Break (VP)",
+          "modelYearFrom": "1991-09-01",
+          "modelYearTo": "1993-07-01"
+        },
+        {
+          "modelId": 8311,
+          "modelName": "COMMODORE Break (VR)",
+          "modelYearFrom": "1993-07-01",
+          "modelYearTo": "1995-04-01"
+        },
+        {
+          "modelId": 8312,
+          "modelName": "COMMODORE Break (VS)",
+          "modelYearFrom": "1995-04-01",
+          "modelYearTo": "1997-09-01"
+        },
+        {
+          "modelId": 8314,
+          "modelName": "COMMODORE Break (VX)",
+          "modelYearFrom": "2000-09-01",
+          "modelYearTo": "2002-09-01"
+        },
+        {
+          "modelId": 8315,
+          "modelName": "COMMODORE Break (VZ)",
+          "modelYearFrom": "2004-09-01",
+          "modelYearTo": "2007-07-01"
+        },
+        {
+          "modelId": 8316,
+          "modelName": "COMMODORE Pick-up (VP)",
+          "modelYearFrom": "1991-09-01",
+          "modelYearTo": "1993-07-01"
+        },
+        {
+          "modelId": 8317,
+          "modelName": "COMMODORE Pick-up (VR)",
+          "modelYearFrom": "1993-08-01",
+          "modelYearTo": "1995-04-01"
+        },
+        {
+          "modelId": 8318,
+          "modelName": "COMMODORE Pick-up (VS)",
+          "modelYearFrom": "1995-04-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 8319,
+          "modelName": "COMMODORE Pick-up (VY)",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": "2004-08-01"
+        },
+        {
+          "modelId": 8320,
+          "modelName": "COMMODORE Pick-up (VZ)",
+          "modelYearFrom": "2004-09-01",
+          "modelYearTo": "2007-08-01"
+        },
+        {
+          "modelId": 11466,
+          "modelName": "COMMODORE A trois volumes (VF)",
+          "modelYearFrom": "2013-05-01",
+          "modelYearTo": "2017-10-01"
+        },
+        {
+          "modelId": 11467,
+          "modelName": "COMMODORE Break (VF)",
+          "modelYearFrom": "2013-05-01",
+          "modelYearTo": "2017-10-01"
+        },
+        {
+          "modelId": 11468,
+          "modelName": "COMMODORE Pick-up (VF)",
+          "modelYearFrom": "2013-05-01",
+          "modelYearTo": "2017-10-01"
+        },
+        {
+          "modelId": 38484,
+          "modelName": "COMMODORE Berline bicorps trois ou cinq portes (ZB)",
+          "modelYearFrom": "2017-10-01",
+          "modelYearTo": "2020-10-01"
+        },
+        {
+          "modelId": 38485,
+          "modelName": "COMMODORE Break (ZB)",
+          "modelYearFrom": "2017-10-01",
+          "modelYearTo": "2020-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "CREWMAN",
+      "displayName": "CREWMAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5972,
+          "modelName": "CREWMAN Pick-up (VY)",
+          "modelYearFrom": "2002-06-01",
+          "modelYearTo": "2004-07-01"
+        },
+        {
+          "modelId": 8322,
+          "modelName": "CREWMAN Pick-up (VZ)",
+          "modelYearFrom": "2004-08-01",
+          "modelYearTo": "2007-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "CRUZE",
+      "displayName": "CRUZE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5974,
+          "modelName": "CRUZE Berline bicorps trois ou cinq portes (YG)",
+          "modelYearFrom": "2002-08-01",
+          "modelYearTo": "2006-06-01"
+        },
+        {
+          "modelId": 8248,
+          "modelName": "CRUZE A trois volumes (JG)",
+          "modelYearFrom": "2009-06-01",
+          "modelYearTo": "2011-03-01"
+        },
+        {
+          "modelId": 10169,
+          "modelName": "CRUZE Berline bicorps trois ou cinq portes (JH)",
+          "modelYearFrom": "2011-11-01",
+          "modelYearTo": "2016-12-01"
+        },
+        {
+          "modelId": 11264,
+          "modelName": "CRUZE Break (JH)",
+          "modelYearFrom": "2012-06-01",
+          "modelYearTo": "2016-12-01"
+        },
+        {
+          "modelId": 14114,
+          "modelName": "CRUZE A trois volumes (JH)",
+          "modelYearFrom": "2011-03-01",
+          "modelYearTo": "2016-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "DROVER",
+      "displayName": "DROVER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8181,
+          "modelName": "DROVER (QB)",
+          "modelYearFrom": "1985-03-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 8391,
+          "modelName": "DROVER Pick-up (QB)",
+          "modelYearFrom": "1985-03-01",
+          "modelYearTo": "1987-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "E",
+      "displayName": "E",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8814,
+          "modelName": "E SERIES Pick-up (EK)",
+          "modelYearFrom": "1961-05-01",
+          "modelYearTo": "1962-06-01"
+        },
+        {
+          "modelId": 8815,
+          "modelName": "E SERIES A trois volumes (EK)",
+          "modelYearFrom": "1961-05-01",
+          "modelYearTo": "1962-06-01"
+        },
+        {
+          "modelId": 8816,
+          "modelName": "E SERIES Panel Van (EK)",
+          "modelYearFrom": "1961-05-01",
+          "modelYearTo": "1962-06-01"
+        },
+        {
+          "modelId": 8817,
+          "modelName": "E SERIES A trois volumes (EJ)",
+          "modelYearFrom": "1962-07-01",
+          "modelYearTo": "1963-07-01"
+        },
+        {
+          "modelId": 8818,
+          "modelName": "E SERIES Break (EJ)",
+          "modelYearFrom": "1962-07-01",
+          "modelYearTo": "1963-07-01"
+        },
+        {
+          "modelId": 8819,
+          "modelName": "E SERIES Pick-up (EJ)",
+          "modelYearFrom": "1962-07-01",
+          "modelYearTo": "1963-07-01"
+        },
+        {
+          "modelId": 8820,
+          "modelName": "E SERIES Panel Van (EJ)",
+          "modelYearFrom": "1962-07-01",
+          "modelYearTo": "1963-07-01"
+        },
+        {
+          "modelId": 8821,
+          "modelName": "E SERIES A trois volumes (EH)",
+          "modelYearFrom": "1963-08-01",
+          "modelYearTo": "1965-01-01"
+        },
+        {
+          "modelId": 8822,
+          "modelName": "E SERIES Break (EH)",
+          "modelYearFrom": "1963-08-01",
+          "modelYearTo": "1965-01-01"
+        },
+        {
+          "modelId": 8824,
+          "modelName": "E SERIES Pick-up (EH)",
+          "modelYearFrom": "1963-08-01",
+          "modelYearTo": "1965-01-01"
+        },
+        {
+          "modelId": 8825,
+          "modelName": "E SERIES Panel Van (EH)",
+          "modelYearFrom": "1963-08-01",
+          "modelYearTo": "1965-01-01"
+        },
+        {
+          "modelId": 39828,
+          "modelName": "E SERIES Break (EK)",
+          "modelYearFrom": "1961-05-01",
+          "modelYearTo": "1962-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "EPICA",
+      "displayName": "EPICA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8171,
+          "modelName": "EPICA A trois volumes (EP)",
+          "modelYearFrom": "2007-03-01",
+          "modelYearTo": "2011-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "EQUINOX",
+      "displayName": "EQUINOX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38358,
+          "modelName": "EQUINOX (EQ)",
+          "modelYearFrom": "2017-09-01",
+          "modelYearTo": "2020-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "F",
+      "displayName": "F",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8826,
+          "modelName": "F SERIES A trois volumes (FB)",
+          "modelYearFrom": "1960-01-01",
+          "modelYearTo": "1961-04-01"
+        },
+        {
+          "modelId": 8827,
+          "modelName": "F SERIES Break (FB)",
+          "modelYearFrom": "1960-01-01",
+          "modelYearTo": "1961-04-01"
+        },
+        {
+          "modelId": 8828,
+          "modelName": "F SERIES Pick-up (FB)",
+          "modelYearFrom": "1960-01-01",
+          "modelYearTo": "1961-04-01"
+        },
+        {
+          "modelId": 8829,
+          "modelName": "F SERIES Panel Van (FB)",
+          "modelYearFrom": "1960-01-01",
+          "modelYearTo": "1961-04-01"
+        },
+        {
+          "modelId": 8830,
+          "modelName": "F SERIES A trois volumes (FC)",
+          "modelYearFrom": "1958-05-01",
+          "modelYearTo": "1959-12-01"
+        },
+        {
+          "modelId": 8831,
+          "modelName": "F SERIES Break (FC)",
+          "modelYearFrom": "1958-05-01",
+          "modelYearTo": "1959-12-01"
+        },
+        {
+          "modelId": 8832,
+          "modelName": "F SERIES Pick-up (FC)",
+          "modelYearFrom": "1958-05-01",
+          "modelYearTo": "1959-12-01"
+        },
+        {
+          "modelId": 8833,
+          "modelName": "F SERIES Panel Van (FC)",
+          "modelYearFrom": "1958-05-01",
+          "modelYearTo": "1959-12-01"
+        },
+        {
+          "modelId": 8834,
+          "modelName": "F SERIES A trois volumes (FE)",
+          "modelYearFrom": "1956-07-01",
+          "modelYearTo": "1958-04-01"
+        },
+        {
+          "modelId": 8835,
+          "modelName": "F SERIES Break (FE)",
+          "modelYearFrom": "1957-03-01",
+          "modelYearTo": "1958-04-01"
+        },
+        {
+          "modelId": 8836,
+          "modelName": "F SERIES Pick-up (FE)",
+          "modelYearFrom": "1957-03-01",
+          "modelYearTo": "1958-04-01"
+        },
+        {
+          "modelId": 8837,
+          "modelName": "F SERIES Panel Van (FE)",
+          "modelYearFrom": "1957-02-01",
+          "modelYearTo": "1958-04-01"
+        },
+        {
+          "modelId": 8838,
+          "modelName": "F SERIES A trois volumes (FJ)",
+          "modelYearFrom": "1953-10-01",
+          "modelYearTo": "1957-01-01"
+        },
+        {
+          "modelId": 8839,
+          "modelName": "F SERIES Pick-up (FJ)",
+          "modelYearFrom": "1953-10-01",
+          "modelYearTo": "1957-01-01"
+        },
+        {
+          "modelId": 8840,
+          "modelName": "F SERIES Panel Van (FJ)",
+          "modelYearFrom": "1953-10-01",
+          "modelYearTo": "1957-01-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "FRONTERA",
+      "displayName": "FRONTERA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6008,
+          "modelName": "FRONTERA (UES)",
+          "modelYearFrom": "1999-02-01",
+          "modelYearTo": "2004-04-01"
+        },
+        {
+          "modelId": 40900,
+          "modelName": "FRONTERA (UT)",
+          "modelYearFrom": "1995-10-01",
+          "modelYearTo": "1999-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "GEMINI",
+      "displayName": "GEMINI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8172,
+          "modelName": "GEMINI A trois volumes (TX, TC, TD)",
+          "modelYearFrom": "1975-03-01",
+          "modelYearTo": "1979-12-01"
+        },
+        {
+          "modelId": 8173,
+          "modelName": "GEMINI Coupé (TX, TC, TD)",
+          "modelYearFrom": "1975-01-01",
+          "modelYearTo": "1979-12-01"
+        },
+        {
+          "modelId": 8174,
+          "modelName": "GEMINI Break (TE, TF, TG)",
+          "modelYearFrom": "1978-04-01",
+          "modelYearTo": "1984-12-01"
+        },
+        {
+          "modelId": 8176,
+          "modelName": "GEMINI A trois volumes (TE, TF, TG)",
+          "modelYearFrom": "1979-10-01",
+          "modelYearTo": "1985-05-01"
+        },
+        {
+          "modelId": 8177,
+          "modelName": "GEMINI Break (TD)",
+          "modelYearFrom": "1978-04-01",
+          "modelYearTo": "1979-12-01"
+        },
+        {
+          "modelId": 8178,
+          "modelName": "GEMINI A trois volumes (RB)",
+          "modelYearFrom": "1985-05-01",
+          "modelYearTo": "1986-05-01"
+        },
+        {
+          "modelId": 8493,
+          "modelName": "GEMINI Panel Van (TE, TF, TG)",
+          "modelYearFrom": "1979-10-01",
+          "modelYearTo": "1984-12-01"
+        },
+        {
+          "modelId": 8494,
+          "modelName": "GEMINI Panel Van (TD)",
+          "modelYearFrom": "1978-04-01",
+          "modelYearTo": "1979-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "H",
+      "displayName": "H",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7681,
+          "modelName": "H SERIES A trois volumes (HG)",
+          "modelYearFrom": "1970-07-01",
+          "modelYearTo": "1971-07-01"
+        },
+        {
+          "modelId": 7682,
+          "modelName": "H SERIES Pick-up (HG)",
+          "modelYearFrom": "1970-07-01",
+          "modelYearTo": "1971-11-01"
+        },
+        {
+          "modelId": 7683,
+          "modelName": "H SERIES Panel Van (HG)",
+          "modelYearFrom": "1970-07-01",
+          "modelYearTo": "1971-11-01"
+        },
+        {
+          "modelId": 7684,
+          "modelName": "H SERIES Break (HG)",
+          "modelYearFrom": "1970-07-01",
+          "modelYearTo": "1971-07-01"
+        },
+        {
+          "modelId": 7685,
+          "modelName": "H SERIES A trois volumes (HJ)",
+          "modelYearFrom": "1974-10-01",
+          "modelYearTo": "1976-07-01"
+        },
+        {
+          "modelId": 7686,
+          "modelName": "H SERIES Pick-up (HJ)",
+          "modelYearFrom": "1974-10-01",
+          "modelYearTo": "1976-07-01"
+        },
+        {
+          "modelId": 7687,
+          "modelName": "H SERIES Panel Van (HJ)",
+          "modelYearFrom": "1974-10-01",
+          "modelYearTo": "1976-07-01"
+        },
+        {
+          "modelId": 7688,
+          "modelName": "H SERIES Break (HJ)",
+          "modelYearFrom": "1974-10-01",
+          "modelYearTo": "1976-07-01"
+        },
+        {
+          "modelId": 7689,
+          "modelName": "H SERIES A trois volumes (HK)",
+          "modelYearFrom": "1968-01-01",
+          "modelYearTo": "1969-05-01"
+        },
+        {
+          "modelId": 7690,
+          "modelName": "H SERIES Pick-up (HK)",
+          "modelYearFrom": "1968-01-01",
+          "modelYearTo": "1969-05-01"
+        },
+        {
+          "modelId": 7691,
+          "modelName": "H SERIES Panel Van (HK)",
+          "modelYearFrom": "1968-01-01",
+          "modelYearTo": "1969-05-01"
+        },
+        {
+          "modelId": 7692,
+          "modelName": "H SERIES Break (HK)",
+          "modelYearFrom": "1968-01-01",
+          "modelYearTo": "1969-05-01"
+        },
+        {
+          "modelId": 7693,
+          "modelName": "H SERIES A trois volumes (HQ)",
+          "modelYearFrom": "1971-07-01",
+          "modelYearTo": "1974-10-01"
+        },
+        {
+          "modelId": 7694,
+          "modelName": "H SERIES Pick-up (HQ)",
+          "modelYearFrom": "1971-08-01",
+          "modelYearTo": "1974-10-01"
+        },
+        {
+          "modelId": 7695,
+          "modelName": "H SERIES Panel Van (HQ)",
+          "modelYearFrom": "1971-08-01",
+          "modelYearTo": "1974-10-01"
+        },
+        {
+          "modelId": 7696,
+          "modelName": "H SERIES Break (HQ)",
+          "modelYearFrom": "1971-08-01",
+          "modelYearTo": "1974-10-01"
+        },
+        {
+          "modelId": 7697,
+          "modelName": "H SERIES A trois volumes (HR)",
+          "modelYearFrom": "1966-04-01",
+          "modelYearTo": "1968-01-01"
+        },
+        {
+          "modelId": 7698,
+          "modelName": "H SERIES Pick-up (HR)",
+          "modelYearFrom": "1966-04-01",
+          "modelYearTo": "1968-01-01"
+        },
+        {
+          "modelId": 7699,
+          "modelName": "H SERIES Panel Van (HR)",
+          "modelYearFrom": "1966-04-01",
+          "modelYearTo": "1968-01-01"
+        },
+        {
+          "modelId": 7700,
+          "modelName": "H SERIES Break (HR)",
+          "modelYearFrom": "1966-04-01",
+          "modelYearTo": "1968-01-01"
+        },
+        {
+          "modelId": 7701,
+          "modelName": "H SERIES A trois volumes (HT)",
+          "modelYearFrom": "1969-05-01",
+          "modelYearTo": "1970-07-01"
+        },
+        {
+          "modelId": 7702,
+          "modelName": "H SERIES Pick-up (HT)",
+          "modelYearFrom": "1969-05-01",
+          "modelYearTo": "1970-07-01"
+        },
+        {
+          "modelId": 7703,
+          "modelName": "H SERIES Panel Van (HT)",
+          "modelYearFrom": "1969-05-01",
+          "modelYearTo": "1970-07-01"
+        },
+        {
+          "modelId": 7704,
+          "modelName": "H SERIES Break (HT)",
+          "modelYearFrom": "1969-05-01",
+          "modelYearTo": "1970-07-01"
+        },
+        {
+          "modelId": 7705,
+          "modelName": "H SERIES A trois volumes (HX)",
+          "modelYearFrom": "1976-03-01",
+          "modelYearTo": "1977-09-01"
+        },
+        {
+          "modelId": 7706,
+          "modelName": "H SERIES Pick-up (HX)",
+          "modelYearFrom": "1976-03-01",
+          "modelYearTo": "1977-09-01"
+        },
+        {
+          "modelId": 7707,
+          "modelName": "H SERIES Panel Van (HX)",
+          "modelYearFrom": "1976-03-01",
+          "modelYearTo": "1977-09-01"
+        },
+        {
+          "modelId": 7708,
+          "modelName": "H SERIES Break (HX)",
+          "modelYearFrom": "1976-03-01",
+          "modelYearTo": "1977-09-01"
+        },
+        {
+          "modelId": 7709,
+          "modelName": "H SERIES A trois volumes (HZ)",
+          "modelYearFrom": "1977-10-01",
+          "modelYearTo": "1980-04-01"
+        },
+        {
+          "modelId": 7710,
+          "modelName": "H SERIES Pick-up (HZ)",
+          "modelYearFrom": "1977-10-01",
+          "modelYearTo": "1980-04-01"
+        },
+        {
+          "modelId": 7711,
+          "modelName": "H SERIES Panel Van (HZ)",
+          "modelYearFrom": "1977-10-01",
+          "modelYearTo": "1980-04-01"
+        },
+        {
+          "modelId": 7712,
+          "modelName": "H SERIES Break (HZ)",
+          "modelYearFrom": "1977-10-01",
+          "modelYearTo": "1980-04-01"
+        },
+        {
+          "modelId": 8841,
+          "modelName": "H SERIES A trois volumes (HD)",
+          "modelYearFrom": "1965-02-01",
+          "modelYearTo": "1966-03-01"
+        },
+        {
+          "modelId": 8842,
+          "modelName": "H SERIES Break (HD)",
+          "modelYearFrom": "1965-02-01",
+          "modelYearTo": "1966-03-01"
+        },
+        {
+          "modelId": 8843,
+          "modelName": "H SERIES Pick-up (HD)",
+          "modelYearFrom": "1965-07-01",
+          "modelYearTo": "1966-04-01"
+        },
+        {
+          "modelId": 8844,
+          "modelName": "H SERIES Panel Van (HD)",
+          "modelYearFrom": "1965-07-01",
+          "modelYearTo": "1966-04-01"
+        },
+        {
+          "modelId": 45127,
+          "modelName": "H SERIES Camion plate-forme/Châssis (HQ)",
+          "modelYearFrom": "1971-08-01",
+          "modelYearTo": "1974-10-01"
+        },
+        {
+          "modelId": 45128,
+          "modelName": "H SERIES Camion plate-forme/Châssis (HJ)",
+          "modelYearFrom": "1974-10-01",
+          "modelYearTo": "1976-07-01"
+        },
+        {
+          "modelId": 45129,
+          "modelName": "H SERIES Camion plate-forme/Châssis (HX)",
+          "modelYearFrom": "1976-07-01",
+          "modelYearTo": "1977-09-01"
+        },
+        {
+          "modelId": 45130,
+          "modelName": "H SERIES Camion plate-forme/Châssis (HZ)",
+          "modelYearFrom": "1977-10-01",
+          "modelYearTo": "1980-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "INSIGNIA",
+      "displayName": "INSIGNIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14396,
+          "modelName": "INSIGNIA A trois volumes (GA)",
+          "modelYearFrom": "2015-01-01",
+          "modelYearTo": "2016-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "JACKAROO",
+      "displayName": "JACKAROO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6049,
+          "modelName": "JACKAROO (UBS)",
+          "modelYearFrom": "1981-11-01",
+          "modelYearTo": "1998-02-01"
+        },
+        {
+          "modelId": 6052,
+          "modelName": "JACKAROO / MONTEREY (UBS)",
+          "modelYearFrom": "1991-10-01",
+          "modelYearTo": "2004-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "MALIBU",
+      "displayName": "MALIBU",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11470,
+          "modelName": "MALIBU (EM)",
+          "modelYearFrom": "2013-05-01",
+          "modelYearTo": "2016-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "MONARO",
+      "displayName": "MONARO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6095,
+          "modelName": "MONARO Coupé (VZ)",
+          "modelYearFrom": "2004-09-01",
+          "modelYearTo": "2006-07-01"
+        },
+        {
+          "modelId": 6662,
+          "modelName": "MONARO Coupé (V2)",
+          "modelYearFrom": "2001-05-01",
+          "modelYearTo": "2004-09-01"
+        },
+        {
+          "modelId": 8387,
+          "modelName": "MONARO Coupé (HG)",
+          "modelYearFrom": "1968-07-01",
+          "modelYearTo": "1971-07-01"
+        },
+        {
+          "modelId": 8388,
+          "modelName": "MONARO Coupé (HJ)",
+          "modelYearFrom": "1974-10-01",
+          "modelYearTo": "1976-07-01"
+        },
+        {
+          "modelId": 8389,
+          "modelName": "MONARO Coupé (HQ)",
+          "modelYearFrom": "1971-07-01",
+          "modelYearTo": "1974-10-01"
+        },
+        {
+          "modelId": 8390,
+          "modelName": "MONARO Coupé (HX)",
+          "modelYearFrom": "1976-07-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 8492,
+          "modelName": "MONARO Coupé (HT)",
+          "modelYearFrom": "1968-05-01",
+          "modelYearTo": "1970-08-01"
+        },
+        {
+          "modelId": 8525,
+          "modelName": "MONARO A trois volumes (HZ)",
+          "modelYearFrom": "1977-10-01",
+          "modelYearTo": "1980-04-01"
+        },
+        {
+          "modelId": 37992,
+          "modelName": "MONARO Coupé (HK)",
+          "modelYearFrom": "1968-07-01",
+          "modelYearTo": "1971-12-01"
+        },
+        {
+          "modelId": 39814,
+          "modelName": "MONARO A trois volumes (HQ)",
+          "modelYearFrom": "1973-04-01",
+          "modelYearTo": "1974-10-01"
+        },
+        {
+          "modelId": 39815,
+          "modelName": "MONARO A trois volumes (HJ)",
+          "modelYearFrom": "1974-10-01",
+          "modelYearTo": "1976-07-01"
+        },
+        {
+          "modelId": 39816,
+          "modelName": "MONARO A trois volumes (HX)",
+          "modelYearFrom": "1976-07-01",
+          "modelYearTo": "1977-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "NOVA",
+      "displayName": "NOVA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6102,
+          "modelName": "NOVA Berline bicorps trois ou cinq portes (LF)",
+          "modelYearFrom": "1989-08-01",
+          "modelYearTo": "1997-04-01"
+        },
+        {
+          "modelId": 6103,
+          "modelName": "NOVA A trois volumes (LF)",
+          "modelYearFrom": "1991-09-01",
+          "modelYearTo": "1997-12-01"
+        },
+        {
+          "modelId": 8133,
+          "modelName": "NOVA Berline bicorps trois ou cinq portes (LE)",
+          "modelYearFrom": "1989-08-01",
+          "modelYearTo": "1992-11-01"
+        },
+        {
+          "modelId": 8134,
+          "modelName": "NOVA A trois volumes (LE)",
+          "modelYearFrom": "1989-08-01",
+          "modelYearTo": "1991-09-01"
+        },
+        {
+          "modelId": 8341,
+          "modelName": "NOVA Berline bicorps trois ou cinq portes (LG)",
+          "modelYearFrom": "1994-10-01",
+          "modelYearTo": "1997-12-01"
+        },
+        {
+          "modelId": 8342,
+          "modelName": "NOVA A trois volumes (LG)",
+          "modelYearFrom": "1994-10-01",
+          "modelYearTo": "1997-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "ONE",
+      "displayName": "ONE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6105,
+          "modelName": "ONE TONNER Camion plate-forme/Châssis (VY)",
+          "modelYearFrom": "2003-06-01",
+          "modelYearTo": "2004-12-01"
+        },
+        {
+          "modelId": 6192,
+          "modelName": "ONE TONNER Pick-up (VZ)",
+          "modelYearFrom": "2004-11-01",
+          "modelYearTo": "2005-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "PIAZZA",
+      "displayName": "PIAZZA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8112,
+          "modelName": "PIAZZA (YB)",
+          "modelYearFrom": "1981-10-01",
+          "modelYearTo": "1991-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "RODEO",
+      "displayName": "RODEO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6126,
+          "modelName": "RODEO Pick-up (KB)",
+          "modelYearFrom": "1976-01-01",
+          "modelYearTo": "1988-12-01"
+        },
+        {
+          "modelId": 6127,
+          "modelName": "RODEO Pick-up (RA)",
+          "modelYearFrom": "2003-02-01",
+          "modelYearTo": "2008-10-01"
+        },
+        {
+          "modelId": 8072,
+          "modelName": "RODEO Pick-up (TF)",
+          "modelYearFrom": "1988-02-01",
+          "modelYearTo": "2003-08-01"
+        },
+        {
+          "modelId": 8517,
+          "modelName": "RODEO Camion plate-forme/Châssis (TF)",
+          "modelYearFrom": "1988-02-01",
+          "modelYearTo": "2003-08-01"
+        },
+        {
+          "modelId": 8526,
+          "modelName": "RODEO Camion plate-forme/Châssis (RA)",
+          "modelYearFrom": "1998-03-01",
+          "modelYearTo": "2008-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "SCURRY",
+      "displayName": "SCURRY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6193,
+          "modelName": "SCURRY Autobus/Autocar (NB)",
+          "modelYearFrom": "1985-07-01",
+          "modelYearTo": "1998-08-01"
+        },
+        {
+          "modelId": 8484,
+          "modelName": "SCURRY Fourgon (NB)",
+          "modelYearFrom": "1985-07-01",
+          "modelYearTo": "1987-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "SHUTTLE",
+      "displayName": "SHUTTLE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8365,
+          "modelName": "SHUTTLE Fourgon (WFR)",
+          "modelYearFrom": "1982-03-01",
+          "modelYearTo": "1991-12-01"
+        },
+        {
+          "modelId": 8392,
+          "modelName": "SHUTTLE Autobus/Autocar (WFR)",
+          "modelYearFrom": "1982-03-01",
+          "modelYearTo": "1991-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "SPARK",
+      "displayName": "SPARK",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38085,
+          "modelName": "SPARK Berline bicorps trois ou cinq portes (MP)",
+          "modelYearFrom": "2015-12-01",
+          "modelYearTo": "2018-02-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "STATESMAN",
+      "displayName": "STATESMAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4614,
+          "modelName": "STATESMAN A trois volumes (WH)",
+          "modelYearFrom": "1999-06-01",
+          "modelYearTo": "2003-04-01"
+        },
+        {
+          "modelId": 6158,
+          "modelName": "STATESMAN A trois volumes (VQ)",
+          "modelYearFrom": "1990-03-01",
+          "modelYearTo": "1999-06-01"
+        },
+        {
+          "modelId": 7463,
+          "modelName": "STATESMAN A trois volumes (WM)",
+          "modelYearFrom": "2006-07-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 7819,
+          "modelName": "STATESMAN A trois volumes (WB)",
+          "modelYearFrom": "1980-05-01",
+          "modelYearTo": "1985-07-01"
+        },
+        {
+          "modelId": 8302,
+          "modelName": "STATESMAN A trois volumes (WK)",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": "2004-08-01"
+        },
+        {
+          "modelId": 8303,
+          "modelName": "STATESMAN A trois volumes (WL)",
+          "modelYearFrom": "2004-08-01",
+          "modelYearTo": "2006-07-01"
+        },
+        {
+          "modelId": 8304,
+          "modelName": "STATESMAN A trois volumes (VR)",
+          "modelYearFrom": "1994-03-01",
+          "modelYearTo": "1995-04-01"
+        },
+        {
+          "modelId": 8305,
+          "modelName": "STATESMAN A trois volumes (VS)",
+          "modelYearFrom": "1995-04-01",
+          "modelYearTo": "1999-06-01"
+        },
+        {
+          "modelId": 44419,
+          "modelName": "STATESMAN A trois volumes (HQ)",
+          "modelYearFrom": "1971-07-01",
+          "modelYearTo": "1974-10-01"
+        },
+        {
+          "modelId": 44420,
+          "modelName": "STATESMAN A trois volumes (HJ)",
+          "modelYearFrom": "1974-10-01",
+          "modelYearTo": "1976-07-01"
+        },
+        {
+          "modelId": 44421,
+          "modelName": "STATESMAN A trois volumes (HX)",
+          "modelYearFrom": "1976-07-01",
+          "modelYearTo": "1977-10-01"
+        },
+        {
+          "modelId": 44422,
+          "modelName": "STATESMAN A trois volumes (HZ)",
+          "modelYearFrom": "1977-10-01",
+          "modelYearTo": "1980-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "SUBURBAN",
+      "displayName": "SUBURBAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6164,
+          "modelName": "SUBURBAN (K8)",
+          "modelYearFrom": "1998-01-01",
+          "modelYearTo": "2000-01-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "SUNBIRD",
+      "displayName": "SUNBIRD",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7713,
+          "modelName": "SUNBIRD A trois volumes (LX)",
+          "modelYearFrom": "1977-08-01",
+          "modelYearTo": "1978-08-01"
+        },
+        {
+          "modelId": 7714,
+          "modelName": "SUNBIRD A trois volumes (UC)",
+          "modelYearFrom": "1978-01-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 39829,
+          "modelName": "SUNBIRD Berline bicorps trois ou cinq portes (UC)",
+          "modelYearFrom": "1978-01-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 39830,
+          "modelName": "SUNBIRD Berline bicorps trois ou cinq portes (LX)",
+          "modelYearFrom": "1976-11-01",
+          "modelYearTo": "1978-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "TIGRA",
+      "displayName": "TIGRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8120,
+          "modelName": "TIGRA (XC)",
+          "modelYearFrom": "2004-06-01",
+          "modelYearTo": "2007-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "TORANA",
+      "displayName": "TORANA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7716,
+          "modelName": "TORANA A trois volumes (HB)",
+          "modelYearFrom": "1967-05-01",
+          "modelYearTo": "1969-09-01"
+        },
+        {
+          "modelId": 7717,
+          "modelName": "TORANA A trois volumes (LC)",
+          "modelYearFrom": "1969-10-01",
+          "modelYearTo": "1972-01-01"
+        },
+        {
+          "modelId": 7718,
+          "modelName": "TORANA A trois volumes (LH)",
+          "modelYearFrom": "1974-03-01",
+          "modelYearTo": "1978-02-01"
+        },
+        {
+          "modelId": 7719,
+          "modelName": "TORANA A trois volumes (LJ)",
+          "modelYearFrom": "1972-02-01",
+          "modelYearTo": "1974-03-01"
+        },
+        {
+          "modelId": 7720,
+          "modelName": "TORANA A trois volumes (LX)",
+          "modelYearFrom": "1975-01-01",
+          "modelYearTo": "1978-03-01"
+        },
+        {
+          "modelId": 7721,
+          "modelName": "TORANA A trois volumes (UC)",
+          "modelYearFrom": "1978-03-01",
+          "modelYearTo": "1979-12-01"
+        },
+        {
+          "modelId": 8393,
+          "modelName": "TORANA A trois volumes (TA)",
+          "modelYearFrom": "1974-03-01",
+          "modelYearTo": "1975-03-01"
+        },
+        {
+          "modelId": 8810,
+          "modelName": "TORANA Berline bicorps trois ou cinq portes (LX)",
+          "modelYearFrom": "1975-01-01",
+          "modelYearTo": "1978-03-01"
+        },
+        {
+          "modelId": 8811,
+          "modelName": "TORANA Berline bicorps trois ou cinq portes (UC)",
+          "modelYearFrom": "1978-03-01",
+          "modelYearTo": "1979-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "TRAILBLAZER",
+      "displayName": "TRAILBLAZER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37304,
+          "modelName": "TRAILBLAZER (RG)",
+          "modelYearFrom": "2016-07-01",
+          "modelYearTo": "2020-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "TRAX",
+      "displayName": "TRAX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11874,
+          "modelName": "TRAX (TJ)",
+          "modelYearFrom": "2013-10-01",
+          "modelYearTo": "2020-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "VECTRA",
+      "displayName": "VECTRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6197,
+          "modelName": "VECTRA Berline bicorps trois ou cinq portes (JS)",
+          "modelYearFrom": "1998-08-01",
+          "modelYearTo": "2003-03-01"
+        },
+        {
+          "modelId": 6198,
+          "modelName": "VECTRA A trois volumes (JS)",
+          "modelYearFrom": "1998-08-01",
+          "modelYearTo": "2002-12-01"
+        },
+        {
+          "modelId": 6199,
+          "modelName": "VECTRA Berline bicorps trois ou cinq portes (ZC)",
+          "modelYearFrom": "2002-04-01",
+          "modelYearTo": "2006-12-01"
+        },
+        {
+          "modelId": 6200,
+          "modelName": "VECTRA A trois volumes (ZC)",
+          "modelYearFrom": "2002-04-01",
+          "modelYearTo": "2006-12-01"
+        },
+        {
+          "modelId": 7808,
+          "modelName": "VECTRA Berline bicorps trois ou cinq portes (JR)",
+          "modelYearFrom": "1997-06-01",
+          "modelYearTo": "1998-12-01"
+        },
+        {
+          "modelId": 7820,
+          "modelName": "VECTRA A trois volumes (JR)",
+          "modelYearFrom": "1997-06-01",
+          "modelYearTo": "1998-12-01"
+        },
+        {
+          "modelId": 8325,
+          "modelName": "VECTRA Break (JS)",
+          "modelYearFrom": "1998-08-01",
+          "modelYearTo": "2003-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "VIVA",
+      "displayName": "VIVA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6208,
+          "modelName": "VIVA Berline bicorps trois ou cinq portes (JF)",
+          "modelYearFrom": "2005-03-01",
+          "modelYearTo": "2009-12-01"
+        },
+        {
+          "modelId": 6209,
+          "modelName": "VIVA A trois volumes (JF)",
+          "modelYearFrom": "2005-03-01",
+          "modelYearTo": "2009-12-01"
+        },
+        {
+          "modelId": 6210,
+          "modelName": "VIVA Break (JF)",
+          "modelYearFrom": "2005-03-01",
+          "modelYearTo": "2009-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "VOLT",
+      "displayName": "VOLT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11263,
+          "modelName": "VOLT (EV)",
+          "modelYearFrom": "2011-04-01",
+          "modelYearTo": "2013-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "WB",
+      "displayName": "WB",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7722,
+          "modelName": "WB Pick-up",
+          "modelYearFrom": "1980-04-01",
+          "modelYearTo": "1985-12-01"
+        },
+        {
+          "modelId": 7723,
+          "modelName": "WB Panel Van",
+          "modelYearFrom": "1980-03-01",
+          "modelYearTo": "1985-12-01"
+        },
+        {
+          "modelId": 45131,
+          "modelName": "WB Camion plate-forme/Châssis",
+          "modelYearFrom": "1980-04-01",
+          "modelYearTo": "1985-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 801,
+      "manufacturerName": "HOLDEN",
+      "groupKey": "ZAFIRA",
+      "displayName": "ZAFIRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6221,
+          "modelName": "ZAFIRA (TT)",
+          "modelYearFrom": "2000-07-01",
+          "modelYearTo": "2006-02-01"
+        }
+      ]
+    }
+  ]
+}

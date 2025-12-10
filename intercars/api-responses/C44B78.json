@@ -1,0 +1,49 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "C44B78",
+      "index": "ATAS2078",
+      "tecDoc": "AS2078",
+      "tecDocProd": "4737",
+      "articleNumber": "AS2078",
+      "brand": "AUTLOG",
+      "shortDescription": "Sensor, coolant temperature",
+      "description": "Coolant temperature sensor (number of pins: 2, blue) fits: VOLVO 240, 740, 760, ALFA ROMEO 145, 146, 155, 164, 33, 75, GTV, RZ, SPIDER, BMW 3 (E30), 3 (E36), 5 (E28), 5 (E34) 0.9-3.8 01.77-02.16",
+      "eans": [
+        "4048488026408"
+      ],
+      "packageWeight": "0,028",
+      "packageWidth": "2,000",
+      "packageDepth": "5,000",
+      "packageHeight": "2,000",
+      "customsCode": "90268080",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_2201",
+          "primary": false,
+          "name": {
+            "en": "Sensor, oil temperature"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_2394",
+          "primary": true,
+          "name": {
+            "en": "Sensor, coolant temperature"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_829",
+          "primary": false,
+          "name": {
+            "en": "Sensor, oil temperature"
+          }
+        }
+      ]
+    }
+  ]
+}

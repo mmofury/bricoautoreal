@@ -1,0 +1,54 @@
+{
+  "productName": "Jeu de joints, pompe à vide",
+  "searchText": "Jeu de joints, pompe à vide",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:50:39.634Z",
+  "productId": 5176,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Pompe à vide": {
+          "categoryId": null,
+          "categoryName": "Pompe à vide",
+          "level": 2,
+          "children": {
+            "Jeu de joints, pompe à vide": {
+              "categoryId": 100039,
+              "categoryName": "Vacuum Pump",
+              "level": 2,
+              "children": [],
+              "productId": 5176
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif de freinage [ID: 100006] (Niveau 1)\n    └── Pompe à vide (Niveau 2)\n        └── Vacuum Pump [ID: 100039] (Niveau 2) → ProductId: 5176",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Pompe à vide",
+        "Vacuum Pump"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100039
+      ],
+      "finalCategoryId": 100039,
+      "productId": 5176
+    }
+  ],
+  "productIdsInArbo": [
+    5176
+  ],
+  "matchedProductIds": [
+    5176
+  ]
+}

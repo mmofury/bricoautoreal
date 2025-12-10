@@ -1,0 +1,202 @@
+{
+  "productName": "Verre de rétroviseur",
+  "searchText": "Verre de rétroviseur",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-03T07:32:46.608Z",
+  "productId": 1488,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Habitacle": {
+          "categoryId": null,
+          "categoryName": "Habitacle",
+          "level": 2,
+          "children": {
+            "Verre de rétroviseur, rétroviseur extérieur": {
+              "categoryId": 101690,
+              "categoryName": "Passenger Cabin",
+              "level": 2,
+              "children": {
+                "Miroirs": {
+                  "categoryId": null,
+                  "categoryName": "Miroirs",
+                  "level": 4,
+                  "children": {
+                    "Verre de rétroviseur, rétroviseur extérieur": {
+                      "categoryId": 101698,
+                      "categoryName": "Mirrors",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1914
+                    }
+                  }
+                }
+              },
+              "productId": 1914
+            }
+          }
+        },
+        "Vitrages/Miroirs": {
+          "categoryId": null,
+          "categoryName": "Vitrages/Miroirs",
+          "level": 2,
+          "children": {
+            "Verre à miroir, grand rétroviseur": {
+              "categoryId": 100744,
+              "categoryName": "Glazing/Mirrors",
+              "level": 2,
+              "children": {
+                "Miroirs": {
+                  "categoryId": null,
+                  "categoryName": "Miroirs",
+                  "level": 4,
+                  "children": {
+                    "Verre à miroir, grand rétroviseur": {
+                      "categoryId": 100566,
+                      "categoryName": "Mirrors",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3254
+                    }
+                  }
+                }
+              },
+              "productId": 3254
+            },
+            "Verre de rétroviseur, rétroviseur extérieur": {
+              "categoryId": 100744,
+              "categoryName": "Glazing/Mirrors",
+              "level": 2,
+              "children": {
+                "Miroirs": {
+                  "categoryId": null,
+                  "categoryName": "Miroirs",
+                  "level": 4,
+                  "children": {
+                    "Verre de rétroviseur, rétroviseur extérieur": {
+                      "categoryId": 100566,
+                      "categoryName": "Mirrors",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1915
+                    }
+                  }
+                }
+              },
+              "productId": 1915
+            },
+            "Vitre-miroir, rétro-angle-mort": {
+              "categoryId": 100744,
+              "categoryName": "Glazing/Mirrors",
+              "level": 2,
+              "children": {
+                "Miroirs": {
+                  "categoryId": null,
+                  "categoryName": "Miroirs",
+                  "level": 4,
+                  "children": {
+                    "Vitre-miroir, rétro-angle-mort": {
+                      "categoryId": 100566,
+                      "categoryName": "Mirrors",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3399
+                    }
+                  }
+                }
+              },
+              "productId": 3399
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    ├── Habitacle (Niveau 2)\n    │   └── Passenger Cabin [ID: 101690] (Niveau 2) → ProductId: 1914\n    │       └── Miroirs (Niveau 4)\n    │           └── Mirrors [ID: 101698] (Niveau 3) → ProductId: 1914\n    └── Vitrages/Miroirs (Niveau 2)\n        ├── Glazing/Mirrors [ID: 100744] (Niveau 2) → ProductId: 3254\n        │   └── Miroirs (Niveau 4)\n        │       └── Mirrors [ID: 100566] (Niveau 3) → ProductId: 3254\n        ├── Glazing/Mirrors [ID: 100744] (Niveau 2) → ProductId: 1915\n        │   └── Miroirs (Niveau 4)\n        │       └── Mirrors [ID: 100566] (Niveau 3) → ProductId: 1915\n        └── Glazing/Mirrors [ID: 100744] (Niveau 2) → ProductId: 3399\n            └── Miroirs (Niveau 4)\n                └── Mirrors [ID: 100566] (Niveau 3) → ProductId: 3399",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Habitacle",
+        "Passenger Cabin"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101690
+      ],
+      "finalCategoryId": 101690,
+      "productId": 1914
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Vitrages/Miroirs",
+        "Glazing/Mirrors"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100744
+      ],
+      "finalCategoryId": 100744,
+      "productId": 3254
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Vitrages/Miroirs",
+        "Glazing/Mirrors"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100744
+      ],
+      "finalCategoryId": 100744,
+      "productId": 1915
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Vitrages/Miroirs",
+        "Glazing/Mirrors"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100744
+      ],
+      "finalCategoryId": 100744,
+      "productId": 3399
+    }
+  ],
+  "productIdsInArbo": [
+    1914,
+    1915,
+    3254,
+    3399
+  ],
+  "closestProductIds": [
+    {
+      "productId": 1914,
+      "productName": "Verre de rétroviseur, rétroviseur extérieur"
+    },
+    {
+      "productId": 1915,
+      "productName": "Verre de rétroviseur, rétroviseur extérieur"
+    },
+    {
+      "productId": 3254,
+      "productName": "Verre à miroir, grand rétroviseur"
+    },
+    {
+      "productId": 3399,
+      "productName": "Vitre-miroir, rétro-angle-mort"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Servomoteur (clapet d'échappement)",
+  "searchText": "Servomoteur (clapet d'échappement)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:15:49.233Z",
+  "productId": 60800,
+  "arborescence": {
+    "Échappement": {
+      "categoryId": 100004,
+      "categoryName": "Échappement",
+      "level": 1,
+      "children": {
+        "Clapet de gaz d'échappement": {
+          "categoryId": null,
+          "categoryName": "Clapet de gaz d'échappement",
+          "level": 2,
+          "children": {
+            "Servomoteur (clapet d'échappement)": {
+              "categoryId": 102451,
+              "categoryName": "Exhaust Gas Door",
+              "level": 2,
+              "children": [],
+              "productId": 60800
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Échappement [ID: 100004] (Niveau 1)\n    └── Clapet de gaz d'échappement (Niveau 2)\n        └── Exhaust Gas Door [ID: 102451] (Niveau 2) → ProductId: 60800",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Échappement",
+        "Clapet de gaz d'échappement",
+        "Exhaust Gas Door"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        102451
+      ],
+      "finalCategoryId": 102451,
+      "productId": 60800
+    }
+  ],
+  "productIdsInArbo": [
+    60800
+  ],
+  "matchedProductIds": [
+    60800
+  ]
+}

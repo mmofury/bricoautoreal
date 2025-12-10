@@ -1,0 +1,84 @@
+{
+  "productName": "Boulon de filetage, compresseur",
+  "searchText": "Boulon de filetage, compresseur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:09:10.830Z",
+  "productId": 1702,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Alimentation en air": {
+          "categoryId": null,
+          "categoryName": "Alimentation en air",
+          "level": 2,
+          "children": {
+            "Boulon de filetage, compresseur": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Suralimentation": {
+                  "categoryId": null,
+                  "categoryName": "Suralimentation",
+                  "level": 4,
+                  "children": {
+                    "Boulon de filetage, compresseur": {
+                      "categoryId": 100390,
+                      "categoryName": "Charging (supercharged/turbocharged)",
+                      "level": 3,
+                      "children": {
+                        "Compresseur/composants": {
+                          "categoryId": null,
+                          "categoryName": "Compresseur/composants",
+                          "level": 6,
+                          "children": {
+                            "Boulon de filetage, compresseur": {
+                              "categoryId": 100391,
+                              "categoryName": "Charger/-parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 1702
+                            }
+                          }
+                        }
+                      },
+                      "productId": 1702
+                    }
+                  }
+                }
+              },
+              "productId": 1702
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Alimentation en air (Niveau 2)\n        └── Air Supply [ID: 100383] (Niveau 2) → ProductId: 1702\n            └── Suralimentation (Niveau 4)\n                └── Charging (supercharged/turbocharged) [ID: 100390] (Niveau 3) → ProductId: 1702\n                    └── Compresseur/composants (Niveau 6)\n                        └── Charger/-parts [ID: 100391] (Niveau 4) → ProductId: 1702",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 1702
+    }
+  ],
+  "productIdsInArbo": [
+    1702
+  ],
+  "matchedProductIds": [
+    1702
+  ]
+}

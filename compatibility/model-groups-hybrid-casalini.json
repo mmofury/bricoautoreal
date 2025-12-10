@@ -1,0 +1,97 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.203Z",
+  "manufacturer": "CASALINI",
+  "countGroups": 6,
+  "groups": [
+    {
+      "manufacturerId": 2915,
+      "manufacturerName": "CASALINI",
+      "groupKey": "KERRY",
+      "displayName": "KERRY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37579,
+          "modelName": "KERRY",
+          "modelYearFrom": "2000-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2915,
+      "manufacturerName": "CASALINI",
+      "groupKey": "M10",
+      "displayName": "M10",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37585,
+          "modelName": "M10",
+          "modelYearFrom": "2010-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2915,
+      "manufacturerName": "CASALINI",
+      "groupKey": "M12",
+      "displayName": "M12",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40814,
+          "modelName": "M12",
+          "modelYearFrom": "2013-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2915,
+      "manufacturerName": "CASALINI",
+      "groupKey": "M14",
+      "displayName": "M14",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37578,
+          "modelName": "M14",
+          "modelYearFrom": "2014-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2915,
+      "manufacturerName": "CASALINI",
+      "groupKey": "M20",
+      "displayName": "M20",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40862,
+          "modelName": "M20",
+          "modelYearFrom": "2018-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2915,
+      "manufacturerName": "CASALINI",
+      "groupKey": "PICKUP",
+      "displayName": "PICKUP",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37583,
+          "modelName": "PICKUP",
+          "modelYearFrom": "2014-01-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

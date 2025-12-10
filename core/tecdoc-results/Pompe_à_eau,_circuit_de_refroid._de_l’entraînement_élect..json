@@ -1,0 +1,69 @@
+{
+  "productName": "Pompe à eau, circuit de refroid. de l’entraînement élect.",
+  "searchText": "Pompe à eau, circuit de refroid. de l’entraînement élect.",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:01:50.328Z",
+  "productId": 60575,
+  "arborescence": {
+    "Entraînement hybride/électrique": {
+      "categoryId": 706209,
+      "categoryName": "Entraînement hybride/électrique",
+      "level": 1,
+      "children": {
+        "Refroidissement": {
+          "categoryId": null,
+          "categoryName": "Refroidissement",
+          "level": 2,
+          "children": {
+            "Pompe à eau, circuit de refroid. de l’entraînement élect.": {
+              "categoryId": 706210,
+              "categoryName": "Cooling System",
+              "level": 2,
+              "children": {
+                "Pompe à eau pour entraînement électrique": {
+                  "categoryId": null,
+                  "categoryName": "Pompe à eau pour entraînement électrique",
+                  "level": 4,
+                  "children": {
+                    "Pompe à eau, circuit de refroid. de l’entraînement élect.": {
+                      "categoryId": 706706,
+                      "categoryName": "Water pump for electrical drive",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60575
+                    }
+                  }
+                }
+              },
+              "productId": 60575
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement hybride/électrique [ID: 706209] (Niveau 1)\n    └── Refroidissement (Niveau 2)\n        └── Cooling System [ID: 706210] (Niveau 2) → ProductId: 60575\n            └── Pompe à eau pour entraînement électrique (Niveau 4)\n                └── Water pump for electrical drive [ID: 706706] (Niveau 3) → ProductId: 60575",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement hybride/électrique",
+        "Refroidissement",
+        "Cooling System"
+      ],
+      "categoryIds": [
+        706209,
+        null,
+        706210
+      ],
+      "finalCategoryId": 706210,
+      "productId": 60575
+    }
+  ],
+  "productIdsInArbo": [
+    60575
+  ],
+  "matchedProductIds": [
+    60575
+  ]
+}

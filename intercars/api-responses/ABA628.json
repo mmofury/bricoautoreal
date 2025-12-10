@@ -1,0 +1,43 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "ABA628",
+      "index": "QB3214",
+      "tecDoc": "3214",
+      "tecDocProd": "6304",
+      "articleNumber": "3214",
+      "brand": "QUICK BRAKE",
+      "shortDescription": "Adapter, brake line",
+      "description": "Brake hose element",
+      "gtuCode": "GTU_07",
+      "eans": [
+        "5706021064810"
+      ],
+      "packageWeight": "0,007",
+      "packageWidth": "3,000",
+      "packageDepth": "3,500",
+      "packageHeight": "0,400",
+      "customsCode": "87083091",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3192",
+          "primary": true,
+          "name": {
+            "en": "Adapter, brake line"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_122",
+          "primary": false,
+          "name": {
+            "en": "Holding Bracket, brake hose"
+          }
+        }
+      ]
+    }
+  ]
+}

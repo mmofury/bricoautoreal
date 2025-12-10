@@ -1,0 +1,69 @@
+{
+  "productName": "Jeu de pièces de montage, boîtier du thermostat",
+  "searchText": "Jeu de pièces de montage, boîtier du thermostat",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:50:56.868Z",
+  "productId": 5003,
+  "arborescence": {
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Joint/Thermostat": {
+          "categoryId": null,
+          "categoryName": "Joint/Thermostat",
+          "level": 2,
+          "children": {
+            "Jeu de pièces de montage, boîtier du thermostat": {
+              "categoryId": 100094,
+              "categoryName": "Thermostat/Seal",
+              "level": 2,
+              "children": {
+                "Thermostat": {
+                  "categoryId": null,
+                  "categoryName": "Thermostat",
+                  "level": 4,
+                  "children": {
+                    "Jeu de pièces de montage, boîtier du thermostat": {
+                      "categoryId": 100095,
+                      "categoryName": "Thermostat",
+                      "level": 3,
+                      "children": [],
+                      "productId": 5003
+                    }
+                  }
+                }
+              },
+              "productId": 5003
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Refroidissement [ID: 100007] (Niveau 1)\n    └── Joint/Thermostat (Niveau 2)\n        └── Thermostat/Seal [ID: 100094] (Niveau 2) → ProductId: 5003\n            └── Thermostat (Niveau 4)\n                └── Thermostat [ID: 100095] (Niveau 3) → ProductId: 5003",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Refroidissement",
+        "Joint/Thermostat",
+        "Thermostat/Seal"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100094
+      ],
+      "finalCategoryId": 100094,
+      "productId": 5003
+    }
+  ],
+  "productIdsInArbo": [
+    5003
+  ],
+  "matchedProductIds": [
+    5003
+  ]
+}

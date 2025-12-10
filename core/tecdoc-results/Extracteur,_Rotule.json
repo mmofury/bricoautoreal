@@ -1,0 +1,139 @@
+{
+  "productName": "Extracteur, Rotule",
+  "searchText": "Extracteur, Rotule",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:37:44.150Z",
+  "productId": 4550,
+  "arborescence": {
+    "Direction": {
+      "categoryId": 100012,
+      "categoryName": "Direction",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Extracteur, Rotule": {
+              "categoryId": 103158,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4550
+            }
+          }
+        }
+      }
+    },
+    "Outils spéciaux": {
+      "categoryId": 706365,
+      "categoryName": "Outils spéciaux",
+      "level": 1,
+      "children": {
+        "Outils spéciaux suspension d’essieu/guidage des roues/roues": {
+          "categoryId": null,
+          "categoryName": "Outils spéciaux suspension d’essieu/guidage des roues/roues",
+          "level": 2,
+          "children": {
+            "Extracteur, Rotule": {
+              "categoryId": 706380,
+              "categoryName": "Special Tools, axle mounting/steering/wheels",
+              "level": 2,
+              "children": {
+                "Rotules": {
+                  "categoryId": null,
+                  "categoryName": "Rotules",
+                  "level": 4,
+                  "children": {
+                    "Extracteur, Rotule": {
+                      "categoryId": 706383,
+                      "categoryName": "Joints",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4550
+                    }
+                  }
+                }
+              },
+              "productId": 4550
+            }
+          }
+        }
+      }
+    },
+    "Suspension d'essieu/Guidage des roues/Roues": {
+      "categoryId": 100013,
+      "categoryName": "Suspension d'essieu/Guidage des roues/Roues",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Extracteur, Rotule": {
+              "categoryId": 103159,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4550
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Direction [ID: 100012] (Niveau 1)\n│   └── Outils (Niveau 2)\n│       └── Tools [ID: 103158] (Niveau 2) → ProductId: 4550\n\n├── Outils spéciaux [ID: 706365] (Niveau 1)\n│   └── Outils spéciaux suspension d’essieu/guidage des roues/roues (Niveau 2)\n│       └── Special Tools, axle mounting/steering/wheels [ID: 706380] (Niveau 2) → ProductId: 4550\n│           └── Rotules (Niveau 4)\n│               └── Joints [ID: 706383] (Niveau 3) → ProductId: 4550\n\n└── Suspension d'essieu/Guidage des roues/Roues [ID: 100013] (Niveau 1)\n    └── Outils (Niveau 2)\n        └── Tools [ID: 103159] (Niveau 2) → ProductId: 4550",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Direction",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        103158
+      ],
+      "finalCategoryId": 103158,
+      "productId": 4550
+    },
+    {
+      "path": [
+        "Outils spéciaux",
+        "Outils spéciaux suspension d’essieu/guidage des roues/roues",
+        "Special Tools, axle mounting/steering/wheels"
+      ],
+      "categoryIds": [
+        706365,
+        null,
+        706380
+      ],
+      "finalCategoryId": 706380,
+      "productId": 4550
+    },
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        103159
+      ],
+      "finalCategoryId": 103159,
+      "productId": 4550
+    }
+  ],
+  "productIdsInArbo": [
+    4550
+  ],
+  "matchedProductIds": [
+    4550
+  ]
+}

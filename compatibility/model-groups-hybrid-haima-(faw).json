@@ -1,0 +1,385 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.305Z",
+  "manufacturer": "HAIMA (FAW)",
+  "countGroups": 22,
+  "groups": [
+    {
+      "manufacturerId": 3036,
+      "manufacturerName": "HAIMA (FAW)",
+      "groupKey": "@3/E3",
+      "displayName": "@3/E3",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 40181,
+          "modelName": "@3/E3",
+          "modelYearFrom": "2016-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3036,
+      "manufacturerName": "HAIMA (FAW)",
+      "groupKey": "1",
+      "displayName": "1",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37760,
+          "modelName": "1",
+          "modelYearFrom": "2015-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3036,
+      "manufacturerName": "HAIMA (FAW)",
+      "groupKey": "3",
+      "displayName": "3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6556,
+          "modelName": "3 A trois volumes",
+          "modelYearFrom": "2006-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14277,
+          "modelName": "3 Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2006-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3036,
+      "manufacturerName": "HAIMA (FAW)",
+      "groupKey": "6P",
+      "displayName": "6P",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42098,
+          "modelName": "6P",
+          "modelYearFrom": "2021-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3036,
+      "manufacturerName": "HAIMA (FAW)",
+      "groupKey": "7",
+      "displayName": "7",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8693,
+          "modelName": "7",
+          "modelYearFrom": "2010-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3036,
+      "manufacturerName": "HAIMA (FAW)",
+      "groupKey": "7X",
+      "displayName": "7X",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41062,
+          "modelName": "7X",
+          "modelYearFrom": "2020-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3036,
+      "manufacturerName": "HAIMA (FAW)",
+      "groupKey": "8S",
+      "displayName": "8S",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39668,
+          "modelName": "8S",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3036,
+      "manufacturerName": "HAIMA (FAW)",
+      "groupKey": "AISHANG",
+      "displayName": "AISHANG",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41060,
+          "modelName": "AISHANG",
+          "modelYearFrom": "2018-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3036,
+      "manufacturerName": "HAIMA (FAW)",
+      "groupKey": "E1",
+      "displayName": "E1",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39359,
+          "modelName": "E1",
+          "modelYearFrom": "2019-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3036,
+      "manufacturerName": "HAIMA (FAW)",
+      "groupKey": "FAMILY",
+      "displayName": "FAMILY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6558,
+          "modelName": "FAMILY II A trois volumes",
+          "modelYearFrom": "2006-09-01",
+          "modelYearTo": "2010-11-01"
+        },
+        {
+          "modelId": 9873,
+          "modelName": "FAMILY III A trois volumes",
+          "modelYearFrom": "2010-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14223,
+          "modelName": "FAMILY / M5 IV",
+          "modelYearFrom": "2014-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 36804,
+          "modelName": "FAMILY 323",
+          "modelYearFrom": "1997-01-01",
+          "modelYearTo": "2006-12-01"
+        },
+        {
+          "modelId": 37186,
+          "modelName": "FAMILY Monospace",
+          "modelYearFrom": "2016-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39453,
+          "modelName": "FAMILY F5",
+          "modelYearFrom": "2018-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3036,
+      "manufacturerName": "HAIMA (FAW)",
+      "groupKey": "FREEMA",
+      "displayName": "FREEMA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9984,
+          "modelName": "FREEMA",
+          "modelYearFrom": "2009-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3036,
+      "manufacturerName": "HAIMA (FAW)",
+      "groupKey": "FSTAR",
+      "displayName": "FSTAR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37144,
+          "modelName": "FSTAR Fourgon",
+          "modelYearFrom": "2009-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45036,
+          "modelName": "FSTAR Autobus/Autocar",
+          "modelYearFrom": "2009-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3036,
+      "manufacturerName": "HAIMA (FAW)",
+      "groupKey": "HAIMA",
+      "displayName": "HAIMA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9872,
+          "modelName": "HAIMA 2",
+          "modelYearFrom": "2009-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3036,
+      "manufacturerName": "HAIMA (FAW)",
+      "groupKey": "HAPPIN",
+      "displayName": "HAPPIN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8692,
+          "modelName": "HAPPIN",
+          "modelYearFrom": "2006-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3036,
+      "manufacturerName": "HAIMA (FAW)",
+      "groupKey": "HUANDONG",
+      "displayName": "HUANDONG",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8076,
+          "modelName": "HUANDONG",
+          "modelYearFrom": "2008-06-01",
+          "modelYearTo": "2013-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3036,
+      "manufacturerName": "HAIMA (FAW)",
+      "groupKey": "M3",
+      "displayName": "M3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11507,
+          "modelName": "M3",
+          "modelYearFrom": "2013-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3036,
+      "manufacturerName": "HAIMA (FAW)",
+      "groupKey": "M6",
+      "displayName": "M6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36394,
+          "modelName": "M6",
+          "modelYearFrom": "2015-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3036,
+      "manufacturerName": "HAIMA (FAW)",
+      "groupKey": "M8",
+      "displayName": "M8",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11748,
+          "modelName": "M8",
+          "modelYearFrom": "2013-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3036,
+      "manufacturerName": "HAIMA (FAW)",
+      "groupKey": "PREMACY",
+      "displayName": "PREMACY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6559,
+          "modelName": "PREMACY",
+          "modelYearFrom": "2001-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3036,
+      "manufacturerName": "HAIMA (FAW)",
+      "groupKey": "S5",
+      "displayName": "S5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 12765,
+          "modelName": "S5",
+          "modelYearFrom": "2014-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39250,
+          "modelName": "S5",
+          "modelYearFrom": "2018-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3036,
+      "manufacturerName": "HAIMA (FAW)",
+      "groupKey": "S7",
+      "displayName": "S7",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11506,
+          "modelName": "S7",
+          "modelYearFrom": "2010-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3036,
+      "manufacturerName": "HAIMA (FAW)",
+      "groupKey": "V70",
+      "displayName": "V70",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36735,
+          "modelName": "V70 / FAMILY F7",
+          "modelYearFrom": "2016-04-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Rotule, amortisseur de direction",
+  "searchText": "Rotule, amortisseur de direction",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:11:52.937Z",
+  "productId": 2472,
+  "arborescence": {
+    "Direction": {
+      "categoryId": 100012,
+      "categoryName": "Direction",
+      "level": 1,
+      "children": {
+        "Rotules": {
+          "categoryId": null,
+          "categoryName": "Rotules",
+          "level": 2,
+          "children": {
+            "Rotule, amortisseur de direction": {
+              "categoryId": 100198,
+              "categoryName": "Joints",
+              "level": 2,
+              "children": [],
+              "productId": 2472
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Direction [ID: 100012] (Niveau 1)\n    └── Rotules (Niveau 2)\n        └── Joints [ID: 100198] (Niveau 2) → ProductId: 2472",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Direction",
+        "Rotules",
+        "Joints"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        100198
+      ],
+      "finalCategoryId": 100198,
+      "productId": 2472
+    }
+  ],
+  "productIdsInArbo": [
+    2472
+  ],
+  "matchedProductIds": [
+    2472
+  ]
+}

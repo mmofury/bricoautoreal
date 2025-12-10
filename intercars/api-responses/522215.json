@@ -1,0 +1,40 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "522215",
+      "index": "12 258 511VT",
+      "tecDoc": "12258511VT",
+      "tecDocProd": "22",
+      "articleNumber": "12258511VT",
+      "brand": "WABCO",
+      "shortDescription": "Brake Lining Kit, drum brake",
+      "description": "",
+      "gtuCode": "GTU_07",
+      "eans": [
+        "4057875018773"
+      ],
+      "packageWeight": "6,608",
+      "customsCode": "87083099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_281",
+          "primary": false,
+          "name": {
+            "en": "Brake shoe"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1537",
+          "primary": true,
+          "name": {
+            "en": "Brake Lining Kit, drum brake"
+          }
+        }
+      ]
+    }
+  ]
+}

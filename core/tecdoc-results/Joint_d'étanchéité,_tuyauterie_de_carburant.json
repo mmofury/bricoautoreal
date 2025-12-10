@@ -1,0 +1,54 @@
+{
+  "productName": "Joint d'étanchéité, tuyauterie de carburant",
+  "searchText": "Joint d'étanchéité, tuyauterie de carburant",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:53:49.901Z",
+  "productId": 611,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Tuyauterie": {
+          "categoryId": null,
+          "categoryName": "Tuyauterie",
+          "level": 2,
+          "children": {
+            "Joint d'étanchéité, tuyauterie de carburant": {
+              "categoryId": 100258,
+              "categoryName": "Fuel Lines",
+              "level": 2,
+              "children": [],
+              "productId": 611
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Alimentation carburant [ID: 100214] (Niveau 1)\n    └── Tuyauterie (Niveau 2)\n        └── Fuel Lines [ID: 100258] (Niveau 2) → ProductId: 611",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Tuyauterie",
+        "Fuel Lines"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100258
+      ],
+      "finalCategoryId": 100258,
+      "productId": 611
+    }
+  ],
+  "productIdsInArbo": [
+    611
+  ],
+  "matchedProductIds": [
+    611
+  ]
+}

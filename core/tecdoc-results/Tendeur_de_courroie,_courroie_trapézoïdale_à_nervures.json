@@ -1,0 +1,134 @@
+{
+  "productName": "Tendeur de courroie, courroie trapézoïdale à nervures",
+  "searchText": "Tendeur de courroie, courroie trapézoïdale à nervures",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:25:16.433Z",
+  "productId": 541,
+  "arborescence": {
+    "Commande à courroie": {
+      "categoryId": 100016,
+      "categoryName": "Commande à courroie",
+      "level": 1,
+      "children": {
+        "Jeu/ courroies trapézoïdales à nervures": {
+          "categoryId": null,
+          "categoryName": "Jeu/ courroies trapézoïdales à nervures",
+          "level": 2,
+          "children": {
+            "Tendeur de courroie, courroie trapézoïdale à nervures": {
+              "categoryId": 100082,
+              "categoryName": "V-Ribbed Belt/Set",
+              "level": 2,
+              "children": {
+                "Tendeurs de courroies": {
+                  "categoryId": null,
+                  "categoryName": "Tendeurs de courroies",
+                  "level": 4,
+                  "children": {
+                    "Tendeur de courroie, courroie trapézoïdale à nervures": {
+                      "categoryId": 100441,
+                      "categoryName": "Belt Tensioner (Tensioner Unit)",
+                      "level": 3,
+                      "children": [],
+                      "productId": 541
+                    }
+                  }
+                }
+              },
+              "productId": 541
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Commande à courroie": {
+          "categoryId": null,
+          "categoryName": "Commande à courroie",
+          "level": 2,
+          "children": {
+            "Tendeur de courroie, courroie trapézoïdale à nervures": {
+              "categoryId": 104302,
+              "categoryName": "Belt Drive",
+              "level": 2,
+              "children": {
+                "Jeu/ courroies trapézoïdales à nervures": {
+                  "categoryId": null,
+                  "categoryName": "Jeu/ courroies trapézoïdales à nervures",
+                  "level": 4,
+                  "children": {
+                    "Tendeur de courroie, courroie trapézoïdale à nervures": {
+                      "categoryId": 104308,
+                      "categoryName": "V-Ribbed Belt/Set",
+                      "level": 3,
+                      "children": {
+                        "Tendeurs de courroies": {
+                          "categoryId": null,
+                          "categoryName": "Tendeurs de courroies",
+                          "level": 6,
+                          "children": {
+                            "Tendeur de courroie, courroie trapézoïdale à nervures": {
+                              "categoryId": 104314,
+                              "categoryName": "Belt Tensioner (Tensioner Unit)",
+                              "level": 4,
+                              "children": [],
+                              "productId": 541
+                            }
+                          }
+                        }
+                      },
+                      "productId": 541
+                    }
+                  }
+                }
+              },
+              "productId": 541
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Commande à courroie [ID: 100016] (Niveau 1)\n│   └── Jeu/ courroies trapézoïdales à nervures (Niveau 2)\n│       └── V-Ribbed Belt/Set [ID: 100082] (Niveau 2) → ProductId: 541\n│           └── Tendeurs de courroies (Niveau 4)\n│               └── Belt Tensioner (Tensioner Unit) [ID: 100441] (Niveau 3) → ProductId: 541\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Commande à courroie (Niveau 2)\n        └── Belt Drive [ID: 104302] (Niveau 2) → ProductId: 541\n            └── Jeu/ courroies trapézoïdales à nervures (Niveau 4)\n                └── V-Ribbed Belt/Set [ID: 104308] (Niveau 3) → ProductId: 541\n                    └── Tendeurs de courroies (Niveau 6)\n                        └── Belt Tensioner (Tensioner Unit) [ID: 104314] (Niveau 4) → ProductId: 541",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Commande à courroie",
+        "Jeu/ courroies trapézoïdales à nervures",
+        "V-Ribbed Belt/Set"
+      ],
+      "categoryIds": [
+        100016,
+        null,
+        100082
+      ],
+      "finalCategoryId": 100082,
+      "productId": 541
+    },
+    {
+      "path": [
+        "Moteur",
+        "Commande à courroie",
+        "Belt Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        104302
+      ],
+      "finalCategoryId": 104302,
+      "productId": 541
+    }
+  ],
+  "productIdsInArbo": [
+    541
+  ],
+  "matchedProductIds": [
+    541
+  ]
+}

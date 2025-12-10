@@ -1,0 +1,54 @@
+{
+  "productName": "Interrupteur d'essuie-glace",
+  "searchText": "Interrupteur d'essuie-glace",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:46:35.477Z",
+  "productId": 877,
+  "arborescence": {
+    "Nettoyage des vitres": {
+      "categoryId": 100018,
+      "categoryName": "Nettoyage des vitres",
+      "level": 1,
+      "children": {
+        "Interrupteur / relais": {
+          "categoryId": null,
+          "categoryName": "Interrupteur / relais",
+          "level": 2,
+          "children": {
+            "Interrupteur d'essuie-glace": {
+              "categoryId": 100613,
+              "categoryName": "Switch/ Relay",
+              "level": 2,
+              "children": [],
+              "productId": 877
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Nettoyage des vitres [ID: 100018] (Niveau 1)\n    └── Interrupteur / relais (Niveau 2)\n        └── Switch/ Relay [ID: 100613] (Niveau 2) → ProductId: 877",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Nettoyage des vitres",
+        "Interrupteur / relais",
+        "Switch/ Relay"
+      ],
+      "categoryIds": [
+        100018,
+        null,
+        100613
+      ],
+      "finalCategoryId": 100613,
+      "productId": 877
+    }
+  ],
+  "productIdsInArbo": [
+    877
+  ],
+  "matchedProductIds": [
+    877
+  ]
+}

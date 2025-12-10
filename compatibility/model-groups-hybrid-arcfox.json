@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.159Z",
+  "manufacturer": "ARCFOX",
+  "countGroups": 5,
+  "groups": [
+    {
+      "manufacturerId": 5891,
+      "manufacturerName": "ARCFOX",
+      "groupKey": "AS",
+      "displayName": "AS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41912,
+          "modelName": "AS",
+          "modelYearFrom": "2021-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5891,
+      "manufacturerName": "ARCFOX",
+      "groupKey": "AS5",
+      "displayName": "AS5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 90014,
+          "modelName": "AS5",
+          "modelYearFrom": "2024-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5891,
+      "manufacturerName": "ARCFOX",
+      "groupKey": "AT",
+      "displayName": "AT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41357,
+          "modelName": "AT",
+          "modelYearFrom": "2020-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5891,
+      "manufacturerName": "ARCFOX",
+      "groupKey": "AT5",
+      "displayName": "AT5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45052,
+          "modelName": "AT5",
+          "modelYearFrom": "2023-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5891,
+      "manufacturerName": "ARCFOX",
+      "groupKey": "KAOLA",
+      "displayName": "KAOLA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44776,
+          "modelName": "KAOLA",
+          "modelYearFrom": "2023-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45784,
+          "modelName": "KAOLA S",
+          "modelYearFrom": "2024-08-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

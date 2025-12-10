@@ -1,0 +1,119 @@
+{
+  "productName": "Élément de réglage, clapet de réservoir",
+  "searchText": "Élément de réglage, clapet de réservoir",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:39:19.294Z",
+  "productId": 60064,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Trappes/capots/portes/toit coul./toit panoram./toit pliant": {
+          "categoryId": null,
+          "categoryName": "Trappes/capots/portes/toit coul./toit panoram./toit pliant",
+          "level": 2,
+          "children": {
+            "Élément de réglage, clapet de réservoir": {
+              "categoryId": 100746,
+              "categoryName": "Hatches/Bonnets/Doors/Sunroof/Panoramic Roof",
+              "level": 2,
+              "children": {
+                "Composants du bouchon": {
+                  "categoryId": null,
+                  "categoryName": "Composants du bouchon",
+                  "level": 4,
+                  "children": {
+                    "Élément de réglage, clapet de réservoir": {
+                      "categoryId": 102731,
+                      "categoryName": "Fuel Filler Flap/-parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60064
+                    }
+                  }
+                }
+              },
+              "productId": 60064
+            }
+          }
+        }
+      }
+    },
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Moteur / Relais": {
+          "categoryId": null,
+          "categoryName": "Moteur / Relais",
+          "level": 2,
+          "children": {
+            "Élément de réglage, clapet de réservoir": {
+              "categoryId": 104156,
+              "categoryName": "Motor/Relay/Switch",
+              "level": 2,
+              "children": {
+                "Ouverture du cache réservoir": {
+                  "categoryId": null,
+                  "categoryName": "Ouverture du cache réservoir",
+                  "level": 4,
+                  "children": {
+                    "Élément de réglage, clapet de réservoir": {
+                      "categoryId": 104169,
+                      "categoryName": "Fuel Filler Flap Release",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60064
+                    }
+                  }
+                }
+              },
+              "productId": 60064
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carrosserie [ID: 100001] (Niveau 1)\n│   └── Trappes/capots/portes/toit coul./toit panoram./toit pliant (Niveau 2)\n│       └── Hatches/Bonnets/Doors/Sunroof/Panoramic Roof [ID: 100746] (Niveau 2) → ProductId: 60064\n│           └── Composants du bouchon (Niveau 4)\n│               └── Fuel Filler Flap/-parts [ID: 102731] (Niveau 3) → ProductId: 60064\n\n└── Systèmes de confort [ID: 100335] (Niveau 1)\n    └── Moteur / Relais (Niveau 2)\n        └── Motor/Relay/Switch [ID: 104156] (Niveau 2) → ProductId: 60064\n            └── Ouverture du cache réservoir (Niveau 4)\n                └── Fuel Filler Flap Release [ID: 104169] (Niveau 3) → ProductId: 60064",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Trappes/capots/portes/toit coul./toit panoram./toit pliant",
+        "Hatches/Bonnets/Doors/Sunroof/Panoramic Roof"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100746
+      ],
+      "finalCategoryId": 100746,
+      "productId": 60064
+    },
+    {
+      "path": [
+        "Systèmes de confort",
+        "Moteur / Relais",
+        "Motor/Relay/Switch"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        104156
+      ],
+      "finalCategoryId": 104156,
+      "productId": 60064
+    }
+  ],
+  "productIdsInArbo": [
+    60064
+  ],
+  "matchedProductIds": [
+    60064
+  ]
+}

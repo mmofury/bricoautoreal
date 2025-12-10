@@ -1,0 +1,64 @@
+{
+  "productName": "Bague de roulement, volant moteur",
+  "productId": 3207,
+  "searchText": "Bague de roulement, volant moteur",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Moteur": {
+          "categoryId": 200026,
+          "categoryName": "Moteur",
+          "level": 1,
+          "children": {
+            "Système bielle-manivelle": {
+              "categoryId": null,
+              "categoryName": "Système bielle-manivelle",
+              "level": 2,
+              "children": {
+                "Bague de roulement, volant moteur": {
+                  "categoryId": 200032,
+                  "categoryName": "Crank Drive",
+                  "level": 2,
+                  "children": {
+                    "Volant moteur/carter": {
+                      "categoryId": null,
+                      "categoryName": "Volant moteur/carter",
+                      "level": 4,
+                      "children": {
+                        "Bague de roulement, volant moteur": {
+                          "categoryId": 200042,
+                          "categoryName": "Flywheel/Housing",
+                          "level": 3,
+                          "children": [],
+                          "productId": 3207
+                        }
+                      }
+                    }
+                  },
+                  "productId": 3207
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Moteur [ID: 200026] (Niveau 1)\n    └── Système bielle-manivelle (Niveau 2)\n        └── Crank Drive [ID: 200032] (Niveau 2) → ProductId: 3207\n            └── Volant moteur/carter (Niveau 4)\n                └── Flywheel/Housing [ID: 200042] (Niveau 3) → ProductId: 3207",
+      "productIdsInArbo": [
+        3207
+      ],
+      "matchedProductIds": [
+        3207
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T09:53:30.577Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

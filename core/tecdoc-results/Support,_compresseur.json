@@ -1,0 +1,118 @@
+{
+  "productName": "Support, compresseur",
+  "searchText": "Support, compresseur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:21:04.437Z",
+  "productId": 2926,
+  "arborescence": {
+    "Climatisation": {
+      "categoryId": 100243,
+      "categoryName": "Climatisation",
+      "level": 1,
+      "children": {
+        "Compresseur / composants": {
+          "categoryId": null,
+          "categoryName": "Compresseur / composants",
+          "level": 2,
+          "children": {
+            "Support, compresseur": {
+              "categoryId": 100354,
+              "categoryName": "Compressor/Parts",
+              "level": 2,
+              "children": [],
+              "productId": 2926
+            }
+          }
+        },
+        "Montage": {
+          "categoryId": null,
+          "categoryName": "Montage",
+          "level": 2,
+          "children": {
+            "Support, compresseur": {
+              "categoryId": 100809,
+              "categoryName": "Mounting",
+              "level": 2,
+              "children": [],
+              "productId": 2926
+            }
+          }
+        }
+      }
+    },
+    "Suspension/Amortissement": {
+      "categoryId": 100011,
+      "categoryName": "Suspension/Amortissement",
+      "level": 1,
+      "children": {
+        "Suspension pneumatique": {
+          "categoryId": null,
+          "categoryName": "Suspension pneumatique",
+          "level": 2,
+          "children": {
+            "Support, compresseur à air": {
+              "categoryId": 101884,
+              "categoryName": "Air Suspension",
+              "level": 2,
+              "children": [],
+              "productId": 60368
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Climatisation [ID: 100243] (Niveau 1)\n│   ├── Compresseur / composants (Niveau 2)\n│   │   └── Compressor/Parts [ID: 100354] (Niveau 2) → ProductId: 2926\n│   └── Montage (Niveau 2)\n│       └── Mounting [ID: 100809] (Niveau 2) → ProductId: 2926\n\n└── Suspension/Amortissement [ID: 100011] (Niveau 1)\n    └── Suspension pneumatique (Niveau 2)\n        └── Air Suspension [ID: 101884] (Niveau 2) → ProductId: 60368",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Climatisation",
+        "Compresseur / composants",
+        "Compressor/Parts"
+      ],
+      "categoryIds": [
+        100243,
+        null,
+        100354
+      ],
+      "finalCategoryId": 100354,
+      "productId": 2926
+    },
+    {
+      "path": [
+        "Climatisation",
+        "Montage",
+        "Mounting"
+      ],
+      "categoryIds": [
+        100243,
+        null,
+        100809
+      ],
+      "finalCategoryId": 100809,
+      "productId": 2926
+    },
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Suspension pneumatique",
+        "Air Suspension"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        101884
+      ],
+      "finalCategoryId": 101884,
+      "productId": 60368
+    }
+  ],
+  "productIdsInArbo": [
+    2926,
+    60368
+  ],
+  "matchedProductIds": [
+    2926
+  ]
+}

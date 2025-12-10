@@ -1,0 +1,89 @@
+{
+  "productName": "Appareil de commande, climatisation",
+  "searchText": "Appareil de commande, climatisation",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T18:55:03.739Z",
+  "productId": 1441,
+  "arborescence": {
+    "Climatisation": {
+      "categoryId": 100243,
+      "categoryName": "Climatisation",
+      "level": 1,
+      "children": {
+        "Appareil de commande": {
+          "categoryId": null,
+          "categoryName": "Appareil de commande",
+          "level": 2,
+          "children": {
+            "Appareil de commande, climatisation": {
+              "categoryId": 100728,
+              "categoryName": "Control Unit",
+              "level": 2,
+              "children": [],
+              "productId": 1441
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Appareils de commande": {
+          "categoryId": null,
+          "categoryName": "Appareils de commande",
+          "level": 2,
+          "children": {
+            "Appareil de commande, climatisation": {
+              "categoryId": 100727,
+              "categoryName": "Control Units",
+              "level": 2,
+              "children": [],
+              "productId": 1441
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Climatisation [ID: 100243] (Niveau 1)\n│   └── Appareil de commande (Niveau 2)\n│       └── Control Unit [ID: 100728] (Niveau 2) → ProductId: 1441\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Appareils de commande (Niveau 2)\n        └── Control Units [ID: 100727] (Niveau 2) → ProductId: 1441",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Climatisation",
+        "Appareil de commande",
+        "Control Unit"
+      ],
+      "categoryIds": [
+        100243,
+        null,
+        100728
+      ],
+      "finalCategoryId": 100728,
+      "productId": 1441
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Appareils de commande",
+        "Control Units"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100727
+      ],
+      "finalCategoryId": 100727,
+      "productId": 1441
+    }
+  ],
+  "productIdsInArbo": [
+    1441
+  ],
+  "matchedProductIds": [
+    1441
+  ]
+}

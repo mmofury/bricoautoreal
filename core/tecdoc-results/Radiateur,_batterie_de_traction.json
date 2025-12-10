@@ -1,0 +1,69 @@
+{
+  "productName": "Radiateur, batterie de traction",
+  "searchText": "Radiateur, batterie de traction",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:06:41.739Z",
+  "productId": 5031,
+  "arborescence": {
+    "Entraînement hybride/électrique": {
+      "categoryId": 706209,
+      "categoryName": "Entraînement hybride/électrique",
+      "level": 1,
+      "children": {
+        "Refroidissement": {
+          "categoryId": null,
+          "categoryName": "Refroidissement",
+          "level": 2,
+          "children": {
+            "Radiateur, batterie de traction": {
+              "categoryId": 706210,
+              "categoryName": "Cooling System",
+              "level": 2,
+              "children": {
+                "Radiateur pour batterie de traction": {
+                  "categoryId": null,
+                  "categoryName": "Radiateur pour batterie de traction",
+                  "level": 4,
+                  "children": {
+                    "Radiateur, batterie de traction": {
+                      "categoryId": 706212,
+                      "categoryName": "Radiator for traction battery",
+                      "level": 3,
+                      "children": [],
+                      "productId": 5031
+                    }
+                  }
+                }
+              },
+              "productId": 5031
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement hybride/électrique [ID: 706209] (Niveau 1)\n    └── Refroidissement (Niveau 2)\n        └── Cooling System [ID: 706210] (Niveau 2) → ProductId: 5031\n            └── Radiateur pour batterie de traction (Niveau 4)\n                └── Radiator for traction battery [ID: 706212] (Niveau 3) → ProductId: 5031",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement hybride/électrique",
+        "Refroidissement",
+        "Cooling System"
+      ],
+      "categoryIds": [
+        706209,
+        null,
+        706210
+      ],
+      "finalCategoryId": 706210,
+      "productId": 5031
+    }
+  ],
+  "productIdsInArbo": [
+    5031
+  ],
+  "matchedProductIds": [
+    5031
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "productName": "Capteur de vitesse de roue, transmission manuelle",
+  "searchText": "Capteur de vitesse de roue, transmission manuelle",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:15:19.732Z",
+  "productId": 4112,
+  "arborescence": {
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Boîte de vitesses manuelle": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesses manuelle",
+          "level": 2,
+          "children": {
+            "Capteur de vitesse de roue, transmission manuelle": {
+              "categoryId": 100239,
+              "categoryName": "Manual Transmission",
+              "level": 2,
+              "children": {
+                "Capteur": {
+                  "categoryId": null,
+                  "categoryName": "Capteur",
+                  "level": 4,
+                  "children": {
+                    "Capteur de vitesse de roue, transmission manuelle": {
+                      "categoryId": 102930,
+                      "categoryName": "Sensor",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4112
+                    }
+                  }
+                }
+              },
+              "productId": 4112
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Boîte de vitesses [ID: 100238] (Niveau 1)\n    └── Boîte de vitesses manuelle (Niveau 2)\n        └── Manual Transmission [ID: 100239] (Niveau 2) → ProductId: 4112\n            └── Capteur (Niveau 4)\n                └── Sensor [ID: 102930] (Niveau 3) → ProductId: 4112",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesses manuelle",
+        "Manual Transmission"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        100239
+      ],
+      "finalCategoryId": 100239,
+      "productId": 4112
+    }
+  ],
+  "productIdsInArbo": [
+    4112
+  ],
+  "matchedProductIds": [
+    4112
+  ]
+}

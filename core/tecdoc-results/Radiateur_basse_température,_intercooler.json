@@ -1,0 +1,84 @@
+{
+  "productName": "Radiateur basse température, intercooler",
+  "searchText": "Radiateur basse température, intercooler",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:06:26.889Z",
+  "productId": 4935,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Alimentation en air": {
+          "categoryId": null,
+          "categoryName": "Alimentation en air",
+          "level": 2,
+          "children": {
+            "Radiateur basse température, intercooler": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Suralimentation": {
+                  "categoryId": null,
+                  "categoryName": "Suralimentation",
+                  "level": 4,
+                  "children": {
+                    "Radiateur basse température, intercooler": {
+                      "categoryId": 100390,
+                      "categoryName": "Charging (supercharged/turbocharged)",
+                      "level": 3,
+                      "children": {
+                        "Radiateur basse température": {
+                          "categoryId": null,
+                          "categoryName": "Radiateur basse température",
+                          "level": 6,
+                          "children": {
+                            "Radiateur basse température, intercooler": {
+                              "categoryId": 103421,
+                              "categoryName": "Low Temperature Cooler",
+                              "level": 4,
+                              "children": [],
+                              "productId": 4935
+                            }
+                          }
+                        }
+                      },
+                      "productId": 4935
+                    }
+                  }
+                }
+              },
+              "productId": 4935
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Alimentation en air (Niveau 2)\n        └── Air Supply [ID: 100383] (Niveau 2) → ProductId: 4935\n            └── Suralimentation (Niveau 4)\n                └── Charging (supercharged/turbocharged) [ID: 100390] (Niveau 3) → ProductId: 4935\n                    └── Radiateur basse température (Niveau 6)\n                        └── Low Temperature Cooler [ID: 103421] (Niveau 4) → ProductId: 4935",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 4935
+    }
+  ],
+  "productIdsInArbo": [
+    4935
+  ],
+  "matchedProductIds": [
+    4935
+  ]
+}

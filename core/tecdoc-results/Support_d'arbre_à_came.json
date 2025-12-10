@@ -1,0 +1,69 @@
+{
+  "productName": "Support d'arbre à came",
+  "searchText": "Support d'arbre à came",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:19:20.699Z",
+  "productId": 1276,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Distribution moteur": {
+          "categoryId": null,
+          "categoryName": "Distribution moteur",
+          "level": 2,
+          "children": {
+            "Support d'arbre à came": {
+              "categoryId": 100003,
+              "categoryName": "Engine Timing",
+              "level": 2,
+              "children": {
+                "Arbre à cames": {
+                  "categoryId": null,
+                  "categoryName": "Arbre à cames",
+                  "level": 4,
+                  "children": {
+                    "Support d'arbre à came": {
+                      "categoryId": 100397,
+                      "categoryName": "Camshaft",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1276
+                    }
+                  }
+                }
+              },
+              "productId": 1276
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Distribution moteur (Niveau 2)\n        └── Engine Timing [ID: 100003] (Niveau 2) → ProductId: 1276\n            └── Arbre à cames (Niveau 4)\n                └── Camshaft [ID: 100397] (Niveau 3) → ProductId: 1276",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Engine Timing"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100003
+      ],
+      "finalCategoryId": 100003,
+      "productId": 1276
+    }
+  ],
+  "productIdsInArbo": [
+    1276
+  ],
+  "matchedProductIds": [
+    1276
+  ]
+}

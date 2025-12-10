@@ -1,0 +1,36 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "AE4A07",
+      "index": "LPR04040",
+      "tecDoc": "04040",
+      "tecDocProd": "197",
+      "articleNumber": "04040",
+      "brand": "LPR",
+      "shortDescription": "Brake shoe set",
+      "description": "Brake shoe fits: VW TRANSPORTER T1 1.5 02.62-10.70",
+      "gtuCode": "GTU_07",
+      "customsCode": "87083099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_70",
+          "primary": true,
+          "name": {
+            "en": "Brake shoe set"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_281",
+          "primary": false,
+          "name": {
+            "en": "Brake shoe"
+          }
+        }
+      ]
+    }
+  ]
+}

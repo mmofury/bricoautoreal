@@ -1,0 +1,54 @@
+{
+  "productName": "Clé à douille, étrier de frein",
+  "searchText": "Clé à douille, étrier de frein",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:21:40.790Z",
+  "productId": 4571,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Clé à douille, étrier de frein": {
+              "categoryId": 103154,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4571
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif de freinage [ID: 100006] (Niveau 1)\n    └── Outils (Niveau 2)\n        └── Tools [ID: 103154] (Niveau 2) → ProductId: 4571",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        103154
+      ],
+      "finalCategoryId": 103154,
+      "productId": 4571
+    }
+  ],
+  "productIdsInArbo": [
+    4571
+  ],
+  "matchedProductIds": [
+    4571
+  ]
+}

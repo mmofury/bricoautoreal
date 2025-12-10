@@ -1,0 +1,69 @@
+{
+  "productName": "Kit de plaquettes de freins de haute performance",
+  "searchText": "Kit de plaquettes de freins de haute performance",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:02:13.167Z",
+  "productId": 3371,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Frein de haute performance": {
+          "categoryId": null,
+          "categoryName": "Frein de haute performance",
+          "level": 2,
+          "children": {
+            "Kit de plaquettes de freins de haute performance": {
+              "categoryId": 102224,
+              "categoryName": "High Performance Brakes",
+              "level": 2,
+              "children": {
+                "Plaquettes de freins de haute performance": {
+                  "categoryId": null,
+                  "categoryName": "Plaquettes de freins de haute performance",
+                  "level": 4,
+                  "children": {
+                    "Kit de plaquettes de freins de haute performance": {
+                      "categoryId": 102227,
+                      "categoryName": "High Performance Brake Pad",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3371
+                    }
+                  }
+                }
+              },
+              "productId": 3371
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif de freinage [ID: 100006] (Niveau 1)\n    └── Frein de haute performance (Niveau 2)\n        └── High Performance Brakes [ID: 102224] (Niveau 2) → ProductId: 3371\n            └── Plaquettes de freins de haute performance (Niveau 4)\n                └── High Performance Brake Pad [ID: 102227] (Niveau 3) → ProductId: 3371",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Frein de haute performance",
+        "High Performance Brakes"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        102224
+      ],
+      "finalCategoryId": 102224,
+      "productId": 3371
+    }
+  ],
+  "productIdsInArbo": [
+    3371
+  ],
+  "matchedProductIds": [
+    3371
+  ]
+}

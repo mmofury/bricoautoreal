@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "BB3BF2",
+      "index": "400 0080 10",
+      "tecDoc": "400 0080 10",
+      "tecDocProd": "6",
+      "articleNumber": "400 0080 10",
+      "brand": "LUK",
+      "shortDescription": "Clutch service",
+      "description": "Clutch service, zestaw narzędzi do sprawdzania koła zamachowego dwumasowego.",
+      "eans": [
+        "4005108547118"
+      ],
+      "packageWeight": "3,720",
+      "packageWidth": "32,000",
+      "packageDepth": "46,000",
+      "packageHeight": "12,500",
+      "customsCode": "82060000",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3823",
+          "primary": false,
+          "name": {
+            "en": "Testing Set, flywheel"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91787",
+          "primary": true,
+          "name": {
+            "en": "Clutch service"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "productName": "Joint d'étanchéité, collecteur d'admission",
+  "searchText": "Joint d'étanchéité, collecteur d'admission",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:52:40.189Z",
+  "productId": 42,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Culasse / pieces de montage": {
+          "categoryId": null,
+          "categoryName": "Culasse / pieces de montage",
+          "level": 2,
+          "children": {
+            "Joint d'étanchéité, collecteur d'admission": {
+              "categoryId": 100373,
+              "categoryName": "Cylinder Head/Attachment Parts",
+              "level": 2,
+              "children": {
+                "Joint de collecteur d'admission/des gaz d'échappement": {
+                  "categoryId": null,
+                  "categoryName": "Joint de collecteur d'admission/des gaz d'échappement",
+                  "level": 4,
+                  "children": {
+                    "Joint d'étanchéité, collecteur d'admission": {
+                      "categoryId": 100376,
+                      "categoryName": "Intake-/Exhaust Manifold Gasket/-seal ring",
+                      "level": 3,
+                      "children": [],
+                      "productId": 42
+                    }
+                  }
+                }
+              },
+              "productId": 42
+            },
+            "Joint d'étanchéité, collecteur d'admission/d'échappement": {
+              "categoryId": 100373,
+              "categoryName": "Cylinder Head/Attachment Parts",
+              "level": 2,
+              "children": {
+                "Joint de collecteur d'admission/des gaz d'échappement": {
+                  "categoryId": null,
+                  "categoryName": "Joint de collecteur d'admission/des gaz d'échappement",
+                  "level": 4,
+                  "children": {
+                    "Joint d'étanchéité, collecteur d'admission/d'échappement": {
+                      "categoryId": 100376,
+                      "categoryName": "Intake-/Exhaust Manifold Gasket/-seal ring",
+                      "level": 3,
+                      "children": [],
+                      "productId": 40
+                    }
+                  }
+                }
+              },
+              "productId": 40
+            }
+          }
+        },
+        "Joints": {
+          "categoryId": null,
+          "categoryName": "Joints",
+          "level": 2,
+          "children": {
+            "Joint d'étanchéité, collecteur d'admission": {
+              "categoryId": 100223,
+              "categoryName": "Gaskets",
+              "level": 2,
+              "children": {
+                "Joint de collecteur d'admission": {
+                  "categoryId": null,
+                  "categoryName": "Joint de collecteur d'admission",
+                  "level": 4,
+                  "children": {
+                    "Joint d'étanchéité, collecteur d'admission": {
+                      "categoryId": 100229,
+                      "categoryName": "Intake Manifold Gasket",
+                      "level": 3,
+                      "children": [],
+                      "productId": 42
+                    }
+                  }
+                }
+              },
+              "productId": 42
+            },
+            "Joint d'étanchéité, collecteur d'admission/d'échappement": {
+              "categoryId": 100223,
+              "categoryName": "Gaskets",
+              "level": 2,
+              "children": {
+                "Joint de collecteur d'admission": {
+                  "categoryId": null,
+                  "categoryName": "Joint de collecteur d'admission",
+                  "level": 4,
+                  "children": {
+                    "Joint d'étanchéité, collecteur d'admission/d'échappement": {
+                      "categoryId": 100229,
+                      "categoryName": "Intake Manifold Gasket",
+                      "level": 3,
+                      "children": [],
+                      "productId": 40
+                    }
+                  }
+                },
+                "Joint de collecteur d'échappement": {
+                  "categoryId": null,
+                  "categoryName": "Joint de collecteur d'échappement",
+                  "level": 4,
+                  "children": {
+                    "Joint d'étanchéité, collecteur d'admission/d'échappement": {
+                      "categoryId": 100231,
+                      "categoryName": "Exhaust Manifold Gasket/seal ring",
+                      "level": 3,
+                      "children": [],
+                      "productId": 40
+                    }
+                  }
+                }
+              },
+              "productId": 40
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    ├── Culasse / pieces de montage (Niveau 2)\n    │   ├── Cylinder Head/Attachment Parts [ID: 100373] (Niveau 2) → ProductId: 42\n    │   │   └── Joint de collecteur d'admission/des gaz d'échappement (Niveau 4)\n    │   │       └── Intake-/Exhaust Manifold Gasket/-seal ring [ID: 100376] (Niveau 3) → ProductId: 42\n    │   └── Cylinder Head/Attachment Parts [ID: 100373] (Niveau 2) → ProductId: 40\n    │       └── Joint de collecteur d'admission/des gaz d'échappement (Niveau 4)\n    │           └── Intake-/Exhaust Manifold Gasket/-seal ring [ID: 100376] (Niveau 3) → ProductId: 40\n    └── Joints (Niveau 2)\n        ├── Gaskets [ID: 100223] (Niveau 2) → ProductId: 42\n        │   └── Joint de collecteur d'admission (Niveau 4)\n        │       └── Intake Manifold Gasket [ID: 100229] (Niveau 3) → ProductId: 42\n        └── Gaskets [ID: 100223] (Niveau 2) → ProductId: 40\n            ├── Joint de collecteur d'admission (Niveau 4)\n            │   └── Intake Manifold Gasket [ID: 100229] (Niveau 3) → ProductId: 40\n            └── Joint de collecteur d'échappement (Niveau 4)\n                └── Exhaust Manifold Gasket/seal ring [ID: 100231] (Niveau 3) → ProductId: 40",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Culasse / pieces de montage",
+        "Cylinder Head/Attachment Parts"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100373
+      ],
+      "finalCategoryId": 100373,
+      "productId": 42
+    },
+    {
+      "path": [
+        "Moteur",
+        "Culasse / pieces de montage",
+        "Cylinder Head/Attachment Parts"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100373
+      ],
+      "finalCategoryId": 100373,
+      "productId": 40
+    },
+    {
+      "path": [
+        "Moteur",
+        "Joints",
+        "Gaskets"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100223
+      ],
+      "finalCategoryId": 100223,
+      "productId": 42
+    },
+    {
+      "path": [
+        "Moteur",
+        "Joints",
+        "Gaskets"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100223
+      ],
+      "finalCategoryId": 100223,
+      "productId": 40
+    }
+  ],
+  "productIdsInArbo": [
+    40,
+    42
+  ],
+  "matchedProductIds": [
+    42
+  ]
+}

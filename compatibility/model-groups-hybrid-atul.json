@@ -1,0 +1,97 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.165Z",
+  "manufacturer": "ATUL",
+  "countGroups": 4,
+  "groups": [
+    {
+      "manufacturerId": 5414,
+      "manufacturerName": "ATUL",
+      "groupKey": "GEM",
+      "displayName": "GEM",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40032,
+          "modelName": "GEM Threewheeler Platform/Chassis",
+          "modelYearFrom": "2012-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40650,
+          "modelName": "GEM Threewheeler Convertible",
+          "modelYearFrom": "2012-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5414,
+      "manufacturerName": "ATUL",
+      "groupKey": "GEMINI",
+      "displayName": "GEMINI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40033,
+          "modelName": "GEMINI Threewheeler Platform/Chassis",
+          "modelYearFrom": "2013-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40653,
+          "modelName": "GEMINI Threewheeler Convertible",
+          "modelYearFrom": "2013-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5414,
+      "manufacturerName": "ATUL",
+      "groupKey": "SHAKTI",
+      "displayName": "SHAKTI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40034,
+          "modelName": "SHAKTI Threewheeler Platform/Chassis",
+          "modelYearFrom": "2007-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40459,
+          "modelName": "SHAKTI Threewheeler Dump Truck",
+          "modelYearFrom": "2005-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40654,
+          "modelName": "SHAKTI Threewheeler Convertible",
+          "modelYearFrom": "2007-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5414,
+      "manufacturerName": "ATUL",
+      "groupKey": "SMART",
+      "displayName": "SMART",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40460,
+          "modelName": "SMART Threewheeler Platform/Chassis",
+          "modelYearFrom": "2012-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40616,
+          "modelName": "SMART Threewheeler Convertible",
+          "modelYearFrom": "2014-01-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

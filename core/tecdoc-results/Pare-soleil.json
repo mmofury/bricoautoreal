@@ -1,0 +1,197 @@
+{
+  "productName": "Pare-soleil",
+  "searchText": "Pare-soleil",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T21:19:12.719Z",
+  "productId": 3674,
+  "arborescence": {
+    "Équipement intérieur": {
+      "categoryId": 100341,
+      "categoryName": "Équipement intérieur",
+      "level": 1,
+      "children": {
+        "Pare-soleil": {
+          "categoryId": null,
+          "categoryName": "Pare-soleil",
+          "level": 2,
+          "children": {
+            "Ampoule, lumière de pare-soleil": {
+              "categoryId": 102698,
+              "categoryName": "Sun Visor",
+              "level": 2,
+              "children": [],
+              "productId": 8959
+            },
+            "Câble, feu (pare-soleil)": {
+              "categoryId": 102698,
+              "categoryName": "Sun Visor",
+              "level": 2,
+              "children": [],
+              "productId": 5091
+            },
+            "Kit réparation de câble, éclairage de pare-soleil": {
+              "categoryId": 102698,
+              "categoryName": "Sun Visor",
+              "level": 2,
+              "children": [],
+              "productId": 9846
+            },
+            "Pare-soleil": {
+              "categoryId": 102698,
+              "categoryName": "Sun Visor",
+              "level": 2,
+              "children": [],
+              "productId": 3694
+            },
+            "Support, pare-soleil": {
+              "categoryId": 102698,
+              "categoryName": "Sun Visor",
+              "level": 2,
+              "children": [],
+              "productId": 5642
+            }
+          }
+        }
+      }
+    },
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Toit en verre": {
+          "categoryId": null,
+          "categoryName": "Toit en verre",
+          "level": 2,
+          "children": {
+            "Interrupteur, store pare-soleil (toit panoramique)": {
+              "categoryId": 100734,
+              "categoryName": "Sunroof",
+              "level": 2,
+              "children": [],
+              "productId": 61096
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Équipement intérieur [ID: 100341] (Niveau 1)\n│   └── Pare-soleil (Niveau 2)\n│       ├── Sun Visor [ID: 102698] (Niveau 2) → ProductId: 8959\n│       ├── Sun Visor [ID: 102698] (Niveau 2) → ProductId: 5091\n│       ├── Sun Visor [ID: 102698] (Niveau 2) → ProductId: 9846\n│       ├── Sun Visor [ID: 102698] (Niveau 2) → ProductId: 3694\n│       └── Sun Visor [ID: 102698] (Niveau 2) → ProductId: 5642\n\n└── Systèmes de confort [ID: 100335] (Niveau 1)\n    └── Toit en verre (Niveau 2)\n        └── Sunroof [ID: 100734] (Niveau 2) → ProductId: 61096",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Équipement intérieur",
+        "Pare-soleil",
+        "Sun Visor"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102698
+      ],
+      "finalCategoryId": 102698,
+      "productId": 8959
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Pare-soleil",
+        "Sun Visor"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102698
+      ],
+      "finalCategoryId": 102698,
+      "productId": 5091
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Pare-soleil",
+        "Sun Visor"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102698
+      ],
+      "finalCategoryId": 102698,
+      "productId": 9846
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Pare-soleil",
+        "Sun Visor"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102698
+      ],
+      "finalCategoryId": 102698,
+      "productId": 3694
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Pare-soleil",
+        "Sun Visor"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102698
+      ],
+      "finalCategoryId": 102698,
+      "productId": 5642
+    },
+    {
+      "path": [
+        "Systèmes de confort",
+        "Toit en verre",
+        "Sunroof"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        100734
+      ],
+      "finalCategoryId": 100734,
+      "productId": 61096
+    }
+  ],
+  "productIdsInArbo": [
+    3694,
+    5091,
+    5642,
+    8959,
+    9846,
+    61096
+  ],
+  "closestProductIds": [
+    {
+      "productId": 3694,
+      "productName": "Pare-soleil"
+    },
+    {
+      "productId": 5091,
+      "productName": "Câble, feu (pare-soleil)"
+    },
+    {
+      "productId": 5642,
+      "productName": "Support, pare-soleil"
+    },
+    {
+      "productId": 8959,
+      "productName": "Ampoule, lumière de pare-soleil"
+    },
+    {
+      "productId": 9846,
+      "productName": "Kit réparation de câble, éclairage de pare-soleil"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.336Z",
+  "manufacturer": "IKA",
+  "countGroups": 5,
+  "groups": [
+    {
+      "manufacturerId": 4535,
+      "manufacturerName": "IKA",
+      "groupKey": "ESTANCIERA",
+      "displayName": "ESTANCIERA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36409,
+          "modelName": "ESTANCIERA Véhicule tout terrain fermé",
+          "modelYearFrom": "1957-02-01",
+          "modelYearTo": "1966-04-01"
+        },
+        {
+          "modelId": 36410,
+          "modelName": "ESTANCIERA Véhicule tout terrain fermé",
+          "modelYearFrom": "1957-02-01",
+          "modelYearTo": "1966-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4535,
+      "manufacturerName": "IKA",
+      "groupKey": "KAISER",
+      "displayName": "KAISER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37039,
+          "modelName": "KAISER BERGANTIN",
+          "modelYearFrom": "1964-04-01",
+          "modelYearTo": "1969-09-01"
+        },
+        {
+          "modelId": 37040,
+          "modelName": "KAISER CARABELA",
+          "modelYearFrom": "1964-04-01",
+          "modelYearTo": "1969-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4535,
+      "manufacturerName": "IKA",
+      "groupKey": "RAMBLER",
+      "displayName": "RAMBLER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36411,
+          "modelName": "RAMBLER Break",
+          "modelYearFrom": "1962-02-01",
+          "modelYearTo": "1963-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4535,
+      "manufacturerName": "IKA",
+      "groupKey": "RASTROJERO",
+      "displayName": "RASTROJERO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45660,
+          "modelName": "Rastrojero Pick-up",
+          "modelYearFrom": "1952-05-01",
+          "modelYearTo": "1969-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4535,
+      "manufacturerName": "IKA",
+      "groupKey": "TORINO",
+      "displayName": "TORINO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37037,
+          "modelName": "TORINO A trois volumes",
+          "modelYearFrom": "1978-05-01",
+          "modelYearTo": "1981-05-01"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G0XE6W",
+      "index": "03.9302-1505.3",
+      "tecDoc": "03.9302-1505.3",
+      "tecDocProd": "3",
+      "articleNumber": "03.9302-1505.3",
+      "brand": "ATE",
+      "shortDescription": "Devices for working fluids and fuels",
+      "description": "Plate, application: distribution ATE",
+      "packageWeight": "0,167",
+      "packageWidth": "9,200",
+      "packageDepth": "9,000",
+      "packageHeight": "14,200",
+      "customsCode": "84812010",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_9147",
+          "primary": false,
+          "name": {
+            "en": "Board, filling/bleeding unit (brake hydraulics)"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91773",
+          "primary": true,
+          "name": {
+            "en": "Devices for working fluids and fuels"
+          }
+        }
+      ]
+    }
+  ]
+}

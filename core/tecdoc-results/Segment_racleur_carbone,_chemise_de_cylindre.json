@@ -1,0 +1,54 @@
+{
+  "productName": "Segment racleur carbone, chemise de cylindre",
+  "searchText": "Segment racleur carbone, chemise de cylindre",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:15:20.929Z",
+  "productId": 7989,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Cylindre et piston": {
+          "categoryId": null,
+          "categoryName": "Cylindre et piston",
+          "level": 2,
+          "children": {
+            "Segment racleur carbone, chemise de cylindre": {
+              "categoryId": 104377,
+              "categoryName": "Cylinders/Pistons",
+              "level": 2,
+              "children": [],
+              "productId": 7989
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Cylindre et piston (Niveau 2)\n        └── Cylinders/Pistons [ID: 104377] (Niveau 2) → ProductId: 7989",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Cylindre et piston",
+        "Cylinders/Pistons"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        104377
+      ],
+      "finalCategoryId": 104377,
+      "productId": 7989
+    }
+  ],
+  "productIdsInArbo": [
+    7989
+  ],
+  "matchedProductIds": [
+    7989
+  ]
+}

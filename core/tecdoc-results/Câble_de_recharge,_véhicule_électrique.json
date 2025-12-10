@@ -1,0 +1,72 @@
+{
+  "productName": "Câble de recharge, véhicule électrique",
+  "searchText": "Câble de recharge, véhicule électrique",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T20:29:53.490Z",
+  "productId": 5146,
+  "arborescence": {
+    "Entraînement hybride/électrique": {
+      "categoryId": 706209,
+      "categoryName": "Entraînement hybride/électrique",
+      "level": 1,
+      "children": {
+        "Chargeur": {
+          "categoryId": null,
+          "categoryName": "Chargeur",
+          "level": 2,
+          "children": {
+            "Câble de recharge, véhicule électrique": {
+              "categoryId": 706211,
+              "categoryName": "Charge Connector",
+              "level": 2,
+              "children": {
+                "Câble de recharge": {
+                  "categoryId": null,
+                  "categoryName": "Câble de recharge",
+                  "level": 4,
+                  "children": {
+                    "Câble de recharge, véhicule électrique": {
+                      "categoryId": 706214,
+                      "categoryName": "Charging Cable",
+                      "level": 3,
+                      "children": [],
+                      "productId": 5761
+                    }
+                  }
+                }
+              },
+              "productId": 5761
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement hybride/électrique [ID: 706209] (Niveau 1)\n    └── Chargeur (Niveau 2)\n        └── Charge Connector [ID: 706211] (Niveau 2) → ProductId: 5761\n            └── Câble de recharge (Niveau 4)\n                └── Charging Cable [ID: 706214] (Niveau 3) → ProductId: 5761",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement hybride/électrique",
+        "Chargeur",
+        "Charge Connector"
+      ],
+      "categoryIds": [
+        706209,
+        null,
+        706211
+      ],
+      "finalCategoryId": 706211,
+      "productId": 5761
+    }
+  ],
+  "productIdsInArbo": [
+    5761
+  ],
+  "closestProductIds": [
+    {
+      "productId": 5761,
+      "productName": "Câble de recharge, véhicule électrique"
+    }
+  ]
+}

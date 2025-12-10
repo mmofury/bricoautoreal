@@ -1,0 +1,83 @@
+{
+  "productName": "Radiateur d'huile, boîte de vitesse manuelle",
+  "searchText": "Radiateur d'huile, boîte de vitesse manuelle",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:06:34.354Z",
+  "productId": 4401,
+  "arborescence": {
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Boîte de vitesses manuelle": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesses manuelle",
+          "level": 2,
+          "children": {
+            "Radiateur d'huile, boîte de vitesse manuelle": {
+              "categoryId": 100239,
+              "categoryName": "Manual Transmission",
+              "level": 2,
+              "children": {
+                "Contrôle / hydraulique": {
+                  "categoryId": null,
+                  "categoryName": "Contrôle / hydraulique",
+                  "level": 4,
+                  "children": {
+                    "Radiateur d'huile, boîte de vitesse manuelle": {
+                      "categoryId": 103103,
+                      "categoryName": "Transmission Control/Hydraulics",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4401
+                    }
+                  }
+                },
+                "Radiateur": {
+                  "categoryId": null,
+                  "categoryName": "Radiateur",
+                  "level": 4,
+                  "children": {
+                    "Radiateur d'huile, boîte de vitesse manuelle": {
+                      "categoryId": 103110,
+                      "categoryName": "Cooler",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4401
+                    }
+                  }
+                }
+              },
+              "productId": 4401
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Boîte de vitesses [ID: 100238] (Niveau 1)\n    └── Boîte de vitesses manuelle (Niveau 2)\n        └── Manual Transmission [ID: 100239] (Niveau 2) → ProductId: 4401\n            ├── Contrôle / hydraulique (Niveau 4)\n            │   └── Transmission Control/Hydraulics [ID: 103103] (Niveau 3) → ProductId: 4401\n            └── Radiateur (Niveau 4)\n                └── Cooler [ID: 103110] (Niveau 3) → ProductId: 4401",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesses manuelle",
+        "Manual Transmission"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        100239
+      ],
+      "finalCategoryId": 100239,
+      "productId": 4401
+    }
+  ],
+  "productIdsInArbo": [
+    4401
+  ],
+  "matchedProductIds": [
+    4401
+  ]
+}

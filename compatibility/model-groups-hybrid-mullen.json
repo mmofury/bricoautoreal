@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.427Z",
+  "manufacturer": "MULLEN",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 8065,
+      "manufacturerName": "MULLEN",
+      "groupKey": "CAMPUS",
+      "displayName": "CAMPUS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45384,
+          "modelName": "CAMPUS",
+          "modelYearFrom": "2023-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 8065,
+      "manufacturerName": "MULLEN",
+      "groupKey": "FIVE",
+      "displayName": "FIVE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45713,
+          "modelName": "FIVE",
+          "modelYearFrom": "2024-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 8065,
+      "manufacturerName": "MULLEN",
+      "groupKey": "ONE",
+      "displayName": "ONE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45385,
+          "modelName": "ONE",
+          "modelYearFrom": "2023-01-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "B9B290",
+      "index": "DIN68609",
+      "tecDoc": "68609",
+      "tecDocProd": "233",
+      "articleNumber": "68609",
+      "brand": "DINEX",
+      "shortDescription": "Exhaust pipe",
+      "description": "Exhaust pipe (diameter:114mm, length:1800mm) fits: SCANIA 4 DC11.01-DT12.08 05.95-04.08",
+      "gtuCode": "GTU_07",
+      "eans": [
+        "5700760215977"
+      ],
+      "packageWeight": "10,120",
+      "packageWidth": "24,000",
+      "packageDepth": "180,000",
+      "packageHeight": "24,000",
+      "customsCode": "87089235",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_17",
+          "primary": true,
+          "name": {
+            "en": "Exhaust pipe"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3437",
+          "primary": false,
+          "name": {
+            "en": "Rear Muffler"
+          }
+        }
+      ]
+    }
+  ]
+}

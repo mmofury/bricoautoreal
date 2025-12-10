@@ -1,0 +1,69 @@
+{
+  "productName": "Jeu de coussinets, corps de l'essieu",
+  "searchText": "Jeu de coussinets, corps de l'essieu",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:49:07.794Z",
+  "productId": 4843,
+  "arborescence": {
+    "Suspension d'essieu/Guidage des roues/Roues": {
+      "categoryId": 100013,
+      "categoryName": "Suspension d'essieu/Guidage des roues/Roues",
+      "level": 1,
+      "children": {
+        "Support d'essieu / arbre d'essieu / fixation": {
+          "categoryId": null,
+          "categoryName": "Support d'essieu / arbre d'essieu / fixation",
+          "level": 2,
+          "children": {
+            "Jeu de coussinets, corps de l'essieu": {
+              "categoryId": 100212,
+              "categoryName": "Axle Cross Member/Axle Beam/Axle Beam Mounting",
+              "level": 2,
+              "children": {
+                "Fixation": {
+                  "categoryId": null,
+                  "categoryName": "Fixation",
+                  "level": 4,
+                  "children": {
+                    "Jeu de coussinets, corps de l'essieu": {
+                      "categoryId": 100586,
+                      "categoryName": "Axle Mounting",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4843
+                    }
+                  }
+                }
+              },
+              "productId": 4843
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Suspension d'essieu/Guidage des roues/Roues [ID: 100013] (Niveau 1)\n    └── Support d'essieu / arbre d'essieu / fixation (Niveau 2)\n        └── Axle Cross Member/Axle Beam/Axle Beam Mounting [ID: 100212] (Niveau 2) → ProductId: 4843\n            └── Fixation (Niveau 4)\n                └── Axle Mounting [ID: 100586] (Niveau 3) → ProductId: 4843",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Support d'essieu / arbre d'essieu / fixation",
+        "Axle Cross Member/Axle Beam/Axle Beam Mounting"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        100212
+      ],
+      "finalCategoryId": 100212,
+      "productId": 4843
+    }
+  ],
+  "productIdsInArbo": [
+    4843
+  ],
+  "matchedProductIds": [
+    4843
+  ]
+}

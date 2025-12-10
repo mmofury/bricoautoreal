@@ -1,0 +1,164 @@
+{
+  "productName": "Régulateur de pression du carburant",
+  "searchText": "Régulateur de pression du carburant",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:13:47.298Z",
+  "productId": 168,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Pressostat/manostat": {
+          "categoryId": null,
+          "categoryName": "Pressostat/manostat",
+          "level": 2,
+          "children": {
+            "Adaptateur, régulateur de pression du carburant": {
+              "categoryId": 100270,
+              "categoryName": "Pressure Regulator/Switch",
+              "level": 2,
+              "children": [],
+              "productId": 60417
+            },
+            "Kit adaptateur, régulateur de pression du carburant": {
+              "categoryId": 100270,
+              "categoryName": "Pressure Regulator/Switch",
+              "level": 2,
+              "children": [],
+              "productId": 60415
+            },
+            "Membrane, régulateur de pression du carburant": {
+              "categoryId": 100270,
+              "categoryName": "Pressure Regulator/Switch",
+              "level": 2,
+              "children": [],
+              "productId": 60416
+            },
+            "Régulateur de pression du carburant": {
+              "categoryId": 100270,
+              "categoryName": "Pressure Regulator/Switch",
+              "level": 2,
+              "children": [],
+              "productId": 168
+            },
+            "Soupape, régulateur de pression du carburant": {
+              "categoryId": 100270,
+              "categoryName": "Pressure Regulator/Switch",
+              "level": 2,
+              "children": [],
+              "productId": 60342
+            },
+            "Support, régulateur de pression du carburant": {
+              "categoryId": 100270,
+              "categoryName": "Pressure Regulator/Switch",
+              "level": 2,
+              "children": [],
+              "productId": 60414
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Alimentation carburant [ID: 100214] (Niveau 1)\n    └── Pressostat/manostat (Niveau 2)\n        ├── Pressure Regulator/Switch [ID: 100270] (Niveau 2) → ProductId: 60417\n        ├── Pressure Regulator/Switch [ID: 100270] (Niveau 2) → ProductId: 60415\n        ├── Pressure Regulator/Switch [ID: 100270] (Niveau 2) → ProductId: 60416\n        ├── Pressure Regulator/Switch [ID: 100270] (Niveau 2) → ProductId: 168\n        ├── Pressure Regulator/Switch [ID: 100270] (Niveau 2) → ProductId: 60342\n        └── Pressure Regulator/Switch [ID: 100270] (Niveau 2) → ProductId: 60414",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Pressostat/manostat",
+        "Pressure Regulator/Switch"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100270
+      ],
+      "finalCategoryId": 100270,
+      "productId": 60417
+    },
+    {
+      "path": [
+        "Alimentation carburant",
+        "Pressostat/manostat",
+        "Pressure Regulator/Switch"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100270
+      ],
+      "finalCategoryId": 100270,
+      "productId": 60415
+    },
+    {
+      "path": [
+        "Alimentation carburant",
+        "Pressostat/manostat",
+        "Pressure Regulator/Switch"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100270
+      ],
+      "finalCategoryId": 100270,
+      "productId": 60416
+    },
+    {
+      "path": [
+        "Alimentation carburant",
+        "Pressostat/manostat",
+        "Pressure Regulator/Switch"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100270
+      ],
+      "finalCategoryId": 100270,
+      "productId": 168
+    },
+    {
+      "path": [
+        "Alimentation carburant",
+        "Pressostat/manostat",
+        "Pressure Regulator/Switch"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100270
+      ],
+      "finalCategoryId": 100270,
+      "productId": 60342
+    },
+    {
+      "path": [
+        "Alimentation carburant",
+        "Pressostat/manostat",
+        "Pressure Regulator/Switch"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100270
+      ],
+      "finalCategoryId": 100270,
+      "productId": 60414
+    }
+  ],
+  "productIdsInArbo": [
+    168,
+    60342,
+    60414,
+    60415,
+    60416,
+    60417
+  ],
+  "matchedProductIds": [
+    168
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "B09621",
+      "index": "03.9305-1020.4",
+      "tecDoc": "03.9305-1020.4",
+      "tecDocProd": "3",
+      "articleNumber": "03.9305-1020.4",
+      "brand": "ATE",
+      "shortDescription": "Other diagnostic devices",
+      "description": "Diagnostic device",
+      "packageWeight": "10,271",
+      "packageWidth": "39,000",
+      "packageDepth": "30,000",
+      "packageHeight": "43,000",
+      "customsCode": "90318080",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_2012",
+          "primary": false,
+          "name": {
+            "en": "Tester, brake pressure"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91584",
+          "primary": true,
+          "name": {
+            "en": "Other diagnostic devices"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "9D9A99",
+      "index": "03.9305-0200.4",
+      "tecDoc": "03.9305-0200.4",
+      "tecDocProd": "3",
+      "articleNumber": "03.9305-0200.4",
+      "brand": "ATE",
+      "shortDescription": "Brake system handling tools",
+      "description": "Pressure gauge",
+      "packageWeight": "5,330",
+      "packageWidth": "26,000",
+      "packageDepth": "19,000",
+      "packageHeight": "39,000",
+      "customsCode": "90262080",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_2012",
+          "primary": false,
+          "name": {
+            "en": "Tester, brake pressure"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91783",
+          "primary": true,
+          "name": {
+            "en": "Brake system handling tools"
+          }
+        }
+      ]
+    }
+  ]
+}

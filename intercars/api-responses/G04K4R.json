@@ -1,0 +1,40 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G04K4R",
+      "index": "3.62215",
+      "tecDoc": "3.62215",
+      "tecDocProd": "355",
+      "articleNumber": "3.62215",
+      "brand": "DT SPARE PARTS",
+      "shortDescription": "Wheel hub",
+      "description": "Wheel hub (wheel plate)",
+      "gtuCode": "GTU_07",
+      "packageWeight": "15,200",
+      "packageWidth": "38,000",
+      "packageDepth": "20,000",
+      "packageHeight": "38,000",
+      "customsCode": "87087099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_653",
+          "primary": true,
+          "name": {
+            "en": "Wheel hub"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_5085",
+          "primary": false,
+          "name": {
+            "en": "Pressure Plate, external planetary gearbox"
+          }
+        }
+      ]
+    }
+  ]
+}

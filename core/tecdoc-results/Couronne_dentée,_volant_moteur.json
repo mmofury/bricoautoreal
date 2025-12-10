@@ -1,0 +1,104 @@
+{
+  "productName": "Couronne dentée, volant moteur",
+  "searchText": "Couronne dentée, volant moteur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:25:38.539Z",
+  "productId": 578,
+  "arborescence": {
+    "Embrayage / composants": {
+      "categoryId": 100050,
+      "categoryName": "Embrayage / composants",
+      "level": 1,
+      "children": {
+        "Volant-moteur": {
+          "categoryId": null,
+          "categoryName": "Volant-moteur",
+          "level": 2,
+          "children": {
+            "Couronne dentée, volant moteur": {
+              "categoryId": 100057,
+              "categoryName": "Flywheel",
+              "level": 2,
+              "children": [],
+              "productId": 578
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Système bielle-manivelle": {
+          "categoryId": null,
+          "categoryName": "Système bielle-manivelle",
+          "level": 2,
+          "children": {
+            "Couronne dentée, volant moteur": {
+              "categoryId": 100515,
+              "categoryName": "Crankshaft Drive",
+              "level": 2,
+              "children": {
+                "Volant-moteur": {
+                  "categoryId": null,
+                  "categoryName": "Volant-moteur",
+                  "level": 4,
+                  "children": {
+                    "Couronne dentée, volant moteur": {
+                      "categoryId": 100518,
+                      "categoryName": "Flywheel",
+                      "level": 3,
+                      "children": [],
+                      "productId": 578
+                    }
+                  }
+                }
+              },
+              "productId": 578
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Embrayage / composants [ID: 100050] (Niveau 1)\n│   └── Volant-moteur (Niveau 2)\n│       └── Flywheel [ID: 100057] (Niveau 2) → ProductId: 578\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Système bielle-manivelle (Niveau 2)\n        └── Crankshaft Drive [ID: 100515] (Niveau 2) → ProductId: 578\n            └── Volant-moteur (Niveau 4)\n                └── Flywheel [ID: 100518] (Niveau 3) → ProductId: 578",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Embrayage / composants",
+        "Volant-moteur",
+        "Flywheel"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100057
+      ],
+      "finalCategoryId": 100057,
+      "productId": 578
+    },
+    {
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Crankshaft Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100515
+      ],
+      "finalCategoryId": 100515,
+      "productId": 578
+    }
+  ],
+  "productIdsInArbo": [
+    578
+  ],
+  "matchedProductIds": [
+    578
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "productName": "Filtre à air, boîtier de batterie d’entraînement",
+  "searchText": "Filtre à air, boîtier de batterie d’entraînement",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:39:40.745Z",
+  "productId": 60552,
+  "arborescence": {
+    "Entraînement hybride/électrique": {
+      "categoryId": 706209,
+      "categoryName": "Entraînement hybride/électrique",
+      "level": 1,
+      "children": {
+        "Refroidissement": {
+          "categoryId": null,
+          "categoryName": "Refroidissement",
+          "level": 2,
+          "children": {
+            "Filtre à air, boîtier de batterie d’entraînement": {
+              "categoryId": 706210,
+              "categoryName": "Cooling System",
+              "level": 2,
+              "children": {
+                "Filtre pour batterie d’entraînement": {
+                  "categoryId": null,
+                  "categoryName": "Filtre pour batterie d’entraînement",
+                  "level": 4,
+                  "children": {
+                    "Filtre à air, boîtier de batterie d’entraînement": {
+                      "categoryId": 706695,
+                      "categoryName": "Filter for traction battery",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60552
+                    }
+                  }
+                }
+              },
+              "productId": 60552
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement hybride/électrique [ID: 706209] (Niveau 1)\n    └── Refroidissement (Niveau 2)\n        └── Cooling System [ID: 706210] (Niveau 2) → ProductId: 60552\n            └── Filtre pour batterie d’entraînement (Niveau 4)\n                └── Filter for traction battery [ID: 706695] (Niveau 3) → ProductId: 60552",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement hybride/électrique",
+        "Refroidissement",
+        "Cooling System"
+      ],
+      "categoryIds": [
+        706209,
+        null,
+        706210
+      ],
+      "finalCategoryId": 706210,
+      "productId": 60552
+    }
+  ],
+  "productIdsInArbo": [
+    60552
+  ],
+  "matchedProductIds": [
+    60552
+  ]
+}

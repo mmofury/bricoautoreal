@@ -1,0 +1,69 @@
+{
+  "productName": "Joint, manchon de vanne papillon",
+  "searchText": "Joint, manchon de vanne papillon",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:56:04.026Z",
+  "productId": 8257,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Joint, manchon de vanne papillon": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Papillon des gaz / tubulure / tuyau de dépression": {
+                  "categoryId": null,
+                  "categoryName": "Papillon des gaz / tubulure / tuyau de dépression",
+                  "level": 4,
+                  "children": {
+                    "Joint, manchon de vanne papillon": {
+                      "categoryId": 102796,
+                      "categoryName": "Throttle Valve/Throttle Body/Vacuum Pipe",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8257
+                    }
+                  }
+                }
+              },
+              "productId": 8257
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carburation [ID: 100254] (Niveau 1)\n    └── Mélange air-carburant (Niveau 2)\n        └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 8257\n            └── Papillon des gaz / tubulure / tuyau de dépression (Niveau 4)\n                └── Throttle Valve/Throttle Body/Vacuum Pipe [ID: 102796] (Niveau 3) → ProductId: 8257",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 8257
+    }
+  ],
+  "productIdsInArbo": [
+    8257
+  ],
+  "matchedProductIds": [
+    8257
+  ]
+}

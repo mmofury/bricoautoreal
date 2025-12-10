@@ -1,0 +1,87 @@
+{
+  "productName": "Boulon de serrage",
+  "searchText": "Boulon de serrage",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T20:09:27.971Z",
+  "productId": 2754,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Distribution moteur": {
+          "categoryId": null,
+          "categoryName": "Distribution moteur",
+          "level": 2,
+          "children": {
+            "Kit de montage, amortisseur de vibrations (courroie crantée)": {
+              "categoryId": 100003,
+              "categoryName": "Engine Timing",
+              "level": 2,
+              "children": {
+                "Courroie crantée/tension/guidage": {
+                  "categoryId": null,
+                  "categoryName": "Courroie crantée/tension/guidage",
+                  "level": 4,
+                  "children": {
+                    "Kit de montage, amortisseur de vibrations (courroie crantée)": {
+                      "categoryId": 100396,
+                      "categoryName": "Timing Belt/Tensioner/Guide",
+                      "level": 3,
+                      "children": {
+                        "Amortisseur de vibrations": {
+                          "categoryId": null,
+                          "categoryName": "Amortisseur de vibrations",
+                          "level": 6,
+                          "children": {
+                            "Kit de montage, amortisseur de vibrations (courroie crantée)": {
+                              "categoryId": 100875,
+                              "categoryName": "Vibration Damper",
+                              "level": 4,
+                              "children": [],
+                              "productId": 8279
+                            }
+                          }
+                        }
+                      },
+                      "productId": 8279
+                    }
+                  }
+                }
+              },
+              "productId": 8279
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Distribution moteur (Niveau 2)\n        └── Engine Timing [ID: 100003] (Niveau 2) → ProductId: 8279\n            └── Courroie crantée/tension/guidage (Niveau 4)\n                └── Timing Belt/Tensioner/Guide [ID: 100396] (Niveau 3) → ProductId: 8279\n                    └── Amortisseur de vibrations (Niveau 6)\n                        └── Vibration Damper [ID: 100875] (Niveau 4) → ProductId: 8279",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Engine Timing"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100003
+      ],
+      "finalCategoryId": 100003,
+      "productId": 8279
+    }
+  ],
+  "productIdsInArbo": [
+    8279
+  ],
+  "closestProductIds": [
+    {
+      "productId": 8279,
+      "productName": "Kit de montage, amortisseur de vibrations (courroie crantée)"
+    }
+  ]
+}

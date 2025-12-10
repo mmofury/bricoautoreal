@@ -1,0 +1,70 @@
+{
+  "productName": "Capteur, Servo-débrayeur",
+  "productId": 4690,
+  "searchText": "Capteur, Servo-débrayeur",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Embrayage": {
+          "categoryId": 200053,
+          "categoryName": "Embrayage",
+          "level": 1,
+          "children": {
+            "Servo-débrayeur": {
+              "categoryId": null,
+              "categoryName": "Servo-débrayeur",
+              "level": 2,
+              "children": {
+                "Capteur, Servo-débrayeur": {
+                  "categoryId": 200292,
+                  "categoryName": "Clutch Booster",
+                  "level": 2,
+                  "children": [],
+                  "productId": 4690
+                }
+              }
+            }
+          }
+        },
+        "Système pneumatique": {
+          "categoryId": 200059,
+          "categoryName": "Système pneumatique",
+          "level": 1,
+          "children": {
+            "Servo-débrayeur": {
+              "categoryId": null,
+              "categoryName": "Servo-débrayeur",
+              "level": 2,
+              "children": {
+                "Capteur, Servo-débrayeur": {
+                  "categoryId": 200919,
+                  "categoryName": "Clutch Booster",
+                  "level": 2,
+                  "children": [],
+                  "productId": 4690
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "├── Embrayage [ID: 200053] (Niveau 1)\n│   └── Servo-débrayeur (Niveau 2)\n│       └── Clutch Booster [ID: 200292] (Niveau 2) → ProductId: 4690\n\n└── Système pneumatique [ID: 200059] (Niveau 1)\n    └── Servo-débrayeur (Niveau 2)\n        └── Clutch Booster [ID: 200919] (Niveau 2) → ProductId: 4690",
+      "productIdsInArbo": [
+        4690
+      ],
+      "matchedProductIds": [
+        4690
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:02:21.808Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

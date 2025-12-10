@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "D73DC9",
+      "index": "EL023500",
+      "tecDoc": "023.500",
+      "tecDocProd": "10",
+      "articleNumber": "023.500",
+      "brand": "ELRING",
+      "shortDescription": "Gasket, EGR valve",
+      "description": "EGR valve gasket fits: FORD COUGAR, MONDEO I, MONDEO II, MONDEO III, FORD USA CONTOUR, MAZDA MPV II 2.5 09.93-03.07",
+      "eans": [
+        "4041248626658"
+      ],
+      "packageWeight": "0,004",
+      "packageWidth": "5,500",
+      "packageDepth": "6,500",
+      "packageHeight": "0,100",
+      "customsCode": "84099100",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4298",
+          "primary": false,
+          "name": {
+            "en": "Gasket, air supply idle control valve"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3507",
+          "primary": true,
+          "name": {
+            "en": "Gasket, EGR valve"
+          }
+        }
+      ]
+    }
+  ]
+}

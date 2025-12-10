@@ -1,0 +1,106 @@
+{
+  "productName": "Tirette de starter",
+  "searchText": "Tirette de starter",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:26:11.053Z",
+  "productId": 1240,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Démarreur": {
+          "categoryId": null,
+          "categoryName": "Démarreur",
+          "level": 2,
+          "children": {
+            "Support, tirette de démarreur": {
+              "categoryId": 100353,
+              "categoryName": "Starter System",
+              "level": 2,
+              "children": {
+                "Composants du démarreur": {
+                  "categoryId": null,
+                  "categoryName": "Composants du démarreur",
+                  "level": 4,
+                  "children": {
+                    "Support, tirette de démarreur": {
+                      "categoryId": 100040,
+                      "categoryName": "Starter Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1713
+                    }
+                  }
+                }
+              },
+              "productId": 1713
+            },
+            "Tirette de starter": {
+              "categoryId": 100353,
+              "categoryName": "Starter System",
+              "level": 2,
+              "children": {
+                "Composants du démarreur": {
+                  "categoryId": null,
+                  "categoryName": "Composants du démarreur",
+                  "level": 4,
+                  "children": {
+                    "Tirette de starter": {
+                      "categoryId": 100040,
+                      "categoryName": "Starter Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1240
+                    }
+                  }
+                }
+              },
+              "productId": 1240
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Démarreur (Niveau 2)\n        ├── Starter System [ID: 100353] (Niveau 2) → ProductId: 1713\n        │   └── Composants du démarreur (Niveau 4)\n        │       └── Starter Parts [ID: 100040] (Niveau 3) → ProductId: 1713\n        └── Starter System [ID: 100353] (Niveau 2) → ProductId: 1240\n            └── Composants du démarreur (Niveau 4)\n                └── Starter Parts [ID: 100040] (Niveau 3) → ProductId: 1240",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Démarreur",
+        "Starter System"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100353
+      ],
+      "finalCategoryId": 100353,
+      "productId": 1713
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Démarreur",
+        "Starter System"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100353
+      ],
+      "finalCategoryId": 100353,
+      "productId": 1240
+    }
+  ],
+  "productIdsInArbo": [
+    1240,
+    1713
+  ],
+  "matchedProductIds": [
+    1240
+  ]
+}

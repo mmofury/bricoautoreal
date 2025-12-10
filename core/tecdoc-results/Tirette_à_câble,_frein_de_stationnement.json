@@ -1,0 +1,54 @@
+{
+  "productName": "Tirette à câble, frein de stationnement",
+  "searchText": "Tirette à câble, frein de stationnement",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:26:31.711Z",
+  "productId": 124,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Levier / câble / tirette": {
+          "categoryId": null,
+          "categoryName": "Levier / câble / tirette",
+          "level": 2,
+          "children": {
+            "Tirette à câble, frein de stationnement": {
+              "categoryId": 100635,
+              "categoryName": "Control Levers/Cables",
+              "level": 2,
+              "children": [],
+              "productId": 124
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif de freinage [ID: 100006] (Niveau 1)\n    └── Levier / câble / tirette (Niveau 2)\n        └── Control Levers/Cables [ID: 100635] (Niveau 2) → ProductId: 124",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Levier / câble / tirette",
+        "Control Levers/Cables"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100635
+      ],
+      "finalCategoryId": 100635,
+      "productId": 124
+    }
+  ],
+  "productIdsInArbo": [
+    124
+  ],
+  "matchedProductIds": [
+    124
+  ]
+}

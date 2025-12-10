@@ -1,0 +1,54 @@
+{
+  "productName": "Résistance de série, ventilateur de la climatisation",
+  "searchText": "Résistance de série, ventilateur de la climatisation",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:14:46.403Z",
+  "productId": 2391,
+  "arborescence": {
+    "Climatisation": {
+      "categoryId": 100243,
+      "categoryName": "Climatisation",
+      "level": 1,
+      "children": {
+        "Résistance additionnelle": {
+          "categoryId": null,
+          "categoryName": "Résistance additionnelle",
+          "level": 2,
+          "children": {
+            "Résistance de série, ventilateur de la climatisation": {
+              "categoryId": 100865,
+              "categoryName": "Series Resistor",
+              "level": 2,
+              "children": [],
+              "productId": 2391
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Climatisation [ID: 100243] (Niveau 1)\n    └── Résistance additionnelle (Niveau 2)\n        └── Series Resistor [ID: 100865] (Niveau 2) → ProductId: 2391",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Climatisation",
+        "Résistance additionnelle",
+        "Series Resistor"
+      ],
+      "categoryIds": [
+        100243,
+        null,
+        100865
+      ],
+      "finalCategoryId": 100865,
+      "productId": 2391
+    }
+  ],
+  "productIdsInArbo": [
+    2391
+  ],
+  "matchedProductIds": [
+    2391
+  ]
+}

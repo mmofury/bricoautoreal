@@ -1,0 +1,49 @@
+{
+  "productName": "Pignon planétaire, engrenage planétaire",
+  "productId": 5082,
+  "searchText": "Pignon planétaire, engrenage planétaire",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Entraînement des roues": {
+          "categoryId": 200055,
+          "categoryName": "Entraînement des roues",
+          "level": 1,
+          "children": {
+            "Engrenage de pont planétaire": {
+              "categoryId": null,
+              "categoryName": "Engrenage de pont planétaire",
+              "level": 2,
+              "children": {
+                "Pignon planétaire, engrenage planétaire": {
+                  "categoryId": 200957,
+                  "categoryName": "External Planetary Gearbox",
+                  "level": 2,
+                  "children": [],
+                  "productId": 5082
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Entraînement des roues [ID: 200055] (Niveau 1)\n    └── Engrenage de pont planétaire (Niveau 2)\n        └── External Planetary Gearbox [ID: 200957] (Niveau 2) → ProductId: 5082",
+      "productIdsInArbo": [
+        5082
+      ],
+      "matchedProductIds": [
+        5082
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:04:53.964Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

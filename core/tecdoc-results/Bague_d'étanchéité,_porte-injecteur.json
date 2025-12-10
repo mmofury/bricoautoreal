@@ -1,0 +1,83 @@
+{
+  "productName": "Bague d'étanchéité, porte-injecteur",
+  "searchText": "Bague d'étanchéité, porte-injecteur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:04:23.297Z",
+  "productId": 4051,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Bague d'étanchéité, porte-injecteur": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Composants de porte-injecteur / Injecteur": {
+                  "categoryId": null,
+                  "categoryName": "Composants de porte-injecteur / Injecteur",
+                  "level": 4,
+                  "children": {
+                    "Bague d'étanchéité, porte-injecteur": {
+                      "categoryId": 102800,
+                      "categoryName": "Nozzle and Holder Assembly/Nozzle Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4051
+                    }
+                  }
+                },
+                "Joint": {
+                  "categoryId": null,
+                  "categoryName": "Joint",
+                  "level": 4,
+                  "children": {
+                    "Bague d'étanchéité, porte-injecteur": {
+                      "categoryId": 102795,
+                      "categoryName": "Seal",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4051
+                    }
+                  }
+                }
+              },
+              "productId": 4051
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carburation [ID: 100254] (Niveau 1)\n    └── Mélange air-carburant (Niveau 2)\n        └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 4051\n            ├── Composants de porte-injecteur / Injecteur (Niveau 4)\n            │   └── Nozzle and Holder Assembly/Nozzle Parts [ID: 102800] (Niveau 3) → ProductId: 4051\n            └── Joint (Niveau 4)\n                └── Seal [ID: 102795] (Niveau 3) → ProductId: 4051",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 4051
+    }
+  ],
+  "productIdsInArbo": [
+    4051
+  ],
+  "matchedProductIds": [
+    4051
+  ]
+}

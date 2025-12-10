@@ -1,0 +1,69 @@
+{
+  "productName": "Renvoi d'angle, câble flexible de compteur de vit.",
+  "searchText": "Renvoi d'angle, câble flexible de compteur de vit.",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:08:28.952Z",
+  "productId": 2202,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Instruments": {
+          "categoryId": null,
+          "categoryName": "Instruments",
+          "level": 2,
+          "children": {
+            "Renvoi d'angle, câble flexible de compteur de vit.": {
+              "categoryId": 100322,
+              "categoryName": "Instruments",
+              "level": 2,
+              "children": {
+                "Flexible de compteur de vitesse": {
+                  "categoryId": null,
+                  "categoryName": "Flexible de compteur de vitesse",
+                  "level": 4,
+                  "children": {
+                    "Renvoi d'angle, câble flexible de compteur de vit.": {
+                      "categoryId": 100561,
+                      "categoryName": "Speedometer Cable",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2202
+                    }
+                  }
+                }
+              },
+              "productId": 2202
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Instruments (Niveau 2)\n        └── Instruments [ID: 100322] (Niveau 2) → ProductId: 2202\n            └── Flexible de compteur de vitesse (Niveau 4)\n                └── Speedometer Cable [ID: 100561] (Niveau 3) → ProductId: 2202",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Instruments",
+        "Instruments"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100322
+      ],
+      "finalCategoryId": 100322,
+      "productId": 2202
+    }
+  ],
+  "productIdsInArbo": [
+    2202
+  ],
+  "matchedProductIds": [
+    2202
+  ]
+}

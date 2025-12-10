@@ -1,0 +1,56 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G17R9R",
+      "index": "NRF 390077",
+      "tecDoc": "390077",
+      "tecDocProd": "205",
+      "articleNumber": "390077",
+      "brand": "NRF",
+      "shortDescription": "Auxiliary Water Pump (cooling water circuit)",
+      "description": "Additional water pump (operation mode electric) fits: MAN TGE, VW CRAFTER, GRAND CALIFORNIA CAMPER 2.0D 09.16-",
+      "eans": [
+        "8718042401861"
+      ],
+      "packageWeight": "0,380",
+      "packageWidth": "11,000",
+      "packageDepth": "9,700",
+      "packageHeight": "12,500",
+      "customsCode": "84133080",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1351",
+          "primary": true,
+          "name": {
+            "en": "Auxiliary Water Pump (cooling water circuit)"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_60347",
+          "primary": false,
+          "name": {
+            "en": "Auxiliary Water Pump, auxiliary heater"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_999",
+          "primary": false,
+          "name": {
+            "en": "Water Recirculation Pump, parking heater"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1260",
+          "primary": false,
+          "name": {
+            "en": "Water pump"
+          }
+        }
+      ]
+    }
+  ]
+}

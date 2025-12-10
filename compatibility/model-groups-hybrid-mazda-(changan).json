@@ -1,0 +1,127 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.407Z",
+  "manufacturer": "MAZDA (CHANGAN)",
+  "countGroups": 4,
+  "groups": [
+    {
+      "manufacturerId": 3532,
+      "manufacturerName": "MAZDA (CHANGAN)",
+      "groupKey": "2",
+      "displayName": "2",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8725,
+          "modelName": "2 A trois volumes",
+          "modelYearFrom": "2007-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 8730,
+          "modelName": "2 Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2007-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3532,
+      "manufacturerName": "MAZDA (CHANGAN)",
+      "groupKey": "3",
+      "displayName": "3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8726,
+          "modelName": "3 A trois volumes",
+          "modelYearFrom": "2006-02-01",
+          "modelYearTo": "2014-12-01"
+        },
+        {
+          "modelId": 8727,
+          "modelName": "3 A trois volumes",
+          "modelYearFrom": "2011-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10196,
+          "modelName": "3 Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2011-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 12836,
+          "modelName": "3 AXELA A trois volumes (BM)",
+          "modelYearFrom": "2014-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 12837,
+          "modelName": "3 AXELA Berline bicorps trois ou cinq portes (BM)",
+          "modelYearFrom": "2014-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40673,
+          "modelName": "3 AXELA A trois volumes",
+          "modelYearFrom": "2019-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3532,
+      "manufacturerName": "MAZDA (CHANGAN)",
+      "groupKey": "CX",
+      "displayName": "CX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11780,
+          "modelName": "CX-5 (KE)",
+          "modelYearFrom": "2011-11-01",
+          "modelYearTo": "2017-09-01"
+        },
+        {
+          "modelId": 38247,
+          "modelName": "CX-5 (KF)",
+          "modelYearFrom": "2017-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39218,
+          "modelName": "CX-8",
+          "modelYearFrom": "2018-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40850,
+          "modelName": "CX-30",
+          "modelYearFrom": "2020-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44508,
+          "modelName": "CX-50",
+          "modelYearFrom": "2023-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3532,
+      "manufacturerName": "MAZDA (CHANGAN)",
+      "groupKey": "EZ",
+      "displayName": "EZ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45996,
+          "modelName": "EZ-6",
+          "modelYearFrom": "2024-10-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

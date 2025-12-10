@@ -1,0 +1,72 @@
+{
+  "productName": "Pied à coulisse",
+  "searchText": "Pied à coulisse",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T21:19:44.598Z",
+  "productId": 4703,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Distribution moteur": {
+          "categoryId": null,
+          "categoryName": "Distribution moteur",
+          "level": 2,
+          "children": {
+            "Pied à coulisse, hauteur du piston": {
+              "categoryId": 100003,
+              "categoryName": "Engine Timing",
+              "level": 2,
+              "children": {
+                "Outils": {
+                  "categoryId": null,
+                  "categoryName": "Outils",
+                  "level": 4,
+                  "children": {
+                    "Pied à coulisse, hauteur du piston": {
+                      "categoryId": 706307,
+                      "categoryName": "Tools",
+                      "level": 3,
+                      "children": [],
+                      "productId": 9136
+                    }
+                  }
+                }
+              },
+              "productId": 9136
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Distribution moteur (Niveau 2)\n        └── Engine Timing [ID: 100003] (Niveau 2) → ProductId: 9136\n            └── Outils (Niveau 4)\n                └── Tools [ID: 706307] (Niveau 3) → ProductId: 9136",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Engine Timing"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100003
+      ],
+      "finalCategoryId": 100003,
+      "productId": 9136
+    }
+  ],
+  "productIdsInArbo": [
+    9136
+  ],
+  "closestProductIds": [
+    {
+      "productId": 9136,
+      "productName": "Pied à coulisse, hauteur du piston"
+    }
+  ]
+}

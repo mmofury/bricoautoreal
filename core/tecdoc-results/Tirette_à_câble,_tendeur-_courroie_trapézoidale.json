@@ -1,0 +1,134 @@
+{
+  "productName": "Tirette à câble, tendeur- courroie trapézoidale",
+  "searchText": "Tirette à câble, tendeur- courroie trapézoidale",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:26:38.728Z",
+  "productId": 4902,
+  "arborescence": {
+    "Commande à courroie": {
+      "categoryId": 100016,
+      "categoryName": "Commande à courroie",
+      "level": 1,
+      "children": {
+        "Jeu/ courroies trapèzoïdales": {
+          "categoryId": null,
+          "categoryName": "Jeu/ courroies trapèzoïdales",
+          "level": 2,
+          "children": {
+            "Tirette à câble, tendeur- courroie trapézoidale": {
+              "categoryId": 100080,
+              "categoryName": "V-Belt/Set",
+              "level": 2,
+              "children": {
+                "Bras de serrage": {
+                  "categoryId": null,
+                  "categoryName": "Bras de serrage",
+                  "level": 4,
+                  "children": {
+                    "Tirette à câble, tendeur- courroie trapézoidale": {
+                      "categoryId": 100887,
+                      "categoryName": "Tensioner",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4902
+                    }
+                  }
+                }
+              },
+              "productId": 4902
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Commande à courroie": {
+          "categoryId": null,
+          "categoryName": "Commande à courroie",
+          "level": 2,
+          "children": {
+            "Tirette à câble, tendeur- courroie trapézoidale": {
+              "categoryId": 104302,
+              "categoryName": "Belt Drive",
+              "level": 2,
+              "children": {
+                "Jeu/ courroies trapèzoïdales": {
+                  "categoryId": null,
+                  "categoryName": "Jeu/ courroies trapèzoïdales",
+                  "level": 4,
+                  "children": {
+                    "Tirette à câble, tendeur- courroie trapézoidale": {
+                      "categoryId": 104303,
+                      "categoryName": "V-Belt/Set",
+                      "level": 3,
+                      "children": {
+                        "Bras de serrage": {
+                          "categoryId": null,
+                          "categoryName": "Bras de serrage",
+                          "level": 6,
+                          "children": {
+                            "Tirette à câble, tendeur- courroie trapézoidale": {
+                              "categoryId": 104307,
+                              "categoryName": "Tensioner",
+                              "level": 4,
+                              "children": [],
+                              "productId": 4902
+                            }
+                          }
+                        }
+                      },
+                      "productId": 4902
+                    }
+                  }
+                }
+              },
+              "productId": 4902
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Commande à courroie [ID: 100016] (Niveau 1)\n│   └── Jeu/ courroies trapèzoïdales (Niveau 2)\n│       └── V-Belt/Set [ID: 100080] (Niveau 2) → ProductId: 4902\n│           └── Bras de serrage (Niveau 4)\n│               └── Tensioner [ID: 100887] (Niveau 3) → ProductId: 4902\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Commande à courroie (Niveau 2)\n        └── Belt Drive [ID: 104302] (Niveau 2) → ProductId: 4902\n            └── Jeu/ courroies trapèzoïdales (Niveau 4)\n                └── V-Belt/Set [ID: 104303] (Niveau 3) → ProductId: 4902\n                    └── Bras de serrage (Niveau 6)\n                        └── Tensioner [ID: 104307] (Niveau 4) → ProductId: 4902",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Commande à courroie",
+        "Jeu/ courroies trapèzoïdales",
+        "V-Belt/Set"
+      ],
+      "categoryIds": [
+        100016,
+        null,
+        100080
+      ],
+      "finalCategoryId": 100080,
+      "productId": 4902
+    },
+    {
+      "path": [
+        "Moteur",
+        "Commande à courroie",
+        "Belt Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        104302
+      ],
+      "finalCategoryId": 104302,
+      "productId": 4902
+    }
+  ],
+  "productIdsInArbo": [
+    4902
+  ],
+  "matchedProductIds": [
+    4902
+  ]
+}

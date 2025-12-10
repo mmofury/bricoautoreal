@@ -1,0 +1,127 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.356Z",
+  "manufacturer": "JENSEN",
+  "countGroups": 4,
+  "groups": [
+    {
+      "manufacturerId": 1511,
+      "manufacturerName": "JENSEN",
+      "groupKey": "GT",
+      "displayName": "GT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4281,
+          "modelName": "GT Coupé",
+          "modelYearFrom": "1975-06-01",
+          "modelYearTo": "1976-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1511,
+      "manufacturerName": "JENSEN",
+      "groupKey": "HEALEY",
+      "displayName": "HEALEY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4280,
+          "modelName": "HEALEY",
+          "modelYearFrom": "1972-01-01",
+          "modelYearTo": "1975-12-01"
+        },
+        {
+          "modelId": 32278,
+          "modelName": "HEALEY Décapotable",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1975-12-01"
+        },
+        {
+          "modelId": 32279,
+          "modelName": "HEALEY Coupé",
+          "modelYearFrom": "1975-09-01",
+          "modelYearTo": "1976-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1511,
+      "manufacturerName": "JENSEN",
+      "groupKey": "INTERCEPTOR",
+      "displayName": "INTERCEPTOR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4282,
+          "modelName": "INTERCEPTOR Mk II",
+          "modelYearFrom": "1969-01-01",
+          "modelYearTo": "1971-12-01"
+        },
+        {
+          "modelId": 4283,
+          "modelName": "INTERCEPTOR MK III",
+          "modelYearFrom": "1971-01-01",
+          "modelYearTo": "1976-12-01"
+        },
+        {
+          "modelId": 4284,
+          "modelName": "INTERCEPTOR SP",
+          "modelYearFrom": "1971-01-01",
+          "modelYearTo": "1973-12-01"
+        },
+        {
+          "modelId": 4285,
+          "modelName": "INTERCEPTOR S4",
+          "modelYearFrom": "1980-01-01",
+          "modelYearTo": "1992-12-01"
+        },
+        {
+          "modelId": 11716,
+          "modelName": "INTERCEPTOR S4 Décapotable",
+          "modelYearFrom": "1980-01-01",
+          "modelYearTo": "1992-12-01"
+        },
+        {
+          "modelId": 32280,
+          "modelName": "INTERCEPTOR A trois volumes",
+          "modelYearFrom": "1967-09-01",
+          "modelYearTo": "1974-12-01"
+        },
+        {
+          "modelId": 32281,
+          "modelName": "INTERCEPTOR MK III Décapotable",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1976-12-01"
+        },
+        {
+          "modelId": 32282,
+          "modelName": "INTERCEPTOR Coupé",
+          "modelYearFrom": "1975-09-01",
+          "modelYearTo": "1976-12-01"
+        },
+        {
+          "modelId": 32283,
+          "modelName": "INTERCEPTOR A trois volumes",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1976-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1511,
+      "manufacturerName": "JENSEN",
+      "groupKey": "S",
+      "displayName": "S",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4286,
+          "modelName": "S-V8",
+          "modelYearFrom": "1998-10-01",
+          "modelYearTo": "2007-05-01"
+        }
+      ]
+    }
+  ]
+}

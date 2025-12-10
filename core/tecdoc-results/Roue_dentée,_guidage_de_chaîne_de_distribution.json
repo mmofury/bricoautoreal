@@ -1,0 +1,69 @@
+{
+  "productName": "Roue dentée, guidage de chaîne de distribution",
+  "searchText": "Roue dentée, guidage de chaîne de distribution",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:12:27.893Z",
+  "productId": 2118,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Distribution moteur": {
+          "categoryId": null,
+          "categoryName": "Distribution moteur",
+          "level": 2,
+          "children": {
+            "Roue dentée, guidage de chaîne de distribution": {
+              "categoryId": 100003,
+              "categoryName": "Engine Timing",
+              "level": 2,
+              "children": {
+                "roues dentées": {
+                  "categoryId": null,
+                  "categoryName": "roues dentées",
+                  "level": 4,
+                  "children": {
+                    "Roue dentée, guidage de chaîne de distribution": {
+                      "categoryId": 101833,
+                      "categoryName": "Timing Gears",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2118
+                    }
+                  }
+                }
+              },
+              "productId": 2118
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Distribution moteur (Niveau 2)\n        └── Engine Timing [ID: 100003] (Niveau 2) → ProductId: 2118\n            └── roues dentées (Niveau 4)\n                └── Timing Gears [ID: 101833] (Niveau 3) → ProductId: 2118",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Engine Timing"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100003
+      ],
+      "finalCategoryId": 100003,
+      "productId": 2118
+    }
+  ],
+  "productIdsInArbo": [
+    2118
+  ],
+  "matchedProductIds": [
+    2118
+  ]
+}

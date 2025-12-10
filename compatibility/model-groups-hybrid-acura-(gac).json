@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.147Z",
+  "manufacturer": "ACURA (GAC)",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 4593,
+      "manufacturerName": "ACURA (GAC)",
+      "groupKey": "CDX",
+      "displayName": "CDX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36930,
+          "modelName": "CDX",
+          "modelYearFrom": "2016-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4593,
+      "manufacturerName": "ACURA (GAC)",
+      "groupKey": "RDX",
+      "displayName": "RDX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39133,
+          "modelName": "RDX",
+          "modelYearFrom": "2018-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4593,
+      "manufacturerName": "ACURA (GAC)",
+      "groupKey": "TLX",
+      "displayName": "TLX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38386,
+          "modelName": "TLX-L",
+          "modelYearFrom": "2017-12-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

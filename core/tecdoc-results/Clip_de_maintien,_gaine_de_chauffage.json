@@ -1,0 +1,54 @@
+{
+  "productName": "Clip de maintien, gaine de chauffage",
+  "searchText": "Clip de maintien, gaine de chauffage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:20:41.331Z",
+  "productId": 6319,
+  "arborescence": {
+    "Chauffage / Ventilation": {
+      "categoryId": 100241,
+      "categoryName": "Chauffage / Ventilation",
+      "level": 1,
+      "children": {
+        "Gaines/tuyaux": {
+          "categoryId": null,
+          "categoryName": "Gaines/tuyaux",
+          "level": 2,
+          "children": {
+            "Clip de maintien, gaine de chauffage": {
+              "categoryId": 100777,
+              "categoryName": "Hoses/Pipes",
+              "level": 2,
+              "children": [],
+              "productId": 6319
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Chauffage / Ventilation [ID: 100241] (Niveau 1)\n    └── Gaines/tuyaux (Niveau 2)\n        └── Hoses/Pipes [ID: 100777] (Niveau 2) → ProductId: 6319",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Chauffage / Ventilation",
+        "Gaines/tuyaux",
+        "Hoses/Pipes"
+      ],
+      "categoryIds": [
+        100241,
+        null,
+        100777
+      ],
+      "finalCategoryId": 100777,
+      "productId": 6319
+    }
+  ],
+  "productIdsInArbo": [
+    6319
+  ],
+  "matchedProductIds": [
+    6319
+  ]
+}

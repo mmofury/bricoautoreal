@@ -1,0 +1,54 @@
+{
+  "productName": "Joint d'étanchéité, boîte de transfert",
+  "searchText": "Joint d'étanchéité, boîte de transfert",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:52:18.371Z",
+  "productId": 631,
+  "arborescence": {
+    "Entraînement des essieux": {
+      "categoryId": 100400,
+      "categoryName": "Entraînement des essieux",
+      "level": 1,
+      "children": {
+        "Boîte de transfert": {
+          "categoryId": null,
+          "categoryName": "Boîte de transfert",
+          "level": 2,
+          "children": {
+            "Joint d'étanchéité, boîte de transfert": {
+              "categoryId": 100416,
+              "categoryName": "Transfer Case",
+              "level": 2,
+              "children": [],
+              "productId": 631
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement des essieux [ID: 100400] (Niveau 1)\n    └── Boîte de transfert (Niveau 2)\n        └── Transfer Case [ID: 100416] (Niveau 2) → ProductId: 631",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des essieux",
+        "Boîte de transfert",
+        "Transfer Case"
+      ],
+      "categoryIds": [
+        100400,
+        null,
+        100416
+      ],
+      "finalCategoryId": 100416,
+      "productId": 631
+    }
+  ],
+  "productIdsInArbo": [
+    631
+  ],
+  "matchedProductIds": [
+    631
+  ]
+}

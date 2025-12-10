@@ -1,0 +1,54 @@
+{
+  "productName": "Jauge, huile hydraulique",
+  "searchText": "Jauge, huile hydraulique",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:48:29.046Z",
+  "productId": 4085,
+  "arborescence": {
+    "Direction": {
+      "categoryId": 100012,
+      "categoryName": "Direction",
+      "level": 1,
+      "children": {
+        "Jauge d'huile": {
+          "categoryId": null,
+          "categoryName": "Jauge d'huile",
+          "level": 2,
+          "children": {
+            "Jauge, huile hydraulique": {
+              "categoryId": 102928,
+              "categoryName": "Oil Dipstick",
+              "level": 2,
+              "children": [],
+              "productId": 4085
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Direction [ID: 100012] (Niveau 1)\n    └── Jauge d'huile (Niveau 2)\n        └── Oil Dipstick [ID: 102928] (Niveau 2) → ProductId: 4085",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Direction",
+        "Jauge d'huile",
+        "Oil Dipstick"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        102928
+      ],
+      "finalCategoryId": 102928,
+      "productId": 4085
+    }
+  ],
+  "productIdsInArbo": [
+    4085
+  ],
+  "matchedProductIds": [
+    4085
+  ]
+}

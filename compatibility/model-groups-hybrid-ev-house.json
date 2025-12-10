@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.258Z",
+  "manufacturer": "EV HOUSE",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 6288,
+      "manufacturerName": "EV HOUSE",
+      "groupKey": "YOUNGGUANGXIAOXIN",
+      "displayName": "YOUNGGUANGXIAOXIN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42365,
+          "modelName": "YOUNGGUANGXIAOXIN",
+          "modelYearFrom": "2021-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6288,
+      "manufacturerName": "EV HOUSE",
+      "groupKey": "YUE",
+      "displayName": "YUE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45133,
+          "modelName": "YUE 01",
+          "modelYearFrom": "2024-01-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

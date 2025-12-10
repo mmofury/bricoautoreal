@@ -1,0 +1,36 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "B699BC",
+      "index": "184200 080580",
+      "tecDoc": "184200 080580",
+      "tecDocProd": "32",
+      "articleNumber": "184200 080580",
+      "brand": "SACHS",
+      "shortDescription": "Clutch disc",
+      "description": "SACHS device to test the clutch disc diameters: 280-430 mm",
+      "gtuCode": "GTU_07",
+      "customsCode": "87089390",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_2557",
+          "primary": false,
+          "name": {
+            "en": "Test/Set Unit, clutch disc"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_262",
+          "primary": true,
+          "name": {
+            "en": "Clutch disc"
+          }
+        }
+      ]
+    }
+  ]
+}

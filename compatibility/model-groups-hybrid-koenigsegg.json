@@ -1,0 +1,67 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.374Z",
+  "manufacturer": "KOENIGSEGG",
+  "countGroups": 4,
+  "groups": [
+    {
+      "manufacturerId": 4163,
+      "manufacturerName": "KOENIGSEGG",
+      "groupKey": "AGERA",
+      "displayName": "AGERA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13092,
+          "modelName": "AGERA",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4163,
+      "manufacturerName": "KOENIGSEGG",
+      "groupKey": "CC",
+      "displayName": "CC",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38382,
+          "modelName": "CC",
+          "modelYearFrom": "2004-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4163,
+      "manufacturerName": "KOENIGSEGG",
+      "groupKey": "ONE",
+      "displayName": "ONE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38383,
+          "modelName": "ONE:1",
+          "modelYearFrom": "2014-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4163,
+      "manufacturerName": "KOENIGSEGG",
+      "groupKey": "REGERA",
+      "displayName": "REGERA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38946,
+          "modelName": "REGERA Coupé",
+          "modelYearFrom": "2015-03-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Jeu de contacts, distributeur d'allumage",
+  "searchText": "Jeu de contacts, distributeur d'allumage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:48:59.012Z",
+  "productId": 688,
+  "arborescence": {
+    "Allumage / préchauffage": {
+      "categoryId": 100008,
+      "categoryName": "Allumage / préchauffage",
+      "level": 1,
+      "children": {
+        "Distributeur d'allumage/Composants": {
+          "categoryId": null,
+          "categoryName": "Distributeur d'allumage/Composants",
+          "level": 2,
+          "children": {
+            "Jeu de contacts, distributeur d'allumage": {
+              "categoryId": 100148,
+              "categoryName": "Ignition Distributor/Parts",
+              "level": 2,
+              "children": [],
+              "productId": 688
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Allumage / préchauffage [ID: 100008] (Niveau 1)\n    └── Distributeur d'allumage/Composants (Niveau 2)\n        └── Ignition Distributor/Parts [ID: 100148] (Niveau 2) → ProductId: 688",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Distributeur d'allumage/Composants",
+        "Ignition Distributor/Parts"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        100148
+      ],
+      "finalCategoryId": 100148,
+      "productId": 688
+    }
+  ],
+  "productIdsInArbo": [
+    688
+  ],
+  "matchedProductIds": [
+    688
+  ]
+}

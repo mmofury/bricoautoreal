@@ -1,0 +1,127 @@
+{
+  "productName": "Pointeau",
+  "searchText": "Pointeau",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-03T07:00:42.812Z",
+  "productId": 4706,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Carburateurs": {
+          "categoryId": null,
+          "categoryName": "Carburateurs",
+          "level": 2,
+          "children": {
+            "Kit de réparation, pointeau d'arrivée d'essence": {
+              "categoryId": 102903,
+              "categoryName": "Carburettor System",
+              "level": 2,
+              "children": {
+                "Composants du carburateur": {
+                  "categoryId": null,
+                  "categoryName": "Composants du carburateur",
+                  "level": 4,
+                  "children": {
+                    "Kit de réparation, pointeau d'arrivée d'essence": {
+                      "categoryId": 102906,
+                      "categoryName": "Carburettor Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1968
+                    }
+                  }
+                }
+              },
+              "productId": 1968
+            },
+            "Pointeau d'arrivée d'essence": {
+              "categoryId": 102903,
+              "categoryName": "Carburettor System",
+              "level": 2,
+              "children": {
+                "Composants du carburateur": {
+                  "categoryId": null,
+                  "categoryName": "Composants du carburateur",
+                  "level": 4,
+                  "children": {
+                    "Pointeau d'arrivée d'essence": {
+                      "categoryId": 102906,
+                      "categoryName": "Carburettor Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1785
+                    }
+                  }
+                },
+                "Soupapes": {
+                  "categoryId": null,
+                  "categoryName": "Soupapes",
+                  "level": 4,
+                  "children": {
+                    "Pointeau d'arrivée d'essence": {
+                      "categoryId": 102909,
+                      "categoryName": "Valves",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1785
+                    }
+                  }
+                }
+              },
+              "productId": 1785
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carburation [ID: 100254] (Niveau 1)\n    └── Carburateurs (Niveau 2)\n        ├── Carburettor System [ID: 102903] (Niveau 2) → ProductId: 1968\n        │   └── Composants du carburateur (Niveau 4)\n        │       └── Carburettor Parts [ID: 102906] (Niveau 3) → ProductId: 1968\n        └── Carburettor System [ID: 102903] (Niveau 2) → ProductId: 1785\n            ├── Composants du carburateur (Niveau 4)\n            │   └── Carburettor Parts [ID: 102906] (Niveau 3) → ProductId: 1785\n            └── Soupapes (Niveau 4)\n                └── Valves [ID: 102909] (Niveau 3) → ProductId: 1785",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Carburateurs",
+        "Carburettor System"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102903
+      ],
+      "finalCategoryId": 102903,
+      "productId": 1968
+    },
+    {
+      "path": [
+        "Carburation",
+        "Carburateurs",
+        "Carburettor System"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102903
+      ],
+      "finalCategoryId": 102903,
+      "productId": 1785
+    }
+  ],
+  "productIdsInArbo": [
+    1785,
+    1968
+  ],
+  "closestProductIds": [
+    {
+      "productId": 1785,
+      "productName": "Pointeau d'arrivée d'essence"
+    },
+    {
+      "productId": 1968,
+      "productName": "Kit de réparation, pointeau d'arrivée d'essence"
+    }
+  ]
+}

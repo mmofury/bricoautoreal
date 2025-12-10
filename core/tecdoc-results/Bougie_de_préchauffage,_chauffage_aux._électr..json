@@ -1,0 +1,89 @@
+{
+  "productName": "Bougie de préchauffage, chauffage aux. électr.",
+  "searchText": "Bougie de préchauffage, chauffage aux. électr.",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:08:58.818Z",
+  "productId": 2927,
+  "arborescence": {
+    "Allumage / préchauffage": {
+      "categoryId": 100008,
+      "categoryName": "Allumage / préchauffage",
+      "level": 1,
+      "children": {
+        "Bougie de préchauffage": {
+          "categoryId": null,
+          "categoryName": "Bougie de préchauffage",
+          "level": 2,
+          "children": {
+            "Bougie de préchauffage, chauffage aux. électr.": {
+              "categoryId": 100152,
+              "categoryName": "Glow Plug",
+              "level": 2,
+              "children": [],
+              "productId": 2927
+            }
+          }
+        }
+      }
+    },
+    "Chauffage / Ventilation": {
+      "categoryId": 100241,
+      "categoryName": "Chauffage / Ventilation",
+      "level": 1,
+      "children": {
+        "Préchauffage de l'eau de refroidissmt": {
+          "categoryId": null,
+          "categoryName": "Préchauffage de l'eau de refroidissmt",
+          "level": 2,
+          "children": {
+            "Bougie de préchauffage, chauffage aux. électr.": {
+              "categoryId": 101470,
+              "categoryName": "Coolant Water Preheating",
+              "level": 2,
+              "children": [],
+              "productId": 2927
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Allumage / préchauffage [ID: 100008] (Niveau 1)\n│   └── Bougie de préchauffage (Niveau 2)\n│       └── Glow Plug [ID: 100152] (Niveau 2) → ProductId: 2927\n\n└── Chauffage / Ventilation [ID: 100241] (Niveau 1)\n    └── Préchauffage de l'eau de refroidissmt (Niveau 2)\n        └── Coolant Water Preheating [ID: 101470] (Niveau 2) → ProductId: 2927",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Bougie de préchauffage",
+        "Glow Plug"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        100152
+      ],
+      "finalCategoryId": 100152,
+      "productId": 2927
+    },
+    {
+      "path": [
+        "Chauffage / Ventilation",
+        "Préchauffage de l'eau de refroidissmt",
+        "Coolant Water Preheating"
+      ],
+      "categoryIds": [
+        100241,
+        null,
+        101470
+      ],
+      "finalCategoryId": 101470,
+      "productId": 2927
+    }
+  ],
+  "productIdsInArbo": [
+    2927
+  ],
+  "matchedProductIds": [
+    2927
+  ]
+}

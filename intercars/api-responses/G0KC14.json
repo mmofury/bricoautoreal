@@ -1,0 +1,36 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G0KC14",
+      "index": "00229164",
+      "tecDoc": "00229164",
+      "tecDocProd": "4593",
+      "articleNumber": "00229164",
+      "brand": "TEDGUM",
+      "shortDescription": "Bearing, drive shaft",
+      "description": "Propeller shaft support (75mmx91mm) fits: FORD ESCORT VI, ESCORT VI/KOMBI, FIESTA IV, FIESTA/HATCHBACK, FIESTA/MINIVAN 1.25-1.8D 01.95-08.03",
+      "gtuCode": "GTU_07",
+      "customsCode": "87085099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3302",
+          "primary": false,
+          "name": {
+            "en": "Intermediate Bearing, drive shaft"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3521",
+          "primary": true,
+          "name": {
+            "en": "Bearing, drive shaft"
+          }
+        }
+      ]
+    }
+  ]
+}

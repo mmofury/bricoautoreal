@@ -1,0 +1,54 @@
+{
+  "productName": "Kit de réparation, lève-vitre",
+  "searchText": "Kit de réparation, lève-vitre",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:05:20.374Z",
+  "productId": 6328,
+  "arborescence": {
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Lève-vitre": {
+          "categoryId": null,
+          "categoryName": "Lève-vitre",
+          "level": 2,
+          "children": {
+            "Kit de réparation, lève-vitre": {
+              "categoryId": 100751,
+              "categoryName": "Window Regulator",
+              "level": 2,
+              "children": [],
+              "productId": 6328
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Systèmes de confort [ID: 100335] (Niveau 1)\n    └── Lève-vitre (Niveau 2)\n        └── Window Regulator [ID: 100751] (Niveau 2) → ProductId: 6328",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Systèmes de confort",
+        "Lève-vitre",
+        "Window Regulator"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        100751
+      ],
+      "finalCategoryId": 100751,
+      "productId": 6328
+    }
+  ],
+  "productIdsInArbo": [
+    6328
+  ],
+  "matchedProductIds": [
+    6328
+  ]
+}

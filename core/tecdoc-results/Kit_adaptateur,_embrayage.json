@@ -1,0 +1,160 @@
+{
+  "productName": "Kit adaptateur, embrayage",
+  "searchText": "Kit adaptateur, embrayage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:57:16.846Z",
+  "productId": 5030,
+  "arborescence": {
+    "Embrayage / composants": {
+      "categoryId": 100050,
+      "categoryName": "Embrayage / composants",
+      "level": 1,
+      "children": {
+        "Kit adaptateur pour embrayage": {
+          "categoryId": null,
+          "categoryName": "Kit adaptateur pour embrayage",
+          "level": 2,
+          "children": {
+            "Kit adaptateur, embrayage": {
+              "categoryId": 104718,
+              "categoryName": "Clutch Conversion Kit",
+              "level": 2,
+              "children": [],
+              "productId": 5030
+            }
+          }
+        },
+        "Kit d'embrayage": {
+          "categoryId": null,
+          "categoryName": "Kit d'embrayage",
+          "level": 2,
+          "children": {
+            "Kit adaptateur, embrayage": {
+              "categoryId": 100051,
+              "categoryName": "Clutch Kit",
+              "level": 2,
+              "children": [],
+              "productId": 5030
+            }
+          }
+        },
+        "Volant-moteur": {
+          "categoryId": null,
+          "categoryName": "Volant-moteur",
+          "level": 2,
+          "children": {
+            "Kit adaptateur, embrayage": {
+              "categoryId": 100057,
+              "categoryName": "Flywheel",
+              "level": 2,
+              "children": [],
+              "productId": 5030
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Système bielle-manivelle": {
+          "categoryId": null,
+          "categoryName": "Système bielle-manivelle",
+          "level": 2,
+          "children": {
+            "Kit adaptateur, embrayage": {
+              "categoryId": 100515,
+              "categoryName": "Crankshaft Drive",
+              "level": 2,
+              "children": {
+                "Volant-moteur": {
+                  "categoryId": null,
+                  "categoryName": "Volant-moteur",
+                  "level": 4,
+                  "children": {
+                    "Kit adaptateur, embrayage": {
+                      "categoryId": 100518,
+                      "categoryName": "Flywheel",
+                      "level": 3,
+                      "children": [],
+                      "productId": 5030
+                    }
+                  }
+                }
+              },
+              "productId": 5030
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Embrayage / composants [ID: 100050] (Niveau 1)\n│   ├── Kit adaptateur pour embrayage (Niveau 2)\n│   │   └── Clutch Conversion Kit [ID: 104718] (Niveau 2) → ProductId: 5030\n│   ├── Kit d'embrayage (Niveau 2)\n│   │   └── Clutch Kit [ID: 100051] (Niveau 2) → ProductId: 5030\n│   └── Volant-moteur (Niveau 2)\n│       └── Flywheel [ID: 100057] (Niveau 2) → ProductId: 5030\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Système bielle-manivelle (Niveau 2)\n        └── Crankshaft Drive [ID: 100515] (Niveau 2) → ProductId: 5030\n            └── Volant-moteur (Niveau 4)\n                └── Flywheel [ID: 100518] (Niveau 3) → ProductId: 5030",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Embrayage / composants",
+        "Kit adaptateur pour embrayage",
+        "Clutch Conversion Kit"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        104718
+      ],
+      "finalCategoryId": 104718,
+      "productId": 5030
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Kit d'embrayage",
+        "Clutch Kit"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100051
+      ],
+      "finalCategoryId": 100051,
+      "productId": 5030
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Volant-moteur",
+        "Flywheel"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100057
+      ],
+      "finalCategoryId": 100057,
+      "productId": 5030
+    },
+    {
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Crankshaft Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100515
+      ],
+      "finalCategoryId": 100515,
+      "productId": 5030
+    }
+  ],
+  "productIdsInArbo": [
+    5030
+  ],
+  "matchedProductIds": [
+    5030
+  ]
+}

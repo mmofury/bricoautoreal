@@ -1,0 +1,36 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "B9B001",
+      "index": "LPR3012",
+      "tecDoc": "3012",
+      "tecDocProd": "197",
+      "articleNumber": "3012",
+      "brand": "LPR",
+      "shortDescription": "Central Slave Cylinder, clutch",
+      "description": "Hydraulic concentric bearing fits: AUDI A1, A3, Q3, TT, FORD GALAXY I, GALAXY MK I, SEAT ALHAMBRA, ALTEA, ALTEA XL, CORDOBA, IBIZA III, IBIZA IV, IBIZA IV SC 1.4-Electric 03.95-08.24",
+      "gtuCode": "GTU_07",
+      "customsCode": "87089390",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_620",
+          "primary": false,
+          "name": {
+            "en": "Slave Cylinder, clutch"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_47",
+          "primary": true,
+          "name": {
+            "en": "Central Slave Cylinder, clutch"
+          }
+        }
+      ]
+    }
+  ]
+}

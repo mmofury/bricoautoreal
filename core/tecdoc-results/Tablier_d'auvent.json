@@ -1,0 +1,112 @@
+{
+  "productName": "Tablier d'auvent",
+  "searchText": "Tablier d'auvent",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:24:36.739Z",
+  "productId": 913,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Habitacle": {
+          "categoryId": null,
+          "categoryName": "Habitacle",
+          "level": 2,
+          "children": {
+            "Tablier d'auvent": {
+              "categoryId": 101690,
+              "categoryName": "Passenger Cabin",
+              "level": 2,
+              "children": {
+                "Plancher de carrosserie": {
+                  "categoryId": null,
+                  "categoryName": "Plancher de carrosserie",
+                  "level": 4,
+                  "children": {
+                    "Tablier d'auvent": {
+                      "categoryId": 101693,
+                      "categoryName": "Floor Panel",
+                      "level": 3,
+                      "children": [],
+                      "productId": 913
+                    }
+                  }
+                }
+              },
+              "productId": 913
+            }
+          }
+        },
+        "Pièces de carrosserie/ailes/pares-chocs": {
+          "categoryId": null,
+          "categoryName": "Pièces de carrosserie/ailes/pares-chocs",
+          "level": 2,
+          "children": {
+            "Tablier d'auvent": {
+              "categoryId": 100743,
+              "categoryName": "Body Parts/Wing/Bumper",
+              "level": 2,
+              "children": {
+                "Plancher de carrosserie": {
+                  "categoryId": null,
+                  "categoryName": "Plancher de carrosserie",
+                  "level": 4,
+                  "children": {
+                    "Tablier d'auvent": {
+                      "categoryId": 100168,
+                      "categoryName": "Floor Panel",
+                      "level": 3,
+                      "children": [],
+                      "productId": 913
+                    }
+                  }
+                }
+              },
+              "productId": 913
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    ├── Habitacle (Niveau 2)\n    │   └── Passenger Cabin [ID: 101690] (Niveau 2) → ProductId: 913\n    │       └── Plancher de carrosserie (Niveau 4)\n    │           └── Floor Panel [ID: 101693] (Niveau 3) → ProductId: 913\n    └── Pièces de carrosserie/ailes/pares-chocs (Niveau 2)\n        └── Body Parts/Wing/Bumper [ID: 100743] (Niveau 2) → ProductId: 913\n            └── Plancher de carrosserie (Niveau 4)\n                └── Floor Panel [ID: 100168] (Niveau 3) → ProductId: 913",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Habitacle",
+        "Passenger Cabin"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101690
+      ],
+      "finalCategoryId": 101690,
+      "productId": 913
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Pièces de carrosserie/ailes/pares-chocs",
+        "Body Parts/Wing/Bumper"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100743
+      ],
+      "finalCategoryId": 100743,
+      "productId": 913
+    }
+  ],
+  "productIdsInArbo": [
+    913
+  ],
+  "matchedProductIds": [
+    913
+  ]
+}

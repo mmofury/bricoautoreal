@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H14IOF",
+      "index": "HEPOPK56160",
+      "tecDoc": "OPK56160",
+      "tecDocProd": "178",
+      "articleNumber": "OPK56160",
+      "brand": "HEPU",
+      "shortDescription": "Oil Pump Set",
+      "description": "Oil pump fits: AUDI A3, SEAT LEON, LEON SC, LEON ST, SKODA OCTAVIA III, VW GOLF SPORTSVAN VII, GOLF VII 1.6D/2.0D 04.12-10.20",
+      "customsCode": "84133080",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_387",
+          "primary": false,
+          "name": {
+            "en": "Vacuum Pump, braking system"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_596",
+          "primary": false,
+          "name": {
+            "en": "Oil pump"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_60450",
+          "primary": true,
+          "name": {
+            "en": "Oil Pump Set"
+          }
+        }
+      ]
+    }
+  ]
+}

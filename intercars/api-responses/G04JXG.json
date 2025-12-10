@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G04JXG",
+      "index": "2.25029",
+      "tecDoc": "2.25029",
+      "tecDocProd": "355",
+      "articleNumber": "2.25029",
+      "brand": "DT SPARE PARTS",
+      "shortDescription": "Fuel Filter",
+      "description": "Fuel filter fits: VOLVO FH D13A460 09.05-",
+      "packageWeight": "0,007",
+      "packageWidth": "8,000",
+      "packageDepth": "2,000",
+      "packageHeight": "12,000",
+      "customsCode": "84212300",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_9",
+          "primary": true,
+          "name": {
+            "en": "Fuel Filter"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_537",
+          "primary": false,
+          "name": {
+            "en": "Filter, windscreen washer fluid"
+          }
+        }
+      ]
+    }
+  ]
+}

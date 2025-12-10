@@ -1,0 +1,70 @@
+{
+  "productName": "Glissière de boîte d'essieu",
+  "productId": 3523,
+  "searchText": "Glissière de boîte d'essieu",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Recherche de l'article par image": {
+          "categoryId": 202419,
+          "categoryName": "Recherche de l'article par image",
+          "level": 1,
+          "children": {
+            "Suspension des roues/essieux": {
+              "categoryId": null,
+              "categoryName": "Suspension des roues/essieux",
+              "level": 2,
+              "children": {
+                "Glissière de boîte d'essieu": {
+                  "categoryId": 202420,
+                  "categoryName": "Wheel Suspension/Axle Guide",
+                  "level": 2,
+                  "children": [],
+                  "productId": 3523
+                }
+              }
+            }
+          }
+        },
+        "Suspension des roues": {
+          "categoryId": 200061,
+          "categoryName": "Suspension des roues",
+          "level": 1,
+          "children": {
+            "Recherche d'un article par graphique": {
+              "categoryId": null,
+              "categoryName": "Recherche d'un article par graphique",
+              "level": 2,
+              "children": {
+                "Glissière de boîte d'essieu": {
+                  "categoryId": 201841,
+                  "categoryName": "Article Search via Graphic",
+                  "level": 2,
+                  "children": [],
+                  "productId": 3523
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "├── Recherche de l'article par image [ID: 202419] (Niveau 1)\n│   └── Suspension des roues/essieux (Niveau 2)\n│       └── Wheel Suspension/Axle Guide [ID: 202420] (Niveau 2) → ProductId: 3523\n\n└── Suspension des roues [ID: 200061] (Niveau 1)\n    └── Recherche d'un article par graphique (Niveau 2)\n        └── Article Search via Graphic [ID: 201841] (Niveau 2) → ProductId: 3523",
+      "productIdsInArbo": [
+        3523
+      ],
+      "matchedProductIds": [
+        3523
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:32:45.958Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

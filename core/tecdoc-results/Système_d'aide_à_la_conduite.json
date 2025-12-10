@@ -1,0 +1,196 @@
+{
+  "productName": "Système d'aide à la conduite",
+  "searchText": "Système d'aide à la conduite",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-03T07:23:51.627Z",
+  "productId": 4963,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Capteurs": {
+          "categoryId": null,
+          "categoryName": "Capteurs",
+          "level": 2,
+          "children": {
+            "Capteur, avertissement d’impact": {
+              "categoryId": 102747,
+              "categoryName": "Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 60335
+            }
+          }
+        }
+      }
+    },
+    "Systèmes de sécurité": {
+      "categoryId": 100417,
+      "categoryName": "Systèmes de sécurité",
+      "level": 1,
+      "children": {
+        "Système d'aide à la conduite": {
+          "categoryId": null,
+          "categoryName": "Système d'aide à la conduite",
+          "level": 2,
+          "children": {
+            "Capteur, avertissement d’impact": {
+              "categoryId": 706455,
+              "categoryName": "Driver Assistance System",
+              "level": 2,
+              "children": [],
+              "productId": 60335
+            },
+            "Capteur, détection d’angle mort": {
+              "categoryId": 706455,
+              "categoryName": "Driver Assistance System",
+              "level": 2,
+              "children": [],
+              "productId": 60532
+            },
+            "Kit de modernisation, assistant d’angle mort": {
+              "categoryId": 706455,
+              "categoryName": "Driver Assistance System",
+              "level": 2,
+              "children": [],
+              "productId": 9616
+            },
+            "Kit réparation de câble, capteur d’angle mort": {
+              "categoryId": 706455,
+              "categoryName": "Driver Assistance System",
+              "level": 2,
+              "children": [],
+              "productId": 60097
+            },
+            "Pompe à eau lavage, système sécurité (nettoyage capteurs)": {
+              "categoryId": 706455,
+              "categoryName": "Driver Assistance System",
+              "level": 2,
+              "children": [],
+              "productId": 60562
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Système électrique [ID: 100010] (Niveau 1)\n│   └── Capteurs (Niveau 2)\n│       └── Sensors [ID: 102747] (Niveau 2) → ProductId: 60335\n\n└── Systèmes de sécurité [ID: 100417] (Niveau 1)\n    └── Système d'aide à la conduite (Niveau 2)\n        ├── Driver Assistance System [ID: 706455] (Niveau 2) → ProductId: 60335\n        ├── Driver Assistance System [ID: 706455] (Niveau 2) → ProductId: 60532\n        ├── Driver Assistance System [ID: 706455] (Niveau 2) → ProductId: 9616\n        ├── Driver Assistance System [ID: 706455] (Niveau 2) → ProductId: 60097\n        └── Driver Assistance System [ID: 706455] (Niveau 2) → ProductId: 60562",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Capteurs",
+        "Sensors"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        102747
+      ],
+      "finalCategoryId": 102747,
+      "productId": 60335
+    },
+    {
+      "path": [
+        "Systèmes de sécurité",
+        "Système d'aide à la conduite",
+        "Driver Assistance System"
+      ],
+      "categoryIds": [
+        100417,
+        null,
+        706455
+      ],
+      "finalCategoryId": 706455,
+      "productId": 60335
+    },
+    {
+      "path": [
+        "Systèmes de sécurité",
+        "Système d'aide à la conduite",
+        "Driver Assistance System"
+      ],
+      "categoryIds": [
+        100417,
+        null,
+        706455
+      ],
+      "finalCategoryId": 706455,
+      "productId": 60532
+    },
+    {
+      "path": [
+        "Systèmes de sécurité",
+        "Système d'aide à la conduite",
+        "Driver Assistance System"
+      ],
+      "categoryIds": [
+        100417,
+        null,
+        706455
+      ],
+      "finalCategoryId": 706455,
+      "productId": 9616
+    },
+    {
+      "path": [
+        "Systèmes de sécurité",
+        "Système d'aide à la conduite",
+        "Driver Assistance System"
+      ],
+      "categoryIds": [
+        100417,
+        null,
+        706455
+      ],
+      "finalCategoryId": 706455,
+      "productId": 60097
+    },
+    {
+      "path": [
+        "Systèmes de sécurité",
+        "Système d'aide à la conduite",
+        "Driver Assistance System"
+      ],
+      "categoryIds": [
+        100417,
+        null,
+        706455
+      ],
+      "finalCategoryId": 706455,
+      "productId": 60562
+    }
+  ],
+  "productIdsInArbo": [
+    9616,
+    60097,
+    60335,
+    60532,
+    60562
+  ],
+  "closestProductIds": [
+    {
+      "productId": 9616,
+      "productName": "Kit de modernisation, assistant d’angle mort"
+    },
+    {
+      "productId": 60097,
+      "productName": "Kit réparation de câble, capteur d’angle mort"
+    },
+    {
+      "productId": 60335,
+      "productName": "Capteur, avertissement d’impact"
+    },
+    {
+      "productId": 60532,
+      "productName": "Capteur, détection d’angle mort"
+    },
+    {
+      "productId": 60562,
+      "productName": "Pompe à eau lavage, système sécurité (nettoyage capteurs)"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "productName": "Radiateur d'huile, direction",
+  "searchText": "Radiateur d'huile, direction",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:06:36.929Z",
+  "productId": 1048,
+  "arborescence": {
+    "Direction": {
+      "categoryId": 100012,
+      "categoryName": "Direction",
+      "level": 1,
+      "children": {
+        "Crémaillère de direction/pompe": {
+          "categoryId": null,
+          "categoryName": "Crémaillère de direction/pompe",
+          "level": 2,
+          "children": {
+            "Radiateur d'huile, direction": {
+              "categoryId": 100199,
+              "categoryName": "Steering Gear/Pump",
+              "level": 2,
+              "children": [],
+              "productId": 1048
+            }
+          }
+        },
+        "Radiateur d'huile": {
+          "categoryId": null,
+          "categoryName": "Radiateur d'huile",
+          "level": 2,
+          "children": {
+            "Radiateur d'huile, direction": {
+              "categoryId": 706083,
+              "categoryName": "Oil Cooler",
+              "level": 2,
+              "children": [],
+              "productId": 1048
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Direction [ID: 100012] (Niveau 1)\n    ├── Crémaillère de direction/pompe (Niveau 2)\n    │   └── Steering Gear/Pump [ID: 100199] (Niveau 2) → ProductId: 1048\n    └── Radiateur d'huile (Niveau 2)\n        └── Oil Cooler [ID: 706083] (Niveau 2) → ProductId: 1048",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Direction",
+        "Crémaillère de direction/pompe",
+        "Steering Gear/Pump"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        100199
+      ],
+      "finalCategoryId": 100199,
+      "productId": 1048
+    },
+    {
+      "path": [
+        "Direction",
+        "Radiateur d'huile",
+        "Oil Cooler"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        706083
+      ],
+      "finalCategoryId": 706083,
+      "productId": 1048
+    }
+  ],
+  "productIdsInArbo": [
+    1048
+  ],
+  "matchedProductIds": [
+    1048
+  ]
+}

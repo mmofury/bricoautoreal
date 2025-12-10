@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "B48DD8",
+      "index": "076.250-90",
+      "tecDoc": "076.250-90A",
+      "tecDocProd": "63",
+      "articleNumber": "076.250-90A",
+      "brand": "PETERS",
+      "shortDescription": "Special pliers",
+      "description": "PE pliers",
+      "packageWeight": "0,289",
+      "packageWidth": "6,000",
+      "packageDepth": "6,000",
+      "packageHeight": "0,300",
+      "customsCode": "82032000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_94119",
+          "primary": true,
+          "name": {
+            "en": "Special pliers"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_4748",
+          "primary": false,
+          "name": {
+            "en": "Cutting pliers"
+          }
+        }
+      ]
+    }
+  ]
+}

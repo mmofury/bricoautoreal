@@ -1,0 +1,54 @@
+{
+  "productName": "Filtre, système hydraulique de travail",
+  "searchText": "Filtre, système hydraulique de travail",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:40:17.485Z",
+  "productId": 536,
+  "arborescence": {
+    "Filtre": {
+      "categoryId": 100005,
+      "categoryName": "Filtre",
+      "level": 1,
+      "children": {
+        "Filtre hydraulique": {
+          "categoryId": null,
+          "categoryName": "Filtre hydraulique",
+          "level": 2,
+          "children": {
+            "Filtre, système hydraulique de travail": {
+              "categoryId": 706725,
+              "categoryName": "Hydraulic Filter",
+              "level": 2,
+              "children": [],
+              "productId": 536
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Filtre [ID: 100005] (Niveau 1)\n    └── Filtre hydraulique (Niveau 2)\n        └── Hydraulic Filter [ID: 706725] (Niveau 2) → ProductId: 536",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Filtre",
+        "Filtre hydraulique",
+        "Hydraulic Filter"
+      ],
+      "categoryIds": [
+        100005,
+        null,
+        706725
+      ],
+      "finalCategoryId": 706725,
+      "productId": 536
+    }
+  ],
+  "productIdsInArbo": [
+    536
+  ],
+  "matchedProductIds": [
+    536
+  ]
+}

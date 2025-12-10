@@ -1,0 +1,100 @@
+{
+  "productName": "Avertisseur de marche arrière",
+  "searchText": "Avertisseur de marche arrière",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T20:01:45.861Z",
+  "productId": 3778,
+  "arborescence": {
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Aide au stationnement/Alarme de marche arrière": {
+          "categoryId": null,
+          "categoryName": "Aide au stationnement/Alarme de marche arrière",
+          "level": 2,
+          "children": {
+            "Interrupteur, avertisseur de marche-arrière": {
+              "categoryId": 100618,
+              "categoryName": "park distance control/Back-up Alarm",
+              "level": 2,
+              "children": [],
+              "productId": 1770
+            }
+          }
+        },
+        "Moteur / Relais": {
+          "categoryId": null,
+          "categoryName": "Moteur / Relais",
+          "level": 2,
+          "children": {
+            "Interrupteur, avertisseur de marche-arrière": {
+              "categoryId": 104156,
+              "categoryName": "Motor/Relay/Switch",
+              "level": 2,
+              "children": {
+                "Aide au stationnement/Alarme de marche arrière": {
+                  "categoryId": null,
+                  "categoryName": "Aide au stationnement/Alarme de marche arrière",
+                  "level": 4,
+                  "children": {
+                    "Interrupteur, avertisseur de marche-arrière": {
+                      "categoryId": 104161,
+                      "categoryName": "park distance control/Back-up Alarm",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1770
+                    }
+                  }
+                }
+              },
+              "productId": 1770
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Systèmes de confort [ID: 100335] (Niveau 1)\n    ├── Aide au stationnement/Alarme de marche arrière (Niveau 2)\n    │   └── park distance control/Back-up Alarm [ID: 100618] (Niveau 2) → ProductId: 1770\n    └── Moteur / Relais (Niveau 2)\n        └── Motor/Relay/Switch [ID: 104156] (Niveau 2) → ProductId: 1770\n            └── Aide au stationnement/Alarme de marche arrière (Niveau 4)\n                └── park distance control/Back-up Alarm [ID: 104161] (Niveau 3) → ProductId: 1770",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Systèmes de confort",
+        "Aide au stationnement/Alarme de marche arrière",
+        "park distance control/Back-up Alarm"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        100618
+      ],
+      "finalCategoryId": 100618,
+      "productId": 1770
+    },
+    {
+      "path": [
+        "Systèmes de confort",
+        "Moteur / Relais",
+        "Motor/Relay/Switch"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        104156
+      ],
+      "finalCategoryId": 104156,
+      "productId": 1770
+    }
+  ],
+  "productIdsInArbo": [
+    1770
+  ],
+  "closestProductIds": [
+    {
+      "productId": 1770,
+      "productName": "Interrupteur, avertisseur de marche-arrière"
+    }
+  ]
+}

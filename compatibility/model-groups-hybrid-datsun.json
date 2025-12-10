@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.233Z",
+  "manufacturer": "DATSUN",
+  "countGroups": 5,
+  "groups": [
+    {
+      "manufacturerId": 807,
+      "manufacturerName": "DATSUN",
+      "groupKey": "CROSS",
+      "displayName": "CROSS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38486,
+          "modelName": "CROSS",
+          "modelYearFrom": "2018-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 807,
+      "manufacturerName": "DATSUN",
+      "groupKey": "GO",
+      "displayName": "GO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11906,
+          "modelName": "GO",
+          "modelYearFrom": "2014-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13857,
+          "modelName": "GO+",
+          "modelYearFrom": "2014-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 807,
+      "manufacturerName": "DATSUN",
+      "groupKey": "MI",
+      "displayName": "MI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14188,
+          "modelName": "mi-DO",
+          "modelYearFrom": "2014-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 807,
+      "manufacturerName": "DATSUN",
+      "groupKey": "ON",
+      "displayName": "ON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14187,
+          "modelName": "on-DO",
+          "modelYearFrom": "2014-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 807,
+      "manufacturerName": "DATSUN",
+      "groupKey": "REDI",
+      "displayName": "REDI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38194,
+          "modelName": "REDI-GO",
+          "modelYearFrom": "2016-03-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

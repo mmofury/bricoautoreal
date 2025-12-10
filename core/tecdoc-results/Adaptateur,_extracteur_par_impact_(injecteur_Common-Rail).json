@@ -1,0 +1,72 @@
+{
+  "productName": "Adaptateur, extracteur par impact (injecteur Common-Rail)",
+  "searchText": "Adaptateur, extracteur par impact (injecteur Common-Rail)",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T18:48:26.537Z",
+  "productId": 6983,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Adaptateur, extracteur par impact (injecteur Common-Rail)": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Outils": {
+                  "categoryId": null,
+                  "categoryName": "Outils",
+                  "level": 4,
+                  "children": {
+                    "Adaptateur, extracteur par impact (injecteur Common-Rail)": {
+                      "categoryId": 103150,
+                      "categoryName": "Tools",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8781
+                    }
+                  }
+                }
+              },
+              "productId": 8781
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carburation [ID: 100254] (Niveau 1)\n    └── Mélange air-carburant (Niveau 2)\n        └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 8781\n            └── Outils (Niveau 4)\n                └── Tools [ID: 103150] (Niveau 3) → ProductId: 8781",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 8781
+    }
+  ],
+  "productIdsInArbo": [
+    8781
+  ],
+  "closestProductIds": [
+    {
+      "productId": 8781,
+      "productName": "Adaptateur, extracteur par impact (injecteur Common-Rail)"
+    }
+  ]
+}

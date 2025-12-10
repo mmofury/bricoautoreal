@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.167Z",
+  "manufacturer": "AUDI (SAIC)",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 6400,
+      "manufacturerName": "AUDI (SAIC)",
+      "groupKey": "A7L",
+      "displayName": "A7L",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42622,
+          "modelName": "A7L (498)",
+          "modelYearFrom": "2022-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6400,
+      "manufacturerName": "AUDI (SAIC)",
+      "groupKey": "Q5",
+      "displayName": "Q5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42706,
+          "modelName": "Q5 (G4I)",
+          "modelYearFrom": "2022-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6400,
+      "manufacturerName": "AUDI (SAIC)",
+      "groupKey": "Q6",
+      "displayName": "Q6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43572,
+          "modelName": "Q6 (G6I)",
+          "modelYearFrom": "2022-09-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

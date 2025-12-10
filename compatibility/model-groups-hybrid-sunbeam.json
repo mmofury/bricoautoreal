@@ -1,0 +1,76 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.500Z",
+  "manufacturer": "SUNBEAM",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 2716,
+      "manufacturerName": "SUNBEAM",
+      "groupKey": "ALPINE",
+      "displayName": "ALPINE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37131,
+          "modelName": "ALPINE I / II / III Décapotable",
+          "modelYearFrom": "1959-01-01",
+          "modelYearTo": "1964-02-01"
+        },
+        {
+          "modelId": 37132,
+          "modelName": "ALPINE IV / V Décapotable",
+          "modelYearFrom": "1964-03-01",
+          "modelYearTo": "1968-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2716,
+      "manufacturerName": "SUNBEAM",
+      "groupKey": "RAPIER",
+      "displayName": "RAPIER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37865,
+          "modelName": "RAPIER III / IIIA Décapotable",
+          "modelYearFrom": "1959-09-01",
+          "modelYearTo": "1963-10-01"
+        },
+        {
+          "modelId": 37981,
+          "modelName": "RAPIER A trois volumes",
+          "modelYearFrom": "1955-01-01",
+          "modelYearTo": "1958-12-01"
+        },
+        {
+          "modelId": 37989,
+          "modelName": "RAPIER Coupé",
+          "modelYearFrom": "1965-01-01",
+          "modelYearTo": "1967-12-01"
+        },
+        {
+          "modelId": 38007,
+          "modelName": "RAPIER A trois volumes",
+          "modelYearFrom": "1958-02-01",
+          "modelYearTo": "1961-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2716,
+      "manufacturerName": "SUNBEAM",
+      "groupKey": "TIGER",
+      "displayName": "TIGER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33968,
+          "modelName": "TIGER Décapotable",
+          "modelYearFrom": "1963-09-01",
+          "modelYearTo": "1967-12-01"
+        }
+      ]
+    }
+  ]
+}

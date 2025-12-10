@@ -1,0 +1,54 @@
+{
+  "productName": "Kit d'outil de déverrouillage, Tuyauterie de carburant",
+  "searchText": "Kit d'outil de déverrouillage, Tuyauterie de carburant",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:07:57.768Z",
+  "productId": 4505,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Kit d'outil de déverrouillage, Tuyauterie de carburant": {
+              "categoryId": 103148,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4505
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Alimentation carburant [ID: 100214] (Niveau 1)\n    └── Outils (Niveau 2)\n        └── Tools [ID: 103148] (Niveau 2) → ProductId: 4505",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        103148
+      ],
+      "finalCategoryId": 103148,
+      "productId": 4505
+    }
+  ],
+  "productIdsInArbo": [
+    4505
+  ],
+  "matchedProductIds": [
+    4505
+  ]
+}

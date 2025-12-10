@@ -1,0 +1,54 @@
+{
+  "productName": "Moteur électrique, pulseur d'air habitacle",
+  "searchText": "Moteur électrique, pulseur d'air habitacle",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:15:58.636Z",
+  "productId": 793,
+  "arborescence": {
+    "Chauffage / Ventilation": {
+      "categoryId": 100241,
+      "categoryName": "Chauffage / Ventilation",
+      "level": 1,
+      "children": {
+        "Pulseur d'air habitacle composants": {
+          "categoryId": null,
+          "categoryName": "Pulseur d'air habitacle composants",
+          "level": 2,
+          "children": {
+            "Moteur électrique, pulseur d'air habitacle": {
+              "categoryId": 100349,
+              "categoryName": "Blower/Parts",
+              "level": 2,
+              "children": [],
+              "productId": 793
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Chauffage / Ventilation [ID: 100241] (Niveau 1)\n    └── Pulseur d'air habitacle composants (Niveau 2)\n        └── Blower/Parts [ID: 100349] (Niveau 2) → ProductId: 793",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Chauffage / Ventilation",
+        "Pulseur d'air habitacle composants",
+        "Blower/Parts"
+      ],
+      "categoryIds": [
+        100241,
+        null,
+        100349
+      ],
+      "finalCategoryId": 100349,
+      "productId": 793
+    }
+  ],
+  "productIdsInArbo": [
+    793
+  ],
+  "matchedProductIds": [
+    793
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "productName": "Antigel",
+  "searchText": "Antigel",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T18:54:42.668Z",
+  "productId": 1602,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Additifs": {
+          "categoryId": null,
+          "categoryName": "Additifs",
+          "level": 2,
+          "children": {
+            "Additif au carburant": {
+              "categoryId": 706479,
+              "categoryName": "Additive",
+              "level": 2,
+              "children": [],
+              "productId": 9797
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Carter de vilebrequin": {
+          "categoryId": null,
+          "categoryName": "Carter de vilebrequin",
+          "level": 2,
+          "children": {
+            "Kit de bouchons antigel": {
+              "categoryId": 100514,
+              "categoryName": "Crankcase",
+              "level": 2,
+              "children": {
+                "Carter de vilebrequin": {
+                  "categoryId": null,
+                  "categoryName": "Carter de vilebrequin",
+                  "level": 4,
+                  "children": {
+                    "Kit de bouchons antigel": {
+                      "categoryId": 100533,
+                      "categoryName": "Crankcase",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8232
+                    }
+                  }
+                }
+              },
+              "productId": 8232
+            }
+          }
+        }
+      }
+    },
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Antigel": {
+          "categoryId": null,
+          "categoryName": "Antigel",
+          "level": 2,
+          "children": {
+            "Antigel": {
+              "categoryId": 102205,
+              "categoryName": "Antifreeze",
+              "level": 2,
+              "children": [],
+              "productId": 3356
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Alimentation carburant [ID: 100214] (Niveau 1)\n│   └── Additifs (Niveau 2)\n│       └── Additive [ID: 706479] (Niveau 2) → ProductId: 9797\n\n├── Moteur [ID: 100002] (Niveau 1)\n│   └── Carter de vilebrequin (Niveau 2)\n│       └── Crankcase [ID: 100514] (Niveau 2) → ProductId: 8232\n│           └── Carter de vilebrequin (Niveau 4)\n│               └── Crankcase [ID: 100533] (Niveau 3) → ProductId: 8232\n\n└── Refroidissement [ID: 100007] (Niveau 1)\n    └── Antigel (Niveau 2)\n        └── Antifreeze [ID: 102205] (Niveau 2) → ProductId: 3356",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Additifs",
+        "Additive"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        706479
+      ],
+      "finalCategoryId": 706479,
+      "productId": 9797
+    },
+    {
+      "path": [
+        "Moteur",
+        "Carter de vilebrequin",
+        "Crankcase"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100514
+      ],
+      "finalCategoryId": 100514,
+      "productId": 8232
+    },
+    {
+      "path": [
+        "Refroidissement",
+        "Antigel",
+        "Antifreeze"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        102205
+      ],
+      "finalCategoryId": 102205,
+      "productId": 3356
+    }
+  ],
+  "productIdsInArbo": [
+    3356,
+    8232,
+    9797
+  ],
+  "closestProductIds": [
+    {
+      "productId": 3356,
+      "productName": "Antigel"
+    },
+    {
+      "productId": 8232,
+      "productName": "Kit de bouchons antigel"
+    },
+    {
+      "productId": 9797,
+      "productName": "Additif au carburant"
+    }
+  ]
+}

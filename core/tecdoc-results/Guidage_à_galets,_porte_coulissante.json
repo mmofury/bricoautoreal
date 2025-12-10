@@ -1,0 +1,112 @@
+{
+  "productName": "Guidage à galets, porte coulissante",
+  "searchText": "Guidage à galets, porte coulissante",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:44:08.758Z",
+  "productId": 3846,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Habitacle": {
+          "categoryId": null,
+          "categoryName": "Habitacle",
+          "level": 2,
+          "children": {
+            "Guidage à galets, porte coulissante": {
+              "categoryId": 101690,
+              "categoryName": "Passenger Cabin",
+              "level": 2,
+              "children": {
+                "Portière avant/composants": {
+                  "categoryId": null,
+                  "categoryName": "Portière avant/composants",
+                  "level": 4,
+                  "children": {
+                    "Guidage à galets, porte coulissante": {
+                      "categoryId": 101694,
+                      "categoryName": "Doors/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3846
+                    }
+                  }
+                }
+              },
+              "productId": 3846
+            }
+          }
+        },
+        "Trappes/capots/portes/toit coul./toit panoram./toit pliant": {
+          "categoryId": null,
+          "categoryName": "Trappes/capots/portes/toit coul./toit panoram./toit pliant",
+          "level": 2,
+          "children": {
+            "Guidage à galets, porte coulissante": {
+              "categoryId": 100746,
+              "categoryName": "Hatches/Bonnets/Doors/Sunroof/Panoramic Roof",
+              "level": 2,
+              "children": {
+                "Portière avant/composants": {
+                  "categoryId": null,
+                  "categoryName": "Portière avant/composants",
+                  "level": 4,
+                  "children": {
+                    "Guidage à galets, porte coulissante": {
+                      "categoryId": 100189,
+                      "categoryName": "Doors/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3846
+                    }
+                  }
+                }
+              },
+              "productId": 3846
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    ├── Habitacle (Niveau 2)\n    │   └── Passenger Cabin [ID: 101690] (Niveau 2) → ProductId: 3846\n    │       └── Portière avant/composants (Niveau 4)\n    │           └── Doors/Parts [ID: 101694] (Niveau 3) → ProductId: 3846\n    └── Trappes/capots/portes/toit coul./toit panoram./toit pliant (Niveau 2)\n        └── Hatches/Bonnets/Doors/Sunroof/Panoramic Roof [ID: 100746] (Niveau 2) → ProductId: 3846\n            └── Portière avant/composants (Niveau 4)\n                └── Doors/Parts [ID: 100189] (Niveau 3) → ProductId: 3846",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Habitacle",
+        "Passenger Cabin"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101690
+      ],
+      "finalCategoryId": 101690,
+      "productId": 3846
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Trappes/capots/portes/toit coul./toit panoram./toit pliant",
+        "Hatches/Bonnets/Doors/Sunroof/Panoramic Roof"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100746
+      ],
+      "finalCategoryId": 100746,
+      "productId": 3846
+    }
+  ],
+  "productIdsInArbo": [
+    3846
+  ],
+  "matchedProductIds": [
+    3846
+  ]
+}

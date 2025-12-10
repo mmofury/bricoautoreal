@@ -1,0 +1,49 @@
+{
+  "productName": "Aide à la marche arrière",
+  "productId": 8839,
+  "searchText": "Aide à la marche arrière",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Systèmes de confort": {
+          "categoryId": 200987,
+          "categoryName": "Systèmes de confort",
+          "level": 1,
+          "children": {
+            "Aide à la marche arrière": {
+              "categoryId": null,
+              "categoryName": "Aide à la marche arrière",
+              "level": 2,
+              "children": {
+                "Aide à la marche arrière": {
+                  "categoryId": 706316,
+                  "categoryName": "Reversing Aid",
+                  "level": 2,
+                  "children": [],
+                  "productId": 8839
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Systèmes de confort [ID: 200987] (Niveau 1)\n    └── Aide à la marche arrière (Niveau 2)\n        └── Reversing Aid [ID: 706316] (Niveau 2) → ProductId: 8839",
+      "productIdsInArbo": [
+        8839
+      ],
+      "matchedProductIds": [
+        8839
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T09:38:28.549Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.554Z",
+  "manufacturer": "ZASTAVA",
+  "countGroups": 7,
+  "groups": [
+    {
+      "manufacturerId": 124,
+      "manufacturerName": "ZASTAVA",
+      "groupKey": "10",
+      "displayName": "10",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8381,
+          "modelName": "10",
+          "modelYearFrom": "2005-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 124,
+      "manufacturerName": "ZASTAVA",
+      "groupKey": "101",
+      "displayName": "101",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 143,
+          "modelName": "101",
+          "modelYearFrom": "1972-06-01",
+          "modelYearTo": "1993-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 124,
+      "manufacturerName": "ZASTAVA",
+      "groupKey": "750",
+      "displayName": "750",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9121,
+          "modelName": "750",
+          "modelYearFrom": "1964-01-01",
+          "modelYearTo": "1985-11-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 124,
+      "manufacturerName": "ZASTAVA",
+      "groupKey": "KORAL",
+      "displayName": "KORAL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10214,
+          "modelName": "KORAL",
+          "modelYearFrom": "2002-10-01",
+          "modelYearTo": "2008-11-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 124,
+      "manufacturerName": "ZASTAVA",
+      "groupKey": "RIVAL",
+      "displayName": "RIVAL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37485,
+          "modelName": "RIVAL Autobus/Autocar",
+          "modelYearFrom": "1986-09-01",
+          "modelYearTo": "2001-06-01"
+        },
+        {
+          "modelId": 37486,
+          "modelName": "RIVAL Fourgon",
+          "modelYearFrom": "1986-09-01",
+          "modelYearTo": "2001-06-01"
+        },
+        {
+          "modelId": 37488,
+          "modelName": "RIVAL Camion plate-forme/Châssis",
+          "modelYearFrom": "1986-09-01",
+          "modelYearTo": "2001-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 124,
+      "manufacturerName": "ZASTAVA",
+      "groupKey": "SKALA",
+      "displayName": "SKALA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37483,
+          "modelName": "SKALA",
+          "modelYearFrom": "1980-02-01",
+          "modelYearTo": "2010-11-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 124,
+      "manufacturerName": "ZASTAVA",
+      "groupKey": "YUGO",
+      "displayName": "YUGO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 148,
+          "modelName": "YUGO",
+          "modelYearFrom": "1980-04-01",
+          "modelYearTo": "1995-06-01"
+        },
+        {
+          "modelId": 4535,
+          "modelName": "YUGO FLORIDA",
+          "modelYearFrom": "1988-10-01",
+          "modelYearTo": "2008-11-01"
+        },
+        {
+          "modelId": 39050,
+          "modelName": "YUGO TEMPO",
+          "modelYearFrom": "2000-04-01",
+          "modelYearTo": "2008-11-01"
+        }
+      ]
+    }
+  ]
+}

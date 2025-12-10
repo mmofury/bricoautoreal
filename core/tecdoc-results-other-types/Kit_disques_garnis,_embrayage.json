@@ -1,0 +1,69 @@
+{
+  "productName": "Kit disques garnis, embrayage",
+  "productId": 5359,
+  "searchText": "Kit disques garnis, embrayage",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 3,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Moto": {
+          "categoryId": 103671,
+          "categoryName": "Moto",
+          "level": 1,
+          "children": {
+            "Embrayage / composants": {
+              "categoryId": null,
+              "categoryName": "Embrayage / composants",
+              "level": 2,
+              "children": {
+                "Kit disques garnis, embrayage": {
+                  "categoryId": 103712,
+                  "categoryName": "Clutch/Attachment Parts",
+                  "level": 2,
+                  "children": {
+                    "Disques garnis": {
+                      "categoryId": null,
+                      "categoryName": "Disques garnis",
+                      "level": 4,
+                      "children": {
+                        "Kit disques garnis, embrayage": {
+                          "categoryId": 103713,
+                          "categoryName": "Lining Discs",
+                          "level": 3,
+                          "children": [],
+                          "productId": 5359
+                        }
+                      }
+                    }
+                  },
+                  "productId": 5359
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Moto [ID: 103671] (Niveau 1)\n    └── Embrayage / composants (Niveau 2)\n        └── Clutch/Attachment Parts [ID: 103712] (Niveau 2) → ProductId: 5359\n            └── Disques garnis (Niveau 4)\n                └── Lining Discs [ID: 103713] (Niveau 3) → ProductId: 5359",
+      "productIdsInArbo": [
+        5359
+      ],
+      "matchedProductIds": [
+        5359
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:47:51.499Z",
+  "bestMatch": {
+    "typeId": 3,
+    "found": true,
+    "hasMatch": true
+  }
+}

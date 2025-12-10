@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G0KL4X",
+      "index": "03.9302-9105.3",
+      "tecDoc": "03.9302-9105.3",
+      "tecDocProd": "3",
+      "articleNumber": "03.9302-9105.3",
+      "brand": "ATE",
+      "shortDescription": "Devices for working fluids and fuels",
+      "description": "ATE",
+      "packageWeight": "1,208",
+      "packageWidth": "17,000",
+      "packageDepth": "8,500",
+      "packageHeight": "66,000",
+      "customsCode": "90319000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_91773",
+          "primary": true,
+          "name": {
+            "en": "Devices for working fluids and fuels"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3660",
+          "primary": false,
+          "name": {
+            "en": "Suction Lance, filling/bleeding unit (brake hydraulics)"
+          }
+        }
+      ]
+    }
+  ]
+}

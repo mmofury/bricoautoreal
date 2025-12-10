@@ -1,0 +1,586 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.164Z",
+  "manufacturer": "ASTON MARTIN",
+  "countGroups": 27,
+  "groups": [
+    {
+      "manufacturerId": 881,
+      "manufacturerName": "ASTON MARTIN",
+      "groupKey": "CYGNET",
+      "displayName": "CYGNET",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9027,
+          "modelName": "CYGNET",
+          "modelYearFrom": "2011-04-01",
+          "modelYearTo": "2013-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 881,
+      "manufacturerName": "ASTON MARTIN",
+      "groupKey": "DB",
+      "displayName": "DB",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30083,
+          "modelName": "DB MKIII",
+          "modelYearFrom": "1956-09-01",
+          "modelYearTo": "1959-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 881,
+      "manufacturerName": "ASTON MARTIN",
+      "groupKey": "DB11",
+      "displayName": "DB11",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36380,
+          "modelName": "DB11 Vantage",
+          "modelYearFrom": "2016-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38323,
+          "modelName": "DB11 Volante",
+          "modelYearFrom": "2017-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 881,
+      "manufacturerName": "ASTON MARTIN",
+      "groupKey": "DB12",
+      "displayName": "DB12",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44427,
+          "modelName": "DB12 Coupé",
+          "modelYearFrom": "2023-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44718,
+          "modelName": "DB12 Volante",
+          "modelYearFrom": "2023-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 881,
+      "manufacturerName": "ASTON MARTIN",
+      "groupKey": "DB2",
+      "displayName": "DB2",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30085,
+          "modelName": "DB2",
+          "modelYearFrom": "1949-09-01",
+          "modelYearTo": "1953-12-01"
+        },
+        {
+          "modelId": 30086,
+          "modelName": "DB2-4",
+          "modelYearFrom": "1952-09-01",
+          "modelYearTo": "1957-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 881,
+      "manufacturerName": "ASTON MARTIN",
+      "groupKey": "DB3",
+      "displayName": "DB3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30087,
+          "modelName": "DB3",
+          "modelYearFrom": "1950-09-01",
+          "modelYearTo": "1956-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 881,
+      "manufacturerName": "ASTON MARTIN",
+      "groupKey": "DB4",
+      "displayName": "DB4",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30088,
+          "modelName": "DB4",
+          "modelYearFrom": "1961-09-01",
+          "modelYearTo": "1963-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 881,
+      "manufacturerName": "ASTON MARTIN",
+      "groupKey": "DB5",
+      "displayName": "DB5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30089,
+          "modelName": "DB5",
+          "modelYearFrom": "1962-09-01",
+          "modelYearTo": "1965-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 881,
+      "manufacturerName": "ASTON MARTIN",
+      "groupKey": "DB6",
+      "displayName": "DB6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1944,
+          "modelName": "DB6 Vantage",
+          "modelYearFrom": "1964-10-01",
+          "modelYearTo": "1970-12-01"
+        },
+        {
+          "modelId": 1945,
+          "modelName": "DB6 Volante",
+          "modelYearFrom": "1964-10-01",
+          "modelYearTo": "1970-12-01"
+        },
+        {
+          "modelId": 30090,
+          "modelName": "DB6",
+          "modelYearFrom": "1964-09-01",
+          "modelYearTo": "1970-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 881,
+      "manufacturerName": "ASTON MARTIN",
+      "groupKey": "DB7",
+      "displayName": "DB7",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1958,
+          "modelName": "DB7 Vantage",
+          "modelYearFrom": "1994-01-01",
+          "modelYearTo": "2003-10-01"
+        },
+        {
+          "modelId": 1959,
+          "modelName": "DB7 Volante",
+          "modelYearFrom": "1995-11-01",
+          "modelYearTo": "2003-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 881,
+      "manufacturerName": "ASTON MARTIN",
+      "groupKey": "DB9",
+      "displayName": "DB9",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5091,
+          "modelName": "DB9 Vantage",
+          "modelYearFrom": "2004-01-01",
+          "modelYearTo": "2016-10-01"
+        },
+        {
+          "modelId": 5092,
+          "modelName": "DB9 Volante",
+          "modelYearFrom": "2004-04-01",
+          "modelYearTo": "2016-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 881,
+      "manufacturerName": "ASTON MARTIN",
+      "groupKey": "DBS",
+      "displayName": "DBS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1946,
+          "modelName": "DBS Vantage",
+          "modelYearFrom": "1966-01-01",
+          "modelYearTo": "1972-12-01"
+        },
+        {
+          "modelId": 8926,
+          "modelName": "DBS Vantage",
+          "modelYearFrom": "2007-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 8928,
+          "modelName": "DBS Volante",
+          "modelYearFrom": "2007-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 30096,
+          "modelName": "DBS",
+          "modelYearFrom": "1966-09-01",
+          "modelYearTo": "1971-12-01"
+        },
+        {
+          "modelId": 39224,
+          "modelName": "DBS Coupé",
+          "modelYearFrom": "2018-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39592,
+          "modelName": "DBS Volante",
+          "modelYearFrom": "2019-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 881,
+      "manufacturerName": "ASTON MARTIN",
+      "groupKey": "DBX",
+      "displayName": "DBX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40521,
+          "modelName": "DBX",
+          "modelYearFrom": "2019-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 881,
+      "manufacturerName": "ASTON MARTIN",
+      "groupKey": "LAGONDA",
+      "displayName": "LAGONDA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1947,
+          "modelName": "LAGONDA I",
+          "modelYearFrom": "1976-01-01",
+          "modelYearTo": "1997-12-01"
+        },
+        {
+          "modelId": 1948,
+          "modelName": "LAGONDA I Shooting Brake",
+          "modelYearFrom": "1976-01-01",
+          "modelYearTo": "1997-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 881,
+      "manufacturerName": "ASTON MARTIN",
+      "groupKey": "ONE",
+      "displayName": "ONE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9542,
+          "modelName": "ONE-77",
+          "modelYearFrom": "2010-06-01",
+          "modelYearTo": "2012-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 881,
+      "manufacturerName": "ASTON MARTIN",
+      "groupKey": "RAPIDE",
+      "displayName": "RAPIDE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8544,
+          "modelName": "RAPIDE",
+          "modelYearFrom": "2010-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 881,
+      "manufacturerName": "ASTON MARTIN",
+      "groupKey": "TICKFORD",
+      "displayName": "TICKFORD",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1949,
+          "modelName": "TICKFORD CAPRI",
+          "modelYearFrom": "1982-01-01",
+          "modelYearTo": "1985-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 881,
+      "manufacturerName": "ASTON MARTIN",
+      "groupKey": "V12",
+      "displayName": "V12",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42781,
+          "modelName": "V12 Speedster",
+          "modelYearFrom": "2021-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 881,
+      "manufacturerName": "ASTON MARTIN",
+      "groupKey": "V8",
+      "displayName": "V8",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1950,
+          "modelName": "V8 Vantage",
+          "modelYearFrom": "1969-01-01",
+          "modelYearTo": "1993-02-01"
+        },
+        {
+          "modelId": 1951,
+          "modelName": "V8 Volante",
+          "modelYearFrom": "1978-01-01",
+          "modelYearTo": "1989-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 881,
+      "manufacturerName": "ASTON MARTIN",
+      "groupKey": "VALHALLA",
+      "displayName": "VALHALLA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45503,
+          "modelName": "VALHALLA",
+          "modelYearFrom": "2024-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 881,
+      "manufacturerName": "ASTON MARTIN",
+      "groupKey": "VALIANT",
+      "displayName": "VALIANT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45707,
+          "modelName": "VALIANT",
+          "modelYearFrom": "2024-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 881,
+      "manufacturerName": "ASTON MARTIN",
+      "groupKey": "VALKYRIE",
+      "displayName": "VALKYRIE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45367,
+          "modelName": "VALKYRIE",
+          "modelYearFrom": "2021-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 881,
+      "manufacturerName": "ASTON MARTIN",
+      "groupKey": "VALOUR",
+      "displayName": "VALOUR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45053,
+          "modelName": "VALOUR",
+          "modelYearFrom": "2023-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 881,
+      "manufacturerName": "ASTON MARTIN",
+      "groupKey": "VANQUISH",
+      "displayName": "VANQUISH",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4799,
+          "modelName": "VANQUISH Vantage",
+          "modelYearFrom": "2001-05-01",
+          "modelYearTo": "2007-08-01"
+        },
+        {
+          "modelId": 10732,
+          "modelName": "VANQUISH Vantage",
+          "modelYearFrom": "2012-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11586,
+          "modelName": "VANQUISH Volante",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45878,
+          "modelName": "VANQUISH",
+          "modelYearFrom": "2024-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 881,
+      "manufacturerName": "ASTON MARTIN",
+      "groupKey": "VANTAGE",
+      "displayName": "VANTAGE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6393,
+          "modelName": "VANTAGE Vantage",
+          "modelYearFrom": "2005-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 6394,
+          "modelName": "VANTAGE Volante",
+          "modelYearFrom": "2007-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38324,
+          "modelName": "VANTAGE Coupé",
+          "modelYearFrom": "2017-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40547,
+          "modelName": "VANTAGE Roadster",
+          "modelYearFrom": "2020-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 881,
+      "manufacturerName": "ASTON MARTIN",
+      "groupKey": "VIRAGE",
+      "displayName": "VIRAGE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1954,
+          "modelName": "VIRAGE Vantage",
+          "modelYearFrom": "1987-04-01",
+          "modelYearTo": "1992-12-01"
+        },
+        {
+          "modelId": 1955,
+          "modelName": "VIRAGE Shooting Brake",
+          "modelYearFrom": "1993-01-01",
+          "modelYearTo": "1995-12-01"
+        },
+        {
+          "modelId": 1956,
+          "modelName": "VIRAGE Saloon",
+          "modelYearFrom": "1994-01-01",
+          "modelYearTo": "1995-12-01"
+        },
+        {
+          "modelId": 1957,
+          "modelName": "VIRAGE Limited Edition Vantage",
+          "modelYearFrom": "1995-01-01",
+          "modelYearTo": "1995-12-01"
+        },
+        {
+          "modelId": 3914,
+          "modelName": "VIRAGE Volante",
+          "modelYearFrom": "1990-09-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 3956,
+          "modelName": "VIRAGE Vantage",
+          "modelYearFrom": "1992-10-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 9540,
+          "modelName": "VIRAGE Vantage",
+          "modelYearFrom": "2011-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 9541,
+          "modelName": "VIRAGE Volante",
+          "modelYearFrom": "2011-02-01",
+          "modelYearTo": "2014-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 881,
+      "manufacturerName": "ASTON MARTIN",
+      "groupKey": "ZAGATO",
+      "displayName": "ZAGATO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1952,
+          "modelName": "ZAGATO Vantage",
+          "modelYearFrom": "1986-01-01",
+          "modelYearTo": "1989-12-01"
+        },
+        {
+          "modelId": 1953,
+          "modelName": "ZAGATO Volante",
+          "modelYearFrom": "1986-01-01",
+          "modelYearTo": "1989-12-01"
+        },
+        {
+          "modelId": 10197,
+          "modelName": "ZAGATO Vantage",
+          "modelYearFrom": "2012-05-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

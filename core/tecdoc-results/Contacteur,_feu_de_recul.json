@@ -1,0 +1,69 @@
+{
+  "productName": "Contacteur, feu de recul",
+  "searchText": "Contacteur, feu de recul",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:24:35.951Z",
+  "productId": 807,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Interrupteur/Relais/Contrôle clignotant/Appareil d.commande": {
+          "categoryId": null,
+          "categoryName": "Interrupteur/Relais/Contrôle clignotant/Appareil d.commande",
+          "level": 2,
+          "children": {
+            "Contacteur, feu de recul": {
+              "categoryId": 100307,
+              "categoryName": "Light Switches/Relays/Controls",
+              "level": 2,
+              "children": {
+                "Interrupteur / régulateur": {
+                  "categoryId": null,
+                  "categoryName": "Interrupteur / régulateur",
+                  "level": 4,
+                  "children": {
+                    "Contacteur, feu de recul": {
+                      "categoryId": 100509,
+                      "categoryName": "Light Switch/ Lever",
+                      "level": 3,
+                      "children": [],
+                      "productId": 807
+                    }
+                  }
+                }
+              },
+              "productId": 807
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Interrupteur/Relais/Contrôle clignotant/Appareil d.commande (Niveau 2)\n        └── Light Switches/Relays/Controls [ID: 100307] (Niveau 2) → ProductId: 807\n            └── Interrupteur / régulateur (Niveau 4)\n                └── Light Switch/ Lever [ID: 100509] (Niveau 3) → ProductId: 807",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Interrupteur/Relais/Contrôle clignotant/Appareil d.commande",
+        "Light Switches/Relays/Controls"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100307
+      ],
+      "finalCategoryId": 100307,
+      "productId": 807
+    }
+  ],
+  "productIdsInArbo": [
+    807
+  ],
+  "matchedProductIds": [
+    807
+  ]
+}

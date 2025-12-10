@@ -1,0 +1,76 @@
+{
+  "productName": "Tuyau de carburant",
+  "searchText": "Tuyau de carburant",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:28:26.428Z",
+  "productId": 609,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Tuyauterie": {
+          "categoryId": null,
+          "categoryName": "Tuyauterie",
+          "level": 2,
+          "children": {
+            "Raccord de tuyau, tuyau de carburant": {
+              "categoryId": 100258,
+              "categoryName": "Fuel Lines",
+              "level": 2,
+              "children": [],
+              "productId": 612
+            },
+            "Tuyau de carburant": {
+              "categoryId": 100258,
+              "categoryName": "Fuel Lines",
+              "level": 2,
+              "children": [],
+              "productId": 609
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Alimentation carburant [ID: 100214] (Niveau 1)\n    └── Tuyauterie (Niveau 2)\n        ├── Fuel Lines [ID: 100258] (Niveau 2) → ProductId: 612\n        └── Fuel Lines [ID: 100258] (Niveau 2) → ProductId: 609",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Tuyauterie",
+        "Fuel Lines"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100258
+      ],
+      "finalCategoryId": 100258,
+      "productId": 612
+    },
+    {
+      "path": [
+        "Alimentation carburant",
+        "Tuyauterie",
+        "Fuel Lines"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100258
+      ],
+      "finalCategoryId": 100258,
+      "productId": 609
+    }
+  ],
+  "productIdsInArbo": [
+    609,
+    612
+  ],
+  "matchedProductIds": [
+    609
+  ]
+}

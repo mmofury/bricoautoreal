@@ -1,0 +1,83 @@
+{
+  "productName": "Régulateur, quantité de carburant (système à rampe commune)",
+  "searchText": "Régulateur, quantité de carburant (système à rampe commune)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:14:11.412Z",
+  "productId": 5655,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Régulateur, quantité de carburant (système à rampe commune)": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Pompe à injection/pompe à haute pression": {
+                  "categoryId": null,
+                  "categoryName": "Pompe à injection/pompe à haute pression",
+                  "level": 4,
+                  "children": {
+                    "Régulateur, quantité de carburant (système à rampe commune)": {
+                      "categoryId": 102803,
+                      "categoryName": "Fuel Injection Pump/High Pressure Pump",
+                      "level": 3,
+                      "children": [],
+                      "productId": 5655
+                    }
+                  }
+                },
+                "Soupapes/Bloc de soupapes": {
+                  "categoryId": null,
+                  "categoryName": "Soupapes/Bloc de soupapes",
+                  "level": 4,
+                  "children": {
+                    "Régulateur, quantité de carburant (système à rampe commune)": {
+                      "categoryId": 102811,
+                      "categoryName": "Valves/Valve Unit",
+                      "level": 3,
+                      "children": [],
+                      "productId": 5655
+                    }
+                  }
+                }
+              },
+              "productId": 5655
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carburation [ID: 100254] (Niveau 1)\n    └── Mélange air-carburant (Niveau 2)\n        └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 5655\n            ├── Pompe à injection/pompe à haute pression (Niveau 4)\n            │   └── Fuel Injection Pump/High Pressure Pump [ID: 102803] (Niveau 3) → ProductId: 5655\n            └── Soupapes/Bloc de soupapes (Niveau 4)\n                └── Valves/Valve Unit [ID: 102811] (Niveau 3) → ProductId: 5655",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 5655
+    }
+  ],
+  "productIdsInArbo": [
+    5655
+  ],
+  "matchedProductIds": [
+    5655
+  ]
+}

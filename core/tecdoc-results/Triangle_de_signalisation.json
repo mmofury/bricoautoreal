@@ -1,0 +1,124 @@
+{
+  "productName": "Triangle de signalisation",
+  "searchText": "Triangle de signalisation",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:27:20.600Z",
+  "productId": 995,
+  "arborescence": {
+    "Accessoires": {
+      "categoryId": 100733,
+      "categoryName": "Accessoires",
+      "level": 1,
+      "children": {
+        "Triangle de signalisation": {
+          "categoryId": null,
+          "categoryName": "Triangle de signalisation",
+          "level": 2,
+          "children": {
+            "Triangle de signalisation": {
+              "categoryId": 100858,
+              "categoryName": "Warning Triangle",
+              "level": 2,
+              "children": [],
+              "productId": 995
+            }
+          }
+        }
+      }
+    },
+    "Équipement intérieur": {
+      "categoryId": 100341,
+      "categoryName": "Équipement intérieur",
+      "level": 1,
+      "children": {
+        "Accessoires": {
+          "categoryId": null,
+          "categoryName": "Accessoires",
+          "level": 2,
+          "children": {
+            "Triangle de signalisation": {
+              "categoryId": 100730,
+              "categoryName": "Accessories",
+              "level": 2,
+              "children": [],
+              "productId": 995
+            }
+          }
+        }
+      }
+    },
+    "Systèmes de sécurité": {
+      "categoryId": 100417,
+      "categoryName": "Systèmes de sécurité",
+      "level": 1,
+      "children": {
+        "Équipement pour alarme": {
+          "categoryId": null,
+          "categoryName": "Équipement pour alarme",
+          "level": 2,
+          "children": {
+            "Triangle de signalisation": {
+              "categoryId": 100420,
+              "categoryName": "Alarm Equipment",
+              "level": 2,
+              "children": [],
+              "productId": 995
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Accessoires [ID: 100733] (Niveau 1)\n│   └── Triangle de signalisation (Niveau 2)\n│       └── Warning Triangle [ID: 100858] (Niveau 2) → ProductId: 995\n\n├── Équipement intérieur [ID: 100341] (Niveau 1)\n│   └── Accessoires (Niveau 2)\n│       └── Accessories [ID: 100730] (Niveau 2) → ProductId: 995\n\n└── Systèmes de sécurité [ID: 100417] (Niveau 1)\n    └── Équipement pour alarme (Niveau 2)\n        └── Alarm Equipment [ID: 100420] (Niveau 2) → ProductId: 995",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Accessoires",
+        "Triangle de signalisation",
+        "Warning Triangle"
+      ],
+      "categoryIds": [
+        100733,
+        null,
+        100858
+      ],
+      "finalCategoryId": 100858,
+      "productId": 995
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Accessoires",
+        "Accessories"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        100730
+      ],
+      "finalCategoryId": 100730,
+      "productId": 995
+    },
+    {
+      "path": [
+        "Systèmes de sécurité",
+        "Équipement pour alarme",
+        "Alarm Equipment"
+      ],
+      "categoryIds": [
+        100417,
+        null,
+        100420
+      ],
+      "finalCategoryId": 100420,
+      "productId": 995
+    }
+  ],
+  "productIdsInArbo": [
+    995
+  ],
+  "matchedProductIds": [
+    995
+  ]
+}

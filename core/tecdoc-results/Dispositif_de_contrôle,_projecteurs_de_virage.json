@@ -1,0 +1,97 @@
+{
+  "productName": "Dispositif de contrôle, projecteurs de virage",
+  "searchText": "Dispositif de contrôle, projecteurs de virage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:31:46.274Z",
+  "productId": 3311,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Appareils de commande": {
+          "categoryId": null,
+          "categoryName": "Appareils de commande",
+          "level": 2,
+          "children": {
+            "Dispositif de contrôle, projecteurs de virage": {
+              "categoryId": 100727,
+              "categoryName": "Control Units",
+              "level": 2,
+              "children": [],
+              "productId": 3311
+            }
+          }
+        },
+        "Phares supplémentaires/composants": {
+          "categoryId": null,
+          "categoryName": "Phares supplémentaires/composants",
+          "level": 2,
+          "children": {
+            "Dispositif de contrôle, projecteurs de virage": {
+              "categoryId": 100787,
+              "categoryName": "Additional Headlight/Parts",
+              "level": 2,
+              "children": {
+                "Projecteurs de virage / composants": {
+                  "categoryId": null,
+                  "categoryName": "Projecteurs de virage / composants",
+                  "level": 4,
+                  "children": {
+                    "Dispositif de contrôle, projecteurs de virage": {
+                      "categoryId": 100869,
+                      "categoryName": "Dynamic Bending Light/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3311
+                    }
+                  }
+                }
+              },
+              "productId": 3311
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    ├── Appareils de commande (Niveau 2)\n    │   └── Control Units [ID: 100727] (Niveau 2) → ProductId: 3311\n    └── Phares supplémentaires/composants (Niveau 2)\n        └── Additional Headlight/Parts [ID: 100787] (Niveau 2) → ProductId: 3311\n            └── Projecteurs de virage / composants (Niveau 4)\n                └── Dynamic Bending Light/Parts [ID: 100869] (Niveau 3) → ProductId: 3311",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Appareils de commande",
+        "Control Units"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100727
+      ],
+      "finalCategoryId": 100727,
+      "productId": 3311
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Phares supplémentaires/composants",
+        "Additional Headlight/Parts"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100787
+      ],
+      "finalCategoryId": 100787,
+      "productId": 3311
+    }
+  ],
+  "productIdsInArbo": [
+    3311
+  ],
+  "matchedProductIds": [
+    3311
+  ]
+}

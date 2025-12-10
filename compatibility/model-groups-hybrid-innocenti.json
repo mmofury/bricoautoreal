@@ -1,0 +1,67 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.340Z",
+  "manufacturer": "INNOCENTI",
+  "countGroups": 4,
+  "groups": [
+    {
+      "manufacturerId": 52,
+      "manufacturerName": "INNOCENTI",
+      "groupKey": "ELBA",
+      "displayName": "ELBA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4824,
+          "modelName": "ELBA",
+          "modelYearFrom": "1991-08-01",
+          "modelYearTo": "1996-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 52,
+      "manufacturerName": "INNOCENTI",
+      "groupKey": "KORAL",
+      "displayName": "KORAL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4825,
+          "modelName": "KORAL",
+          "modelYearFrom": "1990-01-01",
+          "modelYearTo": "1992-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 52,
+      "manufacturerName": "INNOCENTI",
+      "groupKey": "MINI",
+      "displayName": "MINI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1451,
+          "modelName": "MINI",
+          "modelYearFrom": "1974-05-01",
+          "modelYearTo": "1995-01-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 52,
+      "manufacturerName": "INNOCENTI",
+      "groupKey": "REGENT",
+      "displayName": "REGENT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7566,
+          "modelName": "REGENT",
+          "modelYearFrom": "1974-01-01",
+          "modelYearTo": "1975-12-01"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "productName": "Capteur de roue, syst. de contrôle de pression des pneus",
+  "searchText": "Capteur de roue, syst. de contrôle de pression des pneus",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:15:09.975Z",
+  "productId": 2232,
+  "arborescence": {
+    "Roues/Pneus": {
+      "categoryId": 103099,
+      "categoryName": "Roues/Pneus",
+      "level": 1,
+      "children": {
+        "Contrôle de pression des pneumatiques": {
+          "categoryId": null,
+          "categoryName": "Contrôle de pression des pneumatiques",
+          "level": 2,
+          "children": {
+            "Capteur de roue, syst. de contrôle de pression des pneus": {
+              "categoryId": 103479,
+              "categoryName": "Tyre-Pressure Monitoring System",
+              "level": 2,
+              "children": [],
+              "productId": 2232
+            }
+          }
+        }
+      }
+    },
+    "Suspension d'essieu/Guidage des roues/Roues": {
+      "categoryId": 100013,
+      "categoryName": "Suspension d'essieu/Guidage des roues/Roues",
+      "level": 1,
+      "children": {
+        "Contrôle de pression des pneumatiques": {
+          "categoryId": null,
+          "categoryName": "Contrôle de pression des pneumatiques",
+          "level": 2,
+          "children": {
+            "Capteur de roue, syst. de contrôle de pression des pneus": {
+              "categoryId": 100834,
+              "categoryName": "Tyre-Pressure Monitoring System",
+              "level": 2,
+              "children": [],
+              "productId": 2232
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Capteurs": {
+          "categoryId": null,
+          "categoryName": "Capteurs",
+          "level": 2,
+          "children": {
+            "Capteur de roue, syst. de contrôle de pression des pneus": {
+              "categoryId": 102747,
+              "categoryName": "Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 2232
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Roues/Pneus [ID: 103099] (Niveau 1)\n│   └── Contrôle de pression des pneumatiques (Niveau 2)\n│       └── Tyre-Pressure Monitoring System [ID: 103479] (Niveau 2) → ProductId: 2232\n\n├── Suspension d'essieu/Guidage des roues/Roues [ID: 100013] (Niveau 1)\n│   └── Contrôle de pression des pneumatiques (Niveau 2)\n│       └── Tyre-Pressure Monitoring System [ID: 100834] (Niveau 2) → ProductId: 2232\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Capteurs (Niveau 2)\n        └── Sensors [ID: 102747] (Niveau 2) → ProductId: 2232",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Roues/Pneus",
+        "Contrôle de pression des pneumatiques",
+        "Tyre-Pressure Monitoring System"
+      ],
+      "categoryIds": [
+        103099,
+        null,
+        103479
+      ],
+      "finalCategoryId": 103479,
+      "productId": 2232
+    },
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Contrôle de pression des pneumatiques",
+        "Tyre-Pressure Monitoring System"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        100834
+      ],
+      "finalCategoryId": 100834,
+      "productId": 2232
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Capteurs",
+        "Sensors"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        102747
+      ],
+      "finalCategoryId": 102747,
+      "productId": 2232
+    }
+  ],
+  "productIdsInArbo": [
+    2232
+  ],
+  "matchedProductIds": [
+    2232
+  ]
+}

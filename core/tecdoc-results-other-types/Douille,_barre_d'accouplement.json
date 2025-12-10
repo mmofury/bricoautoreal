@@ -1,0 +1,49 @@
+{
+  "productName": "Douille, barre d'accouplement",
+  "productId": 3189,
+  "searchText": "Douille, barre d'accouplement",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Suspension des roues": {
+          "categoryId": 200061,
+          "categoryName": "Suspension des roues",
+          "level": 1,
+          "children": {
+            "Stabilisateur/accessoires": {
+              "categoryId": null,
+              "categoryName": "Stabilisateur/accessoires",
+              "level": 2,
+              "children": {
+                "Douille, barre d'accouplement": {
+                  "categoryId": 200467,
+                  "categoryName": "Stabiliser Bar/Fastening Parts",
+                  "level": 2,
+                  "children": [],
+                  "productId": 3189
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Suspension des roues [ID: 200061] (Niveau 1)\n    └── Stabilisateur/accessoires (Niveau 2)\n        └── Stabiliser Bar/Fastening Parts [ID: 200467] (Niveau 2) → ProductId: 3189",
+      "productIdsInArbo": [
+        3189
+      ],
+      "matchedProductIds": [
+        3189
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:22:53.950Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

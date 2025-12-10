@@ -1,0 +1,76 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.466Z",
+  "manufacturer": "RENAULT TRUCKS",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 694,
+      "manufacturerName": "RENAULT TRUCKS",
+      "groupKey": "B",
+      "displayName": "B",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9531,
+          "modelName": "B Fourgon",
+          "modelYearFrom": "1983-01-01",
+          "modelYearTo": "1992-01-01"
+        },
+        {
+          "modelId": 9532,
+          "modelName": "B Camion plate-forme/Châssis",
+          "modelYearFrom": "1983-01-01",
+          "modelYearTo": "1999-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 694,
+      "manufacturerName": "RENAULT TRUCKS",
+      "groupKey": "MASCOTT",
+      "displayName": "MASCOTT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9528,
+          "modelName": "MASCOTT Fourgon",
+          "modelYearFrom": "1999-01-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 9530,
+          "modelName": "MASCOTT Camion plate-forme/Châssis",
+          "modelYearFrom": "1999-01-01",
+          "modelYearTo": "2013-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 694,
+      "manufacturerName": "RENAULT TRUCKS",
+      "groupKey": "MESSENGER",
+      "displayName": "MESSENGER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9533,
+          "modelName": "MESSENGER Fourgon",
+          "modelYearFrom": "1990-09-01",
+          "modelYearTo": "1999-06-01"
+        },
+        {
+          "modelId": 9535,
+          "modelName": "MESSENGER Camion plate-forme/Châssis",
+          "modelYearFrom": "1990-09-01",
+          "modelYearTo": "1999-06-01"
+        },
+        {
+          "modelId": 9536,
+          "modelName": "MESSENGER Semi-remorque",
+          "modelYearFrom": "1994-01-01",
+          "modelYearTo": "1999-06-01"
+        }
+      ]
+    }
+  ]
+}

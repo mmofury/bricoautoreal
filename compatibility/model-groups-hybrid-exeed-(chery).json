@@ -1,0 +1,115 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.261Z",
+  "manufacturer": "EXEED (CHERY)",
+  "countGroups": 6,
+  "groups": [
+    {
+      "manufacturerId": 5247,
+      "manufacturerName": "EXEED (CHERY)",
+      "groupKey": "LX",
+      "displayName": "LX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39995,
+          "modelName": "LX",
+          "modelYearFrom": "2019-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5247,
+      "manufacturerName": "EXEED (CHERY)",
+      "groupKey": "STERRA",
+      "displayName": "STERRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45047,
+          "modelName": "STERRA ES",
+          "modelYearFrom": "2023-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45519,
+          "modelName": "STERRA ET",
+          "modelYearFrom": "2024-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5247,
+      "manufacturerName": "EXEED (CHERY)",
+      "groupKey": "TX",
+      "displayName": "TX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39501,
+          "modelName": "TX",
+          "modelYearFrom": "2019-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5247,
+      "manufacturerName": "EXEED (CHERY)",
+      "groupKey": "TXL",
+      "displayName": "TXL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41345,
+          "modelName": "TXL",
+          "modelYearFrom": "2020-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41350,
+          "modelName": "TXL",
+          "modelYearFrom": "2019-04-01",
+          "modelYearTo": "2020-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5247,
+      "manufacturerName": "EXEED (CHERY)",
+      "groupKey": "VX",
+      "displayName": "VX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41849,
+          "modelName": "VX",
+          "modelYearFrom": "2021-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5247,
+      "manufacturerName": "EXEED (CHERY)",
+      "groupKey": "YAOGUANG",
+      "displayName": "YAOGUANG",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44058,
+          "modelName": "YAOGUANG",
+          "modelYearFrom": "2023-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45295,
+          "modelName": "YAOGUANG C-DM",
+          "modelYearFrom": "2024-03-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

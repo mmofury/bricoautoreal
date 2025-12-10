@@ -1,0 +1,43 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "D0E289",
+      "index": "446 301 024 0",
+      "tecDoc": "4463010240",
+      "tecDocProd": "22",
+      "articleNumber": "4463010240",
+      "brand": "WABCO",
+      "shortDescription": "Diagnoscope and tester accessories",
+      "description": "",
+      "gtuCode": "GTU_07",
+      "eans": [
+        "4057875192695"
+      ],
+      "packageWeight": "4,940",
+      "packageWidth": "43,000",
+      "packageDepth": "54,500",
+      "packageHeight": "14,000",
+      "customsCode": "87083099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4268",
+          "primary": false,
+          "name": {
+            "en": "Storage Case, self-diagnosis unit"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91580",
+          "primary": true,
+          "name": {
+            "en": "Diagnoscope and tester accessories"
+          }
+        }
+      ]
+    }
+  ]
+}

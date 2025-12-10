@@ -1,0 +1,118 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.365Z",
+  "manufacturer": "JOYLONG",
+  "countGroups": 7,
+  "groups": [
+    {
+      "manufacturerId": 4180,
+      "manufacturerName": "JOYLONG",
+      "groupKey": "A",
+      "displayName": "A",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13266,
+          "modelName": "A-SERIES Autobus/Autocar",
+          "modelYearFrom": "2010-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44106,
+          "modelName": "A-SERIES Fourgon",
+          "modelYearFrom": "2016-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4180,
+      "manufacturerName": "JOYLONG",
+      "groupKey": "BIG",
+      "displayName": "BIG",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13293,
+          "modelName": "BIG MPV",
+          "modelYearFrom": "2009-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4180,
+      "manufacturerName": "JOYLONG",
+      "groupKey": "EM3",
+      "displayName": "EM3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39459,
+          "modelName": "EM3",
+          "modelYearFrom": "2019-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4180,
+      "manufacturerName": "JOYLONG",
+      "groupKey": "EM5",
+      "displayName": "EM5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39460,
+          "modelName": "EM5",
+          "modelYearFrom": "2019-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4180,
+      "manufacturerName": "JOYLONG",
+      "groupKey": "IFLY",
+      "displayName": "IFLY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13295,
+          "modelName": "IFLY",
+          "modelYearFrom": "2014-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4180,
+      "manufacturerName": "JOYLONG",
+      "groupKey": "J10",
+      "displayName": "J10",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13712,
+          "modelName": "J10 MPV",
+          "modelYearFrom": "2011-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4180,
+      "manufacturerName": "JOYLONG",
+      "groupKey": "W5",
+      "displayName": "W5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42207,
+          "modelName": "W5",
+          "modelYearFrom": "2021-07-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

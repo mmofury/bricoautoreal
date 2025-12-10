@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.327Z",
+  "manufacturer": "HUIZHONG",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 3155,
+      "manufacturerName": "HUIZHONG",
+      "groupKey": "DECHI",
+      "displayName": "DECHI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13706,
+          "modelName": "DECHI",
+          "modelYearFrom": "2007-01-01",
+          "modelYearTo": "2014-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3155,
+      "manufacturerName": "HUIZHONG",
+      "groupKey": "ISTANA",
+      "displayName": "ISTANA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 12770,
+          "modelName": "ISTANA",
+          "modelYearFrom": "2004-01-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G08Z8Z",
+      "index": "000.117-00",
+      "tecDoc": "000.117-00A",
+      "tecDocProd": "63",
+      "articleNumber": "000.117-00A",
+      "brand": "PETERS",
+      "shortDescription": "Lens, tail light",
+      "description": "Lampshade, rear L/R",
+      "packageWeight": "0,011",
+      "customsCode": "85129090",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1175",
+          "primary": false,
+          "name": {
+            "en": "Side marker lens"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_97",
+          "primary": true,
+          "name": {
+            "en": "Lens, tail light"
+          }
+        }
+      ]
+    }
+  ]
+}

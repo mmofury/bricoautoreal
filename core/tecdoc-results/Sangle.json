@@ -1,0 +1,170 @@
+{
+  "productName": "Sangle",
+  "searchText": "Sangle",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-03T07:15:06.745Z",
+  "productId": 4803,
+  "arborescence": {
+    "Portes-bagages": {
+      "categoryId": 100343,
+      "categoryName": "Portes-bagages",
+      "level": 1,
+      "children": {
+        "Barres de toit": {
+          "categoryId": null,
+          "categoryName": "Barres de toit",
+          "level": 2,
+          "children": {
+            "Support, sangle pour barres de toit": {
+              "categoryId": 100367,
+              "categoryName": "Roof Rack",
+              "level": 2,
+              "children": [],
+              "productId": 910
+            }
+          }
+        },
+        "Fixation pour des portes-bagages": {
+          "categoryId": null,
+          "categoryName": "Fixation pour des portes-bagages",
+          "level": 2,
+          "children": {
+            "Sangle, système de support": {
+              "categoryId": 100369,
+              "categoryName": "Rack System Fasteners",
+              "level": 2,
+              "children": [],
+              "productId": 908
+            }
+          }
+        }
+      }
+    },
+    "Suspension d'essieu/Guidage des roues/Roues": {
+      "categoryId": 100013,
+      "categoryName": "Suspension d'essieu/Guidage des roues/Roues",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Coupe sangle avec verrouillage": {
+              "categoryId": 103159,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 9351
+            }
+          }
+        }
+      }
+    },
+    "Systèmes de sécurité": {
+      "categoryId": 100417,
+      "categoryName": "Systèmes de sécurité",
+      "level": 1,
+      "children": {
+        "Système de ceintures": {
+          "categoryId": null,
+          "categoryName": "Système de ceintures",
+          "level": 2,
+          "children": {
+            "Appareil de commande, tendeur de sangle": {
+              "categoryId": 100421,
+              "categoryName": "Safety Belt System",
+              "level": 2,
+              "children": [],
+              "productId": 2153
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Portes-bagages [ID: 100343] (Niveau 1)\n│   ├── Barres de toit (Niveau 2)\n│   │   └── Roof Rack [ID: 100367] (Niveau 2) → ProductId: 910\n│   └── Fixation pour des portes-bagages (Niveau 2)\n│       └── Rack System Fasteners [ID: 100369] (Niveau 2) → ProductId: 908\n\n├── Suspension d'essieu/Guidage des roues/Roues [ID: 100013] (Niveau 1)\n│   └── Outils (Niveau 2)\n│       └── Tools [ID: 103159] (Niveau 2) → ProductId: 9351\n\n└── Systèmes de sécurité [ID: 100417] (Niveau 1)\n    └── Système de ceintures (Niveau 2)\n        └── Safety Belt System [ID: 100421] (Niveau 2) → ProductId: 2153",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Portes-bagages",
+        "Barres de toit",
+        "Roof Rack"
+      ],
+      "categoryIds": [
+        100343,
+        null,
+        100367
+      ],
+      "finalCategoryId": 100367,
+      "productId": 910
+    },
+    {
+      "path": [
+        "Portes-bagages",
+        "Fixation pour des portes-bagages",
+        "Rack System Fasteners"
+      ],
+      "categoryIds": [
+        100343,
+        null,
+        100369
+      ],
+      "finalCategoryId": 100369,
+      "productId": 908
+    },
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        103159
+      ],
+      "finalCategoryId": 103159,
+      "productId": 9351
+    },
+    {
+      "path": [
+        "Systèmes de sécurité",
+        "Système de ceintures",
+        "Safety Belt System"
+      ],
+      "categoryIds": [
+        100417,
+        null,
+        100421
+      ],
+      "finalCategoryId": 100421,
+      "productId": 2153
+    }
+  ],
+  "productIdsInArbo": [
+    908,
+    910,
+    2153,
+    9351
+  ],
+  "closestProductIds": [
+    {
+      "productId": 908,
+      "productName": "Sangle, système de support"
+    },
+    {
+      "productId": 910,
+      "productName": "Support, sangle pour barres de toit"
+    },
+    {
+      "productId": 2153,
+      "productName": "Appareil de commande, tendeur de sangle"
+    },
+    {
+      "productId": 9351,
+      "productName": "Coupe sangle avec verrouillage"
+    }
+  ]
+}

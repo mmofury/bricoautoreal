@@ -1,0 +1,84 @@
+{
+  "productName": "Réflecteur, gyrophare",
+  "searchText": "Réflecteur, gyrophare",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:13:26.081Z",
+  "productId": 1170,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Feux": {
+          "categoryId": null,
+          "categoryName": "Feux",
+          "level": 2,
+          "children": {
+            "Réflecteur, gyrophare": {
+              "categoryId": 100043,
+              "categoryName": "Lights",
+              "level": 2,
+              "children": {
+                "Gyrophare / composants": {
+                  "categoryId": null,
+                  "categoryName": "Gyrophare / composants",
+                  "level": 4,
+                  "children": {
+                    "Réflecteur, gyrophare": {
+                      "categoryId": 100289,
+                      "categoryName": "Rotating Beacon/Parts",
+                      "level": 3,
+                      "children": {
+                        "Composants du gyrophare": {
+                          "categoryId": null,
+                          "categoryName": "Composants du gyrophare",
+                          "level": 6,
+                          "children": {
+                            "Réflecteur, gyrophare": {
+                              "categoryId": 100487,
+                              "categoryName": "Rotating Beacon Parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 1170
+                            }
+                          }
+                        }
+                      },
+                      "productId": 1170
+                    }
+                  }
+                }
+              },
+              "productId": 1170
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Feux (Niveau 2)\n        └── Lights [ID: 100043] (Niveau 2) → ProductId: 1170\n            └── Gyrophare / composants (Niveau 4)\n                └── Rotating Beacon/Parts [ID: 100289] (Niveau 3) → ProductId: 1170\n                    └── Composants du gyrophare (Niveau 6)\n                        └── Rotating Beacon Parts [ID: 100487] (Niveau 4) → ProductId: 1170",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Lights"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100043
+      ],
+      "finalCategoryId": 100043,
+      "productId": 1170
+    }
+  ],
+  "productIdsInArbo": [
+    1170
+  ],
+  "matchedProductIds": [
+    1170
+  ]
+}

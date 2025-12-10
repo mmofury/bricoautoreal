@@ -1,0 +1,69 @@
+{
+  "productName": "Support, commande d'embrayage",
+  "searchText": "Support, commande d'embrayage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:20:57.164Z",
+  "productId": 1753,
+  "arborescence": {
+    "Embrayage / composants": {
+      "categoryId": 100050,
+      "categoryName": "Embrayage / composants",
+      "level": 1,
+      "children": {
+        "Commande d'embrayage": {
+          "categoryId": null,
+          "categoryName": "Commande d'embrayage",
+          "level": 2,
+          "children": {
+            "Support, commande d'embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Leviers/pièces de transmission": {
+                  "categoryId": null,
+                  "categoryName": "Leviers/pièces de transmission",
+                  "level": 4,
+                  "children": {
+                    "Support, commande d'embrayage": {
+                      "categoryId": 100780,
+                      "categoryName": "Clutch Levers/Linkage",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1753
+                    }
+                  }
+                }
+              },
+              "productId": 1753
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Embrayage / composants [ID: 100050] (Niveau 1)\n    └── Commande d'embrayage (Niveau 2)\n        └── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 1753\n            └── Leviers/pièces de transmission (Niveau 4)\n                └── Clutch Levers/Linkage [ID: 100780] (Niveau 3) → ProductId: 1753",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 1753
+    }
+  ],
+  "productIdsInArbo": [
+    1753
+  ],
+  "matchedProductIds": [
+    1753
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "productName": "Joint, réglage d’arbre à cames",
+  "searchText": "Joint, réglage d’arbre à cames",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:56:22.816Z",
+  "productId": 9888,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Distribution moteur": {
+          "categoryId": null,
+          "categoryName": "Distribution moteur",
+          "level": 2,
+          "children": {
+            "Joint, réglage d’arbre à cames": {
+              "categoryId": 100003,
+              "categoryName": "Engine Timing",
+              "level": 2,
+              "children": {
+                "Arbre à cames": {
+                  "categoryId": null,
+                  "categoryName": "Arbre à cames",
+                  "level": 4,
+                  "children": {
+                    "Joint, réglage d’arbre à cames": {
+                      "categoryId": 100397,
+                      "categoryName": "Camshaft",
+                      "level": 3,
+                      "children": [],
+                      "productId": 9888
+                    }
+                  }
+                }
+              },
+              "productId": 9888
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Distribution moteur (Niveau 2)\n        └── Engine Timing [ID: 100003] (Niveau 2) → ProductId: 9888\n            └── Arbre à cames (Niveau 4)\n                └── Camshaft [ID: 100397] (Niveau 3) → ProductId: 9888",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Engine Timing"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100003
+      ],
+      "finalCategoryId": 100003,
+      "productId": 9888
+    }
+  ],
+  "productIdsInArbo": [
+    9888
+  ],
+  "matchedProductIds": [
+    9888
+  ]
+}

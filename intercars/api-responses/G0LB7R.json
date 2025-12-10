@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G0LB7R",
+      "index": "7.24914",
+      "tecDoc": "7.24914",
+      "tecDocProd": "355",
+      "articleNumber": "7.24914",
+      "brand": "DT SPARE PARTS",
+      "shortDescription": "Sensor, urea supply",
+      "description": "AdBlue level sensor fits: IVECO STRALIS I 01.13-",
+      "packageWeight": "1,710",
+      "packageWidth": "17,500",
+      "packageDepth": "67,000",
+      "packageHeight": "17,500",
+      "customsCode": "90261029",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_605",
+          "primary": false,
+          "name": {
+            "en": "Sender Unit, fuel tank"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_4402",
+          "primary": true,
+          "name": {
+            "en": "Sensor, urea supply"
+          }
+        }
+      ]
+    }
+  ]
+}

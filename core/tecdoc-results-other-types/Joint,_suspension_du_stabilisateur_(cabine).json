@@ -1,0 +1,49 @@
+{
+  "productName": "Joint, suspension du stabilisateur (cabine)",
+  "productId": 3624,
+  "searchText": "Joint, suspension du stabilisateur (cabine)",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Cabine du conducteur/carrosserie": {
+          "categoryId": 200022,
+          "categoryName": "Cabine du conducteur/carrosserie",
+          "level": 1,
+          "children": {
+            "Suspension / Amortissement de la cabine": {
+              "categoryId": null,
+              "categoryName": "Suspension / Amortissement de la cabine",
+              "level": 2,
+              "children": {
+                "Joint, suspension du stabilisateur (cabine)": {
+                  "categoryId": 200826,
+                  "categoryName": "Driver Cab Suspension",
+                  "level": 2,
+                  "children": [],
+                  "productId": 3624
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Cabine du conducteur/carrosserie [ID: 200022] (Niveau 1)\n    └── Suspension / Amortissement de la cabine (Niveau 2)\n        └── Driver Cab Suspension [ID: 200826] (Niveau 2) → ProductId: 3624",
+      "productIdsInArbo": [
+        3624
+      ],
+      "matchedProductIds": [
+        3624
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:39:43.364Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

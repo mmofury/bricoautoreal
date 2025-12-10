@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G13D02",
+      "index": "V51-72-0265",
+      "tecDoc": "V51-72-0265",
+      "tecDocProd": "183",
+      "articleNumber": "V51-72-0265",
+      "brand": "VEMO",
+      "shortDescription": "Sensor, crankshaft pulse",
+      "description": "Crankshaft position sensor fits: CHEVROLET SILVERADO 2500 HD, SILVERADO 3500 HD, GMC SAVANA 3500 6.6D 09.05-10.16",
+      "customsCode": "90328900",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_833",
+          "primary": true,
+          "name": {
+            "en": "Sensor, crankshaft pulse"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_60467",
+          "primary": false,
+          "name": {
+            "en": "Sensor, turbocharger"
+          }
+        }
+      ]
+    }
+  ]
+}

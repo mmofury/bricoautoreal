@@ -1,0 +1,54 @@
+{
+  "productName": "Support de Caméra, assistant de maintien de voie",
+  "searchText": "Support de Caméra, assistant de maintien de voie",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:19:25.671Z",
+  "productId": 60651,
+  "arborescence": {
+    "Systèmes de sécurité": {
+      "categoryId": 100417,
+      "categoryName": "Systèmes de sécurité",
+      "level": 1,
+      "children": {
+        "Assistant-changement de voie": {
+          "categoryId": null,
+          "categoryName": "Assistant-changement de voie",
+          "level": 2,
+          "children": {
+            "Support de Caméra, assistant de maintien de voie": {
+              "categoryId": 104739,
+              "categoryName": "Lane Changing Assist",
+              "level": 2,
+              "children": [],
+              "productId": 60651
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Systèmes de sécurité [ID: 100417] (Niveau 1)\n    └── Assistant-changement de voie (Niveau 2)\n        └── Lane Changing Assist [ID: 104739] (Niveau 2) → ProductId: 60651",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Systèmes de sécurité",
+        "Assistant-changement de voie",
+        "Lane Changing Assist"
+      ],
+      "categoryIds": [
+        100417,
+        null,
+        104739
+      ],
+      "finalCategoryId": 104739,
+      "productId": 60651
+    }
+  ],
+  "productIdsInArbo": [
+    60651
+  ],
+  "matchedProductIds": [
+    60651
+  ]
+}

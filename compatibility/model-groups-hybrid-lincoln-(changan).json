@@ -1,0 +1,73 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.386Z",
+  "manufacturer": "LINCOLN (CHANGAN)",
+  "countGroups": 4,
+  "groups": [
+    {
+      "manufacturerId": 5512,
+      "manufacturerName": "LINCOLN (CHANGAN)",
+      "groupKey": "AVIATOR",
+      "displayName": "AVIATOR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40956,
+          "modelName": "AVIATOR",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5512,
+      "manufacturerName": "LINCOLN (CHANGAN)",
+      "groupKey": "CORSAIR",
+      "displayName": "CORSAIR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40306,
+          "modelName": "CORSAIR",
+          "modelYearFrom": "2020-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5512,
+      "manufacturerName": "LINCOLN (CHANGAN)",
+      "groupKey": "NAUTILUS",
+      "displayName": "NAUTILUS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42107,
+          "modelName": "NAUTILUS",
+          "modelYearFrom": "2021-03-01",
+          "modelYearTo": "2023-03-01"
+        },
+        {
+          "modelId": 44270,
+          "modelName": "NAUTILUS",
+          "modelYearFrom": "2023-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5512,
+      "manufacturerName": "LINCOLN (CHANGAN)",
+      "groupKey": "Z",
+      "displayName": "Z",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42806,
+          "modelName": "Z",
+          "modelYearFrom": "2022-03-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

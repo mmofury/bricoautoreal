@@ -1,0 +1,54 @@
+{
+  "productName": "Clé de filtre à carburant",
+  "searchText": "Clé de filtre à carburant",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:21:08.810Z",
+  "productId": 4506,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Clé de filtre à carburant": {
+              "categoryId": 103148,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4506
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Alimentation carburant [ID: 100214] (Niveau 1)\n    └── Outils (Niveau 2)\n        └── Tools [ID: 103148] (Niveau 2) → ProductId: 4506",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        103148
+      ],
+      "finalCategoryId": 103148,
+      "productId": 4506
+    }
+  ],
+  "productIdsInArbo": [
+    4506
+  ],
+  "matchedProductIds": [
+    4506
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "productName": "Clé à frapper",
+  "productId": 5598,
+  "searchText": "Clé à frapper",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": false,
+      "arborescence": {
+        "Dispositif de freinage": {
+          "categoryId": 200058,
+          "categoryName": "Dispositif de freinage",
+          "level": 1,
+          "children": {
+            "Outils": {
+              "categoryId": null,
+              "categoryName": "Outils",
+              "level": 2,
+              "children": {
+                "Clé à frapper, vissage d’étrier de frein": {
+                  "categoryId": 205992,
+                  "categoryName": "Tools",
+                  "level": 2,
+                  "children": [],
+                  "productId": 9452
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Dispositif de freinage [ID: 200058] (Niveau 1)\n    └── Outils (Niveau 2)\n        └── Tools [ID: 205992] (Niveau 2) → ProductId: 9452",
+      "productIdsInArbo": [
+        9452
+      ]
+    },
+    {
+      "typeId": 3,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 4,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 5,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 6,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 7,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 8,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 9,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 10,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 11,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 12,
+      "found": false,
+      "hasMatch": false
+    }
+  ],
+  "timestamp": "2025-12-03T10:07:42.540Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": false
+  }
+}

@@ -1,0 +1,366 @@
+{
+  "productName": "Kit de filtres",
+  "searchText": "Kit de filtres",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:00:09.474Z",
+  "productId": 4055,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Boîtier/filtre à carburant": {
+          "categoryId": null,
+          "categoryName": "Boîtier/filtre à carburant",
+          "level": 2,
+          "children": {
+            "Kit de filtres à carburant": {
+              "categoryId": 100253,
+              "categoryName": "Fuel Filter/Housing",
+              "level": 2,
+              "children": [],
+              "productId": 8177
+            }
+          }
+        }
+      }
+    },
+    "Chauffage / Ventilation": {
+      "categoryId": 100241,
+      "categoryName": "Chauffage / Ventilation",
+      "level": 1,
+      "children": {
+        "Filtre d'habitacle": {
+          "categoryId": null,
+          "categoryName": "Filtre d'habitacle",
+          "level": 2,
+          "children": {
+            "Kit de filtres, air d’habitacle": {
+              "categoryId": 100346,
+              "categoryName": "Cabin Air Filter",
+              "level": 2,
+              "children": [],
+              "productId": 8175
+            }
+          }
+        }
+      }
+    },
+    "Filtre": {
+      "categoryId": 100005,
+      "categoryName": "Filtre",
+      "level": 1,
+      "children": {
+        "Filtre à air": {
+          "categoryId": null,
+          "categoryName": "Filtre à air",
+          "level": 2,
+          "children": {
+            "Kit de filtres à air": {
+              "categoryId": 100260,
+              "categoryName": "Air Filter",
+              "level": 2,
+              "children": [],
+              "productId": 8174
+            }
+          }
+        },
+        "Filtre à air pour habitacle": {
+          "categoryId": null,
+          "categoryName": "Filtre à air pour habitacle",
+          "level": 2,
+          "children": {
+            "Kit de filtres, air d’habitacle": {
+              "categoryId": 100263,
+              "categoryName": "Cabin Air Filter",
+              "level": 2,
+              "children": [],
+              "productId": 8175
+            }
+          }
+        },
+        "Filtre à carburant": {
+          "categoryId": null,
+          "categoryName": "Filtre à carburant",
+          "level": 2,
+          "children": {
+            "Kit de filtres à carburant": {
+              "categoryId": 100261,
+              "categoryName": "Fuel Filter",
+              "level": 2,
+              "children": [],
+              "productId": 8177
+            }
+          }
+        },
+        "Kit de filtres": {
+          "categoryId": null,
+          "categoryName": "Kit de filtres",
+          "level": 2,
+          "children": {
+            "Kit de filtres": {
+              "categoryId": 102901,
+              "categoryName": "Filter Set",
+              "level": 2,
+              "children": [],
+              "productId": 4055
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Alimentation en air": {
+          "categoryId": null,
+          "categoryName": "Alimentation en air",
+          "level": 2,
+          "children": {
+            "Kit de filtres à air": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Filtre à air / carter": {
+                  "categoryId": null,
+                  "categoryName": "Filtre à air / carter",
+                  "level": 4,
+                  "children": {
+                    "Kit de filtres à air": {
+                      "categoryId": 100384,
+                      "categoryName": "Air Filter/ Housing",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8174
+                    }
+                  }
+                }
+              },
+              "productId": 8174
+            }
+          }
+        }
+      }
+    },
+    "Pièces de maintenance": {
+      "categoryId": 100019,
+      "categoryName": "Pièces de maintenance",
+      "level": 1,
+      "children": {
+        "Intervalle": {
+          "categoryId": null,
+          "categoryName": "Intervalle",
+          "level": 2,
+          "children": {
+            "Kit de filtres": {
+              "categoryId": 100597,
+              "categoryName": "Service Intervals",
+              "level": 2,
+              "children": [],
+              "productId": 4055
+            },
+            "Kit de filtres à air": {
+              "categoryId": 100597,
+              "categoryName": "Service Intervals",
+              "level": 2,
+              "children": [],
+              "productId": 8174
+            },
+            "Kit de filtres, air d’habitacle": {
+              "categoryId": 100597,
+              "categoryName": "Service Intervals",
+              "level": 2,
+              "children": [],
+              "productId": 8175
+            }
+          }
+        },
+        "Travaux supplémentaires": {
+          "categoryId": null,
+          "categoryName": "Travaux supplémentaires",
+          "level": 2,
+          "children": {
+            "Kit de filtres à carburant": {
+              "categoryId": 100598,
+              "categoryName": "Additional Repairs",
+              "level": 2,
+              "children": [],
+              "productId": 8177
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Alimentation carburant [ID: 100214] (Niveau 1)\n│   └── Boîtier/filtre à carburant (Niveau 2)\n│       └── Fuel Filter/Housing [ID: 100253] (Niveau 2) → ProductId: 8177\n\n├── Chauffage / Ventilation [ID: 100241] (Niveau 1)\n│   └── Filtre d'habitacle (Niveau 2)\n│       └── Cabin Air Filter [ID: 100346] (Niveau 2) → ProductId: 8175\n\n├── Filtre [ID: 100005] (Niveau 1)\n│   ├── Filtre à air (Niveau 2)\n│   │   └── Air Filter [ID: 100260] (Niveau 2) → ProductId: 8174\n│   ├── Filtre à air pour habitacle (Niveau 2)\n│   │   └── Cabin Air Filter [ID: 100263] (Niveau 2) → ProductId: 8175\n│   ├── Filtre à carburant (Niveau 2)\n│   │   └── Fuel Filter [ID: 100261] (Niveau 2) → ProductId: 8177\n│   └── Kit de filtres (Niveau 2)\n│       └── Filter Set [ID: 102901] (Niveau 2) → ProductId: 4055\n\n├── Moteur [ID: 100002] (Niveau 1)\n│   └── Alimentation en air (Niveau 2)\n│       └── Air Supply [ID: 100383] (Niveau 2) → ProductId: 8174\n│           └── Filtre à air / carter (Niveau 4)\n│               └── Air Filter/ Housing [ID: 100384] (Niveau 3) → ProductId: 8174\n\n└── Pièces de maintenance [ID: 100019] (Niveau 1)\n    ├── Intervalle (Niveau 2)\n    │   ├── Service Intervals [ID: 100597] (Niveau 2) → ProductId: 4055\n    │   ├── Service Intervals [ID: 100597] (Niveau 2) → ProductId: 8174\n    │   └── Service Intervals [ID: 100597] (Niveau 2) → ProductId: 8175\n    └── Travaux supplémentaires (Niveau 2)\n        └── Additional Repairs [ID: 100598] (Niveau 2) → ProductId: 8177",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Boîtier/filtre à carburant",
+        "Fuel Filter/Housing"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100253
+      ],
+      "finalCategoryId": 100253,
+      "productId": 8177
+    },
+    {
+      "path": [
+        "Chauffage / Ventilation",
+        "Filtre d'habitacle",
+        "Cabin Air Filter"
+      ],
+      "categoryIds": [
+        100241,
+        null,
+        100346
+      ],
+      "finalCategoryId": 100346,
+      "productId": 8175
+    },
+    {
+      "path": [
+        "Filtre",
+        "Filtre à air",
+        "Air Filter"
+      ],
+      "categoryIds": [
+        100005,
+        null,
+        100260
+      ],
+      "finalCategoryId": 100260,
+      "productId": 8174
+    },
+    {
+      "path": [
+        "Filtre",
+        "Filtre à air pour habitacle",
+        "Cabin Air Filter"
+      ],
+      "categoryIds": [
+        100005,
+        null,
+        100263
+      ],
+      "finalCategoryId": 100263,
+      "productId": 8175
+    },
+    {
+      "path": [
+        "Filtre",
+        "Filtre à carburant",
+        "Fuel Filter"
+      ],
+      "categoryIds": [
+        100005,
+        null,
+        100261
+      ],
+      "finalCategoryId": 100261,
+      "productId": 8177
+    },
+    {
+      "path": [
+        "Filtre",
+        "Kit de filtres",
+        "Filter Set"
+      ],
+      "categoryIds": [
+        100005,
+        null,
+        102901
+      ],
+      "finalCategoryId": 102901,
+      "productId": 4055
+    },
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 8174
+    },
+    {
+      "path": [
+        "Pièces de maintenance",
+        "Intervalle",
+        "Service Intervals"
+      ],
+      "categoryIds": [
+        100019,
+        null,
+        100597
+      ],
+      "finalCategoryId": 100597,
+      "productId": 4055
+    },
+    {
+      "path": [
+        "Pièces de maintenance",
+        "Intervalle",
+        "Service Intervals"
+      ],
+      "categoryIds": [
+        100019,
+        null,
+        100597
+      ],
+      "finalCategoryId": 100597,
+      "productId": 8174
+    },
+    {
+      "path": [
+        "Pièces de maintenance",
+        "Intervalle",
+        "Service Intervals"
+      ],
+      "categoryIds": [
+        100019,
+        null,
+        100597
+      ],
+      "finalCategoryId": 100597,
+      "productId": 8175
+    },
+    {
+      "path": [
+        "Pièces de maintenance",
+        "Travaux supplémentaires",
+        "Additional Repairs"
+      ],
+      "categoryIds": [
+        100019,
+        null,
+        100598
+      ],
+      "finalCategoryId": 100598,
+      "productId": 8177
+    }
+  ],
+  "productIdsInArbo": [
+    4055,
+    8174,
+    8175,
+    8177
+  ],
+  "matchedProductIds": [
+    4055
+  ]
+}

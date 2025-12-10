@@ -1,0 +1,155 @@
+{
+  "productName": "Garniture, passage de roue",
+  "searchText": "Garniture, passage de roue",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:42:51.351Z",
+  "productId": 1560,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Arrière de la voiture": {
+          "categoryId": null,
+          "categoryName": "Arrière de la voiture",
+          "level": 2,
+          "children": {
+            "Garniture, passage de roue": {
+              "categoryId": 101705,
+              "categoryName": "Vehicle Rear",
+              "level": 2,
+              "children": {
+                "Passage de roue": {
+                  "categoryId": null,
+                  "categoryName": "Passage de roue",
+                  "level": 4,
+                  "children": {
+                    "Garniture, passage de roue": {
+                      "categoryId": 101710,
+                      "categoryName": "Wheelhouse",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1560
+                    }
+                  }
+                }
+              },
+              "productId": 1560
+            }
+          }
+        },
+        "Avant du véhicule": {
+          "categoryId": null,
+          "categoryName": "Avant du véhicule",
+          "level": 2,
+          "children": {
+            "Garniture, passage de roue": {
+              "categoryId": 101648,
+              "categoryName": "Vehicle Front",
+              "level": 2,
+              "children": {
+                "Passage de roue": {
+                  "categoryId": null,
+                  "categoryName": "Passage de roue",
+                  "level": 4,
+                  "children": {
+                    "Garniture, passage de roue": {
+                      "categoryId": 101652,
+                      "categoryName": "Wheelhouse",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1560
+                    }
+                  }
+                }
+              },
+              "productId": 1560
+            }
+          }
+        },
+        "Pièces de carrosserie/ailes/pares-chocs": {
+          "categoryId": null,
+          "categoryName": "Pièces de carrosserie/ailes/pares-chocs",
+          "level": 2,
+          "children": {
+            "Garniture, passage de roue": {
+              "categoryId": 100743,
+              "categoryName": "Body Parts/Wing/Bumper",
+              "level": 2,
+              "children": {
+                "Passage de roue": {
+                  "categoryId": null,
+                  "categoryName": "Passage de roue",
+                  "level": 4,
+                  "children": {
+                    "Garniture, passage de roue": {
+                      "categoryId": 100165,
+                      "categoryName": "Wheelhouse",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1560
+                    }
+                  }
+                }
+              },
+              "productId": 1560
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    ├── Arrière de la voiture (Niveau 2)\n    │   └── Vehicle Rear [ID: 101705] (Niveau 2) → ProductId: 1560\n    │       └── Passage de roue (Niveau 4)\n    │           └── Wheelhouse [ID: 101710] (Niveau 3) → ProductId: 1560\n    ├── Avant du véhicule (Niveau 2)\n    │   └── Vehicle Front [ID: 101648] (Niveau 2) → ProductId: 1560\n    │       └── Passage de roue (Niveau 4)\n    │           └── Wheelhouse [ID: 101652] (Niveau 3) → ProductId: 1560\n    └── Pièces de carrosserie/ailes/pares-chocs (Niveau 2)\n        └── Body Parts/Wing/Bumper [ID: 100743] (Niveau 2) → ProductId: 1560\n            └── Passage de roue (Niveau 4)\n                └── Wheelhouse [ID: 100165] (Niveau 3) → ProductId: 1560",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Vehicle Rear"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101705
+      ],
+      "finalCategoryId": 101705,
+      "productId": 1560
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Avant du véhicule",
+        "Vehicle Front"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101648
+      ],
+      "finalCategoryId": 101648,
+      "productId": 1560
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Pièces de carrosserie/ailes/pares-chocs",
+        "Body Parts/Wing/Bumper"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100743
+      ],
+      "finalCategoryId": 100743,
+      "productId": 1560
+    }
+  ],
+  "productIdsInArbo": [
+    1560
+  ],
+  "matchedProductIds": [
+    1560
+  ]
+}

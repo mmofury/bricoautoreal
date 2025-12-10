@@ -1,0 +1,79 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.348Z",
+  "manufacturer": "IZH",
+  "countGroups": 4,
+  "groups": [
+    {
+      "manufacturerId": 4683,
+      "manufacturerName": "IZH",
+      "groupKey": "2125",
+      "displayName": "2125",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37834,
+          "modelName": "2125",
+          "modelYearFrom": "1973-06-01",
+          "modelYearTo": "1997-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4683,
+      "manufacturerName": "IZH",
+      "groupKey": "2715",
+      "displayName": "2715",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37835,
+          "modelName": "2715 Pick-up",
+          "modelYearFrom": "1972-12-01",
+          "modelYearTo": "2001-10-01"
+        },
+        {
+          "modelId": 37836,
+          "modelName": "2715 Fourgon",
+          "modelYearFrom": "1985-01-01",
+          "modelYearTo": "2001-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4683,
+      "manufacturerName": "IZH",
+      "groupKey": "2717",
+      "displayName": "2717",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37837,
+          "modelName": "2717",
+          "modelYearFrom": "1985-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4683,
+      "manufacturerName": "IZH",
+      "groupKey": "ORBITA",
+      "displayName": "ORBITA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37838,
+          "modelName": "ORBITA (2126)",
+          "modelYearFrom": "1987-01-01",
+          "modelYearTo": "2005-12-01"
+        },
+        {
+          "modelId": 37839,
+          "modelName": "ORBITA Break (21262)",
+          "modelYearFrom": "1987-01-01",
+          "modelYearTo": "2005-12-01"
+        }
+      ]
+    }
+  ]
+}

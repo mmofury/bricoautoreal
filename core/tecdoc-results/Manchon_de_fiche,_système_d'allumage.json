@@ -1,0 +1,54 @@
+{
+  "productName": "Manchon de fiche, système d'allumage",
+  "searchText": "Manchon de fiche, système d'allumage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:13:28.079Z",
+  "productId": 918,
+  "arborescence": {
+    "Allumage / préchauffage": {
+      "categoryId": 100008,
+      "categoryName": "Allumage / préchauffage",
+      "level": 1,
+      "children": {
+        "Raccords de câble d'allumage": {
+          "categoryId": null,
+          "categoryName": "Raccords de câble d'allumage",
+          "level": 2,
+          "children": {
+            "Manchon de fiche, système d'allumage": {
+              "categoryId": 100153,
+              "categoryName": "Ignition Cable/Connecting Parts",
+              "level": 2,
+              "children": [],
+              "productId": 918
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Allumage / préchauffage [ID: 100008] (Niveau 1)\n    └── Raccords de câble d'allumage (Niveau 2)\n        └── Ignition Cable/Connecting Parts [ID: 100153] (Niveau 2) → ProductId: 918",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Raccords de câble d'allumage",
+        "Ignition Cable/Connecting Parts"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        100153
+      ],
+      "finalCategoryId": 100153,
+      "productId": 918
+    }
+  ],
+  "productIdsInArbo": [
+    918
+  ],
+  "matchedProductIds": [
+    918
+  ]
+}

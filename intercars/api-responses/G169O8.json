@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G169O8",
+      "index": "FE183771",
+      "tecDoc": "183771",
+      "tecDocProd": "101",
+      "articleNumber": "183771",
+      "brand": "FEBI",
+      "shortDescription": "Water pump, traction battery",
+      "description": "Additional water pump (operation mode electric) fits: FIAT 500, 500E, JEEP COMPASS 1.3H/Electric 09.12-",
+      "customsCode": "84133080",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1260",
+          "primary": false,
+          "name": {
+            "en": "Water pump"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_60166",
+          "primary": true,
+          "name": {
+            "en": "Water pump, traction battery"
+          }
+        }
+      ]
+    }
+  ]
+}

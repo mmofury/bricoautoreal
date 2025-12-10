@@ -1,0 +1,57 @@
+{
+  "productName": "Extracteur, fiche de bobine d'allumage",
+  "searchText": "Extracteur, fiche de bobine d'allumage",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T20:37:51.040Z",
+  "productId": 7718,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Extracteur, fiche de bobine d'allumage": {
+              "categoryId": 103129,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 8164
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Outils (Niveau 2)\n        └── Tools [ID: 103129] (Niveau 2) → ProductId: 8164",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        103129
+      ],
+      "finalCategoryId": 103129,
+      "productId": 8164
+    }
+  ],
+  "productIdsInArbo": [
+    8164
+  ],
+  "closestProductIds": [
+    {
+      "productId": 8164,
+      "productName": "Extracteur, fiche de bobine d'allumage"
+    }
+  ]
+}

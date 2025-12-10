@@ -1,0 +1,83 @@
+{
+  "productName": "Interrupteur de température, enrichissement démarrage à froi",
+  "searchText": "Interrupteur de température, enrichissement démarrage à froi",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:46:25.703Z",
+  "productId": 3957,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Interrupteur de température, enrichissement démarrage à froi": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Interrupteur / relais": {
+                  "categoryId": null,
+                  "categoryName": "Interrupteur / relais",
+                  "level": 4,
+                  "children": {
+                    "Interrupteur de température, enrichissement démarrage à froi": {
+                      "categoryId": 102808,
+                      "categoryName": "Switch/ Relay",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3957
+                    }
+                  }
+                },
+                "Réglage du ralenti/réglage de mise en température": {
+                  "categoryId": null,
+                  "categoryName": "Réglage du ralenti/réglage de mise en température",
+                  "level": 4,
+                  "children": {
+                    "Interrupteur de température, enrichissement démarrage à froi": {
+                      "categoryId": 102805,
+                      "categoryName": "Idle Control",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3957
+                    }
+                  }
+                }
+              },
+              "productId": 3957
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carburation [ID: 100254] (Niveau 1)\n    └── Mélange air-carburant (Niveau 2)\n        └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 3957\n            ├── Interrupteur / relais (Niveau 4)\n            │   └── Switch/ Relay [ID: 102808] (Niveau 3) → ProductId: 3957\n            └── Réglage du ralenti/réglage de mise en température (Niveau 4)\n                └── Idle Control [ID: 102805] (Niveau 3) → ProductId: 3957",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 3957
+    }
+  ],
+  "productIdsInArbo": [
+    3957
+  ],
+  "matchedProductIds": [
+    3957
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.380Z",
+  "manufacturer": "LANDIAN",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 7577,
+      "manufacturerName": "LANDIAN",
+      "groupKey": "E3",
+      "displayName": "E3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45021,
+          "modelName": "E3",
+          "modelYearFrom": "2023-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 7577,
+      "manufacturerName": "LANDIAN",
+      "groupKey": "E5",
+      "displayName": "E5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45232,
+          "modelName": "E5",
+          "modelYearFrom": "2023-03-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

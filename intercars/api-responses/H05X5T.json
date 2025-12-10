@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H05X5T",
+      "index": "FE183183",
+      "tecDoc": "183183",
+      "tecDocProd": "101",
+      "articleNumber": "183183",
+      "brand": "FEBI",
+      "shortDescription": "Sensor, driver's cab locking",
+      "description": "driver’s cab locking sensor fits: RVI C, K, VOLVO FH, FH II, FH III, FH12, FH16, FH16 II, FH16 III, FM II, FM III, FM12, FM9, FMX II, FMX III 08.93-",
+      "customsCode": "85365019",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_60016",
+          "primary": true,
+          "name": {
+            "en": "Sensor, driver's cab locking"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_525",
+          "primary": false,
+          "name": {
+            "en": "Door Lock, driver cab"
+          }
+        }
+      ]
+    }
+  ]
+}

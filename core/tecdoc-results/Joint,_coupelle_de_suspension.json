@@ -1,0 +1,89 @@
+{
+  "productName": "Joint, coupelle de suspension",
+  "searchText": "Joint, coupelle de suspension",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:55:16.781Z",
+  "productId": 3812,
+  "arborescence": {
+    "Suspension d'essieu/Guidage des roues/Roues": {
+      "categoryId": 100013,
+      "categoryName": "Suspension d'essieu/Guidage des roues/Roues",
+      "level": 1,
+      "children": {
+        "Fixation jambe de force / suspension": {
+          "categoryId": null,
+          "categoryName": "Fixation jambe de force / suspension",
+          "level": 2,
+          "children": {
+            "Joint, coupelle de suspension": {
+              "categoryId": 100735,
+              "categoryName": "Mounting, suspension strut",
+              "level": 2,
+              "children": [],
+              "productId": 3812
+            }
+          }
+        }
+      }
+    },
+    "Suspension/Amortissement": {
+      "categoryId": 100011,
+      "categoryName": "Suspension/Amortissement",
+      "level": 1,
+      "children": {
+        "Coupelle de suspension/d'amortisseur": {
+          "categoryId": null,
+          "categoryName": "Coupelle de suspension/d'amortisseur",
+          "level": 2,
+          "children": {
+            "Joint, coupelle de suspension": {
+              "categoryId": 100371,
+              "categoryName": "Suspension Strut/Shock Absorber Mount",
+              "level": 2,
+              "children": [],
+              "productId": 3812
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Suspension d'essieu/Guidage des roues/Roues [ID: 100013] (Niveau 1)\n│   └── Fixation jambe de force / suspension (Niveau 2)\n│       └── Mounting, suspension strut [ID: 100735] (Niveau 2) → ProductId: 3812\n\n└── Suspension/Amortissement [ID: 100011] (Niveau 1)\n    └── Coupelle de suspension/d'amortisseur (Niveau 2)\n        └── Suspension Strut/Shock Absorber Mount [ID: 100371] (Niveau 2) → ProductId: 3812",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Fixation jambe de force / suspension",
+        "Mounting, suspension strut"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        100735
+      ],
+      "finalCategoryId": 100735,
+      "productId": 3812
+    },
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Coupelle de suspension/d'amortisseur",
+        "Suspension Strut/Shock Absorber Mount"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        100371
+      ],
+      "finalCategoryId": 100371,
+      "productId": 3812
+    }
+  ],
+  "productIdsInArbo": [
+    3812
+  ],
+  "matchedProductIds": [
+    3812
+  ]
+}

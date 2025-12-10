@@ -1,0 +1,54 @@
+{
+  "productName": "Mandrin de centrage, Embrayage",
+  "searchText": "Mandrin de centrage, Embrayage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:13:53.855Z",
+  "productId": 4539,
+  "arborescence": {
+    "Embrayage / composants": {
+      "categoryId": 100050,
+      "categoryName": "Embrayage / composants",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Mandrin de centrage, Embrayage": {
+              "categoryId": 103156,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4539
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Embrayage / composants [ID: 100050] (Niveau 1)\n    └── Outils (Niveau 2)\n        └── Tools [ID: 103156] (Niveau 2) → ProductId: 4539",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Embrayage / composants",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        103156
+      ],
+      "finalCategoryId": 103156,
+      "productId": 4539
+    }
+  ],
+  "productIdsInArbo": [
+    4539
+  ],
+  "matchedProductIds": [
+    4539
+  ]
+}

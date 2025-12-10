@@ -1,0 +1,106 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.272Z",
+  "manufacturer": "FODAY",
+  "countGroups": 5,
+  "groups": [
+    {
+      "manufacturerId": 3771,
+      "manufacturerName": "FODAY",
+      "groupKey": "EXPLORER",
+      "displayName": "EXPLORER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13224,
+          "modelName": "EXPLORER 6",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13226,
+          "modelName": "EXPLORER 3",
+          "modelYearFrom": "2006-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13228,
+          "modelName": "EXPLORER 2",
+          "modelYearFrom": "2003-01-01",
+          "modelYearTo": "2011-01-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3771,
+      "manufacturerName": "FODAY",
+      "groupKey": "FEIYUE",
+      "displayName": "FEIYUE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13230,
+          "modelName": "FEIYUE",
+          "modelYearFrom": "2004-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3771,
+      "manufacturerName": "FODAY",
+      "groupKey": "LANDFORT",
+      "displayName": "LANDFORT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13339,
+          "modelName": "LANDFORT",
+          "modelYearFrom": "2014-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3771,
+      "manufacturerName": "FODAY",
+      "groupKey": "LION",
+      "displayName": "LION",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10583,
+          "modelName": "LION",
+          "modelYearFrom": "2003-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13229,
+          "modelName": "LION F16",
+          "modelYearFrom": "2010-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37913,
+          "modelName": "LION F22",
+          "modelYearFrom": "2015-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3771,
+      "manufacturerName": "FODAY",
+      "groupKey": "XIAOCHAOREN",
+      "displayName": "XIAOCHAOREN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13233,
+          "modelName": "XIAOCHAOREN",
+          "modelYearFrom": "2006-01-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

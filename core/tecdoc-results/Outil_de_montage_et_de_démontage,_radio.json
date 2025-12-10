@@ -1,0 +1,54 @@
+{
+  "productName": "Outil de montage et de démontage, radio",
+  "searchText": "Outil de montage et de démontage, radio",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:17:46.507Z",
+  "productId": 7128,
+  "arborescence": {
+    "Système d'information et de communication": {
+      "categoryId": 100339,
+      "categoryName": "Système d'information et de communication",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Outil de montage et de démontage, radio": {
+              "categoryId": 105407,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 7128
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système d'information et de communication [ID: 100339] (Niveau 1)\n    └── Outils (Niveau 2)\n        └── Tools [ID: 105407] (Niveau 2) → ProductId: 7128",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système d'information et de communication",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100339,
+        null,
+        105407
+      ],
+      "finalCategoryId": 105407,
+      "productId": 7128
+    }
+  ],
+  "productIdsInArbo": [
+    7128
+  ],
+  "matchedProductIds": [
+    7128
+  ]
+}

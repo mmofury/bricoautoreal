@@ -1,0 +1,36 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "AE0683",
+      "index": "MER 333X3326",
+      "tecDoc": "333X3326",
+      "tecDocProd": "349",
+      "articleNumber": "333X3326",
+      "brand": "MERITOR",
+      "shortDescription": "Wheel hub",
+      "description": "MERITOR hub cpl. P / L ROR / VOLVO",
+      "gtuCode": "GTU_07",
+      "customsCode": "87087099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_653",
+          "primary": true,
+          "name": {
+            "en": "Wheel hub"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_5114",
+          "primary": false,
+          "name": {
+            "en": "Cover, wheel hub"
+          }
+        }
+      ]
+    }
+  ]
+}

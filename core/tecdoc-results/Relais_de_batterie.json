@@ -1,0 +1,82 @@
+{
+  "productName": "Relais de batterie",
+  "searchText": "Relais de batterie",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:07:14.051Z",
+  "productId": 799,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Batterie": {
+          "categoryId": null,
+          "categoryName": "Batterie",
+          "level": 2,
+          "children": {
+            "Relais de batterie": {
+              "categoryId": 100042,
+              "categoryName": "Battery",
+              "level": 2,
+              "children": [],
+              "productId": 799
+            }
+          }
+        },
+        "Relais": {
+          "categoryId": null,
+          "categoryName": "Relais",
+          "level": 2,
+          "children": {
+            "Relais de batterie": {
+              "categoryId": 100785,
+              "categoryName": "Relay",
+              "level": 2,
+              "children": [],
+              "productId": 799
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    ├── Batterie (Niveau 2)\n    │   └── Battery [ID: 100042] (Niveau 2) → ProductId: 799\n    └── Relais (Niveau 2)\n        └── Relay [ID: 100785] (Niveau 2) → ProductId: 799",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Batterie",
+        "Battery"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100042
+      ],
+      "finalCategoryId": 100042,
+      "productId": 799
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Relais",
+        "Relay"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100785
+      ],
+      "finalCategoryId": 100785,
+      "productId": 799
+    }
+  ],
+  "productIdsInArbo": [
+    799
+  ],
+  "matchedProductIds": [
+    799
+  ]
+}

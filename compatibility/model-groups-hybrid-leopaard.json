@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.382Z",
+  "manufacturer": "LEOPAARD",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 5530,
+      "manufacturerName": "LEOPAARD",
+      "groupKey": "CS10",
+      "displayName": "CS10",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40328,
+          "modelName": "CS10",
+          "modelYearFrom": "2015-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5530,
+      "manufacturerName": "LEOPAARD",
+      "groupKey": "CS9",
+      "displayName": "CS9",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40327,
+          "modelName": "CS9",
+          "modelYearFrom": "2017-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5530,
+      "manufacturerName": "LEOPAARD",
+      "groupKey": "MATTU",
+      "displayName": "MATTU",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40329,
+          "modelName": "MATTU",
+          "modelYearFrom": "2018-05-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

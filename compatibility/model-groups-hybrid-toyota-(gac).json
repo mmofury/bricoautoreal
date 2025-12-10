@@ -1,0 +1,271 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.516Z",
+  "manufacturer": "TOYOTA (GAC)",
+  "countGroups": 14,
+  "groups": [
+    {
+      "manufacturerId": 3130,
+      "manufacturerName": "TOYOTA (GAC)",
+      "groupKey": "BZ4X",
+      "displayName": "BZ4X",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43662,
+          "modelName": "bZ4X (_AM1_)",
+          "modelYearFrom": "2022-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3130,
+      "manufacturerName": "TOYOTA (GAC)",
+      "groupKey": "C",
+      "displayName": "C",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38791,
+          "modelName": "C-HR (_XA1_, _X1_, _XH1_)",
+          "modelYearFrom": "2018-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3130,
+      "manufacturerName": "TOYOTA (GAC)",
+      "groupKey": "CAMRY",
+      "displayName": "CAMRY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6555,
+          "modelName": "CAMRY (_V4_)",
+          "modelYearFrom": "2006-06-01",
+          "modelYearTo": "2015-12-01"
+        },
+        {
+          "modelId": 13617,
+          "modelName": "CAMRY (_V5_)",
+          "modelYearFrom": "2011-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38310,
+          "modelName": "CAMRY (_V7_, _VA7_, _VH7_)",
+          "modelYearFrom": "2017-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45281,
+          "modelName": "CAMRY (_H8_, _A8_)",
+          "modelYearFrom": "2024-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3130,
+      "manufacturerName": "TOYOTA (GAC)",
+      "groupKey": "FRONTLANDER",
+      "displayName": "FRONTLANDER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42633,
+          "modelName": "FRONTLANDER (_GA1_, _GH1_)",
+          "modelYearFrom": "2022-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3130,
+      "manufacturerName": "TOYOTA (GAC)",
+      "groupKey": "HIGHLANDER",
+      "displayName": "HIGHLANDER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8038,
+          "modelName": "HIGHLANDER (_U4_)",
+          "modelYearFrom": "2009-05-01",
+          "modelYearTo": "2015-12-01"
+        },
+        {
+          "modelId": 13964,
+          "modelName": "HIGHLANDER (_U5_)",
+          "modelYearFrom": "2015-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42092,
+          "modelName": "HIGHLANDER IV (_UH7_, _UA7_)",
+          "modelYearFrom": "2021-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3130,
+      "manufacturerName": "TOYOTA (GAC)",
+      "groupKey": "IA5",
+      "displayName": "IA5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39861,
+          "modelName": "iA5",
+          "modelYearFrom": "2019-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3130,
+      "manufacturerName": "TOYOTA (GAC)",
+      "groupKey": "IX4",
+      "displayName": "IX4",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39261,
+          "modelName": "ix4",
+          "modelYearFrom": "2018-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3130,
+      "manufacturerName": "TOYOTA (GAC)",
+      "groupKey": "LEVIN",
+      "displayName": "LEVIN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13068,
+          "modelName": "LEVIN (_E18_)",
+          "modelYearFrom": "2014-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39558,
+          "modelName": "LEVIN (_E21_, _EA1_)",
+          "modelYearFrom": "2019-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39624,
+          "modelName": "LEVIN (_E18_)",
+          "modelYearFrom": "2019-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3130,
+      "manufacturerName": "TOYOTA (GAC)",
+      "groupKey": "LINGSHANG",
+      "displayName": "LINGSHANG",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42123,
+          "modelName": "LINGSHANG (_EA1_, _EH1_)",
+          "modelYearFrom": "2021-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3130,
+      "manufacturerName": "TOYOTA (GAC)",
+      "groupKey": "SIENNA",
+      "displayName": "SIENNA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42513,
+          "modelName": "SIENNA (_H4_)",
+          "modelYearFrom": "2021-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3130,
+      "manufacturerName": "TOYOTA (GAC)",
+      "groupKey": "VENZA",
+      "displayName": "VENZA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42643,
+          "modelName": "VENZA (_UA8_, _UH8_)",
+          "modelYearFrom": "2022-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3130,
+      "manufacturerName": "TOYOTA (GAC)",
+      "groupKey": "VERSO",
+      "displayName": "VERSO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9870,
+          "modelName": "VERSO (ZGR2_)",
+          "modelYearFrom": "2011-06-01",
+          "modelYearTo": "2017-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3130,
+      "manufacturerName": "TOYOTA (GAC)",
+      "groupKey": "WILDLANDER",
+      "displayName": "WILDLANDER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40477,
+          "modelName": "WILDLANDER (_AA5_, _AH5_, _AP5_)",
+          "modelYearFrom": "2020-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3130,
+      "manufacturerName": "TOYOTA (GAC)",
+      "groupKey": "YARIS",
+      "displayName": "YARIS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7831,
+          "modelName": "YARIS (_P9_)",
+          "modelYearFrom": "2008-01-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 13322,
+          "modelName": "YARIS L Berline bicorps trois ou cinq portes (_P15_)",
+          "modelYearFrom": "2014-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37892,
+          "modelName": "YARIS L A trois volumes (_P15_)",
+          "modelYearFrom": "2017-03-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

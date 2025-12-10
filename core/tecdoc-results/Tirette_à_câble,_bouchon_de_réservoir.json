@@ -1,0 +1,54 @@
+{
+  "productName": "Tirette à câble, bouchon de réservoir",
+  "searchText": "Tirette à câble, bouchon de réservoir",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:26:17.892Z",
+  "productId": 5056,
+  "arborescence": {
+    "Verrouillage": {
+      "categoryId": 100685,
+      "categoryName": "Verrouillage",
+      "level": 1,
+      "children": {
+        "Serrure extérieure": {
+          "categoryId": null,
+          "categoryName": "Serrure extérieure",
+          "level": 2,
+          "children": {
+            "Tirette à câble, bouchon de réservoir": {
+              "categoryId": 100687,
+              "categoryName": "Exterior Locks",
+              "level": 2,
+              "children": [],
+              "productId": 5056
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Verrouillage [ID: 100685] (Niveau 1)\n    └── Serrure extérieure (Niveau 2)\n        └── Exterior Locks [ID: 100687] (Niveau 2) → ProductId: 5056",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Verrouillage",
+        "Serrure extérieure",
+        "Exterior Locks"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100687
+      ],
+      "finalCategoryId": 100687,
+      "productId": 5056
+    }
+  ],
+  "productIdsInArbo": [
+    5056
+  ],
+  "matchedProductIds": [
+    5056
+  ]
+}

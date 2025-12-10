@@ -1,0 +1,154 @@
+{
+  "productName": "Tampon en gel, corps optique",
+  "searchText": "Tampon en gel, corps optique",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:24:46.287Z",
+  "productId": 60082,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Vitrages/Miroirs": {
+          "categoryId": null,
+          "categoryName": "Vitrages/Miroirs",
+          "level": 2,
+          "children": {
+            "Tampon en gel, corps optique": {
+              "categoryId": 100744,
+              "categoryName": "Glazing/Mirrors",
+              "level": 2,
+              "children": {
+                "Vitrage": {
+                  "categoryId": null,
+                  "categoryName": "Vitrage",
+                  "level": 4,
+                  "children": {
+                    "Tampon en gel, corps optique": {
+                      "categoryId": 100745,
+                      "categoryName": "Glazing",
+                      "level": 3,
+                      "children": {
+                        "Pièces de montage": {
+                          "categoryId": null,
+                          "categoryName": "Pièces de montage",
+                          "level": 6,
+                          "children": {
+                            "Tampon en gel, corps optique": {
+                              "categoryId": 100569,
+                              "categoryName": "Assembly Parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 60082
+                            }
+                          }
+                        }
+                      },
+                      "productId": 60082
+                    }
+                  }
+                }
+              },
+              "productId": 60082
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Capteurs": {
+          "categoryId": null,
+          "categoryName": "Capteurs",
+          "level": 2,
+          "children": {
+            "Tampon en gel, corps optique": {
+              "categoryId": 102747,
+              "categoryName": "Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 60082
+            }
+          }
+        }
+      }
+    },
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Capteur de pluie": {
+          "categoryId": null,
+          "categoryName": "Capteur de pluie",
+          "level": 2,
+          "children": {
+            "Tampon en gel, corps optique": {
+              "categoryId": 100850,
+              "categoryName": "Rain Sensor",
+              "level": 2,
+              "children": [],
+              "productId": 60082
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carrosserie [ID: 100001] (Niveau 1)\n│   └── Vitrages/Miroirs (Niveau 2)\n│       └── Glazing/Mirrors [ID: 100744] (Niveau 2) → ProductId: 60082\n│           └── Vitrage (Niveau 4)\n│               └── Glazing [ID: 100745] (Niveau 3) → ProductId: 60082\n│                   └── Pièces de montage (Niveau 6)\n│                       └── Assembly Parts [ID: 100569] (Niveau 4) → ProductId: 60082\n\n├── Système électrique [ID: 100010] (Niveau 1)\n│   └── Capteurs (Niveau 2)\n│       └── Sensors [ID: 102747] (Niveau 2) → ProductId: 60082\n\n└── Systèmes de confort [ID: 100335] (Niveau 1)\n    └── Capteur de pluie (Niveau 2)\n        └── Rain Sensor [ID: 100850] (Niveau 2) → ProductId: 60082",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Vitrages/Miroirs",
+        "Glazing/Mirrors"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100744
+      ],
+      "finalCategoryId": 100744,
+      "productId": 60082
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Capteurs",
+        "Sensors"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        102747
+      ],
+      "finalCategoryId": 102747,
+      "productId": 60082
+    },
+    {
+      "path": [
+        "Systèmes de confort",
+        "Capteur de pluie",
+        "Rain Sensor"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        100850
+      ],
+      "finalCategoryId": 100850,
+      "productId": 60082
+    }
+  ],
+  "productIdsInArbo": [
+    60082
+  ],
+  "matchedProductIds": [
+    60082
+  ]
+}

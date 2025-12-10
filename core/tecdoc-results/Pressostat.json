@@ -1,0 +1,852 @@
+{
+  "productName": "Pressostat",
+  "searchText": "Pressostat",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:03:57.951Z",
+  "productId": 2440,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Pressostat/manostat": {
+          "categoryId": null,
+          "categoryName": "Pressostat/manostat",
+          "level": 2,
+          "children": {
+            "Adaptateur, régulateur de pression du carburant": {
+              "categoryId": 100270,
+              "categoryName": "Pressure Regulator/Switch",
+              "level": 2,
+              "children": [],
+              "productId": 60417
+            },
+            "Commutateur de niveau, carburant": {
+              "categoryId": 100270,
+              "categoryName": "Pressure Regulator/Switch",
+              "level": 2,
+              "children": [],
+              "productId": 1409
+            },
+            "Interrupteur, pression de carburant": {
+              "categoryId": 100270,
+              "categoryName": "Pressure Regulator/Switch",
+              "level": 2,
+              "children": [],
+              "productId": 817
+            },
+            "Kit adaptateur, régulateur de pression du carburant": {
+              "categoryId": 100270,
+              "categoryName": "Pressure Regulator/Switch",
+              "level": 2,
+              "children": [],
+              "productId": 60415
+            },
+            "Kit réparation de câble, capteur régulateur de carburant": {
+              "categoryId": 100270,
+              "categoryName": "Pressure Regulator/Switch",
+              "level": 2,
+              "children": [],
+              "productId": 9331
+            },
+            "Membrane, régulateur de pression du carburant": {
+              "categoryId": 100270,
+              "categoryName": "Pressure Regulator/Switch",
+              "level": 2,
+              "children": [],
+              "productId": 60416
+            },
+            "Régulateur de pression du carburant": {
+              "categoryId": 100270,
+              "categoryName": "Pressure Regulator/Switch",
+              "level": 2,
+              "children": [],
+              "productId": 168
+            },
+            "Régulateur de pression, pompe à carburant": {
+              "categoryId": 100270,
+              "categoryName": "Pressure Regulator/Switch",
+              "level": 2,
+              "children": [],
+              "productId": 1125
+            },
+            "Soupape, régulateur de pression du carburant": {
+              "categoryId": 100270,
+              "categoryName": "Pressure Regulator/Switch",
+              "level": 2,
+              "children": [],
+              "productId": 60342
+            },
+            "Support, régulateur de pression du carburant": {
+              "categoryId": 100270,
+              "categoryName": "Pressure Regulator/Switch",
+              "level": 2,
+              "children": [],
+              "productId": 60414
+            }
+          }
+        }
+      }
+    },
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Boîte de vitesses manuelle robotisée (BVR)": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesses manuelle robotisée (BVR)",
+          "level": 2,
+          "children": {
+            "Contacteur de pression d’huile, BV manuelle robotisée (BVR)": {
+              "categoryId": 706584,
+              "categoryName": "Automated manual transmission (AMT)",
+              "level": 2,
+              "children": {
+                "Capteurs/Conatct": {
+                  "categoryId": null,
+                  "categoryName": "Capteurs/Conatct",
+                  "level": 4,
+                  "children": {
+                    "Contacteur de pression d’huile, BV manuelle robotisée (BVR)": {
+                      "categoryId": 706636,
+                      "categoryName": "Sensors/Switches",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60287
+                    }
+                  }
+                },
+                "Carter/composants": {
+                  "categoryId": null,
+                  "categoryName": "Carter/composants",
+                  "level": 4,
+                  "children": {
+                    "Contacteur de pression d’huile, BV manuelle robotisée (BVR)": {
+                      "categoryId": 706586,
+                      "categoryName": "Transmission Housing/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60287
+                    }
+                  }
+                },
+                "Contrôle / hydraulique": {
+                  "categoryId": null,
+                  "categoryName": "Contrôle / hydraulique",
+                  "level": 4,
+                  "children": {
+                    "Contacteur de pression d’huile, BV manuelle robotisée (BVR)": {
+                      "categoryId": 706621,
+                      "categoryName": "Transmission Control/Hydraulics",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60287
+                    }
+                  }
+                },
+                "Interrupteur": {
+                  "categoryId": null,
+                  "categoryName": "Interrupteur",
+                  "level": 4,
+                  "children": {
+                    "Contacteur de pression d’huile, BV manuelle robotisée (BVR)": {
+                      "categoryId": 706654,
+                      "categoryName": "Switch",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60287
+                    }
+                  }
+                }
+              },
+              "productId": 60287
+            }
+          }
+        }
+      }
+    },
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Pressostat, ventilation-collecteur d'admission": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Interrupteur / relais": {
+                  "categoryId": null,
+                  "categoryName": "Interrupteur / relais",
+                  "level": 4,
+                  "children": {
+                    "Pressostat, ventilation-collecteur d'admission": {
+                      "categoryId": 102808,
+                      "categoryName": "Switch/ Relay",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3958
+                    }
+                  }
+                }
+              },
+              "productId": 3958
+            }
+          }
+        }
+      }
+    },
+    "Climatisation": {
+      "categoryId": 100243,
+      "categoryName": "Climatisation",
+      "level": 1,
+      "children": {
+        "Interrupteur": {
+          "categoryId": null,
+          "categoryName": "Interrupteur",
+          "level": 2,
+          "children": {
+            "Kit réparation de câble, pressostat (climatisation)": {
+              "categoryId": 100366,
+              "categoryName": "Switch",
+              "level": 2,
+              "children": [],
+              "productId": 7306
+            },
+            "Pressostat (basse pression), climatisation": {
+              "categoryId": 100366,
+              "categoryName": "Switch",
+              "level": 2,
+              "children": [],
+              "productId": 555
+            },
+            "Pressostat (hte pression), climatisation": {
+              "categoryId": 100366,
+              "categoryName": "Switch",
+              "level": 2,
+              "children": [],
+              "productId": 550
+            },
+            "Pressostat, climatisation": {
+              "categoryId": 100366,
+              "categoryName": "Switch",
+              "level": 2,
+              "children": [],
+              "productId": 1360
+            }
+          }
+        }
+      }
+    },
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Accumulateur de pression / pressostat": {
+          "categoryId": null,
+          "categoryName": "Accumulateur de pression / pressostat",
+          "level": 2,
+          "children": {
+            "Accumulateur de pression, freinage": {
+              "categoryId": 100382,
+              "categoryName": "Pressure Accumulator/Switch",
+              "level": 2,
+              "children": [],
+              "productId": 1064
+            },
+            "Accumulateur de pression, régulateur de contrôle dynamique": {
+              "categoryId": 100382,
+              "categoryName": "Pressure Accumulator/Switch",
+              "level": 2,
+              "children": [],
+              "productId": 1224
+            },
+            "Commutateur d'avertissement de différentiel de pression": {
+              "categoryId": 100382,
+              "categoryName": "Pressure Accumulator/Switch",
+              "level": 2,
+              "children": [],
+              "productId": 365
+            },
+            "Pressostat, hydraulique des freins": {
+              "categoryId": 100382,
+              "categoryName": "Pressure Accumulator/Switch",
+              "level": 2,
+              "children": [],
+              "productId": 2308
+            }
+          }
+        },
+        "Régulateur de freinage": {
+          "categoryId": null,
+          "categoryName": "Régulateur de freinage",
+          "level": 2,
+          "children": {
+            "Commutateur d'avertissement de différentiel de pression": {
+              "categoryId": 100037,
+              "categoryName": "Brake Force Regulator",
+              "level": 2,
+              "children": [],
+              "productId": 365
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Alimentation en air": {
+          "categoryId": null,
+          "categoryName": "Alimentation en air",
+          "level": 2,
+          "children": {
+            "Embout, tige de commande de la boîte à pression": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Suralimentation": {
+                  "categoryId": null,
+                  "categoryName": "Suralimentation",
+                  "level": 4,
+                  "children": {
+                    "Embout, tige de commande de la boîte à pression": {
+                      "categoryId": 100390,
+                      "categoryName": "Charging (supercharged/turbocharged)",
+                      "level": 3,
+                      "children": {
+                        "Réglage d'air de suralimentation": {
+                          "categoryId": null,
+                          "categoryName": "Réglage d'air de suralimentation",
+                          "level": 6,
+                          "children": {
+                            "Embout, tige de commande de la boîte à pression": {
+                              "categoryId": 100394,
+                              "categoryName": "Charge Air Control",
+                              "level": 4,
+                              "children": [],
+                              "productId": 60407
+                            }
+                          }
+                        }
+                      },
+                      "productId": 60407
+                    }
+                  }
+                }
+              },
+              "productId": 60407
+            }
+          }
+        },
+        "Circuit électrique du moteur": {
+          "categoryId": null,
+          "categoryName": "Circuit électrique du moteur",
+          "level": 2,
+          "children": {
+            "Câble de raccordement, commutateur de pression d’huile": {
+              "categoryId": 100754,
+              "categoryName": "Engine Electrics",
+              "level": 2,
+              "children": [],
+              "productId": 9385
+            }
+          }
+        },
+        "Lubrification": {
+          "categoryId": null,
+          "categoryName": "Lubrification",
+          "level": 2,
+          "children": {
+            "Câble de raccordement, commutateur de pression d’huile": {
+              "categoryId": 100245,
+              "categoryName": "Lubrication",
+              "level": 2,
+              "children": {
+                "Indicateur de pression d'huile / capteur / soupape": {
+                  "categoryId": null,
+                  "categoryName": "Indicateur de pression d'huile / capteur / soupape",
+                  "level": 4,
+                  "children": {
+                    "Câble de raccordement, commutateur de pression d’huile": {
+                      "categoryId": 100478,
+                      "categoryName": "Oil Pressure Switch/Sensor/Valve",
+                      "level": 3,
+                      "children": [],
+                      "productId": 9385
+                    }
+                  }
+                }
+              },
+              "productId": 9385
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Instruments": {
+          "categoryId": null,
+          "categoryName": "Instruments",
+          "level": 2,
+          "children": {
+            "Contacteur de pression d’huile, BV manuelle robotisée (BVR)": {
+              "categoryId": 100322,
+              "categoryName": "Instruments",
+              "level": 2,
+              "children": {
+                "Capteurs/Conatct": {
+                  "categoryId": null,
+                  "categoryName": "Capteurs/Conatct",
+                  "level": 4,
+                  "children": {
+                    "Contacteur de pression d’huile, BV manuelle robotisée (BVR)": {
+                      "categoryId": 100553,
+                      "categoryName": "Sensors/Switches",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60287
+                    }
+                  }
+                }
+              },
+              "productId": 60287
+            }
+          }
+        }
+      }
+    },
+    "Système pneumatique": {
+      "categoryId": 103168,
+      "categoryName": "Système pneumatique",
+      "level": 1,
+      "children": {
+        "Interrupteur": {
+          "categoryId": null,
+          "categoryName": "Interrupteur",
+          "level": 2,
+          "children": {
+            "Pressostat": {
+              "categoryId": 706494,
+              "categoryName": "Switch",
+              "level": 2,
+              "children": [],
+              "productId": 2440
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Alimentation carburant [ID: 100214] (Niveau 1)\n│   └── Pressostat/manostat (Niveau 2)\n│       ├── Pressure Regulator/Switch [ID: 100270] (Niveau 2) → ProductId: 60417\n│       ├── Pressure Regulator/Switch [ID: 100270] (Niveau 2) → ProductId: 1409\n│       ├── Pressure Regulator/Switch [ID: 100270] (Niveau 2) → ProductId: 817\n│       ├── Pressure Regulator/Switch [ID: 100270] (Niveau 2) → ProductId: 60415\n│       ├── Pressure Regulator/Switch [ID: 100270] (Niveau 2) → ProductId: 9331\n│       ├── Pressure Regulator/Switch [ID: 100270] (Niveau 2) → ProductId: 60416\n│       ├── Pressure Regulator/Switch [ID: 100270] (Niveau 2) → ProductId: 168\n│       ├── Pressure Regulator/Switch [ID: 100270] (Niveau 2) → ProductId: 1125\n│       ├── Pressure Regulator/Switch [ID: 100270] (Niveau 2) → ProductId: 60342\n│       └── Pressure Regulator/Switch [ID: 100270] (Niveau 2) → ProductId: 60414\n\n├── Boîte de vitesses [ID: 100238] (Niveau 1)\n│   └── Boîte de vitesses manuelle robotisée (BVR) (Niveau 2)\n│       └── Automated manual transmission (AMT) [ID: 706584] (Niveau 2) → ProductId: 60287\n│           ├── Capteurs/Conatct (Niveau 4)\n│           │   └── Sensors/Switches [ID: 706636] (Niveau 3) → ProductId: 60287\n│           ├── Carter/composants (Niveau 4)\n│           │   └── Transmission Housing/Parts [ID: 706586] (Niveau 3) → ProductId: 60287\n│           ├── Contrôle / hydraulique (Niveau 4)\n│           │   └── Transmission Control/Hydraulics [ID: 706621] (Niveau 3) → ProductId: 60287\n│           └── Interrupteur (Niveau 4)\n│               └── Switch [ID: 706654] (Niveau 3) → ProductId: 60287\n\n├── Carburation [ID: 100254] (Niveau 1)\n│   └── Mélange air-carburant (Niveau 2)\n│       └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 3958\n│           └── Interrupteur / relais (Niveau 4)\n│               └── Switch/ Relay [ID: 102808] (Niveau 3) → ProductId: 3958\n\n├── Climatisation [ID: 100243] (Niveau 1)\n│   └── Interrupteur (Niveau 2)\n│       ├── Switch [ID: 100366] (Niveau 2) → ProductId: 7306\n│       ├── Switch [ID: 100366] (Niveau 2) → ProductId: 555\n│       ├── Switch [ID: 100366] (Niveau 2) → ProductId: 550\n│       └── Switch [ID: 100366] (Niveau 2) → ProductId: 1360\n\n├── Dispositif de freinage [ID: 100006] (Niveau 1)\n│   ├── Accumulateur de pression / pressostat (Niveau 2)\n│   │   ├── Pressure Accumulator/Switch [ID: 100382] (Niveau 2) → ProductId: 1064\n│   │   ├── Pressure Accumulator/Switch [ID: 100382] (Niveau 2) → ProductId: 1224\n│   │   ├── Pressure Accumulator/Switch [ID: 100382] (Niveau 2) → ProductId: 365\n│   │   └── Pressure Accumulator/Switch [ID: 100382] (Niveau 2) → ProductId: 2308\n│   └── Régulateur de freinage (Niveau 2)\n│       └── Brake Force Regulator [ID: 100037] (Niveau 2) → ProductId: 365\n\n├── Moteur [ID: 100002] (Niveau 1)\n│   ├── Alimentation en air (Niveau 2)\n│   │   └── Air Supply [ID: 100383] (Niveau 2) → ProductId: 60407\n│   │       └── Suralimentation (Niveau 4)\n│   │           └── Charging (supercharged/turbocharged) [ID: 100390] (Niveau 3) → ProductId: 60407\n│   │               └── Réglage d'air de suralimentation (Niveau 6)\n│   │                   └── Charge Air Control [ID: 100394] (Niveau 4) → ProductId: 60407\n│   ├── Circuit électrique du moteur (Niveau 2)\n│   │   └── Engine Electrics [ID: 100754] (Niveau 2) → ProductId: 9385\n│   └── Lubrification (Niveau 2)\n│       └── Lubrication [ID: 100245] (Niveau 2) → ProductId: 9385\n│           └── Indicateur de pression d'huile / capteur / soupape (Niveau 4)\n│               └── Oil Pressure Switch/Sensor/Valve [ID: 100478] (Niveau 3) → ProductId: 9385\n\n├── Système électrique [ID: 100010] (Niveau 1)\n│   └── Instruments (Niveau 2)\n│       └── Instruments [ID: 100322] (Niveau 2) → ProductId: 60287\n│           └── Capteurs/Conatct (Niveau 4)\n│               └── Sensors/Switches [ID: 100553] (Niveau 3) → ProductId: 60287\n\n└── Système pneumatique [ID: 103168] (Niveau 1)\n    └── Interrupteur (Niveau 2)\n        └── Switch [ID: 706494] (Niveau 2) → ProductId: 2440",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Pressostat/manostat",
+        "Pressure Regulator/Switch"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100270
+      ],
+      "finalCategoryId": 100270,
+      "productId": 60417
+    },
+    {
+      "path": [
+        "Alimentation carburant",
+        "Pressostat/manostat",
+        "Pressure Regulator/Switch"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100270
+      ],
+      "finalCategoryId": 100270,
+      "productId": 1409
+    },
+    {
+      "path": [
+        "Alimentation carburant",
+        "Pressostat/manostat",
+        "Pressure Regulator/Switch"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100270
+      ],
+      "finalCategoryId": 100270,
+      "productId": 817
+    },
+    {
+      "path": [
+        "Alimentation carburant",
+        "Pressostat/manostat",
+        "Pressure Regulator/Switch"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100270
+      ],
+      "finalCategoryId": 100270,
+      "productId": 60415
+    },
+    {
+      "path": [
+        "Alimentation carburant",
+        "Pressostat/manostat",
+        "Pressure Regulator/Switch"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100270
+      ],
+      "finalCategoryId": 100270,
+      "productId": 9331
+    },
+    {
+      "path": [
+        "Alimentation carburant",
+        "Pressostat/manostat",
+        "Pressure Regulator/Switch"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100270
+      ],
+      "finalCategoryId": 100270,
+      "productId": 60416
+    },
+    {
+      "path": [
+        "Alimentation carburant",
+        "Pressostat/manostat",
+        "Pressure Regulator/Switch"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100270
+      ],
+      "finalCategoryId": 100270,
+      "productId": 168
+    },
+    {
+      "path": [
+        "Alimentation carburant",
+        "Pressostat/manostat",
+        "Pressure Regulator/Switch"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100270
+      ],
+      "finalCategoryId": 100270,
+      "productId": 1125
+    },
+    {
+      "path": [
+        "Alimentation carburant",
+        "Pressostat/manostat",
+        "Pressure Regulator/Switch"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100270
+      ],
+      "finalCategoryId": 100270,
+      "productId": 60342
+    },
+    {
+      "path": [
+        "Alimentation carburant",
+        "Pressostat/manostat",
+        "Pressure Regulator/Switch"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100270
+      ],
+      "finalCategoryId": 100270,
+      "productId": 60414
+    },
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesses manuelle robotisée (BVR)",
+        "Automated manual transmission (AMT)"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        706584
+      ],
+      "finalCategoryId": 706584,
+      "productId": 60287
+    },
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 3958
+    },
+    {
+      "path": [
+        "Climatisation",
+        "Interrupteur",
+        "Switch"
+      ],
+      "categoryIds": [
+        100243,
+        null,
+        100366
+      ],
+      "finalCategoryId": 100366,
+      "productId": 7306
+    },
+    {
+      "path": [
+        "Climatisation",
+        "Interrupteur",
+        "Switch"
+      ],
+      "categoryIds": [
+        100243,
+        null,
+        100366
+      ],
+      "finalCategoryId": 100366,
+      "productId": 555
+    },
+    {
+      "path": [
+        "Climatisation",
+        "Interrupteur",
+        "Switch"
+      ],
+      "categoryIds": [
+        100243,
+        null,
+        100366
+      ],
+      "finalCategoryId": 100366,
+      "productId": 550
+    },
+    {
+      "path": [
+        "Climatisation",
+        "Interrupteur",
+        "Switch"
+      ],
+      "categoryIds": [
+        100243,
+        null,
+        100366
+      ],
+      "finalCategoryId": 100366,
+      "productId": 1360
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Accumulateur de pression / pressostat",
+        "Pressure Accumulator/Switch"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100382
+      ],
+      "finalCategoryId": 100382,
+      "productId": 1064
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Accumulateur de pression / pressostat",
+        "Pressure Accumulator/Switch"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100382
+      ],
+      "finalCategoryId": 100382,
+      "productId": 1224
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Accumulateur de pression / pressostat",
+        "Pressure Accumulator/Switch"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100382
+      ],
+      "finalCategoryId": 100382,
+      "productId": 365
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Accumulateur de pression / pressostat",
+        "Pressure Accumulator/Switch"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100382
+      ],
+      "finalCategoryId": 100382,
+      "productId": 2308
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Régulateur de freinage",
+        "Brake Force Regulator"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100037
+      ],
+      "finalCategoryId": 100037,
+      "productId": 365
+    },
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 60407
+    },
+    {
+      "path": [
+        "Moteur",
+        "Circuit électrique du moteur",
+        "Engine Electrics"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100754
+      ],
+      "finalCategoryId": 100754,
+      "productId": 9385
+    },
+    {
+      "path": [
+        "Moteur",
+        "Lubrification",
+        "Lubrication"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100245
+      ],
+      "finalCategoryId": 100245,
+      "productId": 9385
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Instruments",
+        "Instruments"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100322
+      ],
+      "finalCategoryId": 100322,
+      "productId": 60287
+    },
+    {
+      "path": [
+        "Système pneumatique",
+        "Interrupteur",
+        "Switch"
+      ],
+      "categoryIds": [
+        103168,
+        null,
+        706494
+      ],
+      "finalCategoryId": 706494,
+      "productId": 2440
+    }
+  ],
+  "productIdsInArbo": [
+    168,
+    365,
+    550,
+    555,
+    817,
+    1064,
+    1125,
+    1224,
+    1360,
+    1409,
+    2308,
+    2440,
+    3958,
+    7306,
+    9331,
+    9385,
+    60287,
+    60342,
+    60407,
+    60414,
+    60415,
+    60416,
+    60417
+  ],
+  "matchedProductIds": [
+    2440
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G13DP7",
+      "index": "OSROEINVPB20",
+      "tecDoc": "OEINVPB20",
+      "tecDocProd": "67",
+      "articleNumber": "OEINVPB20",
+      "brand": "OSRAM",
+      "shortDescription": "Voltage converter",
+      "description": "Converter, input voltage: 20/33 V, output voltage: 200/240 V - 440x247x118 mm",
+      "customsCode": "85044095",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_60170",
+          "primary": false,
+          "name": {
+            "en": "Inverter"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91754",
+          "primary": true,
+          "name": {
+            "en": "Voltage converter"
+          }
+        }
+      ]
+    }
+  ]
+}

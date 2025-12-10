@@ -1,0 +1,50 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "E58A9C",
+      "index": "100 498 0243",
+      "tecDoc": "100 498 0243",
+      "tecDocProd": "144",
+      "articleNumber": "100 498 0243",
+      "brand": "MEYLE",
+      "shortDescription": "Stub Shaft, differential",
+      "description": "Indirect shaft (number of teeth 26/37pcs, L=136,5mm) fits: VW MULTIVAN T5, TRANSPORTER T5 1.9D-3.2 04.03-08.15",
+      "gtuCode": "GTU_07",
+      "eans": [
+        "4040074138373"
+      ],
+      "packageWeight": "0,944",
+      "packageWidth": "9,500",
+      "packageDepth": "17,000",
+      "packageHeight": "9,000",
+      "customsCode": "87089993",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_236",
+          "primary": false,
+          "name": {
+            "en": "Joint, drive shaft"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_5051",
+          "primary": true,
+          "name": {
+            "en": "Stub Shaft, differential"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_13",
+          "primary": false,
+          "name": {
+            "en": "Drive Shaft"
+          }
+        }
+      ]
+    }
+  ]
+}

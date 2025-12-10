@@ -1,0 +1,481 @@
+{
+  "productName": "Bille",
+  "searchText": "Bille",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T20:07:07.559Z",
+  "productId": 4132,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Pompe / accessoires": {
+          "categoryId": null,
+          "categoryName": "Pompe / accessoires",
+          "level": 2,
+          "children": {
+            "Amortisseur de pot de stabilisation": {
+              "categoryId": 100251,
+              "categoryName": "Pump/Accessories",
+              "level": 2,
+              "children": {
+                "Accessoires/Composants": {
+                  "categoryId": null,
+                  "categoryName": "Accessoires/Composants",
+                  "level": 4,
+                  "children": {
+                    "Amortisseur de pot de stabilisation": {
+                      "categoryId": 100718,
+                      "categoryName": "Accessories/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1407
+                    }
+                  }
+                }
+              },
+              "productId": 1407
+            },
+            "Pot de stabilisation, pompe à carburant": {
+              "categoryId": 100251,
+              "categoryName": "Pump/Accessories",
+              "level": 2,
+              "children": {
+                "Pompe d'alimentation": {
+                  "categoryId": null,
+                  "categoryName": "Pompe d'alimentation",
+                  "level": 4,
+                  "children": {
+                    "Pot de stabilisation, pompe à carburant": {
+                      "categoryId": 100717,
+                      "categoryName": "Fuel Pump",
+                      "level": 3,
+                      "children": [],
+                      "productId": 887
+                    }
+                  }
+                }
+              },
+              "productId": 887
+            },
+            "Support, amortisseur de pot de stabilisation": {
+              "categoryId": 100251,
+              "categoryName": "Pump/Accessories",
+              "level": 2,
+              "children": {
+                "Accessoires/Composants": {
+                  "categoryId": null,
+                  "categoryName": "Accessoires/Composants",
+                  "level": 4,
+                  "children": {
+                    "Support, amortisseur de pot de stabilisation": {
+                      "categoryId": 100718,
+                      "categoryName": "Accessories/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1408
+                    }
+                  }
+                }
+              },
+              "productId": 1408
+            }
+          }
+        },
+        "Réservoir de carburant / accessoires": {
+          "categoryId": null,
+          "categoryName": "Réservoir de carburant / accessoires",
+          "level": 2,
+          "children": {
+            "Pot de stabilisation, pompe à carburant": {
+              "categoryId": 100250,
+              "categoryName": "Fuel Tank/Accessories",
+              "level": 2,
+              "children": [],
+              "productId": 887
+            }
+          }
+        }
+      }
+    },
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Dispositif de basculement, cabine": {
+              "categoryId": 103132,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 9357
+            },
+            "Kit de dispositif de basculement, cabine": {
+              "categoryId": 103132,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 9356
+            }
+          }
+        }
+      }
+    },
+    "Entraînement des essieux": {
+      "categoryId": 100400,
+      "categoryName": "Entraînement des essieux",
+      "level": 1,
+      "children": {
+        "Arbre de transmission": {
+          "categoryId": null,
+          "categoryName": "Arbre de transmission",
+          "level": 2,
+          "children": {
+            "Arbre de transmission, entraînement essieux": {
+              "categoryId": 100703,
+              "categoryName": "Propshaft",
+              "level": 2,
+              "children": {
+                "Arbre de transmission": {
+                  "categoryId": null,
+                  "categoryName": "Arbre de transmission",
+                  "level": 4,
+                  "children": {
+                    "Arbre de transmission, entraînement essieux": {
+                      "categoryId": 100805,
+                      "categoryName": "Propshaft",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3675
+                    }
+                  }
+                }
+              },
+              "productId": 3675
+            }
+          }
+        },
+        "Boîte de transfert": {
+          "categoryId": null,
+          "categoryName": "Boîte de transfert",
+          "level": 2,
+          "children": {
+            "Bille, bague de réglage (boîte de transfert)": {
+              "categoryId": 100416,
+              "categoryName": "Transfer Case",
+              "level": 2,
+              "children": [],
+              "productId": 61017
+            }
+          }
+        }
+      }
+    },
+    "Entraînement hybride/électrique": {
+      "categoryId": 706209,
+      "categoryName": "Entraînement hybride/électrique",
+      "level": 1,
+      "children": {
+        "Moteur électrique": {
+          "categoryId": null,
+          "categoryName": "Moteur électrique",
+          "level": 2,
+          "children": {
+            "Roulement à billes, arbre du moteur électrique": {
+              "categoryId": 706682,
+              "categoryName": "Electric Motor",
+              "level": 2,
+              "children": [],
+              "productId": 60979
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Distribution moteur": {
+          "categoryId": null,
+          "categoryName": "Distribution moteur",
+          "level": 2,
+          "children": {
+            "Bille de culbuteur": {
+              "categoryId": 100003,
+              "categoryName": "Engine Timing",
+              "level": 2,
+              "children": {
+                "Culbuteur/Levier oscillant": {
+                  "categoryId": null,
+                  "categoryName": "Culbuteur/Levier oscillant",
+                  "level": 4,
+                  "children": {
+                    "Bille de culbuteur": {
+                      "categoryId": 100398,
+                      "categoryName": "Rocker Arm/Finger Follower",
+                      "level": 3,
+                      "children": [],
+                      "productId": 9043
+                    }
+                  }
+                }
+              },
+              "productId": 9043
+            },
+            "Culbuteur, distribution": {
+              "categoryId": 100003,
+              "categoryName": "Engine Timing",
+              "level": 2,
+              "children": {
+                "Culbuteur/Levier oscillant": {
+                  "categoryId": null,
+                  "categoryName": "Culbuteur/Levier oscillant",
+                  "level": 4,
+                  "children": {
+                    "Culbuteur, distribution": {
+                      "categoryId": 100398,
+                      "categoryName": "Rocker Arm/Finger Follower",
+                      "level": 3,
+                      "children": [],
+                      "productId": 432
+                    }
+                  }
+                },
+                "Soupape / réglage de soupape": {
+                  "categoryId": null,
+                  "categoryName": "Soupape / réglage de soupape",
+                  "level": 4,
+                  "children": {
+                    "Culbuteur, distribution": {
+                      "categoryId": 100422,
+                      "categoryName": "Valve Train",
+                      "level": 3,
+                      "children": {
+                        "Réglage de soupape": {
+                          "categoryId": null,
+                          "categoryName": "Réglage de soupape",
+                          "level": 6,
+                          "children": {
+                            "Culbuteur, distribution": {
+                              "categoryId": 100424,
+                              "categoryName": "Valve Actuation",
+                              "level": 4,
+                              "children": [],
+                              "productId": 432
+                            }
+                          }
+                        }
+                      },
+                      "productId": 432
+                    }
+                  }
+                }
+              },
+              "productId": 432
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Alimentation carburant [ID: 100214] (Niveau 1)\n│   ├── Pompe / accessoires (Niveau 2)\n│   │   ├── Pump/Accessories [ID: 100251] (Niveau 2) → ProductId: 1407\n│   │   │   └── Accessoires/Composants (Niveau 4)\n│   │   │       └── Accessories/Parts [ID: 100718] (Niveau 3) → ProductId: 1407\n│   │   ├── Pump/Accessories [ID: 100251] (Niveau 2) → ProductId: 887\n│   │   │   └── Pompe d'alimentation (Niveau 4)\n│   │   │       └── Fuel Pump [ID: 100717] (Niveau 3) → ProductId: 887\n│   │   └── Pump/Accessories [ID: 100251] (Niveau 2) → ProductId: 1408\n│   │       └── Accessoires/Composants (Niveau 4)\n│   │           └── Accessories/Parts [ID: 100718] (Niveau 3) → ProductId: 1408\n│   └── Réservoir de carburant / accessoires (Niveau 2)\n│       └── Fuel Tank/Accessories [ID: 100250] (Niveau 2) → ProductId: 887\n\n├── Carrosserie [ID: 100001] (Niveau 1)\n│   └── Outils (Niveau 2)\n│       ├── Tools [ID: 103132] (Niveau 2) → ProductId: 9357\n│       └── Tools [ID: 103132] (Niveau 2) → ProductId: 9356\n\n├── Entraînement des essieux [ID: 100400] (Niveau 1)\n│   ├── Arbre de transmission (Niveau 2)\n│   │   └── Propshaft [ID: 100703] (Niveau 2) → ProductId: 3675\n│   │       └── Arbre de transmission (Niveau 4)\n│   │           └── Propshaft [ID: 100805] (Niveau 3) → ProductId: 3675\n│   └── Boîte de transfert (Niveau 2)\n│       └── Transfer Case [ID: 100416] (Niveau 2) → ProductId: 61017\n\n├── Entraînement hybride/électrique [ID: 706209] (Niveau 1)\n│   └── Moteur électrique (Niveau 2)\n│       └── Electric Motor [ID: 706682] (Niveau 2) → ProductId: 60979\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Distribution moteur (Niveau 2)\n        ├── Engine Timing [ID: 100003] (Niveau 2) → ProductId: 9043\n        │   └── Culbuteur/Levier oscillant (Niveau 4)\n        │       └── Rocker Arm/Finger Follower [ID: 100398] (Niveau 3) → ProductId: 9043\n        └── Engine Timing [ID: 100003] (Niveau 2) → ProductId: 432\n            ├── Culbuteur/Levier oscillant (Niveau 4)\n            │   └── Rocker Arm/Finger Follower [ID: 100398] (Niveau 3) → ProductId: 432\n            └── Soupape / réglage de soupape (Niveau 4)\n                └── Valve Train [ID: 100422] (Niveau 3) → ProductId: 432\n                    └── Réglage de soupape (Niveau 6)\n                        └── Valve Actuation [ID: 100424] (Niveau 4) → ProductId: 432",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Pompe / accessoires",
+        "Pump/Accessories"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100251
+      ],
+      "finalCategoryId": 100251,
+      "productId": 1407
+    },
+    {
+      "path": [
+        "Alimentation carburant",
+        "Pompe / accessoires",
+        "Pump/Accessories"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100251
+      ],
+      "finalCategoryId": 100251,
+      "productId": 887
+    },
+    {
+      "path": [
+        "Alimentation carburant",
+        "Pompe / accessoires",
+        "Pump/Accessories"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100251
+      ],
+      "finalCategoryId": 100251,
+      "productId": 1408
+    },
+    {
+      "path": [
+        "Alimentation carburant",
+        "Réservoir de carburant / accessoires",
+        "Fuel Tank/Accessories"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100250
+      ],
+      "finalCategoryId": 100250,
+      "productId": 887
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        103132
+      ],
+      "finalCategoryId": 103132,
+      "productId": 9357
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        103132
+      ],
+      "finalCategoryId": 103132,
+      "productId": 9356
+    },
+    {
+      "path": [
+        "Entraînement des essieux",
+        "Arbre de transmission",
+        "Propshaft"
+      ],
+      "categoryIds": [
+        100400,
+        null,
+        100703
+      ],
+      "finalCategoryId": 100703,
+      "productId": 3675
+    },
+    {
+      "path": [
+        "Entraînement des essieux",
+        "Boîte de transfert",
+        "Transfer Case"
+      ],
+      "categoryIds": [
+        100400,
+        null,
+        100416
+      ],
+      "finalCategoryId": 100416,
+      "productId": 61017
+    },
+    {
+      "path": [
+        "Entraînement hybride/électrique",
+        "Moteur électrique",
+        "Electric Motor"
+      ],
+      "categoryIds": [
+        706209,
+        null,
+        706682
+      ],
+      "finalCategoryId": 706682,
+      "productId": 60979
+    },
+    {
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Engine Timing"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100003
+      ],
+      "finalCategoryId": 100003,
+      "productId": 9043
+    },
+    {
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Engine Timing"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100003
+      ],
+      "finalCategoryId": 100003,
+      "productId": 432
+    }
+  ],
+  "productIdsInArbo": [
+    432,
+    887,
+    1407,
+    1408,
+    3675,
+    9043,
+    9356,
+    9357,
+    60979,
+    61017
+  ],
+  "closestProductIds": [
+    {
+      "productId": 432,
+      "productName": "Culbuteur, distribution"
+    },
+    {
+      "productId": 887,
+      "productName": "Pot de stabilisation, pompe à carburant"
+    },
+    {
+      "productId": 1407,
+      "productName": "Amortisseur de pot de stabilisation"
+    },
+    {
+      "productId": 1408,
+      "productName": "Support, amortisseur de pot de stabilisation"
+    },
+    {
+      "productId": 3675,
+      "productName": "Arbre de transmission, entraînement essieux"
+    }
+  ]
+}

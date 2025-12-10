@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H0L148",
+      "index": "F 026 T00 065",
+      "tecDoc": "F 026 T00 065",
+      "tecDocProd": "30",
+      "articleNumber": "F 026 T00 065",
+      "brand": "BOSCH",
+      "shortDescription": "Relay, fuel injection",
+      "description": "GP relay (12V, 15A) fits: ALFA ROMEO 75, 90, GTV, BMW 5 (E12), 6 (E24), 7 (E23), FIAT 124 SPIDER, 132, ARGENTA, REGATA, RITMO, UNO, LANCIA BETA, BETA H.P.E., GAMMA, PRISMA, TREVI 04.72-12.93",
+      "packageWeight": "0,119",
+      "packageWidth": "6,000",
+      "packageDepth": "9,000",
+      "packageHeight": "6,000",
+      "customsCode": "90328900",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4637",
+          "primary": false,
+          "name": {
+            "en": "Relay, engine management control unit"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_8292",
+          "primary": true,
+          "name": {
+            "en": "Relay, fuel injection"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G04J75",
+      "index": "840 0579 10",
+      "tecDoc": "840 0579 10",
+      "tecDocProd": "192",
+      "articleNumber": "840 0579 10",
+      "brand": "FAG",
+      "shortDescription": "Eyebolt, tie rod",
+      "description": "Tie rod (with no end) L/R (length: 355mm) fits: CITROEN SAXO, PEUGEOT 106 I, 106 II, 106 II/HATCHBACK 1.0-Electric 09.91-07.04",
+      "gtuCode": "GTU_07",
+      "customsCode": "87089499",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_51",
+          "primary": false,
+          "name": {
+            "en": "Inner Tie Rod"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_388",
+          "primary": true,
+          "name": {
+            "en": "Eyebolt, tie rod"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.448Z",
+  "manufacturer": "PIAGGIO",
+  "countGroups": 4,
+  "groups": [
+    {
+      "manufacturerId": 181,
+      "manufacturerName": "PIAGGIO",
+      "groupKey": "APE",
+      "displayName": "APE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 976,
+          "modelName": "APE (MP) VESPACAR",
+          "modelYearFrom": "1971-01-01",
+          "modelYearTo": "1981-11-01"
+        },
+        {
+          "modelId": 9554,
+          "modelName": "APE TM Camion plate-forme/Châssis",
+          "modelYearFrom": "1982-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 9555,
+          "modelName": "APE TM Fourgon",
+          "modelYearFrom": "1982-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 9556,
+          "modelName": "APE MINI Camion plate-forme/Châssis",
+          "modelYearFrom": "2010-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 9557,
+          "modelName": "APE CLASSIC Camion plate-forme/Châssis",
+          "modelYearFrom": "2006-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 9558,
+          "modelName": "APE CALESSINO Décapotable",
+          "modelYearFrom": "2007-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38608,
+          "modelName": "APE 50 Camion plate-forme/Châssis",
+          "modelYearFrom": "2010-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38610,
+          "modelName": "APE 50 Fourgon",
+          "modelYearFrom": "2010-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39994,
+          "modelName": "APE Décapotable",
+          "modelYearFrom": "2013-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40004,
+          "modelName": "APE Camion plate-forme/Châssis",
+          "modelYearFrom": "2014-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40662,
+          "modelName": "APE Threewheeler Convertible",
+          "modelYearFrom": "2008-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 181,
+      "manufacturerName": "PIAGGIO",
+      "groupKey": "M500",
+      "displayName": "M500",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5140,
+          "modelName": "M500",
+          "modelYearFrom": "2004-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 181,
+      "manufacturerName": "PIAGGIO",
+      "groupKey": "PORTER",
+      "displayName": "PORTER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4629,
+          "modelName": "PORTER Fourgon",
+          "modelYearFrom": "1992-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 5139,
+          "modelName": "PORTER Camion plate-forme/Châssis",
+          "modelYearFrom": "1992-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 9553,
+          "modelName": "PORTER Autobus/Autocar",
+          "modelYearFrom": "1995-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41853,
+          "modelName": "PORTER NP6 (NP6)",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 181,
+      "manufacturerName": "PIAGGIO",
+      "groupKey": "QUARGO",
+      "displayName": "QUARGO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9077,
+          "modelName": "QUARGO Camion plate-forme/Châssis",
+          "modelYearFrom": "2004-01-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

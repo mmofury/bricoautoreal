@@ -1,0 +1,3967 @@
+{
+  "metadata": {
+    "generatedAt": "2025-12-04T18:51:06.609Z",
+    "totalCategories": 709,
+    "totalDbProducts": 3364,
+    "exactMatches": 225,
+    "highMatches": 42,
+    "mediumMatches": 0,
+    "noMatches": 442,
+    "byLevel": {
+      "1": {
+        "exact": 4,
+        "high": 0,
+        "medium": 0,
+        "none": 31
+      },
+      "2": {
+        "exact": 60,
+        "high": 19,
+        "medium": 0,
+        "none": 142
+      },
+      "3": {
+        "exact": 72,
+        "high": 12,
+        "medium": 0,
+        "none": 193
+      },
+      "4": {
+        "exact": 89,
+        "high": 11,
+        "medium": 0,
+        "none": 76
+      }
+    }
+  },
+  "matches": [
+    {
+      "categoryId": "100001",
+      "categoryText": "Carrosserie",
+      "level": 1,
+      "path": [
+        "Carrosserie"
+      ],
+      "dbProductName": "Carrosserie",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100004",
+      "categoryText": "Échappement",
+      "level": 1,
+      "path": [
+        "Échappement"
+      ],
+      "dbProductName": "Échappement",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100005",
+      "categoryText": "Filtre",
+      "level": 1,
+      "path": [
+        "Filtre"
+      ],
+      "dbProductName": "Filtre",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100013",
+      "categoryText": "Suspension d'essieu/Guidage des roues/Roues",
+      "level": 1,
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues"
+      ],
+      "dbProductName": "Fusée dessieu, suspension de roue",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100746",
+      "categoryText": "Trappes/capots/portes/toit coul./toit panoram./toit pliant",
+      "level": 2,
+      "path": [
+        "Carrosserie",
+        "Trappes/capots/portes/toit coul./toit panoram./toit pliant"
+      ],
+      "dbProductName": "Joint, toit pliant",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100514",
+      "categoryText": "Carter de vilebrequin",
+      "level": 2,
+      "path": [
+        "Moteur",
+        "Carter de vilebrequin"
+      ],
+      "dbProductName": "Carter de vilebrequin",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100535",
+      "categoryText": "Support du moteur",
+      "level": 2,
+      "path": [
+        "Moteur",
+        "Support du moteur"
+      ],
+      "dbProductName": "Support moteur",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "103037",
+      "categoryText": "Cache moteur",
+      "level": 2,
+      "path": [
+        "Moteur",
+        "Cache moteur"
+      ],
+      "dbProductName": "Cache moteur",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "103397",
+      "categoryText": "Protection moteur/anti-encastrement",
+      "level": 2,
+      "path": [
+        "Moteur",
+        "Protection moteur/anti-encastrement"
+      ],
+      "dbProductName": "Protection moteur/anti-encastrement",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100047",
+      "categoryText": "Catalyseur",
+      "level": 2,
+      "path": [
+        "Échappement",
+        "Catalyseur"
+      ],
+      "dbProductName": "Catalyseur",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100259",
+      "categoryText": "Filtre à huile",
+      "level": 2,
+      "path": [
+        "Filtre",
+        "Filtre à huile"
+      ],
+      "dbProductName": "Filtre à huile",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100260",
+      "categoryText": "Filtre à air",
+      "level": 2,
+      "path": [
+        "Filtre",
+        "Filtre à air"
+      ],
+      "dbProductName": "Filtre à air",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100261",
+      "categoryText": "Filtre à carburant",
+      "level": 2,
+      "path": [
+        "Filtre",
+        "Filtre à carburant"
+      ],
+      "dbProductName": "Filtre à carburant",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "102901",
+      "categoryText": "Kit de filtres",
+      "level": 2,
+      "path": [
+        "Filtre",
+        "Kit de filtres"
+      ],
+      "dbProductName": "Kit de filtres",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100026",
+      "categoryText": "Maître-cylindre de frein",
+      "level": 2,
+      "path": [
+        "Dispositif de freinage",
+        "Maître-cylindre de frein"
+      ],
+      "dbProductName": "Maître-cylindre de frein",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100027",
+      "categoryText": "Étrier de frein",
+      "level": 2,
+      "path": [
+        "Dispositif de freinage",
+        "Étrier de frein"
+      ],
+      "dbProductName": "Étrier de frein",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100028",
+      "categoryText": "Cylindre de roue",
+      "level": 2,
+      "path": [
+        "Dispositif de freinage",
+        "Cylindre de roue"
+      ],
+      "dbProductName": "Cylindre de roue",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100035",
+      "categoryText": "Flexibles de frein",
+      "level": 2,
+      "path": [
+        "Dispositif de freinage",
+        "Flexibles de frein"
+      ],
+      "dbProductName": "Flexible de frein",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100039",
+      "categoryText": "Pompe à vide",
+      "level": 2,
+      "path": [
+        "Dispositif de freinage",
+        "Pompe à vide"
+      ],
+      "dbProductName": "Pompe à vide",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100626",
+      "categoryText": "Frein à disque",
+      "level": 2,
+      "path": [
+        "Dispositif de freinage",
+        "Frein à disque"
+      ],
+      "dbProductName": "Disque de frein",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100627",
+      "categoryText": "Frein à tambour",
+      "level": 2,
+      "path": [
+        "Dispositif de freinage",
+        "Frein à tambour"
+      ],
+      "dbProductName": "Tambour de frein",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "102208",
+      "categoryText": "Liquide de frein",
+      "level": 2,
+      "path": [
+        "Dispositif de freinage",
+        "Liquide de frein"
+      ],
+      "dbProductName": "Liquide de frein",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "102248",
+      "categoryText": "Interrupteur des feux de freins",
+      "level": 2,
+      "path": [
+        "Dispositif de freinage",
+        "Interrupteur des feux de freins"
+      ],
+      "dbProductName": "Interrupteur des feux de freins",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100102",
+      "categoryText": "Radiateur d'eau/d'huile",
+      "level": 2,
+      "path": [
+        "Refroidissement",
+        "Radiateur d'eau/d'huile"
+      ],
+      "dbProductName": "Radiateur dhuile",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100337",
+      "categoryText": "Ventilateur",
+      "level": 2,
+      "path": [
+        "Refroidissement",
+        "Ventilateur"
+      ],
+      "dbProductName": "Ventilateur",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "102205",
+      "categoryText": "Antigel",
+      "level": 2,
+      "path": [
+        "Refroidissement",
+        "Antigel"
+      ],
+      "dbProductName": "Antigel",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100152",
+      "categoryText": "Bougie de préchauffage",
+      "level": 2,
+      "path": [
+        "Allumage / préchauffage",
+        "Bougie de préchauffage"
+      ],
+      "dbProductName": "Bougie de préchauffage",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100353",
+      "categoryText": "Démarreur",
+      "level": 2,
+      "path": [
+        "Système électrique",
+        "Démarreur"
+      ],
+      "dbProductName": "Démarreur",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100727",
+      "categoryText": "Appareils de commande",
+      "level": 2,
+      "path": [
+        "Système électrique",
+        "Appareils de commande"
+      ],
+      "dbProductName": "Appareil de commande",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100785",
+      "categoryText": "Relais",
+      "level": 2,
+      "path": [
+        "Système électrique",
+        "Relais"
+      ],
+      "dbProductName": "Relais",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "103066",
+      "categoryText": "Kit/pièces de câble",
+      "level": 2,
+      "path": [
+        "Système électrique",
+        "Kit/pièces de câble"
+      ],
+      "dbProductName": "Kit de câbles",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "103428",
+      "categoryText": "Minuterie multifonctions",
+      "level": 2,
+      "path": [
+        "Système électrique",
+        "Minuterie multifonctions"
+      ],
+      "dbProductName": "Minuterie multifonctions",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100201",
+      "categoryText": "Soufflet / joint",
+      "level": 2,
+      "path": [
+        "Direction",
+        "Soufflet / joint"
+      ],
+      "dbProductName": "Joint-soufflet, direction",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100207",
+      "categoryText": "Fusée d'essieu / kit de réparation",
+      "level": 2,
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Fusée d'essieu / kit de réparation"
+      ],
+      "dbProductName": "Kit de réparation, fusée dessieu",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100208",
+      "categoryText": "Bras oscillant / suspension",
+      "level": 2,
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Bras oscillant / suspension"
+      ],
+      "dbProductName": "Bras oscillant de suspension",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "102733",
+      "categoryText": "Écartement des roues élargi",
+      "level": 2,
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Écartement des roues élargi"
+      ],
+      "dbProductName": "Écartement des roues élargi",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100062",
+      "categoryText": "Arbre de transmission",
+      "level": 2,
+      "path": [
+        "Entraînement des roues",
+        "Arbre de transmission"
+      ],
+      "dbProductName": "Arbre de transmission",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100080",
+      "categoryText": "Jeu/ courroies trapèzoïdales",
+      "level": 2,
+      "path": [
+        "Commande à courroie",
+        "Jeu/ courroies trapèzoïdales"
+      ],
+      "dbProductName": "Jeu de courroies trapézoïdales",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100082",
+      "categoryText": "Jeu/ courroies trapézoïdales à nervures",
+      "level": 2,
+      "path": [
+        "Commande à courroie",
+        "Jeu/ courroies trapézoïdales à nervures"
+      ],
+      "dbProductName": "Jeu de courroies trapézoïdales à nervures",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100085",
+      "categoryText": "Courroie crantée/kit de courroie crantée",
+      "level": 2,
+      "path": [
+        "Commande à courroie",
+        "Courroie crantée/kit de courroie crantée"
+      ],
+      "dbProductName": "Poulie de tension, courroie crantée",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101971",
+      "categoryText": "Poulie",
+      "level": 2,
+      "path": [
+        "Commande à courroie",
+        "Poulie"
+      ],
+      "dbProductName": "Poulie",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "102239",
+      "categoryText": "Poulie roue libre, alternateur",
+      "level": 2,
+      "path": [
+        "Commande à courroie",
+        "Poulie roue libre, alternateur"
+      ],
+      "dbProductName": "Poulie roue libre, alternateur",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100134",
+      "categoryText": "Moteur d'essuie-glace",
+      "level": 2,
+      "path": [
+        "Nettoyage des vitres",
+        "Moteur d'essuie-glace"
+      ],
+      "dbProductName": "Moteur dessuie-glace",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100051",
+      "categoryText": "Kit d'embrayage",
+      "level": 2,
+      "path": [
+        "Embrayage / composants",
+        "Kit d'embrayage"
+      ],
+      "dbProductName": "Kit dembrayage",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100052",
+      "categoryText": "Mécanisme d'embrayage",
+      "level": 2,
+      "path": [
+        "Embrayage / composants",
+        "Mécanisme d'embrayage"
+      ],
+      "dbProductName": "Mécanisme dembrayage",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100053",
+      "categoryText": "Disque d'embrayage",
+      "level": 2,
+      "path": [
+        "Embrayage / composants",
+        "Disque d'embrayage"
+      ],
+      "dbProductName": "Disque dembrayage",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100054",
+      "categoryText": "Butée d’embrayage/butée hydraulique",
+      "level": 2,
+      "path": [
+        "Embrayage / composants",
+        "Butée d’embrayage/butée hydraulique"
+      ],
+      "dbProductName": "Butée hydraulique, embrayage",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100079",
+      "categoryText": "Commande d'embrayage",
+      "level": 2,
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage"
+      ],
+      "dbProductName": "Commande dembrayage",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100258",
+      "categoryText": "Tuyauterie",
+      "level": 2,
+      "path": [
+        "Alimentation carburant",
+        "Tuyauterie"
+      ],
+      "dbProductName": "Tuyauterie",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100268",
+      "categoryText": "Capteur de niveau de carburant",
+      "level": 2,
+      "path": [
+        "Alimentation carburant",
+        "Capteur de niveau de carburant"
+      ],
+      "dbProductName": "Capteur, niveau de carburant",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100725",
+      "categoryText": "Appareils de commande",
+      "level": 2,
+      "path": [
+        "Chauffage / Ventilation",
+        "Appareils de commande"
+      ],
+      "dbProductName": "Appareil de commande",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100366",
+      "categoryText": "Interrupteur",
+      "level": 2,
+      "path": [
+        "Climatisation",
+        "Interrupteur"
+      ],
+      "dbProductName": "Interrupteur",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "102922",
+      "categoryText": "Kit de réparation",
+      "level": 2,
+      "path": [
+        "Climatisation",
+        "Kit de réparation"
+      ],
+      "dbProductName": "Kit de réparation",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100615",
+      "categoryText": "Régulateur de vitesse",
+      "level": 2,
+      "path": [
+        "Systèmes de confort",
+        "Régulateur de vitesse"
+      ],
+      "dbProductName": "Régulateur de vitesse",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100751",
+      "categoryText": "Lève-vitre",
+      "level": 2,
+      "path": [
+        "Systèmes de confort",
+        "Lève-vitre"
+      ],
+      "dbProductName": "Lève-vitre",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100850",
+      "categoryText": "Capteur de pluie",
+      "level": 2,
+      "path": [
+        "Systèmes de confort",
+        "Capteur de pluie"
+      ],
+      "dbProductName": "Capteur de pluie",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "102691",
+      "categoryText": "Lève-vitre",
+      "level": 2,
+      "path": [
+        "Équipement intérieur",
+        "Lève-vitre"
+      ],
+      "dbProductName": "Lève-vitre",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100367",
+      "categoryText": "Barres de toit",
+      "level": 2,
+      "path": [
+        "Portes-bagages",
+        "Barres de toit"
+      ],
+      "dbProductName": "Barres de toit",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100368",
+      "categoryText": "Porte-bagages à l'arrière",
+      "level": 2,
+      "path": [
+        "Portes-bagages",
+        "Porte-bagages à l'arrière"
+      ],
+      "dbProductName": "Porte arrière",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100703",
+      "categoryText": "Arbre de transmission",
+      "level": 2,
+      "path": [
+        "Entraînement des essieux",
+        "Arbre de transmission"
+      ],
+      "dbProductName": "Arbre de transmission",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "706455",
+      "categoryText": "Système d'aide à la conduite",
+      "level": 2,
+      "path": [
+        "Systèmes de sécurité",
+        "Système d'aide à la conduite"
+      ],
+      "dbProductName": "Système daide à la conduite",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100862",
+      "categoryText": "Coffre/chargement/plateau de chargement",
+      "level": 2,
+      "path": [
+        "Accessoires",
+        "Coffre/chargement/plateau de chargement"
+      ],
+      "dbProductName": "Plancher de charge",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "103443",
+      "categoryText": "Déflecteur",
+      "level": 2,
+      "path": [
+        "Accessoires",
+        "Déflecteur"
+      ],
+      "dbProductName": "Déflecteur",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "706494",
+      "categoryText": "Interrupteur",
+      "level": 2,
+      "path": [
+        "Système pneumatique",
+        "Interrupteur"
+      ],
+      "dbProductName": "Interrupteur",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100223",
+      "categoryText": "Joints",
+      "level": 2,
+      "path": [
+        "Moteur",
+        "Joints"
+      ],
+      "dbProductName": "Joint",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "103129",
+      "categoryText": "Outils",
+      "level": 2,
+      "path": [
+        "Moteur",
+        "Outils"
+      ],
+      "dbProductName": "Outil",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "100315",
+      "categoryText": "Tuyaux",
+      "level": 2,
+      "path": [
+        "Échappement",
+        "Tuyaux"
+      ],
+      "dbProductName": "Tuyau",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "103139",
+      "categoryText": "Outils",
+      "level": 2,
+      "path": [
+        "Allumage / préchauffage",
+        "Outils"
+      ],
+      "dbProductName": "Outil",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "100322",
+      "categoryText": "Instruments",
+      "level": 2,
+      "path": [
+        "Système électrique",
+        "Instruments"
+      ],
+      "dbProductName": "Instrument",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "102747",
+      "categoryText": "Capteurs",
+      "level": 2,
+      "path": [
+        "Système électrique",
+        "Capteurs"
+      ],
+      "dbProductName": "Capteur",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "100121",
+      "categoryText": "Amortisseurs",
+      "level": 2,
+      "path": [
+        "Suspension/Amortissement",
+        "Amortisseurs"
+      ],
+      "dbProductName": "Amortisseur",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "100198",
+      "categoryText": "Rotules",
+      "level": 2,
+      "path": [
+        "Direction",
+        "Rotules"
+      ],
+      "dbProductName": "Rotule",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "100199",
+      "categoryText": "Crémaillère de direction/pompe",
+      "level": 2,
+      "path": [
+        "Direction",
+        "Crémaillère de direction/pompe"
+      ],
+      "dbProductName": "Crémaillère de direction",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "100211",
+      "categoryText": "Rotules",
+      "level": 2,
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Rotules"
+      ],
+      "dbProductName": "Rotule",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "103159",
+      "categoryText": "Outils",
+      "level": 2,
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Outils"
+      ],
+      "dbProductName": "Outil",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "103130",
+      "categoryText": "Outils",
+      "level": 2,
+      "path": [
+        "Commande à courroie",
+        "Outils"
+      ],
+      "dbProductName": "Outil",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "100358",
+      "categoryText": "Soupapes",
+      "level": 2,
+      "path": [
+        "Climatisation",
+        "Soupapes"
+      ],
+      "dbProductName": "Soupape",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "100794",
+      "categoryText": "Capteurs",
+      "level": 2,
+      "path": [
+        "Climatisation",
+        "Capteurs"
+      ],
+      "dbProductName": "Capteur",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "100693",
+      "categoryText": "Instruments",
+      "level": 2,
+      "path": [
+        "Système d'information et de communication",
+        "Instruments"
+      ],
+      "dbProductName": "Instrument",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "100695",
+      "categoryText": "Antennes",
+      "level": 2,
+      "path": [
+        "Système d'information et de communication",
+        "Antennes"
+      ],
+      "dbProductName": "Antenne",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "102694",
+      "categoryText": "Poignées",
+      "level": 2,
+      "path": [
+        "Équipement intérieur",
+        "Poignées"
+      ],
+      "dbProductName": "Poignée",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "100691",
+      "categoryText": "Poignées",
+      "level": 2,
+      "path": [
+        "Verrouillage",
+        "Poignées"
+      ],
+      "dbProductName": "Poignée",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "103101",
+      "categoryText": "Jantes",
+      "level": 2,
+      "path": [
+        "Roues/Pneus",
+        "Jantes"
+      ],
+      "dbProductName": "Jante",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "100181",
+      "categoryText": "Panneau latéral",
+      "level": 3,
+      "path": [
+        "Carrosserie",
+        "Pièces de carrosserie/ailes/pares-chocs",
+        "Panneau latéral"
+      ],
+      "dbProductName": "Panneau latéral",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100537",
+      "categoryText": "Spoiler",
+      "level": 3,
+      "path": [
+        "Carrosserie",
+        "Pièces de carrosserie/ailes/pares-chocs",
+        "Spoiler"
+      ],
+      "dbProductName": "Spoiler",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101504",
+      "categoryText": "Plot de berceau/Support d'agrégats",
+      "level": 3,
+      "path": [
+        "Carrosserie",
+        "Pièces de carrosserie/ailes/pares-chocs",
+        "Plot de berceau/Support d'agrégats"
+      ],
+      "dbProductName": "Plot de berceau/Support dagrégats",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101428",
+      "categoryText": "Feu de brouillard arrière/Composants",
+      "level": 3,
+      "path": [
+        "Carrosserie",
+        "Feux",
+        "Feu de brouillard arrière/Composants"
+      ],
+      "dbProductName": "Feu antibrouillard arrière",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101655",
+      "categoryText": "Pare-brise",
+      "level": 3,
+      "path": [
+        "Carrosserie",
+        "Avant du véhicule",
+        "Pare-brise"
+      ],
+      "dbProductName": "Pare-brise",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "103035",
+      "categoryText": "Cache moteur",
+      "level": 3,
+      "path": [
+        "Carrosserie",
+        "Avant du véhicule",
+        "Cache moteur"
+      ],
+      "dbProductName": "Cache moteur",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101696",
+      "categoryText": "Panneau latéral",
+      "level": 3,
+      "path": [
+        "Carrosserie",
+        "Habitacle",
+        "Panneau latéral"
+      ],
+      "dbProductName": "Panneau latéral",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101699",
+      "categoryText": "Feu stop additionnel",
+      "level": 3,
+      "path": [
+        "Carrosserie",
+        "Habitacle",
+        "Feu stop additionnel"
+      ],
+      "dbProductName": "Feu stop additionnel",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101735",
+      "categoryText": "Feu de brouillard arrière/Composants",
+      "level": 3,
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Feu de brouillard arrière/Composants"
+      ],
+      "dbProductName": "Feu antibrouillard arrière",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101780",
+      "categoryText": "Panneau latéral",
+      "level": 3,
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Panneau latéral"
+      ],
+      "dbProductName": "Panneau latéral",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "103036",
+      "categoryText": "Cache moteur",
+      "level": 3,
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Cache moteur"
+      ],
+      "dbProductName": "Cache moteur",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100397",
+      "categoryText": "Arbre à cames",
+      "level": 3,
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Arbre à cames"
+      ],
+      "dbProductName": "Arbre à cames",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100422",
+      "categoryText": "Soupape / réglage de soupape",
+      "level": 3,
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Soupape / réglage de soupape"
+      ],
+      "dbProductName": "Soupape, réglage ABS",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "104695",
+      "categoryText": "Poulie",
+      "level": 3,
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Poulie"
+      ],
+      "dbProductName": "Poulie",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100244",
+      "categoryText": "Joint de turbocompresseur",
+      "level": 3,
+      "path": [
+        "Moteur",
+        "Joints",
+        "Joint de turbocompresseur"
+      ],
+      "dbProductName": "Joint, compresseur",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100789",
+      "categoryText": "Kit-/bagues d'étanchéité",
+      "level": 3,
+      "path": [
+        "Moteur",
+        "Joints",
+        "Kit-/bagues d'étanchéité"
+      ],
+      "dbProductName": "Bague détanchéité",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100470",
+      "categoryText": "Filtre à huile",
+      "level": 3,
+      "path": [
+        "Moteur",
+        "Lubrification",
+        "Filtre à huile"
+      ],
+      "dbProductName": "Filtre à huile",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100378",
+      "categoryText": "Vis de culasse",
+      "level": 3,
+      "path": [
+        "Moteur",
+        "Culasse / pieces de montage",
+        "Vis de culasse"
+      ],
+      "dbProductName": "Vis de culasse",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "102450",
+      "categoryText": "Pompe à vide",
+      "level": 3,
+      "path": [
+        "Moteur",
+        "Culasse / pieces de montage",
+        "Pompe à vide"
+      ],
+      "dbProductName": "Pompe à vide",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100533",
+      "categoryText": "Carter de vilebrequin",
+      "level": 3,
+      "path": [
+        "Moteur",
+        "Carter de vilebrequin",
+        "Carter de vilebrequin"
+      ],
+      "dbProductName": "Carter de vilebrequin",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100534",
+      "categoryText": "Kit-/chemises de cylindre",
+      "level": 3,
+      "path": [
+        "Moteur",
+        "Carter de vilebrequin",
+        "Kit-/chemises de cylindre"
+      ],
+      "dbProductName": "Chemise de cylindre",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100517",
+      "categoryText": "Vilebrequin",
+      "level": 3,
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Vilebrequin"
+      ],
+      "dbProductName": "Vilebrequin",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100519",
+      "categoryText": "Bielle",
+      "level": 3,
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Bielle"
+      ],
+      "dbProductName": "Bielle",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100520",
+      "categoryText": "Piston",
+      "level": 3,
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Piston"
+      ],
+      "dbProductName": "Piston",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100538",
+      "categoryText": "Support moteur",
+      "level": 3,
+      "path": [
+        "Moteur",
+        "Support du moteur",
+        "Support moteur"
+      ],
+      "dbProductName": "Support moteur",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100539",
+      "categoryText": "Amortisseurs de support moteur",
+      "level": 3,
+      "path": [
+        "Moteur",
+        "Support du moteur",
+        "Amortisseurs de support moteur"
+      ],
+      "dbProductName": "Amortisseur, support moteur",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100701",
+      "categoryText": "Moteur complet",
+      "level": 3,
+      "path": [
+        "Moteur",
+        "Moteur complet / Partie du moteur",
+        "Moteur complet"
+      ],
+      "dbProductName": "Moteur complet",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "104303",
+      "categoryText": "Jeu/ courroies trapèzoïdales",
+      "level": 3,
+      "path": [
+        "Moteur",
+        "Commande à courroie",
+        "Jeu/ courroies trapèzoïdales"
+      ],
+      "dbProductName": "Jeu de courroies trapézoïdales",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "104308",
+      "categoryText": "Jeu/ courroies trapézoïdales à nervures",
+      "level": 3,
+      "path": [
+        "Moteur",
+        "Commande à courroie",
+        "Jeu/ courroies trapézoïdales à nervures"
+      ],
+      "dbProductName": "Jeu de courroies trapézoïdales à nervures",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "104317",
+      "categoryText": "Courroie crantée/kit de courroie crantée",
+      "level": 3,
+      "path": [
+        "Moteur",
+        "Commande à courroie",
+        "Courroie crantée/kit de courroie crantée"
+      ],
+      "dbProductName": "Poulie de tension, courroie crantée",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "104329",
+      "categoryText": "Poulie",
+      "level": 3,
+      "path": [
+        "Moteur",
+        "Commande à courroie",
+        "Poulie"
+      ],
+      "dbProductName": "Poulie",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "104330",
+      "categoryText": "Poulie roue libre, alternateur",
+      "level": 3,
+      "path": [
+        "Moteur",
+        "Commande à courroie",
+        "Poulie roue libre, alternateur"
+      ],
+      "dbProductName": "Poulie roue libre, alternateur",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100807",
+      "categoryText": "Étrier de frein / support d'étrier",
+      "level": 3,
+      "path": [
+        "Dispositif de freinage",
+        "Étrier de frein",
+        "Étrier de frein / support d'étrier"
+      ],
+      "dbProductName": "Support, étrier de frein",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100032",
+      "categoryText": "Disque de frein",
+      "level": 3,
+      "path": [
+        "Dispositif de freinage",
+        "Frein à disque",
+        "Disque de frein"
+      ],
+      "dbProductName": "Disque de frein",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100633",
+      "categoryText": "Kit de réparation",
+      "level": 3,
+      "path": [
+        "Dispositif de freinage",
+        "Frein à tambour",
+        "Kit de réparation"
+      ],
+      "dbProductName": "Kit de réparation",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "102965",
+      "categoryText": "Cylindre de roue",
+      "level": 3,
+      "path": [
+        "Dispositif de freinage",
+        "Frein à tambour",
+        "Cylindre de roue"
+      ],
+      "dbProductName": "Cylindre de roue",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "102226",
+      "categoryText": "Disque de freins de haute performance",
+      "level": 3,
+      "path": [
+        "Dispositif de freinage",
+        "Frein de haute performance",
+        "Disque de freins de haute performance"
+      ],
+      "dbProductName": "Disque de freins de haute performance",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100089",
+      "categoryText": "Joint",
+      "level": 3,
+      "path": [
+        "Refroidissement",
+        "Pompe à eau / joint",
+        "Joint"
+      ],
+      "dbProductName": "Joint",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100096",
+      "categoryText": "Joint",
+      "level": 3,
+      "path": [
+        "Refroidissement",
+        "Joint/Thermostat",
+        "Joint"
+      ],
+      "dbProductName": "Joint",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100108",
+      "categoryText": "Radiateur d'huile",
+      "level": 3,
+      "path": [
+        "Refroidissement",
+        "Radiateur d'eau/d'huile",
+        "Radiateur d'huile"
+      ],
+      "dbProductName": "Radiateur dhuile",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100350",
+      "categoryText": "Alternateur",
+      "level": 3,
+      "path": [
+        "Système électrique",
+        "Alternateur / composants",
+        "Alternateur"
+      ],
+      "dbProductName": "Alternateur",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100285",
+      "categoryText": "Feu de brouillard arrière/Composants",
+      "level": 3,
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Feu de brouillard arrière/Composants"
+      ],
+      "dbProductName": "Feu antibrouillard arrière",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100292",
+      "categoryText": "Éclairage intérieur",
+      "level": 3,
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Éclairage intérieur"
+      ],
+      "dbProductName": "Éclairage intérieur",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100870",
+      "categoryText": "Feu diurne",
+      "level": 3,
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Feu diurne"
+      ],
+      "dbProductName": "Feu diurne",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "706742",
+      "categoryText": "Ampoule /projecteur longue portée",
+      "level": 3,
+      "path": [
+        "Système électrique",
+        "Projecteurs principaux / composants",
+        "Ampoule /projecteur longue portée"
+      ],
+      "dbProductName": "Ampoule, projecteur longue portée",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100359",
+      "categoryText": "Démarreur",
+      "level": 3,
+      "path": [
+        "Système électrique",
+        "Démarreur",
+        "Démarreur"
+      ],
+      "dbProductName": "Démarreur",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100602",
+      "categoryText": "Kit de réparation",
+      "level": 3,
+      "path": [
+        "Direction",
+        "Barre de connexion / composants",
+        "Kit de réparation"
+      ],
+      "dbProductName": "Kit de réparation",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100578",
+      "categoryText": "Moyeu de roue",
+      "level": 3,
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Moyeu de roue / fixation",
+        "Moyeu de roue"
+      ],
+      "dbProductName": "Moyeu de roue",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100579",
+      "categoryText": "Roulement de roue",
+      "level": 3,
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Moyeu de roue / fixation",
+        "Roulement de roue"
+      ],
+      "dbProductName": "Roulement de roue",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "102250",
+      "categoryText": "Roulement, boîtier du roulement des roues",
+      "level": 3,
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Moyeu de roue / fixation",
+        "Roulement, boîtier du roulement des roues"
+      ],
+      "dbProductName": "Roulement, boîtier du roulement des roues",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100588",
+      "categoryText": "Pivot de fusée d'essieu",
+      "level": 3,
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Fusée d'essieu / kit de réparation",
+        "Pivot de fusée d'essieu"
+      ],
+      "dbProductName": "Pivot de fusée dessieu",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100581",
+      "categoryText": "Rotule de suspension",
+      "level": 3,
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Rotules",
+        "Rotule de suspension"
+      ],
+      "dbProductName": "Rotule de suspension",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100586",
+      "categoryText": "Fixation",
+      "level": 3,
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Support d'essieu / arbre d'essieu / fixation",
+        "Fixation"
+      ],
+      "dbProductName": "Fixation",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100450",
+      "categoryText": "Courroie trapèzoïdale",
+      "level": 3,
+      "path": [
+        "Commande à courroie",
+        "Jeu/ courroies trapèzoïdales",
+        "Courroie trapèzoïdale"
+      ],
+      "dbProductName": "Courroie trapézoïdale",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100431",
+      "categoryText": "Courroie trapézoïdale à nervures",
+      "level": 3,
+      "path": [
+        "Commande à courroie",
+        "Jeu/ courroies trapézoïdales à nervures",
+        "Courroie trapézoïdale à nervures"
+      ],
+      "dbProductName": "Courroie trapézoïdale à nervures",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100432",
+      "categoryText": "Jeu de courroie trapézoïdale à nervures",
+      "level": 3,
+      "path": [
+        "Commande à courroie",
+        "Jeu/ courroies trapézoïdales à nervures",
+        "Jeu de courroie trapézoïdale à nervures"
+      ],
+      "dbProductName": "Jeu de courroies trapézoïdales à nervures",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100876",
+      "categoryText": "Amortisseur de vibrations",
+      "level": 3,
+      "path": [
+        "Commande à courroie",
+        "Jeu/ courroies trapézoïdales à nervures",
+        "Amortisseur de vibrations"
+      ],
+      "dbProductName": "Amortisseur de vibrations",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100452",
+      "categoryText": "Courroie crantée",
+      "level": 3,
+      "path": [
+        "Commande à courroie",
+        "Courroie crantée/kit de courroie crantée",
+        "Courroie crantée"
+      ],
+      "dbProductName": "Courroie crantée",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100453",
+      "categoryText": "Kit de courroie crantée",
+      "level": 3,
+      "path": [
+        "Commande à courroie",
+        "Courroie crantée/kit de courroie crantée",
+        "Kit de courroie crantée"
+      ],
+      "dbProductName": "Kit de courroie crantée",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100877",
+      "categoryText": "Amortisseur de vibrations",
+      "level": 3,
+      "path": [
+        "Commande à courroie",
+        "Courroie crantée/kit de courroie crantée",
+        "Amortisseur de vibrations"
+      ],
+      "dbProductName": "Amortisseur de vibrations",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100055",
+      "categoryText": "Butée de débrayage",
+      "level": 3,
+      "path": [
+        "Embrayage / composants",
+        "Butée d’embrayage/butée hydraulique",
+        "Butée de débrayage"
+      ],
+      "dbProductName": "Butée de débrayage",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "102080",
+      "categoryText": "Fourchette de débrayage",
+      "level": 3,
+      "path": [
+        "Embrayage / composants",
+        "Butée d’embrayage/butée hydraulique",
+        "Fourchette de débrayage"
+      ],
+      "dbProductName": "Fourchette de débrayage",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100772",
+      "categoryText": "Fixation",
+      "level": 3,
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesses manuelle",
+        "Fixation"
+      ],
+      "dbProductName": "Fixation",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100773",
+      "categoryText": "Fixation",
+      "level": 3,
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesse automatique",
+        "Fixation"
+      ],
+      "dbProductName": "Fixation",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "102931",
+      "categoryText": "Capteur",
+      "level": 3,
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesse automatique",
+        "Capteur"
+      ],
+      "dbProductName": "Capteur",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "102795",
+      "categoryText": "Joint",
+      "level": 3,
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Joint"
+      ],
+      "dbProductName": "Joint",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "102803",
+      "categoryText": "Pompe à injection/pompe à haute pression",
+      "level": 3,
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Pompe à injection/pompe à haute pression"
+      ],
+      "dbProductName": "Pilon, Pompe à haute pression",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "102806",
+      "categoryText": "Débitmètre d'air",
+      "level": 3,
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Débitmètre d'air"
+      ],
+      "dbProductName": "Débitmètre dair",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "102811",
+      "categoryText": "Soupapes/Bloc de soupapes",
+      "level": 3,
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Soupapes/Bloc de soupapes"
+      ],
+      "dbProductName": "Soupape démission",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "104157",
+      "categoryText": "Lève-vitre",
+      "level": 3,
+      "path": [
+        "Systèmes de confort",
+        "Moteur / Relais",
+        "Lève-vitre"
+      ],
+      "dbProductName": "Lève-vitre",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "104163",
+      "categoryText": "Régulateur de vitesse",
+      "level": 3,
+      "path": [
+        "Systèmes de confort",
+        "Moteur / Relais",
+        "Régulateur de vitesse"
+      ],
+      "dbProductName": "Régulateur de vitesse",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100805",
+      "categoryText": "Arbre de transmission",
+      "level": 3,
+      "path": [
+        "Entraînement des essieux",
+        "Arbre de transmission",
+        "Arbre de transmission"
+      ],
+      "dbProductName": "Arbre de transmission",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100401",
+      "categoryText": "Carter de distribution / joint",
+      "level": 3,
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Carter de distribution / joint"
+      ],
+      "dbProductName": "Carter de distribution",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "100228",
+      "categoryText": "Joint de tige de soupape",
+      "level": 3,
+      "path": [
+        "Moteur",
+        "Joints",
+        "Joint de tige de soupape"
+      ],
+      "dbProductName": "Pince, joint de tige de soupape",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "706358",
+      "categoryText": "Outils",
+      "level": 3,
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Outils"
+      ],
+      "dbProductName": "Outil",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "104332",
+      "categoryText": "Outils",
+      "level": 3,
+      "path": [
+        "Moteur",
+        "Commande à courroie",
+        "Outils"
+      ],
+      "dbProductName": "Outil",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "102227",
+      "categoryText": "Plaquettes de freins de haute performance",
+      "level": 3,
+      "path": [
+        "Dispositif de freinage",
+        "Frein de haute performance",
+        "Plaquettes de freins de haute performance"
+      ],
+      "dbProductName": "Kit de plaquettes de freins de haute performance",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "100434",
+      "categoryText": "Poulie de tension",
+      "level": 3,
+      "path": [
+        "Commande à courroie",
+        "Jeu/ courroies trapézoïdales à nervures",
+        "Poulie de tension"
+      ],
+      "dbProductName": "Vis, poulie de tension",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "100455",
+      "categoryText": "Poulie de tension",
+      "level": 3,
+      "path": [
+        "Commande à courroie",
+        "Courroie crantée/kit de courroie crantée",
+        "Poulie de tension"
+      ],
+      "dbProductName": "Vis, poulie de tension",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "100769",
+      "categoryText": "Joints",
+      "level": 3,
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesses manuelle",
+        "Joints"
+      ],
+      "dbProductName": "Joint",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "100770",
+      "categoryText": "Joints",
+      "level": 3,
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesse automatique",
+        "Joints"
+      ],
+      "dbProductName": "Joint",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "103150",
+      "categoryText": "Outils",
+      "level": 3,
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Outils"
+      ],
+      "dbProductName": "Outil",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "706816",
+      "categoryText": "Capteurs",
+      "level": 3,
+      "path": [
+        "Entraînement hybride/électrique",
+        "Refroidissement",
+        "Capteurs"
+      ],
+      "dbProductName": "Capteur",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "706383",
+      "categoryText": "Rotules",
+      "level": 3,
+      "path": [
+        "Outils spéciaux",
+        "Outils spéciaux suspension d’essieu/guidage des roues/roues",
+        "Rotules"
+      ],
+      "dbProductName": "Rotule",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "101342",
+      "categoryText": "Projecteur antibrouillard / Optique",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Phares supplémentaires/composants",
+        "Projecteur antibrouillard/ composants",
+        "Projecteur antibrouillard / Optique"
+      ],
+      "dbProductName": "Optique, projecteur antibrouillard",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101347",
+      "categoryText": "Ampoule /projecteur longue portée",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Phares supplémentaires/composants",
+        "Projecteur longue portée / composants",
+        "Ampoule /projecteur longue portée"
+      ],
+      "dbProductName": "Ampoule, projecteur longue portée",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101351",
+      "categoryText": "Ampoule, projecteurs de travail",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Phares supplémentaires/composants",
+        "Projecteur de travail, composants",
+        "Ampoule, projecteurs de travail"
+      ],
+      "dbProductName": "Ampoule, projecteur de travail",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101409",
+      "categoryText": "Feu arrière",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Feux",
+        "Feu arrière / composants",
+        "Feu arrière"
+      ],
+      "dbProductName": "Feu arrière",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101412",
+      "categoryText": "Feu arrière",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Feux",
+        "Feu arrière/Composants",
+        "Feu arrière"
+      ],
+      "dbProductName": "Feu arrière",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101414",
+      "categoryText": "Ampoule de feu arrière",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Feux",
+        "Feu arrière/Composants",
+        "Ampoule de feu arrière"
+      ],
+      "dbProductName": "Ampoule, feu arrière",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101416",
+      "categoryText": "Feu stop additionnel",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Feux",
+        "Feu-stop / composants",
+        "Feu stop additionnel"
+      ],
+      "dbProductName": "Feu stop additionnel",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101421",
+      "categoryText": "Feu clignotant",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Feux",
+        "Feu clignotant/composants",
+        "Feu clignotant"
+      ],
+      "dbProductName": "Feu clignotant",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101423",
+      "categoryText": "Ampoule de feu clignotant",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Feux",
+        "Feu clignotant/composants",
+        "Ampoule de feu clignotant"
+      ],
+      "dbProductName": "Ampoule, feu clignotant",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101425",
+      "categoryText": "Feu éclaireur de plaque",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Feux",
+        "Feu éclaireur de plaque/composants",
+        "Feu éclaireur de plaque"
+      ],
+      "dbProductName": "Feu éclaireur de plaque",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101427",
+      "categoryText": "Ampoule du feu éclaireur de plaque",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Feux",
+        "Feu éclaireur de plaque/composants",
+        "Ampoule du feu éclaireur de plaque"
+      ],
+      "dbProductName": "Ampoule, feu éclaireur de plaque",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101429",
+      "categoryText": "Feu antibrouillard arrière",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Feux",
+        "Feu de brouillard arrière/Composants",
+        "Feu antibrouillard arrière"
+      ],
+      "dbProductName": "Feu antibrouillard arrière",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101431",
+      "categoryText": "Ampoules de feu de brouillard arrière",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Feux",
+        "Feu de brouillard arrière/Composants",
+        "Ampoules de feu de brouillard arrière"
+      ],
+      "dbProductName": "Ampoule, feu de brouillard arrière",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101433",
+      "categoryText": "Feu de recul",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Feux",
+        "Feu de recul / composants",
+        "Feu de recul"
+      ],
+      "dbProductName": "Feu de recul",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101443",
+      "categoryText": "Feu d'encombrement",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Feux",
+        "Feu de position / d'encombrement / composants",
+        "Feu d'encombrement"
+      ],
+      "dbProductName": "Feu dencombrement",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101445",
+      "categoryText": "Ampoule",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Feux",
+        "Feu de position / d'encombrement / composants",
+        "Ampoule"
+      ],
+      "dbProductName": "Ampoule",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101662",
+      "categoryText": "Projecteur antibrouillard / Optique",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Avant du véhicule",
+        "Projecteur antibrouillard/ composants",
+        "Projecteur antibrouillard / Optique"
+      ],
+      "dbProductName": "Optique, projecteur antibrouillard",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101667",
+      "categoryText": "Ampoule /projecteur longue portée",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Avant du véhicule",
+        "Projecteur longue portée / composants",
+        "Ampoule /projecteur longue portée"
+      ],
+      "dbProductName": "Ampoule, projecteur longue portée",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101670",
+      "categoryText": "Feu clignotant",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Avant du véhicule",
+        "Feu clignotant/composants",
+        "Feu clignotant"
+      ],
+      "dbProductName": "Feu clignotant",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101672",
+      "categoryText": "Ampoule de feu clignotant",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Avant du véhicule",
+        "Feu clignotant/composants",
+        "Ampoule de feu clignotant"
+      ],
+      "dbProductName": "Ampoule, feu clignotant",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101778",
+      "categoryText": "Spoiler",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Avant du véhicule",
+        "Composants/suppléments",
+        "Spoiler"
+      ],
+      "dbProductName": "Spoiler",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101768",
+      "categoryText": "Feu d'encombrement",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Avant du véhicule",
+        "Feu de position / d'encombrement / composants",
+        "Feu d'encombrement"
+      ],
+      "dbProductName": "Feu dencombrement",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101770",
+      "categoryText": "Ampoule",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Avant du véhicule",
+        "Feu de position / d'encombrement / composants",
+        "Ampoule"
+      ],
+      "dbProductName": "Ampoule",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101701",
+      "categoryText": "Spoiler",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Habitacle",
+        "Composants/suppléments",
+        "Spoiler"
+      ],
+      "dbProductName": "Spoiler",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101716",
+      "categoryText": "Feu arrière",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Feu arrière / composants",
+        "Feu arrière"
+      ],
+      "dbProductName": "Feu arrière",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101719",
+      "categoryText": "Feu arrière",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Feu arrière/Composants",
+        "Feu arrière"
+      ],
+      "dbProductName": "Feu arrière",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101721",
+      "categoryText": "Ampoule de feu arrière",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Feu arrière/Composants",
+        "Ampoule de feu arrière"
+      ],
+      "dbProductName": "Ampoule, feu arrière",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101723",
+      "categoryText": "Feu stop additionnel",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Feu-stop / composants",
+        "Feu stop additionnel"
+      ],
+      "dbProductName": "Feu stop additionnel",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101728",
+      "categoryText": "Feu clignotant",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Feu clignotant/composants",
+        "Feu clignotant"
+      ],
+      "dbProductName": "Feu clignotant",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101730",
+      "categoryText": "Ampoule de feu clignotant",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Feu clignotant/composants",
+        "Ampoule de feu clignotant"
+      ],
+      "dbProductName": "Ampoule, feu clignotant",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101732",
+      "categoryText": "Feu éclaireur de plaque",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Feu éclaireur de plaque/composants",
+        "Feu éclaireur de plaque"
+      ],
+      "dbProductName": "Feu éclaireur de plaque",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101734",
+      "categoryText": "Ampoule du feu éclaireur de plaque",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Feu éclaireur de plaque/composants",
+        "Ampoule du feu éclaireur de plaque"
+      ],
+      "dbProductName": "Ampoule, feu éclaireur de plaque",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101736",
+      "categoryText": "Feu antibrouillard arrière",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Feu de brouillard arrière/Composants",
+        "Feu antibrouillard arrière"
+      ],
+      "dbProductName": "Feu antibrouillard arrière",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101738",
+      "categoryText": "Ampoules de feu de brouillard arrière",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Feu de brouillard arrière/Composants",
+        "Ampoules de feu de brouillard arrière"
+      ],
+      "dbProductName": "Ampoule, feu de brouillard arrière",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101740",
+      "categoryText": "Feu de recul",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Feu de recul / composants",
+        "Feu de recul"
+      ],
+      "dbProductName": "Feu de recul",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101747",
+      "categoryText": "Spoiler",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Composants/suppléments",
+        "Spoiler"
+      ],
+      "dbProductName": "Spoiler",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101787",
+      "categoryText": "Feu d'encombrement",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Feu de position / d'encombrement / composants",
+        "Feu d'encombrement"
+      ],
+      "dbProductName": "Feu dencombrement",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101789",
+      "categoryText": "Ampoule",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Feu de position / d'encombrement / composants",
+        "Ampoule"
+      ],
+      "dbProductName": "Ampoule",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100404",
+      "categoryText": "Courroie crantée",
+      "level": 4,
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Courroie crantée/tension/guidage",
+        "Courroie crantée"
+      ],
+      "dbProductName": "Courroie crantée",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100405",
+      "categoryText": "Kit de courroie crantée",
+      "level": 4,
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Courroie crantée/tension/guidage",
+        "Kit de courroie crantée"
+      ],
+      "dbProductName": "Kit de courroie crantée",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100875",
+      "categoryText": "Amortisseur de vibrations",
+      "level": 4,
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Courroie crantée/tension/guidage",
+        "Amortisseur de vibrations"
+      ],
+      "dbProductName": "Amortisseur de vibrations",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100411",
+      "categoryText": "Chaîne de distribution",
+      "level": 4,
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Chaîne de distribution/tension/guidage",
+        "Chaîne de distribution"
+      ],
+      "dbProductName": "Chaîne de distribution",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "103278",
+      "categoryText": "Kit de distribution par chaîne",
+      "level": 4,
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Chaîne de distribution/tension/guidage",
+        "Kit de distribution par chaîne"
+      ],
+      "dbProductName": "Kit de distribution par chaîne",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100483",
+      "categoryText": "Radiateur d'huile",
+      "level": 4,
+      "path": [
+        "Moteur",
+        "Lubrification",
+        "Radiateur d'huile / pièces de montage",
+        "Radiateur d'huile"
+      ],
+      "dbProductName": "Radiateur dhuile",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100489",
+      "categoryText": "Carter d'huile",
+      "level": 4,
+      "path": [
+        "Moteur",
+        "Lubrification",
+        "Carter d'huile et pièces de montage",
+        "Carter d'huile"
+      ],
+      "dbProductName": "Carter dhuile",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100490",
+      "categoryText": "Joint",
+      "level": 4,
+      "path": [
+        "Moteur",
+        "Lubrification",
+        "Carter d'huile et pièces de montage",
+        "Joint"
+      ],
+      "dbProductName": "Joint",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100492",
+      "categoryText": "Pompe à huile",
+      "level": 4,
+      "path": [
+        "Moteur",
+        "Lubrification",
+        "Pompe à huile et pièces de montage",
+        "Pompe à huile"
+      ],
+      "dbProductName": "Pompe à huile",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100392",
+      "categoryText": "Joint de turbocompresseur",
+      "level": 4,
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Suralimentation",
+        "Joint de turbocompresseur"
+      ],
+      "dbProductName": "Joint, compresseur",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100393",
+      "categoryText": "Intercooler; échangeur",
+      "level": 4,
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Suralimentation",
+        "Intercooler; échangeur"
+      ],
+      "dbProductName": "Intercooler, échangeur",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "102076",
+      "categoryText": "Tube d'air de suralimentation",
+      "level": 4,
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Suralimentation",
+        "Tube d'air de suralimentation"
+      ],
+      "dbProductName": "Tube d’air de suralimentation",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "102339",
+      "categoryText": "Corps papillon",
+      "level": 4,
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Papillon des gaz /-capteur",
+        "Corps papillon"
+      ],
+      "dbProductName": "Corps papillon",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100522",
+      "categoryText": "Coussinet de vilebrequin",
+      "level": 4,
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Vilebrequin",
+        "Coussinet de vilebrequin"
+      ],
+      "dbProductName": "Coussinet de vilebrequin",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100759",
+      "categoryText": "Poulies de vilebrequin",
+      "level": 4,
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Vilebrequin",
+        "Poulies de vilebrequin"
+      ],
+      "dbProductName": "Poulie, vilebrequin",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "102683",
+      "categoryText": "Vilebrequin",
+      "level": 4,
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Vilebrequin",
+        "Vilebrequin"
+      ],
+      "dbProductName": "Vilebrequin",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100524",
+      "categoryText": "Bielle",
+      "level": 4,
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Bielle",
+        "Bielle"
+      ],
+      "dbProductName": "Bielle",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100525",
+      "categoryText": "Coussinet de bielle",
+      "level": 4,
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Bielle",
+        "Coussinet de bielle"
+      ],
+      "dbProductName": "Coussinet de bielle",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100527",
+      "categoryText": "Coussinets de bielle",
+      "level": 4,
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Bielle",
+        "Coussinets de bielle"
+      ],
+      "dbProductName": "Coussinet de bielle",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100529",
+      "categoryText": "Piston",
+      "level": 4,
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Piston",
+        "Piston"
+      ],
+      "dbProductName": "Piston",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100543",
+      "categoryText": "Transmetteur de pression",
+      "level": 4,
+      "path": [
+        "Moteur",
+        "Épuration des gaz d'échappement",
+        "Recyclage des gaz d'échappement",
+        "Transmetteur de pression"
+      ],
+      "dbProductName": "Transmetteur de pression",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "102993",
+      "categoryText": "Module-EGR",
+      "level": 4,
+      "path": [
+        "Moteur",
+        "Épuration des gaz d'échappement",
+        "Recyclage des gaz d'échappement",
+        "Module-EGR"
+      ],
+      "dbProductName": "Module-EGR",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "104304",
+      "categoryText": "Courroie trapèzoïdale",
+      "level": 4,
+      "path": [
+        "Moteur",
+        "Commande à courroie",
+        "Jeu/ courroies trapèzoïdales",
+        "Courroie trapèzoïdale"
+      ],
+      "dbProductName": "Courroie trapézoïdale",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "104309",
+      "categoryText": "Courroie trapézoïdale à nervures",
+      "level": 4,
+      "path": [
+        "Moteur",
+        "Commande à courroie",
+        "Jeu/ courroies trapézoïdales à nervures",
+        "Courroie trapézoïdale à nervures"
+      ],
+      "dbProductName": "Courroie trapézoïdale à nervures",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "104310",
+      "categoryText": "Jeu de courroie trapézoïdale à nervures",
+      "level": 4,
+      "path": [
+        "Moteur",
+        "Commande à courroie",
+        "Jeu/ courroies trapézoïdales à nervures",
+        "Jeu de courroie trapézoïdale à nervures"
+      ],
+      "dbProductName": "Jeu de courroies trapézoïdales à nervures",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "104315",
+      "categoryText": "Amortisseur de vibrations",
+      "level": 4,
+      "path": [
+        "Moteur",
+        "Commande à courroie",
+        "Jeu/ courroies trapézoïdales à nervures",
+        "Amortisseur de vibrations"
+      ],
+      "dbProductName": "Amortisseur de vibrations",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "104318",
+      "categoryText": "Courroie crantée",
+      "level": 4,
+      "path": [
+        "Moteur",
+        "Commande à courroie",
+        "Courroie crantée/kit de courroie crantée",
+        "Courroie crantée"
+      ],
+      "dbProductName": "Courroie crantée",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "104319",
+      "categoryText": "Kit de courroie crantée",
+      "level": 4,
+      "path": [
+        "Moteur",
+        "Commande à courroie",
+        "Courroie crantée/kit de courroie crantée",
+        "Kit de courroie crantée"
+      ],
+      "dbProductName": "Kit de courroie crantée",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "104324",
+      "categoryText": "Amortisseur de vibrations",
+      "level": 4,
+      "path": [
+        "Moteur",
+        "Commande à courroie",
+        "Courroie crantée/kit de courroie crantée",
+        "Amortisseur de vibrations"
+      ],
+      "dbProductName": "Amortisseur de vibrations",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100321",
+      "categoryText": "Joint",
+      "level": 4,
+      "path": [
+        "Échappement",
+        "Pièces de montage",
+        "Pièces détachées de montage",
+        "Joint"
+      ],
+      "dbProductName": "Joint",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100327",
+      "categoryText": "Support",
+      "level": 4,
+      "path": [
+        "Échappement",
+        "Pièces de montage",
+        "Pièces détachées de montage",
+        "Support"
+      ],
+      "dbProductName": "Support",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100329",
+      "categoryText": "Pièce de serrage",
+      "level": 4,
+      "path": [
+        "Échappement",
+        "Pièces de montage",
+        "Pièces détachées de montage",
+        "Pièce de serrage"
+      ],
+      "dbProductName": "Pièce de serrage",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100463",
+      "categoryText": "Feu clignotant",
+      "level": 4,
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Feu clignotant/composants",
+        "Feu clignotant"
+      ],
+      "dbProductName": "Feu clignotant",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100498",
+      "categoryText": "Ampoule de feu clignotant",
+      "level": 4,
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Feu clignotant/composants",
+        "Ampoule de feu clignotant"
+      ],
+      "dbProductName": "Ampoule, feu clignotant",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100464",
+      "categoryText": "Feu éclaireur de plaque",
+      "level": 4,
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Feu éclaireur de plaque/composants",
+        "Feu éclaireur de plaque"
+      ],
+      "dbProductName": "Feu éclaireur de plaque",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100499",
+      "categoryText": "Ampoule du feu éclaireur de plaque",
+      "level": 4,
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Feu éclaireur de plaque/composants",
+        "Ampoule du feu éclaireur de plaque"
+      ],
+      "dbProductName": "Ampoule, feu éclaireur de plaque",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100454",
+      "categoryText": "Feu arrière",
+      "level": 4,
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Feu arrière / composants",
+        "Feu arrière"
+      ],
+      "dbProductName": "Feu arrière",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100867",
+      "categoryText": "Feu stop additionnel",
+      "level": 4,
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Feu-stop / composants",
+        "Feu stop additionnel"
+      ],
+      "dbProductName": "Feu stop additionnel",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100465",
+      "categoryText": "Feu antibrouillard arrière",
+      "level": 4,
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Feu de brouillard arrière/Composants",
+        "Feu antibrouillard arrière"
+      ],
+      "dbProductName": "Feu antibrouillard arrière",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100500",
+      "categoryText": "Ampoules de feu de brouillard arrière",
+      "level": 4,
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Feu de brouillard arrière/Composants",
+        "Ampoules de feu de brouillard arrière"
+      ],
+      "dbProductName": "Ampoule, feu de brouillard arrière",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100466",
+      "categoryText": "Feu de recul",
+      "level": 4,
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Feu de recul / composants",
+        "Feu de recul"
+      ],
+      "dbProductName": "Feu de recul",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100469",
+      "categoryText": "Feu d'encombrement",
+      "level": 4,
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Feu de position / d'encombrement / composants",
+        "Feu d'encombrement"
+      ],
+      "dbProductName": "Feu dencombrement",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100503",
+      "categoryText": "Ampoule",
+      "level": 4,
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Feu de position / d'encombrement / composants",
+        "Ampoule"
+      ],
+      "dbProductName": "Ampoule",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101803",
+      "categoryText": "Lampe de lecture",
+      "level": 4,
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Éclairage intérieur",
+        "Lampe de lecture"
+      ],
+      "dbProductName": "Lampe de lecture",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100442",
+      "categoryText": "Ampoule /projecteur longue portée",
+      "level": 4,
+      "path": [
+        "Système électrique",
+        "Phares supplémentaires/composants",
+        "Projecteur longue portée / composants",
+        "Ampoule /projecteur longue portée"
+      ],
+      "dbProductName": "Ampoule, projecteur longue portée",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100440",
+      "categoryText": "Projecteur antibrouillard / Optique",
+      "level": 4,
+      "path": [
+        "Système électrique",
+        "Phares supplémentaires/composants",
+        "Projecteur antibrouillard/ composants",
+        "Projecteur antibrouillard / Optique"
+      ],
+      "dbProductName": "Optique, projecteur antibrouillard",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100448",
+      "categoryText": "Ampoule, projecteurs de travail",
+      "level": 4,
+      "path": [
+        "Système électrique",
+        "Phares supplémentaires/composants",
+        "Projecteur de travail, composants",
+        "Ampoule, projecteurs de travail"
+      ],
+      "dbProductName": "Ampoule, projecteur de travail",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "101855",
+      "categoryText": "Joint",
+      "level": 4,
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesse automatique",
+        "Carter d'huile et pièces de montage",
+        "Joint"
+      ],
+      "dbProductName": "Joint",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "706625",
+      "categoryText": "Carter d'huile",
+      "level": 4,
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesses manuelle robotisée (BVR)",
+        "Carter d'huile et pièces de montage",
+        "Carter d'huile"
+      ],
+      "dbProductName": "Carter dhuile",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100812",
+      "categoryText": "Transmetteur de pression",
+      "level": 4,
+      "path": [
+        "Carburation",
+        "Épuration des gaz d'échappement",
+        "Recyclage des gaz d'échappement",
+        "Transmetteur de pression"
+      ],
+      "dbProductName": "Transmetteur de pression",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "102992",
+      "categoryText": "Module-EGR",
+      "level": 4,
+      "path": [
+        "Carburation",
+        "Épuration des gaz d'échappement",
+        "Recyclage des gaz d'échappement",
+        "Module-EGR"
+      ],
+      "dbProductName": "Module-EGR",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    {
+      "categoryId": "100568",
+      "categoryText": "Joints",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Vitrages/Miroirs",
+        "Vitrage",
+        "Joints"
+      ],
+      "dbProductName": "Joint",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "101442",
+      "categoryText": "Feu de stationnement/de position",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Feux",
+        "Feu de position / d'encombrement / composants",
+        "Feu de stationnement/de position"
+      ],
+      "dbProductName": "Ampoule, feu de stationnement/de position",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "101767",
+      "categoryText": "Feu de stationnement/de position",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Avant du véhicule",
+        "Feu de position / d'encombrement / composants",
+        "Feu de stationnement/de position"
+      ],
+      "dbProductName": "Ampoule, feu de stationnement/de position",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "101786",
+      "categoryText": "Feu de stationnement/de position",
+      "level": 4,
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Feu de position / d'encombrement / composants",
+        "Feu de stationnement/de position"
+      ],
+      "dbProductName": "Ampoule, feu de stationnement/de position",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "100406",
+      "categoryText": "Poulie de tension",
+      "level": 4,
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Courroie crantée/tension/guidage",
+        "Poulie de tension"
+      ],
+      "dbProductName": "Vis, poulie de tension",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "100531",
+      "categoryText": "Jeu de segments de piston",
+      "level": 4,
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Piston",
+        "Jeu de segments de piston"
+      ],
+      "dbProductName": "Jeu de segments de pistons",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "103235",
+      "categoryText": "Joints",
+      "level": 4,
+      "path": [
+        "Moteur",
+        "Épuration des gaz d'échappement",
+        "Recyclage des gaz d'échappement",
+        "Joints"
+      ],
+      "dbProductName": "Joint",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "104311",
+      "categoryText": "Poulie de tension",
+      "level": 4,
+      "path": [
+        "Moteur",
+        "Commande à courroie",
+        "Jeu/ courroies trapézoïdales à nervures",
+        "Poulie de tension"
+      ],
+      "dbProductName": "Vis, poulie de tension",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "104320",
+      "categoryText": "Poulie de tension",
+      "level": 4,
+      "path": [
+        "Moteur",
+        "Commande à courroie",
+        "Courroie crantée/kit de courroie crantée",
+        "Poulie de tension"
+      ],
+      "dbProductName": "Vis, poulie de tension",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "100468",
+      "categoryText": "Feu de stationnement/de position",
+      "level": 4,
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Feu de position / d'encombrement / composants",
+        "Feu de stationnement/de position"
+      ],
+      "dbProductName": "Ampoule, feu de stationnement/de position",
+      "similarity": 0.95,
+      "matchType": "high"
+    },
+    {
+      "categoryId": "103239",
+      "categoryText": "Joints",
+      "level": 4,
+      "path": [
+        "Carburation",
+        "Épuration des gaz d'échappement",
+        "Recyclage des gaz d'échappement",
+        "Joints"
+      ],
+      "dbProductName": "Joint",
+      "similarity": 0.95,
+      "matchType": "high"
+    }
+  ],
+  "noMatches": [
+    "Accessoires",
+    "Accessoires",
+    "Accessoires / composants",
+    "Accessoires / composants",
+    "Accessoires/Composants",
+    "Aide au stationnement/Alarme de marche arrière",
+    "Aile avant/composants",
+    "Aile avant/composants",
+    "Aile avant/composants",
+    "Alignement et carrossage des roues",
+    "Alimentation carburant",
+    "Alimentation en air",
+    "Allumage / préchauffage",
+    "Alternateur / composants",
+    "Amortisseur-caoutchouc",
+    "Ampoule de feu de recul",
+    "Ampoule de feu de recul",
+    "Ampoule de feu de recul",
+    "Ampoule pour feux arrières",
+    "Ampoule pour projecteur antibrouillard",
+    "Ampoule pour projecteur antibrouillard",
+    "Ampoule pour projecteur antibrouillard",
+    "Ampoule pour projecteur principal",
+    "Ampoule pour projecteur principal",
+    "Ampoule pour projecteur principal",
+    "Ampoules pour feux de stop",
+    "Ampoules pour feux de stop",
+    "Ampoules pour feux de stop",
+    "Appareil de commande / relais",
+    "Arrière de la voiture",
+    "Assortiment de montage",
+    "Avant du véhicule",
+    "Avertisseur sonore / trompette",
+    "Balai d'essuie-glace / raclette",
+    "Bandes en caoutchouc",
+    "Barre de connexion / composants",
+    "Barre de suspension",
+    "Barre latérale / transversale",
+    "Batterie",
+    "Bout d'essieu",
+    "Boîte de vitesse automatique",
+    "Boîte de vitesses",
+    "Boîte de vitesses",
+    "Boîte de vitesses manuelle",
+    "Boîte de vitesses manuelle robotisée (BVR)",
+    "Boîtier de filtres à huile / joint",
+    "Boîtier/composants",
+    "Boîtier/filtre à carburant",
+    "Bras (transversal, longitudinal, oblique)",
+    "Bras d'essuie-glace / fixation",
+    "Bras tendeur",
+    "Bras tendeur",
+    "Cache-soupape",
+    "Cache-soupape",
+    "Cadre de montant de toit / Cadre de montant de porte",
+    "Cadre de montant de toit / Cadre de montant de porte",
+    "Capot avant / composants / insonorisation",
+    "Capot avant / composants / insonorisation",
+    "Capot avant / composants / insonorisation",
+    "Capteur lambda",
+    "Capteur/sonde lambda",
+    "Capteur/sonde lambda",
+    "Capteur/sonde lambda",
+    "Capteurs/Conatct",
+    "Carburation",
+    "Carter d'huile et pièces de montage",
+    "Carter d'huile et pièces de montage",
+    "Carter d'huile et pièces de montage",
+    "Cataphote arrière/Réflecteur latéral",
+    "Chauffage / Ventilation",
+    "Chaîne de commande",
+    "Chaîne de distribution/tension/guidage",
+    "Chaîne à neige",
+    "Circuit électrique du moteur",
+    "Climatisation",
+    "Clips de fixation",
+    "Clips de fixation",
+    "Clés",
+    "Coffre à bagages / compartiment de chargement",
+    "Collecteur",
+    "Collecteur d'admission/Tuyau",
+    "Collier",
+    "Colonne de direction / arbre",
+    "Commande de boîte de vitesses",
+    "Commande à courroie",
+    "Commande à courroie",
+    "Communication",
+    "Composants",
+    "Composants",
+    "Composants / pièces de montage",
+    "Composants de barre de connexion",
+    "Composants de feu arrière",
+    "Composants de feu arrière",
+    "Composants de feu arrière",
+    "Composants de porte-injecteur / Injecteur",
+    "Composants des projecteurs principaux",
+    "Composants des projecteurs principaux",
+    "Composants des projecteurs principaux",
+    "Composants du démarreur",
+    "Composants pour projecteur antibrouillard",
+    "Composants pour projecteur antibrouillard",
+    "Composants pour projecteur antibrouillard",
+    "Composants/suppléments",
+    "Composants/suppléments",
+    "Composants/suppléments",
+    "Compresseur / composants",
+    "Compresseur/composants",
+    "Condenseur",
+    "Conduite de carburant / répartition du carburant",
+    "Contacteur",
+    "Contrôle",
+    "Contrôle / hydraulique",
+    "Contrôle / hydraulique",
+    "Contrôle de pression des pneumatiques",
+    "Contrôle de pression des pneumatiques",
+    "Contrôle des gaz d'échappement de RGE",
+    "Contrôle des gaz d'échappement de RGE",
+    "Contrôle/Réglage",
+    "Corps de l'essieu",
+    "Correcteur d'assiette / suspension pneumatique",
+    "Correcteur de portée lumineuse",
+    "Coulisse",
+    "Coupelle de suspension/d'amortisseur",
+    "Courroie crantée/tension/guidage",
+    "Couvercle de remplissage d'huile/joint",
+    "Culasse",
+    "Culasse / pieces de montage",
+    "Culbuteur/Levier oscillant",
+    "Culbuteur/levier oscillant/pièce de press°",
+    "Cylindre et piston",
+    "Cylindre émetteur",
+    "Dessicateur",
+    "Différentiel",
+    "Direction",
+    "Dispositif d'attelage/accessoires",
+    "Dispositif d'attelage/accessoires",
+    "Dispositif de freinage",
+    "Distribution moteur",
+    "Divers",
+    "Durite de refroidissement/conduite",
+    "Débrayage central",
+    "Embrayage / composants",
+    "Enjoliveur/bande protectrice",
+    "Enjoliveur/bande protectrice",
+    "Enjoliveur/bande protectrice",
+    "Entraînement des essieux",
+    "Entraînement des roues",
+    "Entraînement hybride/électrique",
+    "Feu arrière / composants",
+    "Feu arrière / composants",
+    "Feu arrière / composants",
+    "Feu arrière/Composants",
+    "Feu arrière/Composants",
+    "Feu clignotant latéral",
+    "Feu clignotant/composants",
+    "Feu clignotant/composants",
+    "Feu clignotant/composants",
+    "Feu clignotant/composants",
+    "Feu de position / d'encombrement / composants",
+    "Feu de position / d'encombrement / composants",
+    "Feu de position / d'encombrement / composants",
+    "Feu de position / d'encombrement / composants",
+    "Feu de recul / composants",
+    "Feu de recul / composants",
+    "Feu de recul / composants",
+    "Feu éclaireur de plaque/composants",
+    "Feu éclaireur de plaque/composants",
+    "Feu éclaireur de plaque/composants",
+    "Feu-stop / composants",
+    "Feu-stop / composants",
+    "Feu-stop / composants",
+    "Feux",
+    "Feux",
+    "Feux latéraux",
+    "Feux latéraux",
+    "Feux latéraux",
+    "Feux latéraux",
+    "Filtre d'habitacle",
+    "Filtre de direction",
+    "Filtre hydraulique",
+    "Filtre à air / carter",
+    "Filtre à air pour habitacle",
+    "Filtre à particules",
+    "Fixation jambe de force / suspension",
+    "Fixation/Support/collerette",
+    "Fixation/Support/collerette",
+    "Fixation/placement",
+    "Flexibles/Conduites",
+    "Fluide hydraulique",
+    "Frein de haute performance",
+    "Freins de stationnement",
+    "Freins de stationnement",
+    "Fusée d'essieu",
+    "Gaine de soudure",
+    "Gaines/tuyaux",
+    "Garniture/machoire de frein",
+    "Gicleur d'eau de lavage",
+    "Graphique complet des pièces de carrosserie",
+    "Grilles décoratives, logos, anti-éclaboussures",
+    "Guide de soupape / joint / réglage",
+    "Générateur d'impulsions",
+    "Habitacle",
+    "Hayon/composants",
+    "Huiles",
+    "Huiles",
+    "Huiles",
+    "Indicateur de pression d'huile / capteur / soupape",
+    "Injecteur/porte-injecteur/UPI",
+    "Instruments indicateurs",
+    "Interrupteur / capteur",
+    "Interrupteur / relais",
+    "Interrupteur / régulateur",
+    "Interrupteur/Relais/Contrôle clignotant/Appareil d.commande",
+    "Intervalle",
+    "Jambe de suspension",
+    "Jambe de suspension/Amortisseur/Pièces d'assemblage",
+    "Jambes de force / barres",
+    "Jauge d'huile",
+    "Jeu de joints complet",
+    "Jeu de suspensions complet",
+    "Joint d'eau de refroidissement",
+    "Joint de carburant",
+    "Joint de carter de distribution",
+    "Joint de circuit d'huile",
+    "Joint de collecteur d'admission",
+    "Joint de collecteur d'admission/des gaz d'échappement",
+    "Joint de collecteur d'échappement",
+    "Joint de culasse",
+    "Joint de culasse",
+    "Joint du carter de moteur",
+    "Joint du réservoir d'huile",
+    "Joint/ Flecteur",
+    "Joint/Thermostat",
+    "Joints toriques",
+    "Kit de freins",
+    "Kit de réparation/Kit complet",
+    "Kit-/bague d'étanchéité d'arbre radial",
+    "Levier / câble / tirette",
+    "Leviers manuels / Leviers de pédale",
+    "Lubrification",
+    "Lunette arrière",
+    "Marchepied / montant de porte",
+    "Marchepied / montant de porte",
+    "Miroirs",
+    "Miroirs",
+    "Module de gestion thermique",
+    "Moteur",
+    "Moteur / Relais",
+    "Moteur complet / Partie du moteur",
+    "Moyeu de roue / fixation",
+    "Mélange air-carburant",
+    "Navigation",
+    "Nettoyage des phares",
+    "Nettoyage des vitres",
+    "Outils spéciaux",
+    "Outils spéciaux suspension d’essieu/guidage des roues/roues",
+    "Paliers/suspension",
+    "Papillon des gaz / tubulure / tuyau de dépression",
+    "Papillon des gaz /-capteur",
+    "Pare-chocs/composants",
+    "Pare-chocs/composants",
+    "Pare-chocs/composants",
+    "Passage de roue",
+    "Passage de roue",
+    "Passage de roue",
+    "Phares supplémentaires/composants",
+    "Phares supplémentaires/composants",
+    "Pignon droit",
+    "Piston complet",
+    "Pièce de stabilisateur / pièces de fixation",
+    "Pièces de carrosserie/ailes/pares-chocs",
+    "Pièces de fixation",
+    "Pièces de fixation / accessoires",
+    "Pièces de maintenance",
+    "Pièces de montage",
+    "Pièces de montage",
+    "Pièces de montage",
+    "Pièces de transmission de direction",
+    "Pièces du système électrique",
+    "Pièces détachées de montage",
+    "Plaquette de frein",
+    "Plombs",
+    "Pneus",
+    "Pompe / accessoires",
+    "Pompe d'alimentation",
+    "Pompe à eau",
+    "Pompe à eau / joint",
+    "Pompe à eau pour entraînement électrique",
+    "Pompe à huile et pièces de montage",
+    "Pompe-à-eau / essuie-glaces",
+    "Portes-bagages",
+    "Portière avant/composants",
+    "Portière avant/composants",
+    "Poulie de renvoi",
+    "Poulie de renvoi",
+    "Poulie de renvoi/poulie de guidage",
+    "Poulie de renvoi/poulie de guidage",
+    "Poulie de renvoi/poulie de guidage",
+    "Poulie de renvoi/poulie de guidage",
+    "Poulie de renvoi/poulie de guidage",
+    "Poussoir /tige/ tuyau de protection",
+    "Pressostat/manostat",
+    "Projecteur antibrouillard/ composants",
+    "Projecteur antibrouillard/ composants",
+    "Projecteur antibrouillard/ composants",
+    "Projecteur de travail, composants",
+    "Projecteur de travail, composants",
+    "Projecteur longue portée / composants",
+    "Projecteur longue portée / composants",
+    "Projecteur longue portée / composants",
+    "Projecteur longue portée / composants",
+    "Projecteur longue portée / composants",
+    "Projecteur longue portée / composants",
+    "Projecteurs principaux / composants",
+    "Projecteurs principaux / composants",
+    "Projecteurs principaux / composants",
+    "Projecteurs principaux / à insérer",
+    "Projecteurs principaux / à insérer",
+    "Projecteurs principaux / à insérer",
+    "Protection anti-mustélidés",
+    "Préchauffage du moteur (électrique)",
+    "Préchauffement de l'air d'admission",
+    "Pulseur d'air habitacle composants",
+    "Radiateur",
+    "Radiateur",
+    "Radiateur",
+    "Radiateur d'eau/composants",
+    "Radiateur d'huile / pièces de montage",
+    "Radiateur pour moteur électrique",
+    "Recherche d'un article par graphique",
+    "Recherche d'un article par graphique",
+    "Recouvrement",
+    "Recouvrement/Capuchons",
+    "Recouvrement/Capuchons",
+    "Recouvrement/Capuchons",
+    "Recouvrement/radiateur",
+    "Recyclage des gaz d'échappement",
+    "Recyclage des gaz d'échappement",
+    "Refroidissement",
+    "Refroidissement",
+    "Refroidissement par air",
+    "Ressorts pneumatiques",
+    "Ressorts pneumatiques",
+    "Ressorts pneumatiques",
+    "Ressorts pneumatiques",
+    "Revêtement / grille avant",
+    "Revêtement arrière",
+    "Rotules/ jeu",
+    "Roue / fixation de la roue",
+    "Roues/Pneus",
+    "Récepteur d'embrayage",
+    "Réglage d'air de suralimentation",
+    "Réglage de soupape",
+    "Réglage du comportement dynamique",
+    "Réglage/Commande",
+    "Régleur de timonerie / accessoires",
+    "Régulation lambda",
+    "Régulation lambda",
+    "Réparation",
+    "Réservoir d'eau de lavage / conduite",
+    "Réservoir de carburant / accessoires",
+    "Réservoir de carburant/composants",
+    "Réservoir de carburant/composants",
+    "Réservoir de carburant/composants",
+    "Réservoir de carburant/composants",
+    "Résistance additionnelle",
+    "Servofrein",
+    "Set de vis pour châssis",
+    "Silencieux",
+    "Silencieux d'échappement (système)",
+    "Sièges",
+    "Soufflet",
+    "Soupape de commande par dépression",
+    "Soupape de commande à dépression",
+    "Soupape, recyclage des gaz d'échappement",
+    "Soupape, recyclage des gaz d'échappement",
+    "Soupapes / accessoires",
+    "Stabilisateur",
+    "Support d'essieu / arbre d'essieu / fixation",
+    "Support d'essieu/cadre auxiliaire",
+    "Support du balancier",
+    "Suralimentation",
+    "Suspension",
+    "Suspension de la direction",
+    "Suspension pneumatique",
+    "Suspension/Amortissement",
+    "Système audio",
+    "Système bielle-manivelle",
+    "Système d'air-bag",
+    "Système d'information et de communication",
+    "Système pneumatique",
+    "Système électrique",
+    "Systèmes de confort",
+    "Systèmes de sécurité",
+    "Tapis",
+    "Tapis de plancher",
+    "Tendeur de chaînes",
+    "Tendeurs de courroies",
+    "Tendeurs de courroies",
+    "Tendeurs de courroies",
+    "Tendeurs de courroies",
+    "Tendeurs de courroies",
+    "Thermostat",
+    "Travaux supplémentaires",
+    "Tringlerie d'essuie-glace / commande",
+    "Tripode",
+    "Tuning",
+    "Turbocompresseur",
+    "Tuyauterie et brides",
+    "Tuyaux / conduites",
+    "Tuyaux/Conduites",
+    "Unité d'alimentation complète",
+    "Vanne EGR/Tube d'aspiration",
+    "Vanne EGR/Tube d'aspiration",
+    "Vase d'expansion",
+    "Ventilation",
+    "Verrouillage",
+    "Vis de vidange",
+    "Vis/écrous/anneaux",
+    "Vitrage",
+    "Vitrage collé",
+    "Vitrages/Miroirs",
+    "Vitre de portière/vitre latérale",
+    "Vitres",
+    "Volant /- composants",
+    "Volant-moteur",
+    "Volant-moteur",
+    "roues dentées",
+    "Échangeur de chaleur-habitacle",
+    "Échangeur de chaleur-habitacle",
+    "Éclairage de l'habitacle",
+    "Éclairage de la boîte à gants",
+    "Éclairage de porte",
+    "Éclairage de porte",
+    "Éclairage de virage/composants",
+    "Éclairage du coffre / du compartiment de chargement",
+    "Éclairage du compartiment moteur",
+    "Éléments de commande",
+    "Épuration des gaz d'échappement",
+    "Épuration des gaz d'échappement",
+    "Équipement intérieur",
+    "Évaporateur"
+  ]
+}

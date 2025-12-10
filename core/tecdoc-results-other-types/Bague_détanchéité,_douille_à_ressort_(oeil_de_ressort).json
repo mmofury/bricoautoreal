@@ -1,0 +1,64 @@
+{
+  "productName": "Bague détanchéité, douille à ressort (oeil de ressort)",
+  "productId": 3689,
+  "searchText": "Bague détanchéité, douille à ressort (oeil de ressort)",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Suspension/Amortissement": {
+          "categoryId": 200060,
+          "categoryName": "Suspension/Amortissement",
+          "level": 1,
+          "children": {
+            "Suspension sur ressorts à lames": {
+              "categoryId": null,
+              "categoryName": "Suspension sur ressorts à lames",
+              "level": 2,
+              "children": {
+                "Bague détanchéité, douille à ressort (oeil de ressort)": {
+                  "categoryId": 200424,
+                  "categoryName": "Leaf Spring Suspension",
+                  "level": 2,
+                  "children": {
+                    "Suspension de ressort / accessoires": {
+                      "categoryId": null,
+                      "categoryName": "Suspension de ressort / accessoires",
+                      "level": 4,
+                      "children": {
+                        "Bague détanchéité, douille à ressort (oeil de ressort)": {
+                          "categoryId": 200882,
+                          "categoryName": "Spring Mounting/ Parts",
+                          "level": 3,
+                          "children": [],
+                          "productId": 3689
+                        }
+                      }
+                    }
+                  },
+                  "productId": 3689
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Suspension/Amortissement [ID: 200060] (Niveau 1)\n    └── Suspension sur ressorts à lames (Niveau 2)\n        └── Leaf Spring Suspension [ID: 200424] (Niveau 2) → ProductId: 3689\n            └── Suspension de ressort / accessoires (Niveau 4)\n                └── Spring Mounting/ Parts [ID: 200882] (Niveau 3) → ProductId: 3689",
+      "productIdsInArbo": [
+        3689
+      ],
+      "matchedProductIds": [
+        3689
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T09:53:33.921Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

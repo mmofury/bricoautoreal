@@ -1,0 +1,49 @@
+{
+  "productName": "Valve de contrôle, détendeur",
+  "productId": 3023,
+  "searchText": "Valve de contrôle, détendeur",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Système pneumatique": {
+          "categoryId": 200059,
+          "categoryName": "Système pneumatique",
+          "level": 1,
+          "children": {
+            "Port d'essai": {
+              "categoryId": null,
+              "categoryName": "Port d'essai",
+              "level": 2,
+              "children": {
+                "Valve de contrôle, détendeur": {
+                  "categoryId": 200529,
+                  "categoryName": "Test Connection",
+                  "level": 2,
+                  "children": [],
+                  "productId": 3023
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système pneumatique [ID: 200059] (Niveau 1)\n    └── Port d'essai (Niveau 2)\n        └── Test Connection [ID: 200529] (Niveau 2) → ProductId: 3023",
+      "productIdsInArbo": [
+        3023
+      ],
+      "matchedProductIds": [
+        3023
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:44:51.508Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Appareil de commande, embrayage automatique",
+  "searchText": "Appareil de commande, embrayage automatique",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T18:55:16.333Z",
+  "productId": 2212,
+  "arborescence": {
+    "Embrayage / composants": {
+      "categoryId": 100050,
+      "categoryName": "Embrayage / composants",
+      "level": 1,
+      "children": {
+        "Embrayage automatique": {
+          "categoryId": null,
+          "categoryName": "Embrayage automatique",
+          "level": 2,
+          "children": {
+            "Appareil de commande, embrayage automatique": {
+              "categoryId": 100832,
+              "categoryName": "Automatic Clutch",
+              "level": 2,
+              "children": [],
+              "productId": 2212
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Embrayage / composants [ID: 100050] (Niveau 1)\n    └── Embrayage automatique (Niveau 2)\n        └── Automatic Clutch [ID: 100832] (Niveau 2) → ProductId: 2212",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Embrayage / composants",
+        "Embrayage automatique",
+        "Automatic Clutch"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100832
+      ],
+      "finalCategoryId": 100832,
+      "productId": 2212
+    }
+  ],
+  "productIdsInArbo": [
+    2212
+  ],
+  "matchedProductIds": [
+    2212
+  ]
+}

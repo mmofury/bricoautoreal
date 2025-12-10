@@ -1,0 +1,54 @@
+{
+  "productName": "Kit réparation de câble, lève-vitre",
+  "searchText": "Kit réparation de câble, lève-vitre",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:10:13.839Z",
+  "productId": 7312,
+  "arborescence": {
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Lève-vitre": {
+          "categoryId": null,
+          "categoryName": "Lève-vitre",
+          "level": 2,
+          "children": {
+            "Kit réparation de câble, lève-vitre": {
+              "categoryId": 100751,
+              "categoryName": "Window Regulator",
+              "level": 2,
+              "children": [],
+              "productId": 7312
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Systèmes de confort [ID: 100335] (Niveau 1)\n    └── Lève-vitre (Niveau 2)\n        └── Window Regulator [ID: 100751] (Niveau 2) → ProductId: 7312",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Systèmes de confort",
+        "Lève-vitre",
+        "Window Regulator"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        100751
+      ],
+      "finalCategoryId": 100751,
+      "productId": 7312
+    }
+  ],
+  "productIdsInArbo": [
+    7312
+  ],
+  "matchedProductIds": [
+    7312
+  ]
+}

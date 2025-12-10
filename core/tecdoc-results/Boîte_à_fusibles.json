@@ -1,0 +1,123 @@
+{
+  "productName": "Boîte à fusibles",
+  "searchText": "Boîte à fusibles",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T20:10:32.656Z",
+  "productId": 820,
+  "arborescence": {
+    "Entraînement hybride/électrique": {
+      "categoryId": 706209,
+      "categoryName": "Entraînement hybride/électrique",
+      "level": 1,
+      "children": {
+        "Boîte à fusibles": {
+          "categoryId": null,
+          "categoryName": "Boîte à fusibles",
+          "level": 2,
+          "children": {
+            "câble de raccord., boîte à fusibles (batterie entraînement)": {
+              "categoryId": 706731,
+              "categoryName": "Security Box",
+              "level": 2,
+              "children": [],
+              "productId": 60641
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Boîte à fusibles / support": {
+          "categoryId": null,
+          "categoryName": "Boîte à fusibles / support",
+          "level": 2,
+          "children": {
+            "Boîte à fusibles": {
+              "categoryId": 102336,
+              "categoryName": "Fuse Box/Holder",
+              "level": 2,
+              "children": [],
+              "productId": 3420
+            },
+            "Porte-fusibles": {
+              "categoryId": 102336,
+              "categoryName": "Fuse Box/Holder",
+              "level": 2,
+              "children": [],
+              "productId": 5026
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Entraînement hybride/électrique [ID: 706209] (Niveau 1)\n│   └── Boîte à fusibles (Niveau 2)\n│       └── Security Box [ID: 706731] (Niveau 2) → ProductId: 60641\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Boîte à fusibles / support (Niveau 2)\n        ├── Fuse Box/Holder [ID: 102336] (Niveau 2) → ProductId: 3420\n        └── Fuse Box/Holder [ID: 102336] (Niveau 2) → ProductId: 5026",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement hybride/électrique",
+        "Boîte à fusibles",
+        "Security Box"
+      ],
+      "categoryIds": [
+        706209,
+        null,
+        706731
+      ],
+      "finalCategoryId": 706731,
+      "productId": 60641
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Boîte à fusibles / support",
+        "Fuse Box/Holder"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        102336
+      ],
+      "finalCategoryId": 102336,
+      "productId": 3420
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Boîte à fusibles / support",
+        "Fuse Box/Holder"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        102336
+      ],
+      "finalCategoryId": 102336,
+      "productId": 5026
+    }
+  ],
+  "productIdsInArbo": [
+    3420,
+    5026,
+    60641
+  ],
+  "closestProductIds": [
+    {
+      "productId": 3420,
+      "productName": "Boîte à fusibles"
+    },
+    {
+      "productId": 5026,
+      "productName": "Porte-fusibles"
+    },
+    {
+      "productId": 60641,
+      "productName": "câble de raccord., boîte à fusibles (batterie entraînement)"
+    }
+  ]
+}

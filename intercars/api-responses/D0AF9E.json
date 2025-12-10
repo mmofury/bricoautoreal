@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "D0AF9E",
+      "index": "03.9311-0093.3",
+      "tecDoc": "03.9311-0093.3",
+      "tecDocProd": "3",
+      "articleNumber": "03.9311-0093.3",
+      "brand": "ATE",
+      "shortDescription": "Devices for working fluids and fuels",
+      "description": "Testing set, application: brake fluid ATE",
+      "eans": [
+        "4006633344418"
+      ],
+      "packageWeight": "0,228",
+      "packageWidth": "12,000",
+      "packageDepth": "13,000",
+      "packageHeight": "35,600",
+      "customsCode": "90318080",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_2326",
+          "primary": false,
+          "name": {
+            "en": "Sampling Set, brake fluid"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91773",
+          "primary": true,
+          "name": {
+            "en": "Devices for working fluids and fuels"
+          }
+        }
+      ]
+    }
+  ]
+}

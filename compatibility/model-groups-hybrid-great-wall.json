@@ -1,0 +1,565 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.301Z",
+  "manufacturer": "GREAT WALL",
+  "countGroups": 26,
+  "groups": [
+    {
+      "manufacturerId": 2903,
+      "manufacturerName": "GREAT WALL",
+      "groupKey": "C30",
+      "displayName": "C30",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13193,
+          "modelName": "C30",
+          "modelYearFrom": "2012-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2903,
+      "manufacturerName": "GREAT WALL",
+      "groupKey": "C50",
+      "displayName": "C50",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10179,
+          "modelName": "C50",
+          "modelYearFrom": "2011-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2903,
+      "manufacturerName": "GREAT WALL",
+      "groupKey": "COOLBEAR",
+      "displayName": "COOLBEAR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8449,
+          "modelName": "COOLBEAR",
+          "modelYearFrom": "2008-01-01",
+          "modelYearTo": "2013-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2903,
+      "manufacturerName": "GREAT WALL",
+      "groupKey": "COWRY",
+      "displayName": "COWRY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7836,
+          "modelName": "COWRY",
+          "modelYearFrom": "2007-11-01",
+          "modelYearTo": "2010-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2903,
+      "manufacturerName": "GREAT WALL",
+      "groupKey": "DEER",
+      "displayName": "DEER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5979,
+          "modelName": "DEER Camion plate-forme/Châssis",
+          "modelYearFrom": "2000-02-01",
+          "modelYearTo": "2003-08-01"
+        },
+        {
+          "modelId": 6541,
+          "modelName": "DEER Pick-up",
+          "modelYearFrom": "1996-05-01",
+          "modelYearTo": "2003-08-01"
+        },
+        {
+          "modelId": 9860,
+          "modelName": "DEER Pick-up",
+          "modelYearFrom": "2005-01-01",
+          "modelYearTo": "2013-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2903,
+      "manufacturerName": "GREAT WALL",
+      "groupKey": "FENGJUN",
+      "displayName": "FENGJUN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6542,
+          "modelName": "FENGJUN 3",
+          "modelYearFrom": "2006-08-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 9861,
+          "modelName": "FENGJUN 5 Pick-up",
+          "modelYearFrom": "2009-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14549,
+          "modelName": "FENGJUN 5 Camion plate-forme/Châssis",
+          "modelYearFrom": "2010-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39198,
+          "modelName": "FENGJUN 7",
+          "modelYearFrom": "2018-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2903,
+      "manufacturerName": "GREAT WALL",
+      "groupKey": "FLORID",
+      "displayName": "FLORID",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8065,
+          "modelName": "FLORID",
+          "modelYearFrom": "2008-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 9862,
+          "modelName": "FLORID CROSS",
+          "modelYearFrom": "2009-08-01",
+          "modelYearTo": "2014-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2903,
+      "manufacturerName": "GREAT WALL",
+      "groupKey": "HAVAL",
+      "displayName": "HAVAL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45301,
+          "modelName": "HAVAL H6 III",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 90053,
+          "modelName": "HAVAL JOLION I",
+          "modelYearFrom": "2021-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2903,
+      "manufacturerName": "GREAT WALL",
+      "groupKey": "HOVER",
+      "displayName": "HOVER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6543,
+          "modelName": "HOVER",
+          "modelYearFrom": "2005-11-01",
+          "modelYearTo": "2011-04-01"
+        },
+        {
+          "modelId": 8445,
+          "modelName": "HOVER H3",
+          "modelYearFrom": "2006-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 9864,
+          "modelName": "HOVER H5",
+          "modelYearFrom": "2010-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 9865,
+          "modelName": "HOVER H6",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 9866,
+          "modelName": "HOVER M1",
+          "modelYearFrom": "2009-09-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 9867,
+          "modelName": "HOVER M2",
+          "modelYearFrom": "2010-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10834,
+          "modelName": "HOVER M4",
+          "modelYearFrom": "2012-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38332,
+          "modelName": "HOVER PI",
+          "modelYearFrom": "2006-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2903,
+      "manufacturerName": "GREAT WALL",
+      "groupKey": "JINGANGPAO",
+      "displayName": "JINGANGPAO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42831,
+          "modelName": "JINGANGPAO",
+          "modelYearFrom": "2022-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2903,
+      "manufacturerName": "GREAT WALL",
+      "groupKey": "LINGAO",
+      "displayName": "LINGAO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9672,
+          "modelName": "LINGAO",
+          "modelYearFrom": "2009-11-01",
+          "modelYearTo": "2013-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2903,
+      "manufacturerName": "GREAT WALL",
+      "groupKey": "MONSTER",
+      "displayName": "MONSTER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6096,
+          "modelName": "MONSTER",
+          "modelYearFrom": "2000-03-01",
+          "modelYearTo": "2003-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2903,
+      "manufacturerName": "GREAT WALL",
+      "groupKey": "ORA",
+      "displayName": "ORA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44462,
+          "modelName": "ORA (ES11)",
+          "modelYearFrom": "2020-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45252,
+          "modelName": "ORA 03 (ES11)",
+          "modelYearFrom": "2024-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2903,
+      "manufacturerName": "GREAT WALL",
+      "groupKey": "PAO",
+      "displayName": "PAO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39870,
+          "modelName": "PAO",
+          "modelYearFrom": "2019-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41646,
+          "modelName": "PAO",
+          "modelYearFrom": "2020-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2903,
+      "manufacturerName": "GREAT WALL",
+      "groupKey": "PEGASUS",
+      "displayName": "PEGASUS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6110,
+          "modelName": "PEGASUS",
+          "modelYearFrom": "2004-02-01",
+          "modelYearTo": "2008-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2903,
+      "manufacturerName": "GREAT WALL",
+      "groupKey": "PERI",
+      "displayName": "PERI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9863,
+          "modelName": "PERI",
+          "modelYearFrom": "2008-03-01",
+          "modelYearTo": "2010-01-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2903,
+      "manufacturerName": "GREAT WALL",
+      "groupKey": "SAFE",
+      "displayName": "SAFE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6545,
+          "modelName": "SAFE",
+          "modelYearFrom": "2002-01-01",
+          "modelYearTo": "2009-12-01"
+        },
+        {
+          "modelId": 9868,
+          "modelName": "SAFE F1",
+          "modelYearFrom": "2006-04-01",
+          "modelYearTo": "2009-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2903,
+      "manufacturerName": "GREAT WALL",
+      "groupKey": "SAILING",
+      "displayName": "SAILING",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6548,
+          "modelName": "SAILING Pick-up",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2903,
+      "manufacturerName": "GREAT WALL",
+      "groupKey": "SHANHAIPAO",
+      "displayName": "SHANHAIPAO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43915,
+          "modelName": "SHANHAIPAO",
+          "modelYearFrom": "2022-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2903,
+      "manufacturerName": "GREAT WALL",
+      "groupKey": "SING",
+      "displayName": "SING",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6152,
+          "modelName": "SING",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": "2010-05-01"
+        },
+        {
+          "modelId": 6549,
+          "modelName": "SING",
+          "modelYearFrom": "2003-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2903,
+      "manufacturerName": "GREAT WALL",
+      "groupKey": "SOCOOL",
+      "displayName": "SOCOOL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13848,
+          "modelName": "SOCOOL",
+          "modelYearFrom": "2004-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2903,
+      "manufacturerName": "GREAT WALL",
+      "groupKey": "STEED",
+      "displayName": "STEED",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10553,
+          "modelName": "STEED",
+          "modelYearFrom": "2006-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10572,
+          "modelName": "STEED 5",
+          "modelYearFrom": "2011-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2903,
+      "manufacturerName": "GREAT WALL",
+      "groupKey": "TANK",
+      "displayName": "TANK",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43914,
+          "modelName": "TANK 300",
+          "modelYearFrom": "2020-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45299,
+          "modelName": "TANK 500",
+          "modelYearFrom": "2022-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2903,
+      "manufacturerName": "GREAT WALL",
+      "groupKey": "TENGYI",
+      "displayName": "TENGYI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9055,
+          "modelName": "TENGYI C30",
+          "modelYearFrom": "2010-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 9172,
+          "modelName": "TENGYI V80",
+          "modelYearFrom": "2010-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 9869,
+          "modelName": "TENGYI C20R",
+          "modelYearFrom": "2011-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11427,
+          "modelName": "TENGYI C10",
+          "modelYearFrom": "2010-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2903,
+      "manufacturerName": "GREAT WALL",
+      "groupKey": "WEY",
+      "displayName": "WEY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45458,
+          "modelName": "WEY 03",
+          "modelYearFrom": "2024-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45459,
+          "modelName": "WEY 05",
+          "modelYearFrom": "2024-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2903,
+      "manufacturerName": "GREAT WALL",
+      "groupKey": "WINGLE",
+      "displayName": "WINGLE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6215,
+          "modelName": "WINGLE",
+          "modelYearFrom": "2006-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14289,
+          "modelName": "WINGLE 3",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 36993,
+          "modelName": "WINGLE 6 (CC1031)",
+          "modelYearFrom": "2014-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40921,
+          "modelName": "WINGLE 6",
+          "modelYearFrom": "2014-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44093,
+          "modelName": "WINGLE 5",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

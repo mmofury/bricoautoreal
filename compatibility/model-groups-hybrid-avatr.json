@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.173Z",
+  "manufacturer": "AVATR",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 6622,
+      "manufacturerName": "AVATR",
+      "groupKey": "07",
+      "displayName": "07",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45937,
+          "modelName": "07",
+          "modelYearFrom": "2024-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6622,
+      "manufacturerName": "AVATR",
+      "groupKey": "11",
+      "displayName": "11",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43526,
+          "modelName": "11",
+          "modelYearFrom": "2022-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6622,
+      "manufacturerName": "AVATR",
+      "groupKey": "12",
+      "displayName": "12",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44919,
+          "modelName": "12",
+          "modelYearFrom": "2023-11-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

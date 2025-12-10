@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.509Z",
+  "manufacturer": "THAIRUNG",
+  "countGroups": 1,
+  "groups": [
+    {
+      "manufacturerId": 4644,
+      "manufacturerName": "THAIRUNG",
+      "groupKey": "TRANSFORMER",
+      "displayName": "TRANSFORMER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37624,
+          "modelName": "TRANSFORMER II",
+          "modelYearFrom": "2016-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42548,
+          "modelName": "TRANSFORMER I",
+          "modelYearFrom": "2014-01-01",
+          "modelYearTo": "2016-05-01"
+        }
+      ]
+    }
+  ]
+}

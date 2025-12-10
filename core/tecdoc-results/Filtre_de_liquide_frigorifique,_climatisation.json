@@ -1,0 +1,54 @@
+{
+  "productName": "Filtre de liquide frigorifique, climatisation",
+  "searchText": "Filtre de liquide frigorifique, climatisation",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:39:19.971Z",
+  "productId": 1266,
+  "arborescence": {
+    "Climatisation": {
+      "categoryId": 100243,
+      "categoryName": "Climatisation",
+      "level": 1,
+      "children": {
+        "Liquide de refroidissement/Filtre": {
+          "categoryId": null,
+          "categoryName": "Liquide de refroidissement/Filtre",
+          "level": 2,
+          "children": {
+            "Filtre de liquide frigorifique, climatisation": {
+              "categoryId": 100732,
+              "categoryName": "Refrigerant/Filter",
+              "level": 2,
+              "children": [],
+              "productId": 1266
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Climatisation [ID: 100243] (Niveau 1)\n    └── Liquide de refroidissement/Filtre (Niveau 2)\n        └── Refrigerant/Filter [ID: 100732] (Niveau 2) → ProductId: 1266",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Climatisation",
+        "Liquide de refroidissement/Filtre",
+        "Refrigerant/Filter"
+      ],
+      "categoryIds": [
+        100243,
+        null,
+        100732
+      ],
+      "finalCategoryId": 100732,
+      "productId": 1266
+    }
+  ],
+  "productIdsInArbo": [
+    1266
+  ],
+  "matchedProductIds": [
+    1266
+  ]
+}

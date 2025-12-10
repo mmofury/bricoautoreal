@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G0SEBK",
+      "index": "0 444 021 048",
+      "tecDoc": "0 444 021 048",
+      "tecDocProd": "30",
+      "articleNumber": "0 444 021 048",
+      "brand": "BOSCH",
+      "shortDescription": "Clamping Piece",
+      "description": "Parts set",
+      "eans": [
+        "4047026452822"
+      ],
+      "packageWeight": "0,013",
+      "packageWidth": "5,900",
+      "packageDepth": "0,900",
+      "packageHeight": "7,900",
+      "customsCode": "84819000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_5973",
+          "primary": false,
+          "name": {
+            "en": "Clamp"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3835",
+          "primary": true,
+          "name": {
+            "en": "Clamping Piece"
+          }
+        }
+      ]
+    }
+  ]
+}

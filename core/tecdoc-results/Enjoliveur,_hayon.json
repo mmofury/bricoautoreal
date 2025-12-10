@@ -1,0 +1,184 @@
+{
+  "productName": "Enjoliveur, hayon",
+  "searchText": "Enjoliveur, hayon",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:36:26.829Z",
+  "productId": 2968,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Arrière de la voiture": {
+          "categoryId": null,
+          "categoryName": "Arrière de la voiture",
+          "level": 2,
+          "children": {
+            "Enjoliveur, hayon": {
+              "categoryId": 101705,
+              "categoryName": "Vehicle Rear",
+              "level": 2,
+              "children": {
+                "Clapet/couvercle de hayon/de coffre": {
+                  "categoryId": null,
+                  "categoryName": "Clapet/couvercle de hayon/de coffre",
+                  "level": 4,
+                  "children": {
+                    "Enjoliveur, hayon": {
+                      "categoryId": 101782,
+                      "categoryName": "Tailgate/Cargo Bay Hatch & Boot Lid/Cargo Bay Cover",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2968
+                    }
+                  }
+                },
+                "Composants/suppléments": {
+                  "categoryId": null,
+                  "categoryName": "Composants/suppléments",
+                  "level": 4,
+                  "children": {
+                    "Enjoliveur, hayon": {
+                      "categoryId": 101745,
+                      "categoryName": "Parts",
+                      "level": 3,
+                      "children": {
+                        "Enjoliveur/bande protectrice": {
+                          "categoryId": null,
+                          "categoryName": "Enjoliveur/bande protectrice",
+                          "level": 6,
+                          "children": {
+                            "Enjoliveur, hayon": {
+                              "categoryId": 101750,
+                              "categoryName": "Trim/Protection Strips",
+                              "level": 4,
+                              "children": [],
+                              "productId": 2968
+                            }
+                          }
+                        }
+                      },
+                      "productId": 2968
+                    }
+                  }
+                }
+              },
+              "productId": 2968
+            }
+          }
+        },
+        "Grilles décoratives, logos, anti-éclaboussures": {
+          "categoryId": null,
+          "categoryName": "Grilles décoratives, logos, anti-éclaboussures",
+          "level": 2,
+          "children": {
+            "Enjoliveur, hayon": {
+              "categoryId": 100219,
+              "categoryName": "Trim/Protection/Decorative Strips/Emblems",
+              "level": 2,
+              "children": {
+                "Enjoliveur/bande protectrice": {
+                  "categoryId": null,
+                  "categoryName": "Enjoliveur/bande protectrice",
+                  "level": 4,
+                  "children": {
+                    "Enjoliveur, hayon": {
+                      "categoryId": 100740,
+                      "categoryName": "Trim/Protection Strips",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2968
+                    }
+                  }
+                }
+              },
+              "productId": 2968
+            }
+          }
+        },
+        "Trappes/capots/portes/toit coul./toit panoram./toit pliant": {
+          "categoryId": null,
+          "categoryName": "Trappes/capots/portes/toit coul./toit panoram./toit pliant",
+          "level": 2,
+          "children": {
+            "Enjoliveur, hayon": {
+              "categoryId": 100746,
+              "categoryName": "Hatches/Bonnets/Doors/Sunroof/Panoramic Roof",
+              "level": 2,
+              "children": {
+                "Clapet/couvercle de hayon/de coffre": {
+                  "categoryId": null,
+                  "categoryName": "Clapet/couvercle de hayon/de coffre",
+                  "level": 4,
+                  "children": {
+                    "Enjoliveur, hayon": {
+                      "categoryId": 100192,
+                      "categoryName": "Tailgate/Cargo Bay Hatch & Boot Lid/Cargo Bay Cover",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2968
+                    }
+                  }
+                }
+              },
+              "productId": 2968
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    ├── Arrière de la voiture (Niveau 2)\n    │   └── Vehicle Rear [ID: 101705] (Niveau 2) → ProductId: 2968\n    │       ├── Clapet/couvercle de hayon/de coffre (Niveau 4)\n    │       │   └── Tailgate/Cargo Bay Hatch & Boot Lid/Cargo Bay Cover [ID: 101782] (Niveau 3) → ProductId: 2968\n    │       └── Composants/suppléments (Niveau 4)\n    │           └── Parts [ID: 101745] (Niveau 3) → ProductId: 2968\n    │               └── Enjoliveur/bande protectrice (Niveau 6)\n    │                   └── Trim/Protection Strips [ID: 101750] (Niveau 4) → ProductId: 2968\n    ├── Grilles décoratives, logos, anti-éclaboussures (Niveau 2)\n    │   └── Trim/Protection/Decorative Strips/Emblems [ID: 100219] (Niveau 2) → ProductId: 2968\n    │       └── Enjoliveur/bande protectrice (Niveau 4)\n    │           └── Trim/Protection Strips [ID: 100740] (Niveau 3) → ProductId: 2968\n    └── Trappes/capots/portes/toit coul./toit panoram./toit pliant (Niveau 2)\n        └── Hatches/Bonnets/Doors/Sunroof/Panoramic Roof [ID: 100746] (Niveau 2) → ProductId: 2968\n            └── Clapet/couvercle de hayon/de coffre (Niveau 4)\n                └── Tailgate/Cargo Bay Hatch & Boot Lid/Cargo Bay Cover [ID: 100192] (Niveau 3) → ProductId: 2968",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Vehicle Rear"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101705
+      ],
+      "finalCategoryId": 101705,
+      "productId": 2968
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Grilles décoratives, logos, anti-éclaboussures",
+        "Trim/Protection/Decorative Strips/Emblems"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100219
+      ],
+      "finalCategoryId": 100219,
+      "productId": 2968
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Trappes/capots/portes/toit coul./toit panoram./toit pliant",
+        "Hatches/Bonnets/Doors/Sunroof/Panoramic Roof"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100746
+      ],
+      "finalCategoryId": 100746,
+      "productId": 2968
+    }
+  ],
+  "productIdsInArbo": [
+    2968
+  ],
+  "matchedProductIds": [
+    2968
+  ]
+}

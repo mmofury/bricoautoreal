@@ -1,0 +1,97 @@
+{
+  "productName": "Unité de commande, commutateur de colonne de direction",
+  "searchText": "Unité de commande, commutateur de colonne de direction",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:30:31.971Z",
+  "productId": 7990,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Appareils de commande": {
+          "categoryId": null,
+          "categoryName": "Appareils de commande",
+          "level": 2,
+          "children": {
+            "Unité de commande, commutateur de colonne de direction": {
+              "categoryId": 100727,
+              "categoryName": "Control Units",
+              "level": 2,
+              "children": [],
+              "productId": 7990
+            }
+          }
+        },
+        "Interrupteur/Relais/Contrôle clignotant/Appareil d.commande": {
+          "categoryId": null,
+          "categoryName": "Interrupteur/Relais/Contrôle clignotant/Appareil d.commande",
+          "level": 2,
+          "children": {
+            "Unité de commande, commutateur de colonne de direction": {
+              "categoryId": 100307,
+              "categoryName": "Light Switches/Relays/Controls",
+              "level": 2,
+              "children": {
+                "Appareils de commande": {
+                  "categoryId": null,
+                  "categoryName": "Appareils de commande",
+                  "level": 4,
+                  "children": {
+                    "Unité de commande, commutateur de colonne de direction": {
+                      "categoryId": 100724,
+                      "categoryName": "Controls",
+                      "level": 3,
+                      "children": [],
+                      "productId": 7990
+                    }
+                  }
+                }
+              },
+              "productId": 7990
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    ├── Appareils de commande (Niveau 2)\n    │   └── Control Units [ID: 100727] (Niveau 2) → ProductId: 7990\n    └── Interrupteur/Relais/Contrôle clignotant/Appareil d.commande (Niveau 2)\n        └── Light Switches/Relays/Controls [ID: 100307] (Niveau 2) → ProductId: 7990\n            └── Appareils de commande (Niveau 4)\n                └── Controls [ID: 100724] (Niveau 3) → ProductId: 7990",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Appareils de commande",
+        "Control Units"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100727
+      ],
+      "finalCategoryId": 100727,
+      "productId": 7990
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Interrupteur/Relais/Contrôle clignotant/Appareil d.commande",
+        "Light Switches/Relays/Controls"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100307
+      ],
+      "finalCategoryId": 100307,
+      "productId": 7990
+    }
+  ],
+  "productIdsInArbo": [
+    7990
+  ],
+  "matchedProductIds": [
+    7990
+  ]
+}

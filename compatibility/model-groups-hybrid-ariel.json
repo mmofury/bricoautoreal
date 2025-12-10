@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.159Z",
+  "manufacturer": "ARIEL",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 4406,
+      "manufacturerName": "ARIEL",
+      "groupKey": "ATOM",
+      "displayName": "ATOM",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44556,
+          "modelName": "ATOM",
+          "modelYearFrom": "2000-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4406,
+      "manufacturerName": "ARIEL",
+      "groupKey": "NOMAD",
+      "displayName": "NOMAD",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44557,
+          "modelName": "NOMAD",
+          "modelYearFrom": "2023-06-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

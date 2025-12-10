@@ -1,0 +1,54 @@
+{
+  "productName": "Dispositif de soutien, moyeu de roue",
+  "searchText": "Dispositif de soutien, moyeu de roue",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:31:55.308Z",
+  "productId": 9168,
+  "arborescence": {
+    "Suspension d'essieu/Guidage des roues/Roues": {
+      "categoryId": 100013,
+      "categoryName": "Suspension d'essieu/Guidage des roues/Roues",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Dispositif de soutien, moyeu de roue": {
+              "categoryId": 103159,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 9168
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Suspension d'essieu/Guidage des roues/Roues [ID: 100013] (Niveau 1)\n    └── Outils (Niveau 2)\n        └── Tools [ID: 103159] (Niveau 2) → ProductId: 9168",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        103159
+      ],
+      "finalCategoryId": 103159,
+      "productId": 9168
+    }
+  ],
+  "productIdsInArbo": [
+    9168
+  ],
+  "matchedProductIds": [
+    9168
+  ]
+}

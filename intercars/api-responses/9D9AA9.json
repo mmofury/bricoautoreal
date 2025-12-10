@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "9D9AA9",
+      "index": "03.9302-0800.3",
+      "tecDoc": "03.9302-0800.3",
+      "tecDocProd": "3",
+      "articleNumber": "03.9302-0800.3",
+      "brand": "ATE",
+      "shortDescription": "Devices for working fluids and fuels",
+      "description": "Plug set, application: brake fluid ATE",
+      "eans": [
+        "4006633127479"
+      ],
+      "packageWeight": "1,740",
+      "packageWidth": "29,000",
+      "packageDepth": "34,500",
+      "packageHeight": "9,500",
+      "customsCode": "90319000",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_2345",
+          "primary": false,
+          "name": {
+            "en": "Bleeder Adaptor Set"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91773",
+          "primary": true,
+          "name": {
+            "en": "Devices for working fluids and fuels"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "212921",
+      "index": "475 710 006 7",
+      "tecDoc": "4757100067",
+      "tecDocProd": "22",
+      "articleNumber": "4757100067",
+      "brand": "WABCO",
+      "shortDescription": "Control Unit, ALB",
+      "description": "1067836 WABCO automatic brake controller connection 2xM16x1 VOLVO B10",
+      "eans": [
+        "4057875224013"
+      ],
+      "packageWeight": "1,640",
+      "customsCode": "84812090",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_73",
+          "primary": false,
+          "name": {
+            "en": "Brake Force Regulator"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1341",
+          "primary": true,
+          "name": {
+            "en": "Control Unit, ALB"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "productName": "Commutateur, réglage de la colonne de direction",
+  "searchText": "Commutateur, réglage de la colonne de direction",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:23:20.254Z",
+  "productId": 6145,
+  "arborescence": {
+    "Direction": {
+      "categoryId": 100012,
+      "categoryName": "Direction",
+      "level": 1,
+      "children": {
+        "Colonne de direction / arbre": {
+          "categoryId": null,
+          "categoryName": "Colonne de direction / arbre",
+          "level": 2,
+          "children": {
+            "Commutateur, réglage de la colonne de direction": {
+              "categoryId": 100202,
+              "categoryName": "Steering Column",
+              "level": 2,
+              "children": [],
+              "productId": 6145
+            }
+          }
+        }
+      }
+    },
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Moteur / Relais": {
+          "categoryId": null,
+          "categoryName": "Moteur / Relais",
+          "level": 2,
+          "children": {
+            "Commutateur, réglage de la colonne de direction": {
+              "categoryId": 104156,
+              "categoryName": "Motor/Relay/Switch",
+              "level": 2,
+              "children": {
+                "Réglage de la colonne de direction": {
+                  "categoryId": null,
+                  "categoryName": "Réglage de la colonne de direction",
+                  "level": 4,
+                  "children": {
+                    "Commutateur, réglage de la colonne de direction": {
+                      "categoryId": 105586,
+                      "categoryName": "Steering Column Adjustment",
+                      "level": 3,
+                      "children": [],
+                      "productId": 6145
+                    }
+                  }
+                }
+              },
+              "productId": 6145
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Direction [ID: 100012] (Niveau 1)\n│   └── Colonne de direction / arbre (Niveau 2)\n│       └── Steering Column [ID: 100202] (Niveau 2) → ProductId: 6145\n\n└── Systèmes de confort [ID: 100335] (Niveau 1)\n    └── Moteur / Relais (Niveau 2)\n        └── Motor/Relay/Switch [ID: 104156] (Niveau 2) → ProductId: 6145\n            └── Réglage de la colonne de direction (Niveau 4)\n                └── Steering Column Adjustment [ID: 105586] (Niveau 3) → ProductId: 6145",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Direction",
+        "Colonne de direction / arbre",
+        "Steering Column"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        100202
+      ],
+      "finalCategoryId": 100202,
+      "productId": 6145
+    },
+    {
+      "path": [
+        "Systèmes de confort",
+        "Moteur / Relais",
+        "Motor/Relay/Switch"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        104156
+      ],
+      "finalCategoryId": 104156,
+      "productId": 6145
+    }
+  ],
+  "productIdsInArbo": [
+    6145
+  ],
+  "matchedProductIds": [
+    6145
+  ]
+}

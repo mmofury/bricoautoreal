@@ -1,0 +1,112 @@
+{
+  "productName": "Joint d'étanchéité, toit ouvrant",
+  "searchText": "Joint d'étanchéité, toit ouvrant",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:53:40.408Z",
+  "productId": 1777,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Habitacle": {
+          "categoryId": null,
+          "categoryName": "Habitacle",
+          "level": 2,
+          "children": {
+            "Joint d'étanchéité, toit ouvrant": {
+              "categoryId": 101690,
+              "categoryName": "Passenger Cabin",
+              "level": 2,
+              "children": {
+                "Toit ouvrant/composants": {
+                  "categoryId": null,
+                  "categoryName": "Toit ouvrant/composants",
+                  "level": 4,
+                  "children": {
+                    "Joint d'étanchéité, toit ouvrant": {
+                      "categoryId": 101695,
+                      "categoryName": "Sunroof/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1777
+                    }
+                  }
+                }
+              },
+              "productId": 1777
+            }
+          }
+        },
+        "Trappes/capots/portes/toit coul./toit panoram./toit pliant": {
+          "categoryId": null,
+          "categoryName": "Trappes/capots/portes/toit coul./toit panoram./toit pliant",
+          "level": 2,
+          "children": {
+            "Joint d'étanchéité, toit ouvrant": {
+              "categoryId": 100746,
+              "categoryName": "Hatches/Bonnets/Doors/Sunroof/Panoramic Roof",
+              "level": 2,
+              "children": {
+                "Toit ouvrant/composants": {
+                  "categoryId": null,
+                  "categoryName": "Toit ouvrant/composants",
+                  "level": 4,
+                  "children": {
+                    "Joint d'étanchéité, toit ouvrant": {
+                      "categoryId": 100778,
+                      "categoryName": "Sunroof/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1777
+                    }
+                  }
+                }
+              },
+              "productId": 1777
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    ├── Habitacle (Niveau 2)\n    │   └── Passenger Cabin [ID: 101690] (Niveau 2) → ProductId: 1777\n    │       └── Toit ouvrant/composants (Niveau 4)\n    │           └── Sunroof/Parts [ID: 101695] (Niveau 3) → ProductId: 1777\n    └── Trappes/capots/portes/toit coul./toit panoram./toit pliant (Niveau 2)\n        └── Hatches/Bonnets/Doors/Sunroof/Panoramic Roof [ID: 100746] (Niveau 2) → ProductId: 1777\n            └── Toit ouvrant/composants (Niveau 4)\n                └── Sunroof/Parts [ID: 100778] (Niveau 3) → ProductId: 1777",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Habitacle",
+        "Passenger Cabin"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101690
+      ],
+      "finalCategoryId": 101690,
+      "productId": 1777
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Trappes/capots/portes/toit coul./toit panoram./toit pliant",
+        "Hatches/Bonnets/Doors/Sunroof/Panoramic Roof"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100746
+      ],
+      "finalCategoryId": 100746,
+      "productId": 1777
+    }
+  ],
+  "productIdsInArbo": [
+    1777
+  ],
+  "matchedProductIds": [
+    1777
+  ]
+}

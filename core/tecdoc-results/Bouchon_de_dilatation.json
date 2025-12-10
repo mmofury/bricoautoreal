@@ -1,0 +1,69 @@
+{
+  "productName": "Bouchon de dilatation",
+  "searchText": "Bouchon de dilatation",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:08:04.452Z",
+  "productId": 1603,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Carter de vilebrequin": {
+          "categoryId": null,
+          "categoryName": "Carter de vilebrequin",
+          "level": 2,
+          "children": {
+            "Bouchon de dilatation": {
+              "categoryId": 100514,
+              "categoryName": "Crankcase",
+              "level": 2,
+              "children": {
+                "Carter de vilebrequin": {
+                  "categoryId": null,
+                  "categoryName": "Carter de vilebrequin",
+                  "level": 4,
+                  "children": {
+                    "Bouchon de dilatation": {
+                      "categoryId": 100533,
+                      "categoryName": "Crankcase",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1603
+                    }
+                  }
+                }
+              },
+              "productId": 1603
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Carter de vilebrequin (Niveau 2)\n        └── Crankcase [ID: 100514] (Niveau 2) → ProductId: 1603\n            └── Carter de vilebrequin (Niveau 4)\n                └── Crankcase [ID: 100533] (Niveau 3) → ProductId: 1603",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Carter de vilebrequin",
+        "Crankcase"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100514
+      ],
+      "finalCategoryId": 100514,
+      "productId": 1603
+    }
+  ],
+  "productIdsInArbo": [
+    1603
+  ],
+  "matchedProductIds": [
+    1603
+  ]
+}

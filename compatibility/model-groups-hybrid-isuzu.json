@@ -1,0 +1,832 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.345Z",
+  "manufacturer": "ISUZU",
+  "countGroups": 35,
+  "groups": [
+    {
+      "manufacturerId": 54,
+      "manufacturerName": "ISUZU",
+      "groupKey": "117",
+      "displayName": "117",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37616,
+          "modelName": "117",
+          "modelYearFrom": "1967-09-01",
+          "modelYearTo": "1981-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 54,
+      "manufacturerName": "ISUZU",
+      "groupKey": "AMIGO",
+      "displayName": "AMIGO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32159,
+          "modelName": "AMIGO SUV",
+          "modelYearFrom": "1988-09-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 37612,
+          "modelName": "AMIGO SUV",
+          "modelYearFrom": "1997-09-01",
+          "modelYearTo": "2000-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 54,
+      "manufacturerName": "ISUZU",
+      "groupKey": "ASCENDER",
+      "displayName": "ASCENDER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5492,
+          "modelName": "ASCENDER",
+          "modelYearFrom": "2002-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 54,
+      "manufacturerName": "ISUZU",
+      "groupKey": "ASKA",
+      "displayName": "ASKA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5874,
+          "modelName": "ASKA I",
+          "modelYearFrom": "1983-04-01",
+          "modelYearTo": "1989-06-01"
+        },
+        {
+          "modelId": 5875,
+          "modelName": "ASKA II",
+          "modelYearFrom": "1989-07-01",
+          "modelYearTo": "1995-09-01"
+        },
+        {
+          "modelId": 5876,
+          "modelName": "ASKA III",
+          "modelYearFrom": "1994-10-01",
+          "modelYearTo": "2001-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 54,
+      "manufacturerName": "ISUZU",
+      "groupKey": "AXIOM",
+      "displayName": "AXIOM",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32161,
+          "modelName": "AXIOM SUV",
+          "modelYearFrom": "2001-09-01",
+          "modelYearTo": "2004-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 54,
+      "manufacturerName": "ISUZU",
+      "groupKey": "BELLET",
+      "displayName": "BELLET",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13269,
+          "modelName": "BELLET",
+          "modelYearFrom": "1974-03-01",
+          "modelYearTo": "1979-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 54,
+      "manufacturerName": "ISUZU",
+      "groupKey": "BISON",
+      "displayName": "BISON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13267,
+          "modelName": "BISON Autobus/Autocar",
+          "modelYearFrom": "2007-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13268,
+          "modelName": "BISON Camion plate-forme/Châssis",
+          "modelYearFrom": "2007-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 54,
+      "manufacturerName": "ISUZU",
+      "groupKey": "CAMPO",
+      "displayName": "CAMPO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1607,
+          "modelName": "CAMPO (KB)",
+          "modelYearFrom": "1977-04-01",
+          "modelYearTo": "1991-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 54,
+      "manufacturerName": "ISUZU",
+      "groupKey": "D",
+      "displayName": "D",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5490,
+          "modelName": "D-MAX I (TFR, TFS)",
+          "modelYearFrom": "2002-05-01",
+          "modelYearTo": "2012-12-01"
+        },
+        {
+          "modelId": 8848,
+          "modelName": "D-MAX I Camion plate-forme/Châssis (TFR, TFS)",
+          "modelYearFrom": "2006-10-01",
+          "modelYearTo": "2012-10-01"
+        },
+        {
+          "modelId": 10252,
+          "modelName": "D-MAX II (TFR, TFS)",
+          "modelYearFrom": "2012-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11172,
+          "modelName": "D-MAX II Camion plate-forme/Châssis (TFR, TFS)",
+          "modelYearFrom": "2012-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40683,
+          "modelName": "D-MAX III (TFR, TFS)",
+          "modelYearFrom": "2019-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41216,
+          "modelName": "D-MAX III Camion plate-forme/Châssis (TFR, TFS)",
+          "modelYearFrom": "2019-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 54,
+      "manufacturerName": "ISUZU",
+      "groupKey": "ELF",
+      "displayName": "ELF",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7485,
+          "modelName": "ELF Camion plate-forme/Châssis (NKR8_, NKQ8_)",
+          "modelYearFrom": "2003-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 7495,
+          "modelName": "ELF Fourgon (NKR8_)",
+          "modelYearFrom": "2003-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 54,
+      "manufacturerName": "ISUZU",
+      "groupKey": "FARGO",
+      "displayName": "FARGO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8667,
+          "modelName": "FARGO Autobus/Autocar",
+          "modelYearFrom": "1980-01-01",
+          "modelYearTo": "1998-12-01"
+        },
+        {
+          "modelId": 10745,
+          "modelName": "FARGO Fourgon",
+          "modelYearFrom": "1980-01-01",
+          "modelYearTo": "1999-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 54,
+      "manufacturerName": "ISUZU",
+      "groupKey": "FILLY",
+      "displayName": "FILLY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13270,
+          "modelName": "FILLY",
+          "modelYearFrom": "1997-03-01",
+          "modelYearTo": "2002-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 54,
+      "manufacturerName": "ISUZU",
+      "groupKey": "FLORIAN",
+      "displayName": "FLORIAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37614,
+          "modelName": "FLORIAN",
+          "modelYearFrom": "1966-09-01",
+          "modelYearTo": "1983-12-01"
+        },
+        {
+          "modelId": 37615,
+          "modelName": "FLORIAN Break",
+          "modelYearFrom": "1966-09-01",
+          "modelYearTo": "1983-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 54,
+      "manufacturerName": "ISUZU",
+      "groupKey": "FRONTIER",
+      "displayName": "FRONTIER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10534,
+          "modelName": "FRONTIER",
+          "modelYearFrom": "1997-08-01",
+          "modelYearTo": "2003-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 54,
+      "manufacturerName": "ISUZU",
+      "groupKey": "GEMINI",
+      "displayName": "GEMINI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1185,
+          "modelName": "GEMINI A trois volumes (JT)",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1990-06-01"
+        },
+        {
+          "modelId": 1186,
+          "modelName": "GEMINI (JT)",
+          "modelYearFrom": "1984-10-01",
+          "modelYearTo": "1990-12-01"
+        },
+        {
+          "modelId": 5419,
+          "modelName": "GEMINI A trois volumes",
+          "modelYearFrom": "1990-01-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 5420,
+          "modelName": "GEMINI",
+          "modelYearFrom": "1990-01-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 6016,
+          "modelName": "GEMINI A trois volumes",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1985-12-01"
+        },
+        {
+          "modelId": 12947,
+          "modelName": "GEMINI Coupé (JT)",
+          "modelYearFrom": "1990-01-01",
+          "modelYearTo": "1994-01-01"
+        },
+        {
+          "modelId": 38824,
+          "modelName": "GEMINI Coupé (PF_)",
+          "modelYearFrom": "1974-06-01",
+          "modelYearTo": "1984-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 54,
+      "manufacturerName": "ISUZU",
+      "groupKey": "HOMBRE",
+      "displayName": "HOMBRE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 35245,
+          "modelName": "HOMBRE Extended Cab Pickup",
+          "modelYearFrom": "1996-09-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 35989,
+          "modelName": "HOMBRE Standard Cab Pickup",
+          "modelYearFrom": "1995-09-01",
+          "modelYearTo": "2000-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 54,
+      "manufacturerName": "ISUZU",
+      "groupKey": "I",
+      "displayName": "I",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32164,
+          "modelName": "I Extended Cab Pickup",
+          "modelYearFrom": "2005-08-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 32165,
+          "modelName": "i-SERIES Crew Cab Pickup",
+          "modelYearFrom": "2005-09-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 32166,
+          "modelName": "I-MARK Coupé",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1984-12-01"
+        },
+        {
+          "modelId": 36513,
+          "modelName": "I-MARK A trois volumes",
+          "modelYearFrom": "1973-09-01",
+          "modelYearTo": "1987-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 54,
+      "manufacturerName": "ISUZU",
+      "groupKey": "IMPULSE",
+      "displayName": "IMPULSE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5421,
+          "modelName": "IMPULSE",
+          "modelYearFrom": "1990-01-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 32170,
+          "modelName": "IMPULSE",
+          "modelYearFrom": "1982-09-01",
+          "modelYearTo": "1990-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 54,
+      "manufacturerName": "ISUZU",
+      "groupKey": "KB",
+      "displayName": "KB",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10503,
+          "modelName": "KB",
+          "modelYearFrom": "2002-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10513,
+          "modelName": "KB",
+          "modelYearFrom": "1988-05-01",
+          "modelYearTo": "2004-08-01"
+        },
+        {
+          "modelId": 11294,
+          "modelName": "KB",
+          "modelYearFrom": "1980-01-01",
+          "modelYearTo": "1990-12-01"
+        },
+        {
+          "modelId": 11313,
+          "modelName": "KB Pick-up",
+          "modelYearFrom": "1972-01-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 44066,
+          "modelName": "KB VI (TFR, TFS)",
+          "modelYearFrom": "2013-01-01",
+          "modelYearTo": "2018-10-01"
+        },
+        {
+          "modelId": 90064,
+          "modelName": "KB Camion plate-forme/Châssis",
+          "modelYearFrom": "1972-01-01",
+          "modelYearTo": "1980-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 54,
+      "manufacturerName": "ISUZU",
+      "groupKey": "LUV",
+      "displayName": "LUV",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10737,
+          "modelName": "LUV",
+          "modelYearFrom": "1993-10-01",
+          "modelYearTo": "2005-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 54,
+      "manufacturerName": "ISUZU",
+      "groupKey": "MIDI",
+      "displayName": "MIDI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1188,
+          "modelName": "MIDI Fourgon (94000, 98000)",
+          "modelYearFrom": "1988-06-01",
+          "modelYearTo": "1996-07-01"
+        },
+        {
+          "modelId": 2057,
+          "modelName": "MIDI Fourgon (98000N)",
+          "modelYearFrom": "1988-06-01",
+          "modelYearTo": "1996-07-01"
+        },
+        {
+          "modelId": 3927,
+          "modelName": "MIDI Autobus/Autocar (94000, 98000)",
+          "modelYearFrom": "1988-06-01",
+          "modelYearTo": "1996-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 54,
+      "manufacturerName": "ISUZU",
+      "groupKey": "MU",
+      "displayName": "MU",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8858,
+          "modelName": "MU (_U_)",
+          "modelYearFrom": "1989-02-01",
+          "modelYearTo": "2002-08-01"
+        },
+        {
+          "modelId": 8863,
+          "modelName": "MU Camionnette/Véhicule tout terrain fermé (_U_)",
+          "modelYearFrom": "1989-05-01",
+          "modelYearTo": "1993-10-01"
+        },
+        {
+          "modelId": 11412,
+          "modelName": "MU-7 SUV",
+          "modelYearFrom": "2004-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11895,
+          "modelName": "MU-X SUV (UCS/UCR)",
+          "modelYearFrom": "2013-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41374,
+          "modelName": "MU-X SUV (TFS/TFR)",
+          "modelYearFrom": "2020-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 54,
+      "manufacturerName": "ISUZU",
+      "groupKey": "OASIS",
+      "displayName": "OASIS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32171,
+          "modelName": "OASIS Mini Passenger Van",
+          "modelYearFrom": "1995-09-01",
+          "modelYearTo": "1999-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 54,
+      "manufacturerName": "ISUZU",
+      "groupKey": "PANTHER",
+      "displayName": "PANTHER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13265,
+          "modelName": "PANTHER II (TBR_)",
+          "modelYearFrom": "2000-08-01",
+          "modelYearTo": "2020-12-01"
+        },
+        {
+          "modelId": 37019,
+          "modelName": "PANTHER I (TBR_)",
+          "modelYearFrom": "1990-09-01",
+          "modelYearTo": "2000-08-01"
+        },
+        {
+          "modelId": 40794,
+          "modelName": "PANTHER I Camion plate-forme/Châssis (TBR_)",
+          "modelYearFrom": "1990-09-01",
+          "modelYearTo": "2006-11-01"
+        },
+        {
+          "modelId": 40795,
+          "modelName": "PANTHER II Camion plate-forme/Châssis (TBR_)",
+          "modelYearFrom": "2006-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 54,
+      "manufacturerName": "ISUZU",
+      "groupKey": "PIAZZA",
+      "displayName": "PIAZZA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1844,
+          "modelName": "PIAZZA (JR_)",
+          "modelYearFrom": "1981-06-01",
+          "modelYearTo": "1990-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 54,
+      "manufacturerName": "ISUZU",
+      "groupKey": "PICKUP",
+      "displayName": "PICKUP",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6852,
+          "modelName": "PICKUP",
+          "modelYearFrom": "1979-08-01",
+          "modelYearTo": "1987-09-01"
+        },
+        {
+          "modelId": 6853,
+          "modelName": "PICKUP",
+          "modelYearFrom": "1987-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 9667,
+          "modelName": "PICKUP (TF)",
+          "modelYearFrom": "1996-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11745,
+          "modelName": "PICKUP Extended Cab Pickup",
+          "modelYearFrom": "1988-09-01",
+          "modelYearTo": "2002-12-01"
+        },
+        {
+          "modelId": 11746,
+          "modelName": "PICKUP Standard Cab Pickup",
+          "modelYearFrom": "1988-09-01",
+          "modelYearTo": "2002-12-01"
+        },
+        {
+          "modelId": 32172,
+          "modelName": "PICKUP Extended Cab Pickup",
+          "modelYearFrom": "1982-09-01",
+          "modelYearTo": "1994-12-01"
+        },
+        {
+          "modelId": 32173,
+          "modelName": "PICKUP Standard Cab Pickup",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1988-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 54,
+      "manufacturerName": "ISUZU",
+      "groupKey": "RODEO",
+      "displayName": "RODEO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10538,
+          "modelName": "RODEO Véhicule tout terrain fermé",
+          "modelYearFrom": "1997-09-01",
+          "modelYearTo": "2004-08-01"
+        },
+        {
+          "modelId": 14540,
+          "modelName": "RODEO SPORT",
+          "modelYearFrom": "2000-05-01",
+          "modelYearTo": "2003-12-01"
+        },
+        {
+          "modelId": 32174,
+          "modelName": "RODEO Véhicule tout terrain fermé",
+          "modelYearFrom": "1990-09-01",
+          "modelYearTo": "1997-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 54,
+      "manufacturerName": "ISUZU",
+      "groupKey": "TF",
+      "displayName": "TF",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11384,
+          "modelName": "TF Pick-up",
+          "modelYearFrom": "1997-10-01",
+          "modelYearTo": "2003-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 54,
+      "manufacturerName": "ISUZU",
+      "groupKey": "TFR/TFS",
+      "displayName": "TFR/TFS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7493,
+          "modelName": "TFR/TFS Pick-up (TF_)",
+          "modelYearFrom": "1988-09-01",
+          "modelYearTo": "2002-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 54,
+      "manufacturerName": "ISUZU",
+      "groupKey": "TRAGA",
+      "displayName": "TRAGA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39456,
+          "modelName": "TRAGA",
+          "modelYearFrom": "2018-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 54,
+      "manufacturerName": "ISUZU",
+      "groupKey": "TROOPER",
+      "displayName": "TROOPER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1184,
+          "modelName": "TROOPER I (UBS)",
+          "modelYearFrom": "1983-01-01",
+          "modelYearTo": "1991-12-01"
+        },
+        {
+          "modelId": 1187,
+          "modelName": "TROOPER I Véhicule tout terrain à carrosserie ouverte (UBS)",
+          "modelYearFrom": "1983-01-01",
+          "modelYearTo": "1991-12-01"
+        },
+        {
+          "modelId": 4643,
+          "modelName": "TROOPER III",
+          "modelYearFrom": "1998-05-01",
+          "modelYearTo": "2004-08-01"
+        },
+        {
+          "modelId": 5019,
+          "modelName": "TROOPER II (UB)",
+          "modelYearFrom": "1991-08-01",
+          "modelYearTo": "2000-04-01"
+        },
+        {
+          "modelId": 5021,
+          "modelName": "TROOPER II Véhicule tout terrain à carrosserie ouverte (UB)",
+          "modelYearFrom": "1991-08-01",
+          "modelYearTo": "1998-07-01"
+        },
+        {
+          "modelId": 5023,
+          "modelName": "TROOPER III Véhicule tout terrain à carrosserie ouverte",
+          "modelYearFrom": "2000-04-01",
+          "modelYearTo": "2004-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 54,
+      "manufacturerName": "ISUZU",
+      "groupKey": "VEGA",
+      "displayName": "VEGA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6382,
+          "modelName": "VEGA",
+          "modelYearFrom": "1998-08-01",
+          "modelYearTo": "2004-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 54,
+      "manufacturerName": "ISUZU",
+      "groupKey": "VEHICROSS",
+      "displayName": "VEHICROSS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8857,
+          "modelName": "VEHICROSS (_U_)",
+          "modelYearFrom": "1997-04-01",
+          "modelYearTo": "2001-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 54,
+      "manufacturerName": "ISUZU",
+      "groupKey": "VERTEX",
+      "displayName": "VERTEX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37075,
+          "modelName": "VERTEX",
+          "modelYearFrom": "1996-07-01",
+          "modelYearTo": "2001-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 54,
+      "manufacturerName": "ISUZU",
+      "groupKey": "WIZARD",
+      "displayName": "WIZARD",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8850,
+          "modelName": "WIZARD (_U_)",
+          "modelYearFrom": "1993-01-01",
+          "modelYearTo": "2004-12-01"
+        }
+      ]
+    }
+  ]
+}

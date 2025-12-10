@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.447Z",
+  "manufacturer": "PGO",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 4659,
+      "manufacturerName": "PGO",
+      "groupKey": "CEVENNES",
+      "displayName": "CEVENNES",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37734,
+          "modelName": "CEVENNES",
+          "modelYearFrom": "2006-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4659,
+      "manufacturerName": "PGO",
+      "groupKey": "HEMERA",
+      "displayName": "HEMERA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37735,
+          "modelName": "HEMERA",
+          "modelYearFrom": "2008-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4659,
+      "manufacturerName": "PGO",
+      "groupKey": "SPEEDSTER",
+      "displayName": "SPEEDSTER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37733,
+          "modelName": "SPEEDSTER",
+          "modelYearFrom": "2010-01-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

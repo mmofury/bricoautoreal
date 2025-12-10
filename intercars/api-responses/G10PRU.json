@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G10PRU",
+      "index": "FE175385",
+      "tecDoc": "175385",
+      "tecDocProd": "101",
+      "articleNumber": "175385",
+      "brand": "FEBI",
+      "shortDescription": "Gasket Set, cylinder liner",
+      "description": "Complete engine gasket set - crankcase fits: SCANIA P,G,R,T DC09.108-DC9.38 01.03-",
+      "customsCode": "84849000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_60971",
+          "primary": false,
+          "name": {
+            "en": "Sealing Set, air compressor"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_151",
+          "primary": true,
+          "name": {
+            "en": "Gasket Set, cylinder liner"
+          }
+        }
+      ]
+    }
+  ]
+}

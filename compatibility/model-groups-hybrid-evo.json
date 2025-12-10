@@ -1,0 +1,61 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.260Z",
+  "manufacturer": "EVO",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 6862,
+      "manufacturerName": "EVO",
+      "groupKey": "CROSS",
+      "displayName": "CROSS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44387,
+          "modelName": "CROSS 4 Pick-up",
+          "modelYearFrom": "2022-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6862,
+      "manufacturerName": "EVO",
+      "groupKey": "EVO",
+      "displayName": "EVO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44384,
+          "modelName": "EVO 3",
+          "modelYearFrom": "2021-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44385,
+          "modelName": "EVO 4",
+          "modelYearFrom": "2022-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44386,
+          "modelName": "EVO 5",
+          "modelYearFrom": "2023-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44851,
+          "modelName": "EVO 7",
+          "modelYearFrom": "2023-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 46078,
+          "modelName": "EVO 6",
+          "modelYearFrom": "2024-10-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

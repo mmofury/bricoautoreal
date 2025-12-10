@@ -1,0 +1,69 @@
+{
+  "productName": "Crochet de sécurité serrure de capot moteur",
+  "searchText": "Crochet de sécurité serrure de capot moteur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:27:47.790Z",
+  "productId": 8109,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Avant du véhicule": {
+          "categoryId": null,
+          "categoryName": "Avant du véhicule",
+          "level": 2,
+          "children": {
+            "Crochet de sécurité serrure de capot moteur": {
+              "categoryId": 101648,
+              "categoryName": "Vehicle Front",
+              "level": 2,
+              "children": {
+                "Capot avant / composants / insonorisation": {
+                  "categoryId": null,
+                  "categoryName": "Capot avant / composants / insonorisation",
+                  "level": 4,
+                  "children": {
+                    "Crochet de sécurité serrure de capot moteur": {
+                      "categoryId": 101654,
+                      "categoryName": "Bonnet/Parts/Noise Insulation",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8109
+                    }
+                  }
+                }
+              },
+              "productId": 8109
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    └── Avant du véhicule (Niveau 2)\n        └── Vehicle Front [ID: 101648] (Niveau 2) → ProductId: 8109\n            └── Capot avant / composants / insonorisation (Niveau 4)\n                └── Bonnet/Parts/Noise Insulation [ID: 101654] (Niveau 3) → ProductId: 8109",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Avant du véhicule",
+        "Vehicle Front"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101648
+      ],
+      "finalCategoryId": 101648,
+      "productId": 8109
+    }
+  ],
+  "productIdsInArbo": [
+    8109
+  ],
+  "matchedProductIds": [
+    8109
+  ]
+}

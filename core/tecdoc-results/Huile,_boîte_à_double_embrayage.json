@@ -1,0 +1,98 @@
+{
+  "productName": "Huile, boîte à double embrayage",
+  "searchText": "Huile, boîte à double embrayage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:45:05.951Z",
+  "productId": 8561,
+  "arborescence": {
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Huiles": {
+          "categoryId": null,
+          "categoryName": "Huiles",
+          "level": 2,
+          "children": {
+            "Huile, boîte à double embrayage": {
+              "categoryId": 706233,
+              "categoryName": "Oil",
+              "level": 2,
+              "children": [],
+              "productId": 8561
+            }
+          }
+        },
+        "Transmission à double embrayage": {
+          "categoryId": null,
+          "categoryName": "Transmission à double embrayage",
+          "level": 2,
+          "children": {
+            "Filtre à huile, boîte à double embrayage": {
+              "categoryId": 706835,
+              "categoryName": "Dual-Clutch Transmission",
+              "level": 2,
+              "children": {
+                "Filtre à huile": {
+                  "categoryId": null,
+                  "categoryName": "Filtre à huile",
+                  "level": 4,
+                  "children": {
+                    "Filtre à huile, boîte à double embrayage": {
+                      "categoryId": 706847,
+                      "categoryName": "Oil Filter",
+                      "level": 3,
+                      "children": [],
+                      "productId": 61282
+                    }
+                  }
+                }
+              },
+              "productId": 61282
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Boîte de vitesses [ID: 100238] (Niveau 1)\n    ├── Huiles (Niveau 2)\n    │   └── Oil [ID: 706233] (Niveau 2) → ProductId: 8561\n    └── Transmission à double embrayage (Niveau 2)\n        └── Dual-Clutch Transmission [ID: 706835] (Niveau 2) → ProductId: 61282\n            └── Filtre à huile (Niveau 4)\n                └── Oil Filter [ID: 706847] (Niveau 3) → ProductId: 61282",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Huiles",
+        "Oil"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        706233
+      ],
+      "finalCategoryId": 706233,
+      "productId": 8561
+    },
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Transmission à double embrayage",
+        "Dual-Clutch Transmission"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        706835
+      ],
+      "finalCategoryId": 706835,
+      "productId": 61282
+    }
+  ],
+  "productIdsInArbo": [
+    8561,
+    61282
+  ],
+  "matchedProductIds": [
+    8561
+  ]
+}

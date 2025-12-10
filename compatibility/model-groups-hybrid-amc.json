@@ -1,0 +1,328 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.154Z",
+  "manufacturer": "AMC",
+  "countGroups": 15,
+  "groups": [
+    {
+      "manufacturerId": 2246,
+      "manufacturerName": "AMC",
+      "groupKey": "AMBASSADOR",
+      "displayName": "AMBASSADOR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30048,
+          "modelName": "AMBASSADOR A trois volumes",
+          "modelYearFrom": "1959-09-01",
+          "modelYearTo": "1974-12-01"
+        },
+        {
+          "modelId": 37693,
+          "modelName": "AMBASSADOR Coupé",
+          "modelYearFrom": "1966-09-01",
+          "modelYearTo": "1974-12-01"
+        },
+        {
+          "modelId": 37694,
+          "modelName": "AMBASSADOR Break",
+          "modelYearFrom": "1966-09-01",
+          "modelYearTo": "1974-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2246,
+      "manufacturerName": "AMC",
+      "groupKey": "AMERICAN",
+      "displayName": "AMERICAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30049,
+          "modelName": "AMERICAN A trois volumes",
+          "modelYearFrom": "1958-09-01",
+          "modelYearTo": "1968-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2246,
+      "manufacturerName": "AMC",
+      "groupKey": "AMX",
+      "displayName": "AMX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30050,
+          "modelName": "AMX Coupé",
+          "modelYearFrom": "1967-09-01",
+          "modelYearTo": "1974-12-01"
+        },
+        {
+          "modelId": 30051,
+          "modelName": "AMX Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1980-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2246,
+      "manufacturerName": "AMC",
+      "groupKey": "CLASSIC",
+      "displayName": "CLASSIC",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30052,
+          "modelName": "CLASSIC A trois volumes",
+          "modelYearFrom": "1960-09-01",
+          "modelYearTo": "1966-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2246,
+      "manufacturerName": "AMC",
+      "groupKey": "CONCORD",
+      "displayName": "CONCORD",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30053,
+          "modelName": "CONCORD A trois volumes",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1983-12-01"
+        },
+        {
+          "modelId": 30054,
+          "modelName": "CONCORD Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1979-12-01"
+        },
+        {
+          "modelId": 30056,
+          "modelName": "CONCORD Break",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1983-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2246,
+      "manufacturerName": "AMC",
+      "groupKey": "EAGLE",
+      "displayName": "EAGLE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30059,
+          "modelName": "EAGLE Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1983-12-01"
+        },
+        {
+          "modelId": 30060,
+          "modelName": "EAGLE A trois volumes",
+          "modelYearFrom": "1979-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 30061,
+          "modelName": "EAGLE Break",
+          "modelYearFrom": "1979-09-01",
+          "modelYearTo": "1988-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2246,
+      "manufacturerName": "AMC",
+      "groupKey": "GREMLIN",
+      "displayName": "GREMLIN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30062,
+          "modelName": "GREMLIN Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1969-09-01",
+          "modelYearTo": "1978-12-01"
+        },
+        {
+          "modelId": 30063,
+          "modelName": "GREMLIN A trois volumes",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1978-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2246,
+      "manufacturerName": "AMC",
+      "groupKey": "HORNET",
+      "displayName": "HORNET",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30065,
+          "modelName": "HORNET Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1969-09-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 30066,
+          "modelName": "HORNET A trois volumes",
+          "modelYearFrom": "1969-09-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 30067,
+          "modelName": "HORNET Break",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1977-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2246,
+      "manufacturerName": "AMC",
+      "groupKey": "JAVELIN",
+      "displayName": "JAVELIN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30068,
+          "modelName": "JAVELIN Coupé",
+          "modelYearFrom": "1967-09-01",
+          "modelYearTo": "1974-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2246,
+      "manufacturerName": "AMC",
+      "groupKey": "MARLIN",
+      "displayName": "MARLIN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30069,
+          "modelName": "MARLIN A trois volumes",
+          "modelYearFrom": "1964-09-01",
+          "modelYearTo": "1967-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2246,
+      "manufacturerName": "AMC",
+      "groupKey": "MATADOR",
+      "displayName": "MATADOR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30070,
+          "modelName": "MATADOR A trois volumes",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1978-12-01"
+        },
+        {
+          "modelId": 30071,
+          "modelName": "MATADOR Coupé",
+          "modelYearFrom": "1973-09-01",
+          "modelYearTo": "1978-12-01"
+        },
+        {
+          "modelId": 30073,
+          "modelName": "MATADOR Break",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1978-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2246,
+      "manufacturerName": "AMC",
+      "groupKey": "PACER",
+      "displayName": "PACER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30074,
+          "modelName": "PACER Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 30075,
+          "modelName": "PACER Break",
+          "modelYearFrom": "1976-09-01",
+          "modelYearTo": "1980-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2246,
+      "manufacturerName": "AMC",
+      "groupKey": "RAMBLER",
+      "displayName": "RAMBLER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13416,
+          "modelName": "RAMBLER AMERICAN",
+          "modelYearFrom": "1957-05-01",
+          "modelYearTo": "1969-05-01"
+        },
+        {
+          "modelId": 30076,
+          "modelName": "RAMBLER A trois volumes",
+          "modelYearFrom": "1958-09-01",
+          "modelYearTo": "1969-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2246,
+      "manufacturerName": "AMC",
+      "groupKey": "REBEL",
+      "displayName": "REBEL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30077,
+          "modelName": "REBEL A trois volumes",
+          "modelYearFrom": "1958-09-01",
+          "modelYearTo": "1970-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2246,
+      "manufacturerName": "AMC",
+      "groupKey": "SPIRIT",
+      "displayName": "SPIRIT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30079,
+          "modelName": "SPIRIT Coupé",
+          "modelYearFrom": "1981-09-01",
+          "modelYearTo": "1982-12-01"
+        },
+        {
+          "modelId": 30080,
+          "modelName": "SPIRIT Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1978-09-01",
+          "modelYearTo": "1983-12-01"
+        },
+        {
+          "modelId": 30081,
+          "modelName": "SPIRIT A trois volumes",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1983-12-01"
+        }
+      ]
+    }
+  ]
+}

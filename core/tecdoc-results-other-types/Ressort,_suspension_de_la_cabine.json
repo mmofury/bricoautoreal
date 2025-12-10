@@ -1,0 +1,85 @@
+{
+  "productName": "Ressort, suspension de la cabine",
+  "productId": 526,
+  "searchText": "Ressort, suspension de la cabine",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Cabine du conducteur/carrosserie": {
+          "categoryId": 200022,
+          "categoryName": "Cabine du conducteur/carrosserie",
+          "level": 1,
+          "children": {
+            "Suspension / Amortissement de la cabine": {
+              "categoryId": null,
+              "categoryName": "Suspension / Amortissement de la cabine",
+              "level": 2,
+              "children": {
+                "Ressort, suspension de la cabine": {
+                  "categoryId": 200826,
+                  "categoryName": "Driver Cab Suspension",
+                  "level": 2,
+                  "children": [],
+                  "productId": 526
+                }
+              }
+            }
+          }
+        },
+        "Suspension/Amortissement": {
+          "categoryId": 200060,
+          "categoryName": "Suspension/Amortissement",
+          "level": 1,
+          "children": {
+            "Suspension / Amortissement de la cabine": {
+              "categoryId": null,
+              "categoryName": "Suspension / Amortissement de la cabine",
+              "level": 2,
+              "children": {
+                "Ressort, suspension de la cabine": {
+                  "categoryId": 200844,
+                  "categoryName": "Driver Cab Suspension",
+                  "level": 2,
+                  "children": {
+                    "Ressort, cabine": {
+                      "categoryId": null,
+                      "categoryName": "Ressort, cabine",
+                      "level": 4,
+                      "children": {
+                        "Ressort, suspension de la cabine": {
+                          "categoryId": 200845,
+                          "categoryName": "Spring, driver cab",
+                          "level": 3,
+                          "children": [],
+                          "productId": 526
+                        }
+                      }
+                    }
+                  },
+                  "productId": 526
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "├── Cabine du conducteur/carrosserie [ID: 200022] (Niveau 1)\n│   └── Suspension / Amortissement de la cabine (Niveau 2)\n│       └── Driver Cab Suspension [ID: 200826] (Niveau 2) → ProductId: 526\n\n└── Suspension/Amortissement [ID: 200060] (Niveau 1)\n    └── Suspension / Amortissement de la cabine (Niveau 2)\n        └── Driver Cab Suspension [ID: 200844] (Niveau 2) → ProductId: 526\n            └── Ressort, cabine (Niveau 4)\n                └── Spring, driver cab [ID: 200845] (Niveau 3) → ProductId: 526",
+      "productIdsInArbo": [
+        526
+      ],
+      "matchedProductIds": [
+        526
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:24:39.522Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "productName": "Circlip, arbre de frein",
+  "productId": 3650,
+  "searchText": "Circlip, arbre de frein",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Dispositif de freinage": {
+          "categoryId": 200058,
+          "categoryName": "Dispositif de freinage",
+          "level": 1,
+          "children": {
+            "Frein à tambour": {
+              "categoryId": null,
+              "categoryName": "Frein à tambour",
+              "level": 2,
+              "children": {
+                "Circlip, arbre de frein": {
+                  "categoryId": 200098,
+                  "categoryName": "Drum Brake",
+                  "level": 2,
+                  "children": {
+                    "Accessoires, frein à tambour": {
+                      "categoryId": null,
+                      "categoryName": "Accessoires, frein à tambour",
+                      "level": 4,
+                      "children": {
+                        "Circlip, arbre de frein": {
+                          "categoryId": 200360,
+                          "categoryName": "Equipment, drum brake",
+                          "level": 3,
+                          "children": [],
+                          "productId": 3650
+                        }
+                      }
+                    }
+                  },
+                  "productId": 3650
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Dispositif de freinage [ID: 200058] (Niveau 1)\n    └── Frein à tambour (Niveau 2)\n        └── Drum Brake [ID: 200098] (Niveau 2) → ProductId: 3650\n            └── Accessoires, frein à tambour (Niveau 4)\n                └── Equipment, drum brake [ID: 200360] (Niveau 3) → ProductId: 3650",
+      "productIdsInArbo": [
+        3650
+      ],
+      "matchedProductIds": [
+        3650
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:04:52.285Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

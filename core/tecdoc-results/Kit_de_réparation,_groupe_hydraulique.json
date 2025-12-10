@@ -1,0 +1,54 @@
+{
+  "productName": "Kit de réparation, groupe hydraulique",
+  "searchText": "Kit de réparation, groupe hydraulique",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:05:06.419Z",
+  "productId": 2282,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Réglage du comportement dynamique": {
+          "categoryId": null,
+          "categoryName": "Réglage du comportement dynamique",
+          "level": 2,
+          "children": {
+            "Kit de réparation, groupe hydraulique": {
+              "categoryId": 100038,
+              "categoryName": "Drive Dynamics Control",
+              "level": 2,
+              "children": [],
+              "productId": 2282
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif de freinage [ID: 100006] (Niveau 1)\n    └── Réglage du comportement dynamique (Niveau 2)\n        └── Drive Dynamics Control [ID: 100038] (Niveau 2) → ProductId: 2282",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Réglage du comportement dynamique",
+        "Drive Dynamics Control"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100038
+      ],
+      "finalCategoryId": 100038,
+      "productId": 2282
+    }
+  ],
+  "productIdsInArbo": [
+    2282
+  ],
+  "matchedProductIds": [
+    2282
+  ]
+}

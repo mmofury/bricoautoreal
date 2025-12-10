@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "B5346C",
+      "index": "8XT002 121-001",
+      "tecDoc": "8XT 002 121-001",
+      "tecDocProd": "2",
+      "articleNumber": "8XT 002 121-001",
+      "brand": "HELLA",
+      "shortDescription": "Other diagnostic devices",
+      "description": "Spare part",
+      "customsCode": "90318080",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1490",
+          "primary": false,
+          "name": {
+            "en": "Tripod"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91584",
+          "primary": true,
+          "name": {
+            "en": "Other diagnostic devices"
+          }
+        }
+      ]
+    }
+  ]
+}

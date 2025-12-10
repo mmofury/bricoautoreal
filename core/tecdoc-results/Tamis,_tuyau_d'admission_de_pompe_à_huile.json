@@ -1,0 +1,104 @@
+{
+  "productName": "Tamis, tuyau d'admission de pompe à huile",
+  "searchText": "Tamis, tuyau d'admission de pompe à huile",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:24:44.033Z",
+  "productId": 595,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Lubrification": {
+          "categoryId": null,
+          "categoryName": "Lubrification",
+          "level": 2,
+          "children": {
+            "Tamis, tuyau d'admission de pompe à huile": {
+              "categoryId": 100245,
+              "categoryName": "Lubrication",
+              "level": 2,
+              "children": {
+                "Tamis d'huile / joint": {
+                  "categoryId": null,
+                  "categoryName": "Tamis d'huile / joint",
+                  "level": 4,
+                  "children": {
+                    "Tamis, tuyau d'admission de pompe à huile": {
+                      "categoryId": 100477,
+                      "categoryName": "Oil Strainer/Gasket",
+                      "level": 3,
+                      "children": [],
+                      "productId": 595
+                    }
+                  }
+                }
+              },
+              "productId": 595
+            }
+          }
+        }
+      }
+    },
+    "Pièces de maintenance": {
+      "categoryId": 100019,
+      "categoryName": "Pièces de maintenance",
+      "level": 1,
+      "children": {
+        "Intervalle": {
+          "categoryId": null,
+          "categoryName": "Intervalle",
+          "level": 2,
+          "children": {
+            "Tamis, tuyau d'admission de pompe à huile": {
+              "categoryId": 100597,
+              "categoryName": "Service Intervals",
+              "level": 2,
+              "children": [],
+              "productId": 595
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Moteur [ID: 100002] (Niveau 1)\n│   └── Lubrification (Niveau 2)\n│       └── Lubrication [ID: 100245] (Niveau 2) → ProductId: 595\n│           └── Tamis d'huile / joint (Niveau 4)\n│               └── Oil Strainer/Gasket [ID: 100477] (Niveau 3) → ProductId: 595\n\n└── Pièces de maintenance [ID: 100019] (Niveau 1)\n    └── Intervalle (Niveau 2)\n        └── Service Intervals [ID: 100597] (Niveau 2) → ProductId: 595",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Lubrification",
+        "Lubrication"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100245
+      ],
+      "finalCategoryId": 100245,
+      "productId": 595
+    },
+    {
+      "path": [
+        "Pièces de maintenance",
+        "Intervalle",
+        "Service Intervals"
+      ],
+      "categoryIds": [
+        100019,
+        null,
+        100597
+      ],
+      "finalCategoryId": 100597,
+      "productId": 595
+    }
+  ],
+  "productIdsInArbo": [
+    595
+  ],
+  "matchedProductIds": [
+    595
+  ]
+}

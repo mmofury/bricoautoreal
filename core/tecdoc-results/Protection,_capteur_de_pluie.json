@@ -1,0 +1,54 @@
+{
+  "productName": "Protection, capteur de pluie",
+  "searchText": "Protection, capteur de pluie",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:05:07.837Z",
+  "productId": 2279,
+  "arborescence": {
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Capteur de pluie": {
+          "categoryId": null,
+          "categoryName": "Capteur de pluie",
+          "level": 2,
+          "children": {
+            "Protection, capteur de pluie": {
+              "categoryId": 100850,
+              "categoryName": "Rain Sensor",
+              "level": 2,
+              "children": [],
+              "productId": 2279
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Systèmes de confort [ID: 100335] (Niveau 1)\n    └── Capteur de pluie (Niveau 2)\n        └── Rain Sensor [ID: 100850] (Niveau 2) → ProductId: 2279",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Systèmes de confort",
+        "Capteur de pluie",
+        "Rain Sensor"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        100850
+      ],
+      "finalCategoryId": 100850,
+      "productId": 2279
+    }
+  ],
+  "productIdsInArbo": [
+    2279
+  ],
+  "matchedProductIds": [
+    2279
+  ]
+}

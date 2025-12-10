@@ -1,0 +1,64 @@
+{
+  "productName": "Garniture, cylindre de commande",
+  "productId": 60014,
+  "searchText": "Garniture, cylindre de commande",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Boîte de vitesses": {
+          "categoryId": 200054,
+          "categoryName": "Boîte de vitesses",
+          "level": 1,
+          "children": {
+            "Boîte de vitesse manuelle / pièces de montage": {
+              "categoryId": null,
+              "categoryName": "Boîte de vitesse manuelle / pièces de montage",
+              "level": 2,
+              "children": {
+                "Garniture, cylindre de commande": {
+                  "categoryId": 200095,
+                  "categoryName": "Manual Transmission/ Parts",
+                  "level": 2,
+                  "children": {
+                    "Cylindre de commande": {
+                      "categoryId": null,
+                      "categoryName": "Cylindre de commande",
+                      "level": 4,
+                      "children": {
+                        "Garniture, cylindre de commande": {
+                          "categoryId": 706679,
+                          "categoryName": "Shift Cylinder",
+                          "level": 3,
+                          "children": [],
+                          "productId": 60014
+                        }
+                      }
+                    }
+                  },
+                  "productId": 60014
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Boîte de vitesses [ID: 200054] (Niveau 1)\n    └── Boîte de vitesse manuelle / pièces de montage (Niveau 2)\n        └── Manual Transmission/ Parts [ID: 200095] (Niveau 2) → ProductId: 60014\n            └── Cylindre de commande (Niveau 4)\n                └── Shift Cylinder [ID: 706679] (Niveau 3) → ProductId: 60014",
+      "productIdsInArbo": [
+        60014
+      ],
+      "matchedProductIds": [
+        60014
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:32:30.792Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

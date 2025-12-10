@@ -1,0 +1,97 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.556Z",
+  "manufacturer": "ZEEKR",
+  "countGroups": 6,
+  "groups": [
+    {
+      "manufacturerId": 6168,
+      "manufacturerName": "ZEEKR",
+      "groupKey": "001",
+      "displayName": "001",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41895,
+          "modelName": "001",
+          "modelYearFrom": "2021-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6168,
+      "manufacturerName": "ZEEKR",
+      "groupKey": "007",
+      "displayName": "007",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45051,
+          "modelName": "007",
+          "modelYearFrom": "2023-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6168,
+      "manufacturerName": "ZEEKR",
+      "groupKey": "009",
+      "displayName": "009",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43740,
+          "modelName": "009",
+          "modelYearFrom": "2022-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6168,
+      "manufacturerName": "ZEEKR",
+      "groupKey": "7X",
+      "displayName": "7X",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45895,
+          "modelName": "7X",
+          "modelYearFrom": "2024-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6168,
+      "manufacturerName": "ZEEKR",
+      "groupKey": "MIX",
+      "displayName": "MIX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45993,
+          "modelName": "MIX",
+          "modelYearFrom": "2024-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6168,
+      "manufacturerName": "ZEEKR",
+      "groupKey": "X",
+      "displayName": "X",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44231,
+          "modelName": "X",
+          "modelYearFrom": "2023-04-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

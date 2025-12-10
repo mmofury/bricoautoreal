@@ -1,0 +1,67 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.290Z",
+  "manufacturer": "GIOTTI VICTORIA",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 5209,
+      "manufacturerName": "GIOTTI VICTORIA",
+      "groupKey": "GLADIATOR",
+      "displayName": "GLADIATOR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39425,
+          "modelName": "GLADIATOR Autobus/Autocar",
+          "modelYearFrom": "2010-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39426,
+          "modelName": "GLADIATOR Fourgon",
+          "modelYearFrom": "2010-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39427,
+          "modelName": "GLADIATOR Camion plate-forme/Châssis",
+          "modelYearFrom": "2010-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44862,
+          "modelName": "GLADIATOR EVO Camion plate-forme/Châssis",
+          "modelYearFrom": "2020-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44873,
+          "modelName": "GLADIATOR TOP Camion plate-forme/Châssis",
+          "modelYearFrom": "2020-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44874,
+          "modelName": "GLADIATOR TOP Fourgon",
+          "modelYearFrom": "2022-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5209,
+      "manufacturerName": "GIOTTI VICTORIA",
+      "groupKey": "GYPPO",
+      "displayName": "GYPPO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43744,
+          "modelName": "GYPPO (GYP)",
+          "modelYearFrom": "2014-01-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

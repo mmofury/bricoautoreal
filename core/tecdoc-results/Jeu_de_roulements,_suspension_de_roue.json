@@ -1,0 +1,54 @@
+{
+  "productName": "Jeu de roulements, suspension de roue",
+  "searchText": "Jeu de roulements, suspension de roue",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:51:15.011Z",
+  "productId": 60706,
+  "arborescence": {
+    "Suspension d'essieu/Guidage des roues/Roues": {
+      "categoryId": 100013,
+      "categoryName": "Suspension d'essieu/Guidage des roues/Roues",
+      "level": 1,
+      "children": {
+        "Jeu de roulements, suspension de roue": {
+          "categoryId": null,
+          "categoryName": "Jeu de roulements, suspension de roue",
+          "level": 2,
+          "children": {
+            "Jeu de roulements, suspension de roue": {
+              "categoryId": 706782,
+              "categoryName": "Mounting kit, wheel suspension",
+              "level": 2,
+              "children": [],
+              "productId": 60706
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Suspension d'essieu/Guidage des roues/Roues [ID: 100013] (Niveau 1)\n    └── Jeu de roulements, suspension de roue (Niveau 2)\n        └── Mounting kit, wheel suspension [ID: 706782] (Niveau 2) → ProductId: 60706",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Jeu de roulements, suspension de roue",
+        "Mounting kit, wheel suspension"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        706782
+      ],
+      "finalCategoryId": 706782,
+      "productId": 60706
+    }
+  ],
+  "productIdsInArbo": [
+    60706
+  ],
+  "matchedProductIds": [
+    60706
+  ]
+}

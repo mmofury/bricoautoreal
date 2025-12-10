@@ -1,0 +1,67 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.172Z",
+  "manufacturer": "AVANTI",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 2707,
+      "manufacturerName": "AVANTI",
+      "groupKey": "AVANTI",
+      "displayName": "AVANTI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 34298,
+          "modelName": "AVANTI Décapotable",
+          "modelYearFrom": "2004-09-01",
+          "modelYearTo": "2006-12-01"
+        },
+        {
+          "modelId": 34299,
+          "modelName": "AVANTI Coupé",
+          "modelYearFrom": "2004-09-01",
+          "modelYearTo": "2007-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2707,
+      "manufacturerName": "AVANTI",
+      "groupKey": "II",
+      "displayName": "II",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30262,
+          "modelName": "II A trois volumes",
+          "modelYearFrom": "1967-09-01",
+          "modelYearTo": "1974-12-01"
+        },
+        {
+          "modelId": 30263,
+          "modelName": "II Décapotable",
+          "modelYearFrom": "1986-09-01",
+          "modelYearTo": "2003-12-01"
+        },
+        {
+          "modelId": 30264,
+          "modelName": "II Coupé",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1989-12-01"
+        },
+        {
+          "modelId": 30265,
+          "modelName": "II A trois volumes",
+          "modelYearFrom": "1989-09-01",
+          "modelYearTo": "1990-12-01"
+        },
+        {
+          "modelId": 35468,
+          "modelName": "II Coupé",
+          "modelYearFrom": "1986-09-01",
+          "modelYearTo": "2004-12-01"
+        }
+      ]
+    }
+  ]
+}

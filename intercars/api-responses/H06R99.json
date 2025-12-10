@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H06R99",
+      "index": "CRTX 13 000P",
+      "tecDoc": "CRTX 13 000P",
+      "tecDocProd": "287",
+      "articleNumber": "CRTX 13 000P",
+      "brand": "MAHLE",
+      "shortDescription": "Level Control Switch, coolant level indicator",
+      "description": "Coolant level sensor fits: MERCEDES ACTROS MP4 / MP5, AROCS 471.943-OM936.916 07.11-",
+      "customsCode": "90261029",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1288",
+          "primary": false,
+          "name": {
+            "en": "Sensor, coolant level"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1412",
+          "primary": true,
+          "name": {
+            "en": "Level Control Switch, coolant level indicator"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "productName": "Entretoise, suspension des amortisseurs (cabine)",
+  "productId": 3628,
+  "searchText": "Entretoise, suspension des amortisseurs (cabine)",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Cabine du conducteur/carrosserie": {
+          "categoryId": 200022,
+          "categoryName": "Cabine du conducteur/carrosserie",
+          "level": 1,
+          "children": {
+            "Suspension / Amortissement de la cabine": {
+              "categoryId": null,
+              "categoryName": "Suspension / Amortissement de la cabine",
+              "level": 2,
+              "children": {
+                "Entretoise, suspension des amortisseurs (cabine)": {
+                  "categoryId": 200826,
+                  "categoryName": "Driver Cab Suspension",
+                  "level": 2,
+                  "children": [],
+                  "productId": 3628
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Cabine du conducteur/carrosserie [ID: 200022] (Niveau 1)\n    └── Suspension / Amortissement de la cabine (Niveau 2)\n        └── Driver Cab Suspension [ID: 200826] (Niveau 2) → ProductId: 3628",
+      "productIdsInArbo": [
+        3628
+      ],
+      "matchedProductIds": [
+        3628
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:26:27.637Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

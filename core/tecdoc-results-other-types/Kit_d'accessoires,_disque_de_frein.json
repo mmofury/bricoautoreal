@@ -1,0 +1,64 @@
+{
+  "productName": "Kit d'accessoires, disque de frein",
+  "productId": 4373,
+  "searchText": "Kit d'accessoires, disque de frein",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Dispositif de freinage": {
+          "categoryId": 200058,
+          "categoryName": "Dispositif de freinage",
+          "level": 1,
+          "children": {
+            "Frein à disque": {
+              "categoryId": null,
+              "categoryName": "Frein à disque",
+              "level": 2,
+              "children": {
+                "Kit d'accessoires, disque de frein": {
+                  "categoryId": 200097,
+                  "categoryName": "Disc Brake",
+                  "level": 2,
+                  "children": {
+                    "Accessoires, frein à disque": {
+                      "categoryId": null,
+                      "categoryName": "Accessoires, frein à disque",
+                      "level": 4,
+                      "children": {
+                        "Kit d'accessoires, disque de frein": {
+                          "categoryId": 200347,
+                          "categoryName": "Accessories, disc brake",
+                          "level": 3,
+                          "children": [],
+                          "productId": 4373
+                        }
+                      }
+                    }
+                  },
+                  "productId": 4373
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Dispositif de freinage [ID: 200058] (Niveau 1)\n    └── Frein à disque (Niveau 2)\n        └── Disc Brake [ID: 200097] (Niveau 2) → ProductId: 4373\n            └── Accessoires, frein à disque (Niveau 4)\n                └── Accessories, disc brake [ID: 200347] (Niveau 3) → ProductId: 4373",
+      "productIdsInArbo": [
+        4373
+      ],
+      "matchedProductIds": [
+        4373
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:40:28.997Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

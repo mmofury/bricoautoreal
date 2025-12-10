@@ -1,0 +1,73 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.346Z",
+  "manufacturer": "ISUZU (JIANGXI)",
+  "countGroups": 4,
+  "groups": [
+    {
+      "manufacturerId": 4393,
+      "manufacturerName": "ISUZU (JIANGXI)",
+      "groupKey": "D",
+      "displayName": "D",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14520,
+          "modelName": "D-MAX",
+          "modelYearFrom": "2014-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4393,
+      "manufacturerName": "ISUZU (JIANGXI)",
+      "groupKey": "LINGTUO",
+      "displayName": "LINGTUO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38641,
+          "modelName": "LINGTUO",
+          "modelYearFrom": "2018-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44768,
+          "modelName": "LINGTUO",
+          "modelYearFrom": "2023-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4393,
+      "manufacturerName": "ISUZU (JIANGXI)",
+      "groupKey": "MU",
+      "displayName": "MU",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14521,
+          "modelName": "mu-X",
+          "modelYearFrom": "2015-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4393,
+      "manufacturerName": "ISUZU (JIANGXI)",
+      "groupKey": "RUIMAI",
+      "displayName": "RUIMAI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36916,
+          "modelName": "RUIMAI",
+          "modelYearFrom": "2016-07-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

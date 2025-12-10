@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "D3350B",
+      "index": "HAZ 2162M",
+      "tecDoc": "2162M",
+      "tecDocProd": "4808",
+      "articleNumber": "2162M",
+      "brand": "HAZET",
+      "shortDescription": "Grease distribution devices",
+      "description": "",
+      "eans": [
+        "4000896185634"
+      ],
+      "packageWeight": "0,323",
+      "packageWidth": "16,000",
+      "packageDepth": "24,000",
+      "packageHeight": "4,000",
+      "customsCode": "40094100",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_60725",
+          "primary": false,
+          "name": {
+            "en": "Grease gun (mechanical)"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91771",
+          "primary": true,
+          "name": {
+            "en": "Grease distribution devices"
+          }
+        }
+      ]
+    }
+  ]
+}

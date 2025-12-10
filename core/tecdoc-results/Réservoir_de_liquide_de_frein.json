@@ -1,0 +1,57 @@
+{
+  "productName": "Réservoir de liquide de frein",
+  "searchText": "Réservoir de liquide de frein",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-03T07:14:31.148Z",
+  "productId": 2352,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Liquide de frein/Filtre déshydratant": {
+          "categoryId": null,
+          "categoryName": "Liquide de frein/Filtre déshydratant",
+          "level": 2,
+          "children": {
+            "Joint d'étanchéité, réservoir de liquide de frein": {
+              "categoryId": 100029,
+              "categoryName": "Brake Fluid Reservoir/parts",
+              "level": 2,
+              "children": [],
+              "productId": 61313
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif de freinage [ID: 100006] (Niveau 1)\n    └── Liquide de frein/Filtre déshydratant (Niveau 2)\n        └── Brake Fluid Reservoir/parts [ID: 100029] (Niveau 2) → ProductId: 61313",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Liquide de frein/Filtre déshydratant",
+        "Brake Fluid Reservoir/parts"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100029
+      ],
+      "finalCategoryId": 100029,
+      "productId": 61313
+    }
+  ],
+  "productIdsInArbo": [
+    61313
+  ],
+  "closestProductIds": [
+    {
+      "productId": 61313,
+      "productName": "Joint d'étanchéité, réservoir de liquide de frein"
+    }
+  ]
+}

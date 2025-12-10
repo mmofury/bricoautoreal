@@ -1,0 +1,69 @@
+{
+  "productName": "Kit de réparation, Palier central d'arbre de transmission",
+  "searchText": "Kit de réparation, Palier central d'arbre de transmission",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:03:17.553Z",
+  "productId": 4838,
+  "arborescence": {
+    "Entraînement des essieux": {
+      "categoryId": 100400,
+      "categoryName": "Entraînement des essieux",
+      "level": 1,
+      "children": {
+        "Arbre de transmission": {
+          "categoryId": null,
+          "categoryName": "Arbre de transmission",
+          "level": 2,
+          "children": {
+            "Kit de réparation, Palier central d'arbre de transmission": {
+              "categoryId": 100703,
+              "categoryName": "Propshaft",
+              "level": 2,
+              "children": {
+                "Paliers/suspension": {
+                  "categoryId": null,
+                  "categoryName": "Paliers/suspension",
+                  "level": 4,
+                  "children": {
+                    "Kit de réparation, Palier central d'arbre de transmission": {
+                      "categoryId": 100839,
+                      "categoryName": "Bearing/Mounting",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4838
+                    }
+                  }
+                }
+              },
+              "productId": 4838
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement des essieux [ID: 100400] (Niveau 1)\n    └── Arbre de transmission (Niveau 2)\n        └── Propshaft [ID: 100703] (Niveau 2) → ProductId: 4838\n            └── Paliers/suspension (Niveau 4)\n                └── Bearing/Mounting [ID: 100839] (Niveau 3) → ProductId: 4838",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des essieux",
+        "Arbre de transmission",
+        "Propshaft"
+      ],
+      "categoryIds": [
+        100400,
+        null,
+        100703
+      ],
+      "finalCategoryId": 100703,
+      "productId": 4838
+    }
+  ],
+  "productIdsInArbo": [
+    4838
+  ],
+  "matchedProductIds": [
+    4838
+  ]
+}

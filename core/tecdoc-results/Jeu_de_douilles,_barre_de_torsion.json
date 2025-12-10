@@ -1,0 +1,54 @@
+{
+  "productName": "Jeu de douilles, barre de torsion",
+  "searchText": "Jeu de douilles, barre de torsion",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:49:32.718Z",
+  "productId": 2422,
+  "arborescence": {
+    "Suspension/Amortissement": {
+      "categoryId": 100011,
+      "categoryName": "Suspension/Amortissement",
+      "level": 1,
+      "children": {
+        "Suspension": {
+          "categoryId": null,
+          "categoryName": "Suspension",
+          "level": 2,
+          "children": {
+            "Jeu de douilles, barre de torsion": {
+              "categoryId": 100113,
+              "categoryName": "Coil Springs",
+              "level": 2,
+              "children": [],
+              "productId": 2422
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Suspension/Amortissement [ID: 100011] (Niveau 1)\n    └── Suspension (Niveau 2)\n        └── Coil Springs [ID: 100113] (Niveau 2) → ProductId: 2422",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Suspension",
+        "Coil Springs"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        100113
+      ],
+      "finalCategoryId": 100113,
+      "productId": 2422
+    }
+  ],
+  "productIdsInArbo": [
+    2422
+  ],
+  "matchedProductIds": [
+    2422
+  ]
+}

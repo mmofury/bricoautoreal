@@ -1,0 +1,54 @@
+{
+  "productName": "Coffre de toit",
+  "searchText": "Coffre de toit",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:22:01.036Z",
+  "productId": 126,
+  "arborescence": {
+    "Portes-bagages": {
+      "categoryId": 100343,
+      "categoryName": "Portes-bagages",
+      "level": 1,
+      "children": {
+        "Barres de toit": {
+          "categoryId": null,
+          "categoryName": "Barres de toit",
+          "level": 2,
+          "children": {
+            "Coffre de toit": {
+              "categoryId": 100367,
+              "categoryName": "Roof Rack",
+              "level": 2,
+              "children": [],
+              "productId": 126
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Portes-bagages [ID: 100343] (Niveau 1)\n    └── Barres de toit (Niveau 2)\n        └── Roof Rack [ID: 100367] (Niveau 2) → ProductId: 126",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Portes-bagages",
+        "Barres de toit",
+        "Roof Rack"
+      ],
+      "categoryIds": [
+        100343,
+        null,
+        100367
+      ],
+      "finalCategoryId": 100367,
+      "productId": 126
+    }
+  ],
+  "productIdsInArbo": [
+    126
+  ],
+  "matchedProductIds": [
+    126
+  ]
+}

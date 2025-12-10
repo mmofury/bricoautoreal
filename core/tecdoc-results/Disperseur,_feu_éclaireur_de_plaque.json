@@ -1,0 +1,207 @@
+{
+  "productName": "Disperseur, feu éclaireur de plaque",
+  "searchText": "Disperseur, feu éclaireur de plaque",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:31:24.345Z",
+  "productId": 94,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Arrière de la voiture": {
+          "categoryId": null,
+          "categoryName": "Arrière de la voiture",
+          "level": 2,
+          "children": {
+            "Disperseur, feu éclaireur de plaque": {
+              "categoryId": 101705,
+              "categoryName": "Vehicle Rear",
+              "level": 2,
+              "children": {
+                "Feu éclaireur de plaque/composants": {
+                  "categoryId": null,
+                  "categoryName": "Feu éclaireur de plaque/composants",
+                  "level": 4,
+                  "children": {
+                    "Disperseur, feu éclaireur de plaque": {
+                      "categoryId": 101731,
+                      "categoryName": "Licence Plate Light/-Parts",
+                      "level": 3,
+                      "children": {
+                        "Composants du feu éclaireur de plaque": {
+                          "categoryId": null,
+                          "categoryName": "Composants du feu éclaireur de plaque",
+                          "level": 6,
+                          "children": {
+                            "Disperseur, feu éclaireur de plaque": {
+                              "categoryId": 101733,
+                              "categoryName": "Licence Plate Light Parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 94
+                            }
+                          }
+                        }
+                      },
+                      "productId": 94
+                    }
+                  }
+                }
+              },
+              "productId": 94
+            }
+          }
+        },
+        "Feux": {
+          "categoryId": null,
+          "categoryName": "Feux",
+          "level": 2,
+          "children": {
+            "Disperseur, feu éclaireur de plaque": {
+              "categoryId": 101407,
+              "categoryName": "Lights",
+              "level": 2,
+              "children": {
+                "Feu éclaireur de plaque/composants": {
+                  "categoryId": null,
+                  "categoryName": "Feu éclaireur de plaque/composants",
+                  "level": 4,
+                  "children": {
+                    "Disperseur, feu éclaireur de plaque": {
+                      "categoryId": 101424,
+                      "categoryName": "Licence Plate Light/-Parts",
+                      "level": 3,
+                      "children": {
+                        "Composants du feu éclaireur de plaque": {
+                          "categoryId": null,
+                          "categoryName": "Composants du feu éclaireur de plaque",
+                          "level": 6,
+                          "children": {
+                            "Disperseur, feu éclaireur de plaque": {
+                              "categoryId": 101426,
+                              "categoryName": "Licence Plate Light Parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 94
+                            }
+                          }
+                        }
+                      },
+                      "productId": 94
+                    }
+                  }
+                }
+              },
+              "productId": 94
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Feux": {
+          "categoryId": null,
+          "categoryName": "Feux",
+          "level": 2,
+          "children": {
+            "Disperseur, feu éclaireur de plaque": {
+              "categoryId": 100043,
+              "categoryName": "Lights",
+              "level": 2,
+              "children": {
+                "Feu éclaireur de plaque/composants": {
+                  "categoryId": null,
+                  "categoryName": "Feu éclaireur de plaque/composants",
+                  "level": 4,
+                  "children": {
+                    "Disperseur, feu éclaireur de plaque": {
+                      "categoryId": 100147,
+                      "categoryName": "Licence Plate Light/-Parts",
+                      "level": 3,
+                      "children": {
+                        "Composants du feu éclaireur de plaque": {
+                          "categoryId": null,
+                          "categoryName": "Composants du feu éclaireur de plaque",
+                          "level": 6,
+                          "children": {
+                            "Disperseur, feu éclaireur de plaque": {
+                              "categoryId": 100482,
+                              "categoryName": "Licence Plate Light Parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 94
+                            }
+                          }
+                        }
+                      },
+                      "productId": 94
+                    }
+                  }
+                }
+              },
+              "productId": 94
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carrosserie [ID: 100001] (Niveau 1)\n│   ├── Arrière de la voiture (Niveau 2)\n│   │   └── Vehicle Rear [ID: 101705] (Niveau 2) → ProductId: 94\n│   │       └── Feu éclaireur de plaque/composants (Niveau 4)\n│   │           └── Licence Plate Light/-Parts [ID: 101731] (Niveau 3) → ProductId: 94\n│   │               └── Composants du feu éclaireur de plaque (Niveau 6)\n│   │                   └── Licence Plate Light Parts [ID: 101733] (Niveau 4) → ProductId: 94\n│   └── Feux (Niveau 2)\n│       └── Lights [ID: 101407] (Niveau 2) → ProductId: 94\n│           └── Feu éclaireur de plaque/composants (Niveau 4)\n│               └── Licence Plate Light/-Parts [ID: 101424] (Niveau 3) → ProductId: 94\n│                   └── Composants du feu éclaireur de plaque (Niveau 6)\n│                       └── Licence Plate Light Parts [ID: 101426] (Niveau 4) → ProductId: 94\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Feux (Niveau 2)\n        └── Lights [ID: 100043] (Niveau 2) → ProductId: 94\n            └── Feu éclaireur de plaque/composants (Niveau 4)\n                └── Licence Plate Light/-Parts [ID: 100147] (Niveau 3) → ProductId: 94\n                    └── Composants du feu éclaireur de plaque (Niveau 6)\n                        └── Licence Plate Light Parts [ID: 100482] (Niveau 4) → ProductId: 94",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Vehicle Rear"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101705
+      ],
+      "finalCategoryId": 101705,
+      "productId": 94
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Feux",
+        "Lights"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101407
+      ],
+      "finalCategoryId": 101407,
+      "productId": 94
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Lights"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100043
+      ],
+      "finalCategoryId": 100043,
+      "productId": 94
+    }
+  ],
+  "productIdsInArbo": [
+    94
+  ],
+  "matchedProductIds": [
+    94
+  ]
+}

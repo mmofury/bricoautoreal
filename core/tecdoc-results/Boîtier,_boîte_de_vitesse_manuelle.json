@@ -1,0 +1,69 @@
+{
+  "productName": "Boîtier, boîte de vitesse manuelle",
+  "searchText": "Boîtier, boîte de vitesse manuelle",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:11:03.357Z",
+  "productId": 1555,
+  "arborescence": {
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Boîte de vitesses manuelle": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesses manuelle",
+          "level": 2,
+          "children": {
+            "Boîtier, boîte de vitesse manuelle": {
+              "categoryId": 100239,
+              "categoryName": "Manual Transmission",
+              "level": 2,
+              "children": {
+                "Carter/composants": {
+                  "categoryId": null,
+                  "categoryName": "Carter/composants",
+                  "level": 4,
+                  "children": {
+                    "Boîtier, boîte de vitesse manuelle": {
+                      "categoryId": 100774,
+                      "categoryName": "Transmission Housing/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1555
+                    }
+                  }
+                }
+              },
+              "productId": 1555
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Boîte de vitesses [ID: 100238] (Niveau 1)\n    └── Boîte de vitesses manuelle (Niveau 2)\n        └── Manual Transmission [ID: 100239] (Niveau 2) → ProductId: 1555\n            └── Carter/composants (Niveau 4)\n                └── Transmission Housing/Parts [ID: 100774] (Niveau 3) → ProductId: 1555",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesses manuelle",
+        "Manual Transmission"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        100239
+      ],
+      "finalCategoryId": 100239,
+      "productId": 1555
+    }
+  ],
+  "productIdsInArbo": [
+    1555
+  ],
+  "matchedProductIds": [
+    1555
+  ]
+}

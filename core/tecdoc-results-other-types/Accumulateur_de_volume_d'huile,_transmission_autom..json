@@ -1,0 +1,125 @@
+{
+  "productName": "Accumulateur de volume d'huile, transmission autom.",
+  "searchText": "Accumulateur de volume d'huile, transmission autom.",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 3,
+      "found": true,
+      "hasMatch": false,
+      "arborescence": {
+        "Boîte de vitesses": {
+          "categoryId": 100238,
+          "categoryName": "Boîte de vitesses",
+          "level": 1,
+          "children": {
+            "Boîte de vitesse automatique": {
+              "categoryId": null,
+              "categoryName": "Boîte de vitesse automatique",
+              "level": 2,
+              "children": {
+                "Accumulateur de volume d'huile, transmission autom.": {
+                  "categoryId": 100240,
+                  "categoryName": "Automatic Transmission",
+                  "level": 2,
+                  "children": {
+                    "Carter d'huile et pièces de montage": {
+                      "categoryId": null,
+                      "categoryName": "Carter d'huile et pièces de montage",
+                      "level": 4,
+                      "children": {
+                        "Accumulateur de volume d'huile, transmission autom.": {
+                          "categoryId": 101853,
+                          "categoryName": "Oil Sump/Attachment Parts",
+                          "level": 3,
+                          "children": {
+                            "Carter d'huile": {
+                              "categoryId": null,
+                              "categoryName": "Carter d'huile",
+                              "level": 6,
+                              "children": {
+                                "Accumulateur de volume d'huile, transmission autom.": {
+                                  "categoryId": 101854,
+                                  "categoryName": "Oil Sump",
+                                  "level": 4,
+                                  "children": [],
+                                  "productId": 60717
+                                }
+                              }
+                            }
+                          },
+                          "productId": 60717
+                        }
+                      }
+                    }
+                  },
+                  "productId": 60717
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Boîte de vitesses [ID: 100238] (Niveau 1)\n    └── Boîte de vitesse automatique (Niveau 2)\n        └── Automatic Transmission [ID: 100240] (Niveau 2) → ProductId: 60717\n            └── Carter d'huile et pièces de montage (Niveau 4)\n                └── Oil Sump/Attachment Parts [ID: 101853] (Niveau 3) → ProductId: 60717\n                    └── Carter d'huile (Niveau 6)\n                        └── Oil Sump [ID: 101854] (Niveau 4) → ProductId: 60717",
+      "productIdsInArbo": [
+        60717
+      ]
+    },
+    {
+      "typeId": 4,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 5,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 6,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 7,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 8,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 9,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 10,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 11,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 12,
+      "found": false,
+      "hasMatch": false
+    }
+  ],
+  "timestamp": "2025-12-03T09:28:18.087Z",
+  "bestMatch": {
+    "typeId": 3,
+    "found": true,
+    "hasMatch": false
+  }
+}

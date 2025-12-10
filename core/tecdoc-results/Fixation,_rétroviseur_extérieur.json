@@ -1,0 +1,112 @@
+{
+  "productName": "Fixation, rétroviseur extérieur",
+  "searchText": "Fixation, rétroviseur extérieur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:40:48.217Z",
+  "productId": 848,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Habitacle": {
+          "categoryId": null,
+          "categoryName": "Habitacle",
+          "level": 2,
+          "children": {
+            "Fixation, rétroviseur extérieur": {
+              "categoryId": 101690,
+              "categoryName": "Passenger Cabin",
+              "level": 2,
+              "children": {
+                "Miroirs": {
+                  "categoryId": null,
+                  "categoryName": "Miroirs",
+                  "level": 4,
+                  "children": {
+                    "Fixation, rétroviseur extérieur": {
+                      "categoryId": 101698,
+                      "categoryName": "Mirrors",
+                      "level": 3,
+                      "children": [],
+                      "productId": 848
+                    }
+                  }
+                }
+              },
+              "productId": 848
+            }
+          }
+        },
+        "Vitrages/Miroirs": {
+          "categoryId": null,
+          "categoryName": "Vitrages/Miroirs",
+          "level": 2,
+          "children": {
+            "Fixation, rétroviseur extérieur": {
+              "categoryId": 100744,
+              "categoryName": "Glazing/Mirrors",
+              "level": 2,
+              "children": {
+                "Miroirs": {
+                  "categoryId": null,
+                  "categoryName": "Miroirs",
+                  "level": 4,
+                  "children": {
+                    "Fixation, rétroviseur extérieur": {
+                      "categoryId": 100566,
+                      "categoryName": "Mirrors",
+                      "level": 3,
+                      "children": [],
+                      "productId": 848
+                    }
+                  }
+                }
+              },
+              "productId": 848
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    ├── Habitacle (Niveau 2)\n    │   └── Passenger Cabin [ID: 101690] (Niveau 2) → ProductId: 848\n    │       └── Miroirs (Niveau 4)\n    │           └── Mirrors [ID: 101698] (Niveau 3) → ProductId: 848\n    └── Vitrages/Miroirs (Niveau 2)\n        └── Glazing/Mirrors [ID: 100744] (Niveau 2) → ProductId: 848\n            └── Miroirs (Niveau 4)\n                └── Mirrors [ID: 100566] (Niveau 3) → ProductId: 848",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Habitacle",
+        "Passenger Cabin"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101690
+      ],
+      "finalCategoryId": 101690,
+      "productId": 848
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Vitrages/Miroirs",
+        "Glazing/Mirrors"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100744
+      ],
+      "finalCategoryId": 100744,
+      "productId": 848
+    }
+  ],
+  "productIdsInArbo": [
+    848
+  ],
+  "matchedProductIds": [
+    848
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.206Z",
+  "manufacturer": "CHAMONIX",
+  "countGroups": 4,
+  "groups": [
+    {
+      "manufacturerId": 3678,
+      "manufacturerName": "CHAMONIX",
+      "groupKey": "356",
+      "displayName": "356",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45624,
+          "modelName": "356 ROADSTER",
+          "modelYearFrom": "1987-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3678,
+      "manufacturerName": "CHAMONIX",
+      "groupKey": "SPEEDSTER",
+      "displayName": "SPEEDSTER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9894,
+          "modelName": "SPEEDSTER",
+          "modelYearFrom": "1987-01-01",
+          "modelYearTo": "2018-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3678,
+      "manufacturerName": "CHAMONIX",
+      "groupKey": "SPYDER",
+      "displayName": "SPYDER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9895,
+          "modelName": "SPYDER",
+          "modelYearFrom": "1987-01-01",
+          "modelYearTo": "1996-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3678,
+      "manufacturerName": "CHAMONIX",
+      "groupKey": "SUPER",
+      "displayName": "SUPER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45625,
+          "modelName": "SUPER",
+          "modelYearFrom": "1988-01-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

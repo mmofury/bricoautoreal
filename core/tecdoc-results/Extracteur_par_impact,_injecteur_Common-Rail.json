@@ -1,0 +1,57 @@
+{
+  "productName": "Extracteur par impact, injecteur Common-Rail",
+  "searchText": "Extracteur par impact, injecteur Common-Rail",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T20:37:39.527Z",
+  "productId": 6982,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Extracteur par impact, injecteur Common-Rail": {
+              "categoryId": 103129,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 8157
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Outils (Niveau 2)\n        └── Tools [ID: 103129] (Niveau 2) → ProductId: 8157",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        103129
+      ],
+      "finalCategoryId": 103129,
+      "productId": 8157
+    }
+  ],
+  "productIdsInArbo": [
+    8157
+  ],
+  "closestProductIds": [
+    {
+      "productId": 8157,
+      "productName": "Extracteur par impact, injecteur Common-Rail"
+    }
+  ]
+}

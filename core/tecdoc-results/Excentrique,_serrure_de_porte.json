@@ -1,0 +1,54 @@
+{
+  "productName": "Excentrique, serrure de porte",
+  "searchText": "Excentrique, serrure de porte",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:37:26.426Z",
+  "productId": 60763,
+  "arborescence": {
+    "Verrouillage": {
+      "categoryId": 100685,
+      "categoryName": "Verrouillage",
+      "level": 1,
+      "children": {
+        "Composants": {
+          "categoryId": null,
+          "categoryName": "Composants",
+          "level": 2,
+          "children": {
+            "Excentrique, serrure de porte": {
+              "categoryId": 100766,
+              "categoryName": "Parts",
+              "level": 2,
+              "children": [],
+              "productId": 60763
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Verrouillage [ID: 100685] (Niveau 1)\n    └── Composants (Niveau 2)\n        └── Parts [ID: 100766] (Niveau 2) → ProductId: 60763",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Verrouillage",
+        "Composants",
+        "Parts"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100766
+      ],
+      "finalCategoryId": 100766,
+      "productId": 60763
+    }
+  ],
+  "productIdsInArbo": [
+    60763
+  ],
+  "matchedProductIds": [
+    60763
+  ]
+}

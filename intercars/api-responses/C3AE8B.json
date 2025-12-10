@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "C3AE8B",
+      "index": "FE33830",
+      "tecDoc": "33830",
+      "tecDocProd": "101",
+      "articleNumber": "33830",
+      "brand": "FEBI",
+      "shortDescription": "Antifreeze concentrate (G12/G30 type)",
+      "description": "Antifreeze/coolant fluids and concentrates (coolant type G12/G30) (210L, 1:1=-35°C), silicate free, red, norm: VW TL 774-D, contains: mono-ethyleneglycol fits: AUDI 80 B2, 80 B4 1.0-4.2 08.76-05.15",
+      "customsCode": "38200000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3356",
+          "primary": false,
+          "name": {
+            "en": "Antifreeze"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_92039",
+          "primary": true,
+          "name": {
+            "en": "Antifreeze concentrate (G12/G30 type)"
+          }
+        }
+      ]
+    }
+  ]
+}

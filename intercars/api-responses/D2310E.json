@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "D2310E",
+      "index": "F 026 T03 102",
+      "tecDoc": "F 026 T03 102",
+      "tecDocProd": "30",
+      "articleNumber": "F 026 T03 102",
+      "brand": "BOSCH",
+      "shortDescription": "Relay",
+      "description": "Starter relay",
+      "eans": [
+        "4047025259453"
+      ],
+      "packageWeight": "0,080",
+      "packageWidth": "5,000",
+      "packageDepth": "7,700",
+      "packageHeight": "5,000",
+      "customsCode": "85365019",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3488",
+          "primary": true,
+          "name": {
+            "en": "Relay"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3957",
+          "primary": false,
+          "name": {
+            "en": "Temperature Switch, cold start system"
+          }
+        }
+      ]
+    }
+  ]
+}

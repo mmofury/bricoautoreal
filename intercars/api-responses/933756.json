@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "933756",
+      "index": "P154927",
+      "tecDoc": "P154927",
+      "tecDocProd": "4868",
+      "articleNumber": "P154927",
+      "brand": "DONALDSON OFF",
+      "shortDescription": "Air filter",
+      "description": "Air Fitra contributions DONALDSON",
+      "eans": [
+        "74233001354"
+      ],
+      "packageWeight": "7,840",
+      "packageWidth": "31,000",
+      "packageDepth": "69,000",
+      "packageHeight": "31,000",
+      "customsCode": "84213100",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_8",
+          "primary": true,
+          "name": {
+            "en": "Air filter"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3500",
+          "primary": false,
+          "name": {
+            "en": "Air Ioniser"
+          }
+        }
+      ]
+    }
+  ]
+}

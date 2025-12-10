@@ -1,0 +1,73 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.198Z",
+  "manufacturer": "BUGATTI",
+  "countGroups": 4,
+  "groups": [
+    {
+      "manufacturerId": 788,
+      "manufacturerName": "BUGATTI",
+      "groupKey": "CHIRON",
+      "displayName": "CHIRON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36821,
+          "modelName": "CHIRON",
+          "modelYearFrom": "2016-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 788,
+      "manufacturerName": "BUGATTI",
+      "groupKey": "DIVO",
+      "displayName": "DIVO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38950,
+          "modelName": "DIVO",
+          "modelYearFrom": "2018-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 788,
+      "manufacturerName": "BUGATTI",
+      "groupKey": "EB",
+      "displayName": "EB",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4230,
+          "modelName": "EB 110",
+          "modelYearFrom": "1991-09-01",
+          "modelYearTo": "1996-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 788,
+      "manufacturerName": "BUGATTI",
+      "groupKey": "VEYRON",
+      "displayName": "VEYRON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4796,
+          "modelName": "VEYRON EB 16.4",
+          "modelYearFrom": "2003-10-01",
+          "modelYearTo": "2012-12-01"
+        },
+        {
+          "modelId": 10177,
+          "modelName": "VEYRON Grand Sport EB 16.4",
+          "modelYearFrom": "2009-03-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

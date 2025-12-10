@@ -1,0 +1,97 @@
+{
+  "productName": "Pompe à eau, batterie de traction",
+  "searchText": "Pompe à eau, batterie de traction",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:01:47.791Z",
+  "productId": 60166,
+  "arborescence": {
+    "Entraînement hybride/électrique": {
+      "categoryId": 706209,
+      "categoryName": "Entraînement hybride/électrique",
+      "level": 1,
+      "children": {
+        "Batterie de traction": {
+          "categoryId": null,
+          "categoryName": "Batterie de traction",
+          "level": 2,
+          "children": {
+            "Pompe à eau, batterie de traction": {
+              "categoryId": 706219,
+              "categoryName": "Traction Battery",
+              "level": 2,
+              "children": [],
+              "productId": 60166
+            }
+          }
+        },
+        "Refroidissement": {
+          "categoryId": null,
+          "categoryName": "Refroidissement",
+          "level": 2,
+          "children": {
+            "Pompe à eau, batterie de traction": {
+              "categoryId": 706210,
+              "categoryName": "Cooling System",
+              "level": 2,
+              "children": {
+                "Pompe à eau pour batterie d’entraînement": {
+                  "categoryId": null,
+                  "categoryName": "Pompe à eau pour batterie d’entraînement",
+                  "level": 4,
+                  "children": {
+                    "Pompe à eau, batterie de traction": {
+                      "categoryId": 706557,
+                      "categoryName": "Water Pump for traction battery",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60166
+                    }
+                  }
+                }
+              },
+              "productId": 60166
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement hybride/électrique [ID: 706209] (Niveau 1)\n    ├── Batterie de traction (Niveau 2)\n    │   └── Traction Battery [ID: 706219] (Niveau 2) → ProductId: 60166\n    └── Refroidissement (Niveau 2)\n        └── Cooling System [ID: 706210] (Niveau 2) → ProductId: 60166\n            └── Pompe à eau pour batterie d’entraînement (Niveau 4)\n                └── Water Pump for traction battery [ID: 706557] (Niveau 3) → ProductId: 60166",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement hybride/électrique",
+        "Batterie de traction",
+        "Traction Battery"
+      ],
+      "categoryIds": [
+        706209,
+        null,
+        706219
+      ],
+      "finalCategoryId": 706219,
+      "productId": 60166
+    },
+    {
+      "path": [
+        "Entraînement hybride/électrique",
+        "Refroidissement",
+        "Cooling System"
+      ],
+      "categoryIds": [
+        706209,
+        null,
+        706210
+      ],
+      "finalCategoryId": 706210,
+      "productId": 60166
+    }
+  ],
+  "productIdsInArbo": [
+    60166
+  ],
+  "matchedProductIds": [
+    60166
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "productName": "Générateur de chaleur, chauffage intérieur",
+  "searchText": "Générateur de chaleur, chauffage intérieur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:44:23.306Z",
+  "productId": 8559,
+  "arborescence": {
+    "Entraînement hybride/électrique": {
+      "categoryId": 706209,
+      "categoryName": "Entraînement hybride/électrique",
+      "level": 1,
+      "children": {
+        "Générateur de chaleur": {
+          "categoryId": null,
+          "categoryName": "Générateur de chaleur",
+          "level": 2,
+          "children": {
+            "Générateur de chaleur, chauffage intérieur": {
+              "categoryId": 706216,
+              "categoryName": "Heat Generator",
+              "level": 2,
+              "children": {
+                "Générateur de chaleur pour chauffage intérieur": {
+                  "categoryId": null,
+                  "categoryName": "Générateur de chaleur pour chauffage intérieur",
+                  "level": 4,
+                  "children": {
+                    "Générateur de chaleur, chauffage intérieur": {
+                      "categoryId": 706218,
+                      "categoryName": "Heat Generator for interior heating",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8559
+                    }
+                  }
+                }
+              },
+              "productId": 8559
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement hybride/électrique [ID: 706209] (Niveau 1)\n    └── Générateur de chaleur (Niveau 2)\n        └── Heat Generator [ID: 706216] (Niveau 2) → ProductId: 8559\n            └── Générateur de chaleur pour chauffage intérieur (Niveau 4)\n                └── Heat Generator for interior heating [ID: 706218] (Niveau 3) → ProductId: 8559",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement hybride/électrique",
+        "Générateur de chaleur",
+        "Heat Generator"
+      ],
+      "categoryIds": [
+        706209,
+        null,
+        706216
+      ],
+      "finalCategoryId": 706216,
+      "productId": 8559
+    }
+  ],
+  "productIdsInArbo": [
+    8559
+  ],
+  "matchedProductIds": [
+    8559
+  ]
+}

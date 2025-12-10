@@ -1,0 +1,43 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.186Z",
+  "manufacturer": "BERTONE",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 1485,
+      "manufacturerName": "BERTONE",
+      "groupKey": "FREECLIMBER",
+      "displayName": "FREECLIMBER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4222,
+          "modelName": "FREECLIMBER",
+          "modelYearFrom": "1989-06-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 4223,
+          "modelName": "FREECLIMBER 2",
+          "modelYearFrom": "1992-03-01",
+          "modelYearTo": "1999-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1485,
+      "manufacturerName": "BERTONE",
+      "groupKey": "X",
+      "displayName": "X",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30289,
+          "modelName": "X-1/9 Coupé",
+          "modelYearFrom": "1983-09-01",
+          "modelYearTo": "1989-12-01"
+        }
+      ]
+    }
+  ]
+}

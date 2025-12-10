@@ -1,0 +1,57 @@
+{
+  "productName": "Kit de réparation, tuyau d'échappement",
+  "searchText": "Kit de réparation, tuyau d'échappement",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T21:06:43.731Z",
+  "productId": 4358,
+  "arborescence": {
+    "Échappement": {
+      "categoryId": 100004,
+      "categoryName": "Échappement",
+      "level": 1,
+      "children": {
+        "Tuyaux": {
+          "categoryId": null,
+          "categoryName": "Tuyaux",
+          "level": 2,
+          "children": {
+            "Kit de réparation, tuyau d'échappement": {
+              "categoryId": 100315,
+              "categoryName": "Exhaust Pipes",
+              "level": 2,
+              "children": [],
+              "productId": 4669
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Échappement [ID: 100004] (Niveau 1)\n    └── Tuyaux (Niveau 2)\n        └── Exhaust Pipes [ID: 100315] (Niveau 2) → ProductId: 4669",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Échappement",
+        "Tuyaux",
+        "Exhaust Pipes"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100315
+      ],
+      "finalCategoryId": 100315,
+      "productId": 4669
+    }
+  ],
+  "productIdsInArbo": [
+    4669
+  ],
+  "closestProductIds": [
+    {
+      "productId": 4669,
+      "productName": "Kit de réparation, tuyau d'échappement"
+    }
+  ]
+}

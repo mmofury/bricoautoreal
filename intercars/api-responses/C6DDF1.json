@@ -1,0 +1,57 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "C6DDF1",
+      "index": "FE39071",
+      "tecDoc": "39071",
+      "tecDocProd": "101",
+      "articleNumber": "39071",
+      "brand": "FEBI",
+      "shortDescription": "Automatic transmission oil",
+      "description": "ATF oil ATF (5L) , BMW DCTF 1, BMW DCTF 1+, BMW DRIVELOGIC 7-SPEED, BMW MTF LT-5, DIA QUEEN SSTF-I, FORD M2C936 A, MB 236.21, MB 236.24, PENTOSIN FFL-3, PORSCHE DCT, PSA DCS 6-SPEED, RENAULT EDC 6, VW",
+      "gtuCode": "GTU_03",
+      "eans": [
+        "4027816390718"
+      ],
+      "packageWeight": "4,506",
+      "packageWidth": "11,000",
+      "packageDepth": "23,000",
+      "packageHeight": "30,000",
+      "customsCode": "27101987",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_8561",
+          "primary": false,
+          "name": {
+            "en": "Oil, dual-clutch transmission"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_61034",
+          "primary": false,
+          "name": {
+            "en": "Oil, e-transmission"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3069",
+          "primary": true,
+          "name": {
+            "en": "Automatic transmission oil"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3225",
+          "primary": false,
+          "name": {
+            "en": "Manual Transmission Oil"
+          }
+        }
+      ]
+    }
+  ]
+}

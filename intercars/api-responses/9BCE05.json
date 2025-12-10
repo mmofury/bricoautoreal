@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "9BCE05",
+      "index": "03.9314-5910.3",
+      "tecDoc": "03.9314-5910.3",
+      "tecDocProd": "3",
+      "articleNumber": "03.9314-5910.3",
+      "brand": "ATE",
+      "shortDescription": "Devices for working fluids and fuels",
+      "description": "Collection bottle, application: brake fluid ATE",
+      "eans": [
+        "4006633096003"
+      ],
+      "packageWeight": "0,124",
+      "packageWidth": "8,500",
+      "packageDepth": "8,000",
+      "packageHeight": "19,500",
+      "customsCode": "39233090",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_2339",
+          "primary": false,
+          "name": {
+            "en": "Siphon, brake fluid"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91773",
+          "primary": true,
+          "name": {
+            "en": "Devices for working fluids and fuels"
+          }
+        }
+      ]
+    }
+  ]
+}

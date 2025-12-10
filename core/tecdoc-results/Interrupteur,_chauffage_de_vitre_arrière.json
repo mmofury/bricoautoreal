@@ -1,0 +1,69 @@
+{
+  "productName": "Interrupteur, chauffage de vitre arrière",
+  "searchText": "Interrupteur, chauffage de vitre arrière",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:47:01.095Z",
+  "productId": 2704,
+  "arborescence": {
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Moteur / Relais": {
+          "categoryId": null,
+          "categoryName": "Moteur / Relais",
+          "level": 2,
+          "children": {
+            "Interrupteur, chauffage de vitre arrière": {
+              "categoryId": 104156,
+              "categoryName": "Motor/Relay/Switch",
+              "level": 2,
+              "children": {
+                "Lunette arrière": {
+                  "categoryId": null,
+                  "categoryName": "Lunette arrière",
+                  "level": 4,
+                  "children": {
+                    "Interrupteur, chauffage de vitre arrière": {
+                      "categoryId": 104160,
+                      "categoryName": "Rear Window",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2704
+                    }
+                  }
+                }
+              },
+              "productId": 2704
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Systèmes de confort [ID: 100335] (Niveau 1)\n    └── Moteur / Relais (Niveau 2)\n        └── Motor/Relay/Switch [ID: 104156] (Niveau 2) → ProductId: 2704\n            └── Lunette arrière (Niveau 4)\n                └── Rear Window [ID: 104160] (Niveau 3) → ProductId: 2704",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Systèmes de confort",
+        "Moteur / Relais",
+        "Motor/Relay/Switch"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        104156
+      ],
+      "finalCategoryId": 104156,
+      "productId": 2704
+    }
+  ],
+  "productIdsInArbo": [
+    2704
+  ],
+  "matchedProductIds": [
+    2704
+  ]
+}

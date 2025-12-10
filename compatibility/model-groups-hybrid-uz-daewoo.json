@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.522Z",
+  "manufacturer": "UZ-DAEWOO",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 4762,
+      "manufacturerName": "UZ-DAEWOO",
+      "groupKey": "GENTRA",
+      "displayName": "GENTRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38240,
+          "modelName": "GENTRA A trois volumes",
+          "modelYearFrom": "2013-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4762,
+      "manufacturerName": "UZ-DAEWOO",
+      "groupKey": "MATIZ",
+      "displayName": "MATIZ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38242,
+          "modelName": "MATIZ Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1998-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4762,
+      "manufacturerName": "UZ-DAEWOO",
+      "groupKey": "NEXIA",
+      "displayName": "NEXIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38243,
+          "modelName": "NEXIA A trois volumes",
+          "modelYearFrom": "1997-08-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

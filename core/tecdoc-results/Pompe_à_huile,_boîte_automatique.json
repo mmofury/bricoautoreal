@@ -1,0 +1,69 @@
+{
+  "productName": "Pompe à huile, boîte automatique",
+  "searchText": "Pompe à huile, boîte automatique",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:02:10.399Z",
+  "productId": 5204,
+  "arborescence": {
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Boîte de vitesse automatique": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesse automatique",
+          "level": 2,
+          "children": {
+            "Pompe à huile, boîte automatique": {
+              "categoryId": 100240,
+              "categoryName": "Automatic Transmission",
+              "level": 2,
+              "children": {
+                "Pompe à huile": {
+                  "categoryId": null,
+                  "categoryName": "Pompe à huile",
+                  "level": 4,
+                  "children": {
+                    "Pompe à huile, boîte automatique": {
+                      "categoryId": 105494,
+                      "categoryName": "Oil Pump",
+                      "level": 3,
+                      "children": [],
+                      "productId": 5204
+                    }
+                  }
+                }
+              },
+              "productId": 5204
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Boîte de vitesses [ID: 100238] (Niveau 1)\n    └── Boîte de vitesse automatique (Niveau 2)\n        └── Automatic Transmission [ID: 100240] (Niveau 2) → ProductId: 5204\n            └── Pompe à huile (Niveau 4)\n                └── Oil Pump [ID: 105494] (Niveau 3) → ProductId: 5204",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesse automatique",
+        "Automatic Transmission"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        100240
+      ],
+      "finalCategoryId": 100240,
+      "productId": 5204
+    }
+  ],
+  "productIdsInArbo": [
+    5204
+  ],
+  "matchedProductIds": [
+    5204
+  ]
+}

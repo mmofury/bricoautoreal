@@ -1,0 +1,112 @@
+{
+  "productName": "Vérin, capot-moteur",
+  "searchText": "Vérin, capot-moteur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:36:12.197Z",
+  "productId": 514,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Avant du véhicule": {
+          "categoryId": null,
+          "categoryName": "Avant du véhicule",
+          "level": 2,
+          "children": {
+            "Vérin, capot-moteur": {
+              "categoryId": 101648,
+              "categoryName": "Vehicle Front",
+              "level": 2,
+              "children": {
+                "Composants/suppléments": {
+                  "categoryId": null,
+                  "categoryName": "Composants/suppléments",
+                  "level": 4,
+                  "children": {
+                    "Vérin, capot-moteur": {
+                      "categoryId": 101673,
+                      "categoryName": "Parts",
+                      "level": 3,
+                      "children": {
+                        "Ressorts pneumatiques": {
+                          "categoryId": null,
+                          "categoryName": "Ressorts pneumatiques",
+                          "level": 6,
+                          "children": {
+                            "Vérin, capot-moteur": {
+                              "categoryId": 101777,
+                              "categoryName": "Gas Springs",
+                              "level": 4,
+                              "children": [],
+                              "productId": 514
+                            }
+                          }
+                        }
+                      },
+                      "productId": 514
+                    }
+                  }
+                }
+              },
+              "productId": 514
+            }
+          }
+        },
+        "Ressorts pneumatiques": {
+          "categoryId": null,
+          "categoryName": "Ressorts pneumatiques",
+          "level": 2,
+          "children": {
+            "Vérin, capot-moteur": {
+              "categoryId": 100826,
+              "categoryName": "Gas Springs",
+              "level": 2,
+              "children": [],
+              "productId": 514
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    ├── Avant du véhicule (Niveau 2)\n    │   └── Vehicle Front [ID: 101648] (Niveau 2) → ProductId: 514\n    │       └── Composants/suppléments (Niveau 4)\n    │           └── Parts [ID: 101673] (Niveau 3) → ProductId: 514\n    │               └── Ressorts pneumatiques (Niveau 6)\n    │                   └── Gas Springs [ID: 101777] (Niveau 4) → ProductId: 514\n    └── Ressorts pneumatiques (Niveau 2)\n        └── Gas Springs [ID: 100826] (Niveau 2) → ProductId: 514",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Avant du véhicule",
+        "Vehicle Front"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101648
+      ],
+      "finalCategoryId": 101648,
+      "productId": 514
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Ressorts pneumatiques",
+        "Gas Springs"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100826
+      ],
+      "finalCategoryId": 100826,
+      "productId": 514
+    }
+  ],
+  "productIdsInArbo": [
+    514
+  ],
+  "matchedProductIds": [
+    514
+  ]
+}

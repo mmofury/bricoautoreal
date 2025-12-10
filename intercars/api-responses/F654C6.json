@@ -1,0 +1,49 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "F654C6",
+      "index": "HAZ 2730-1",
+      "tecDoc": "2730-1",
+      "tecDocProd": "4808",
+      "articleNumber": "2730-1",
+      "brand": "HAZET",
+      "shortDescription": "Brake system handling tools",
+      "description": "Hook for tension spring removal and installation, intended use: drum brakes",
+      "eans": [
+        "4000896218400"
+      ],
+      "packageWeight": "0,100",
+      "packageWidth": "10,000",
+      "packageDepth": "1,000",
+      "packageHeight": "16,000",
+      "customsCode": "82055980",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_91783",
+          "primary": true,
+          "name": {
+            "en": "Brake system handling tools"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_4574",
+          "primary": false,
+          "name": {
+            "en": "Mounting Tool, brake shoe holding spring"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_7049",
+          "primary": false,
+          "name": {
+            "en": "Mounting Tools, brake spring"
+          }
+        }
+      ]
+    }
+  ]
+}

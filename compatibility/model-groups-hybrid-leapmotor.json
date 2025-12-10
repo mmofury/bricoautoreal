@@ -1,0 +1,97 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.381Z",
+  "manufacturer": "LEAPMOTOR",
+  "countGroups": 6,
+  "groups": [
+    {
+      "manufacturerId": 5201,
+      "manufacturerName": "LEAPMOTOR",
+      "groupKey": "C01",
+      "displayName": "C01",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43632,
+          "modelName": "C01",
+          "modelYearFrom": "2022-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5201,
+      "manufacturerName": "LEAPMOTOR",
+      "groupKey": "C10",
+      "displayName": "C10",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45278,
+          "modelName": "C10",
+          "modelYearFrom": "2024-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5201,
+      "manufacturerName": "LEAPMOTOR",
+      "groupKey": "C11",
+      "displayName": "C11",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41747,
+          "modelName": "C11",
+          "modelYearFrom": "2020-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5201,
+      "manufacturerName": "LEAPMOTOR",
+      "groupKey": "C16",
+      "displayName": "C16",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 90002,
+          "modelName": "C16",
+          "modelYearFrom": "2024-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5201,
+      "manufacturerName": "LEAPMOTOR",
+      "groupKey": "S01",
+      "displayName": "S01",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39362,
+          "modelName": "S01",
+          "modelYearFrom": "2019-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5201,
+      "manufacturerName": "LEAPMOTOR",
+      "groupKey": "T03",
+      "displayName": "T03",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40822,
+          "modelName": "T03",
+          "modelYearFrom": "2020-05-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

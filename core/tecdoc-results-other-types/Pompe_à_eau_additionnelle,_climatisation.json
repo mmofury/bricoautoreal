@@ -1,0 +1,64 @@
+{
+  "productName": "Pompe à eau additionnelle, climatisation",
+  "productId": 60133,
+  "searchText": "Pompe à eau additionnelle, climatisation",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Chauffage/Ventilation/Climatisation": {
+          "categoryId": 200065,
+          "categoryName": "Chauffage/Ventilation/Climatisation",
+          "level": 1,
+          "children": {
+            "Climatisation": {
+              "categoryId": null,
+              "categoryName": "Climatisation",
+              "level": 2,
+              "children": {
+                "Pompe à eau additionnelle, climatisation": {
+                  "categoryId": 200774,
+                  "categoryName": "Air Conditioning",
+                  "level": 2,
+                  "children": {
+                    "Pompe": {
+                      "categoryId": null,
+                      "categoryName": "Pompe",
+                      "level": 4,
+                      "children": {
+                        "Pompe à eau additionnelle, climatisation": {
+                          "categoryId": 706549,
+                          "categoryName": "Pump",
+                          "level": 3,
+                          "children": [],
+                          "productId": 60133
+                        }
+                      }
+                    }
+                  },
+                  "productId": 60133
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Chauffage/Ventilation/Climatisation [ID: 200065] (Niveau 1)\n    └── Climatisation (Niveau 2)\n        └── Air Conditioning [ID: 200774] (Niveau 2) → ProductId: 60133\n            └── Pompe (Niveau 4)\n                └── Pump [ID: 706549] (Niveau 3) → ProductId: 60133",
+      "productIdsInArbo": [
+        60133
+      ],
+      "matchedProductIds": [
+        60133
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:16:06.411Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "productName": "Manivelle, frein de stationnement",
+  "productId": 1790,
+  "searchText": "Manivelle, frein de stationnement",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Dispositif de freinage": {
+          "categoryId": 200058,
+          "categoryName": "Dispositif de freinage",
+          "level": 1,
+          "children": {
+            "Frein de stationnement": {
+              "categoryId": null,
+              "categoryName": "Frein de stationnement",
+              "level": 2,
+              "children": {
+                "Manivelle, frein de stationnement": {
+                  "categoryId": 200106,
+                  "categoryName": "Park Brake",
+                  "level": 2,
+                  "children": {
+                    "Accessoires, frein de stationnement": {
+                      "categoryId": null,
+                      "categoryName": "Accessoires, frein de stationnement",
+                      "level": 4,
+                      "children": {
+                        "Manivelle, frein de stationnement": {
+                          "categoryId": 200930,
+                          "categoryName": "Parts, parking brake",
+                          "level": 3,
+                          "children": [],
+                          "productId": 1790
+                        }
+                      }
+                    }
+                  },
+                  "productId": 1790
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Dispositif de freinage [ID: 200058] (Niveau 1)\n    └── Frein de stationnement (Niveau 2)\n        └── Park Brake [ID: 200106] (Niveau 2) → ProductId: 1790\n            └── Accessoires, frein de stationnement (Niveau 4)\n                └── Parts, parking brake [ID: 200930] (Niveau 3) → ProductId: 1790",
+      "productIdsInArbo": [
+        1790
+      ],
+      "matchedProductIds": [
+        1790
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:54:18.585Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

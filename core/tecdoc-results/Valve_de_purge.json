@@ -1,0 +1,69 @@
+{
+  "productName": "Valve de purge",
+  "searchText": "Valve de purge",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:31:31.494Z",
+  "productId": 1318,
+  "arborescence": {
+    "Système pneumatique": {
+      "categoryId": 103168,
+      "categoryName": "Système pneumatique",
+      "level": 1,
+      "children": {
+        "Réservoir d'air / accessoires": {
+          "categoryId": null,
+          "categoryName": "Réservoir d'air / accessoires",
+          "level": 2,
+          "children": {
+            "Valve de purge": {
+              "categoryId": 103207,
+              "categoryName": "Air Tank/Accessories",
+              "level": 2,
+              "children": {
+                "Valve de purge": {
+                  "categoryId": null,
+                  "categoryName": "Valve de purge",
+                  "level": 4,
+                  "children": {
+                    "Valve de purge": {
+                      "categoryId": 103208,
+                      "categoryName": "Water Drain Valve",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1318
+                    }
+                  }
+                }
+              },
+              "productId": 1318
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système pneumatique [ID: 103168] (Niveau 1)\n    └── Réservoir d'air / accessoires (Niveau 2)\n        └── Air Tank/Accessories [ID: 103207] (Niveau 2) → ProductId: 1318\n            └── Valve de purge (Niveau 4)\n                └── Water Drain Valve [ID: 103208] (Niveau 3) → ProductId: 1318",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système pneumatique",
+        "Réservoir d'air / accessoires",
+        "Air Tank/Accessories"
+      ],
+      "categoryIds": [
+        103168,
+        null,
+        103207
+      ],
+      "finalCategoryId": 103207,
+      "productId": 1318
+    }
+  ],
+  "productIdsInArbo": [
+    1318
+  ],
+  "matchedProductIds": [
+    1318
+  ]
+}

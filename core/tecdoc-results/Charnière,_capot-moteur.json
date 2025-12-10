@@ -1,0 +1,155 @@
+{
+  "productName": "Charnière, capot-moteur",
+  "searchText": "Charnière, capot-moteur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:19:15.417Z",
+  "productId": 740,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Arrière de la voiture": {
+          "categoryId": null,
+          "categoryName": "Arrière de la voiture",
+          "level": 2,
+          "children": {
+            "Charnière, capot-moteur": {
+              "categoryId": 101705,
+              "categoryName": "Vehicle Rear",
+              "level": 2,
+              "children": {
+                "Capot avant / composants / insonorisation": {
+                  "categoryId": null,
+                  "categoryName": "Capot avant / composants / insonorisation",
+                  "level": 4,
+                  "children": {
+                    "Charnière, capot-moteur": {
+                      "categoryId": 101783,
+                      "categoryName": "Bonnet/Parts/Noise Insulation",
+                      "level": 3,
+                      "children": [],
+                      "productId": 740
+                    }
+                  }
+                }
+              },
+              "productId": 740
+            }
+          }
+        },
+        "Avant du véhicule": {
+          "categoryId": null,
+          "categoryName": "Avant du véhicule",
+          "level": 2,
+          "children": {
+            "Charnière, capot-moteur": {
+              "categoryId": 101648,
+              "categoryName": "Vehicle Front",
+              "level": 2,
+              "children": {
+                "Capot avant / composants / insonorisation": {
+                  "categoryId": null,
+                  "categoryName": "Capot avant / composants / insonorisation",
+                  "level": 4,
+                  "children": {
+                    "Charnière, capot-moteur": {
+                      "categoryId": 101654,
+                      "categoryName": "Bonnet/Parts/Noise Insulation",
+                      "level": 3,
+                      "children": [],
+                      "productId": 740
+                    }
+                  }
+                }
+              },
+              "productId": 740
+            }
+          }
+        },
+        "Trappes/capots/portes/toit coul./toit panoram./toit pliant": {
+          "categoryId": null,
+          "categoryName": "Trappes/capots/portes/toit coul./toit panoram./toit pliant",
+          "level": 2,
+          "children": {
+            "Charnière, capot-moteur": {
+              "categoryId": 100746,
+              "categoryName": "Hatches/Bonnets/Doors/Sunroof/Panoramic Roof",
+              "level": 2,
+              "children": {
+                "Capot avant / composants / insonorisation": {
+                  "categoryId": null,
+                  "categoryName": "Capot avant / composants / insonorisation",
+                  "level": 4,
+                  "children": {
+                    "Charnière, capot-moteur": {
+                      "categoryId": 100184,
+                      "categoryName": "Bonnet/Parts/Noise Insulation",
+                      "level": 3,
+                      "children": [],
+                      "productId": 740
+                    }
+                  }
+                }
+              },
+              "productId": 740
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    ├── Arrière de la voiture (Niveau 2)\n    │   └── Vehicle Rear [ID: 101705] (Niveau 2) → ProductId: 740\n    │       └── Capot avant / composants / insonorisation (Niveau 4)\n    │           └── Bonnet/Parts/Noise Insulation [ID: 101783] (Niveau 3) → ProductId: 740\n    ├── Avant du véhicule (Niveau 2)\n    │   └── Vehicle Front [ID: 101648] (Niveau 2) → ProductId: 740\n    │       └── Capot avant / composants / insonorisation (Niveau 4)\n    │           └── Bonnet/Parts/Noise Insulation [ID: 101654] (Niveau 3) → ProductId: 740\n    └── Trappes/capots/portes/toit coul./toit panoram./toit pliant (Niveau 2)\n        └── Hatches/Bonnets/Doors/Sunroof/Panoramic Roof [ID: 100746] (Niveau 2) → ProductId: 740\n            └── Capot avant / composants / insonorisation (Niveau 4)\n                └── Bonnet/Parts/Noise Insulation [ID: 100184] (Niveau 3) → ProductId: 740",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Vehicle Rear"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101705
+      ],
+      "finalCategoryId": 101705,
+      "productId": 740
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Avant du véhicule",
+        "Vehicle Front"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101648
+      ],
+      "finalCategoryId": 101648,
+      "productId": 740
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Trappes/capots/portes/toit coul./toit panoram./toit pliant",
+        "Hatches/Bonnets/Doors/Sunroof/Panoramic Roof"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100746
+      ],
+      "finalCategoryId": 100746,
+      "productId": 740
+    }
+  ],
+  "productIdsInArbo": [
+    740
+  ],
+  "matchedProductIds": [
+    740
+  ]
+}

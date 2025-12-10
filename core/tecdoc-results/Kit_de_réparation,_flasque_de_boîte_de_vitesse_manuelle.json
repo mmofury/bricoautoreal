@@ -1,0 +1,69 @@
+{
+  "productName": "Kit de réparation, flasque de boîte de vitesse manuelle",
+  "searchText": "Kit de réparation, flasque de boîte de vitesse manuelle",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:04:59.745Z",
+  "productId": 1609,
+  "arborescence": {
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Boîte de vitesses manuelle": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesses manuelle",
+          "level": 2,
+          "children": {
+            "Kit de réparation, flasque de boîte de vitesse manuelle": {
+              "categoryId": 100239,
+              "categoryName": "Manual Transmission",
+              "level": 2,
+              "children": {
+                "Réparation/entretien": {
+                  "categoryId": null,
+                  "categoryName": "Réparation/entretien",
+                  "level": 4,
+                  "children": {
+                    "Kit de réparation, flasque de boîte de vitesse manuelle": {
+                      "categoryId": 101809,
+                      "categoryName": "Repair/Maintenance",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1609
+                    }
+                  }
+                }
+              },
+              "productId": 1609
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Boîte de vitesses [ID: 100238] (Niveau 1)\n    └── Boîte de vitesses manuelle (Niveau 2)\n        └── Manual Transmission [ID: 100239] (Niveau 2) → ProductId: 1609\n            └── Réparation/entretien (Niveau 4)\n                └── Repair/Maintenance [ID: 101809] (Niveau 3) → ProductId: 1609",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesses manuelle",
+        "Manual Transmission"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        100239
+      ],
+      "finalCategoryId": 100239,
+      "productId": 1609
+    }
+  ],
+  "productIdsInArbo": [
+    1609
+  ],
+  "matchedProductIds": [
+    1609
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Pompe à eau additionnelle, chauffage auxiliaire",
+  "searchText": "Pompe à eau additionnelle, chauffage auxiliaire",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:01:32.795Z",
+  "productId": 60347,
+  "arborescence": {
+    "Chauffage / Ventilation": {
+      "categoryId": 100241,
+      "categoryName": "Chauffage / Ventilation",
+      "level": 1,
+      "children": {
+        "Pompe à eau additionnelle": {
+          "categoryId": null,
+          "categoryName": "Pompe à eau additionnelle",
+          "level": 2,
+          "children": {
+            "Pompe à eau additionnelle, chauffage auxiliaire": {
+              "categoryId": 706407,
+              "categoryName": "Auxiliary Water Pump",
+              "level": 2,
+              "children": [],
+              "productId": 60347
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Chauffage / Ventilation [ID: 100241] (Niveau 1)\n    └── Pompe à eau additionnelle (Niveau 2)\n        └── Auxiliary Water Pump [ID: 706407] (Niveau 2) → ProductId: 60347",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Chauffage / Ventilation",
+        "Pompe à eau additionnelle",
+        "Auxiliary Water Pump"
+      ],
+      "categoryIds": [
+        100241,
+        null,
+        706407
+      ],
+      "finalCategoryId": 706407,
+      "productId": 60347
+    }
+  ],
+  "productIdsInArbo": [
+    60347
+  ],
+  "matchedProductIds": [
+    60347
+  ]
+}

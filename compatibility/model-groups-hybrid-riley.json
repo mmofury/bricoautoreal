@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.468Z",
+  "manufacturer": "RILEY",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 1539,
+      "manufacturerName": "RILEY",
+      "groupKey": "4/72",
+      "displayName": "4/72",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4467,
+          "modelName": "4/72",
+          "modelYearFrom": "1961-03-01",
+          "modelYearTo": "1968-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1539,
+      "manufacturerName": "RILEY",
+      "groupKey": "ELF",
+      "displayName": "ELF",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4465,
+          "modelName": "ELF",
+          "modelYearFrom": "1961-01-01",
+          "modelYearTo": "1968-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1539,
+      "manufacturerName": "RILEY",
+      "groupKey": "KESTREL",
+      "displayName": "KESTREL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4466,
+          "modelName": "KESTREL",
+          "modelYearFrom": "1965-03-01",
+          "modelYearTo": "1969-12-01"
+        }
+      ]
+    }
+  ]
+}

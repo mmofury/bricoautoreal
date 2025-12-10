@@ -1,0 +1,54 @@
+{
+  "productName": "Poignet de porte, équipment intérieur",
+  "searchText": "Poignet de porte, équipment intérieur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T06:59:54.239Z",
+  "productId": 3719,
+  "arborescence": {
+    "Équipement intérieur": {
+      "categoryId": 100341,
+      "categoryName": "Équipement intérieur",
+      "level": 1,
+      "children": {
+        "Poignées": {
+          "categoryId": null,
+          "categoryName": "Poignées",
+          "level": 2,
+          "children": {
+            "Poignet de porte, équipment intérieur": {
+              "categoryId": 102694,
+              "categoryName": "Handles",
+              "level": 2,
+              "children": [],
+              "productId": 3719
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Équipement intérieur [ID: 100341] (Niveau 1)\n    └── Poignées (Niveau 2)\n        └── Handles [ID: 102694] (Niveau 2) → ProductId: 3719",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Équipement intérieur",
+        "Poignées",
+        "Handles"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102694
+      ],
+      "finalCategoryId": 102694,
+      "productId": 3719
+    }
+  ],
+  "productIdsInArbo": [
+    3719
+  ],
+  "matchedProductIds": [
+    3719
+  ]
+}

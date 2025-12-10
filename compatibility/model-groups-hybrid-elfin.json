@@ -1,0 +1,49 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.251Z",
+  "manufacturer": "ELFIN",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 8264,
+      "manufacturerName": "ELFIN",
+      "groupKey": "MS8",
+      "displayName": "MS8",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45905,
+          "modelName": "MS8 CLUBMAN (MS8)",
+          "modelYearFrom": "2005-01-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 45906,
+          "modelName": "MS8 STREAMLINER (MS8)",
+          "modelYearFrom": "2005-07-01",
+          "modelYearTo": "2010-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 8264,
+      "manufacturerName": "ELFIN",
+      "groupKey": "TYPE",
+      "displayName": "TYPE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45903,
+          "modelName": "TYPE 3 CLUBMAN (T3)",
+          "modelYearFrom": "1999-03-01",
+          "modelYearTo": "2007-01-01"
+        },
+        {
+          "modelId": 45904,
+          "modelName": "TYPE 5 CLUBMAN (T5)",
+          "modelYearFrom": "2008-12-01",
+          "modelYearTo": "2010-12-01"
+        }
+      ]
+    }
+  ]
+}

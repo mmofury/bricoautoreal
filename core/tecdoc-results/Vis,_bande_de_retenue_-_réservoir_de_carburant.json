@@ -1,0 +1,218 @@
+{
+  "productName": "Vis, bande de retenue - réservoir de carburant",
+  "searchText": "Vis, bande de retenue - réservoir de carburant",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:34:26.481Z",
+  "productId": 4088,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Réservoir de carburant / accessoires": {
+          "categoryId": null,
+          "categoryName": "Réservoir de carburant / accessoires",
+          "level": 2,
+          "children": {
+            "Vis, bande de retenue - réservoir de carburant": {
+              "categoryId": 100250,
+              "categoryName": "Fuel Tank/Accessories",
+              "level": 2,
+              "children": [],
+              "productId": 4088
+            }
+          }
+        }
+      }
+    },
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Arrière de la voiture": {
+          "categoryId": null,
+          "categoryName": "Arrière de la voiture",
+          "level": 2,
+          "children": {
+            "Vis, bande de retenue - réservoir de carburant": {
+              "categoryId": 101705,
+              "categoryName": "Vehicle Rear",
+              "level": 2,
+              "children": {
+                "Réservoir de carburant/composants": {
+                  "categoryId": null,
+                  "categoryName": "Réservoir de carburant/composants",
+                  "level": 4,
+                  "children": {
+                    "Vis, bande de retenue - réservoir de carburant": {
+                      "categoryId": 101763,
+                      "categoryName": "Fuel Tank/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4088
+                    }
+                  }
+                }
+              },
+              "productId": 4088
+            }
+          }
+        },
+        "Avant du véhicule": {
+          "categoryId": null,
+          "categoryName": "Avant du véhicule",
+          "level": 2,
+          "children": {
+            "Vis, bande de retenue - réservoir de carburant": {
+              "categoryId": 101648,
+              "categoryName": "Vehicle Front",
+              "level": 2,
+              "children": {
+                "Réservoir de carburant/composants": {
+                  "categoryId": null,
+                  "categoryName": "Réservoir de carburant/composants",
+                  "level": 4,
+                  "children": {
+                    "Vis, bande de retenue - réservoir de carburant": {
+                      "categoryId": 101651,
+                      "categoryName": "Fuel Tank/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4088
+                    }
+                  }
+                }
+              },
+              "productId": 4088
+            }
+          }
+        },
+        "Habitacle": {
+          "categoryId": null,
+          "categoryName": "Habitacle",
+          "level": 2,
+          "children": {
+            "Vis, bande de retenue - réservoir de carburant": {
+              "categoryId": 101690,
+              "categoryName": "Passenger Cabin",
+              "level": 2,
+              "children": {
+                "Réservoir de carburant/composants": {
+                  "categoryId": null,
+                  "categoryName": "Réservoir de carburant/composants",
+                  "level": 4,
+                  "children": {
+                    "Vis, bande de retenue - réservoir de carburant": {
+                      "categoryId": 101760,
+                      "categoryName": "Fuel Tank/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4088
+                    }
+                  }
+                }
+              },
+              "productId": 4088
+            }
+          }
+        },
+        "Réservoir de carburant/composants": {
+          "categoryId": null,
+          "categoryName": "Réservoir de carburant/composants",
+          "level": 2,
+          "children": {
+            "Vis, bande de retenue - réservoir de carburant": {
+              "categoryId": 100216,
+              "categoryName": "Fuel Tank/Parts",
+              "level": 2,
+              "children": [],
+              "productId": 4088
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Alimentation carburant [ID: 100214] (Niveau 1)\n│   └── Réservoir de carburant / accessoires (Niveau 2)\n│       └── Fuel Tank/Accessories [ID: 100250] (Niveau 2) → ProductId: 4088\n\n└── Carrosserie [ID: 100001] (Niveau 1)\n    ├── Arrière de la voiture (Niveau 2)\n    │   └── Vehicle Rear [ID: 101705] (Niveau 2) → ProductId: 4088\n    │       └── Réservoir de carburant/composants (Niveau 4)\n    │           └── Fuel Tank/Parts [ID: 101763] (Niveau 3) → ProductId: 4088\n    ├── Avant du véhicule (Niveau 2)\n    │   └── Vehicle Front [ID: 101648] (Niveau 2) → ProductId: 4088\n    │       └── Réservoir de carburant/composants (Niveau 4)\n    │           └── Fuel Tank/Parts [ID: 101651] (Niveau 3) → ProductId: 4088\n    ├── Habitacle (Niveau 2)\n    │   └── Passenger Cabin [ID: 101690] (Niveau 2) → ProductId: 4088\n    │       └── Réservoir de carburant/composants (Niveau 4)\n    │           └── Fuel Tank/Parts [ID: 101760] (Niveau 3) → ProductId: 4088\n    └── Réservoir de carburant/composants (Niveau 2)\n        └── Fuel Tank/Parts [ID: 100216] (Niveau 2) → ProductId: 4088",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Réservoir de carburant / accessoires",
+        "Fuel Tank/Accessories"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100250
+      ],
+      "finalCategoryId": 100250,
+      "productId": 4088
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Vehicle Rear"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101705
+      ],
+      "finalCategoryId": 101705,
+      "productId": 4088
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Avant du véhicule",
+        "Vehicle Front"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101648
+      ],
+      "finalCategoryId": 101648,
+      "productId": 4088
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Habitacle",
+        "Passenger Cabin"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101690
+      ],
+      "finalCategoryId": 101690,
+      "productId": 4088
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Réservoir de carburant/composants",
+        "Fuel Tank/Parts"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100216
+      ],
+      "finalCategoryId": 100216,
+      "productId": 4088
+    }
+  ],
+  "productIdsInArbo": [
+    4088
+  ],
+  "matchedProductIds": [
+    4088
+  ]
+}

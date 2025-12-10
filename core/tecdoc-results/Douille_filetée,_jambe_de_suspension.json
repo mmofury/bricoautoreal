@@ -1,0 +1,69 @@
+{
+  "productName": "Douille filetée, jambe de suspension",
+  "searchText": "Douille filetée, jambe de suspension",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:33:44.145Z",
+  "productId": 1613,
+  "arborescence": {
+    "Suspension/Amortissement": {
+      "categoryId": 100011,
+      "categoryName": "Suspension/Amortissement",
+      "level": 1,
+      "children": {
+        "Jambe de suspension/Amortisseur/Pièces d'assemblage": {
+          "categoryId": null,
+          "categoryName": "Jambe de suspension/Amortisseur/Pièces d'assemblage",
+          "level": 2,
+          "children": {
+            "Douille filetée, jambe de suspension": {
+              "categoryId": 100381,
+              "categoryName": "Suspension Strut/Shock Absorber/Parts",
+              "level": 2,
+              "children": {
+                "Pièces de montage": {
+                  "categoryId": null,
+                  "categoryName": "Pièces de montage",
+                  "level": 4,
+                  "children": {
+                    "Douille filetée, jambe de suspension": {
+                      "categoryId": 100372,
+                      "categoryName": "Assembly Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1613
+                    }
+                  }
+                }
+              },
+              "productId": 1613
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Suspension/Amortissement [ID: 100011] (Niveau 1)\n    └── Jambe de suspension/Amortisseur/Pièces d'assemblage (Niveau 2)\n        └── Suspension Strut/Shock Absorber/Parts [ID: 100381] (Niveau 2) → ProductId: 1613\n            └── Pièces de montage (Niveau 4)\n                └── Assembly Parts [ID: 100372] (Niveau 3) → ProductId: 1613",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Jambe de suspension/Amortisseur/Pièces d'assemblage",
+        "Suspension Strut/Shock Absorber/Parts"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        100381
+      ],
+      "finalCategoryId": 100381,
+      "productId": 1613
+    }
+  ],
+  "productIdsInArbo": [
+    1613
+  ],
+  "matchedProductIds": [
+    1613
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "productName": "Rondelle d'étanchéité, dessicateur",
+  "productId": 1747,
+  "searchText": "Rondelle d'étanchéité, dessicateur",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Système pneumatique": {
+          "categoryId": 200059,
+          "categoryName": "Système pneumatique",
+          "level": 1,
+          "children": {
+            "Dessicateur d'air / cartouche": {
+              "categoryId": null,
+              "categoryName": "Dessicateur d'air / cartouche",
+              "level": 2,
+              "children": {
+                "Rondelle d'étanchéité, dessicateur": {
+                  "categoryId": 200112,
+                  "categoryName": "Air Dryer/Cartridge",
+                  "level": 2,
+                  "children": [],
+                  "productId": 1747
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système pneumatique [ID: 200059] (Niveau 1)\n    └── Dessicateur d'air / cartouche (Niveau 2)\n        └── Air Dryer/Cartridge [ID: 200112] (Niveau 2) → ProductId: 1747",
+      "productIdsInArbo": [
+        1747
+      ],
+      "matchedProductIds": [
+        1747
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:26:08.110Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

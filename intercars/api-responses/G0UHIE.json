@@ -1,0 +1,49 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G0UHIE",
+      "index": "TPM1000",
+      "tecDoc": "TPM1000",
+      "tecDocProd": "39",
+      "articleNumber": "TPM1000",
+      "brand": "TEXTAR",
+      "shortDescription": "Bolts/Screws Assortment",
+      "description": "Brake disc fitting bolt front/rear (M10x1,25x19,4, thread length 17mm)",
+      "customsCode": "73181595",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1484",
+          "primary": false,
+          "name": {
+            "en": "Screw"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_2256",
+          "primary": true,
+          "name": {
+            "en": "Bolts/Screws Assortment"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_5314",
+          "primary": false,
+          "name": {
+            "en": "Screw Set, brake disc"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_54",
+          "primary": false,
+          "name": {
+            "en": "Bolt, brake disc"
+          }
+        }
+      ]
+    }
+  ]
+}

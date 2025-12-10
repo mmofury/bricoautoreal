@@ -1,0 +1,84 @@
+{
+  "productName": "Chaîne, arbre intermédiaire",
+  "searchText": "Chaîne, arbre intermédiaire",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:19:34.758Z",
+  "productId": 1634,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Distribution moteur": {
+          "categoryId": null,
+          "categoryName": "Distribution moteur",
+          "level": 2,
+          "children": {
+            "Chaîne, arbre intermédiaire": {
+              "categoryId": 100003,
+              "categoryName": "Engine Timing",
+              "level": 2,
+              "children": {
+                "Chaîne de distribution/tension/guidage": {
+                  "categoryId": null,
+                  "categoryName": "Chaîne de distribution/tension/guidage",
+                  "level": 4,
+                  "children": {
+                    "Chaîne, arbre intermédiaire": {
+                      "categoryId": 100403,
+                      "categoryName": "Timing Chain/Tensioner/Guide",
+                      "level": 3,
+                      "children": {
+                        "Chaîne de distribution": {
+                          "categoryId": null,
+                          "categoryName": "Chaîne de distribution",
+                          "level": 6,
+                          "children": {
+                            "Chaîne, arbre intermédiaire": {
+                              "categoryId": 100411,
+                              "categoryName": "Timing Chain",
+                              "level": 4,
+                              "children": [],
+                              "productId": 1634
+                            }
+                          }
+                        }
+                      },
+                      "productId": 1634
+                    }
+                  }
+                }
+              },
+              "productId": 1634
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Distribution moteur (Niveau 2)\n        └── Engine Timing [ID: 100003] (Niveau 2) → ProductId: 1634\n            └── Chaîne de distribution/tension/guidage (Niveau 4)\n                └── Timing Chain/Tensioner/Guide [ID: 100403] (Niveau 3) → ProductId: 1634\n                    └── Chaîne de distribution (Niveau 6)\n                        └── Timing Chain [ID: 100411] (Niveau 4) → ProductId: 1634",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Engine Timing"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100003
+      ],
+      "finalCategoryId": 100003,
+      "productId": 1634
+    }
+  ],
+  "productIdsInArbo": [
+    1634
+  ],
+  "matchedProductIds": [
+    1634
+  ]
+}

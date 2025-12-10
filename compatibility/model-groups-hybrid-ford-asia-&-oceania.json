@@ -1,0 +1,538 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.277Z",
+  "manufacturer": "FORD ASIA & OCEANIA",
+  "countGroups": 25,
+  "groups": [
+    {
+      "manufacturerId": 2864,
+      "manufacturerName": "FORD ASIA & OCEANIA",
+      "groupKey": "AZTEC",
+      "displayName": "AZTEC",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5734,
+          "modelName": "AZTEC (BM_2)",
+          "modelYearFrom": "1993-08-01",
+          "modelYearTo": "1995-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2864,
+      "manufacturerName": "FORD ASIA & OCEANIA",
+      "groupKey": "COURIER",
+      "displayName": "COURIER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5739,
+          "modelName": "COURIER Pick-up (UF_, UN_)",
+          "modelYearFrom": "1993-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11310,
+          "modelName": "COURIER Camion plate-forme/Châssis",
+          "modelYearFrom": "1985-01-01",
+          "modelYearTo": "1998-12-01"
+        },
+        {
+          "modelId": 11347,
+          "modelName": "COURIER Camion plate-forme/Châssis",
+          "modelYearFrom": "1971-01-01",
+          "modelYearTo": "1977-01-01"
+        },
+        {
+          "modelId": 11348,
+          "modelName": "COURIER",
+          "modelYearFrom": "1977-01-01",
+          "modelYearTo": "1985-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2864,
+      "manufacturerName": "FORD ASIA & OCEANIA",
+      "groupKey": "ECONOVAN",
+      "displayName": "ECONOVAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5741,
+          "modelName": "ECONOVAN Autobus/Autocar",
+          "modelYearFrom": "1987-11-01",
+          "modelYearTo": "1999-09-01"
+        },
+        {
+          "modelId": 5743,
+          "modelName": "ECONOVAN Fourgon",
+          "modelYearFrom": "1983-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14154,
+          "modelName": "ECONOVAN Autobus/Autocar",
+          "modelYearFrom": "1999-10-01",
+          "modelYearTo": "2006-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2864,
+      "manufacturerName": "FORD ASIA & OCEANIA",
+      "groupKey": "ESCAPE",
+      "displayName": "ESCAPE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41568,
+          "modelName": "ESCAPE",
+          "modelYearFrom": "2001-01-01",
+          "modelYearTo": "2015-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2864,
+      "manufacturerName": "FORD ASIA & OCEANIA",
+      "groupKey": "ESCORT",
+      "displayName": "ESCORT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39352,
+          "modelName": "ESCORT",
+          "modelYearFrom": "2017-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2864,
+      "manufacturerName": "FORD ASIA & OCEANIA",
+      "groupKey": "EVEREST",
+      "displayName": "EVEREST",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5745,
+          "modelName": "EVEREST (25N_)",
+          "modelYearFrom": "2003-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 36258,
+          "modelName": "EVEREST",
+          "modelYearFrom": "2015-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43118,
+          "modelName": "EVEREST III SUV",
+          "modelYearFrom": "2022-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2864,
+      "manufacturerName": "FORD ASIA & OCEANIA",
+      "groupKey": "FALCON",
+      "displayName": "FALCON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5758,
+          "modelName": "FALCON (BF5_, P54, R54_)",
+          "modelYearFrom": "1989-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2864,
+      "manufacturerName": "FORD ASIA & OCEANIA",
+      "groupKey": "FESTIVA",
+      "displayName": "FESTIVA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5763,
+          "modelName": "FESTIVA (BA_2, BJ_2)",
+          "modelYearFrom": "1990-11-01",
+          "modelYearTo": "2004-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2864,
+      "manufacturerName": "FORD ASIA & OCEANIA",
+      "groupKey": "FIESTA",
+      "displayName": "FIESTA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8943,
+          "modelName": "FIESTA A trois volumes",
+          "modelYearFrom": "2005-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 8944,
+          "modelName": "FIESTA A trois volumes",
+          "modelYearFrom": "2009-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2864,
+      "manufacturerName": "FORD ASIA & OCEANIA",
+      "groupKey": "FIGO",
+      "displayName": "FIGO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8643,
+          "modelName": "FIGO I",
+          "modelYearFrom": "2010-01-01",
+          "modelYearTo": "2015-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2864,
+      "manufacturerName": "FORD ASIA & OCEANIA",
+      "groupKey": "FOCUS",
+      "displayName": "FOCUS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38322,
+          "modelName": "FOCUS III A trois volumes (DYM)",
+          "modelYearFrom": "2011-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2864,
+      "manufacturerName": "FORD ASIA & OCEANIA",
+      "groupKey": "FREDA",
+      "displayName": "FREDA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5764,
+          "modelName": "FREDA Fourgon (FSR1)",
+          "modelYearFrom": "1992-02-01",
+          "modelYearTo": "2001-10-01"
+        },
+        {
+          "modelId": 13328,
+          "modelName": "FREDA Autobus/Autocar (KH-SGLWF, KH-SGLW3F, KH-SGL5F)",
+          "modelYearFrom": "1992-02-01",
+          "modelYearTo": "2002-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2864,
+      "manufacturerName": "FORD ASIA & OCEANIA",
+      "groupKey": "I",
+      "displayName": "I",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13335,
+          "modelName": "I-MAX Monospace",
+          "modelYearFrom": "2007-02-01",
+          "modelYearTo": "2011-02-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2864,
+      "manufacturerName": "FORD ASIA & OCEANIA",
+      "groupKey": "IKON",
+      "displayName": "IKON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5766,
+          "modelName": "IKON (L)",
+          "modelYearFrom": "1999-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2864,
+      "manufacturerName": "FORD ASIA & OCEANIA",
+      "groupKey": "LASER",
+      "displayName": "LASER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5768,
+          "modelName": "LASER Berline bicorps trois ou cinq portes (BA_3, BF_3, BF_4",
+          "modelYearFrom": "1986-05-01",
+          "modelYearTo": "2003-11-01"
+        },
+        {
+          "modelId": 5771,
+          "modelName": "LASER / LASER LIDEA (BA_2, BA_3, BA_4, BJ_2)",
+          "modelYearFrom": "1994-06-01",
+          "modelYearTo": "2003-11-01"
+        },
+        {
+          "modelId": 13491,
+          "modelName": "LASER LIDEA Break",
+          "modelYearFrom": "1998-12-01",
+          "modelYearTo": "2001-06-01"
+        },
+        {
+          "modelId": 41913,
+          "modelName": "LASER",
+          "modelYearFrom": "1989-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2864,
+      "manufacturerName": "FORD ASIA & OCEANIA",
+      "groupKey": "LIATA",
+      "displayName": "LIATA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5774,
+          "modelName": "LIATA Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1994-05-01",
+          "modelYearTo": "1997-06-01"
+        },
+        {
+          "modelId": 5775,
+          "modelName": "LIATA (BJ_2, BN_2)",
+          "modelYearFrom": "1994-05-01",
+          "modelYearTo": "2001-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2864,
+      "manufacturerName": "FORD ASIA & OCEANIA",
+      "groupKey": "LYNX",
+      "displayName": "LYNX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5779,
+          "modelName": "LYNX Berline bicorps trois ou cinq portes (BJ_4M)",
+          "modelYearFrom": "1998-02-01",
+          "modelYearTo": "2001-09-01"
+        },
+        {
+          "modelId": 5780,
+          "modelName": "LYNX (BJ_2A, BJ_2P)",
+          "modelYearFrom": "1998-02-01",
+          "modelYearTo": "2002-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2864,
+      "manufacturerName": "FORD ASIA & OCEANIA",
+      "groupKey": "MAV",
+      "displayName": "MAV",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7433,
+          "modelName": "MAV",
+          "modelYearFrom": "2001-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2864,
+      "manufacturerName": "FORD ASIA & OCEANIA",
+      "groupKey": "PRONTO",
+      "displayName": "PRONTO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5782,
+          "modelName": "PRONTO Autobus/Autocar (DA_H)",
+          "modelYearFrom": "1990-06-01",
+          "modelYearTo": "2001-10-01"
+        },
+        {
+          "modelId": 5783,
+          "modelName": "PRONTO Fourgon (DA_V)",
+          "modelYearFrom": "1990-06-01",
+          "modelYearTo": "2001-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2864,
+      "manufacturerName": "FORD ASIA & OCEANIA",
+      "groupKey": "RANGER",
+      "displayName": "RANGER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38136,
+          "modelName": "RANGER Camion plate-forme/Châssis (PX)",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38764,
+          "modelName": "RANGER Pick-up (PK, PJ)",
+          "modelYearFrom": "2005-06-01",
+          "modelYearTo": "2011-12-01"
+        },
+        {
+          "modelId": 39273,
+          "modelName": "RANGER (PX)",
+          "modelYearFrom": "2011-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43113,
+          "modelName": "RANGER IV (RA)",
+          "modelYearFrom": "2022-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43560,
+          "modelName": "RANGER IV Camion plate-forme/Châssis (RA)",
+          "modelYearFrom": "2022-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2864,
+      "manufacturerName": "FORD ASIA & OCEANIA",
+      "groupKey": "SPECTRON",
+      "displayName": "SPECTRON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5785,
+          "modelName": "SPECTRON Camion plate-forme/Châssis (SD_)",
+          "modelYearFrom": "1987-11-01",
+          "modelYearTo": "1997-05-01"
+        },
+        {
+          "modelId": 90170,
+          "modelName": "SPECTRON (SS_)",
+          "modelYearFrom": "1987-11-01",
+          "modelYearTo": "1997-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2864,
+      "manufacturerName": "FORD ASIA & OCEANIA",
+      "groupKey": "TELSTAR",
+      "displayName": "TELSTAR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5786,
+          "modelName": "TELSTAR Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1991-02-01",
+          "modelYearTo": "2000-05-01"
+        },
+        {
+          "modelId": 5787,
+          "modelName": "TELSTAR A trois volumes",
+          "modelYearFrom": "1991-02-01",
+          "modelYearTo": "2000-10-01"
+        },
+        {
+          "modelId": 5790,
+          "modelName": "TELSTAR Coupé (GE_)",
+          "modelYearFrom": "1991-08-01",
+          "modelYearTo": "1995-10-01"
+        },
+        {
+          "modelId": 13607,
+          "modelName": "TELSTAR A trois volumes",
+          "modelYearFrom": "1982-10-01",
+          "modelYearTo": "1987-06-01"
+        },
+        {
+          "modelId": 13609,
+          "modelName": "TELSTAR A trois volumes",
+          "modelYearFrom": "1987-07-01",
+          "modelYearTo": "1991-07-01"
+        },
+        {
+          "modelId": 13610,
+          "modelName": "TELSTAR Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1987-07-01",
+          "modelYearTo": "1991-07-01"
+        },
+        {
+          "modelId": 13611,
+          "modelName": "TELSTAR Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1982-10-01",
+          "modelYearTo": "1987-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2864,
+      "manufacturerName": "FORD ASIA & OCEANIA",
+      "groupKey": "TERRITORY",
+      "displayName": "TERRITORY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5791,
+          "modelName": "TERRITORY (AJ_, CA_)",
+          "modelYearFrom": "2003-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2864,
+      "manufacturerName": "FORD ASIA & OCEANIA",
+      "groupKey": "TIERRA",
+      "displayName": "TIERRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5792,
+          "modelName": "TIERRA (CA_)",
+          "modelYearFrom": "1998-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2864,
+      "manufacturerName": "FORD ASIA & OCEANIA",
+      "groupKey": "VIVID",
+      "displayName": "VIVID",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7434,
+          "modelName": "VIVID",
+          "modelYearFrom": "1997-11-01",
+          "modelYearTo": "2001-04-01"
+        }
+      ]
+    }
+  ]
+}

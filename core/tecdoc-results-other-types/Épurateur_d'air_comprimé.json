@@ -1,0 +1,49 @@
+{
+  "productName": "Épurateur d'air comprimé",
+  "productId": 338,
+  "searchText": "Épurateur d'air comprimé",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Système pneumatique": {
+          "categoryId": 200059,
+          "categoryName": "Système pneumatique",
+          "level": 1,
+          "children": {
+            "Nettoyeur d'air comprimé": {
+              "categoryId": null,
+              "categoryName": "Nettoyeur d'air comprimé",
+              "level": 2,
+              "children": {
+                "Épurateur d'air comprimé": {
+                  "categoryId": 200531,
+                  "categoryName": "Compressed-air Cleaner",
+                  "level": 2,
+                  "children": [],
+                  "productId": 338
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système pneumatique [ID: 200059] (Niveau 1)\n    └── Nettoyeur d'air comprimé (Niveau 2)\n        └── Compressed-air Cleaner [ID: 200531] (Niveau 2) → ProductId: 338",
+      "productIdsInArbo": [
+        338
+      ],
+      "matchedProductIds": [
+        338
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:49:33.784Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

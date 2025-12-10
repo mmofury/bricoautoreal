@@ -1,0 +1,67 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.307Z",
+  "manufacturer": "HANTENG",
+  "countGroups": 4,
+  "groups": [
+    {
+      "manufacturerId": 4610,
+      "manufacturerName": "HANTENG",
+      "groupKey": "ES01",
+      "displayName": "ES01",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41111,
+          "modelName": "ES01",
+          "modelYearFrom": "2019-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4610,
+      "manufacturerName": "HANTENG",
+      "groupKey": "V7",
+      "displayName": "V7",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39827,
+          "modelName": "V7",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4610,
+      "manufacturerName": "HANTENG",
+      "groupKey": "X5",
+      "displayName": "X5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38284,
+          "modelName": "X5",
+          "modelYearFrom": "2017-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4610,
+      "manufacturerName": "HANTENG",
+      "groupKey": "X7",
+      "displayName": "X7",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37187,
+          "modelName": "X7",
+          "modelYearFrom": "2016-09-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

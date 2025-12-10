@@ -1,0 +1,43 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.444Z",
+  "manufacturer": "PANOZ",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 1530,
+      "manufacturerName": "PANOZ",
+      "groupKey": "ESPERANTE",
+      "displayName": "ESPERANTE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33334,
+          "modelName": "ESPERANTE Décapotable",
+          "modelYearFrom": "2000-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 33335,
+          "modelName": "ESPERANTE Coupé",
+          "modelYearFrom": "2000-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1530,
+      "manufacturerName": "PANOZ",
+      "groupKey": "ROADSTER",
+      "displayName": "ROADSTER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4341,
+          "modelName": "ROADSTER",
+          "modelYearFrom": "1996-06-01",
+          "modelYearTo": "2000-12-01"
+        }
+      ]
+    }
+  ]
+}

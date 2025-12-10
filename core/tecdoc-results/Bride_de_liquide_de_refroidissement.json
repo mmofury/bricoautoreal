@@ -1,0 +1,230 @@
+{
+  "productName": "Bride de liquide de refroidissement",
+  "searchText": "Bride de liquide de refroidissement",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:11:51.825Z",
+  "productId": 3219,
+  "arborescence": {
+    "Entraînement hybride/électrique": {
+      "categoryId": 706209,
+      "categoryName": "Entraînement hybride/électrique",
+      "level": 1,
+      "children": {
+        "Refroidissement": {
+          "categoryId": null,
+          "categoryName": "Refroidissement",
+          "level": 2,
+          "children": {
+            "Bride de liquide de refroidissement": {
+              "categoryId": 706210,
+              "categoryName": "Cooling System",
+              "level": 2,
+              "children": {
+                "Tuyauterie et brides": {
+                  "categoryId": null,
+                  "categoryName": "Tuyauterie et brides",
+                  "level": 4,
+                  "children": {
+                    "Bride de liquide de refroidissement": {
+                      "categoryId": 706747,
+                      "categoryName": "Hoses/Pipes/Flanges",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3219
+                    }
+                  }
+                }
+              },
+              "productId": 3219
+            }
+          }
+        }
+      }
+    },
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Tuyauterie et brides": {
+          "categoryId": null,
+          "categoryName": "Tuyauterie et brides",
+          "level": 2,
+          "children": {
+            "Bouchon, bride de liquide de refroidissement": {
+              "categoryId": 100099,
+              "categoryName": "Hoses/Pipes/Flanges",
+              "level": 2,
+              "children": {
+                "Brides": {
+                  "categoryId": null,
+                  "categoryName": "Brides",
+                  "level": 4,
+                  "children": {
+                    "Bouchon, bride de liquide de refroidissement": {
+                      "categoryId": 100840,
+                      "categoryName": "Flanges",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2149
+                    }
+                  }
+                }
+              },
+              "productId": 2149
+            },
+            "Bride de liquide de refroidissement": {
+              "categoryId": 100099,
+              "categoryName": "Hoses/Pipes/Flanges",
+              "level": 2,
+              "children": {
+                "Brides": {
+                  "categoryId": null,
+                  "categoryName": "Brides",
+                  "level": 4,
+                  "children": {
+                    "Bride de liquide de refroidissement": {
+                      "categoryId": 100840,
+                      "categoryName": "Flanges",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3219
+                    }
+                  }
+                }
+              },
+              "productId": 3219
+            },
+            "Clip, bouchon pour bride de liquide de refroidissement": {
+              "categoryId": 100099,
+              "categoryName": "Hoses/Pipes/Flanges",
+              "level": 2,
+              "children": {
+                "Brides": {
+                  "categoryId": null,
+                  "categoryName": "Brides",
+                  "level": 4,
+                  "children": {
+                    "Clip, bouchon pour bride de liquide de refroidissement": {
+                      "categoryId": 100840,
+                      "categoryName": "Flanges",
+                      "level": 3,
+                      "children": [],
+                      "productId": 6312
+                    }
+                  }
+                }
+              },
+              "productId": 6312
+            },
+            "Joint, bride de liquide de refroidissement": {
+              "categoryId": 100099,
+              "categoryName": "Hoses/Pipes/Flanges",
+              "level": 2,
+              "children": {
+                "Brides": {
+                  "categoryId": null,
+                  "categoryName": "Brides",
+                  "level": 4,
+                  "children": {
+                    "Joint, bride de liquide de refroidissement": {
+                      "categoryId": 100840,
+                      "categoryName": "Flanges",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3248
+                    }
+                  }
+                }
+              },
+              "productId": 3248
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Entraînement hybride/électrique [ID: 706209] (Niveau 1)\n│   └── Refroidissement (Niveau 2)\n│       └── Cooling System [ID: 706210] (Niveau 2) → ProductId: 3219\n│           └── Tuyauterie et brides (Niveau 4)\n│               └── Hoses/Pipes/Flanges [ID: 706747] (Niveau 3) → ProductId: 3219\n\n└── Refroidissement [ID: 100007] (Niveau 1)\n    └── Tuyauterie et brides (Niveau 2)\n        ├── Hoses/Pipes/Flanges [ID: 100099] (Niveau 2) → ProductId: 2149\n        │   └── Brides (Niveau 4)\n        │       └── Flanges [ID: 100840] (Niveau 3) → ProductId: 2149\n        ├── Hoses/Pipes/Flanges [ID: 100099] (Niveau 2) → ProductId: 3219\n        │   └── Brides (Niveau 4)\n        │       └── Flanges [ID: 100840] (Niveau 3) → ProductId: 3219\n        ├── Hoses/Pipes/Flanges [ID: 100099] (Niveau 2) → ProductId: 6312\n        │   └── Brides (Niveau 4)\n        │       └── Flanges [ID: 100840] (Niveau 3) → ProductId: 6312\n        └── Hoses/Pipes/Flanges [ID: 100099] (Niveau 2) → ProductId: 3248\n            └── Brides (Niveau 4)\n                └── Flanges [ID: 100840] (Niveau 3) → ProductId: 3248",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement hybride/électrique",
+        "Refroidissement",
+        "Cooling System"
+      ],
+      "categoryIds": [
+        706209,
+        null,
+        706210
+      ],
+      "finalCategoryId": 706210,
+      "productId": 3219
+    },
+    {
+      "path": [
+        "Refroidissement",
+        "Tuyauterie et brides",
+        "Hoses/Pipes/Flanges"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100099
+      ],
+      "finalCategoryId": 100099,
+      "productId": 2149
+    },
+    {
+      "path": [
+        "Refroidissement",
+        "Tuyauterie et brides",
+        "Hoses/Pipes/Flanges"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100099
+      ],
+      "finalCategoryId": 100099,
+      "productId": 3219
+    },
+    {
+      "path": [
+        "Refroidissement",
+        "Tuyauterie et brides",
+        "Hoses/Pipes/Flanges"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100099
+      ],
+      "finalCategoryId": 100099,
+      "productId": 6312
+    },
+    {
+      "path": [
+        "Refroidissement",
+        "Tuyauterie et brides",
+        "Hoses/Pipes/Flanges"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100099
+      ],
+      "finalCategoryId": 100099,
+      "productId": 3248
+    }
+  ],
+  "productIdsInArbo": [
+    2149,
+    3219,
+    3248,
+    6312
+  ],
+  "matchedProductIds": [
+    3219
+  ]
+}

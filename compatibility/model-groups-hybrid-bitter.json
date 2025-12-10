@@ -1,0 +1,58 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.189Z",
+  "manufacturer": "BITTER",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 1486,
+      "manufacturerName": "BITTER",
+      "groupKey": "CD",
+      "displayName": "CD",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37511,
+          "modelName": "CD Coupé",
+          "modelYearFrom": "1973-03-01",
+          "modelYearTo": "1979-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1486,
+      "manufacturerName": "BITTER",
+      "groupKey": "SC",
+      "displayName": "SC",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37509,
+          "modelName": "SC Décapotable",
+          "modelYearFrom": "1981-08-01",
+          "modelYearTo": "1989-12-01"
+        },
+        {
+          "modelId": 37510,
+          "modelName": "SC Coupé",
+          "modelYearFrom": "1979-08-01",
+          "modelYearTo": "1989-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1486,
+      "manufacturerName": "BITTER",
+      "groupKey": "TYPE",
+      "displayName": "TYPE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4228,
+          "modelName": "TYPE 3 Décapotable",
+          "modelYearFrom": "1987-02-01",
+          "modelYearTo": "1992-06-01"
+        }
+      ]
+    }
+  ]
+}

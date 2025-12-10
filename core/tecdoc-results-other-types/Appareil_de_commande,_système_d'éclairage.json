@@ -1,0 +1,166 @@
+{
+  "productName": "Appareil de commande, système d'éclairage",
+  "searchText": "Appareil de commande, système d'éclairage",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": false,
+      "arborescence": {
+        "Système électrique": {
+          "categoryId": 200064,
+          "categoryName": "Système électrique",
+          "level": 1,
+          "children": {
+            "Éclairage": {
+              "categoryId": null,
+              "categoryName": "Éclairage",
+              "level": 2,
+              "children": {
+                "Appareil de commande, système d'éclairage": {
+                  "categoryId": 200598,
+                  "categoryName": "Lights",
+                  "level": 2,
+                  "children": {
+                    "Unités / relais / de contrôle": {
+                      "categoryId": null,
+                      "categoryName": "Unités / relais / de contrôle",
+                      "level": 4,
+                      "children": {
+                        "Appareil de commande, système d'éclairage": {
+                          "categoryId": 200633,
+                          "categoryName": "Switches/Relay/Control Units",
+                          "level": 3,
+                          "children": [],
+                          "productId": 1387
+                        }
+                      }
+                    }
+                  },
+                  "productId": 1387
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système électrique [ID: 200064] (Niveau 1)\n    └── Éclairage (Niveau 2)\n        └── Lights [ID: 200598] (Niveau 2) → ProductId: 1387\n            └── Unités / relais / de contrôle (Niveau 4)\n                └── Switches/Relay/Control Units [ID: 200633] (Niveau 3) → ProductId: 1387",
+      "productIdsInArbo": [
+        1387
+      ]
+    },
+    {
+      "typeId": 3,
+      "found": true,
+      "hasMatch": false,
+      "arborescence": {
+        "Système électrique": {
+          "categoryId": 100010,
+          "categoryName": "Système électrique",
+          "level": 1,
+          "children": {
+            "Appareils de commande": {
+              "categoryId": null,
+              "categoryName": "Appareils de commande",
+              "level": 2,
+              "children": {
+                "Appareil de commande, système d'éclairage": {
+                  "categoryId": 100727,
+                  "categoryName": "Control Units",
+                  "level": 2,
+                  "children": [],
+                  "productId": 1387
+                }
+              }
+            },
+            "Interrupteur/Relais/Contrôle clignotant/Appareil d.commande": {
+              "categoryId": null,
+              "categoryName": "Interrupteur/Relais/Contrôle clignotant/Appareil d.commande",
+              "level": 2,
+              "children": {
+                "Appareil de commande, système d'éclairage": {
+                  "categoryId": 100307,
+                  "categoryName": "Light Switches/Relays/Controls",
+                  "level": 2,
+                  "children": {
+                    "Appareils de commande": {
+                      "categoryId": null,
+                      "categoryName": "Appareils de commande",
+                      "level": 4,
+                      "children": {
+                        "Appareil de commande, système d'éclairage": {
+                          "categoryId": 100724,
+                          "categoryName": "Controls",
+                          "level": 3,
+                          "children": [],
+                          "productId": 1387
+                        }
+                      }
+                    }
+                  },
+                  "productId": 1387
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    ├── Appareils de commande (Niveau 2)\n    │   └── Control Units [ID: 100727] (Niveau 2) → ProductId: 1387\n    └── Interrupteur/Relais/Contrôle clignotant/Appareil d.commande (Niveau 2)\n        └── Light Switches/Relays/Controls [ID: 100307] (Niveau 2) → ProductId: 1387\n            └── Appareils de commande (Niveau 4)\n                └── Controls [ID: 100724] (Niveau 3) → ProductId: 1387",
+      "productIdsInArbo": [
+        1387
+      ]
+    },
+    {
+      "typeId": 4,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 5,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 6,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 7,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 8,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 9,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 10,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 11,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 12,
+      "found": false,
+      "hasMatch": false
+    }
+  ],
+  "timestamp": "2025-12-03T09:43:24.962Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": false
+  }
+}

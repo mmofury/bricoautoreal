@@ -1,0 +1,82 @@
+{
+  "productName": "Manivelle de vitre",
+  "searchText": "Manivelle de vitre",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:14:03.156Z",
+  "productId": 2063,
+  "arborescence": {
+    "Équipement intérieur": {
+      "categoryId": 100341,
+      "categoryName": "Équipement intérieur",
+      "level": 1,
+      "children": {
+        "Lève-vitre": {
+          "categoryId": null,
+          "categoryName": "Lève-vitre",
+          "level": 2,
+          "children": {
+            "Manivelle de vitre": {
+              "categoryId": 102691,
+              "categoryName": "Window Regulator",
+              "level": 2,
+              "children": [],
+              "productId": 2063
+            }
+          }
+        },
+        "Leviers manuels / Leviers de pédale": {
+          "categoryId": null,
+          "categoryName": "Leviers manuels / Leviers de pédale",
+          "level": 2,
+          "children": {
+            "Manivelle de vitre": {
+              "categoryId": 102695,
+              "categoryName": "Hand/Foot Lever System",
+              "level": 2,
+              "children": [],
+              "productId": 2063
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Équipement intérieur [ID: 100341] (Niveau 1)\n    ├── Lève-vitre (Niveau 2)\n    │   └── Window Regulator [ID: 102691] (Niveau 2) → ProductId: 2063\n    └── Leviers manuels / Leviers de pédale (Niveau 2)\n        └── Hand/Foot Lever System [ID: 102695] (Niveau 2) → ProductId: 2063",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Équipement intérieur",
+        "Lève-vitre",
+        "Window Regulator"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102691
+      ],
+      "finalCategoryId": 102691,
+      "productId": 2063
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Leviers manuels / Leviers de pédale",
+        "Hand/Foot Lever System"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102695
+      ],
+      "finalCategoryId": 102695,
+      "productId": 2063
+    }
+  ],
+  "productIdsInArbo": [
+    2063
+  ],
+  "matchedProductIds": [
+    2063
+  ]
+}

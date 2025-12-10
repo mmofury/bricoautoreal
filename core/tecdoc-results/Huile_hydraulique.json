@@ -1,0 +1,791 @@
+{
+  "productName": "Huile hydraulique",
+  "searchText": "Huile hydraulique",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T20:44:39.305Z",
+  "productId": 1620,
+  "arborescence": {
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Boîte de vitesse automatique": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesse automatique",
+          "level": 2,
+          "children": {
+            "Filtre hydraulique, boîte automatique": {
+              "categoryId": 100240,
+              "categoryName": "Automatic Transmission",
+              "level": 2,
+              "children": {
+                "Contrôle / hydraulique": {
+                  "categoryId": null,
+                  "categoryName": "Contrôle / hydraulique",
+                  "level": 4,
+                  "children": {
+                    "Filtre hydraulique, boîte automatique": {
+                      "categoryId": 100776,
+                      "categoryName": "Transmission Control/Hydraulics",
+                      "level": 3,
+                      "children": [],
+                      "productId": 416
+                    }
+                  }
+                }
+              },
+              "productId": 416
+            },
+            "Radiateur d'huile de boîte automatique": {
+              "categoryId": 100240,
+              "categoryName": "Automatic Transmission",
+              "level": 2,
+              "children": {
+                "Contrôle / hydraulique": {
+                  "categoryId": null,
+                  "categoryName": "Contrôle / hydraulique",
+                  "level": 4,
+                  "children": {
+                    "Radiateur d'huile de boîte automatique": {
+                      "categoryId": 100776,
+                      "categoryName": "Transmission Control/Hydraulics",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1047
+                    }
+                  }
+                },
+                "Radiateur": {
+                  "categoryId": null,
+                  "categoryName": "Radiateur",
+                  "level": 4,
+                  "children": {
+                    "Radiateur d'huile de boîte automatique": {
+                      "categoryId": 103109,
+                      "categoryName": "Cooler",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1047
+                    }
+                  }
+                }
+              },
+              "productId": 1047
+            }
+          }
+        },
+        "Boîte de vitesses manuelle": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesses manuelle",
+          "level": 2,
+          "children": {
+            "Radiateur d'huile, boîte de vitesse manuelle": {
+              "categoryId": 100239,
+              "categoryName": "Manual Transmission",
+              "level": 2,
+              "children": {
+                "Contrôle / hydraulique": {
+                  "categoryId": null,
+                  "categoryName": "Contrôle / hydraulique",
+                  "level": 4,
+                  "children": {
+                    "Radiateur d'huile, boîte de vitesse manuelle": {
+                      "categoryId": 103103,
+                      "categoryName": "Transmission Control/Hydraulics",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4401
+                    }
+                  }
+                },
+                "Radiateur": {
+                  "categoryId": null,
+                  "categoryName": "Radiateur",
+                  "level": 4,
+                  "children": {
+                    "Radiateur d'huile, boîte de vitesse manuelle": {
+                      "categoryId": 103110,
+                      "categoryName": "Cooler",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4401
+                    }
+                  }
+                }
+              },
+              "productId": 4401
+            }
+          }
+        }
+      }
+    },
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Trappes/capots/portes/toit coul./toit panoram./toit pliant": {
+          "categoryId": null,
+          "categoryName": "Trappes/capots/portes/toit coul./toit panoram./toit pliant",
+          "level": 2,
+          "children": {
+            "Huile hydraulique, système de capote": {
+              "categoryId": 100746,
+              "categoryName": "Hatches/Bonnets/Doors/Sunroof/Panoramic Roof",
+              "level": 2,
+              "children": {
+                "Capots + pavillons/ composants": {
+                  "categoryId": null,
+                  "categoryName": "Capots + pavillons/ composants",
+                  "level": 4,
+                  "children": {
+                    "Huile hydraulique, système de capote": {
+                      "categoryId": 102414,
+                      "categoryName": "Convertible Top/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4811
+                    }
+                  }
+                },
+                "Toit pliant": {
+                  "categoryId": null,
+                  "categoryName": "Toit pliant",
+                  "level": 4,
+                  "children": {
+                    "Huile hydraulique, système de capote": {
+                      "categoryId": 102760,
+                      "categoryName": "Folding Roof",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4811
+                    }
+                  }
+                }
+              },
+              "productId": 4811
+            }
+          }
+        }
+      }
+    },
+    "Direction": {
+      "categoryId": 100012,
+      "categoryName": "Direction",
+      "level": 1,
+      "children": {
+        "Crémaillère de direction/pompe": {
+          "categoryId": null,
+          "categoryName": "Crémaillère de direction/pompe",
+          "level": 2,
+          "children": {
+            "Filtre hydraulique, direction": {
+              "categoryId": 100199,
+              "categoryName": "Steering Gear/Pump",
+              "level": 2,
+              "children": [],
+              "productId": 417
+            },
+            "Radiateur d'huile, direction": {
+              "categoryId": 100199,
+              "categoryName": "Steering Gear/Pump",
+              "level": 2,
+              "children": [],
+              "productId": 1048
+            }
+          }
+        },
+        "Filtre de direction": {
+          "categoryId": null,
+          "categoryName": "Filtre de direction",
+          "level": 2,
+          "children": {
+            "Filtre hydraulique, direction": {
+              "categoryId": 100591,
+              "categoryName": "Filter, power steering",
+              "level": 2,
+              "children": [],
+              "productId": 417
+            }
+          }
+        },
+        "Jauge d'huile": {
+          "categoryId": null,
+          "categoryName": "Jauge d'huile",
+          "level": 2,
+          "children": {
+            "Jauge, huile hydraulique": {
+              "categoryId": 102928,
+              "categoryName": "Oil Dipstick",
+              "level": 2,
+              "children": [],
+              "productId": 4085
+            }
+          }
+        },
+        "Radiateur d'huile": {
+          "categoryId": null,
+          "categoryName": "Radiateur d'huile",
+          "level": 2,
+          "children": {
+            "Radiateur d'huile, direction": {
+              "categoryId": 706083,
+              "categoryName": "Oil Cooler",
+              "level": 2,
+              "children": [],
+              "productId": 1048
+            }
+          }
+        },
+        "Vase d'expansion de l'huile hydraulique": {
+          "categoryId": null,
+          "categoryName": "Vase d'expansion de l'huile hydraulique",
+          "level": 2,
+          "children": {
+            "Bague d'étanchéité, couvercle vase d'expansion": {
+              "categoryId": 101857,
+              "categoryName": "Hydraulic Oil fluid reservoir",
+              "level": 2,
+              "children": [],
+              "productId": 4014
+            },
+            "Bouchon, réservoir de compensation-direction assistée": {
+              "categoryId": 101857,
+              "categoryName": "Hydraulic Oil fluid reservoir",
+              "level": 2,
+              "children": [],
+              "productId": 3790
+            },
+            "Capteur, niveau d'huile hydraulique (direction assistée)": {
+              "categoryId": 101857,
+              "categoryName": "Hydraulic Oil fluid reservoir",
+              "level": 2,
+              "children": [],
+              "productId": 60773
+            },
+            "Élément de fixation, cartouche de filtre - direct° assistée": {
+              "categoryId": 101857,
+              "categoryName": "Hydraulic Oil fluid reservoir",
+              "level": 2,
+              "children": [],
+              "productId": 4015
+            },
+            "filtre, purge (réserv. hydraulique du boîtier de direction)": {
+              "categoryId": 101857,
+              "categoryName": "Hydraulic Oil fluid reservoir",
+              "level": 2,
+              "children": [],
+              "productId": 7398
+            },
+            "Réservoir de comp., huile hydraulique (direction assistée)": {
+              "categoryId": 101857,
+              "categoryName": "Hydraulic Oil fluid reservoir",
+              "level": 2,
+              "children": [],
+              "productId": 3145
+            }
+          }
+        }
+      }
+    },
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Filtre": {
+          "categoryId": null,
+          "categoryName": "Filtre",
+          "level": 2,
+          "children": {
+            "Filtre hydraulique, liquide de freins": {
+              "categoryId": 100808,
+              "categoryName": "Filter",
+              "level": 2,
+              "children": [],
+              "productId": 535
+            }
+          }
+        }
+      }
+    },
+    "Embrayage / composants": {
+      "categoryId": 100050,
+      "categoryName": "Embrayage / composants",
+      "level": 1,
+      "children": {
+        "Filtre hydraulique d'embrayage": {
+          "categoryId": null,
+          "categoryName": "Filtre hydraulique d'embrayage",
+          "level": 2,
+          "children": {
+            "Filtre hydraulique, embrayage": {
+              "categoryId": 100264,
+              "categoryName": "Clutch Hydraulic Filter",
+              "level": 2,
+              "children": [],
+              "productId": 534
+            }
+          }
+        }
+      }
+    },
+    "Filtre": {
+      "categoryId": 100005,
+      "categoryName": "Filtre",
+      "level": 1,
+      "children": {
+        "Filtre hydraulique": {
+          "categoryId": null,
+          "categoryName": "Filtre hydraulique",
+          "level": 2,
+          "children": {
+            "Filtre hydraulique, boîte automatique": {
+              "categoryId": 706725,
+              "categoryName": "Hydraulic Filter",
+              "level": 2,
+              "children": [],
+              "productId": 416
+            },
+            "Filtre hydraulique, direction": {
+              "categoryId": 706725,
+              "categoryName": "Hydraulic Filter",
+              "level": 2,
+              "children": [],
+              "productId": 417
+            },
+            "Filtre hydraulique, embrayage": {
+              "categoryId": 706725,
+              "categoryName": "Hydraulic Filter",
+              "level": 2,
+              "children": [],
+              "productId": 534
+            },
+            "Filtre hydraulique, liquide de freins": {
+              "categoryId": 706725,
+              "categoryName": "Hydraulic Filter",
+              "level": 2,
+              "children": [],
+              "productId": 535
+            },
+            "filtre, purge (réserv. hydraulique du boîtier de direction)": {
+              "categoryId": 706725,
+              "categoryName": "Hydraulic Filter",
+              "level": 2,
+              "children": [],
+              "productId": 7398
+            }
+          }
+        }
+      }
+    },
+    "Pièces de maintenance": {
+      "categoryId": 100019,
+      "categoryName": "Pièces de maintenance",
+      "level": 1,
+      "children": {
+        "Intervalle": {
+          "categoryId": null,
+          "categoryName": "Intervalle",
+          "level": 2,
+          "children": {
+            "Filtre hydraulique, boîte automatique": {
+              "categoryId": 100597,
+              "categoryName": "Service Intervals",
+              "level": 2,
+              "children": [],
+              "productId": 416
+            },
+            "Filtre hydraulique, direction": {
+              "categoryId": 100597,
+              "categoryName": "Service Intervals",
+              "level": 2,
+              "children": [],
+              "productId": 417
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Boîte de vitesses [ID: 100238] (Niveau 1)\n│   ├── Boîte de vitesse automatique (Niveau 2)\n│   │   ├── Automatic Transmission [ID: 100240] (Niveau 2) → ProductId: 416\n│   │   │   └── Contrôle / hydraulique (Niveau 4)\n│   │   │       └── Transmission Control/Hydraulics [ID: 100776] (Niveau 3) → ProductId: 416\n│   │   └── Automatic Transmission [ID: 100240] (Niveau 2) → ProductId: 1047\n│   │       ├── Contrôle / hydraulique (Niveau 4)\n│   │       │   └── Transmission Control/Hydraulics [ID: 100776] (Niveau 3) → ProductId: 1047\n│   │       └── Radiateur (Niveau 4)\n│   │           └── Cooler [ID: 103109] (Niveau 3) → ProductId: 1047\n│   └── Boîte de vitesses manuelle (Niveau 2)\n│       └── Manual Transmission [ID: 100239] (Niveau 2) → ProductId: 4401\n│           ├── Contrôle / hydraulique (Niveau 4)\n│           │   └── Transmission Control/Hydraulics [ID: 103103] (Niveau 3) → ProductId: 4401\n│           └── Radiateur (Niveau 4)\n│               └── Cooler [ID: 103110] (Niveau 3) → ProductId: 4401\n\n├── Carrosserie [ID: 100001] (Niveau 1)\n│   └── Trappes/capots/portes/toit coul./toit panoram./toit pliant (Niveau 2)\n│       └── Hatches/Bonnets/Doors/Sunroof/Panoramic Roof [ID: 100746] (Niveau 2) → ProductId: 4811\n│           ├── Capots + pavillons/ composants (Niveau 4)\n│           │   └── Convertible Top/Parts [ID: 102414] (Niveau 3) → ProductId: 4811\n│           └── Toit pliant (Niveau 4)\n│               └── Folding Roof [ID: 102760] (Niveau 3) → ProductId: 4811\n\n├── Direction [ID: 100012] (Niveau 1)\n│   ├── Crémaillère de direction/pompe (Niveau 2)\n│   │   ├── Steering Gear/Pump [ID: 100199] (Niveau 2) → ProductId: 417\n│   │   └── Steering Gear/Pump [ID: 100199] (Niveau 2) → ProductId: 1048\n│   ├── Filtre de direction (Niveau 2)\n│   │   └── Filter, power steering [ID: 100591] (Niveau 2) → ProductId: 417\n│   ├── Jauge d'huile (Niveau 2)\n│   │   └── Oil Dipstick [ID: 102928] (Niveau 2) → ProductId: 4085\n│   ├── Radiateur d'huile (Niveau 2)\n│   │   └── Oil Cooler [ID: 706083] (Niveau 2) → ProductId: 1048\n│   └── Vase d'expansion de l'huile hydraulique (Niveau 2)\n│       ├── Hydraulic Oil fluid reservoir [ID: 101857] (Niveau 2) → ProductId: 4014\n│       ├── Hydraulic Oil fluid reservoir [ID: 101857] (Niveau 2) → ProductId: 3790\n│       ├── Hydraulic Oil fluid reservoir [ID: 101857] (Niveau 2) → ProductId: 60773\n│       ├── Hydraulic Oil fluid reservoir [ID: 101857] (Niveau 2) → ProductId: 4015\n│       ├── Hydraulic Oil fluid reservoir [ID: 101857] (Niveau 2) → ProductId: 7398\n│       └── Hydraulic Oil fluid reservoir [ID: 101857] (Niveau 2) → ProductId: 3145\n\n├── Dispositif de freinage [ID: 100006] (Niveau 1)\n│   └── Filtre (Niveau 2)\n│       └── Filter [ID: 100808] (Niveau 2) → ProductId: 535\n\n├── Embrayage / composants [ID: 100050] (Niveau 1)\n│   └── Filtre hydraulique d'embrayage (Niveau 2)\n│       └── Clutch Hydraulic Filter [ID: 100264] (Niveau 2) → ProductId: 534\n\n├── Filtre [ID: 100005] (Niveau 1)\n│   └── Filtre hydraulique (Niveau 2)\n│       ├── Hydraulic Filter [ID: 706725] (Niveau 2) → ProductId: 416\n│       ├── Hydraulic Filter [ID: 706725] (Niveau 2) → ProductId: 417\n│       ├── Hydraulic Filter [ID: 706725] (Niveau 2) → ProductId: 534\n│       ├── Hydraulic Filter [ID: 706725] (Niveau 2) → ProductId: 535\n│       └── Hydraulic Filter [ID: 706725] (Niveau 2) → ProductId: 7398\n\n└── Pièces de maintenance [ID: 100019] (Niveau 1)\n    └── Intervalle (Niveau 2)\n        ├── Service Intervals [ID: 100597] (Niveau 2) → ProductId: 416\n        └── Service Intervals [ID: 100597] (Niveau 2) → ProductId: 417",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesse automatique",
+        "Automatic Transmission"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        100240
+      ],
+      "finalCategoryId": 100240,
+      "productId": 416
+    },
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesse automatique",
+        "Automatic Transmission"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        100240
+      ],
+      "finalCategoryId": 100240,
+      "productId": 1047
+    },
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesses manuelle",
+        "Manual Transmission"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        100239
+      ],
+      "finalCategoryId": 100239,
+      "productId": 4401
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Trappes/capots/portes/toit coul./toit panoram./toit pliant",
+        "Hatches/Bonnets/Doors/Sunroof/Panoramic Roof"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100746
+      ],
+      "finalCategoryId": 100746,
+      "productId": 4811
+    },
+    {
+      "path": [
+        "Direction",
+        "Crémaillère de direction/pompe",
+        "Steering Gear/Pump"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        100199
+      ],
+      "finalCategoryId": 100199,
+      "productId": 417
+    },
+    {
+      "path": [
+        "Direction",
+        "Crémaillère de direction/pompe",
+        "Steering Gear/Pump"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        100199
+      ],
+      "finalCategoryId": 100199,
+      "productId": 1048
+    },
+    {
+      "path": [
+        "Direction",
+        "Filtre de direction",
+        "Filter, power steering"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        100591
+      ],
+      "finalCategoryId": 100591,
+      "productId": 417
+    },
+    {
+      "path": [
+        "Direction",
+        "Jauge d'huile",
+        "Oil Dipstick"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        102928
+      ],
+      "finalCategoryId": 102928,
+      "productId": 4085
+    },
+    {
+      "path": [
+        "Direction",
+        "Radiateur d'huile",
+        "Oil Cooler"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        706083
+      ],
+      "finalCategoryId": 706083,
+      "productId": 1048
+    },
+    {
+      "path": [
+        "Direction",
+        "Vase d'expansion de l'huile hydraulique",
+        "Hydraulic Oil fluid reservoir"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        101857
+      ],
+      "finalCategoryId": 101857,
+      "productId": 4014
+    },
+    {
+      "path": [
+        "Direction",
+        "Vase d'expansion de l'huile hydraulique",
+        "Hydraulic Oil fluid reservoir"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        101857
+      ],
+      "finalCategoryId": 101857,
+      "productId": 3790
+    },
+    {
+      "path": [
+        "Direction",
+        "Vase d'expansion de l'huile hydraulique",
+        "Hydraulic Oil fluid reservoir"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        101857
+      ],
+      "finalCategoryId": 101857,
+      "productId": 60773
+    },
+    {
+      "path": [
+        "Direction",
+        "Vase d'expansion de l'huile hydraulique",
+        "Hydraulic Oil fluid reservoir"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        101857
+      ],
+      "finalCategoryId": 101857,
+      "productId": 4015
+    },
+    {
+      "path": [
+        "Direction",
+        "Vase d'expansion de l'huile hydraulique",
+        "Hydraulic Oil fluid reservoir"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        101857
+      ],
+      "finalCategoryId": 101857,
+      "productId": 7398
+    },
+    {
+      "path": [
+        "Direction",
+        "Vase d'expansion de l'huile hydraulique",
+        "Hydraulic Oil fluid reservoir"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        101857
+      ],
+      "finalCategoryId": 101857,
+      "productId": 3145
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Filtre",
+        "Filter"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100808
+      ],
+      "finalCategoryId": 100808,
+      "productId": 535
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Filtre hydraulique d'embrayage",
+        "Clutch Hydraulic Filter"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100264
+      ],
+      "finalCategoryId": 100264,
+      "productId": 534
+    },
+    {
+      "path": [
+        "Filtre",
+        "Filtre hydraulique",
+        "Hydraulic Filter"
+      ],
+      "categoryIds": [
+        100005,
+        null,
+        706725
+      ],
+      "finalCategoryId": 706725,
+      "productId": 416
+    },
+    {
+      "path": [
+        "Filtre",
+        "Filtre hydraulique",
+        "Hydraulic Filter"
+      ],
+      "categoryIds": [
+        100005,
+        null,
+        706725
+      ],
+      "finalCategoryId": 706725,
+      "productId": 417
+    },
+    {
+      "path": [
+        "Filtre",
+        "Filtre hydraulique",
+        "Hydraulic Filter"
+      ],
+      "categoryIds": [
+        100005,
+        null,
+        706725
+      ],
+      "finalCategoryId": 706725,
+      "productId": 534
+    },
+    {
+      "path": [
+        "Filtre",
+        "Filtre hydraulique",
+        "Hydraulic Filter"
+      ],
+      "categoryIds": [
+        100005,
+        null,
+        706725
+      ],
+      "finalCategoryId": 706725,
+      "productId": 535
+    },
+    {
+      "path": [
+        "Filtre",
+        "Filtre hydraulique",
+        "Hydraulic Filter"
+      ],
+      "categoryIds": [
+        100005,
+        null,
+        706725
+      ],
+      "finalCategoryId": 706725,
+      "productId": 7398
+    },
+    {
+      "path": [
+        "Pièces de maintenance",
+        "Intervalle",
+        "Service Intervals"
+      ],
+      "categoryIds": [
+        100019,
+        null,
+        100597
+      ],
+      "finalCategoryId": 100597,
+      "productId": 416
+    },
+    {
+      "path": [
+        "Pièces de maintenance",
+        "Intervalle",
+        "Service Intervals"
+      ],
+      "categoryIds": [
+        100019,
+        null,
+        100597
+      ],
+      "finalCategoryId": 100597,
+      "productId": 417
+    }
+  ],
+  "productIdsInArbo": [
+    416,
+    417,
+    534,
+    535,
+    1047,
+    1048,
+    3145,
+    3790,
+    4014,
+    4015,
+    4085,
+    4401,
+    4811,
+    7398,
+    60773
+  ],
+  "closestProductIds": [
+    {
+      "productId": 416,
+      "productName": "Filtre hydraulique, boîte automatique"
+    },
+    {
+      "productId": 417,
+      "productName": "Filtre hydraulique, direction"
+    },
+    {
+      "productId": 534,
+      "productName": "Filtre hydraulique, embrayage"
+    },
+    {
+      "productId": 535,
+      "productName": "Filtre hydraulique, liquide de freins"
+    },
+    {
+      "productId": 1047,
+      "productName": "Radiateur d'huile de boîte automatique"
+    }
+  ]
+}

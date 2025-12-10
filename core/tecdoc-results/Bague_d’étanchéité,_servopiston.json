@@ -1,0 +1,69 @@
+{
+  "productName": "Bague d’étanchéité, servopiston",
+  "searchText": "Bague d’étanchéité, servopiston",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:05:05.203Z",
+  "productId": 8296,
+  "arborescence": {
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Boîte de vitesse automatique": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesse automatique",
+          "level": 2,
+          "children": {
+            "Bague d’étanchéité, servopiston": {
+              "categoryId": 100240,
+              "categoryName": "Automatic Transmission",
+              "level": 2,
+              "children": {
+                "Ruban de frein": {
+                  "categoryId": null,
+                  "categoryName": "Ruban de frein",
+                  "level": 4,
+                  "children": {
+                    "Bague d’étanchéité, servopiston": {
+                      "categoryId": 102215,
+                      "categoryName": "Brake Band",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8296
+                    }
+                  }
+                }
+              },
+              "productId": 8296
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Boîte de vitesses [ID: 100238] (Niveau 1)\n    └── Boîte de vitesse automatique (Niveau 2)\n        └── Automatic Transmission [ID: 100240] (Niveau 2) → ProductId: 8296\n            └── Ruban de frein (Niveau 4)\n                └── Brake Band [ID: 102215] (Niveau 3) → ProductId: 8296",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesse automatique",
+        "Automatic Transmission"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        100240
+      ],
+      "finalCategoryId": 100240,
+      "productId": 8296
+    }
+  ],
+  "productIdsInArbo": [
+    8296
+  ],
+  "matchedProductIds": [
+    8296
+  ]
+}

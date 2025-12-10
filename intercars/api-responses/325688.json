@@ -1,0 +1,43 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "325688",
+      "index": "HP102 891",
+      "tecDoc": "102 891",
+      "tecDocProd": "301",
+      "articleNumber": "102 891",
+      "brand": "HANS PRIES",
+      "shortDescription": "Clip",
+      "description": "Strip mounting",
+      "gtuCode": "GTU_07",
+      "eans": [
+        "8534950000053"
+      ],
+      "packageWeight": "0,002",
+      "packageWidth": "0,500",
+      "packageDepth": "1,000",
+      "packageHeight": "0,500",
+      "customsCode": "87082990",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1517",
+          "primary": true,
+          "name": {
+            "en": "Clip"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_6008",
+          "primary": false,
+          "name": {
+            "en": "Grommet"
+          }
+        }
+      ]
+    }
+  ]
+}

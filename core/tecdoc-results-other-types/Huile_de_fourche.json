@@ -1,0 +1,84 @@
+{
+  "productName": "Huile de fourche",
+  "productId": 5873,
+  "searchText": "Huile de fourche",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 3,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Moto": {
+          "categoryId": 103671,
+          "categoryName": "Moto",
+          "level": 1,
+          "children": {
+            "Suspension/Amortissement": {
+              "categoryId": null,
+              "categoryName": "Suspension/Amortissement",
+              "level": 2,
+              "children": {
+                "Huile de fourche": {
+                  "categoryId": 103895,
+                  "categoryName": "Suspension/Damping",
+                  "level": 2,
+                  "children": {
+                    "Fourche et éléments/pièces": {
+                      "categoryId": null,
+                      "categoryName": "Fourche et éléments/pièces",
+                      "level": 4,
+                      "children": {
+                        "Huile de fourche": {
+                          "categoryId": 103983,
+                          "categoryName": "Fork/Parts",
+                          "level": 3,
+                          "children": {
+                            "Huile de fourche": {
+                              "categoryId": null,
+                              "categoryName": "Huile de fourche",
+                              "level": 6,
+                              "children": {
+                                "Huile de fourche": {
+                                  "categoryId": 104410,
+                                  "categoryName": "Fork Oil",
+                                  "level": 4,
+                                  "children": [],
+                                  "productId": 5873
+                                }
+                              }
+                            }
+                          },
+                          "productId": 5873
+                        }
+                      }
+                    }
+                  },
+                  "productId": 5873
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Moto [ID: 103671] (Niveau 1)\n    └── Suspension/Amortissement (Niveau 2)\n        └── Suspension/Damping [ID: 103895] (Niveau 2) → ProductId: 5873\n            └── Fourche et éléments/pièces (Niveau 4)\n                └── Fork/Parts [ID: 103983] (Niveau 3) → ProductId: 5873\n                    └── Huile de fourche (Niveau 6)\n                        └── Fork Oil [ID: 104410] (Niveau 4) → ProductId: 5873",
+      "productIdsInArbo": [
+        5873
+      ],
+      "matchedProductIds": [
+        5873
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:34:49.283Z",
+  "bestMatch": {
+    "typeId": 3,
+    "found": true,
+    "hasMatch": true
+  }
+}

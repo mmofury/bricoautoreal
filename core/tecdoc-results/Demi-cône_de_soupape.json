@@ -1,0 +1,98 @@
+{
+  "productName": "Demi-cône de soupape",
+  "searchText": "Demi-cône de soupape",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:30:22.908Z",
+  "productId": 1271,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Distribution moteur": {
+          "categoryId": null,
+          "categoryName": "Distribution moteur",
+          "level": 2,
+          "children": {
+            "Demi-cône de soupape": {
+              "categoryId": 100003,
+              "categoryName": "Engine Timing",
+              "level": 2,
+              "children": {
+                "Soupape / réglage de soupape": {
+                  "categoryId": null,
+                  "categoryName": "Soupape / réglage de soupape",
+                  "level": 4,
+                  "children": {
+                    "Demi-cône de soupape": {
+                      "categoryId": 100422,
+                      "categoryName": "Valve Train",
+                      "level": 3,
+                      "children": {
+                        "Réglage de soupape": {
+                          "categoryId": null,
+                          "categoryName": "Réglage de soupape",
+                          "level": 6,
+                          "children": {
+                            "Demi-cône de soupape": {
+                              "categoryId": 100424,
+                              "categoryName": "Valve Actuation",
+                              "level": 4,
+                              "children": [],
+                              "productId": 1271
+                            }
+                          }
+                        },
+                        "Soupapes / accessoires": {
+                          "categoryId": null,
+                          "categoryName": "Soupapes / accessoires",
+                          "level": 6,
+                          "children": {
+                            "Demi-cône de soupape": {
+                              "categoryId": 100423,
+                              "categoryName": "Valves/Parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 1271
+                            }
+                          }
+                        }
+                      },
+                      "productId": 1271
+                    }
+                  }
+                }
+              },
+              "productId": 1271
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Distribution moteur (Niveau 2)\n        └── Engine Timing [ID: 100003] (Niveau 2) → ProductId: 1271\n            └── Soupape / réglage de soupape (Niveau 4)\n                └── Valve Train [ID: 100422] (Niveau 3) → ProductId: 1271\n                    ├── Réglage de soupape (Niveau 6)\n                    │   └── Valve Actuation [ID: 100424] (Niveau 4) → ProductId: 1271\n                    └── Soupapes / accessoires (Niveau 6)\n                        └── Valves/Parts [ID: 100423] (Niveau 4) → ProductId: 1271",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Engine Timing"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100003
+      ],
+      "finalCategoryId": 100003,
+      "productId": 1271
+    }
+  ],
+  "productIdsInArbo": [
+    1271
+  ],
+  "matchedProductIds": [
+    1271
+  ]
+}

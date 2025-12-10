@@ -1,0 +1,119 @@
+{
+  "productName": "Bague d'étanchéité système S.P.I., pompe d'injection",
+  "searchText": "Bague d'étanchéité système S.P.I., pompe d'injection",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:02:40.987Z",
+  "productId": 3968,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Bague d'étanchéité système S.P.I., pompe d'injection": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Joint": {
+                  "categoryId": null,
+                  "categoryName": "Joint",
+                  "level": 4,
+                  "children": {
+                    "Bague d'étanchéité système S.P.I., pompe d'injection": {
+                      "categoryId": 102795,
+                      "categoryName": "Seal",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3968
+                    }
+                  }
+                }
+              },
+              "productId": 3968
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Joints": {
+          "categoryId": null,
+          "categoryName": "Joints",
+          "level": 2,
+          "children": {
+            "Bague d'étanchéité système S.P.I., pompe d'injection": {
+              "categoryId": 100223,
+              "categoryName": "Gaskets",
+              "level": 2,
+              "children": {
+                "Joint de carburant": {
+                  "categoryId": null,
+                  "categoryName": "Joint de carburant",
+                  "level": 4,
+                  "children": {
+                    "Bague d'étanchéité système S.P.I., pompe d'injection": {
+                      "categoryId": 100682,
+                      "categoryName": "Fuel Circuit Seals",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3968
+                    }
+                  }
+                }
+              },
+              "productId": 3968
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carburation [ID: 100254] (Niveau 1)\n│   └── Mélange air-carburant (Niveau 2)\n│       └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 3968\n│           └── Joint (Niveau 4)\n│               └── Seal [ID: 102795] (Niveau 3) → ProductId: 3968\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Joints (Niveau 2)\n        └── Gaskets [ID: 100223] (Niveau 2) → ProductId: 3968\n            └── Joint de carburant (Niveau 4)\n                └── Fuel Circuit Seals [ID: 100682] (Niveau 3) → ProductId: 3968",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 3968
+    },
+    {
+      "path": [
+        "Moteur",
+        "Joints",
+        "Gaskets"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100223
+      ],
+      "finalCategoryId": 100223,
+      "productId": 3968
+    }
+  ],
+  "productIdsInArbo": [
+    3968
+  ],
+  "matchedProductIds": [
+    3968
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Capteur, Gestion des batteries",
+  "searchText": "Capteur, Gestion des batteries",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:15:24.361Z",
+  "productId": 4790,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Capteurs": {
+          "categoryId": null,
+          "categoryName": "Capteurs",
+          "level": 2,
+          "children": {
+            "Capteur, Gestion des batteries": {
+              "categoryId": 102747,
+              "categoryName": "Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 4790
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Capteurs (Niveau 2)\n        └── Sensors [ID: 102747] (Niveau 2) → ProductId: 4790",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Capteurs",
+        "Sensors"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        102747
+      ],
+      "finalCategoryId": 102747,
+      "productId": 4790
+    }
+  ],
+  "productIdsInArbo": [
+    4790
+  ],
+  "matchedProductIds": [
+    4790
+  ]
+}

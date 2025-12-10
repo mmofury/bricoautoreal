@@ -1,0 +1,69 @@
+{
+  "productName": "Disque d'entrainement, pompe à eau",
+  "searchText": "Disque d'entrainement, pompe à eau",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:32:13.937Z",
+  "productId": 4337,
+  "arborescence": {
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Pompe à eau / joint": {
+          "categoryId": null,
+          "categoryName": "Pompe à eau / joint",
+          "level": 2,
+          "children": {
+            "Disque d'entrainement, pompe à eau": {
+              "categoryId": 100088,
+              "categoryName": "Water Pump/Gasket",
+              "level": 2,
+              "children": {
+                "Pompe à eau": {
+                  "categoryId": null,
+                  "categoryName": "Pompe à eau",
+                  "level": 4,
+                  "children": {
+                    "Disque d'entrainement, pompe à eau": {
+                      "categoryId": 100091,
+                      "categoryName": "Water Pump",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4337
+                    }
+                  }
+                }
+              },
+              "productId": 4337
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Refroidissement [ID: 100007] (Niveau 1)\n    └── Pompe à eau / joint (Niveau 2)\n        └── Water Pump/Gasket [ID: 100088] (Niveau 2) → ProductId: 4337\n            └── Pompe à eau (Niveau 4)\n                └── Water Pump [ID: 100091] (Niveau 3) → ProductId: 4337",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Refroidissement",
+        "Pompe à eau / joint",
+        "Water Pump/Gasket"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100088
+      ],
+      "finalCategoryId": 100088,
+      "productId": 4337
+    }
+  ],
+  "productIdsInArbo": [
+    4337
+  ],
+  "matchedProductIds": [
+    4337
+  ]
+}

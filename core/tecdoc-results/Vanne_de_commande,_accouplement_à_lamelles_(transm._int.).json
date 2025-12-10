@@ -1,0 +1,54 @@
+{
+  "productName": "Vanne de commande, accouplement à lamelles (transm. int.)",
+  "searchText": "Vanne de commande, accouplement à lamelles (transm. int.)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:32:10.195Z",
+  "productId": 60067,
+  "arborescence": {
+    "Entraînement des essieux": {
+      "categoryId": 100400,
+      "categoryName": "Entraînement des essieux",
+      "level": 1,
+      "children": {
+        "Embrayage multidisque (transmission intégrale)": {
+          "categoryId": null,
+          "categoryName": "Embrayage multidisque (transmission intégrale)",
+          "level": 2,
+          "children": {
+            "Vanne de commande, accouplement à lamelles (transm. int.)": {
+              "categoryId": 103456,
+              "categoryName": "Multi-Plate Clutch (all-wheel drive)",
+              "level": 2,
+              "children": [],
+              "productId": 60067
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement des essieux [ID: 100400] (Niveau 1)\n    └── Embrayage multidisque (transmission intégrale) (Niveau 2)\n        └── Multi-Plate Clutch (all-wheel drive) [ID: 103456] (Niveau 2) → ProductId: 60067",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des essieux",
+        "Embrayage multidisque (transmission intégrale)",
+        "Multi-Plate Clutch (all-wheel drive)"
+      ],
+      "categoryIds": [
+        100400,
+        null,
+        103456
+      ],
+      "finalCategoryId": 103456,
+      "productId": 60067
+    }
+  ],
+  "productIdsInArbo": [
+    60067
+  ],
+  "matchedProductIds": [
+    60067
+  ]
+}

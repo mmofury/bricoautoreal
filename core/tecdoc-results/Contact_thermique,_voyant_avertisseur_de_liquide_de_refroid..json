@@ -1,0 +1,54 @@
+{
+  "productName": "Contact thermique, voyant avertisseur de liquide de refroid.",
+  "searchText": "Contact thermique, voyant avertisseur de liquide de refroid.",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:24:29.281Z",
+  "productId": 2475,
+  "arborescence": {
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Interrupteur / capteur": {
+          "categoryId": null,
+          "categoryName": "Interrupteur / capteur",
+          "level": 2,
+          "children": {
+            "Contact thermique, voyant avertisseur de liquide de refroid.": {
+              "categoryId": 100334,
+              "categoryName": "Switch/Sensor",
+              "level": 2,
+              "children": [],
+              "productId": 2475
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Refroidissement [ID: 100007] (Niveau 1)\n    └── Interrupteur / capteur (Niveau 2)\n        └── Switch/Sensor [ID: 100334] (Niveau 2) → ProductId: 2475",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Refroidissement",
+        "Interrupteur / capteur",
+        "Switch/Sensor"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100334
+      ],
+      "finalCategoryId": 100334,
+      "productId": 2475
+    }
+  ],
+  "productIdsInArbo": [
+    2475
+  ],
+  "matchedProductIds": [
+    2475
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "productName": "Palier, arbre moteur",
+  "searchText": "Palier, arbre moteur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:18:33.907Z",
+  "productId": 3521,
+  "arborescence": {
+    "Entraînement des essieux": {
+      "categoryId": 100400,
+      "categoryName": "Entraînement des essieux",
+      "level": 1,
+      "children": {
+        "Arbre de transmission": {
+          "categoryId": null,
+          "categoryName": "Arbre de transmission",
+          "level": 2,
+          "children": {
+            "Palier, arbre moteur": {
+              "categoryId": 100703,
+              "categoryName": "Propshaft",
+              "level": 2,
+              "children": {
+                "Paliers/suspension": {
+                  "categoryId": null,
+                  "categoryName": "Paliers/suspension",
+                  "level": 4,
+                  "children": {
+                    "Palier, arbre moteur": {
+                      "categoryId": 100839,
+                      "categoryName": "Bearing/Mounting",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3521
+                    }
+                  }
+                }
+              },
+              "productId": 3521
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement des essieux [ID: 100400] (Niveau 1)\n    └── Arbre de transmission (Niveau 2)\n        └── Propshaft [ID: 100703] (Niveau 2) → ProductId: 3521\n            └── Paliers/suspension (Niveau 4)\n                └── Bearing/Mounting [ID: 100839] (Niveau 3) → ProductId: 3521",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des essieux",
+        "Arbre de transmission",
+        "Propshaft"
+      ],
+      "categoryIds": [
+        100400,
+        null,
+        100703
+      ],
+      "finalCategoryId": 100703,
+      "productId": 3521
+    }
+  ],
+  "productIdsInArbo": [
+    3521
+  ],
+  "matchedProductIds": [
+    3521
+  ]
+}

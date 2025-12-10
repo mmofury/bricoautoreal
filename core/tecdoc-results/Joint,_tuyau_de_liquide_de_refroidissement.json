@@ -1,0 +1,69 @@
+{
+  "productName": "Joint, tuyau de liquide de refroidissement",
+  "searchText": "Joint, tuyau de liquide de refroidissement",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:56:51.809Z",
+  "productId": 1705,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Culasse / pieces de montage": {
+          "categoryId": null,
+          "categoryName": "Culasse / pieces de montage",
+          "level": 2,
+          "children": {
+            "Joint, tuyau de liquide de refroidissement": {
+              "categoryId": 100373,
+              "categoryName": "Cylinder Head/Attachment Parts",
+              "level": 2,
+              "children": {
+                "Buse d'arrosage (liquide de refroidissment)": {
+                  "categoryId": null,
+                  "categoryName": "Buse d'arrosage (liquide de refroidissment)",
+                  "level": 4,
+                  "children": {
+                    "Joint, tuyau de liquide de refroidissement": {
+                      "categoryId": 100788,
+                      "categoryName": "Radiator Hoses/Gasket",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1705
+                    }
+                  }
+                }
+              },
+              "productId": 1705
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Culasse / pieces de montage (Niveau 2)\n        └── Cylinder Head/Attachment Parts [ID: 100373] (Niveau 2) → ProductId: 1705\n            └── Buse d'arrosage (liquide de refroidissment) (Niveau 4)\n                └── Radiator Hoses/Gasket [ID: 100788] (Niveau 3) → ProductId: 1705",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Culasse / pieces de montage",
+        "Cylinder Head/Attachment Parts"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100373
+      ],
+      "finalCategoryId": 100373,
+      "productId": 1705
+    }
+  ],
+  "productIdsInArbo": [
+    1705
+  ],
+  "matchedProductIds": [
+    1705
+  ]
+}

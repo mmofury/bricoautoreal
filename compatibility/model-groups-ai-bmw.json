@@ -1,0 +1,1246 @@
+{
+  "generatedAt": "2025-12-08T17:44:34.512Z",
+  "manufacturer": "BMW",
+  "countGroups": 35,
+  "groups": [
+    {
+      "manufacturerId": 16,
+      "manufacturerName": "BMW",
+      "groupKey": "1",
+      "displayName": "1",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 5114,
+          "modelName": "1 (E81)",
+          "modelYearFrom": "2006-09-01",
+          "modelYearTo": "2012-09-01"
+        },
+        {
+          "modelId": 10974,
+          "modelName": "1 (E87)",
+          "modelYearFrom": "2003-02-01",
+          "modelYearTo": "2013-01-01"
+        },
+        {
+          "modelId": 9620,
+          "modelName": "1 (F20)",
+          "modelYearFrom": "2011-07-01",
+          "modelYearTo": "2019-06-01"
+        },
+        {
+          "modelId": 11003,
+          "modelName": "1 (F21)",
+          "modelYearFrom": "2011-12-01",
+          "modelYearTo": "2019-12-01"
+        },
+        {
+          "modelId": 39565,
+          "modelName": "1 (F40)",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38789,
+          "modelName": "1 (F52)",
+          "modelYearFrom": "2017-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 90001,
+          "modelName": "1 (F70)",
+          "modelYearFrom": "2024-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 6441,
+          "modelName": "1 Coupé (E82)",
+          "modelYearFrom": "2006-10-01",
+          "modelYearTo": "2013-10-01"
+        },
+        {
+          "modelId": 6713,
+          "modelName": "1 Décapotable (E88)",
+          "modelYearFrom": "2007-12-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 39640,
+          "modelName": "1 Van (F20)",
+          "modelYearFrom": "2015-03-01",
+          "modelYearTo": "2019-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 16,
+      "manufacturerName": "BMW",
+      "groupKey": "SERIE1500_2000",
+      "displayName": "Série 1500-2000",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 187,
+          "modelName": "1500-2000 (115, 116, 118, 121)",
+          "modelYearFrom": "1962-10-01",
+          "modelYearTo": "1972-11-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 16,
+      "manufacturerName": "BMW",
+      "groupKey": "SERIE1502_2002",
+      "displayName": "Série 1502-2002",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 164,
+          "modelName": "1502-2002 (E10)",
+          "modelYearFrom": "1967-09-01",
+          "modelYearTo": "1977-07-01"
+        },
+        {
+          "modelId": 1608,
+          "modelName": "1502-2002 Décapotable (E10)",
+          "modelYearFrom": "1967-12-01",
+          "modelYearTo": "1975-10-01"
+        },
+        {
+          "modelId": 1602,
+          "modelName": "1502-2002 Touring (E6)",
+          "modelYearFrom": "1971-01-01",
+          "modelYearTo": "1975-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 16,
+      "manufacturerName": "BMW",
+      "groupKey": "SERIE1600GT",
+      "displayName": "Série 1600 GT",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 1640,
+          "modelName": "1600 GT Coupé",
+          "modelYearFrom": "1967-10-01",
+          "modelYearTo": "1969-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 16,
+      "manufacturerName": "BMW",
+      "groupKey": "SERIE2",
+      "displayName": "Série 2",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 12791,
+          "modelName": "2 Active Tourer (F45)",
+          "modelYearFrom": "2013-11-01",
+          "modelYearTo": "2021-10-01"
+        },
+        {
+          "modelId": 42440,
+          "modelName": "2 Active Tourer (U06)",
+          "modelYearFrom": "2021-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39641,
+          "modelName": "2 Active Tourer Van (F45)",
+          "modelYearFrom": "2013-11-01",
+          "modelYearTo": "2021-10-01"
+        },
+        {
+          "modelId": 11599,
+          "modelName": "2 Coupé (F22, F87)",
+          "modelYearFrom": "2012-10-01",
+          "modelYearTo": "2021-06-01"
+        },
+        {
+          "modelId": 41933,
+          "modelName": "2 Coupé (G42, G87)",
+          "modelYearFrom": "2021-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13176,
+          "modelName": "2 Décapotable (F23)",
+          "modelYearFrom": "2014-03-01",
+          "modelYearTo": "2021-06-01"
+        },
+        {
+          "modelId": 45994,
+          "modelName": "2 F74 Gran Coupe (F74)",
+          "modelYearFrom": "2024-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39800,
+          "modelName": "2 Gran Coupe (F44)",
+          "modelYearFrom": "2019-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13830,
+          "modelName": "2 Gran Tourer (F46)",
+          "modelYearFrom": "2014-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39642,
+          "modelName": "2 Gran Tourer Van (F46)",
+          "modelYearFrom": "2014-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 16,
+      "manufacturerName": "BMW",
+      "groupKey": "SERIE2_5_3_2",
+      "displayName": "Série 2.5-3.2",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 224,
+          "modelName": "2.5-3.2 Coupé (E9)",
+          "modelYearFrom": "1967-09-01",
+          "modelYearTo": "1976-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 16,
+      "manufacturerName": "BMW",
+      "groupKey": "SERIE2000",
+      "displayName": "Série 2000",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 40960,
+          "modelName": "2000 Coupé (120)",
+          "modelYearFrom": "1965-10-01",
+          "modelYearTo": "1970-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 16,
+      "manufacturerName": "BMW",
+      "groupKey": "SERIE2500_3_3",
+      "displayName": "Série 2500-3.3",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 219,
+          "modelName": "2500-3.3 (E3)",
+          "modelYearFrom": "1968-10-01",
+          "modelYearTo": "1977-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 16,
+      "manufacturerName": "BMW",
+      "groupKey": "SERIE3",
+      "displayName": "Série 3",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 286,
+          "modelName": "3 (E21)",
+          "modelYearFrom": "1975-06-01",
+          "modelYearTo": "1984-03-01"
+        },
+        {
+          "modelId": 290,
+          "modelName": "3 (E30)",
+          "modelYearFrom": "1982-09-01",
+          "modelYearTo": "1992-03-01"
+        },
+        {
+          "modelId": 304,
+          "modelName": "3 (E36)",
+          "modelYearFrom": "1990-09-01",
+          "modelYearTo": "1998-11-01"
+        },
+        {
+          "modelId": 3397,
+          "modelName": "3 (E46)",
+          "modelYearFrom": "1997-12-01",
+          "modelYearTo": "2005-05-01"
+        },
+        {
+          "modelId": 5389,
+          "modelName": "3 (E90)",
+          "modelYearFrom": "2004-02-01",
+          "modelYearTo": "2012-02-01"
+        },
+        {
+          "modelId": 9831,
+          "modelName": "3 (F30, F80)",
+          "modelYearFrom": "2011-11-01",
+          "modelYearTo": "2018-10-01"
+        },
+        {
+          "modelId": 39027,
+          "modelName": "3 (G20, G80, G28)",
+          "modelYearFrom": "2018-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 299,
+          "modelName": "3 Compact (E36)",
+          "modelYearFrom": "1994-01-01",
+          "modelYearTo": "2000-08-01"
+        },
+        {
+          "modelId": 4751,
+          "modelName": "3 Compact (E46)",
+          "modelYearFrom": "2001-03-01",
+          "modelYearTo": "2005-02-01"
+        },
+        {
+          "modelId": 308,
+          "modelName": "3 Coupé (E36)",
+          "modelYearFrom": "1991-10-01",
+          "modelYearTo": "1999-05-01"
+        },
+        {
+          "modelId": 3999,
+          "modelName": "3 Coupé (E46)",
+          "modelYearFrom": "1998-12-01",
+          "modelYearTo": "2006-07-01"
+        },
+        {
+          "modelId": 5569,
+          "modelName": "3 Coupé (E92)",
+          "modelYearFrom": "2005-01-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 90178,
+          "modelName": "3 Décapotable (E21)",
+          "modelYearFrom": "1975-06-01",
+          "modelYearTo": "1984-03-01"
+        },
+        {
+          "modelId": 430,
+          "modelName": "3 Décapotable (E30)",
+          "modelYearFrom": "1982-09-01",
+          "modelYearTo": "1993-11-01"
+        },
+        {
+          "modelId": 434,
+          "modelName": "3 Décapotable (E36)",
+          "modelYearFrom": "1993-03-01",
+          "modelYearTo": "1999-11-01"
+        },
+        {
+          "modelId": 4571,
+          "modelName": "3 Décapotable (E46)",
+          "modelYearFrom": "2000-04-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 6241,
+          "modelName": "3 Décapotable (E93)",
+          "modelYearFrom": "2006-05-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 11207,
+          "modelName": "3 Gran Turismo (F34)",
+          "modelYearFrom": "2012-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 294,
+          "modelName": "3 Touring (E30)",
+          "modelYearFrom": "1987-07-01",
+          "modelYearTo": "1994-10-01"
+        },
+        {
+          "modelId": 1311,
+          "modelName": "3 Touring (E36)",
+          "modelYearFrom": "1994-08-01",
+          "modelYearTo": "1999-12-01"
+        },
+        {
+          "modelId": 4088,
+          "modelName": "3 Touring (E46)",
+          "modelYearFrom": "1999-06-01",
+          "modelYearTo": "2005-07-01"
+        },
+        {
+          "modelId": 5430,
+          "modelName": "3 Touring (E91)",
+          "modelYearFrom": "2004-12-01",
+          "modelYearTo": "2012-12-01"
+        },
+        {
+          "modelId": 10266,
+          "modelName": "3 Touring (F31)",
+          "modelYearFrom": "2012-07-01",
+          "modelYearTo": "2019-06-01"
+        },
+        {
+          "modelId": 39625,
+          "modelName": "3 Touring (G21, G81)",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39643,
+          "modelName": "3 Touring Van (F31)",
+          "modelYearFrom": "2012-07-01",
+          "modelYearTo": "2019-06-01"
+        },
+        {
+          "modelId": 40436,
+          "modelName": "3 Touring Van (G21)",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 16,
+      "manufacturerName": "BMW",
+      "groupKey": "SERIE315",
+      "displayName": "Série 315",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 44513,
+          "modelName": "315 A trois volumes",
+          "modelYearFrom": "1934-04-01",
+          "modelYearTo": "1937-06-01"
+        },
+        {
+          "modelId": 44515,
+          "modelName": "315 Décapotable",
+          "modelYearFrom": "1934-04-01",
+          "modelYearTo": "1937-06-01"
+        },
+        {
+          "modelId": 44518,
+          "modelName": "315 Roadster",
+          "modelYearFrom": "1934-04-01",
+          "modelYearTo": "1935-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 16,
+      "manufacturerName": "BMW",
+      "groupKey": "SERIE319",
+      "displayName": "Série 319",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 44689,
+          "modelName": "319 A trois volumes",
+          "modelYearFrom": "1934-12-01",
+          "modelYearTo": "1937-03-01"
+        },
+        {
+          "modelId": 44690,
+          "modelName": "319 Décapotable",
+          "modelYearFrom": "1934-12-01",
+          "modelYearTo": "1937-03-01"
+        },
+        {
+          "modelId": 44691,
+          "modelName": "319 Roadster",
+          "modelYearFrom": "1935-02-01",
+          "modelYearTo": "1936-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 16,
+      "manufacturerName": "BMW",
+      "groupKey": "SERIE320",
+      "displayName": "Série 320",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 44693,
+          "modelName": "320 A trois volumes",
+          "modelYearFrom": "1937-02-01",
+          "modelYearTo": "1938-12-01"
+        },
+        {
+          "modelId": 44694,
+          "modelName": "320 Décapotable",
+          "modelYearFrom": "1937-02-01",
+          "modelYearTo": "1938-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 16,
+      "manufacturerName": "BMW",
+      "groupKey": "SERIE321",
+      "displayName": "Série 321",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 44696,
+          "modelName": "321 A trois volumes",
+          "modelYearFrom": "1938-12-01",
+          "modelYearTo": "1941-04-01"
+        },
+        {
+          "modelId": 44697,
+          "modelName": "321 Décapotable",
+          "modelYearFrom": "1938-12-01",
+          "modelYearTo": "1941-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 16,
+      "manufacturerName": "BMW",
+      "groupKey": "SERIE326",
+      "displayName": "Série 326",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 44698,
+          "modelName": "326 A trois volumes",
+          "modelYearFrom": "1936-02-01",
+          "modelYearTo": "1941-04-01"
+        },
+        {
+          "modelId": 44699,
+          "modelName": "326 Décapotable",
+          "modelYearFrom": "1936-02-01",
+          "modelYearTo": "1941-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 16,
+      "manufacturerName": "BMW",
+      "groupKey": "SERIE340",
+      "displayName": "Série 340",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 37692,
+          "modelName": "340",
+          "modelYearFrom": "1949-10-01",
+          "modelYearTo": "1952-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 16,
+      "manufacturerName": "BMW",
+      "groupKey": "SERIE4",
+      "displayName": "Série 4",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 11300,
+          "modelName": "4 Coupé (F32, F82)",
+          "modelYearFrom": "2013-07-01",
+          "modelYearTo": "2020-06-01"
+        },
+        {
+          "modelId": 40742,
+          "modelName": "4 Coupé (G22, G82)",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11600,
+          "modelName": "4 Décapotable (F33, F83)",
+          "modelYearFrom": "2013-10-01",
+          "modelYearTo": "2020-08-01"
+        },
+        {
+          "modelId": 41276,
+          "modelName": "4 Décapotable (G23, G83)",
+          "modelYearFrom": "2020-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11900,
+          "modelName": "4 Gran Coupe (F36)",
+          "modelYearFrom": "2014-03-01",
+          "modelYearTo": "2021-05-01"
+        },
+        {
+          "modelId": 42096,
+          "modelName": "4 Gran Coupe (G26)",
+          "modelYearFrom": "2021-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 16,
+      "manufacturerName": "BMW",
+      "groupKey": "SERIE5",
+      "displayName": "Série 5",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 456,
+          "modelName": "5 (E12)",
+          "modelYearFrom": "1972-03-01",
+          "modelYearTo": "1981-08-01"
+        },
+        {
+          "modelId": 452,
+          "modelName": "5 (E28)",
+          "modelYearFrom": "1981-05-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 464,
+          "modelName": "5 (E34)",
+          "modelYearFrom": "1987-02-01",
+          "modelYearTo": "1995-12-01"
+        },
+        {
+          "modelId": 1449,
+          "modelName": "5 (E39)",
+          "modelYearFrom": "1995-09-01",
+          "modelYearTo": "2003-07-01"
+        },
+        {
+          "modelId": 4993,
+          "modelName": "5 (E60)",
+          "modelYearFrom": "2001-12-01",
+          "modelYearTo": "2010-03-01"
+        },
+        {
+          "modelId": 8541,
+          "modelName": "5 (F10)",
+          "modelYearFrom": "2009-01-01",
+          "modelYearTo": "2016-10-01"
+        },
+        {
+          "modelId": 37157,
+          "modelName": "5 (G30, F90)",
+          "modelYearFrom": "2016-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44382,
+          "modelName": "5 (G60, G90, G68)",
+          "modelYearFrom": "2023-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 8274,
+          "modelName": "5 Gran Turismo (F07)",
+          "modelYearFrom": "2009-01-01",
+          "modelYearTo": "2017-02-01"
+        },
+        {
+          "modelId": 459,
+          "modelName": "5 Touring (E34)",
+          "modelYearFrom": "1991-07-01",
+          "modelYearTo": "1996-07-01"
+        },
+        {
+          "modelId": 1892,
+          "modelName": "5 Touring (E39)",
+          "modelYearFrom": "1996-09-01",
+          "modelYearTo": "2004-06-01"
+        },
+        {
+          "modelId": 5079,
+          "modelName": "5 Touring (E61)",
+          "modelYearFrom": "2004-03-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 8762,
+          "modelName": "5 Touring (F11)",
+          "modelYearFrom": "2009-11-01",
+          "modelYearTo": "2017-02-01"
+        },
+        {
+          "modelId": 37535,
+          "modelName": "5 Touring (G31)",
+          "modelYearFrom": "2017-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45189,
+          "modelName": "5 Touring (G61, G99)",
+          "modelYearFrom": "2024-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39644,
+          "modelName": "5 Touring Van (G31)",
+          "modelYearFrom": "2017-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 16,
+      "manufacturerName": "BMW",
+      "groupKey": "SERIE501",
+      "displayName": "Série 501",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 1642,
+          "modelName": "501",
+          "modelYearFrom": "1952-07-01",
+          "modelYearTo": "1959-01-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 16,
+      "manufacturerName": "BMW",
+      "groupKey": "SERIE502",
+      "displayName": "Série 502",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 37691,
+          "modelName": "502 A trois volumes",
+          "modelYearFrom": "1954-09-01",
+          "modelYearTo": "1963-12-01"
+        },
+        {
+          "modelId": 1641,
+          "modelName": "V8 Coupé (502)",
+          "modelYearFrom": "1954-09-01",
+          "modelYearTo": "1966-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 16,
+      "manufacturerName": "BMW",
+      "groupKey": "SERIE503",
+      "displayName": "Série 503",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 3390,
+          "modelName": "503 Décapotable (E03)",
+          "modelYearFrom": "1957-01-01",
+          "modelYearTo": "1961-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 16,
+      "manufacturerName": "BMW",
+      "groupKey": "SERIE507",
+      "displayName": "Série 507",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 37690,
+          "modelName": "507 (E03)",
+          "modelYearFrom": "1956-10-01",
+          "modelYearTo": "1959-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 16,
+      "manufacturerName": "BMW",
+      "groupKey": "SERIE6",
+      "displayName": "Série 6",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 486,
+          "modelName": "6 (E24)",
+          "modelYearFrom": "1975-10-01",
+          "modelYearTo": "1989-04-01"
+        },
+        {
+          "modelId": 5086,
+          "modelName": "6 (E63)",
+          "modelYearFrom": "2003-09-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 9160,
+          "modelName": "6 Coupé (F13)",
+          "modelYearFrom": "2011-07-01",
+          "modelYearTo": "2017-10-01"
+        },
+        {
+          "modelId": 5087,
+          "modelName": "6 Décapotable (E64)",
+          "modelYearFrom": "2004-03-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 9159,
+          "modelName": "6 Décapotable (F12)",
+          "modelYearFrom": "2010-12-01",
+          "modelYearTo": "2018-06-01"
+        },
+        {
+          "modelId": 11034,
+          "modelName": "6 Gran Coupe (F06)",
+          "modelYearFrom": "2012-03-01",
+          "modelYearTo": "2018-10-01"
+        },
+        {
+          "modelId": 38046,
+          "modelName": "6 Gran Turismo (G32)",
+          "modelYearFrom": "2017-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 16,
+      "manufacturerName": "BMW",
+      "groupKey": "SERIE600",
+      "displayName": "Série 600",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 4002,
+          "modelName": "600 (111)",
+          "modelYearFrom": "1957-12-01",
+          "modelYearTo": "1961-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 16,
+      "manufacturerName": "BMW",
+      "groupKey": "SERIE7",
+      "displayName": "Série 7",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 539,
+          "modelName": "7 (E23)",
+          "modelYearFrom": "1977-05-01",
+          "modelYearTo": "1988-04-01"
+        },
+        {
+          "modelId": 544,
+          "modelName": "7 (E32)",
+          "modelYearFrom": "1985-03-01",
+          "modelYearTo": "1994-10-01"
+        },
+        {
+          "modelId": 549,
+          "modelName": "7 (E38)",
+          "modelYearFrom": "1994-03-01",
+          "modelYearTo": "2001-11-01"
+        },
+        {
+          "modelId": 4816,
+          "modelName": "7 (E65, E66, E67)",
+          "modelYearFrom": "2001-07-01",
+          "modelYearTo": "2009-12-01"
+        },
+        {
+          "modelId": 7864,
+          "modelName": "7 (F01, F02, F03, F04)",
+          "modelYearFrom": "2008-02-01",
+          "modelYearTo": "2015-12-01"
+        },
+        {
+          "modelId": 14283,
+          "modelName": "7 (G11, G12)",
+          "modelYearFrom": "2015-07-01",
+          "modelYearTo": "2022-06-01"
+        },
+        {
+          "modelId": 42916,
+          "modelName": "7 (G70)",
+          "modelYearFrom": "2022-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 16,
+      "manufacturerName": "BMW",
+      "groupKey": "SERIE700",
+      "displayName": "Série 700",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 2054,
+          "modelName": "700 (107)",
+          "modelYearFrom": "1959-01-01",
+          "modelYearTo": "1966-11-01"
+        },
+        {
+          "modelId": 4805,
+          "modelName": "700 Coupé (AE)",
+          "modelYearFrom": "1959-08-01",
+          "modelYearTo": "1964-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 16,
+      "manufacturerName": "BMW",
+      "groupKey": "SERIE8",
+      "displayName": "Série 8",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 67,
+          "modelName": "8 (E31)",
+          "modelYearFrom": "1990-01-01",
+          "modelYearTo": "1999-12-01"
+        },
+        {
+          "modelId": 38775,
+          "modelName": "8 Coupé (G15, F92)",
+          "modelYearFrom": "2018-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39034,
+          "modelName": "8 Décapotable (G14, F91)",
+          "modelYearFrom": "2018-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39628,
+          "modelName": "8 Gran Coupe (G16, F93)",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 16,
+      "manufacturerName": "BMW",
+      "groupKey": "SERIEGLAS",
+      "displayName": "Série Glas",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 36965,
+          "modelName": "GLAS (602)",
+          "modelYearFrom": "1967-09-01",
+          "modelYearTo": "1968-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 16,
+      "manufacturerName": "BMW",
+      "groupKey": "SERIEI",
+      "displayName": "Série i",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 11443,
+          "modelName": "i3 (I01)",
+          "modelYearFrom": "2013-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42095,
+          "modelName": "i4 (G26)",
+          "modelYearFrom": "2021-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11902,
+          "modelName": "i8 (I12)",
+          "modelYearFrom": "2014-03-01",
+          "modelYearTo": "2020-06-01"
+        },
+        {
+          "modelId": 38331,
+          "modelName": "i8 Roadster (I15)",
+          "modelYearFrom": "2018-03-01",
+          "modelYearTo": "2020-06-01"
+        },
+        {
+          "modelId": 41979,
+          "modelName": "iX (I20)",
+          "modelYearFrom": "2021-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 16,
+      "manufacturerName": "BMW",
+      "groupKey": "SERIEISETTA",
+      "displayName": "Série Isetta",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 1435,
+          "modelName": "ISETTA (100, 103)",
+          "modelYearFrom": "1956-01-01",
+          "modelYearTo": "1963-11-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 16,
+      "manufacturerName": "BMW",
+      "groupKey": "SERIEM",
+      "displayName": "Série M",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 1790,
+          "modelName": "M1 (E26)",
+          "modelYearFrom": "1979-05-01",
+          "modelYearTo": "1983-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 16,
+      "manufacturerName": "BMW",
+      "groupKey": "SERIEX",
+      "displayName": "Série X",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 8277,
+          "modelName": "X1 (E84)",
+          "modelYearFrom": "2009-03-01",
+          "modelYearTo": "2015-06-01"
+        },
+        {
+          "modelId": 14383,
+          "modelName": "X1 (F48)",
+          "modelYearFrom": "2014-11-01",
+          "modelYearTo": "2022-12-01"
+        },
+        {
+          "modelId": 43036,
+          "modelName": "X1 (U11)",
+          "modelYearFrom": "2022-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39645,
+          "modelName": "X1 Van (F48)",
+          "modelYearFrom": "2015-07-01",
+          "modelYearTo": "2022-06-01"
+        },
+        {
+          "modelId": 38274,
+          "modelName": "X2 (F39)",
+          "modelYearFrom": "2017-11-01",
+          "modelYearTo": "2023-10-01"
+        },
+        {
+          "modelId": 44861,
+          "modelName": "X2 (U10)",
+          "modelYearFrom": "2023-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 5085,
+          "modelName": "X3 (E83)",
+          "modelYearFrom": "2003-01-01",
+          "modelYearTo": "2011-12-01"
+        },
+        {
+          "modelId": 38057,
+          "modelName": "X3 (G01, F97, G08)",
+          "modelYearFrom": "2017-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45659,
+          "modelName": "X3 G45 (G45)",
+          "modelYearFrom": "2024-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39646,
+          "modelName": "X3 Van (G01)",
+          "modelYearFrom": "2017-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11945,
+          "modelName": "X4 (F26)",
+          "modelYearFrom": "2013-05-01",
+          "modelYearTo": "2018-03-01"
+        },
+        {
+          "modelId": 38487,
+          "modelName": "X4 (G02, F98)",
+          "modelYearFrom": "2018-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 4343,
+          "modelName": "X5 (E53)",
+          "modelYearFrom": "2000-01-01",
+          "modelYearTo": "2006-12-01"
+        },
+        {
+          "modelId": 6414,
+          "modelName": "X5 (E70)",
+          "modelYearFrom": "2006-02-01",
+          "modelYearTo": "2013-07-01"
+        },
+        {
+          "modelId": 11482,
+          "modelName": "X5 (F15, F85)",
+          "modelYearFrom": "2013-08-01",
+          "modelYearTo": "2018-07-01"
+        },
+        {
+          "modelId": 38751,
+          "modelName": "X5 (G05, F95)",
+          "modelYearFrom": "2018-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40437,
+          "modelName": "X5 Van (G05)",
+          "modelYearFrom": "2019-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 7378,
+          "modelName": "X6 (E71, E72)",
+          "modelYearFrom": "2007-06-01",
+          "modelYearTo": "2015-12-01"
+        },
+        {
+          "modelId": 12845,
+          "modelName": "X6 (F16, F86)",
+          "modelYearFrom": "2014-08-01",
+          "modelYearTo": "2019-07-01"
+        },
+        {
+          "modelId": 39060,
+          "modelName": "X7 (G07)",
+          "modelYearFrom": "2019-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 16,
+      "manufacturerName": "BMW",
+      "groupKey": "SERIEXM",
+      "displayName": "Série XM",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 43810,
+          "modelName": "XM (G09)",
+          "modelYearFrom": "2022-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 16,
+      "manufacturerName": "BMW",
+      "groupKey": "SERIEZ",
+      "displayName": "Série Z",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 138,
+          "modelName": "Z1 Roadster",
+          "modelYearFrom": "1988-06-01",
+          "modelYearTo": "1991-06-01"
+        },
+        {
+          "modelId": 2079,
+          "modelName": "Z3 Coupé (E36)",
+          "modelYearFrom": "1997-04-01",
+          "modelYearTo": "2003-06-01"
+        },
+        {
+          "modelId": 3483,
+          "modelName": "Z3 Roadster (E36)",
+          "modelYearFrom": "1995-10-01",
+          "modelYearTo": "2003-01-01"
+        },
+        {
+          "modelId": 5516,
+          "modelName": "Z4 Coupé (E86)",
+          "modelYearFrom": "2006-03-01",
+          "modelYearTo": "2009-01-01"
+        },
+        {
+          "modelId": 4924,
+          "modelName": "Z4 Roadster (E85)",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": "2009-12-01"
+        },
+        {
+          "modelId": 8033,
+          "modelName": "Z4 Roadster (E89)",
+          "modelYearFrom": "2009-02-01",
+          "modelYearTo": "2016-08-01"
+        },
+        {
+          "modelId": 39028,
+          "modelName": "Z4 Roadster (G29)",
+          "modelYearFrom": "2018-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 4279,
+          "modelName": "Z8 Roadster (E52)",
+          "modelYearFrom": "2000-01-01",
+          "modelYearTo": "2003-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 16,
+      "manufacturerName": "BMW",
+      "groupKey": "X3",
+      "displayName": "X3",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 8763,
+          "modelName": "X3 (F25)",
+          "modelYearFrom": "2010-09-01",
+          "modelYearTo": "2017-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 16,
+      "manufacturerName": "BMW",
+      "groupKey": "X6",
+      "displayName": "X6",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 39650,
+          "modelName": "X6 (G06, F96)",
+          "modelYearFrom": "2019-08-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "productName": "Jeu de supports, phare supplémentaire",
+  "searchText": "Jeu de supports, phare supplémentaire",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:51:30.793Z",
+  "productId": 2977,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Phares supplémentaires/composants": {
+          "categoryId": null,
+          "categoryName": "Phares supplémentaires/composants",
+          "level": 2,
+          "children": {
+            "Jeu de supports, phare supplémentaire": {
+              "categoryId": 100787,
+              "categoryName": "Additional Headlight/Parts",
+              "level": 2,
+              "children": {
+                "Phare chercheur / composants": {
+                  "categoryId": null,
+                  "categoryName": "Phare chercheur / composants",
+                  "level": 4,
+                  "children": {
+                    "Jeu de supports, phare supplémentaire": {
+                      "categoryId": 100281,
+                      "categoryName": "Searchlight/Parts",
+                      "level": 3,
+                      "children": {
+                        "Composants phare chercheur": {
+                          "categoryId": null,
+                          "categoryName": "Composants phare chercheur",
+                          "level": 6,
+                          "children": {
+                            "Jeu de supports, phare supplémentaire": {
+                              "categoryId": 100446,
+                              "categoryName": "Searchlight Parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 2977
+                            }
+                          }
+                        }
+                      },
+                      "productId": 2977
+                    }
+                  }
+                },
+                "Projecteur antibrouillard/ composants": {
+                  "categoryId": null,
+                  "categoryName": "Projecteur antibrouillard/ composants",
+                  "level": 4,
+                  "children": {
+                    "Jeu de supports, phare supplémentaire": {
+                      "categoryId": 100277,
+                      "categoryName": "Front Fog Light/Parts",
+                      "level": 3,
+                      "children": {
+                        "Composants pour projecteur antibrouillard": {
+                          "categoryId": null,
+                          "categoryName": "Composants pour projecteur antibrouillard",
+                          "level": 6,
+                          "children": {
+                            "Jeu de supports, phare supplémentaire": {
+                              "categoryId": 100444,
+                              "categoryName": "Fog Light Parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 2977
+                            }
+                          }
+                        }
+                      },
+                      "productId": 2977
+                    }
+                  }
+                },
+                "Projecteur de travail, composants": {
+                  "categoryId": null,
+                  "categoryName": "Projecteur de travail, composants",
+                  "level": 4,
+                  "children": {
+                    "Jeu de supports, phare supplémentaire": {
+                      "categoryId": 100280,
+                      "categoryName": "Worklight/Parts",
+                      "level": 3,
+                      "children": {
+                        "Projecteur de travail, composants": {
+                          "categoryId": null,
+                          "categoryName": "Projecteur de travail, composants",
+                          "level": 6,
+                          "children": {
+                            "Jeu de supports, phare supplémentaire": {
+                              "categoryId": 100445,
+                              "categoryName": "Worklight Parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 2977
+                            }
+                          }
+                        }
+                      },
+                      "productId": 2977
+                    }
+                  }
+                },
+                "Projecteur longue portée / composants": {
+                  "categoryId": null,
+                  "categoryName": "Projecteur longue portée / composants",
+                  "level": 4,
+                  "children": {
+                    "Jeu de supports, phare supplémentaire": {
+                      "categoryId": 100276,
+                      "categoryName": "Spotlight/Parts",
+                      "level": 3,
+                      "children": {
+                        "Projecteur longue portée / composants": {
+                          "categoryId": null,
+                          "categoryName": "Projecteur longue portée / composants",
+                          "level": 6,
+                          "children": {
+                            "Jeu de supports, phare supplémentaire": {
+                              "categoryId": 100443,
+                              "categoryName": "Spotlight Parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 2977
+                            }
+                          }
+                        }
+                      },
+                      "productId": 2977
+                    }
+                  }
+                }
+              },
+              "productId": 2977
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Phares supplémentaires/composants (Niveau 2)\n        └── Additional Headlight/Parts [ID: 100787] (Niveau 2) → ProductId: 2977\n            ├── Phare chercheur / composants (Niveau 4)\n            │   └── Searchlight/Parts [ID: 100281] (Niveau 3) → ProductId: 2977\n            │       └── Composants phare chercheur (Niveau 6)\n            │           └── Searchlight Parts [ID: 100446] (Niveau 4) → ProductId: 2977\n            ├── Projecteur antibrouillard/ composants (Niveau 4)\n            │   └── Front Fog Light/Parts [ID: 100277] (Niveau 3) → ProductId: 2977\n            │       └── Composants pour projecteur antibrouillard (Niveau 6)\n            │           └── Fog Light Parts [ID: 100444] (Niveau 4) → ProductId: 2977\n            ├── Projecteur de travail, composants (Niveau 4)\n            │   └── Worklight/Parts [ID: 100280] (Niveau 3) → ProductId: 2977\n            │       └── Projecteur de travail, composants (Niveau 6)\n            │           └── Worklight Parts [ID: 100445] (Niveau 4) → ProductId: 2977\n            └── Projecteur longue portée / composants (Niveau 4)\n                └── Spotlight/Parts [ID: 100276] (Niveau 3) → ProductId: 2977\n                    └── Projecteur longue portée / composants (Niveau 6)\n                        └── Spotlight Parts [ID: 100443] (Niveau 4) → ProductId: 2977",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Phares supplémentaires/composants",
+        "Additional Headlight/Parts"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100787
+      ],
+      "finalCategoryId": 100787,
+      "productId": 2977
+    }
+  ],
+  "productIdsInArbo": [
+    2977
+  ],
+  "matchedProductIds": [
+    2977
+  ]
+}

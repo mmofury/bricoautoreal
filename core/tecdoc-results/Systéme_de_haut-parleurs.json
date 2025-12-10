@@ -1,0 +1,82 @@
+{
+  "productName": "Systéme de haut-parleurs",
+  "searchText": "Systéme de haut-parleurs",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:24:14.220Z",
+  "productId": 2037,
+  "arborescence": {
+    "Système d'information et de communication": {
+      "categoryId": 100339,
+      "categoryName": "Système d'information et de communication",
+      "level": 1,
+      "children": {
+        "Navigation": {
+          "categoryId": null,
+          "categoryName": "Navigation",
+          "level": 2,
+          "children": {
+            "Systéme de haut-parleurs": {
+              "categoryId": 100697,
+              "categoryName": "Navigation",
+              "level": 2,
+              "children": [],
+              "productId": 2037
+            }
+          }
+        },
+        "Système audio": {
+          "categoryId": null,
+          "categoryName": "Système audio",
+          "level": 2,
+          "children": {
+            "Systéme de haut-parleurs": {
+              "categoryId": 100694,
+              "categoryName": "Audio System",
+              "level": 2,
+              "children": [],
+              "productId": 2037
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système d'information et de communication [ID: 100339] (Niveau 1)\n    ├── Navigation (Niveau 2)\n    │   └── Navigation [ID: 100697] (Niveau 2) → ProductId: 2037\n    └── Système audio (Niveau 2)\n        └── Audio System [ID: 100694] (Niveau 2) → ProductId: 2037",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système d'information et de communication",
+        "Navigation",
+        "Navigation"
+      ],
+      "categoryIds": [
+        100339,
+        null,
+        100697
+      ],
+      "finalCategoryId": 100697,
+      "productId": 2037
+    },
+    {
+      "path": [
+        "Système d'information et de communication",
+        "Système audio",
+        "Audio System"
+      ],
+      "categoryIds": [
+        100339,
+        null,
+        100694
+      ],
+      "finalCategoryId": 100694,
+      "productId": 2037
+    }
+  ],
+  "productIdsInArbo": [
+    2037
+  ],
+  "matchedProductIds": [
+    2037
+  ]
+}

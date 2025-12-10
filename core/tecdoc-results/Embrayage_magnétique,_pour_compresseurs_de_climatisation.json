@@ -1,0 +1,54 @@
+{
+  "productName": "Embrayage magnétique, pour compresseurs de climatisation",
+  "searchText": "Embrayage magnétique, pour compresseurs de climatisation",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:35:54.273Z",
+  "productId": 1236,
+  "arborescence": {
+    "Climatisation": {
+      "categoryId": 100243,
+      "categoryName": "Climatisation",
+      "level": 1,
+      "children": {
+        "Compresseur / composants": {
+          "categoryId": null,
+          "categoryName": "Compresseur / composants",
+          "level": 2,
+          "children": {
+            "Embrayage magnétique, pour compresseurs de climatisation": {
+              "categoryId": 100354,
+              "categoryName": "Compressor/Parts",
+              "level": 2,
+              "children": [],
+              "productId": 1236
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Climatisation [ID: 100243] (Niveau 1)\n    └── Compresseur / composants (Niveau 2)\n        └── Compressor/Parts [ID: 100354] (Niveau 2) → ProductId: 1236",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Climatisation",
+        "Compresseur / composants",
+        "Compressor/Parts"
+      ],
+      "categoryIds": [
+        100243,
+        null,
+        100354
+      ],
+      "finalCategoryId": 100354,
+      "productId": 1236
+    }
+  ],
+  "productIdsInArbo": [
+    1236
+  ],
+  "matchedProductIds": [
+    1236
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "productName": "Boulon de coulisse, chaîne de distribution",
+  "searchText": "Boulon de coulisse, chaîne de distribution",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:09:08.288Z",
+  "productId": 6156,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Distribution moteur": {
+          "categoryId": null,
+          "categoryName": "Distribution moteur",
+          "level": 2,
+          "children": {
+            "Boulon de coulisse, chaîne de distribution": {
+              "categoryId": 100003,
+              "categoryName": "Engine Timing",
+              "level": 2,
+              "children": {
+                "Chaîne de distribution/tension/guidage": {
+                  "categoryId": null,
+                  "categoryName": "Chaîne de distribution/tension/guidage",
+                  "level": 4,
+                  "children": {
+                    "Boulon de coulisse, chaîne de distribution": {
+                      "categoryId": 100403,
+                      "categoryName": "Timing Chain/Tensioner/Guide",
+                      "level": 3,
+                      "children": {
+                        "Coulisse": {
+                          "categoryId": null,
+                          "categoryName": "Coulisse",
+                          "level": 6,
+                          "children": {
+                            "Boulon de coulisse, chaîne de distribution": {
+                              "categoryId": 100413,
+                              "categoryName": "Timing Chain Guides",
+                              "level": 4,
+                              "children": [],
+                              "productId": 6156
+                            }
+                          }
+                        }
+                      },
+                      "productId": 6156
+                    }
+                  }
+                }
+              },
+              "productId": 6156
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Distribution moteur (Niveau 2)\n        └── Engine Timing [ID: 100003] (Niveau 2) → ProductId: 6156\n            └── Chaîne de distribution/tension/guidage (Niveau 4)\n                └── Timing Chain/Tensioner/Guide [ID: 100403] (Niveau 3) → ProductId: 6156\n                    └── Coulisse (Niveau 6)\n                        └── Timing Chain Guides [ID: 100413] (Niveau 4) → ProductId: 6156",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Engine Timing"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100003
+      ],
+      "finalCategoryId": 100003,
+      "productId": 6156
+    }
+  ],
+  "productIdsInArbo": [
+    6156
+  ],
+  "matchedProductIds": [
+    6156
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.153Z",
+  "manufacturer": "ALVIS",
+  "countGroups": 6,
+  "groups": [
+    {
+      "manufacturerId": 4730,
+      "manufacturerName": "ALVIS",
+      "groupKey": "TA",
+      "displayName": "TA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38060,
+          "modelName": "TA Décapotable",
+          "modelYearFrom": "1950-07-01",
+          "modelYearTo": "1953-06-01"
+        },
+        {
+          "modelId": 38061,
+          "modelName": "TA A trois volumes",
+          "modelYearFrom": "1950-07-01",
+          "modelYearTo": "1953-06-01"
+        },
+        {
+          "modelId": 38076,
+          "modelName": "TA Décapotable",
+          "modelYearFrom": "1946-01-01",
+          "modelYearTo": "1950-06-01"
+        },
+        {
+          "modelId": 38077,
+          "modelName": "TA A trois volumes",
+          "modelYearFrom": "1946-01-01",
+          "modelYearTo": "1950-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4730,
+      "manufacturerName": "ALVIS",
+      "groupKey": "TB",
+      "displayName": "TB",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38058,
+          "modelName": "TB Décapotable",
+          "modelYearFrom": "1953-07-01",
+          "modelYearTo": "1955-06-01"
+        },
+        {
+          "modelId": 38059,
+          "modelName": "TB A trois volumes",
+          "modelYearFrom": "1953-07-01",
+          "modelYearTo": "1955-06-01"
+        },
+        {
+          "modelId": 38074,
+          "modelName": "TB Décapotable",
+          "modelYearFrom": "1948-01-01",
+          "modelYearTo": "1950-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4730,
+      "manufacturerName": "ALVIS",
+      "groupKey": "TC",
+      "displayName": "TC",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38055,
+          "modelName": "TC Décapotable",
+          "modelYearFrom": "1955-07-01",
+          "modelYearTo": "1958-06-01"
+        },
+        {
+          "modelId": 38056,
+          "modelName": "TC A trois volumes",
+          "modelYearFrom": "1955-07-01",
+          "modelYearTo": "1958-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4730,
+      "manufacturerName": "ALVIS",
+      "groupKey": "TD",
+      "displayName": "TD",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38053,
+          "modelName": "TD A trois volumes",
+          "modelYearFrom": "1958-07-01",
+          "modelYearTo": "1963-12-01"
+        },
+        {
+          "modelId": 38054,
+          "modelName": "TD Décapotable",
+          "modelYearFrom": "1958-07-01",
+          "modelYearTo": "1963-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4730,
+      "manufacturerName": "ALVIS",
+      "groupKey": "TE",
+      "displayName": "TE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38049,
+          "modelName": "TE Décapotable",
+          "modelYearFrom": "1964-01-01",
+          "modelYearTo": "1966-06-01"
+        },
+        {
+          "modelId": 38050,
+          "modelName": "TE A trois volumes",
+          "modelYearFrom": "1964-01-01",
+          "modelYearTo": "1966-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4730,
+      "manufacturerName": "ALVIS",
+      "groupKey": "TF",
+      "displayName": "TF",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38051,
+          "modelName": "TF A trois volumes",
+          "modelYearFrom": "1966-07-01",
+          "modelYearTo": "1967-12-01"
+        },
+        {
+          "modelId": 38052,
+          "modelName": "TF Décapotable",
+          "modelYearFrom": "1966-07-01",
+          "modelYearTo": "1967-12-01"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "productName": "Interrupteur, ouverture du cache réservoir",
+  "searchText": "Interrupteur, ouverture du cache réservoir",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:47:39.951Z",
+  "productId": 4270,
+  "arborescence": {
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Moteur / Relais": {
+          "categoryId": null,
+          "categoryName": "Moteur / Relais",
+          "level": 2,
+          "children": {
+            "Interrupteur, ouverture du cache réservoir": {
+              "categoryId": 104156,
+              "categoryName": "Motor/Relay/Switch",
+              "level": 2,
+              "children": {
+                "Ouverture du cache réservoir": {
+                  "categoryId": null,
+                  "categoryName": "Ouverture du cache réservoir",
+                  "level": 4,
+                  "children": {
+                    "Interrupteur, ouverture du cache réservoir": {
+                      "categoryId": 104169,
+                      "categoryName": "Fuel Filler Flap Release",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4270
+                    }
+                  }
+                }
+              },
+              "productId": 4270
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Systèmes de confort [ID: 100335] (Niveau 1)\n    └── Moteur / Relais (Niveau 2)\n        └── Motor/Relay/Switch [ID: 104156] (Niveau 2) → ProductId: 4270\n            └── Ouverture du cache réservoir (Niveau 4)\n                └── Fuel Filler Flap Release [ID: 104169] (Niveau 3) → ProductId: 4270",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Systèmes de confort",
+        "Moteur / Relais",
+        "Motor/Relay/Switch"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        104156
+      ],
+      "finalCategoryId": 104156,
+      "productId": 4270
+    }
+  ],
+  "productIdsInArbo": [
+    4270
+  ],
+  "matchedProductIds": [
+    4270
+  ]
+}

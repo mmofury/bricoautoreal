@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.537Z",
+  "manufacturer": "WANFENG",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 3191,
+      "manufacturerName": "WANFENG",
+      "groupKey": "SUWEI",
+      "displayName": "SUWEI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37127,
+          "modelName": "SUWEI",
+          "modelYearFrom": "2004-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3191,
+      "manufacturerName": "WANFENG",
+      "groupKey": "TAIWEI",
+      "displayName": "TAIWEI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7107,
+          "modelName": "TAIWEI",
+          "modelYearFrom": "2005-05-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

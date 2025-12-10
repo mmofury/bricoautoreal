@@ -1,0 +1,54 @@
+{
+  "productName": "Kit réparation de câble, calculateur réseau de bord",
+  "searchText": "Kit réparation de câble, calculateur réseau de bord",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:09:07.680Z",
+  "productId": 9924,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Appareils de commande": {
+          "categoryId": null,
+          "categoryName": "Appareils de commande",
+          "level": 2,
+          "children": {
+            "Kit réparation de câble, calculateur réseau de bord": {
+              "categoryId": 100727,
+              "categoryName": "Control Units",
+              "level": 2,
+              "children": [],
+              "productId": 9924
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Appareils de commande (Niveau 2)\n        └── Control Units [ID: 100727] (Niveau 2) → ProductId: 9924",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Appareils de commande",
+        "Control Units"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100727
+      ],
+      "finalCategoryId": 100727,
+      "productId": 9924
+    }
+  ],
+  "productIdsInArbo": [
+    9924
+  ],
+  "matchedProductIds": [
+    9924
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.517Z",
+  "manufacturer": "TRABANT",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 187,
+      "manufacturerName": "TRABANT",
+      "groupKey": "1",
+      "displayName": "1",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1308,
+          "modelName": "1.1",
+          "modelYearFrom": "1990-05-01",
+          "modelYearTo": "1991-12-01"
+        },
+        {
+          "modelId": 1707,
+          "modelName": "1.1 Tramp",
+          "modelYearFrom": "1990-05-01",
+          "modelYearTo": "1991-12-01"
+        },
+        {
+          "modelId": 1708,
+          "modelName": "1.1 Universal",
+          "modelYearFrom": "1990-12-01",
+          "modelYearTo": "1991-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 187,
+      "manufacturerName": "TRABANT",
+      "groupKey": "P",
+      "displayName": "P",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1307,
+          "modelName": "P 601",
+          "modelYearFrom": "1966-01-01",
+          "modelYearTo": "1990-04-01"
+        },
+        {
+          "modelId": 1704,
+          "modelName": "P 601 Universal",
+          "modelYearFrom": "1966-01-01",
+          "modelYearTo": "1990-04-01"
+        },
+        {
+          "modelId": 1705,
+          "modelName": "P 601 Tramp",
+          "modelYearFrom": "1966-10-01",
+          "modelYearTo": "1990-04-01"
+        },
+        {
+          "modelId": 1706,
+          "modelName": "P 601 Fourgon",
+          "modelYearFrom": "1966-07-01",
+          "modelYearTo": "1990-04-01"
+        }
+      ]
+    }
+  ]
+}

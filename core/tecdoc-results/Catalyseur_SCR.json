@@ -1,0 +1,141 @@
+{
+  "productName": "Catalyseur SCR",
+  "searchText": "Catalyseur SCR",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:18:54.193Z",
+  "productId": 9811,
+  "arborescence": {
+    "Échappement": {
+      "categoryId": 100004,
+      "categoryName": "Échappement",
+      "level": 1,
+      "children": {
+        "Catalyseur": {
+          "categoryId": null,
+          "categoryName": "Catalyseur",
+          "level": 2,
+          "children": {
+            "Catalyseur SCR": {
+              "categoryId": 100047,
+              "categoryName": "Catalytic Converter",
+              "level": 2,
+              "children": [],
+              "productId": 9811
+            },
+            "Kit de modernisation, catalyseur SCR": {
+              "categoryId": 100047,
+              "categoryName": "Catalytic Converter",
+              "level": 2,
+              "children": [],
+              "productId": 9606
+            },
+            "Kit de montage, catalyseur SCR": {
+              "categoryId": 100047,
+              "categoryName": "Catalytic Converter",
+              "level": 2,
+              "children": [],
+              "productId": 60574
+            }
+          }
+        },
+        "Pièces de montage": {
+          "categoryId": null,
+          "categoryName": "Pièces de montage",
+          "level": 2,
+          "children": {
+            "Kit de montage, catalyseur SCR": {
+              "categoryId": 100222,
+              "categoryName": "Assembly Parts",
+              "level": 2,
+              "children": {
+                "Assortiment de montage": {
+                  "categoryId": null,
+                  "categoryName": "Assortiment de montage",
+                  "level": 4,
+                  "children": {
+                    "Kit de montage, catalyseur SCR": {
+                      "categoryId": 100316,
+                      "categoryName": "Assembly Kit",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60574
+                    }
+                  }
+                }
+              },
+              "productId": 60574
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Échappement [ID: 100004] (Niveau 1)\n    ├── Catalyseur (Niveau 2)\n    │   ├── Catalytic Converter [ID: 100047] (Niveau 2) → ProductId: 9811\n    │   ├── Catalytic Converter [ID: 100047] (Niveau 2) → ProductId: 9606\n    │   └── Catalytic Converter [ID: 100047] (Niveau 2) → ProductId: 60574\n    └── Pièces de montage (Niveau 2)\n        └── Assembly Parts [ID: 100222] (Niveau 2) → ProductId: 60574\n            └── Assortiment de montage (Niveau 4)\n                └── Assembly Kit [ID: 100316] (Niveau 3) → ProductId: 60574",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Échappement",
+        "Catalyseur",
+        "Catalytic Converter"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100047
+      ],
+      "finalCategoryId": 100047,
+      "productId": 9811
+    },
+    {
+      "path": [
+        "Échappement",
+        "Catalyseur",
+        "Catalytic Converter"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100047
+      ],
+      "finalCategoryId": 100047,
+      "productId": 9606
+    },
+    {
+      "path": [
+        "Échappement",
+        "Catalyseur",
+        "Catalytic Converter"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100047
+      ],
+      "finalCategoryId": 100047,
+      "productId": 60574
+    },
+    {
+      "path": [
+        "Échappement",
+        "Pièces de montage",
+        "Assembly Parts"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100222
+      ],
+      "finalCategoryId": 100222,
+      "productId": 60574
+    }
+  ],
+  "productIdsInArbo": [
+    9606,
+    9811,
+    60574
+  ],
+  "matchedProductIds": [
+    9811
+  ]
+}

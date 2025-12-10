@@ -1,0 +1,54 @@
+{
+  "productName": "Support, moteur d'essuie-glace",
+  "searchText": "Support, moteur d'essuie-glace",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:21:39.875Z",
+  "productId": 787,
+  "arborescence": {
+    "Nettoyage des vitres": {
+      "categoryId": 100018,
+      "categoryName": "Nettoyage des vitres",
+      "level": 1,
+      "children": {
+        "Moteur d'essuie-glace": {
+          "categoryId": null,
+          "categoryName": "Moteur d'essuie-glace",
+          "level": 2,
+          "children": {
+            "Support, moteur d'essuie-glace": {
+              "categoryId": 100134,
+              "categoryName": "Wiper Motor",
+              "level": 2,
+              "children": [],
+              "productId": 787
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Nettoyage des vitres [ID: 100018] (Niveau 1)\n    └── Moteur d'essuie-glace (Niveau 2)\n        └── Wiper Motor [ID: 100134] (Niveau 2) → ProductId: 787",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Nettoyage des vitres",
+        "Moteur d'essuie-glace",
+        "Wiper Motor"
+      ],
+      "categoryIds": [
+        100018,
+        null,
+        100134
+      ],
+      "finalCategoryId": 100134,
+      "productId": 787
+    }
+  ],
+  "productIdsInArbo": [
+    787
+  ],
+  "matchedProductIds": [
+    787
+  ]
+}

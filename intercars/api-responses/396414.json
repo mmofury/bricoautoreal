@@ -1,0 +1,36 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "396414",
+      "index": "VAL507351",
+      "tecDoc": "507351",
+      "tecDocProd": "21",
+      "articleNumber": "507351",
+      "brand": "VALEO",
+      "shortDescription": "Radiator Core, charge air cooler",
+      "description": "Supply air cooler fits: RVI MAGNUM Mack-EE9-530-MIDR06.35.40P/41 02.92-",
+      "gtuCode": "GTU_07",
+      "customsCode": "87089135",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_468",
+          "primary": false,
+          "name": {
+            "en": "Charge Air Cooler"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3852",
+          "primary": true,
+          "name": {
+            "en": "Radiator Core, charge air cooler"
+          }
+        }
+      ]
+    }
+  ]
+}

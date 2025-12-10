@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H0CAKA",
+      "index": "V10-86-0009",
+      "tecDoc": "V10-86-0009",
+      "tecDocProd": "183",
+      "articleNumber": "V10-86-0009",
+      "brand": "VEMO",
+      "shortDescription": "PCB, mechatronics (AMT)",
+      "description": "Automatic control box fits: AUDI A1, A3, Q2, TT, SEAT ALTEA, ALTEA XL, ARONA, ATECA, IBIZA IV, IBIZA IV SC, IBIZA IV ST, IBIZA V, LEON, LEON SC, LEON ST, TOLEDO III, TOLEDO IV 0.8DH-1.8 11.05-",
+      "gtuCode": "GTU_07",
+      "eans": [
+        "4062375311460"
+      ],
+      "customsCode": "87084099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1278",
+          "primary": false,
+          "name": {
+            "en": "Control Unit, automatic transmission"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_60505",
+          "primary": true,
+          "name": {
+            "en": "PCB, mechatronics (AMT)"
+          }
+        }
+      ]
+    }
+  ]
+}

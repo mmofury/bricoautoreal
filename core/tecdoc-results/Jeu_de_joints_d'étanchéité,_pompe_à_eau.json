@@ -1,0 +1,119 @@
+{
+  "productName": "Jeu de joints d'étanchéité, pompe à eau",
+  "searchText": "Jeu de joints d'étanchéité, pompe à eau",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:50:20.068Z",
+  "productId": 315,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Joints": {
+          "categoryId": null,
+          "categoryName": "Joints",
+          "level": 2,
+          "children": {
+            "Jeu de joints d'étanchéité, pompe à eau": {
+              "categoryId": 100223,
+              "categoryName": "Gaskets",
+              "level": 2,
+              "children": {
+                "Joint d'eau de refroidissement": {
+                  "categoryId": null,
+                  "categoryName": "Joint d'eau de refroidissement",
+                  "level": 4,
+                  "children": {
+                    "Jeu de joints d'étanchéité, pompe à eau": {
+                      "categoryId": 100683,
+                      "categoryName": "Coolant Circuit Seals",
+                      "level": 3,
+                      "children": [],
+                      "productId": 315
+                    }
+                  }
+                }
+              },
+              "productId": 315
+            }
+          }
+        }
+      }
+    },
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Pompe à eau / joint": {
+          "categoryId": null,
+          "categoryName": "Pompe à eau / joint",
+          "level": 2,
+          "children": {
+            "Jeu de joints d'étanchéité, pompe à eau": {
+              "categoryId": 100088,
+              "categoryName": "Water Pump/Gasket",
+              "level": 2,
+              "children": {
+                "Joint": {
+                  "categoryId": null,
+                  "categoryName": "Joint",
+                  "level": 4,
+                  "children": {
+                    "Jeu de joints d'étanchéité, pompe à eau": {
+                      "categoryId": 100089,
+                      "categoryName": "Seal",
+                      "level": 3,
+                      "children": [],
+                      "productId": 315
+                    }
+                  }
+                }
+              },
+              "productId": 315
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Moteur [ID: 100002] (Niveau 1)\n│   └── Joints (Niveau 2)\n│       └── Gaskets [ID: 100223] (Niveau 2) → ProductId: 315\n│           └── Joint d'eau de refroidissement (Niveau 4)\n│               └── Coolant Circuit Seals [ID: 100683] (Niveau 3) → ProductId: 315\n\n└── Refroidissement [ID: 100007] (Niveau 1)\n    └── Pompe à eau / joint (Niveau 2)\n        └── Water Pump/Gasket [ID: 100088] (Niveau 2) → ProductId: 315\n            └── Joint (Niveau 4)\n                └── Seal [ID: 100089] (Niveau 3) → ProductId: 315",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Joints",
+        "Gaskets"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100223
+      ],
+      "finalCategoryId": 100223,
+      "productId": 315
+    },
+    {
+      "path": [
+        "Refroidissement",
+        "Pompe à eau / joint",
+        "Water Pump/Gasket"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100088
+      ],
+      "finalCategoryId": 100088,
+      "productId": 315
+    }
+  ],
+  "productIdsInArbo": [
+    315
+  ],
+  "matchedProductIds": [
+    315
+  ]
+}

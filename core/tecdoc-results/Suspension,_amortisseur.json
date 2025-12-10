@@ -1,0 +1,54 @@
+{
+  "productName": "Suspension, amortisseur",
+  "searchText": "Suspension, amortisseur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:22:40.647Z",
+  "productId": 950,
+  "arborescence": {
+    "Suspension/Amortissement": {
+      "categoryId": 100011,
+      "categoryName": "Suspension/Amortissement",
+      "level": 1,
+      "children": {
+        "Coupelle de suspension/d'amortisseur": {
+          "categoryId": null,
+          "categoryName": "Coupelle de suspension/d'amortisseur",
+          "level": 2,
+          "children": {
+            "Suspension, amortisseur": {
+              "categoryId": 100371,
+              "categoryName": "Suspension Strut/Shock Absorber Mount",
+              "level": 2,
+              "children": [],
+              "productId": 950
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Suspension/Amortissement [ID: 100011] (Niveau 1)\n    └── Coupelle de suspension/d'amortisseur (Niveau 2)\n        └── Suspension Strut/Shock Absorber Mount [ID: 100371] (Niveau 2) → ProductId: 950",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Coupelle de suspension/d'amortisseur",
+        "Suspension Strut/Shock Absorber Mount"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        100371
+      ],
+      "finalCategoryId": 100371,
+      "productId": 950
+    }
+  ],
+  "productIdsInArbo": [
+    950
+  ],
+  "matchedProductIds": [
+    950
+  ]
+}

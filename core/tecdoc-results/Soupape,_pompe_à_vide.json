@@ -1,0 +1,54 @@
+{
+  "productName": "Soupape, pompe à vide",
+  "searchText": "Soupape, pompe à vide",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:18:02.738Z",
+  "productId": 665,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Pompe à vide": {
+          "categoryId": null,
+          "categoryName": "Pompe à vide",
+          "level": 2,
+          "children": {
+            "Soupape, pompe à vide": {
+              "categoryId": 100039,
+              "categoryName": "Vacuum Pump",
+              "level": 2,
+              "children": [],
+              "productId": 665
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif de freinage [ID: 100006] (Niveau 1)\n    └── Pompe à vide (Niveau 2)\n        └── Vacuum Pump [ID: 100039] (Niveau 2) → ProductId: 665",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Pompe à vide",
+        "Vacuum Pump"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100039
+      ],
+      "finalCategoryId": 100039,
+      "productId": 665
+    }
+  ],
+  "productIdsInArbo": [
+    665
+  ],
+  "matchedProductIds": [
+    665
+  ]
+}

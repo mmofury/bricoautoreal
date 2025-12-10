@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.412Z",
+  "manufacturer": "MERKUR",
+  "countGroups": 1,
+  "groups": [
+    {
+      "manufacturerId": 2711,
+      "manufacturerName": "MERKUR",
+      "groupKey": "SCORPIO",
+      "displayName": "SCORPIO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32791,
+          "modelName": "SCORPIO Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1983-09-01",
+          "modelYearTo": "1989-12-01"
+        },
+        {
+          "modelId": 32793,
+          "modelName": "SCORPIO A trois volumes",
+          "modelYearFrom": "1983-09-01",
+          "modelYearTo": "1989-12-01"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "BF6F16",
+      "index": "1.23281",
+      "tecDoc": "1.23281",
+      "tecDocProd": "355",
+      "articleNumber": "1.23281",
+      "brand": "DT SPARE PARTS",
+      "shortDescription": "Screw",
+      "description": "Bolt M14x2/50mm (class 8,8) fits: SCANIA 4, G I, P I, R I, T 05.95-05.19",
+      "eans": [
+        "4047755247294"
+      ],
+      "packageWeight": "0,080",
+      "packageWidth": "2,600",
+      "packageDepth": "2,600",
+      "packageHeight": "6,500",
+      "customsCode": "73181595",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1484",
+          "primary": true,
+          "name": {
+            "en": "Screw"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_4020",
+          "primary": false,
+          "name": {
+            "en": "Bolt, driver cab stabiliser"
+          }
+        }
+      ]
+    }
+  ]
+}

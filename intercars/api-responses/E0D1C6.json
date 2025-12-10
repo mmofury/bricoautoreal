@@ -1,0 +1,50 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "E0D1C6",
+      "index": "QBXC",
+      "tecDoc": "XC",
+      "tecDocProd": "6304",
+      "articleNumber": "XC",
+      "brand": "QUICK BRAKE",
+      "shortDescription": "Holding Bracket, brake hose",
+      "description": "Brake pipe brackets (hook)",
+      "gtuCode": "GTU_07",
+      "eans": [
+        "5706021154177"
+      ],
+      "packageWeight": "0,007",
+      "packageWidth": "2,000",
+      "packageDepth": "3,000",
+      "packageHeight": "2,000",
+      "customsCode": "87083099",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1101",
+          "primary": false,
+          "name": {
+            "en": "Holder, brake line"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3192",
+          "primary": true,
+          "name": {
+            "en": "Adapter, brake line"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_122",
+          "primary": true,
+          "name": {
+            "en": "Holding Bracket, brake hose"
+          }
+        }
+      ]
+    }
+  ]
+}

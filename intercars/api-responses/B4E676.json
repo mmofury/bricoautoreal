@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "B4E676",
+      "index": "FAE79186",
+      "tecDoc": "79186",
+      "tecDocProd": "240",
+      "articleNumber": "79186",
+      "brand": "FAE",
+      "shortDescription": "RPM Sensor, automatic transmission",
+      "description": "Crankshaft position sensor fits: FORD COUGAR, MAVERICK, MONDEO I, MONDEO II, MONDEO III 1.6-3.0 02.93-",
+      "eans": [
+        "8435050624500"
+      ],
+      "packageWeight": "0,060",
+      "packageWidth": "4,500",
+      "packageDepth": "7,000",
+      "packageHeight": "4,000",
+      "customsCode": "90328900",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_833",
+          "primary": false,
+          "name": {
+            "en": "Sensor, crankshaft pulse"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_4113",
+          "primary": true,
+          "name": {
+            "en": "RPM Sensor, automatic transmission"
+          }
+        }
+      ]
+    }
+  ]
+}

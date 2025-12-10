@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "E2334E",
+      "index": "03.9302-9003.3",
+      "tecDoc": "03.9302-9003.3",
+      "tecDocProd": "3",
+      "articleNumber": "03.9302-9003.3",
+      "brand": "ATE",
+      "shortDescription": "Devices for working fluids and fuels",
+      "description": "Hose, application: brake fluid ATE",
+      "packageWeight": "0,867",
+      "packageWidth": "30,000",
+      "packageDepth": "7,000",
+      "packageHeight": "30,000",
+      "customsCode": "82060000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3672",
+          "primary": false,
+          "name": {
+            "en": "Filler Hose, filling/bleeding unit (brake hydraulics)"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91773",
+          "primary": true,
+          "name": {
+            "en": "Devices for working fluids and fuels"
+          }
+        }
+      ]
+    }
+  ]
+}

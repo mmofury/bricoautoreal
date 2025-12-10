@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.479Z",
+  "manufacturer": "SD",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 5813,
+      "manufacturerName": "SD",
+      "groupKey": "SA01",
+      "displayName": "SA01",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41081,
+          "modelName": "SA01",
+          "modelYearFrom": "2020-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5813,
+      "manufacturerName": "SD",
+      "groupKey": "SD01",
+      "displayName": "SD01",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41082,
+          "modelName": "SD01",
+          "modelYearFrom": "2020-08-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

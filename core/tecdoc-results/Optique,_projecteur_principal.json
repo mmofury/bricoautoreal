@@ -1,0 +1,177 @@
+{
+  "productName": "Optique, projecteur principal",
+  "searchText": "Optique, projecteur principal",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:17:19.895Z",
+  "productId": 88,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Avant du véhicule": {
+          "categoryId": null,
+          "categoryName": "Avant du véhicule",
+          "level": 2,
+          "children": {
+            "Optique, projecteur principal": {
+              "categoryId": 101648,
+              "categoryName": "Vehicle Front",
+              "level": 2,
+              "children": {
+                "Projecteurs principaux / composants": {
+                  "categoryId": null,
+                  "categoryName": "Projecteurs principaux / composants",
+                  "level": 4,
+                  "children": {
+                    "Optique, projecteur principal": {
+                      "categoryId": 101656,
+                      "categoryName": "Headlight/Parts",
+                      "level": 3,
+                      "children": {
+                        "Projecteurs principaux / à insérer": {
+                          "categoryId": null,
+                          "categoryName": "Projecteurs principaux / à insérer",
+                          "level": 6,
+                          "children": {
+                            "Optique, projecteur principal": {
+                              "categoryId": 101657,
+                              "categoryName": "Headlight/Insert",
+                              "level": 4,
+                              "children": [],
+                              "productId": 88
+                            }
+                          }
+                        }
+                      },
+                      "productId": 88
+                    }
+                  }
+                }
+              },
+              "productId": 88
+            }
+          }
+        },
+        "Projecteurs principaux / composants": {
+          "categoryId": null,
+          "categoryName": "Projecteurs principaux / composants",
+          "level": 2,
+          "children": {
+            "Optique, projecteur principal": {
+              "categoryId": 101465,
+              "categoryName": "Headlight/Parts",
+              "level": 2,
+              "children": {
+                "Projecteurs principaux / à insérer": {
+                  "categoryId": null,
+                  "categoryName": "Projecteurs principaux / à insérer",
+                  "level": 4,
+                  "children": {
+                    "Optique, projecteur principal": {
+                      "categoryId": 101466,
+                      "categoryName": "Headlight/Insert",
+                      "level": 3,
+                      "children": [],
+                      "productId": 88
+                    }
+                  }
+                }
+              },
+              "productId": 88
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Projecteurs principaux / composants": {
+          "categoryId": null,
+          "categoryName": "Projecteurs principaux / composants",
+          "level": 2,
+          "children": {
+            "Optique, projecteur principal": {
+              "categoryId": 100143,
+              "categoryName": "Headlight/Parts",
+              "level": 2,
+              "children": {
+                "Projecteurs principaux / à insérer": {
+                  "categoryId": null,
+                  "categoryName": "Projecteurs principaux / à insérer",
+                  "level": 4,
+                  "children": {
+                    "Optique, projecteur principal": {
+                      "categoryId": 100433,
+                      "categoryName": "Headlight/Insert",
+                      "level": 3,
+                      "children": [],
+                      "productId": 88
+                    }
+                  }
+                }
+              },
+              "productId": 88
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carrosserie [ID: 100001] (Niveau 1)\n│   ├── Avant du véhicule (Niveau 2)\n│   │   └── Vehicle Front [ID: 101648] (Niveau 2) → ProductId: 88\n│   │       └── Projecteurs principaux / composants (Niveau 4)\n│   │           └── Headlight/Parts [ID: 101656] (Niveau 3) → ProductId: 88\n│   │               └── Projecteurs principaux / à insérer (Niveau 6)\n│   │                   └── Headlight/Insert [ID: 101657] (Niveau 4) → ProductId: 88\n│   └── Projecteurs principaux / composants (Niveau 2)\n│       └── Headlight/Parts [ID: 101465] (Niveau 2) → ProductId: 88\n│           └── Projecteurs principaux / à insérer (Niveau 4)\n│               └── Headlight/Insert [ID: 101466] (Niveau 3) → ProductId: 88\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Projecteurs principaux / composants (Niveau 2)\n        └── Headlight/Parts [ID: 100143] (Niveau 2) → ProductId: 88\n            └── Projecteurs principaux / à insérer (Niveau 4)\n                └── Headlight/Insert [ID: 100433] (Niveau 3) → ProductId: 88",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Avant du véhicule",
+        "Vehicle Front"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101648
+      ],
+      "finalCategoryId": 101648,
+      "productId": 88
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Projecteurs principaux / composants",
+        "Headlight/Parts"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101465
+      ],
+      "finalCategoryId": 101465,
+      "productId": 88
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Projecteurs principaux / composants",
+        "Headlight/Parts"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100143
+      ],
+      "finalCategoryId": 100143,
+      "productId": 88
+    }
+  ],
+  "productIdsInArbo": [
+    88
+  ],
+  "matchedProductIds": [
+    88
+  ]
+}

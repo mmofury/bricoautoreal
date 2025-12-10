@@ -1,0 +1,69 @@
+{
+  "productName": "Kit de réparation, suspension de la cabine",
+  "searchText": "Kit de réparation, suspension de la cabine",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:06:34.753Z",
+  "productId": 3242,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Cabine": {
+          "categoryId": null,
+          "categoryName": "Cabine",
+          "level": 2,
+          "children": {
+            "Kit de réparation, suspension de la cabine": {
+              "categoryId": 103213,
+              "categoryName": "Driver Cab",
+              "level": 2,
+              "children": {
+                "Suspension de la cabine": {
+                  "categoryId": null,
+                  "categoryName": "Suspension de la cabine",
+                  "level": 4,
+                  "children": {
+                    "Kit de réparation, suspension de la cabine": {
+                      "categoryId": 103214,
+                      "categoryName": "Driver Cab Suspension",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3242
+                    }
+                  }
+                }
+              },
+              "productId": 3242
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    └── Cabine (Niveau 2)\n        └── Driver Cab [ID: 103213] (Niveau 2) → ProductId: 3242\n            └── Suspension de la cabine (Niveau 4)\n                └── Driver Cab Suspension [ID: 103214] (Niveau 3) → ProductId: 3242",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Cabine",
+        "Driver Cab"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        103213
+      ],
+      "finalCategoryId": 103213,
+      "productId": 3242
+    }
+  ],
+  "productIdsInArbo": [
+    3242
+  ],
+  "matchedProductIds": [
+    3242
+  ]
+}

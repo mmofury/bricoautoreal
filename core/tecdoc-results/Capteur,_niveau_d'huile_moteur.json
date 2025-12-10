@@ -1,0 +1,147 @@
+{
+  "productName": "Capteur, niveau d'huile moteur",
+  "searchText": "Capteur, niveau d'huile moteur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:16:06.242Z",
+  "productId": 1289,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Lubrification": {
+          "categoryId": null,
+          "categoryName": "Lubrification",
+          "level": 2,
+          "children": {
+            "Capteur, niveau d'huile moteur": {
+              "categoryId": 100245,
+              "categoryName": "Lubrication",
+              "level": 2,
+              "children": {
+                "Indicateur de pression d'huile / capteur / soupape": {
+                  "categoryId": null,
+                  "categoryName": "Indicateur de pression d'huile / capteur / soupape",
+                  "level": 4,
+                  "children": {
+                    "Capteur, niveau d'huile moteur": {
+                      "categoryId": 100478,
+                      "categoryName": "Oil Pressure Switch/Sensor/Valve",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1289
+                    }
+                  }
+                }
+              },
+              "productId": 1289
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Capteurs": {
+          "categoryId": null,
+          "categoryName": "Capteurs",
+          "level": 2,
+          "children": {
+            "Capteur, niveau d'huile moteur": {
+              "categoryId": 102747,
+              "categoryName": "Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 1289
+            }
+          }
+        },
+        "Instruments": {
+          "categoryId": null,
+          "categoryName": "Instruments",
+          "level": 2,
+          "children": {
+            "Capteur, niveau d'huile moteur": {
+              "categoryId": 100322,
+              "categoryName": "Instruments",
+              "level": 2,
+              "children": {
+                "Capteurs/Conatct": {
+                  "categoryId": null,
+                  "categoryName": "Capteurs/Conatct",
+                  "level": 4,
+                  "children": {
+                    "Capteur, niveau d'huile moteur": {
+                      "categoryId": 100553,
+                      "categoryName": "Sensors/Switches",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1289
+                    }
+                  }
+                }
+              },
+              "productId": 1289
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Moteur [ID: 100002] (Niveau 1)\n│   └── Lubrification (Niveau 2)\n│       └── Lubrication [ID: 100245] (Niveau 2) → ProductId: 1289\n│           └── Indicateur de pression d'huile / capteur / soupape (Niveau 4)\n│               └── Oil Pressure Switch/Sensor/Valve [ID: 100478] (Niveau 3) → ProductId: 1289\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    ├── Capteurs (Niveau 2)\n    │   └── Sensors [ID: 102747] (Niveau 2) → ProductId: 1289\n    └── Instruments (Niveau 2)\n        └── Instruments [ID: 100322] (Niveau 2) → ProductId: 1289\n            └── Capteurs/Conatct (Niveau 4)\n                └── Sensors/Switches [ID: 100553] (Niveau 3) → ProductId: 1289",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Lubrification",
+        "Lubrication"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100245
+      ],
+      "finalCategoryId": 100245,
+      "productId": 1289
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Capteurs",
+        "Sensors"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        102747
+      ],
+      "finalCategoryId": 102747,
+      "productId": 1289
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Instruments",
+        "Instruments"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100322
+      ],
+      "finalCategoryId": 100322,
+      "productId": 1289
+    }
+  ],
+  "productIdsInArbo": [
+    1289
+  ],
+  "matchedProductIds": [
+    1289
+  ]
+}

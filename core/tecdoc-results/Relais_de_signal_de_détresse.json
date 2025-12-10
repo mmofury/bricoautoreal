@@ -1,0 +1,82 @@
+{
+  "productName": "Relais de signal de détresse",
+  "searchText": "Relais de signal de détresse",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:07:16.344Z",
+  "productId": 802,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Centrale clignotante/Relais": {
+          "categoryId": null,
+          "categoryName": "Centrale clignotante/Relais",
+          "level": 2,
+          "children": {
+            "Relais de signal de détresse": {
+              "categoryId": 100511,
+              "categoryName": "Flasher Unit/Relay",
+              "level": 2,
+              "children": [],
+              "productId": 802
+            }
+          }
+        },
+        "Relais": {
+          "categoryId": null,
+          "categoryName": "Relais",
+          "level": 2,
+          "children": {
+            "Relais de signal de détresse": {
+              "categoryId": 100785,
+              "categoryName": "Relay",
+              "level": 2,
+              "children": [],
+              "productId": 802
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    ├── Centrale clignotante/Relais (Niveau 2)\n    │   └── Flasher Unit/Relay [ID: 100511] (Niveau 2) → ProductId: 802\n    └── Relais (Niveau 2)\n        └── Relay [ID: 100785] (Niveau 2) → ProductId: 802",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Centrale clignotante/Relais",
+        "Flasher Unit/Relay"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100511
+      ],
+      "finalCategoryId": 100511,
+      "productId": 802
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Relais",
+        "Relay"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100785
+      ],
+      "finalCategoryId": 100785,
+      "productId": 802
+    }
+  ],
+  "productIdsInArbo": [
+    802
+  ],
+  "matchedProductIds": [
+    802
+  ]
+}

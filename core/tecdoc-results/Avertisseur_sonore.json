@@ -1,0 +1,227 @@
+{
+  "productName": "Avertisseur sonore",
+  "searchText": "Avertisseur sonore",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:01:48.503Z",
+  "productId": 297,
+  "arborescence": {
+    "Équipement intérieur": {
+      "categoryId": 100341,
+      "categoryName": "Équipement intérieur",
+      "level": 1,
+      "children": {
+        "Leviers manuels / Leviers de pédale": {
+          "categoryId": null,
+          "categoryName": "Leviers manuels / Leviers de pédale",
+          "level": 2,
+          "children": {
+            "Interrupteur, avertisseur": {
+              "categoryId": 102695,
+              "categoryName": "Hand/Foot Lever System",
+              "level": 2,
+              "children": [],
+              "productId": 1767
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Avertisseur sonore / trompette": {
+          "categoryId": null,
+          "categoryName": "Avertisseur sonore / trompette",
+          "level": 2,
+          "children": {
+            "Avertisseur sonore": {
+              "categoryId": 100320,
+              "categoryName": "Signal Horn/Trumpet Horn",
+              "level": 2,
+              "children": [],
+              "productId": 297
+            },
+            "Bague collectrice, klaxon": {
+              "categoryId": 100320,
+              "categoryName": "Signal Horn/Trumpet Horn",
+              "level": 2,
+              "children": [],
+              "productId": 60341
+            },
+            "Interrupteur, avertisseur": {
+              "categoryId": 100320,
+              "categoryName": "Signal Horn/Trumpet Horn",
+              "level": 2,
+              "children": [],
+              "productId": 1767
+            },
+            "Kit réparation de câble, klaxon/avertisseur": {
+              "categoryId": 100320,
+              "categoryName": "Signal Horn/Trumpet Horn",
+              "level": 2,
+              "children": [],
+              "productId": 9669
+            },
+            "Relais, klaxon/avertisseur sonore": {
+              "categoryId": 100320,
+              "categoryName": "Signal Horn/Trumpet Horn",
+              "level": 2,
+              "children": [],
+              "productId": 2262
+            },
+            "Trompette": {
+              "categoryId": 100320,
+              "categoryName": "Signal Horn/Trumpet Horn",
+              "level": 2,
+              "children": [],
+              "productId": 196
+            }
+          }
+        },
+        "Relais": {
+          "categoryId": null,
+          "categoryName": "Relais",
+          "level": 2,
+          "children": {
+            "Relais, klaxon/avertisseur sonore": {
+              "categoryId": 100785,
+              "categoryName": "Relay",
+              "level": 2,
+              "children": [],
+              "productId": 2262
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Équipement intérieur [ID: 100341] (Niveau 1)\n│   └── Leviers manuels / Leviers de pédale (Niveau 2)\n│       └── Hand/Foot Lever System [ID: 102695] (Niveau 2) → ProductId: 1767\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    ├── Avertisseur sonore / trompette (Niveau 2)\n    │   ├── Signal Horn/Trumpet Horn [ID: 100320] (Niveau 2) → ProductId: 297\n    │   ├── Signal Horn/Trumpet Horn [ID: 100320] (Niveau 2) → ProductId: 60341\n    │   ├── Signal Horn/Trumpet Horn [ID: 100320] (Niveau 2) → ProductId: 1767\n    │   ├── Signal Horn/Trumpet Horn [ID: 100320] (Niveau 2) → ProductId: 9669\n    │   ├── Signal Horn/Trumpet Horn [ID: 100320] (Niveau 2) → ProductId: 2262\n    │   └── Signal Horn/Trumpet Horn [ID: 100320] (Niveau 2) → ProductId: 196\n    └── Relais (Niveau 2)\n        └── Relay [ID: 100785] (Niveau 2) → ProductId: 2262",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Équipement intérieur",
+        "Leviers manuels / Leviers de pédale",
+        "Hand/Foot Lever System"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102695
+      ],
+      "finalCategoryId": 102695,
+      "productId": 1767
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Avertisseur sonore / trompette",
+        "Signal Horn/Trumpet Horn"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100320
+      ],
+      "finalCategoryId": 100320,
+      "productId": 297
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Avertisseur sonore / trompette",
+        "Signal Horn/Trumpet Horn"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100320
+      ],
+      "finalCategoryId": 100320,
+      "productId": 60341
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Avertisseur sonore / trompette",
+        "Signal Horn/Trumpet Horn"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100320
+      ],
+      "finalCategoryId": 100320,
+      "productId": 1767
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Avertisseur sonore / trompette",
+        "Signal Horn/Trumpet Horn"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100320
+      ],
+      "finalCategoryId": 100320,
+      "productId": 9669
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Avertisseur sonore / trompette",
+        "Signal Horn/Trumpet Horn"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100320
+      ],
+      "finalCategoryId": 100320,
+      "productId": 2262
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Avertisseur sonore / trompette",
+        "Signal Horn/Trumpet Horn"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100320
+      ],
+      "finalCategoryId": 100320,
+      "productId": 196
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Relais",
+        "Relay"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100785
+      ],
+      "finalCategoryId": 100785,
+      "productId": 2262
+    }
+  ],
+  "productIdsInArbo": [
+    196,
+    297,
+    1767,
+    2262,
+    9669,
+    60341
+  ],
+  "matchedProductIds": [
+    297
+  ]
+}

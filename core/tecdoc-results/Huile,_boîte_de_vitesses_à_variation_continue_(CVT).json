@@ -1,0 +1,54 @@
+{
+  "productName": "Huile, boîte de vitesses à variation continue (CVT)",
+  "searchText": "Huile, boîte de vitesses à variation continue (CVT)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:45:01.215Z",
+  "productId": 8562,
+  "arborescence": {
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Huiles": {
+          "categoryId": null,
+          "categoryName": "Huiles",
+          "level": 2,
+          "children": {
+            "Huile, boîte de vitesses à variation continue (CVT)": {
+              "categoryId": 706233,
+              "categoryName": "Oil",
+              "level": 2,
+              "children": [],
+              "productId": 8562
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Boîte de vitesses [ID: 100238] (Niveau 1)\n    └── Huiles (Niveau 2)\n        └── Oil [ID: 706233] (Niveau 2) → ProductId: 8562",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Huiles",
+        "Oil"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        706233
+      ],
+      "finalCategoryId": 706233,
+      "productId": 8562
+    }
+  ],
+  "productIdsInArbo": [
+    8562
+  ],
+  "matchedProductIds": [
+    8562
+  ]
+}

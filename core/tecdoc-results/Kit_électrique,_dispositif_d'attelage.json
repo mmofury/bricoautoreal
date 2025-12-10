@@ -1,0 +1,120 @@
+{
+  "productName": "Kit électrique, dispositif d'attelage",
+  "searchText": "Kit électrique, dispositif d'attelage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:10:56.844Z",
+  "productId": 179,
+  "arborescence": {
+    "Dispositif d'attelage/accessoires": {
+      "categoryId": 100015,
+      "categoryName": "Dispositif d'attelage/accessoires",
+      "level": 1,
+      "children": {
+        "Pièces du système électrique": {
+          "categoryId": null,
+          "categoryName": "Pièces du système électrique",
+          "level": 2,
+          "children": {
+            "Adaptateur, kit électrique": {
+              "categoryId": 100608,
+              "categoryName": "Electric Parts",
+              "level": 2,
+              "children": [],
+              "productId": 4234
+            },
+            "Kit d'extension, kit électrique (dispositif d'attelage)": {
+              "categoryId": 100608,
+              "categoryName": "Electric Parts",
+              "level": 2,
+              "children": [],
+              "productId": 6881
+            },
+            "Kit d’extension, kit électrique pour attelage de remorque": {
+              "categoryId": 100608,
+              "categoryName": "Electric Parts",
+              "level": 2,
+              "children": [],
+              "productId": 60203
+            },
+            "Kit électrique, dispositif d'attelage": {
+              "categoryId": 100608,
+              "categoryName": "Electric Parts",
+              "level": 2,
+              "children": [],
+              "productId": 179
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif d'attelage/accessoires [ID: 100015] (Niveau 1)\n    └── Pièces du système électrique (Niveau 2)\n        ├── Electric Parts [ID: 100608] (Niveau 2) → ProductId: 4234\n        ├── Electric Parts [ID: 100608] (Niveau 2) → ProductId: 6881\n        ├── Electric Parts [ID: 100608] (Niveau 2) → ProductId: 60203\n        └── Electric Parts [ID: 100608] (Niveau 2) → ProductId: 179",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif d'attelage/accessoires",
+        "Pièces du système électrique",
+        "Electric Parts"
+      ],
+      "categoryIds": [
+        100015,
+        null,
+        100608
+      ],
+      "finalCategoryId": 100608,
+      "productId": 4234
+    },
+    {
+      "path": [
+        "Dispositif d'attelage/accessoires",
+        "Pièces du système électrique",
+        "Electric Parts"
+      ],
+      "categoryIds": [
+        100015,
+        null,
+        100608
+      ],
+      "finalCategoryId": 100608,
+      "productId": 6881
+    },
+    {
+      "path": [
+        "Dispositif d'attelage/accessoires",
+        "Pièces du système électrique",
+        "Electric Parts"
+      ],
+      "categoryIds": [
+        100015,
+        null,
+        100608
+      ],
+      "finalCategoryId": 100608,
+      "productId": 60203
+    },
+    {
+      "path": [
+        "Dispositif d'attelage/accessoires",
+        "Pièces du système électrique",
+        "Electric Parts"
+      ],
+      "categoryIds": [
+        100015,
+        null,
+        100608
+      ],
+      "finalCategoryId": 100608,
+      "productId": 179
+    }
+  ],
+  "productIdsInArbo": [
+    179,
+    4234,
+    6881,
+    60203
+  ],
+  "matchedProductIds": [
+    179
+  ]
+}

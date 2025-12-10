@@ -1,0 +1,54 @@
+{
+  "productName": "Kit de câbles d'allumage",
+  "searchText": "Kit de câbles d'allumage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:59:39.270Z",
+  "productId": 685,
+  "arborescence": {
+    "Allumage / préchauffage": {
+      "categoryId": 100008,
+      "categoryName": "Allumage / préchauffage",
+      "level": 1,
+      "children": {
+        "Raccords de câble d'allumage": {
+          "categoryId": null,
+          "categoryName": "Raccords de câble d'allumage",
+          "level": 2,
+          "children": {
+            "Kit de câbles d'allumage": {
+              "categoryId": 100153,
+              "categoryName": "Ignition Cable/Connecting Parts",
+              "level": 2,
+              "children": [],
+              "productId": 685
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Allumage / préchauffage [ID: 100008] (Niveau 1)\n    └── Raccords de câble d'allumage (Niveau 2)\n        └── Ignition Cable/Connecting Parts [ID: 100153] (Niveau 2) → ProductId: 685",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Raccords de câble d'allumage",
+        "Ignition Cable/Connecting Parts"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        100153
+      ],
+      "finalCategoryId": 100153,
+      "productId": 685
+    }
+  ],
+  "productIdsInArbo": [
+    685
+  ],
+  "matchedProductIds": [
+    685
+  ]
+}

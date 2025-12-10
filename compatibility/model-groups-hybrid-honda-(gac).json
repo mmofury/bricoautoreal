@@ -1,0 +1,331 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.320Z",
+  "manufacturer": "HONDA (GAC)",
+  "countGroups": 14,
+  "groups": [
+    {
+      "manufacturerId": 3129,
+      "manufacturerName": "HONDA (GAC)",
+      "groupKey": "ACCORD",
+      "displayName": "ACCORD",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6550,
+          "modelName": "ACCORD VI (CF_, CG_)",
+          "modelYearFrom": "1999-01-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 6597,
+          "modelName": "ACCORD VII (CM_)",
+          "modelYearFrom": "2003-01-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 7453,
+          "modelName": "ACCORD VIII (CP_)",
+          "modelYearFrom": "2008-01-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 11789,
+          "modelName": "ACCORD IX (CR_)",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38639,
+          "modelName": "ACCORD X (CV_)",
+          "modelYearFrom": "2018-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44458,
+          "modelName": "ACCORD XI (CY_)",
+          "modelYearFrom": "2023-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3129,
+      "manufacturerName": "HONDA (GAC)",
+      "groupKey": "AVANCIER",
+      "displayName": "AVANCIER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37482,
+          "modelName": "AVANCIER (TG_)",
+          "modelYearFrom": "2016-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3129,
+      "manufacturerName": "HONDA (GAC)",
+      "groupKey": "BREEZE",
+      "displayName": "BREEZE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40233,
+          "modelName": "BREEZE (RY_)",
+          "modelYearFrom": "2019-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43895,
+          "modelName": "BREEZE (RT_, RV_)",
+          "modelYearFrom": "2022-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3129,
+      "manufacturerName": "HONDA (GAC)",
+      "groupKey": "CITY",
+      "displayName": "CITY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6551,
+          "modelName": "CITY (GD_)",
+          "modelYearFrom": "2006-03-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 10820,
+          "modelName": "CITY (GM_)",
+          "modelYearFrom": "2008-12-01",
+          "modelYearTo": "2015-12-01"
+        },
+        {
+          "modelId": 14613,
+          "modelName": "CITY (GM6)",
+          "modelYearFrom": "2015-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3129,
+      "manufacturerName": "HONDA (GAC)",
+      "groupKey": "CRIDER",
+      "displayName": "CRIDER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11705,
+          "modelName": "CRIDER (GJ_)",
+          "modelYearFrom": "2013-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39221,
+          "modelName": "CRIDER (FS_)",
+          "modelYearFrom": "2018-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3129,
+      "manufacturerName": "HONDA (GAC)",
+      "groupKey": "CROSSTOUR",
+      "displayName": "CROSSTOUR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9136,
+          "modelName": "CROSSTOUR (TF_)",
+          "modelYearFrom": "2010-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3129,
+      "manufacturerName": "HONDA (GAC)",
+      "groupKey": "E",
+      "displayName": "E",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43026,
+          "modelName": "E:NP1 (RS_)",
+          "modelYearFrom": "2022-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45493,
+          "modelName": "E:NP2 (RM_)",
+          "modelYearFrom": "2024-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3129,
+      "manufacturerName": "HONDA (GAC)",
+      "groupKey": "EA6",
+      "displayName": "EA6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42101,
+          "modelName": "EA6",
+          "modelYearFrom": "2021-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3129,
+      "manufacturerName": "HONDA (GAC)",
+      "groupKey": "FIT",
+      "displayName": "FIT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6552,
+          "modelName": "FIT Berline bicorps trois ou cinq portes (GD_)",
+          "modelYearFrom": "2004-09-01",
+          "modelYearTo": "2008-07-01"
+        },
+        {
+          "modelId": 6553,
+          "modelName": "FIT A trois volumes (GD_)",
+          "modelYearFrom": "2003-09-01",
+          "modelYearTo": "2006-11-01"
+        },
+        {
+          "modelId": 7830,
+          "modelName": "FIT Berline bicorps trois ou cinq portes (GE_)",
+          "modelYearFrom": "2008-07-01",
+          "modelYearTo": "2014-12-01"
+        },
+        {
+          "modelId": 12839,
+          "modelName": "FIT Berline bicorps trois ou cinq portes (GK_)",
+          "modelYearFrom": "2014-05-01",
+          "modelYearTo": "2020-08-01"
+        },
+        {
+          "modelId": 41065,
+          "modelName": "FIT Berline bicorps trois ou cinq portes (GR_, GS_)",
+          "modelYearFrom": "2020-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3129,
+      "manufacturerName": "HONDA (GAC)",
+      "groupKey": "INTEGRA",
+      "displayName": "INTEGRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42579,
+          "modelName": "INTEGRA A trois volumes (FE_)",
+          "modelYearFrom": "2021-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44255,
+          "modelName": "INTEGRA Berline bicorps trois ou cinq portes (FL_)",
+          "modelYearFrom": "2023-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3129,
+      "manufacturerName": "HONDA (GAC)",
+      "groupKey": "ODYSSEY",
+      "displayName": "ODYSSEY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6554,
+          "modelName": "ODYSSEY (RA_)",
+          "modelYearFrom": "2002-04-01",
+          "modelYearTo": "2005-02-01"
+        },
+        {
+          "modelId": 8167,
+          "modelName": "ODYSSEY (RB_)",
+          "modelYearFrom": "2009-08-01",
+          "modelYearTo": "2014-12-01"
+        },
+        {
+          "modelId": 13164,
+          "modelName": "ODYSSEY (RC_)",
+          "modelYearFrom": "2014-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40015,
+          "modelName": "ODYSSEY (RB_)",
+          "modelYearFrom": "2005-03-01",
+          "modelYearTo": "2009-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3129,
+      "manufacturerName": "HONDA (GAC)",
+      "groupKey": "SHIRUI",
+      "displayName": "SHIRUI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40316,
+          "modelName": "SHIRUI",
+          "modelYearFrom": "2018-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3129,
+      "manufacturerName": "HONDA (GAC)",
+      "groupKey": "VEZEL",
+      "displayName": "VEZEL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13306,
+          "modelName": "VEZEL (RU_)",
+          "modelYearFrom": "2014-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43827,
+          "modelName": "VEZEL (RV_)",
+          "modelYearFrom": "2022-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3129,
+      "manufacturerName": "HONDA (GAC)",
+      "groupKey": "ZR",
+      "displayName": "ZR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43548,
+          "modelName": "ZR-V (RZ_)",
+          "modelYearFrom": "2022-08-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

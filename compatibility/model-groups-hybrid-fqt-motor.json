@@ -1,0 +1,139 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.282Z",
+  "manufacturer": "FQT MOTOR",
+  "countGroups": 8,
+  "groups": [
+    {
+      "manufacturerId": 4257,
+      "manufacturerName": "FQT MOTOR",
+      "groupKey": "EX80",
+      "displayName": "EX80",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14641,
+          "modelName": "EX80",
+          "modelYearFrom": "2015-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4257,
+      "manufacturerName": "FQT MOTOR",
+      "groupKey": "LONG",
+      "displayName": "LONG",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42528,
+          "modelName": "LONG 7",
+          "modelYearFrom": "2021-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4257,
+      "manufacturerName": "FQT MOTOR",
+      "groupKey": "M70",
+      "displayName": "M70",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13692,
+          "modelName": "M70 Autobus/Autocar",
+          "modelYearFrom": "2014-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40649,
+          "modelName": "M70 Fourgon",
+          "modelYearFrom": "2018-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4257,
+      "manufacturerName": "FQT MOTOR",
+      "groupKey": "M70L",
+      "displayName": "M70L",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41883,
+          "modelName": "M70L Fourgon",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41884,
+          "modelName": "M70L Autobus/Autocar",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4257,
+      "manufacturerName": "FQT MOTOR",
+      "groupKey": "N30",
+      "displayName": "N30",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41885,
+          "modelName": "N30",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4257,
+      "manufacturerName": "FQT MOTOR",
+      "groupKey": "N50",
+      "displayName": "N50",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41343,
+          "modelName": "N50",
+          "modelYearFrom": "2020-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4257,
+      "manufacturerName": "FQT MOTOR",
+      "groupKey": "N60",
+      "displayName": "N60",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42530,
+          "modelName": "N60",
+          "modelYearFrom": "2021-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4257,
+      "manufacturerName": "FQT MOTOR",
+      "groupKey": "V60",
+      "displayName": "V60",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37291,
+          "modelName": "V60",
+          "modelYearFrom": "2016-11-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Support, commande-kit électrique",
+  "searchText": "Support, commande-kit électrique",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:20:59.628Z",
+  "productId": 4236,
+  "arborescence": {
+    "Dispositif d'attelage/accessoires": {
+      "categoryId": 100015,
+      "categoryName": "Dispositif d'attelage/accessoires",
+      "level": 1,
+      "children": {
+        "Composants / pièces de montage": {
+          "categoryId": null,
+          "categoryName": "Composants / pièces de montage",
+          "level": 2,
+          "children": {
+            "Support, commande-kit électrique": {
+              "categoryId": 100609,
+              "categoryName": "Parts",
+              "level": 2,
+              "children": [],
+              "productId": 4236
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif d'attelage/accessoires [ID: 100015] (Niveau 1)\n    └── Composants / pièces de montage (Niveau 2)\n        └── Parts [ID: 100609] (Niveau 2) → ProductId: 4236",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif d'attelage/accessoires",
+        "Composants / pièces de montage",
+        "Parts"
+      ],
+      "categoryIds": [
+        100015,
+        null,
+        100609
+      ],
+      "finalCategoryId": 100609,
+      "productId": 4236
+    }
+  ],
+  "productIdsInArbo": [
+    4236
+  ],
+  "matchedProductIds": [
+    4236
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "productName": "Kit de réparation, boîte de vitesses (axe E)",
+  "searchText": "Kit de réparation, boîte de vitesses (axe E)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:03:45.892Z",
+  "productId": 60690,
+  "arborescence": {
+    "Entraînement hybride/électrique": {
+      "categoryId": 706209,
+      "categoryName": "Entraînement hybride/électrique",
+      "level": 1,
+      "children": {
+        "Boîte de vitesses": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesses",
+          "level": 2,
+          "children": {
+            "Kit de réparation, boîte de vitesses (axe E)": {
+              "categoryId": 706569,
+              "categoryName": "Transmission",
+              "level": 2,
+              "children": {
+                "Réparation/entretien": {
+                  "categoryId": null,
+                  "categoryName": "Réparation/entretien",
+                  "level": 4,
+                  "children": {
+                    "Kit de réparation, boîte de vitesses (axe E)": {
+                      "categoryId": 706762,
+                      "categoryName": "Repair/Maintenance",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60690
+                    }
+                  }
+                }
+              },
+              "productId": 60690
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement hybride/électrique [ID: 706209] (Niveau 1)\n    └── Boîte de vitesses (Niveau 2)\n        └── Transmission [ID: 706569] (Niveau 2) → ProductId: 60690\n            └── Réparation/entretien (Niveau 4)\n                └── Repair/Maintenance [ID: 706762] (Niveau 3) → ProductId: 60690",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement hybride/électrique",
+        "Boîte de vitesses",
+        "Transmission"
+      ],
+      "categoryIds": [
+        706209,
+        null,
+        706569
+      ],
+      "finalCategoryId": 706569,
+      "productId": 60690
+    }
+  ],
+  "productIdsInArbo": [
+    60690
+  ],
+  "matchedProductIds": [
+    60690
+  ]
+}

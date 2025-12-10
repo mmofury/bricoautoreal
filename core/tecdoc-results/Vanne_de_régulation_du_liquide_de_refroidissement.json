@@ -1,0 +1,98 @@
+{
+  "productName": "Vanne de régulation du liquide de refroidissement",
+  "searchText": "Vanne de régulation du liquide de refroidissement",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:32:14.651Z",
+  "productId": 2073,
+  "arborescence": {
+    "Chauffage / Ventilation": {
+      "categoryId": 100241,
+      "categoryName": "Chauffage / Ventilation",
+      "level": 1,
+      "children": {
+        "Régulation/soupapes": {
+          "categoryId": null,
+          "categoryName": "Régulation/soupapes",
+          "level": 2,
+          "children": {
+            "Kit rép. de câble, vanne régulat. de liquide refroidissement": {
+              "categoryId": 102219,
+              "categoryName": "Valves/Controls",
+              "level": 2,
+              "children": [],
+              "productId": 9117
+            },
+            "Transmetteur de pression, vanne régul. liquide de refroid.": {
+              "categoryId": 102219,
+              "categoryName": "Valves/Controls",
+              "level": 2,
+              "children": [],
+              "productId": 9297
+            },
+            "Vanne de régulation du liquide de refroidissement": {
+              "categoryId": 102219,
+              "categoryName": "Valves/Controls",
+              "level": 2,
+              "children": [],
+              "productId": 2073
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Chauffage / Ventilation [ID: 100241] (Niveau 1)\n    └── Régulation/soupapes (Niveau 2)\n        ├── Valves/Controls [ID: 102219] (Niveau 2) → ProductId: 9117\n        ├── Valves/Controls [ID: 102219] (Niveau 2) → ProductId: 9297\n        └── Valves/Controls [ID: 102219] (Niveau 2) → ProductId: 2073",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Chauffage / Ventilation",
+        "Régulation/soupapes",
+        "Valves/Controls"
+      ],
+      "categoryIds": [
+        100241,
+        null,
+        102219
+      ],
+      "finalCategoryId": 102219,
+      "productId": 9117
+    },
+    {
+      "path": [
+        "Chauffage / Ventilation",
+        "Régulation/soupapes",
+        "Valves/Controls"
+      ],
+      "categoryIds": [
+        100241,
+        null,
+        102219
+      ],
+      "finalCategoryId": 102219,
+      "productId": 9297
+    },
+    {
+      "path": [
+        "Chauffage / Ventilation",
+        "Régulation/soupapes",
+        "Valves/Controls"
+      ],
+      "categoryIds": [
+        100241,
+        null,
+        102219
+      ],
+      "finalCategoryId": 102219,
+      "productId": 2073
+    }
+  ],
+  "productIdsInArbo": [
+    2073,
+    9117,
+    9297
+  ],
+  "matchedProductIds": [
+    2073
+  ]
+}

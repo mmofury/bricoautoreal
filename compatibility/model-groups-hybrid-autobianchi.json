@@ -1,0 +1,97 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.170Z",
+  "manufacturer": "AUTOBIANCHI",
+  "countGroups": 4,
+  "groups": [
+    {
+      "manufacturerId": 799,
+      "manufacturerName": "AUTOBIANCHI",
+      "groupKey": "A",
+      "displayName": "A",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1600,
+          "modelName": "A 111",
+          "modelYearFrom": "1969-08-01",
+          "modelYearTo": "1972-11-01"
+        },
+        {
+          "modelId": 1601,
+          "modelName": "A 112",
+          "modelYearFrom": "1969-10-01",
+          "modelYearTo": "1986-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 799,
+      "manufacturerName": "AUTOBIANCHI",
+      "groupKey": "BIANCHINA",
+      "displayName": "BIANCHINA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7557,
+          "modelName": "BIANCHINA Coupé",
+          "modelYearFrom": "1957-01-01",
+          "modelYearTo": "1962-12-01"
+        },
+        {
+          "modelId": 7558,
+          "modelName": "BIANCHINA Décapotable",
+          "modelYearFrom": "1960-01-01",
+          "modelYearTo": "1969-12-01"
+        },
+        {
+          "modelId": 7559,
+          "modelName": "BIANCHINA Break",
+          "modelYearFrom": "1960-01-01",
+          "modelYearTo": "1969-12-01"
+        },
+        {
+          "modelId": 7560,
+          "modelName": "BIANCHINA Berlina",
+          "modelYearFrom": "1962-01-01",
+          "modelYearTo": "1969-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 799,
+      "manufacturerName": "AUTOBIANCHI",
+      "groupKey": "PRIMULA",
+      "displayName": "PRIMULA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7561,
+          "modelName": "PRIMULA Berlina",
+          "modelYearFrom": "1964-01-01",
+          "modelYearTo": "1970-12-01"
+        },
+        {
+          "modelId": 7562,
+          "modelName": "PRIMULA Coupé",
+          "modelYearFrom": "1964-01-01",
+          "modelYearTo": "1970-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 799,
+      "manufacturerName": "AUTOBIANCHI",
+      "groupKey": "Y10",
+      "displayName": "Y10",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4822,
+          "modelName": "Y10",
+          "modelYearFrom": "1985-03-01",
+          "modelYearTo": "1995-10-01"
+        }
+      ]
+    }
+  ]
+}

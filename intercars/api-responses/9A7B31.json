@@ -1,0 +1,40 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "9A7B31",
+      "index": "030.084-00",
+      "tecDoc": "030.084-00A",
+      "tecDocProd": "63",
+      "articleNumber": "030.084-00A",
+      "brand": "PETERS",
+      "shortDescription": "Ball Joint, tie rod travel sensor",
+      "description": "Gearshift control rod ball-and-socket joint (right-sided M8x1,25mm, M8x1,25mm, L- 45mm) fits: MAN F90, L2000, M90, TGA, TGS I, TGX I 06.85-",
+      "gtuCode": "GTU_07",
+      "packageWeight": "0,053",
+      "packageWidth": "4,000",
+      "packageDepth": "6,000",
+      "packageHeight": "2,000",
+      "customsCode": "87084099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_266",
+          "primary": false,
+          "name": {
+            "en": "Ball Head, gearshift linkage"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3022",
+          "primary": true,
+          "name": {
+            "en": "Ball Joint, tie rod travel sensor"
+          }
+        }
+      ]
+    }
+  ]
+}

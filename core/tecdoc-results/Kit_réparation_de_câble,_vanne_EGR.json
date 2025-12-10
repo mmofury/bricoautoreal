@@ -1,0 +1,84 @@
+{
+  "productName": "Kit réparation de câble, vanne EGR",
+  "searchText": "Kit réparation de câble, vanne EGR",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:10:44.741Z",
+  "productId": 6349,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Épuration des gaz d'échappement": {
+          "categoryId": null,
+          "categoryName": "Épuration des gaz d'échappement",
+          "level": 2,
+          "children": {
+            "Kit réparation de câble, vanne EGR": {
+              "categoryId": 100790,
+              "categoryName": "Exhaust Emission Control",
+              "level": 2,
+              "children": {
+                "Recyclage des gaz d'échappement": {
+                  "categoryId": null,
+                  "categoryName": "Recyclage des gaz d'échappement",
+                  "level": 4,
+                  "children": {
+                    "Kit réparation de câble, vanne EGR": {
+                      "categoryId": 100791,
+                      "categoryName": "Exhaust Gas Recirculation",
+                      "level": 3,
+                      "children": {
+                        "Vanne EGR/Tube d'aspiration": {
+                          "categoryId": null,
+                          "categoryName": "Vanne EGR/Tube d'aspiration",
+                          "level": 6,
+                          "children": {
+                            "Kit réparation de câble, vanne EGR": {
+                              "categoryId": 100811,
+                              "categoryName": "EGR Valve/Intake Manifold",
+                              "level": 4,
+                              "children": [],
+                              "productId": 6349
+                            }
+                          }
+                        }
+                      },
+                      "productId": 6349
+                    }
+                  }
+                }
+              },
+              "productId": 6349
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carburation [ID: 100254] (Niveau 1)\n    └── Épuration des gaz d'échappement (Niveau 2)\n        └── Exhaust Emission Control [ID: 100790] (Niveau 2) → ProductId: 6349\n            └── Recyclage des gaz d'échappement (Niveau 4)\n                └── Exhaust Gas Recirculation [ID: 100791] (Niveau 3) → ProductId: 6349\n                    └── Vanne EGR/Tube d'aspiration (Niveau 6)\n                        └── EGR Valve/Intake Manifold [ID: 100811] (Niveau 4) → ProductId: 6349",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Épuration des gaz d'échappement",
+        "Exhaust Emission Control"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        100790
+      ],
+      "finalCategoryId": 100790,
+      "productId": 6349
+    }
+  ],
+  "productIdsInArbo": [
+    6349
+  ],
+  "matchedProductIds": [
+    6349
+  ]
+}

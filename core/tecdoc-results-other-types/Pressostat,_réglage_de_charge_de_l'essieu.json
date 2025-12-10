@@ -1,0 +1,49 @@
+{
+  "productName": "Pressostat, réglage de charge de l'essieu",
+  "productId": 1758,
+  "searchText": "Pressostat, réglage de charge de l'essieu",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Entraînement des essieux": {
+          "categoryId": 200056,
+          "categoryName": "Entraînement des essieux",
+          "level": 1,
+          "children": {
+            "Interrupteur/Soupapes": {
+              "categoryId": null,
+              "categoryName": "Interrupteur/Soupapes",
+              "level": 2,
+              "children": {
+                "Pressostat, réglage de charge de l'essieu": {
+                  "categoryId": 200945,
+                  "categoryName": "Switches/Valves",
+                  "level": 2,
+                  "children": [],
+                  "productId": 1758
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Entraînement des essieux [ID: 200056] (Niveau 1)\n    └── Interrupteur/Soupapes (Niveau 2)\n        └── Switches/Valves [ID: 200945] (Niveau 2) → ProductId: 1758",
+      "productIdsInArbo": [
+        1758
+      ],
+      "matchedProductIds": [
+        1758
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:17:51.531Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

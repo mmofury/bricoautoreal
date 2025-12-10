@@ -1,0 +1,149 @@
+{
+  "productName": "Soupape, système de pompage de l'air",
+  "searchText": "Soupape, système de pompage de l'air",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:18:23.400Z",
+  "productId": 863,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Épuration des gaz d'échappement": {
+          "categoryId": null,
+          "categoryName": "Épuration des gaz d'échappement",
+          "level": 2,
+          "children": {
+            "Soupape, système de pompage de l'air": {
+              "categoryId": 100790,
+              "categoryName": "Exhaust Emission Control",
+              "level": 2,
+              "children": {
+                "Injection d'air secondaire": {
+                  "categoryId": null,
+                  "categoryName": "Injection d'air secondaire",
+                  "level": 4,
+                  "children": {
+                    "Soupape, système de pompage de l'air": {
+                      "categoryId": 100792,
+                      "categoryName": "Secondary Air Injection",
+                      "level": 3,
+                      "children": {
+                        "Système de pompage de l'air secondaire": {
+                          "categoryId": null,
+                          "categoryName": "Système de pompage de l'air secondaire",
+                          "level": 6,
+                          "children": {
+                            "Soupape, système de pompage de l'air": {
+                              "categoryId": 100824,
+                              "categoryName": "Secondary Air Pump System",
+                              "level": 4,
+                              "children": [],
+                              "productId": 863
+                            }
+                          }
+                        }
+                      },
+                      "productId": 863
+                    }
+                  }
+                }
+              },
+              "productId": 863
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Épuration des gaz d'échappement": {
+          "categoryId": null,
+          "categoryName": "Épuration des gaz d'échappement",
+          "level": 2,
+          "children": {
+            "Soupape, système de pompage de l'air": {
+              "categoryId": 100541,
+              "categoryName": "Exhaust Emission Control",
+              "level": 2,
+              "children": {
+                "Injection d'air secondaire": {
+                  "categoryId": null,
+                  "categoryName": "Injection d'air secondaire",
+                  "level": 4,
+                  "children": {
+                    "Soupape, système de pompage de l'air": {
+                      "categoryId": 100552,
+                      "categoryName": "Secondary Air Injection",
+                      "level": 3,
+                      "children": {
+                        "Système de pompage d'air secondaire": {
+                          "categoryId": null,
+                          "categoryName": "Système de pompage d'air secondaire",
+                          "level": 6,
+                          "children": {
+                            "Soupape, système de pompage de l'air": {
+                              "categoryId": 100558,
+                              "categoryName": "Secondary Air Pump System",
+                              "level": 4,
+                              "children": [],
+                              "productId": 863
+                            }
+                          }
+                        }
+                      },
+                      "productId": 863
+                    }
+                  }
+                }
+              },
+              "productId": 863
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carburation [ID: 100254] (Niveau 1)\n│   └── Épuration des gaz d'échappement (Niveau 2)\n│       └── Exhaust Emission Control [ID: 100790] (Niveau 2) → ProductId: 863\n│           └── Injection d'air secondaire (Niveau 4)\n│               └── Secondary Air Injection [ID: 100792] (Niveau 3) → ProductId: 863\n│                   └── Système de pompage de l'air secondaire (Niveau 6)\n│                       └── Secondary Air Pump System [ID: 100824] (Niveau 4) → ProductId: 863\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Épuration des gaz d'échappement (Niveau 2)\n        └── Exhaust Emission Control [ID: 100541] (Niveau 2) → ProductId: 863\n            └── Injection d'air secondaire (Niveau 4)\n                └── Secondary Air Injection [ID: 100552] (Niveau 3) → ProductId: 863\n                    └── Système de pompage d'air secondaire (Niveau 6)\n                        └── Secondary Air Pump System [ID: 100558] (Niveau 4) → ProductId: 863",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Épuration des gaz d'échappement",
+        "Exhaust Emission Control"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        100790
+      ],
+      "finalCategoryId": 100790,
+      "productId": 863
+    },
+    {
+      "path": [
+        "Moteur",
+        "Épuration des gaz d'échappement",
+        "Exhaust Emission Control"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100541
+      ],
+      "finalCategoryId": 100541,
+      "productId": 863
+    }
+  ],
+  "productIdsInArbo": [
+    863
+  ],
+  "matchedProductIds": [
+    863
+  ]
+}

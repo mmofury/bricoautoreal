@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G13RFG",
+      "index": "V33-77-0049",
+      "tecDoc": "V33-77-0049",
+      "tecDocProd": "183",
+      "articleNumber": "V33-77-0049",
+      "brand": "VEMO",
+      "shortDescription": "Sensor, oil pressure",
+      "description": "Oil pressure sensor fits: CHRYSLER 200, SEBRING, TOWN & COUNTRY, DODGE AVENGER, GRAND, JOURNEY 2.4-4.0 01.07-",
+      "customsCode": "90262020",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_162",
+          "primary": true,
+          "name": {
+            "en": "Sensor, oil pressure"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1743",
+          "primary": false,
+          "name": {
+            "en": "Oil Pressure Switch, automatic transmission"
+          }
+        }
+      ]
+    }
+  ]
+}

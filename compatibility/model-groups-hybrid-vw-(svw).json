@@ -1,0 +1,451 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.535Z",
+  "manufacturer": "VW (SVW)",
+  "countGroups": 16,
+  "groups": [
+    {
+      "manufacturerId": 3035,
+      "manufacturerName": "VW (SVW)",
+      "groupKey": "CROSS",
+      "displayName": "CROSS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14246,
+          "modelName": "CROSS LAVIDA (183, 185)",
+          "modelYearFrom": "2013-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38348,
+          "modelName": "CROSS SANTANA (BR1)",
+          "modelYearFrom": "2016-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3035,
+      "manufacturerName": "VW (SVW)",
+      "groupKey": "GOL",
+      "displayName": "GOL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7990,
+          "modelName": "GOL (5X1)",
+          "modelYearFrom": "2003-02-01",
+          "modelYearTo": "2007-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3035,
+      "manufacturerName": "VW (SVW)",
+      "groupKey": "GRAN",
+      "displayName": "GRAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11511,
+          "modelName": "GRAN LAVIDA (183, 185)",
+          "modelYearFrom": "2013-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14376,
+          "modelName": "GRAN SANTANA (BR1)",
+          "modelYearFrom": "2015-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38885,
+          "modelName": "GRAN LAVIDA (0C3)",
+          "modelYearFrom": "2018-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3035,
+      "manufacturerName": "VW (SVW)",
+      "groupKey": "ID",
+      "displayName": "ID",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41840,
+          "modelName": "ID.4 X (E41)",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42126,
+          "modelName": "ID.6 X (E51)",
+          "modelYearFrom": "2021-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42489,
+          "modelName": "ID.3 (E91)",
+          "modelYearFrom": "2021-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3035,
+      "manufacturerName": "VW (SVW)",
+      "groupKey": "LAMANDO",
+      "displayName": "LAMANDO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13616,
+          "modelName": "LAMANDO (BM1, BM2)",
+          "modelYearFrom": "2015-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42854,
+          "modelName": "LAMANDO L (DM1)",
+          "modelYearFrom": "2022-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3035,
+      "manufacturerName": "VW (SVW)",
+      "groupKey": "LAVIDA",
+      "displayName": "LAVIDA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7853,
+          "modelName": "LAVIDA (181)",
+          "modelYearFrom": "2008-04-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 11149,
+          "modelName": "LAVIDA (182, 184, 186)",
+          "modelYearFrom": "2012-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38743,
+          "modelName": "LAVIDA (0C1, 0E1, 0C2)",
+          "modelYearFrom": "2018-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44681,
+          "modelName": "LAVIDA XR (DC1)",
+          "modelYearFrom": "2023-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3035,
+      "manufacturerName": "VW (SVW)",
+      "groupKey": "PASSAT",
+      "displayName": "PASSAT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6583,
+          "modelName": "PASSAT B5 (9F8)",
+          "modelYearFrom": "2000-04-01",
+          "modelYearTo": "2009-04-01"
+        },
+        {
+          "modelId": 8598,
+          "modelName": "PASSAT LINGYU (B5, 9F0, 9F9)",
+          "modelYearFrom": "2005-11-01",
+          "modelYearTo": "2012-10-01"
+        },
+        {
+          "modelId": 9881,
+          "modelName": "PASSAT B7 (A42, A43)",
+          "modelYearFrom": "2011-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39103,
+          "modelName": "PASSAT B8 (C42, C43)",
+          "modelYearFrom": "2018-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45880,
+          "modelName": "PASSAT B9 (R31)",
+          "modelYearFrom": "2024-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3035,
+      "manufacturerName": "VW (SVW)",
+      "groupKey": "PHIDEON",
+      "displayName": "PHIDEON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37478,
+          "modelName": "PHIDEON (3E9, 3E8)",
+          "modelYearFrom": "2016-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3035,
+      "manufacturerName": "VW (SVW)",
+      "groupKey": "POLO",
+      "displayName": "POLO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6584,
+          "modelName": "POLO JINQING (9J3)",
+          "modelYearFrom": "2002-01-01",
+          "modelYearTo": "2012-12-01"
+        },
+        {
+          "modelId": 6585,
+          "modelName": "POLO JINQU (9J4)",
+          "modelYearFrom": "2002-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 8589,
+          "modelName": "POLO Berline bicorps trois ou cinq portes (9J1)",
+          "modelYearFrom": "2002-01-01",
+          "modelYearTo": "2006-03-01"
+        },
+        {
+          "modelId": 8590,
+          "modelName": "POLO A trois volumes (9J2)",
+          "modelYearFrom": "2002-01-01",
+          "modelYearTo": "2006-03-01"
+        },
+        {
+          "modelId": 8629,
+          "modelName": "POLO CROSS (9J3)",
+          "modelYearFrom": "2007-12-01",
+          "modelYearTo": "2012-03-01"
+        },
+        {
+          "modelId": 11937,
+          "modelName": "POLO CROSS (621)",
+          "modelYearFrom": "2012-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 12842,
+          "modelName": "POLO Berline bicorps trois ou cinq portes (621)",
+          "modelYearFrom": "2010-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39282,
+          "modelName": "POLO PLUS (C31)",
+          "modelYearFrom": "2019-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3035,
+      "manufacturerName": "VW (SVW)",
+      "groupKey": "SANTANA",
+      "displayName": "SANTANA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6586,
+          "modelName": "SANTANA 2000 (332)",
+          "modelYearFrom": "1995-04-01",
+          "modelYearTo": "2004-03-01"
+        },
+        {
+          "modelId": 6587,
+          "modelName": "SANTANA 3000 (345)",
+          "modelYearFrom": "2004-01-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 8063,
+          "modelName": "SANTANA A trois volumes (330, 333)",
+          "modelYearFrom": "1996-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 8470,
+          "modelName": "SANTANA VISTA (345)",
+          "modelYearFrom": "2008-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 8482,
+          "modelName": "SANTANA Break (331, 334)",
+          "modelYearFrom": "1985-03-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 11148,
+          "modelName": "SANTANA A trois volumes (BR2, BR4)",
+          "modelYearFrom": "2012-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3035,
+      "manufacturerName": "VW (SVW)",
+      "groupKey": "T",
+      "displayName": "T",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39499,
+          "modelName": "T-CROSS (C81)",
+          "modelYearFrom": "2019-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3035,
+      "manufacturerName": "VW (SVW)",
+      "groupKey": "TERAMONT",
+      "displayName": "TERAMONT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37771,
+          "modelName": "TERAMONT (0A1)",
+          "modelYearFrom": "2017-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39560,
+          "modelName": "TERAMONT X (0PC)",
+          "modelYearFrom": "2019-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42140,
+          "modelName": "TERAMONT (CU1)",
+          "modelYearFrom": "2021-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42142,
+          "modelName": "TERAMONT X (CVC)",
+          "modelYearFrom": "2021-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3035,
+      "manufacturerName": "VW (SVW)",
+      "groupKey": "THARU",
+      "displayName": "THARU",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39102,
+          "modelName": "THARU (B21, B31)",
+          "modelYearFrom": "2018-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45922,
+          "modelName": "THARU XR",
+          "modelYearFrom": "2024-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3035,
+      "manufacturerName": "VW (SVW)",
+      "groupKey": "TIGUAN",
+      "displayName": "TIGUAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8704,
+          "modelName": "TIGUAN (591, 592)",
+          "modelYearFrom": "2010-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37588,
+          "modelName": "TIGUAN L (0T1, 0T3)",
+          "modelYearFrom": "2017-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41487,
+          "modelName": "TIGUAN X Coupe (0T2, 0T4)",
+          "modelYearFrom": "2020-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45936,
+          "modelName": "TIGUAN L PRO (BD1)",
+          "modelYearFrom": "2024-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3035,
+      "manufacturerName": "VW (SVW)",
+      "groupKey": "TOURAN",
+      "displayName": "TOURAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6588,
+          "modelName": "TOURAN (9R1, 9R3)",
+          "modelYearFrom": "2004-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14649,
+          "modelName": "TOURAN (9R3)",
+          "modelYearFrom": "2014-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 36506,
+          "modelName": "TOURAN L (0R1)",
+          "modelYearFrom": "2016-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3035,
+      "manufacturerName": "VW (SVW)",
+      "groupKey": "VILORAN",
+      "displayName": "VILORAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40838,
+          "modelName": "VILORAN (C61, CF1)",
+          "modelYearFrom": "2020-05-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "productName": "Kit de réparation, pompe d’inclinaison",
+  "productId": 4067,
+  "searchText": "Kit de réparation, pompe d’inclinaison",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Cabine du conducteur/carrosserie": {
+          "categoryId": 200022,
+          "categoryName": "Cabine du conducteur/carrosserie",
+          "level": 1,
+          "children": {
+            "Basculateur-cabine": {
+              "categoryId": null,
+              "categoryName": "Basculateur-cabine",
+              "level": 2,
+              "children": {
+                "Kit de réparation, pompe d’inclinaison": {
+                  "categoryId": 202897,
+                  "categoryName": "Driver Cab Tilt Unit",
+                  "level": 2,
+                  "children": [],
+                  "productId": 4067
+                }
+              }
+            },
+            "Suspension de la cabine": {
+              "categoryId": null,
+              "categoryName": "Suspension de la cabine",
+              "level": 2,
+              "children": {
+                "Kit de réparation, pompe d’inclinaison": {
+                  "categoryId": 200025,
+                  "categoryName": "Driver Cab Suspension",
+                  "level": 2,
+                  "children": [],
+                  "productId": 4067
+                }
+              }
+            }
+          }
+        },
+        "Système hydraulique": {
+          "categoryId": 200066,
+          "categoryName": "Système hydraulique",
+          "level": 1,
+          "children": {
+            "Cabine": {
+              "categoryId": null,
+              "categoryName": "Cabine",
+              "level": 2,
+              "children": {
+                "Kit de réparation, pompe d’inclinaison": {
+                  "categoryId": 200835,
+                  "categoryName": "Driver Cab",
+                  "level": 2,
+                  "children": {
+                    "Pompe de basculement, cabine": {
+                      "categoryId": null,
+                      "categoryName": "Pompe de basculement, cabine",
+                      "level": 4,
+                      "children": {
+                        "Kit de réparation, pompe d’inclinaison": {
+                          "categoryId": 200837,
+                          "categoryName": "Tilt Pump, driver cab",
+                          "level": 3,
+                          "children": [],
+                          "productId": 4067
+                        }
+                      }
+                    }
+                  },
+                  "productId": 4067
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "├── Cabine du conducteur/carrosserie [ID: 200022] (Niveau 1)\n│   ├── Basculateur-cabine (Niveau 2)\n│   │   └── Driver Cab Tilt Unit [ID: 202897] (Niveau 2) → ProductId: 4067\n│   └── Suspension de la cabine (Niveau 2)\n│       └── Driver Cab Suspension [ID: 200025] (Niveau 2) → ProductId: 4067\n\n└── Système hydraulique [ID: 200066] (Niveau 1)\n    └── Cabine (Niveau 2)\n        └── Driver Cab [ID: 200835] (Niveau 2) → ProductId: 4067\n            └── Pompe de basculement, cabine (Niveau 4)\n                └── Tilt Pump, driver cab [ID: 200837] (Niveau 3) → ProductId: 4067",
+      "productIdsInArbo": [
+        4067
+      ],
+      "matchedProductIds": [
+        4067
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:46:38.016Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

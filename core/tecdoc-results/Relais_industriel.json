@@ -1,0 +1,57 @@
+{
+  "productName": "Relais industriel",
+  "searchText": "Relais industriel",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-03T07:07:18.582Z",
+  "productId": 4801,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Minuterie multifonctions": {
+          "categoryId": null,
+          "categoryName": "Minuterie multifonctions",
+          "level": 2,
+          "children": {
+            "Relais industriel": {
+              "categoryId": 103428,
+              "categoryName": "Multifunctional Relay",
+              "level": 2,
+              "children": [],
+              "productId": 8308
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Minuterie multifonctions (Niveau 2)\n        └── Multifunctional Relay [ID: 103428] (Niveau 2) → ProductId: 8308",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Minuterie multifonctions",
+        "Multifunctional Relay"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        103428
+      ],
+      "finalCategoryId": 103428,
+      "productId": 8308
+    }
+  ],
+  "productIdsInArbo": [
+    8308
+  ],
+  "closestProductIds": [
+    {
+      "productId": 8308,
+      "productName": "Relais industriel"
+    }
+  ]
+}

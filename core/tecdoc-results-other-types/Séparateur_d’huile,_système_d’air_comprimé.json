@@ -1,0 +1,49 @@
+{
+  "productName": "Séparateur d’huile, système d’air comprimé",
+  "productId": 8748,
+  "searchText": "Séparateur d’huile, système d’air comprimé",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Système pneumatique": {
+          "categoryId": 200059,
+          "categoryName": "Système pneumatique",
+          "level": 1,
+          "children": {
+            "Séparateur d’huile": {
+              "categoryId": null,
+              "categoryName": "Séparateur d’huile",
+              "level": 2,
+              "children": {
+                "Séparateur d’huile, système d’air comprimé": {
+                  "categoryId": 706303,
+                  "categoryName": "Oil Separator",
+                  "level": 2,
+                  "children": [],
+                  "productId": 8748
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système pneumatique [ID: 200059] (Niveau 1)\n    └── Séparateur d’huile (Niveau 2)\n        └── Oil Separator [ID: 706303] (Niveau 2) → ProductId: 8748",
+      "productIdsInArbo": [
+        8748
+      ],
+      "matchedProductIds": [
+        8748
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:38:19.496Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

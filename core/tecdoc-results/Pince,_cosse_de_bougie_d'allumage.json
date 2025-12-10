@@ -1,0 +1,89 @@
+{
+  "productName": "Pince, cosse de bougie d'allumage",
+  "searchText": "Pince, cosse de bougie d'allumage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:20:54.298Z",
+  "productId": 4497,
+  "arborescence": {
+    "Allumage / préchauffage": {
+      "categoryId": 100008,
+      "categoryName": "Allumage / préchauffage",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Pince, cosse de bougie d'allumage": {
+              "categoryId": 103139,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4497
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Pince, cosse de bougie d'allumage": {
+              "categoryId": 103136,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4497
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Allumage / préchauffage [ID: 100008] (Niveau 1)\n│   └── Outils (Niveau 2)\n│       └── Tools [ID: 103139] (Niveau 2) → ProductId: 4497\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Outils (Niveau 2)\n        └── Tools [ID: 103136] (Niveau 2) → ProductId: 4497",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        103139
+      ],
+      "finalCategoryId": 103139,
+      "productId": 4497
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        103136
+      ],
+      "finalCategoryId": 103136,
+      "productId": 4497
+    }
+  ],
+  "productIdsInArbo": [
+    4497
+  ],
+  "matchedProductIds": [
+    4497
+  ]
+}

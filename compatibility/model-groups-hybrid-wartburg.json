@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.538Z",
+  "manufacturer": "WARTBURG",
+  "countGroups": 1,
+  "groups": [
+    {
+      "manufacturerId": 186,
+      "manufacturerName": "WARTBURG",
+      "groupKey": "353",
+      "displayName": "353",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1309,
+          "modelName": "353",
+          "modelYearFrom": "1966-06-01",
+          "modelYearTo": "1991-05-01"
+        },
+        {
+          "modelId": 3478,
+          "modelName": "353 Tourist",
+          "modelYearFrom": "1967-10-01",
+          "modelYearTo": "1991-05-01"
+        }
+      ]
+    }
+  ]
+}

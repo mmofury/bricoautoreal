@@ -1,0 +1,76 @@
+{
+  "productName": "Vis de culasse, compresseur à air",
+  "searchText": "Vis de culasse, compresseur à air",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:33:37.667Z",
+  "productId": 60539,
+  "arborescence": {
+    "Suspension/Amortissement": {
+      "categoryId": 100011,
+      "categoryName": "Suspension/Amortissement",
+      "level": 1,
+      "children": {
+        "Suspension pneumatique": {
+          "categoryId": null,
+          "categoryName": "Suspension pneumatique",
+          "level": 2,
+          "children": {
+            "Jeu de vis de culasse, compresseur à air": {
+              "categoryId": 101884,
+              "categoryName": "Air Suspension",
+              "level": 2,
+              "children": [],
+              "productId": 60540
+            },
+            "Vis de culasse, compresseur à air": {
+              "categoryId": 101884,
+              "categoryName": "Air Suspension",
+              "level": 2,
+              "children": [],
+              "productId": 60539
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Suspension/Amortissement [ID: 100011] (Niveau 1)\n    └── Suspension pneumatique (Niveau 2)\n        ├── Air Suspension [ID: 101884] (Niveau 2) → ProductId: 60540\n        └── Air Suspension [ID: 101884] (Niveau 2) → ProductId: 60539",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Suspension pneumatique",
+        "Air Suspension"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        101884
+      ],
+      "finalCategoryId": 101884,
+      "productId": 60540
+    },
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Suspension pneumatique",
+        "Air Suspension"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        101884
+      ],
+      "finalCategoryId": 101884,
+      "productId": 60539
+    }
+  ],
+  "productIdsInArbo": [
+    60539,
+    60540
+  ],
+  "matchedProductIds": [
+    60539
+  ]
+}

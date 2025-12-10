@@ -1,0 +1,72 @@
+{
+  "productName": "Support, pare-chocs",
+  "searchText": "Support, pare-chocs",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-03T07:21:44.852Z",
+  "productId": 939,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Pièces de carrosserie/ailes/pares-chocs": {
+          "categoryId": null,
+          "categoryName": "Pièces de carrosserie/ailes/pares-chocs",
+          "level": 2,
+          "children": {
+            "Support, pare-chocs": {
+              "categoryId": 100743,
+              "categoryName": "Body Parts/Wing/Bumper",
+              "level": 2,
+              "children": {
+                "Pare-chocs/composants": {
+                  "categoryId": null,
+                  "categoryName": "Pare-chocs/composants",
+                  "level": 4,
+                  "children": {
+                    "Support, pare-chocs": {
+                      "categoryId": 100187,
+                      "categoryName": "Bumper/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1566
+                    }
+                  }
+                }
+              },
+              "productId": 1566
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    └── Pièces de carrosserie/ailes/pares-chocs (Niveau 2)\n        └── Body Parts/Wing/Bumper [ID: 100743] (Niveau 2) → ProductId: 1566\n            └── Pare-chocs/composants (Niveau 4)\n                └── Bumper/Parts [ID: 100187] (Niveau 3) → ProductId: 1566",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Pièces de carrosserie/ailes/pares-chocs",
+        "Body Parts/Wing/Bumper"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100743
+      ],
+      "finalCategoryId": 100743,
+      "productId": 1566
+    }
+  ],
+  "productIdsInArbo": [
+    1566
+  ],
+  "closestProductIds": [
+    {
+      "productId": 1566,
+      "productName": "Support, pare-chocs"
+    }
+  ]
+}

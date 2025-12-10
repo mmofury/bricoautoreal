@@ -1,0 +1,54 @@
+{
+  "productName": "Disque denté, engrenage planétaire",
+  "searchText": "Disque denté, engrenage planétaire",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:32:18.858Z",
+  "productId": 1686,
+  "arborescence": {
+    "Entraînement des roues": {
+      "categoryId": 100014,
+      "categoryName": "Entraînement des roues",
+      "level": 1,
+      "children": {
+        "Engrenage de pont planétaire": {
+          "categoryId": null,
+          "categoryName": "Engrenage de pont planétaire",
+          "level": 2,
+          "children": {
+            "Disque denté, engrenage planétaire": {
+              "categoryId": 103398,
+              "categoryName": "External Planetary Gearbox",
+              "level": 2,
+              "children": [],
+              "productId": 1686
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement des roues [ID: 100014] (Niveau 1)\n    └── Engrenage de pont planétaire (Niveau 2)\n        └── External Planetary Gearbox [ID: 103398] (Niveau 2) → ProductId: 1686",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des roues",
+        "Engrenage de pont planétaire",
+        "External Planetary Gearbox"
+      ],
+      "categoryIds": [
+        100014,
+        null,
+        103398
+      ],
+      "finalCategoryId": 103398,
+      "productId": 1686
+    }
+  ],
+  "productIdsInArbo": [
+    1686
+  ],
+  "matchedProductIds": [
+    1686
+  ]
+}

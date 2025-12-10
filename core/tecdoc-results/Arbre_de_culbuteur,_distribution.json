@@ -1,0 +1,98 @@
+{
+  "productName": "Arbre de culbuteur, distribution",
+  "searchText": "Arbre de culbuteur, distribution",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T18:56:28.918Z",
+  "productId": 433,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Distribution moteur": {
+          "categoryId": null,
+          "categoryName": "Distribution moteur",
+          "level": 2,
+          "children": {
+            "Arbre de culbuteur, distribution": {
+              "categoryId": 100003,
+              "categoryName": "Engine Timing",
+              "level": 2,
+              "children": {
+                "Culbuteur/Levier oscillant": {
+                  "categoryId": null,
+                  "categoryName": "Culbuteur/Levier oscillant",
+                  "level": 4,
+                  "children": {
+                    "Arbre de culbuteur, distribution": {
+                      "categoryId": 100398,
+                      "categoryName": "Rocker Arm/Finger Follower",
+                      "level": 3,
+                      "children": [],
+                      "productId": 433
+                    }
+                  }
+                },
+                "Soupape / réglage de soupape": {
+                  "categoryId": null,
+                  "categoryName": "Soupape / réglage de soupape",
+                  "level": 4,
+                  "children": {
+                    "Arbre de culbuteur, distribution": {
+                      "categoryId": 100422,
+                      "categoryName": "Valve Train",
+                      "level": 3,
+                      "children": {
+                        "Réglage de soupape": {
+                          "categoryId": null,
+                          "categoryName": "Réglage de soupape",
+                          "level": 6,
+                          "children": {
+                            "Arbre de culbuteur, distribution": {
+                              "categoryId": 100424,
+                              "categoryName": "Valve Actuation",
+                              "level": 4,
+                              "children": [],
+                              "productId": 433
+                            }
+                          }
+                        }
+                      },
+                      "productId": 433
+                    }
+                  }
+                }
+              },
+              "productId": 433
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Distribution moteur (Niveau 2)\n        └── Engine Timing [ID: 100003] (Niveau 2) → ProductId: 433\n            ├── Culbuteur/Levier oscillant (Niveau 4)\n            │   └── Rocker Arm/Finger Follower [ID: 100398] (Niveau 3) → ProductId: 433\n            └── Soupape / réglage de soupape (Niveau 4)\n                └── Valve Train [ID: 100422] (Niveau 3) → ProductId: 433\n                    └── Réglage de soupape (Niveau 6)\n                        └── Valve Actuation [ID: 100424] (Niveau 4) → ProductId: 433",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Engine Timing"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100003
+      ],
+      "finalCategoryId": 100003,
+      "productId": 433
+    }
+  ],
+  "productIdsInArbo": [
+    433
+  ],
+  "matchedProductIds": [
+    433
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.211Z",
+  "manufacturer": "CHENGSHI",
+  "countGroups": 4,
+  "groups": [
+    {
+      "manufacturerId": 7097,
+      "manufacturerName": "CHENGSHI",
+      "groupKey": "01",
+      "displayName": "01",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44828,
+          "modelName": "01",
+          "modelYearFrom": "2021-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 7097,
+      "manufacturerName": "CHENGSHI",
+      "groupKey": "X2",
+      "displayName": "X2",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44829,
+          "modelName": "X2",
+          "modelYearFrom": "2022-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 7097,
+      "manufacturerName": "CHENGSHI",
+      "groupKey": "X5",
+      "displayName": "X5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45661,
+          "modelName": "X5",
+          "modelYearFrom": "2024-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 7097,
+      "manufacturerName": "CHENGSHI",
+      "groupKey": "X7",
+      "displayName": "X7",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44830,
+          "modelName": "X7",
+          "modelYearFrom": "2023-06-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

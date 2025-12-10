@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.510Z",
+  "manufacturer": "TIANMA",
+  "countGroups": 5,
+  "groups": [
+    {
+      "manufacturerId": 3048,
+      "manufacturerName": "TIANMA",
+      "groupKey": "FENGCHI",
+      "displayName": "FENGCHI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7339,
+          "modelName": "FENGCHI",
+          "modelYearFrom": "2003-09-01",
+          "modelYearTo": "2008-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3048,
+      "manufacturerName": "TIANMA",
+      "groupKey": "FENGRUI",
+      "displayName": "FENGRUI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7341,
+          "modelName": "FENGRUI",
+          "modelYearFrom": "2003-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3048,
+      "manufacturerName": "TIANMA",
+      "groupKey": "HAISHI",
+      "displayName": "HAISHI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7342,
+          "modelName": "HAISHI",
+          "modelYearFrom": "2000-02-01",
+          "modelYearTo": "2003-08-01"
+        },
+        {
+          "modelId": 7344,
+          "modelName": "HAISHI",
+          "modelYearFrom": "2003-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3048,
+      "manufacturerName": "TIANMA",
+      "groupKey": "HERO",
+      "displayName": "HERO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36924,
+          "modelName": "HERO SUV",
+          "modelYearFrom": "2007-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3048,
+      "manufacturerName": "TIANMA",
+      "groupKey": "JUNCHI",
+      "displayName": "JUNCHI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7320,
+          "modelName": "JUNCHI",
+          "modelYearFrom": "2007-04-01",
+          "modelYearTo": "2008-12-01"
+        }
+      ]
+    }
+  ]
+}

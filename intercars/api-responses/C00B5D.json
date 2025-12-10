@@ -1,0 +1,36 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "C00B5D",
+      "index": "146.158-00A",
+      "tecDoc": "146.158-00A",
+      "tecDocProd": "63",
+      "articleNumber": "146.158-00A",
+      "brand": "PETERS",
+      "shortDescription": "Cover Sheet, brake drum",
+      "description": "Brake drum cover fits: VOLVO FH, FH12, FH16, FL10, FL12, FL6, FL7, FM, FM10, FM12, FM7, FM9 D10A320-TD73ES 09.85-",
+      "gtuCode": "GTU_07",
+      "customsCode": "87083099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1661",
+          "primary": true,
+          "name": {
+            "en": "Cover Sheet, brake drum"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_2990",
+          "primary": false,
+          "name": {
+            "en": "Cover Plate, dust-cover wheel bearing"
+          }
+        }
+      ]
+    }
+  ]
+}

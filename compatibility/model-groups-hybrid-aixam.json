@@ -1,0 +1,262 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.150Z",
+  "manufacturer": "AIXAM",
+  "countGroups": 13,
+  "groups": [
+    {
+      "manufacturerId": 1480,
+      "manufacturerName": "AIXAM",
+      "groupKey": "400",
+      "displayName": "400",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6711,
+          "modelName": "400",
+          "modelYearFrom": "1996-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1480,
+      "manufacturerName": "AIXAM",
+      "groupKey": "500",
+      "displayName": "500",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6707,
+          "modelName": "500 Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1997-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38881,
+          "modelName": "500 Décapotable",
+          "modelYearFrom": "1996-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38882,
+          "modelName": "500 Fourgon/Break",
+          "modelYearFrom": "1990-10-01",
+          "modelYearTo": "1996-09-01"
+        },
+        {
+          "modelId": 38883,
+          "modelName": "500 Camionnette/Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2003-09-01",
+          "modelYearTo": "2004-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1480,
+      "manufacturerName": "AIXAM",
+      "groupKey": "A",
+      "displayName": "A",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6708,
+          "modelName": "A.721",
+          "modelYearFrom": "2005-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 6709,
+          "modelName": "A.741",
+          "modelYearFrom": "2005-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 6710,
+          "modelName": "A.751",
+          "modelYearFrom": "2005-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1480,
+      "manufacturerName": "AIXAM",
+      "groupKey": "CITY",
+      "displayName": "CITY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11661,
+          "modelName": "CITY",
+          "modelYearFrom": "2012-01-01",
+          "modelYearTo": "2016-12-01"
+        },
+        {
+          "modelId": 38975,
+          "modelName": "CITY",
+          "modelYearFrom": "2016-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1480,
+      "manufacturerName": "AIXAM",
+      "groupKey": "COUPE",
+      "displayName": "COUPE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11663,
+          "modelName": "COUPE",
+          "modelYearFrom": "2012-01-01",
+          "modelYearTo": "2016-12-01"
+        },
+        {
+          "modelId": 38976,
+          "modelName": "COUPE",
+          "modelYearFrom": "2016-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1480,
+      "manufacturerName": "AIXAM",
+      "groupKey": "CROSSLINE",
+      "displayName": "CROSSLINE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9871,
+          "modelName": "CROSSLINE",
+          "modelYearFrom": "2012-01-01",
+          "modelYearTo": "2016-12-01"
+        },
+        {
+          "modelId": 38977,
+          "modelName": "CROSSLINE",
+          "modelYearFrom": "2016-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1480,
+      "manufacturerName": "AIXAM",
+      "groupKey": "CROSSOVER",
+      "displayName": "CROSSOVER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11659,
+          "modelName": "CROSSOVER",
+          "modelYearFrom": "2012-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1480,
+      "manufacturerName": "AIXAM",
+      "groupKey": "D",
+      "displayName": "D",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 12868,
+          "modelName": "D-TRUCK Fourgon",
+          "modelYearFrom": "2012-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 12870,
+          "modelName": "D-TRUCK Pick-up",
+          "modelYearFrom": "2012-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 12871,
+          "modelName": "D-TRUCK Camion plate-forme/Châssis",
+          "modelYearFrom": "2012-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1480,
+      "manufacturerName": "AIXAM",
+      "groupKey": "GTO",
+      "displayName": "GTO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11660,
+          "modelName": "GTO",
+          "modelYearFrom": "2012-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1480,
+      "manufacturerName": "AIXAM",
+      "groupKey": "MEGA",
+      "displayName": "MEGA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36902,
+          "modelName": "MEGA",
+          "modelYearFrom": "2003-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1480,
+      "manufacturerName": "AIXAM",
+      "groupKey": "MINAUTO",
+      "displayName": "MINAUTO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39024,
+          "modelName": "MINAUTO",
+          "modelYearFrom": "2018-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1480,
+      "manufacturerName": "AIXAM",
+      "groupKey": "ROADLINE",
+      "displayName": "ROADLINE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13963,
+          "modelName": "ROADLINE",
+          "modelYearFrom": "2009-09-01",
+          "modelYearTo": "2012-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1480,
+      "manufacturerName": "AIXAM",
+      "groupKey": "SCOUTY",
+      "displayName": "SCOUTY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11664,
+          "modelName": "SCOUTY Décapotable",
+          "modelYearFrom": "2007-04-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

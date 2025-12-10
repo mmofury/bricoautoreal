@@ -1,0 +1,89 @@
+{
+  "productName": "Mâchoire coulissante, lève-vitre",
+  "searchText": "Mâchoire coulissante, lève-vitre",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:16:16.709Z",
+  "productId": 1703,
+  "arborescence": {
+    "Équipement intérieur": {
+      "categoryId": 100341,
+      "categoryName": "Équipement intérieur",
+      "level": 1,
+      "children": {
+        "Lève-vitre": {
+          "categoryId": null,
+          "categoryName": "Lève-vitre",
+          "level": 2,
+          "children": {
+            "Mâchoire coulissante, lève-vitre": {
+              "categoryId": 102691,
+              "categoryName": "Window Regulator",
+              "level": 2,
+              "children": [],
+              "productId": 1703
+            }
+          }
+        }
+      }
+    },
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Lève-vitre": {
+          "categoryId": null,
+          "categoryName": "Lève-vitre",
+          "level": 2,
+          "children": {
+            "Mâchoire coulissante, lève-vitre": {
+              "categoryId": 100751,
+              "categoryName": "Window Regulator",
+              "level": 2,
+              "children": [],
+              "productId": 1703
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Équipement intérieur [ID: 100341] (Niveau 1)\n│   └── Lève-vitre (Niveau 2)\n│       └── Window Regulator [ID: 102691] (Niveau 2) → ProductId: 1703\n\n└── Systèmes de confort [ID: 100335] (Niveau 1)\n    └── Lève-vitre (Niveau 2)\n        └── Window Regulator [ID: 100751] (Niveau 2) → ProductId: 1703",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Équipement intérieur",
+        "Lève-vitre",
+        "Window Regulator"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102691
+      ],
+      "finalCategoryId": 102691,
+      "productId": 1703
+    },
+    {
+      "path": [
+        "Systèmes de confort",
+        "Lève-vitre",
+        "Window Regulator"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        100751
+      ],
+      "finalCategoryId": 100751,
+      "productId": 1703
+    }
+  ],
+  "productIdsInArbo": [
+    1703
+  ],
+  "matchedProductIds": [
+    1703
+  ]
+}

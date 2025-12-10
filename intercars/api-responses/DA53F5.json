@@ -1,0 +1,40 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "DA53F5",
+      "index": "V99-1018",
+      "tecDoc": "V99-1018",
+      "tecDocProd": "162",
+      "articleNumber": "V99-1018",
+      "brand": "VAICO",
+      "shortDescription": "Set of tools",
+      "description": "Set of tools",
+      "gtuCode": "GTU_07",
+      "packageWeight": "3,845",
+      "packageWidth": "7,800",
+      "packageDepth": "33,100",
+      "packageHeight": "26,900",
+      "customsCode": "87089997",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_6667",
+          "primary": true,
+          "name": {
+            "en": "Set of tools"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_4560",
+          "primary": false,
+          "name": {
+            "en": "Mounting Tool Set, silent bearing"
+          }
+        }
+      ]
+    }
+  ]
+}

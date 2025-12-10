@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "D06A7F",
+      "index": "LC 7002",
+      "tecDoc": "LC 7002",
+      "tecDocProd": "4",
+      "articleNumber": "LC 7002",
+      "brand": "MANN-FILTER",
+      "shortDescription": "Air filter",
+      "description": "Air filter ventilating",
+      "eans": [
+        "4011558024895"
+      ],
+      "packageWeight": "0,088",
+      "packageWidth": "8,000",
+      "packageDepth": "8,500",
+      "packageHeight": "8,000",
+      "customsCode": "84213100",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_8",
+          "primary": true,
+          "name": {
+            "en": "Air filter"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_2933",
+          "primary": false,
+          "name": {
+            "en": "Filter, crankcase ventilation"
+          }
+        }
+      ]
+    }
+  ]
+}

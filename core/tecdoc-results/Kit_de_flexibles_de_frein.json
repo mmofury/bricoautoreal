@@ -1,0 +1,98 @@
+{
+  "productName": "Kit de flexibles de frein",
+  "searchText": "Kit de flexibles de frein",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:00:26.867Z",
+  "productId": 4149,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Flexibles de frein": {
+          "categoryId": null,
+          "categoryName": "Flexibles de frein",
+          "level": 2,
+          "children": {
+            "Kit de flexibles de frein": {
+              "categoryId": 100035,
+              "categoryName": "Brake Hoses",
+              "level": 2,
+              "children": [],
+              "productId": 4149
+            }
+          }
+        },
+        "Frein de haute performance": {
+          "categoryId": null,
+          "categoryName": "Frein de haute performance",
+          "level": 2,
+          "children": {
+            "Kit de flexibles de frein de haute performance": {
+              "categoryId": 102224,
+              "categoryName": "High Performance Brakes",
+              "level": 2,
+              "children": {
+                "Flexibles de frein": {
+                  "categoryId": null,
+                  "categoryName": "Flexibles de frein",
+                  "level": 4,
+                  "children": {
+                    "Kit de flexibles de frein de haute performance": {
+                      "categoryId": 102231,
+                      "categoryName": "Brake Hoses",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4208
+                    }
+                  }
+                }
+              },
+              "productId": 4208
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif de freinage [ID: 100006] (Niveau 1)\n    ├── Flexibles de frein (Niveau 2)\n    │   └── Brake Hoses [ID: 100035] (Niveau 2) → ProductId: 4149\n    └── Frein de haute performance (Niveau 2)\n        └── High Performance Brakes [ID: 102224] (Niveau 2) → ProductId: 4208\n            └── Flexibles de frein (Niveau 4)\n                └── Brake Hoses [ID: 102231] (Niveau 3) → ProductId: 4208",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Flexibles de frein",
+        "Brake Hoses"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100035
+      ],
+      "finalCategoryId": 100035,
+      "productId": 4149
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Frein de haute performance",
+        "High Performance Brakes"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        102224
+      ],
+      "finalCategoryId": 102224,
+      "productId": 4208
+    }
+  ],
+  "productIdsInArbo": [
+    4149,
+    4208
+  ],
+  "matchedProductIds": [
+    4149
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G0R34L",
+      "index": "V10-86-0003",
+      "tecDoc": "V10-86-0003",
+      "tecDocProd": "183",
+      "articleNumber": "V10-86-0003",
+      "brand": "VEMO",
+      "shortDescription": "Control Unit, automatic transmission",
+      "description": "Automatic control box fits: AUDI A1, A3, Q2, Q3, TT, SEAT ALHAMBRA, ALTEA, ALTEA XL, ATECA, LEON, LEON SC, LEON ST, LEON ST/KOMBI, LEON/HATCHBACK, TARRACO, TOLEDO III, SKODA KAROQ 1.0-3.6 01.98-",
+      "gtuCode": "GTU_07",
+      "customsCode": "87084099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1278",
+          "primary": true,
+          "name": {
+            "en": "Control Unit, automatic transmission"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3066",
+          "primary": false,
+          "name": {
+            "en": "Automatic Transmission"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_60505",
+          "primary": false,
+          "name": {
+            "en": "PCB, mechatronics (AMT)"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G0P7XQ",
+      "index": "6.31121",
+      "tecDoc": "6.31121",
+      "tecDocProd": "355",
+      "articleNumber": "6.31121",
+      "brand": "DT SPARE PARTS",
+      "shortDescription": "Screw",
+      "description": "Bolt M10/70mm",
+      "eans": [
+        "4057795071216"
+      ],
+      "packageWeight": "0,108",
+      "packageWidth": "3,000",
+      "packageDepth": "8,000",
+      "packageHeight": "1,500",
+      "customsCode": "73181588",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_2922",
+          "primary": false,
+          "name": {
+            "en": "Tensioner roll bolt"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1484",
+          "primary": true,
+          "name": {
+            "en": "Screw"
+          }
+        }
+      ]
+    }
+  ]
+}

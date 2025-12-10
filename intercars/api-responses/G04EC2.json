@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G04EC2",
+      "index": "5.70270",
+      "tecDoc": "5.70270",
+      "tecDocProd": "355",
+      "articleNumber": "5.70270",
+      "brand": "DT SPARE PARTS",
+      "shortDescription": "Sensor, compressed-air system",
+      "description": "Air pressure sensor",
+      "packageWeight": "0,320",
+      "packageWidth": "10,600",
+      "packageDepth": "5,400",
+      "packageHeight": "20,100",
+      "customsCode": "85365019",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_2965",
+          "primary": false,
+          "name": {
+            "en": "Switch, engine brake"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1231",
+          "primary": true,
+          "name": {
+            "en": "Sensor, compressed-air system"
+          }
+        }
+      ]
+    }
+  ]
+}

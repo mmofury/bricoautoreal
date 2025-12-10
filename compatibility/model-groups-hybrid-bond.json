@@ -1,0 +1,79 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.193Z",
+  "manufacturer": "BOND",
+  "countGroups": 4,
+  "groups": [
+    {
+      "manufacturerId": 1537,
+      "manufacturerName": "BOND",
+      "groupKey": "875",
+      "displayName": "875",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43906,
+          "modelName": "875 A trois volumes",
+          "modelYearFrom": "1966-01-01",
+          "modelYearTo": "1970-02-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1537,
+      "manufacturerName": "BOND",
+      "groupKey": "BUG",
+      "displayName": "BUG",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37565,
+          "modelName": "BUG",
+          "modelYearFrom": "1969-06-01",
+          "modelYearTo": "1975-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1537,
+      "manufacturerName": "BOND",
+      "groupKey": "EQUIPE",
+      "displayName": "EQUIPE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4373,
+          "modelName": "EQUIPE Coupé",
+          "modelYearFrom": "1967-01-01",
+          "modelYearTo": "1970-12-01"
+        },
+        {
+          "modelId": 4374,
+          "modelName": "EQUIPE Mk. II Coupé",
+          "modelYearFrom": "1968-01-01",
+          "modelYearTo": "1971-12-01"
+        },
+        {
+          "modelId": 4375,
+          "modelName": "EQUIPE Mk. II Décapotable",
+          "modelYearFrom": "1968-01-01",
+          "modelYearTo": "1971-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1537,
+      "manufacturerName": "BOND",
+      "groupKey": "RANGER",
+      "displayName": "RANGER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43905,
+          "modelName": "RANGER Camionnette/Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1967-04-01",
+          "modelYearTo": "1970-02-01"
+        }
+      ]
+    }
+  ]
+}

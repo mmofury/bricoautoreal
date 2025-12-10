@@ -1,0 +1,178 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.249Z",
+  "manufacturer": "EFFA",
+  "countGroups": 11,
+  "groups": [
+    {
+      "manufacturerId": 3652,
+      "manufacturerName": "EFFA",
+      "groupKey": "AOJUN",
+      "displayName": "AOJUN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37765,
+          "modelName": "AOJUN Pick-up",
+          "modelYearFrom": "2008-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3652,
+      "manufacturerName": "EFFA",
+      "groupKey": "JBC",
+      "displayName": "JBC",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38651,
+          "modelName": "JBC",
+          "modelYearFrom": "2016-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3652,
+      "manufacturerName": "EFFA",
+      "groupKey": "K",
+      "displayName": "K",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38704,
+          "modelName": "K-SERIES",
+          "modelYearFrom": "2016-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3652,
+      "manufacturerName": "EFFA",
+      "groupKey": "M100",
+      "displayName": "M100",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9678,
+          "modelName": "M100",
+          "modelYearFrom": "2006-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3652,
+      "manufacturerName": "EFFA",
+      "groupKey": "N601",
+      "displayName": "N601",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9680,
+          "modelName": "N601",
+          "modelYearFrom": "2008-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3652,
+      "manufacturerName": "EFFA",
+      "groupKey": "N900",
+      "displayName": "N900",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9681,
+          "modelName": "N900",
+          "modelYearFrom": "2008-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3652,
+      "manufacturerName": "EFFA",
+      "groupKey": "PICAPE",
+      "displayName": "PICAPE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9679,
+          "modelName": "PICAPE",
+          "modelYearFrom": "2007-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3652,
+      "manufacturerName": "EFFA",
+      "groupKey": "PLUTUS",
+      "displayName": "PLUTUS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9677,
+          "modelName": "PLUTUS",
+          "modelYearFrom": "2010-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3652,
+      "manufacturerName": "EFFA",
+      "groupKey": "ULC",
+      "displayName": "ULC",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9675,
+          "modelName": "ULC Fourgon",
+          "modelYearFrom": "2008-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3652,
+      "manufacturerName": "EFFA",
+      "groupKey": "V",
+      "displayName": "V",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43907,
+          "modelName": "V-SERIES",
+          "modelYearFrom": "2016-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45168,
+          "modelName": "V-SERIES",
+          "modelYearFrom": "2016-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3652,
+      "manufacturerName": "EFFA",
+      "groupKey": "VAN",
+      "displayName": "VAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9676,
+          "modelName": "VAN",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": "2012-12-01"
+        }
+      ]
+    }
+  ]
+}

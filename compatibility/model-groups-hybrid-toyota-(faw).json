@@ -1,0 +1,370 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.516Z",
+  "manufacturer": "TOYOTA (FAW)",
+  "countGroups": 17,
+  "groups": [
+    {
+      "manufacturerId": 3137,
+      "manufacturerName": "TOYOTA (FAW)",
+      "groupKey": "ALLION",
+      "displayName": "ALLION",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41886,
+          "modelName": "ALLION (_EA1_, _EH1_)",
+          "modelYearFrom": "2021-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3137,
+      "manufacturerName": "TOYOTA (FAW)",
+      "groupKey": "AVALON",
+      "displayName": "AVALON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39490,
+          "modelName": "AVALON (_XA5_, _XH5_)",
+          "modelYearFrom": "2019-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3137,
+      "manufacturerName": "TOYOTA (FAW)",
+      "groupKey": "BZ3",
+      "displayName": "BZ3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44090,
+          "modelName": "bZ3 (_M1_)",
+          "modelYearFrom": "2023-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3137,
+      "manufacturerName": "TOYOTA (FAW)",
+      "groupKey": "BZ4X",
+      "displayName": "BZ4X",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43688,
+          "modelName": "bZ4X (_M1_)",
+          "modelYearFrom": "2022-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3137,
+      "manufacturerName": "TOYOTA (FAW)",
+      "groupKey": "COASTER",
+      "displayName": "COASTER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43833,
+          "modelName": "COASTER Autobus/Autocar (_B4_, _B5_)",
+          "modelYearFrom": "2000-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3137,
+      "manufacturerName": "TOYOTA (FAW)",
+      "groupKey": "COROLLA",
+      "displayName": "COROLLA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6528,
+          "modelName": "COROLLA (_E12_)",
+          "modelYearFrom": "2004-02-01",
+          "modelYearTo": "2007-01-01"
+        },
+        {
+          "modelId": 8128,
+          "modelName": "COROLLA EX (_E12_)",
+          "modelYearFrom": "2007-05-01",
+          "modelYearTo": "2017-12-01"
+        },
+        {
+          "modelId": 9170,
+          "modelName": "COROLLA (_E15_)",
+          "modelYearFrom": "2007-05-01",
+          "modelYearTo": "2014-12-01"
+        },
+        {
+          "modelId": 14815,
+          "modelName": "COROLLA (_E18_)",
+          "modelYearFrom": "2014-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39519,
+          "modelName": "COROLLA (_E21_, _EA1_)",
+          "modelYearFrom": "2019-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42649,
+          "modelName": "COROLLA CROSS (_GA1_, _GH1_)",
+          "modelYearFrom": "2022-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3137,
+      "manufacturerName": "TOYOTA (FAW)",
+      "groupKey": "CROWN",
+      "displayName": "CROWN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6529,
+          "modelName": "CROWN ROYAL (_S18_)",
+          "modelYearFrom": "2005-02-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 9966,
+          "modelName": "CROWN ROYAL (_S20_)",
+          "modelYearFrom": "2009-12-01",
+          "modelYearTo": "2015-12-01"
+        },
+        {
+          "modelId": 13960,
+          "modelName": "CROWN ROYAL (_S21_)",
+          "modelYearFrom": "2015-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42379,
+          "modelName": "CROWN KLUGER (_UH7_, _UA7_)",
+          "modelYearFrom": "2021-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3137,
+      "manufacturerName": "TOYOTA (FAW)",
+      "groupKey": "DARIO",
+      "displayName": "DARIO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6530,
+          "modelName": "DARIO TERIOS (_J10_)",
+          "modelYearFrom": "2003-01-01",
+          "modelYearTo": "2006-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3137,
+      "manufacturerName": "TOYOTA (FAW)",
+      "groupKey": "GRANVIA",
+      "displayName": "GRANVIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43882,
+          "modelName": "GRANVIA (_H4_)",
+          "modelYearFrom": "2022-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3137,
+      "manufacturerName": "TOYOTA (FAW)",
+      "groupKey": "HARRIER",
+      "displayName": "HARRIER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42547,
+          "modelName": "HARRIER (_UH8_, _UA8_)",
+          "modelYearFrom": "2021-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3137,
+      "manufacturerName": "TOYOTA (FAW)",
+      "groupKey": "IZOA",
+      "displayName": "IZOA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38790,
+          "modelName": "IZOA (_XA1_, _X10_)",
+          "modelYearFrom": "2018-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3137,
+      "manufacturerName": "TOYOTA (FAW)",
+      "groupKey": "LAND",
+      "displayName": "LAND",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6531,
+          "modelName": "LAND CRUISER 100 (_J10_)",
+          "modelYearFrom": "2003-10-01",
+          "modelYearTo": "2007-07-01"
+        },
+        {
+          "modelId": 8987,
+          "modelName": "LAND CRUISER 200 (_J20_)",
+          "modelYearFrom": "2007-12-01",
+          "modelYearTo": "2017-12-01"
+        },
+        {
+          "modelId": 9968,
+          "modelName": "LAND CRUISER PRADO (_J15_)",
+          "modelYearFrom": "2010-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45470,
+          "modelName": "LAND CRUISER PRADO (_H25_)",
+          "modelYearFrom": "2024-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3137,
+      "manufacturerName": "TOYOTA (FAW)",
+      "groupKey": "PRADO",
+      "displayName": "PRADO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8129,
+          "modelName": "PRADO (_J12_)",
+          "modelYearFrom": "2003-01-01",
+          "modelYearTo": "2010-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3137,
+      "manufacturerName": "TOYOTA (FAW)",
+      "groupKey": "PRIUS",
+      "displayName": "PRIUS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6532,
+          "modelName": "PRIUS (_W2_)",
+          "modelYearFrom": "2005-01-01",
+          "modelYearTo": "2009-12-01"
+        },
+        {
+          "modelId": 10189,
+          "modelName": "PRIUS (_W3_)",
+          "modelYearFrom": "2012-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3137,
+      "manufacturerName": "TOYOTA (FAW)",
+      "groupKey": "RAV4",
+      "displayName": "RAV4",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8073,
+          "modelName": "RAV4 (_A3_)",
+          "modelYearFrom": "2009-04-01",
+          "modelYearTo": "2013-08-01"
+        },
+        {
+          "modelId": 11530,
+          "modelName": "RAV4 (_A4_)",
+          "modelYearFrom": "2013-08-01",
+          "modelYearTo": "2019-12-01"
+        },
+        {
+          "modelId": 40131,
+          "modelName": "RAV4 (_AA5_, _AH5_, _AP5_)",
+          "modelYearFrom": "2019-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3137,
+      "manufacturerName": "TOYOTA (FAW)",
+      "groupKey": "REIZ",
+      "displayName": "REIZ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6533,
+          "modelName": "REIZ (GRX12_)",
+          "modelYearFrom": "2005-10-01",
+          "modelYearTo": "2010-09-01"
+        },
+        {
+          "modelId": 9969,
+          "modelName": "REIZ (GRX13_)",
+          "modelYearFrom": "2010-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3137,
+      "manufacturerName": "TOYOTA (FAW)",
+      "groupKey": "VIOS",
+      "displayName": "VIOS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6534,
+          "modelName": "VIOS (_P4_)",
+          "modelYearFrom": "2001-01-01",
+          "modelYearTo": "2008-02-01"
+        },
+        {
+          "modelId": 7833,
+          "modelName": "VIOS (_P9_)",
+          "modelYearFrom": "2008-02-01",
+          "modelYearTo": "2013-05-01"
+        },
+        {
+          "modelId": 11751,
+          "modelName": "VIOS (_P15_)",
+          "modelYearFrom": "2013-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39235,
+          "modelName": "VIOS FS Berline bicorps trois ou cinq portes (_P15_)",
+          "modelYearFrom": "2017-03-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,613 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.281Z",
+  "manufacturer": "FOTON",
+  "countGroups": 28,
+  "groups": [
+    {
+      "manufacturerId": 2867,
+      "manufacturerName": "FOTON",
+      "groupKey": "ALPHA",
+      "displayName": "ALPHA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5862,
+          "modelName": "ALPHA Autobus/Autocar",
+          "modelYearFrom": "2002-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 5863,
+          "modelName": "ALPHA Fourgon",
+          "modelYearFrom": "2002-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2867,
+      "manufacturerName": "FOTON",
+      "groupKey": "AOLING",
+      "displayName": "AOLING",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5867,
+          "modelName": "AOLING",
+          "modelYearFrom": "1998-02-01",
+          "modelYearTo": "2001-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2867,
+      "manufacturerName": "FOTON",
+      "groupKey": "AUMARK",
+      "displayName": "AUMARK",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43181,
+          "modelName": "AUMARK S3 Camion plate-forme/Châssis",
+          "modelYearFrom": "2016-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2867,
+      "manufacturerName": "FOTON",
+      "groupKey": "FORLAND",
+      "displayName": "FORLAND",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6648,
+          "modelName": "FORLAND Camion plate-forme/Châssis (BJ1_)",
+          "modelYearFrom": "2005-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2867,
+      "manufacturerName": "FOTON",
+      "groupKey": "GENERAL",
+      "displayName": "GENERAL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41850,
+          "modelName": "GENERAL G9",
+          "modelYearFrom": "2021-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42647,
+          "modelName": "GENERAL G7",
+          "modelYearFrom": "2022-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42648,
+          "modelName": "GENERAL F9 Pick-up",
+          "modelYearFrom": "2022-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42882,
+          "modelName": "GENERAL F9 SUV",
+          "modelYearFrom": "2022-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2867,
+      "manufacturerName": "FOTON",
+      "groupKey": "GRATOUR",
+      "displayName": "GRATOUR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13910,
+          "modelName": "GRATOUR V3",
+          "modelYearFrom": "2015-02-01",
+          "modelYearTo": "2017-12-01"
+        },
+        {
+          "modelId": 14647,
+          "modelName": "GRATOUR V5",
+          "modelYearFrom": "2015-09-01",
+          "modelYearTo": "2017-12-01"
+        },
+        {
+          "modelId": 40565,
+          "modelName": "GRATOUR T3 Camion plate-forme/Châssis",
+          "modelYearFrom": "2014-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2867,
+      "manufacturerName": "FOTON",
+      "groupKey": "HUOXING",
+      "displayName": "HUOXING",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44777,
+          "modelName": "HUOXING 7",
+          "modelYearFrom": "2023-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 90005,
+          "modelName": "HUOXING 9",
+          "modelYearFrom": "2023-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2867,
+      "manufacturerName": "FOTON",
+      "groupKey": "IBLUE",
+      "displayName": "IBLUE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44455,
+          "modelName": "IBLUE V6 Fourgon",
+          "modelYearFrom": "2022-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44921,
+          "modelName": "IBLUE V6 Autobus/Autocar",
+          "modelYearFrom": "2023-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2867,
+      "manufacturerName": "FOTON",
+      "groupKey": "INKUNZI",
+      "displayName": "INKUNZI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10565,
+          "modelName": "INKUNZI Autobus/Autocar",
+          "modelYearFrom": "2009-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2867,
+      "manufacturerName": "FOTON",
+      "groupKey": "MIDI",
+      "displayName": "MIDI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8068,
+          "modelName": "MIDI",
+          "modelYearFrom": "2009-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2867,
+      "manufacturerName": "FOTON",
+      "groupKey": "MPX",
+      "displayName": "MPX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7916,
+          "modelName": "MPX Autobus/Autocar",
+          "modelYearFrom": "2007-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11648,
+          "modelName": "MPX-S Autobus/Autocar",
+          "modelYearFrom": "2013-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13753,
+          "modelName": "MPX-E Autobus/Autocar",
+          "modelYearFrom": "2014-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2867,
+      "manufacturerName": "FOTON",
+      "groupKey": "QIANDUODUO",
+      "displayName": "QIANDUODUO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 90016,
+          "modelName": "QIANDUODUO",
+          "modelYearFrom": "2024-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2867,
+      "manufacturerName": "FOTON",
+      "groupKey": "RUIWO",
+      "displayName": "RUIWO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44257,
+          "modelName": "RUIWO XIAOJINGANG Camion plate-forme/Châssis",
+          "modelYearFrom": "2019-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2867,
+      "manufacturerName": "FOTON",
+      "groupKey": "SAGA",
+      "displayName": "SAGA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7915,
+          "modelName": "SAGA",
+          "modelYearFrom": "2003-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2867,
+      "manufacturerName": "FOTON",
+      "groupKey": "SAUVANA",
+      "displayName": "SAUVANA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14142,
+          "modelName": "SAUVANA",
+          "modelYearFrom": "2015-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2867,
+      "manufacturerName": "FOTON",
+      "groupKey": "SEA",
+      "displayName": "SEA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6144,
+          "modelName": "SEA LION Autobus/Autocar",
+          "modelYearFrom": "1998-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2867,
+      "manufacturerName": "FOTON",
+      "groupKey": "SHENGTU",
+      "displayName": "SHENGTU",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40254,
+          "modelName": "SHENGTU",
+          "modelYearFrom": "2019-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2867,
+      "manufacturerName": "FOTON",
+      "groupKey": "SUP",
+      "displayName": "SUP",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6649,
+          "modelName": "SUP Pick-up (BJ2_, BJ6_)",
+          "modelYearFrom": "2003-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2867,
+      "manufacturerName": "FOTON",
+      "groupKey": "SURF",
+      "displayName": "SURF",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6167,
+          "modelName": "SURF",
+          "modelYearFrom": "1999-06-01",
+          "modelYearTo": "2003-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2867,
+      "manufacturerName": "FOTON",
+      "groupKey": "SURFING",
+      "displayName": "SURFING",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6168,
+          "modelName": "SURFING",
+          "modelYearFrom": "2003-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2867,
+      "manufacturerName": "FOTON",
+      "groupKey": "THUNDA",
+      "displayName": "THUNDA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10563,
+          "modelName": "THUNDA",
+          "modelYearFrom": "2010-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2867,
+      "manufacturerName": "FOTON",
+      "groupKey": "TOANO",
+      "displayName": "TOANO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38858,
+          "modelName": "TOANO Autobus/Autocar",
+          "modelYearFrom": "2015-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38859,
+          "modelName": "TOANO Fourgon",
+          "modelYearFrom": "2015-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45525,
+          "modelName": "TOANO V",
+          "modelYearFrom": "2024-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2867,
+      "manufacturerName": "FOTON",
+      "groupKey": "TUNLAND",
+      "displayName": "TUNLAND",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10561,
+          "modelName": "TUNLAND",
+          "modelYearFrom": "2012-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2867,
+      "manufacturerName": "FOTON",
+      "groupKey": "VIEW",
+      "displayName": "VIEW",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6650,
+          "modelName": "VIEW G7 Autobus/Autocar (BJ6_)",
+          "modelYearFrom": "2014-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 6651,
+          "modelName": "VIEW Autobus/Autocar (BJ5_)",
+          "modelYearFrom": "2001-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14843,
+          "modelName": "VIEW Fourgon",
+          "modelYearFrom": "2008-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 36732,
+          "modelName": "VIEW G9 Autobus/Autocar",
+          "modelYearFrom": "2016-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39588,
+          "modelName": "VIEW G7 Fourgon",
+          "modelYearFrom": "2015-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39848,
+          "modelName": "VIEW  V5 Autobus/Autocar",
+          "modelYearFrom": "2017-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40167,
+          "modelName": "VIEW  V5 Fourgon",
+          "modelYearFrom": "2017-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40690,
+          "modelName": "VIEW G5 Fourgon",
+          "modelYearFrom": "2019-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40691,
+          "modelName": "VIEW G5 Autobus/Autocar",
+          "modelYearFrom": "2019-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42003,
+          "modelName": "VIEW G9 Fourgon",
+          "modelYearFrom": "2016-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2867,
+      "manufacturerName": "FOTON",
+      "groupKey": "XIANGLING",
+      "displayName": "XIANGLING",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39074,
+          "modelName": "XIANGLING V Camion plate-forme/Châssis",
+          "modelYearFrom": "2015-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43190,
+          "modelName": "XIANGLING M1 Véhicule municipal",
+          "modelYearFrom": "2017-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43191,
+          "modelName": "XIANGLING M1 Camion plate-forme/Châssis",
+          "modelYearFrom": "2017-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43192,
+          "modelName": "XIANGLING M2 Camion plate-forme/Châssis",
+          "modelYearFrom": "2017-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44260,
+          "modelName": "XIANGLING M2 Véhicule municipal",
+          "modelYearFrom": "2017-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44261,
+          "modelName": "XIANGLING V Véhicule municipal",
+          "modelYearFrom": "2014-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44262,
+          "modelName": "XIANGLING V3 Camion plate-forme/Châssis",
+          "modelYearFrom": "2020-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2867,
+      "manufacturerName": "FOTON",
+      "groupKey": "YUTU",
+      "displayName": "YUTU",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40255,
+          "modelName": "YUTU",
+          "modelYearFrom": "2019-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2867,
+      "manufacturerName": "FOTON",
+      "groupKey": "ZHENGFUZHE",
+      "displayName": "ZHENGFUZHE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40824,
+          "modelName": "ZHENGFUZHE 3",
+          "modelYearFrom": "2020-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42701,
+          "modelName": "ZHENGFUZHE 5",
+          "modelYearFrom": "2022-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42828,
+          "modelName": "ZHENGFUZHE 7",
+          "modelYearFrom": "2022-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43896,
+          "modelName": "ZHENGFUZHE PLUS",
+          "modelYearFrom": "2022-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2867,
+      "manufacturerName": "FOTON",
+      "groupKey": "ZHILANJINGLING",
+      "displayName": "ZHILANJINGLING",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42966,
+          "modelName": "ZHILANJINGLING E5",
+          "modelYearFrom": "2022-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42968,
+          "modelName": "ZHILANJINGLING E7",
+          "modelYearFrom": "2022-06-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

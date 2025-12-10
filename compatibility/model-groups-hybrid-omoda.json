@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.439Z",
+  "manufacturer": "OMODA",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 7642,
+      "manufacturerName": "OMODA",
+      "groupKey": "C5",
+      "displayName": "C5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45020,
+          "modelName": "C5",
+          "modelYearFrom": "2023-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 7642,
+      "manufacturerName": "OMODA",
+      "groupKey": "C9",
+      "displayName": "C9",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45892,
+          "modelName": "C9",
+          "modelYearFrom": "2024-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 7642,
+      "manufacturerName": "OMODA",
+      "groupKey": "E5",
+      "displayName": "E5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45282,
+          "modelName": "E5",
+          "modelYearFrom": "2024-03-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

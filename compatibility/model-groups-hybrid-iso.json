@@ -1,0 +1,43 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.343Z",
+  "manufacturer": "ISO",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 5737,
+      "manufacturerName": "ISO",
+      "groupKey": "AUTOCARRO",
+      "displayName": "AUTOCARRO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40809,
+          "modelName": "AUTOCARRO Fourgon",
+          "modelYearFrom": "1954-01-01",
+          "modelYearTo": "1958-12-01"
+        },
+        {
+          "modelId": 40810,
+          "modelName": "AUTOCARRO Camion plate-forme/Châssis",
+          "modelYearFrom": "1954-01-01",
+          "modelYearTo": "1958-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5737,
+      "manufacturerName": "ISO",
+      "groupKey": "ISETTA",
+      "displayName": "ISETTA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40808,
+          "modelName": "ISETTA",
+          "modelYearFrom": "1953-11-01",
+          "modelYearTo": "1955-12-01"
+        }
+      ]
+    }
+  ]
+}

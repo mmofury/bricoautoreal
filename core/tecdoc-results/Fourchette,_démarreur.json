@@ -1,0 +1,69 @@
+{
+  "productName": "Fourchette, démarreur",
+  "searchText": "Fourchette, démarreur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:41:39.471Z",
+  "productId": 2265,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Démarreur": {
+          "categoryId": null,
+          "categoryName": "Démarreur",
+          "level": 2,
+          "children": {
+            "Fourchette, démarreur": {
+              "categoryId": 100353,
+              "categoryName": "Starter System",
+              "level": 2,
+              "children": {
+                "Composants du démarreur": {
+                  "categoryId": null,
+                  "categoryName": "Composants du démarreur",
+                  "level": 4,
+                  "children": {
+                    "Fourchette, démarreur": {
+                      "categoryId": 100040,
+                      "categoryName": "Starter Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2265
+                    }
+                  }
+                }
+              },
+              "productId": 2265
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Démarreur (Niveau 2)\n        └── Starter System [ID: 100353] (Niveau 2) → ProductId: 2265\n            └── Composants du démarreur (Niveau 4)\n                └── Starter Parts [ID: 100040] (Niveau 3) → ProductId: 2265",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Démarreur",
+        "Starter System"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100353
+      ],
+      "finalCategoryId": 100353,
+      "productId": 2265
+    }
+  ],
+  "productIdsInArbo": [
+    2265
+  ],
+  "matchedProductIds": [
+    2265
+  ]
+}

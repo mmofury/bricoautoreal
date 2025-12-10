@@ -1,0 +1,207 @@
+{
+  "productName": "Douille de lampe, projecteur antibrouillard",
+  "searchText": "Douille de lampe, projecteur antibrouillard",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:33:07.052Z",
+  "productId": 490,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Avant du véhicule": {
+          "categoryId": null,
+          "categoryName": "Avant du véhicule",
+          "level": 2,
+          "children": {
+            "Douille de lampe, projecteur antibrouillard": {
+              "categoryId": 101648,
+              "categoryName": "Vehicle Front",
+              "level": 2,
+              "children": {
+                "Projecteur antibrouillard/ composants": {
+                  "categoryId": null,
+                  "categoryName": "Projecteur antibrouillard/ composants",
+                  "level": 4,
+                  "children": {
+                    "Douille de lampe, projecteur antibrouillard": {
+                      "categoryId": 101661,
+                      "categoryName": "Front Fog Light/Parts",
+                      "level": 3,
+                      "children": {
+                        "Composants pour projecteur antibrouillard": {
+                          "categoryId": null,
+                          "categoryName": "Composants pour projecteur antibrouillard",
+                          "level": 6,
+                          "children": {
+                            "Douille de lampe, projecteur antibrouillard": {
+                              "categoryId": 101664,
+                              "categoryName": "Fog Light Parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 490
+                            }
+                          }
+                        }
+                      },
+                      "productId": 490
+                    }
+                  }
+                }
+              },
+              "productId": 490
+            }
+          }
+        },
+        "Phares supplémentaires/composants": {
+          "categoryId": null,
+          "categoryName": "Phares supplémentaires/composants",
+          "level": 2,
+          "children": {
+            "Douille de lampe, projecteur antibrouillard": {
+              "categoryId": 101340,
+              "categoryName": "Additional Headlight/Parts",
+              "level": 2,
+              "children": {
+                "Projecteur antibrouillard/ composants": {
+                  "categoryId": null,
+                  "categoryName": "Projecteur antibrouillard/ composants",
+                  "level": 4,
+                  "children": {
+                    "Douille de lampe, projecteur antibrouillard": {
+                      "categoryId": 101341,
+                      "categoryName": "Front Fog Light/Parts",
+                      "level": 3,
+                      "children": {
+                        "Composants pour projecteur antibrouillard": {
+                          "categoryId": null,
+                          "categoryName": "Composants pour projecteur antibrouillard",
+                          "level": 6,
+                          "children": {
+                            "Douille de lampe, projecteur antibrouillard": {
+                              "categoryId": 101344,
+                              "categoryName": "Fog Light Parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 490
+                            }
+                          }
+                        }
+                      },
+                      "productId": 490
+                    }
+                  }
+                }
+              },
+              "productId": 490
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Phares supplémentaires/composants": {
+          "categoryId": null,
+          "categoryName": "Phares supplémentaires/composants",
+          "level": 2,
+          "children": {
+            "Douille de lampe, projecteur antibrouillard": {
+              "categoryId": 100787,
+              "categoryName": "Additional Headlight/Parts",
+              "level": 2,
+              "children": {
+                "Projecteur antibrouillard/ composants": {
+                  "categoryId": null,
+                  "categoryName": "Projecteur antibrouillard/ composants",
+                  "level": 4,
+                  "children": {
+                    "Douille de lampe, projecteur antibrouillard": {
+                      "categoryId": 100277,
+                      "categoryName": "Front Fog Light/Parts",
+                      "level": 3,
+                      "children": {
+                        "Composants pour projecteur antibrouillard": {
+                          "categoryId": null,
+                          "categoryName": "Composants pour projecteur antibrouillard",
+                          "level": 6,
+                          "children": {
+                            "Douille de lampe, projecteur antibrouillard": {
+                              "categoryId": 100444,
+                              "categoryName": "Fog Light Parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 490
+                            }
+                          }
+                        }
+                      },
+                      "productId": 490
+                    }
+                  }
+                }
+              },
+              "productId": 490
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carrosserie [ID: 100001] (Niveau 1)\n│   ├── Avant du véhicule (Niveau 2)\n│   │   └── Vehicle Front [ID: 101648] (Niveau 2) → ProductId: 490\n│   │       └── Projecteur antibrouillard/ composants (Niveau 4)\n│   │           └── Front Fog Light/Parts [ID: 101661] (Niveau 3) → ProductId: 490\n│   │               └── Composants pour projecteur antibrouillard (Niveau 6)\n│   │                   └── Fog Light Parts [ID: 101664] (Niveau 4) → ProductId: 490\n│   └── Phares supplémentaires/composants (Niveau 2)\n│       └── Additional Headlight/Parts [ID: 101340] (Niveau 2) → ProductId: 490\n│           └── Projecteur antibrouillard/ composants (Niveau 4)\n│               └── Front Fog Light/Parts [ID: 101341] (Niveau 3) → ProductId: 490\n│                   └── Composants pour projecteur antibrouillard (Niveau 6)\n│                       └── Fog Light Parts [ID: 101344] (Niveau 4) → ProductId: 490\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Phares supplémentaires/composants (Niveau 2)\n        └── Additional Headlight/Parts [ID: 100787] (Niveau 2) → ProductId: 490\n            └── Projecteur antibrouillard/ composants (Niveau 4)\n                └── Front Fog Light/Parts [ID: 100277] (Niveau 3) → ProductId: 490\n                    └── Composants pour projecteur antibrouillard (Niveau 6)\n                        └── Fog Light Parts [ID: 100444] (Niveau 4) → ProductId: 490",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Avant du véhicule",
+        "Vehicle Front"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101648
+      ],
+      "finalCategoryId": 101648,
+      "productId": 490
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Phares supplémentaires/composants",
+        "Additional Headlight/Parts"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101340
+      ],
+      "finalCategoryId": 101340,
+      "productId": 490
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Phares supplémentaires/composants",
+        "Additional Headlight/Parts"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100787
+      ],
+      "finalCategoryId": 100787,
+      "productId": 490
+    }
+  ],
+  "productIdsInArbo": [
+    490
+  ],
+  "matchedProductIds": [
+    490
+  ]
+}

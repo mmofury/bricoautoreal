@@ -1,0 +1,67 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.183Z",
+  "manufacturer": "BAOLONG",
+  "countGroups": 4,
+  "groups": [
+    {
+      "manufacturerId": 2906,
+      "manufacturerName": "BAOLONG",
+      "groupKey": "LINGHUI",
+      "displayName": "LINGHUI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9945,
+          "modelName": "LINGHUI",
+          "modelYearFrom": "2003-06-01",
+          "modelYearTo": "2005-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2906,
+      "manufacturerName": "BAOLONG",
+      "groupKey": "LINGJUN",
+      "displayName": "LINGJUN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9944,
+          "modelName": "LINGJUN",
+          "modelYearFrom": "2003-03-01",
+          "modelYearTo": "2005-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2906,
+      "manufacturerName": "BAOLONG",
+      "groupKey": "LINGQI",
+      "displayName": "LINGQI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9946,
+          "modelName": "LINGQI",
+          "modelYearFrom": "2003-01-01",
+          "modelYearTo": "2006-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2906,
+      "manufacturerName": "BAOLONG",
+      "groupKey": "PEGASUS",
+      "displayName": "PEGASUS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6112,
+          "modelName": "PEGASUS",
+          "modelYearFrom": "2003-12-01",
+          "modelYearTo": "2006-12-01"
+        }
+      ]
+    }
+  ]
+}

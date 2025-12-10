@@ -1,0 +1,97 @@
+{
+  "productName": "Tuyau d'embrayage",
+  "searchText": "Tuyau d'embrayage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:28:40.547Z",
+  "productId": 457,
+  "arborescence": {
+    "Embrayage / composants": {
+      "categoryId": 100050,
+      "categoryName": "Embrayage / composants",
+      "level": 1,
+      "children": {
+        "Commande d'embrayage": {
+          "categoryId": null,
+          "categoryName": "Commande d'embrayage",
+          "level": 2,
+          "children": {
+            "Tuyau d'embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Cylindre émetteur": {
+                  "categoryId": null,
+                  "categoryName": "Cylindre émetteur",
+                  "level": 4,
+                  "children": {
+                    "Tuyau d'embrayage": {
+                      "categoryId": 100061,
+                      "categoryName": "Master Cylinder",
+                      "level": 3,
+                      "children": [],
+                      "productId": 457
+                    }
+                  }
+                },
+                "Récepteur d'embrayage": {
+                  "categoryId": null,
+                  "categoryName": "Récepteur d'embrayage",
+                  "level": 4,
+                  "children": {
+                    "Tuyau d'embrayage": {
+                      "categoryId": 100060,
+                      "categoryName": "Slave Cylinder",
+                      "level": 3,
+                      "children": [],
+                      "productId": 457
+                    }
+                  }
+                },
+                "Tuyaux / conduites": {
+                  "categoryId": null,
+                  "categoryName": "Tuyaux / conduites",
+                  "level": 4,
+                  "children": {
+                    "Tuyau d'embrayage": {
+                      "categoryId": 100298,
+                      "categoryName": "Hoses/Pipes",
+                      "level": 3,
+                      "children": [],
+                      "productId": 457
+                    }
+                  }
+                }
+              },
+              "productId": 457
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Embrayage / composants [ID: 100050] (Niveau 1)\n    └── Commande d'embrayage (Niveau 2)\n        └── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 457\n            ├── Cylindre émetteur (Niveau 4)\n            │   └── Master Cylinder [ID: 100061] (Niveau 3) → ProductId: 457\n            ├── Récepteur d'embrayage (Niveau 4)\n            │   └── Slave Cylinder [ID: 100060] (Niveau 3) → ProductId: 457\n            └── Tuyaux / conduites (Niveau 4)\n                └── Hoses/Pipes [ID: 100298] (Niveau 3) → ProductId: 457",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 457
+    }
+  ],
+  "productIdsInArbo": [
+    457
+  ],
+  "matchedProductIds": [
+    457
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "productName": "Interrupteur, témoin de frein à main",
+  "searchText": "Interrupteur, témoin de frein à main",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:47:58.307Z",
+  "productId": 1766,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Instruments": {
+          "categoryId": null,
+          "categoryName": "Instruments",
+          "level": 2,
+          "children": {
+            "Interrupteur, témoin de frein à main": {
+              "categoryId": 100322,
+              "categoryName": "Instruments",
+              "level": 2,
+              "children": {
+                "Capteurs/Conatct": {
+                  "categoryId": null,
+                  "categoryName": "Capteurs/Conatct",
+                  "level": 4,
+                  "children": {
+                    "Interrupteur, témoin de frein à main": {
+                      "categoryId": 100553,
+                      "categoryName": "Sensors/Switches",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1766
+                    }
+                  }
+                }
+              },
+              "productId": 1766
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Instruments (Niveau 2)\n        └── Instruments [ID: 100322] (Niveau 2) → ProductId: 1766\n            └── Capteurs/Conatct (Niveau 4)\n                └── Sensors/Switches [ID: 100553] (Niveau 3) → ProductId: 1766",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Instruments",
+        "Instruments"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100322
+      ],
+      "finalCategoryId": 100322,
+      "productId": 1766
+    }
+  ],
+  "productIdsInArbo": [
+    1766
+  ],
+  "matchedProductIds": [
+    1766
+  ]
+}

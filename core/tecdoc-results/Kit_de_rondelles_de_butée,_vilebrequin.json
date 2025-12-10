@@ -1,0 +1,84 @@
+{
+  "productName": "Kit de rondelles de butée, vilebrequin",
+  "searchText": "Kit de rondelles de butée, vilebrequin",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:02:48.355Z",
+  "productId": 6169,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Système bielle-manivelle": {
+          "categoryId": null,
+          "categoryName": "Système bielle-manivelle",
+          "level": 2,
+          "children": {
+            "Kit de rondelles de butée, vilebrequin": {
+              "categoryId": 100515,
+              "categoryName": "Crankshaft Drive",
+              "level": 2,
+              "children": {
+                "Vilebrequin": {
+                  "categoryId": null,
+                  "categoryName": "Vilebrequin",
+                  "level": 4,
+                  "children": {
+                    "Kit de rondelles de butée, vilebrequin": {
+                      "categoryId": 100517,
+                      "categoryName": "Crankshaft",
+                      "level": 3,
+                      "children": {
+                        "Poulies de vilebrequin": {
+                          "categoryId": null,
+                          "categoryName": "Poulies de vilebrequin",
+                          "level": 6,
+                          "children": {
+                            "Kit de rondelles de butée, vilebrequin": {
+                              "categoryId": 100759,
+                              "categoryName": "Thrust Washers/Thrust Bearing",
+                              "level": 4,
+                              "children": [],
+                              "productId": 6169
+                            }
+                          }
+                        }
+                      },
+                      "productId": 6169
+                    }
+                  }
+                }
+              },
+              "productId": 6169
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Système bielle-manivelle (Niveau 2)\n        └── Crankshaft Drive [ID: 100515] (Niveau 2) → ProductId: 6169\n            └── Vilebrequin (Niveau 4)\n                └── Crankshaft [ID: 100517] (Niveau 3) → ProductId: 6169\n                    └── Poulies de vilebrequin (Niveau 6)\n                        └── Thrust Washers/Thrust Bearing [ID: 100759] (Niveau 4) → ProductId: 6169",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Crankshaft Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100515
+      ],
+      "finalCategoryId": 100515,
+      "productId": 6169
+    }
+  ],
+  "productIdsInArbo": [
+    6169
+  ],
+  "matchedProductIds": [
+    6169
+  ]
+}

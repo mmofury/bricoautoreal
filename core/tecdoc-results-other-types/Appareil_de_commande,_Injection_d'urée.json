@@ -1,0 +1,137 @@
+{
+  "productName": "Appareil de commande, Injection d'urée",
+  "searchText": "Appareil de commande, Injection d'urée",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": false,
+      "arborescence": {
+        "Échappement": {
+          "categoryId": 200051,
+          "categoryName": "Échappement",
+          "level": 1,
+          "children": {
+            "Injection d'urée": {
+              "categoryId": null,
+              "categoryName": "Injection d'urée",
+              "level": 2,
+              "children": {
+                "Appareil de commande, Injection d'urée": {
+                  "categoryId": 203029,
+                  "categoryName": "Urea Injection",
+                  "level": 2,
+                  "children": {
+                    "Contrôle": {
+                      "categoryId": null,
+                      "categoryName": "Contrôle",
+                      "level": 4,
+                      "children": {
+                        "Appareil de commande, Injection d'urée": {
+                          "categoryId": 203094,
+                          "categoryName": "Control Unit",
+                          "level": 3,
+                          "children": [],
+                          "productId": 4382
+                        }
+                      }
+                    }
+                  },
+                  "productId": 4382
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Échappement [ID: 200051] (Niveau 1)\n    └── Injection d'urée (Niveau 2)\n        └── Urea Injection [ID: 203029] (Niveau 2) → ProductId: 4382\n            └── Contrôle (Niveau 4)\n                └── Control Unit [ID: 203094] (Niveau 3) → ProductId: 4382",
+      "productIdsInArbo": [
+        4382
+      ]
+    },
+    {
+      "typeId": 3,
+      "found": true,
+      "hasMatch": false,
+      "arborescence": {
+        "Échappement": {
+          "categoryId": 100004,
+          "categoryName": "Échappement",
+          "level": 1,
+          "children": {
+            "Injection d'urée": {
+              "categoryId": null,
+              "categoryName": "Injection d'urée",
+              "level": 2,
+              "children": {
+                "Appareil de commande, Injection d'urée": {
+                  "categoryId": 103019,
+                  "categoryName": "Urea Injection",
+                  "level": 2,
+                  "children": [],
+                  "productId": 4382
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Échappement [ID: 100004] (Niveau 1)\n    └── Injection d'urée (Niveau 2)\n        └── Urea Injection [ID: 103019] (Niveau 2) → ProductId: 4382",
+      "productIdsInArbo": [
+        4382
+      ]
+    },
+    {
+      "typeId": 4,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 5,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 6,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 7,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 8,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 9,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 10,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 11,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 12,
+      "found": false,
+      "hasMatch": false
+    }
+  ],
+  "timestamp": "2025-12-03T09:42:30.694Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": false
+  }
+}

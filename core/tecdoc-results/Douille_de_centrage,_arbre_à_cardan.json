@@ -1,0 +1,69 @@
+{
+  "productName": "Douille de centrage, arbre à cardan",
+  "searchText": "Douille de centrage, arbre à cardan",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:32:51.179Z",
+  "productId": 1805,
+  "arborescence": {
+    "Entraînement des essieux": {
+      "categoryId": 100400,
+      "categoryName": "Entraînement des essieux",
+      "level": 1,
+      "children": {
+        "Arbre de transmission": {
+          "categoryId": null,
+          "categoryName": "Arbre de transmission",
+          "level": 2,
+          "children": {
+            "Douille de centrage, arbre à cardan": {
+              "categoryId": 100703,
+              "categoryName": "Propshaft",
+              "level": 2,
+              "children": {
+                "Joint/ Flecteur": {
+                  "categoryId": null,
+                  "categoryName": "Joint/ Flecteur",
+                  "level": 4,
+                  "children": {
+                    "Douille de centrage, arbre à cardan": {
+                      "categoryId": 100707,
+                      "categoryName": "Universal Joint",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1805
+                    }
+                  }
+                }
+              },
+              "productId": 1805
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement des essieux [ID: 100400] (Niveau 1)\n    └── Arbre de transmission (Niveau 2)\n        └── Propshaft [ID: 100703] (Niveau 2) → ProductId: 1805\n            └── Joint/ Flecteur (Niveau 4)\n                └── Universal Joint [ID: 100707] (Niveau 3) → ProductId: 1805",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des essieux",
+        "Arbre de transmission",
+        "Propshaft"
+      ],
+      "categoryIds": [
+        100400,
+        null,
+        100703
+      ],
+      "finalCategoryId": 100703,
+      "productId": 1805
+    }
+  ],
+  "productIdsInArbo": [
+    1805
+  ],
+  "matchedProductIds": [
+    1805
+  ]
+}

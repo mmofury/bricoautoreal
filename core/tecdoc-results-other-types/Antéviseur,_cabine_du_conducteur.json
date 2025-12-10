@@ -1,0 +1,70 @@
+{
+  "productName": "Antéviseur, cabine du conducteur",
+  "productId": 4209,
+  "searchText": "Antéviseur, cabine du conducteur",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Cabine du conducteur/carrosserie": {
+          "categoryId": 200022,
+          "categoryName": "Cabine du conducteur/carrosserie",
+          "level": 1,
+          "children": {
+            "Miroirs/accessoires": {
+              "categoryId": null,
+              "categoryName": "Miroirs/accessoires",
+              "level": 2,
+              "children": {
+                "Antéviseur, cabine du conducteur": {
+                  "categoryId": 200024,
+                  "categoryName": "Mirror/ Accessories",
+                  "level": 2,
+                  "children": [],
+                  "productId": 4209
+                }
+              }
+            }
+          }
+        },
+        "Équipement / accessoires": {
+          "categoryId": 200067,
+          "categoryName": "Équipement / accessoires",
+          "level": 1,
+          "children": {
+            "Mirroir/ accessoires": {
+              "categoryId": null,
+              "categoryName": "Mirroir/ accessoires",
+              "level": 2,
+              "children": {
+                "Antéviseur, cabine du conducteur": {
+                  "categoryId": 200838,
+                  "categoryName": "Mirror/ Parts",
+                  "level": 2,
+                  "children": [],
+                  "productId": 4209
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "├── Cabine du conducteur/carrosserie [ID: 200022] (Niveau 1)\n│   └── Miroirs/accessoires (Niveau 2)\n│       └── Mirror/ Accessories [ID: 200024] (Niveau 2) → ProductId: 4209\n\n└── Équipement / accessoires [ID: 200067] (Niveau 1)\n    └── Mirroir/ accessoires (Niveau 2)\n        └── Mirror/ Parts [ID: 200838] (Niveau 2) → ProductId: 4209",
+      "productIdsInArbo": [
+        4209
+      ],
+      "matchedProductIds": [
+        4209
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T09:41:32.050Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

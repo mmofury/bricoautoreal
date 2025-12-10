@@ -1,0 +1,54 @@
+{
+  "productName": "Bougie de préchauffage, chauffage auxiliaire",
+  "searchText": "Bougie de préchauffage, chauffage auxiliaire",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:09:01.347Z",
+  "productId": 2985,
+  "arborescence": {
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Chauffage auxiliaire": {
+          "categoryId": null,
+          "categoryName": "Chauffage auxiliaire",
+          "level": 2,
+          "children": {
+            "Bougie de préchauffage, chauffage auxiliaire": {
+              "categoryId": 100614,
+              "categoryName": "Parking Heater",
+              "level": 2,
+              "children": [],
+              "productId": 2985
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Systèmes de confort [ID: 100335] (Niveau 1)\n    └── Chauffage auxiliaire (Niveau 2)\n        └── Parking Heater [ID: 100614] (Niveau 2) → ProductId: 2985",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Systèmes de confort",
+        "Chauffage auxiliaire",
+        "Parking Heater"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        100614
+      ],
+      "finalCategoryId": 100614,
+      "productId": 2985
+    }
+  ],
+  "productIdsInArbo": [
+    2985
+  ],
+  "matchedProductIds": [
+    2985
+  ]
+}

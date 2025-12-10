@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "E26DA1",
+      "index": "MONL15560",
+      "tecDoc": "L15560",
+      "tecDocProd": "37",
+      "articleNumber": "L15560",
+      "brand": "MONROE",
+      "shortDescription": "Bracket, axle beam",
+      "description": "Front axle track control arm L/R top front fits: FIAT PANDA, PANDA/HATCHBACK 0.9/1.0/1.1 10.80-07.04",
+      "gtuCode": "GTU_07",
+      "eans": [
+        "5412096504990"
+      ],
+      "customsCode": "87088099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_273",
+          "primary": false,
+          "name": {
+            "en": "Track control arm"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_482",
+          "primary": true,
+          "name": {
+            "en": "Bracket, axle beam"
+          }
+        }
+      ]
+    }
+  ]
+}

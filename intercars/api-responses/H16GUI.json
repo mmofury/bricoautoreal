@@ -1,0 +1,44 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H16GUI",
+      "index": "6.00294",
+      "tecDoc": "6.00294",
+      "tecDocProd": "355",
+      "articleNumber": "6.00294",
+      "brand": "DT SPARE PARTS",
+      "shortDescription": "Bumper trim",
+      "description": "Bumper element (front bumper cover) R fits: RENAULT EXPRESS/MINIVAN 05.21-",
+      "gtuCode": "GTU_07",
+      "packageWeight": "0,300",
+      "customsCode": "87081090",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_244",
+          "primary": false,
+          "name": {
+            "en": "Bumper grille"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1002",
+          "primary": true,
+          "name": {
+            "en": "Bumper trim"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_92478",
+          "primary": false,
+          "name": {
+            "en": "Bumper parts"
+          }
+        }
+      ]
+    }
+  ]
+}

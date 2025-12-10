@@ -1,0 +1,69 @@
+{
+  "productName": "Vis de volant moteur",
+  "searchText": "Vis de volant moteur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:34:06.703Z",
+  "productId": 1627,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Système bielle-manivelle": {
+          "categoryId": null,
+          "categoryName": "Système bielle-manivelle",
+          "level": 2,
+          "children": {
+            "Vis de volant moteur": {
+              "categoryId": 100515,
+              "categoryName": "Crankshaft Drive",
+              "level": 2,
+              "children": {
+                "Volant-moteur": {
+                  "categoryId": null,
+                  "categoryName": "Volant-moteur",
+                  "level": 4,
+                  "children": {
+                    "Vis de volant moteur": {
+                      "categoryId": 100518,
+                      "categoryName": "Flywheel",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1627
+                    }
+                  }
+                }
+              },
+              "productId": 1627
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Système bielle-manivelle (Niveau 2)\n        └── Crankshaft Drive [ID: 100515] (Niveau 2) → ProductId: 1627\n            └── Volant-moteur (Niveau 4)\n                └── Flywheel [ID: 100518] (Niveau 3) → ProductId: 1627",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Crankshaft Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100515
+      ],
+      "finalCategoryId": 100515,
+      "productId": 1627
+    }
+  ],
+  "productIdsInArbo": [
+    1627
+  ],
+  "matchedProductIds": [
+    1627
+  ]
+}

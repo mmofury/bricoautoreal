@@ -1,0 +1,227 @@
+{
+  "productName": "Poulie de tension, courroie crantée",
+  "searchText": "Poulie de tension, courroie crantée",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:03:26.163Z",
+  "productId": 308,
+  "arborescence": {
+    "Commande à courroie": {
+      "categoryId": 100016,
+      "categoryName": "Commande à courroie",
+      "level": 1,
+      "children": {
+        "Courroie crantée/kit de courroie crantée": {
+          "categoryId": null,
+          "categoryName": "Courroie crantée/kit de courroie crantée",
+          "level": 2,
+          "children": {
+            "Poulie de tension, courroie crantée": {
+              "categoryId": 100085,
+              "categoryName": "Timing Belt/Set",
+              "level": 2,
+              "children": {
+                "Poulie de tension": {
+                  "categoryId": null,
+                  "categoryName": "Poulie de tension",
+                  "level": 4,
+                  "children": {
+                    "Poulie de tension, courroie crantée": {
+                      "categoryId": 100455,
+                      "categoryName": "Tensioner Pulley",
+                      "level": 3,
+                      "children": [],
+                      "productId": 308
+                    }
+                  }
+                }
+              },
+              "productId": 308
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Commande à courroie": {
+          "categoryId": null,
+          "categoryName": "Commande à courroie",
+          "level": 2,
+          "children": {
+            "Poulie de tension, courroie crantée": {
+              "categoryId": 104302,
+              "categoryName": "Belt Drive",
+              "level": 2,
+              "children": {
+                "Courroie crantée/kit de courroie crantée": {
+                  "categoryId": null,
+                  "categoryName": "Courroie crantée/kit de courroie crantée",
+                  "level": 4,
+                  "children": {
+                    "Poulie de tension, courroie crantée": {
+                      "categoryId": 104317,
+                      "categoryName": "Timing Belt/Set",
+                      "level": 3,
+                      "children": {
+                        "Poulie de tension": {
+                          "categoryId": null,
+                          "categoryName": "Poulie de tension",
+                          "level": 6,
+                          "children": {
+                            "Poulie de tension, courroie crantée": {
+                              "categoryId": 104320,
+                              "categoryName": "Tensioner Pulley",
+                              "level": 4,
+                              "children": [],
+                              "productId": 308
+                            }
+                          }
+                        }
+                      },
+                      "productId": 308
+                    }
+                  }
+                }
+              },
+              "productId": 308
+            }
+          }
+        },
+        "Distribution moteur": {
+          "categoryId": null,
+          "categoryName": "Distribution moteur",
+          "level": 2,
+          "children": {
+            "Poulie de tension, courroie crantée": {
+              "categoryId": 100003,
+              "categoryName": "Engine Timing",
+              "level": 2,
+              "children": {
+                "Courroie crantée/tension/guidage": {
+                  "categoryId": null,
+                  "categoryName": "Courroie crantée/tension/guidage",
+                  "level": 4,
+                  "children": {
+                    "Poulie de tension, courroie crantée": {
+                      "categoryId": 100396,
+                      "categoryName": "Timing Belt/Tensioner/Guide",
+                      "level": 3,
+                      "children": {
+                        "Poulie de tension": {
+                          "categoryId": null,
+                          "categoryName": "Poulie de tension",
+                          "level": 6,
+                          "children": {
+                            "Poulie de tension, courroie crantée": {
+                              "categoryId": 100406,
+                              "categoryName": "Tensioner Pulley",
+                              "level": 4,
+                              "children": [],
+                              "productId": 308
+                            }
+                          }
+                        }
+                      },
+                      "productId": 308
+                    }
+                  }
+                }
+              },
+              "productId": 308
+            }
+          }
+        }
+      }
+    },
+    "Pièces de maintenance": {
+      "categoryId": 100019,
+      "categoryName": "Pièces de maintenance",
+      "level": 1,
+      "children": {
+        "Travaux supplémentaires": {
+          "categoryId": null,
+          "categoryName": "Travaux supplémentaires",
+          "level": 2,
+          "children": {
+            "Poulie de tension, courroie crantée": {
+              "categoryId": 100598,
+              "categoryName": "Additional Repairs",
+              "level": 2,
+              "children": [],
+              "productId": 308
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Commande à courroie [ID: 100016] (Niveau 1)\n│   └── Courroie crantée/kit de courroie crantée (Niveau 2)\n│       └── Timing Belt/Set [ID: 100085] (Niveau 2) → ProductId: 308\n│           └── Poulie de tension (Niveau 4)\n│               └── Tensioner Pulley [ID: 100455] (Niveau 3) → ProductId: 308\n\n├── Moteur [ID: 100002] (Niveau 1)\n│   ├── Commande à courroie (Niveau 2)\n│   │   └── Belt Drive [ID: 104302] (Niveau 2) → ProductId: 308\n│   │       └── Courroie crantée/kit de courroie crantée (Niveau 4)\n│   │           └── Timing Belt/Set [ID: 104317] (Niveau 3) → ProductId: 308\n│   │               └── Poulie de tension (Niveau 6)\n│   │                   └── Tensioner Pulley [ID: 104320] (Niveau 4) → ProductId: 308\n│   └── Distribution moteur (Niveau 2)\n│       └── Engine Timing [ID: 100003] (Niveau 2) → ProductId: 308\n│           └── Courroie crantée/tension/guidage (Niveau 4)\n│               └── Timing Belt/Tensioner/Guide [ID: 100396] (Niveau 3) → ProductId: 308\n│                   └── Poulie de tension (Niveau 6)\n│                       └── Tensioner Pulley [ID: 100406] (Niveau 4) → ProductId: 308\n\n└── Pièces de maintenance [ID: 100019] (Niveau 1)\n    └── Travaux supplémentaires (Niveau 2)\n        └── Additional Repairs [ID: 100598] (Niveau 2) → ProductId: 308",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Commande à courroie",
+        "Courroie crantée/kit de courroie crantée",
+        "Timing Belt/Set"
+      ],
+      "categoryIds": [
+        100016,
+        null,
+        100085
+      ],
+      "finalCategoryId": 100085,
+      "productId": 308
+    },
+    {
+      "path": [
+        "Moteur",
+        "Commande à courroie",
+        "Belt Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        104302
+      ],
+      "finalCategoryId": 104302,
+      "productId": 308
+    },
+    {
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Engine Timing"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100003
+      ],
+      "finalCategoryId": 100003,
+      "productId": 308
+    },
+    {
+      "path": [
+        "Pièces de maintenance",
+        "Travaux supplémentaires",
+        "Additional Repairs"
+      ],
+      "categoryIds": [
+        100019,
+        null,
+        100598
+      ],
+      "finalCategoryId": 100598,
+      "productId": 308
+    }
+  ],
+  "productIdsInArbo": [
+    308
+  ],
+  "matchedProductIds": [
+    308
+  ]
+}

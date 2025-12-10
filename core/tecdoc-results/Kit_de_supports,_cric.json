@@ -1,0 +1,112 @@
+{
+  "productName": "Kit de supports, cric",
+  "searchText": "Kit de supports, cric",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:07:10.419Z",
+  "productId": 9285,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Habitacle": {
+          "categoryId": null,
+          "categoryName": "Habitacle",
+          "level": 2,
+          "children": {
+            "Kit de supports, cric": {
+              "categoryId": 101690,
+              "categoryName": "Passenger Cabin",
+              "level": 2,
+              "children": {
+                "Marchepied / montant de porte": {
+                  "categoryId": null,
+                  "categoryName": "Marchepied / montant de porte",
+                  "level": 4,
+                  "children": {
+                    "Kit de supports, cric": {
+                      "categoryId": 101692,
+                      "categoryName": "Footboard/Door Pillar",
+                      "level": 3,
+                      "children": [],
+                      "productId": 9285
+                    }
+                  }
+                }
+              },
+              "productId": 9285
+            }
+          }
+        },
+        "Pièces de carrosserie/ailes/pares-chocs": {
+          "categoryId": null,
+          "categoryName": "Pièces de carrosserie/ailes/pares-chocs",
+          "level": 2,
+          "children": {
+            "Kit de supports, cric": {
+              "categoryId": 100743,
+              "categoryName": "Body Parts/Wing/Bumper",
+              "level": 2,
+              "children": {
+                "Marchepied / montant de porte": {
+                  "categoryId": null,
+                  "categoryName": "Marchepied / montant de porte",
+                  "level": 4,
+                  "children": {
+                    "Kit de supports, cric": {
+                      "categoryId": 100169,
+                      "categoryName": "Footboard/Door Pillar",
+                      "level": 3,
+                      "children": [],
+                      "productId": 9285
+                    }
+                  }
+                }
+              },
+              "productId": 9285
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    ├── Habitacle (Niveau 2)\n    │   └── Passenger Cabin [ID: 101690] (Niveau 2) → ProductId: 9285\n    │       └── Marchepied / montant de porte (Niveau 4)\n    │           └── Footboard/Door Pillar [ID: 101692] (Niveau 3) → ProductId: 9285\n    └── Pièces de carrosserie/ailes/pares-chocs (Niveau 2)\n        └── Body Parts/Wing/Bumper [ID: 100743] (Niveau 2) → ProductId: 9285\n            └── Marchepied / montant de porte (Niveau 4)\n                └── Footboard/Door Pillar [ID: 100169] (Niveau 3) → ProductId: 9285",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Habitacle",
+        "Passenger Cabin"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101690
+      ],
+      "finalCategoryId": 101690,
+      "productId": 9285
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Pièces de carrosserie/ailes/pares-chocs",
+        "Body Parts/Wing/Bumper"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100743
+      ],
+      "finalCategoryId": 100743,
+      "productId": 9285
+    }
+  ],
+  "productIdsInArbo": [
+    9285
+  ],
+  "matchedProductIds": [
+    9285
+  ]
+}

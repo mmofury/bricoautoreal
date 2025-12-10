@@ -1,0 +1,54 @@
+{
+  "productName": "Douille, arbre de levier de direction",
+  "searchText": "Douille, arbre de levier de direction",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:34:10.755Z",
+  "productId": 1596,
+  "arborescence": {
+    "Direction": {
+      "categoryId": 100012,
+      "categoryName": "Direction",
+      "level": 1,
+      "children": {
+        "Levier de direction": {
+          "categoryId": null,
+          "categoryName": "Levier de direction",
+          "level": 2,
+          "children": {
+            "Douille, arbre de levier de direction": {
+              "categoryId": 100203,
+              "categoryName": "Control Arm",
+              "level": 2,
+              "children": [],
+              "productId": 1596
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Direction [ID: 100012] (Niveau 1)\n    └── Levier de direction (Niveau 2)\n        └── Control Arm [ID: 100203] (Niveau 2) → ProductId: 1596",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Direction",
+        "Levier de direction",
+        "Control Arm"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        100203
+      ],
+      "finalCategoryId": 100203,
+      "productId": 1596
+    }
+  ],
+  "productIdsInArbo": [
+    1596
+  ],
+  "matchedProductIds": [
+    1596
+  ]
+}

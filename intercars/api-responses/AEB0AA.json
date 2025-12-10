@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "AEB0AA",
+      "index": "1 410 210 037",
+      "tecDoc": "1 410 210 037",
+      "tecDocProd": "30",
+      "articleNumber": "1 410 210 037",
+      "brand": "BOSCH",
+      "shortDescription": "Seal Ring",
+      "description": "diesel injection pumps, drills - part of gasket",
+      "eans": [
+        "3165142747569"
+      ],
+      "packageWeight": "0,001",
+      "packageWidth": "5,400",
+      "packageDepth": "0,500",
+      "packageHeight": "7,000",
+      "customsCode": "40169300",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3282",
+          "primary": false,
+          "name": {
+            "en": "Rubber Ring"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_5054",
+          "primary": true,
+          "name": {
+            "en": "Seal Ring"
+          }
+        }
+      ]
+    }
+  ]
+}

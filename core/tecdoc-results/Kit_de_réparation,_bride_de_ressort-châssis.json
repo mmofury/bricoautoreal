@@ -1,0 +1,54 @@
+{
+  "productName": "Kit de réparation, bride de ressort-châssis",
+  "searchText": "Kit de réparation, bride de ressort-châssis",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:03:55.354Z",
+  "productId": 4030,
+  "arborescence": {
+    "Suspension/Amortissement": {
+      "categoryId": 100011,
+      "categoryName": "Suspension/Amortissement",
+      "level": 1,
+      "children": {
+        "Suspension sur ressorts à lames": {
+          "categoryId": null,
+          "categoryName": "Suspension sur ressorts à lames",
+          "level": 2,
+          "children": {
+            "Kit de réparation, bride de ressort-châssis": {
+              "categoryId": 100810,
+              "categoryName": "Leaf Spring Suspension",
+              "level": 2,
+              "children": [],
+              "productId": 4030
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Suspension/Amortissement [ID: 100011] (Niveau 1)\n    └── Suspension sur ressorts à lames (Niveau 2)\n        └── Leaf Spring Suspension [ID: 100810] (Niveau 2) → ProductId: 4030",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Suspension sur ressorts à lames",
+        "Leaf Spring Suspension"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        100810
+      ],
+      "finalCategoryId": 100810,
+      "productId": 4030
+    }
+  ],
+  "productIdsInArbo": [
+    4030
+  ],
+  "matchedProductIds": [
+    4030
+  ]
+}

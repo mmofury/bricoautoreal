@@ -1,0 +1,54 @@
+{
+  "productName": "Élément d'ajustage, clapet de mélange",
+  "searchText": "Élément d'ajustage, clapet de mélange",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:38:47.697Z",
+  "productId": 2085,
+  "arborescence": {
+    "Climatisation": {
+      "categoryId": 100243,
+      "categoryName": "Climatisation",
+      "level": 1,
+      "children": {
+        "Contrôle/Réglage": {
+          "categoryId": null,
+          "categoryName": "Contrôle/Réglage",
+          "level": 2,
+          "children": {
+            "Élément d'ajustage, clapet de mélange": {
+              "categoryId": 100779,
+              "categoryName": "Controls/Regulation",
+              "level": 2,
+              "children": [],
+              "productId": 2085
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Climatisation [ID: 100243] (Niveau 1)\n    └── Contrôle/Réglage (Niveau 2)\n        └── Controls/Regulation [ID: 100779] (Niveau 2) → ProductId: 2085",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Climatisation",
+        "Contrôle/Réglage",
+        "Controls/Regulation"
+      ],
+      "categoryIds": [
+        100243,
+        null,
+        100779
+      ],
+      "finalCategoryId": 100779,
+      "productId": 2085
+    }
+  ],
+  "productIdsInArbo": [
+    2085
+  ],
+  "matchedProductIds": [
+    2085
+  ]
+}

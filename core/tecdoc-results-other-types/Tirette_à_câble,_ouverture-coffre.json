@@ -1,0 +1,108 @@
+{
+  "productName": "Tirette à câble, ouverture-coffre",
+  "productId": 4203,
+  "searchText": "Tirette à câble, ouverture-coffre",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Cabine du conducteur/carrosserie": {
+          "categoryId": 200022,
+          "categoryName": "Cabine du conducteur/carrosserie",
+          "level": 1,
+          "children": {
+            "Hayons/Capots/Portes/Toits ouvrants": {
+              "categoryId": null,
+              "categoryName": "Hayons/Capots/Portes/Toits ouvrants",
+              "level": 2,
+              "children": {
+                "Tirette à câble, ouverture-coffre": {
+                  "categoryId": 201076,
+                  "categoryName": "Hatches/ Bonnets/ Doors/ Sunroof",
+                  "level": 2,
+                  "children": {
+                    "Coffre": {
+                      "categoryId": null,
+                      "categoryName": "Coffre",
+                      "level": 4,
+                      "children": {
+                        "Tirette à câble, ouverture-coffre": {
+                          "categoryId": 202987,
+                          "categoryName": "Stowage Box",
+                          "level": 3,
+                          "children": [],
+                          "productId": 4203
+                        }
+                      }
+                    }
+                  },
+                  "productId": 4203
+                }
+              }
+            },
+            "Pièces de carrosserie/ailes/pare-chocs": {
+              "categoryId": null,
+              "categoryName": "Pièces de carrosserie/ailes/pare-chocs",
+              "level": 2,
+              "children": {
+                "Tirette à câble, ouverture-coffre": {
+                  "categoryId": 201073,
+                  "categoryName": "Body Parts/Wing/Bumper",
+                  "level": 2,
+                  "children": {
+                    "Outils / Coffre / Pièces de montage": {
+                      "categoryId": null,
+                      "categoryName": "Outils / Coffre / Pièces de montage",
+                      "level": 4,
+                      "children": {
+                        "Tirette à câble, ouverture-coffre": {
+                          "categoryId": 203416,
+                          "categoryName": "Tool-/Storage Box/Attachment Parts",
+                          "level": 3,
+                          "children": {
+                            "Coffre/ pièces de montage": {
+                              "categoryId": null,
+                              "categoryName": "Coffre/ pièces de montage",
+                              "level": 6,
+                              "children": {
+                                "Tirette à câble, ouverture-coffre": {
+                                  "categoryId": 203418,
+                                  "categoryName": "Storage Box/Attachment Parts",
+                                  "level": 4,
+                                  "children": [],
+                                  "productId": 4203
+                                }
+                              }
+                            }
+                          },
+                          "productId": 4203
+                        }
+                      }
+                    }
+                  },
+                  "productId": 4203
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Cabine du conducteur/carrosserie [ID: 200022] (Niveau 1)\n    ├── Hayons/Capots/Portes/Toits ouvrants (Niveau 2)\n    │   └── Hatches/ Bonnets/ Doors/ Sunroof [ID: 201076] (Niveau 2) → ProductId: 4203\n    │       └── Coffre (Niveau 4)\n    │           └── Stowage Box [ID: 202987] (Niveau 3) → ProductId: 4203\n    └── Pièces de carrosserie/ailes/pare-chocs (Niveau 2)\n        └── Body Parts/Wing/Bumper [ID: 201073] (Niveau 2) → ProductId: 4203\n            └── Outils / Coffre / Pièces de montage (Niveau 4)\n                └── Tool-/Storage Box/Attachment Parts [ID: 203416] (Niveau 3) → ProductId: 4203\n                    └── Coffre/ pièces de montage (Niveau 6)\n                        └── Storage Box/Attachment Parts [ID: 203418] (Niveau 4) → ProductId: 4203",
+      "productIdsInArbo": [
+        4203
+      ],
+      "matchedProductIds": [
+        4203
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:41:56.453Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

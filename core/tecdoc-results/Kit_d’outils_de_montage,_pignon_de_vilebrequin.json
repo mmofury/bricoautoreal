@@ -1,0 +1,69 @@
+{
+  "productName": "Kit d’outils de montage, pignon de vilebrequin",
+  "searchText": "Kit d’outils de montage, pignon de vilebrequin",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:08:16.280Z",
+  "productId": 9707,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Système bielle-manivelle": {
+          "categoryId": null,
+          "categoryName": "Système bielle-manivelle",
+          "level": 2,
+          "children": {
+            "Kit d’outils de montage, pignon de vilebrequin": {
+              "categoryId": 100515,
+              "categoryName": "Crankshaft Drive",
+              "level": 2,
+              "children": {
+                "Outils": {
+                  "categoryId": null,
+                  "categoryName": "Outils",
+                  "level": 4,
+                  "children": {
+                    "Kit d’outils de montage, pignon de vilebrequin": {
+                      "categoryId": 706358,
+                      "categoryName": "Tools",
+                      "level": 3,
+                      "children": [],
+                      "productId": 9707
+                    }
+                  }
+                }
+              },
+              "productId": 9707
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Système bielle-manivelle (Niveau 2)\n        └── Crankshaft Drive [ID: 100515] (Niveau 2) → ProductId: 9707\n            └── Outils (Niveau 4)\n                └── Tools [ID: 706358] (Niveau 3) → ProductId: 9707",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Crankshaft Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100515
+      ],
+      "finalCategoryId": 100515,
+      "productId": 9707
+    }
+  ],
+  "productIdsInArbo": [
+    9707
+  ],
+  "matchedProductIds": [
+    9707
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "productName": "Joint, thermostat-refroidissement d'huile",
+  "searchText": "Joint, thermostat-refroidissement d'huile",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:56:42.273Z",
+  "productId": 4207,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Lubrification": {
+          "categoryId": null,
+          "categoryName": "Lubrification",
+          "level": 2,
+          "children": {
+            "Joint, thermostat-refroidissement d'huile": {
+              "categoryId": 100245,
+              "categoryName": "Lubrication",
+              "level": 2,
+              "children": {
+                "Thermostat d'huile": {
+                  "categoryId": null,
+                  "categoryName": "Thermostat d'huile",
+                  "level": 4,
+                  "children": {
+                    "Joint, thermostat-refroidissement d'huile": {
+                      "categoryId": 100513,
+                      "categoryName": "Oil Thermostat",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4207
+                    }
+                  }
+                }
+              },
+              "productId": 4207
+            }
+          }
+        }
+      }
+    },
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Joint/Thermostat": {
+          "categoryId": null,
+          "categoryName": "Joint/Thermostat",
+          "level": 2,
+          "children": {
+            "Joint, thermostat-refroidissement d'huile": {
+              "categoryId": 100094,
+              "categoryName": "Thermostat/Seal",
+              "level": 2,
+              "children": {
+                "Joint": {
+                  "categoryId": null,
+                  "categoryName": "Joint",
+                  "level": 4,
+                  "children": {
+                    "Joint, thermostat-refroidissement d'huile": {
+                      "categoryId": 100096,
+                      "categoryName": "Seal",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4207
+                    }
+                  }
+                }
+              },
+              "productId": 4207
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Moteur [ID: 100002] (Niveau 1)\n│   └── Lubrification (Niveau 2)\n│       └── Lubrication [ID: 100245] (Niveau 2) → ProductId: 4207\n│           └── Thermostat d'huile (Niveau 4)\n│               └── Oil Thermostat [ID: 100513] (Niveau 3) → ProductId: 4207\n\n└── Refroidissement [ID: 100007] (Niveau 1)\n    └── Joint/Thermostat (Niveau 2)\n        └── Thermostat/Seal [ID: 100094] (Niveau 2) → ProductId: 4207\n            └── Joint (Niveau 4)\n                └── Seal [ID: 100096] (Niveau 3) → ProductId: 4207",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Lubrification",
+        "Lubrication"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100245
+      ],
+      "finalCategoryId": 100245,
+      "productId": 4207
+    },
+    {
+      "path": [
+        "Refroidissement",
+        "Joint/Thermostat",
+        "Thermostat/Seal"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100094
+      ],
+      "finalCategoryId": 100094,
+      "productId": 4207
+    }
+  ],
+  "productIdsInArbo": [
+    4207
+  ],
+  "matchedProductIds": [
+    4207
+  ]
+}

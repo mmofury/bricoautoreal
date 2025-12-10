@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.311Z",
+  "manufacturer": "HENGRUN AUTO",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 6208,
+      "manufacturerName": "HENGRUN AUTO",
+      "groupKey": "H23",
+      "displayName": "H23",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43666,
+          "modelName": "H23",
+          "modelYearFrom": "2022-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6208,
+      "manufacturerName": "HENGRUN AUTO",
+      "groupKey": "HRS1",
+      "displayName": "HRS1",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42117,
+          "modelName": "HRS1",
+          "modelYearFrom": "2021-06-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "518099",
+      "index": "914 005 061 0",
+      "tecDoc": "9140050610",
+      "tecDocProd": "22",
+      "articleNumber": "9140050610",
+      "brand": "WABCO",
+      "shortDescription": "Vacuum Pump, braking system",
+      "description": "Mechanical vacuum pump",
+      "packageWeight": "1,780",
+      "packageWidth": "20,000",
+      "packageDepth": "28,000",
+      "packageHeight": "19,000",
+      "customsCode": "84138100",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_387",
+          "primary": true,
+          "name": {
+            "en": "Vacuum Pump, braking system"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_2397",
+          "primary": false,
+          "name": {
+            "en": "Vacuum Pump"
+          }
+        }
+      ]
+    }
+  ]
+}

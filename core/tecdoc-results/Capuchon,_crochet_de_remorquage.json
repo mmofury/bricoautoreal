@@ -1,0 +1,185 @@
+{
+  "productName": "Capuchon, crochet de remorquage",
+  "searchText": "Capuchon, crochet de remorquage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:17:41.977Z",
+  "productId": 21,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Arrière de la voiture": {
+          "categoryId": null,
+          "categoryName": "Arrière de la voiture",
+          "level": 2,
+          "children": {
+            "Capuchon, crochet de remorquage": {
+              "categoryId": 101705,
+              "categoryName": "Vehicle Rear",
+              "level": 2,
+              "children": {
+                "Composants/suppléments": {
+                  "categoryId": null,
+                  "categoryName": "Composants/suppléments",
+                  "level": 4,
+                  "children": {
+                    "Capuchon, crochet de remorquage": {
+                      "categoryId": 101745,
+                      "categoryName": "Parts",
+                      "level": 3,
+                      "children": {
+                        "Recouvrement/Capuchons": {
+                          "categoryId": null,
+                          "categoryName": "Recouvrement/Capuchons",
+                          "level": 6,
+                          "children": {
+                            "Capuchon, crochet de remorquage": {
+                              "categoryId": 101746,
+                              "categoryName": "Covers/Caps",
+                              "level": 4,
+                              "children": [],
+                              "productId": 21
+                            }
+                          }
+                        }
+                      },
+                      "productId": 21
+                    }
+                  }
+                }
+              },
+              "productId": 21
+            }
+          }
+        },
+        "Avant du véhicule": {
+          "categoryId": null,
+          "categoryName": "Avant du véhicule",
+          "level": 2,
+          "children": {
+            "Capuchon, crochet de remorquage": {
+              "categoryId": 101648,
+              "categoryName": "Vehicle Front",
+              "level": 2,
+              "children": {
+                "Composants/suppléments": {
+                  "categoryId": null,
+                  "categoryName": "Composants/suppléments",
+                  "level": 4,
+                  "children": {
+                    "Capuchon, crochet de remorquage": {
+                      "categoryId": 101673,
+                      "categoryName": "Parts",
+                      "level": 3,
+                      "children": {
+                        "Recouvrement/Capuchons": {
+                          "categoryId": null,
+                          "categoryName": "Recouvrement/Capuchons",
+                          "level": 6,
+                          "children": {
+                            "Capuchon, crochet de remorquage": {
+                              "categoryId": 101674,
+                              "categoryName": "Covers/Caps",
+                              "level": 4,
+                              "children": [],
+                              "productId": 21
+                            }
+                          }
+                        }
+                      },
+                      "productId": 21
+                    }
+                  }
+                }
+              },
+              "productId": 21
+            }
+          }
+        },
+        "Pièces de carrosserie/ailes/pares-chocs": {
+          "categoryId": null,
+          "categoryName": "Pièces de carrosserie/ailes/pares-chocs",
+          "level": 2,
+          "children": {
+            "Capuchon, crochet de remorquage": {
+              "categoryId": 100743,
+              "categoryName": "Body Parts/Wing/Bumper",
+              "level": 2,
+              "children": {
+                "Recouvrement/Capuchons": {
+                  "categoryId": null,
+                  "categoryName": "Recouvrement/Capuchons",
+                  "level": 4,
+                  "children": {
+                    "Capuchon, crochet de remorquage": {
+                      "categoryId": 100699,
+                      "categoryName": "Covers/Caps",
+                      "level": 3,
+                      "children": [],
+                      "productId": 21
+                    }
+                  }
+                }
+              },
+              "productId": 21
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    ├── Arrière de la voiture (Niveau 2)\n    │   └── Vehicle Rear [ID: 101705] (Niveau 2) → ProductId: 21\n    │       └── Composants/suppléments (Niveau 4)\n    │           └── Parts [ID: 101745] (Niveau 3) → ProductId: 21\n    │               └── Recouvrement/Capuchons (Niveau 6)\n    │                   └── Covers/Caps [ID: 101746] (Niveau 4) → ProductId: 21\n    ├── Avant du véhicule (Niveau 2)\n    │   └── Vehicle Front [ID: 101648] (Niveau 2) → ProductId: 21\n    │       └── Composants/suppléments (Niveau 4)\n    │           └── Parts [ID: 101673] (Niveau 3) → ProductId: 21\n    │               └── Recouvrement/Capuchons (Niveau 6)\n    │                   └── Covers/Caps [ID: 101674] (Niveau 4) → ProductId: 21\n    └── Pièces de carrosserie/ailes/pares-chocs (Niveau 2)\n        └── Body Parts/Wing/Bumper [ID: 100743] (Niveau 2) → ProductId: 21\n            └── Recouvrement/Capuchons (Niveau 4)\n                └── Covers/Caps [ID: 100699] (Niveau 3) → ProductId: 21",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Vehicle Rear"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101705
+      ],
+      "finalCategoryId": 101705,
+      "productId": 21
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Avant du véhicule",
+        "Vehicle Front"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101648
+      ],
+      "finalCategoryId": 101648,
+      "productId": 21
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Pièces de carrosserie/ailes/pares-chocs",
+        "Body Parts/Wing/Bumper"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100743
+      ],
+      "finalCategoryId": 100743,
+      "productId": 21
+    }
+  ],
+  "productIdsInArbo": [
+    21
+  ],
+  "matchedProductIds": [
+    21
+  ]
+}

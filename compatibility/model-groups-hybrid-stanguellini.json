@@ -1,0 +1,67 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.496Z",
+  "manufacturer": "STANGUELLINI",
+  "countGroups": 4,
+  "groups": [
+    {
+      "manufacturerId": 2810,
+      "manufacturerName": "STANGUELLINI",
+      "groupKey": "750",
+      "displayName": "750",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8999,
+          "modelName": "750",
+          "modelYearFrom": "1955-01-01",
+          "modelYearTo": "1955-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2810,
+      "manufacturerName": "STANGUELLINI",
+      "groupKey": "COLIBRI",
+      "displayName": "COLIBRI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9001,
+          "modelName": "COLIBRI",
+          "modelYearFrom": "1963-01-01",
+          "modelYearTo": "1963-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2810,
+      "manufacturerName": "STANGUELLINI",
+      "groupKey": "FORMULA",
+      "displayName": "FORMULA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9000,
+          "modelName": "FORMULA",
+          "modelYearFrom": "1958-01-01",
+          "modelYearTo": "1968-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2810,
+      "manufacturerName": "STANGUELLINI",
+      "groupKey": "MOMO",
+      "displayName": "MOMO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9002,
+          "modelName": "MOMO MIRAGE",
+          "modelYearFrom": "1971-01-01",
+          "modelYearTo": "1971-12-01"
+        }
+      ]
+    }
+  ]
+}

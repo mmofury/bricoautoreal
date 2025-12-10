@@ -1,0 +1,207 @@
+{
+  "productName": "Ampoule, feu éclaireur de plaque",
+  "searchText": "Ampoule, feu éclaireur de plaque",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T18:50:25.186Z",
+  "productId": 112,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Arrière de la voiture": {
+          "categoryId": null,
+          "categoryName": "Arrière de la voiture",
+          "level": 2,
+          "children": {
+            "Ampoule, feu éclaireur de plaque": {
+              "categoryId": 101705,
+              "categoryName": "Vehicle Rear",
+              "level": 2,
+              "children": {
+                "Feu éclaireur de plaque/composants": {
+                  "categoryId": null,
+                  "categoryName": "Feu éclaireur de plaque/composants",
+                  "level": 4,
+                  "children": {
+                    "Ampoule, feu éclaireur de plaque": {
+                      "categoryId": 101731,
+                      "categoryName": "Licence Plate Light/-Parts",
+                      "level": 3,
+                      "children": {
+                        "Ampoule du feu éclaireur de plaque": {
+                          "categoryId": null,
+                          "categoryName": "Ampoule du feu éclaireur de plaque",
+                          "level": 6,
+                          "children": {
+                            "Ampoule, feu éclaireur de plaque": {
+                              "categoryId": 101734,
+                              "categoryName": "Licence Plate Light Bulb",
+                              "level": 4,
+                              "children": [],
+                              "productId": 112
+                            }
+                          }
+                        }
+                      },
+                      "productId": 112
+                    }
+                  }
+                }
+              },
+              "productId": 112
+            }
+          }
+        },
+        "Feux": {
+          "categoryId": null,
+          "categoryName": "Feux",
+          "level": 2,
+          "children": {
+            "Ampoule, feu éclaireur de plaque": {
+              "categoryId": 101407,
+              "categoryName": "Lights",
+              "level": 2,
+              "children": {
+                "Feu éclaireur de plaque/composants": {
+                  "categoryId": null,
+                  "categoryName": "Feu éclaireur de plaque/composants",
+                  "level": 4,
+                  "children": {
+                    "Ampoule, feu éclaireur de plaque": {
+                      "categoryId": 101424,
+                      "categoryName": "Licence Plate Light/-Parts",
+                      "level": 3,
+                      "children": {
+                        "Ampoule du feu éclaireur de plaque": {
+                          "categoryId": null,
+                          "categoryName": "Ampoule du feu éclaireur de plaque",
+                          "level": 6,
+                          "children": {
+                            "Ampoule, feu éclaireur de plaque": {
+                              "categoryId": 101427,
+                              "categoryName": "Licence Plate Light Bulb",
+                              "level": 4,
+                              "children": [],
+                              "productId": 112
+                            }
+                          }
+                        }
+                      },
+                      "productId": 112
+                    }
+                  }
+                }
+              },
+              "productId": 112
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Feux": {
+          "categoryId": null,
+          "categoryName": "Feux",
+          "level": 2,
+          "children": {
+            "Ampoule, feu éclaireur de plaque": {
+              "categoryId": 100043,
+              "categoryName": "Lights",
+              "level": 2,
+              "children": {
+                "Feu éclaireur de plaque/composants": {
+                  "categoryId": null,
+                  "categoryName": "Feu éclaireur de plaque/composants",
+                  "level": 4,
+                  "children": {
+                    "Ampoule, feu éclaireur de plaque": {
+                      "categoryId": 100147,
+                      "categoryName": "Licence Plate Light/-Parts",
+                      "level": 3,
+                      "children": {
+                        "Ampoule du feu éclaireur de plaque": {
+                          "categoryId": null,
+                          "categoryName": "Ampoule du feu éclaireur de plaque",
+                          "level": 6,
+                          "children": {
+                            "Ampoule, feu éclaireur de plaque": {
+                              "categoryId": 100499,
+                              "categoryName": "Licence Plate Light Bulb",
+                              "level": 4,
+                              "children": [],
+                              "productId": 112
+                            }
+                          }
+                        }
+                      },
+                      "productId": 112
+                    }
+                  }
+                }
+              },
+              "productId": 112
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carrosserie [ID: 100001] (Niveau 1)\n│   ├── Arrière de la voiture (Niveau 2)\n│   │   └── Vehicle Rear [ID: 101705] (Niveau 2) → ProductId: 112\n│   │       └── Feu éclaireur de plaque/composants (Niveau 4)\n│   │           └── Licence Plate Light/-Parts [ID: 101731] (Niveau 3) → ProductId: 112\n│   │               └── Ampoule du feu éclaireur de plaque (Niveau 6)\n│   │                   └── Licence Plate Light Bulb [ID: 101734] (Niveau 4) → ProductId: 112\n│   └── Feux (Niveau 2)\n│       └── Lights [ID: 101407] (Niveau 2) → ProductId: 112\n│           └── Feu éclaireur de plaque/composants (Niveau 4)\n│               └── Licence Plate Light/-Parts [ID: 101424] (Niveau 3) → ProductId: 112\n│                   └── Ampoule du feu éclaireur de plaque (Niveau 6)\n│                       └── Licence Plate Light Bulb [ID: 101427] (Niveau 4) → ProductId: 112\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Feux (Niveau 2)\n        └── Lights [ID: 100043] (Niveau 2) → ProductId: 112\n            └── Feu éclaireur de plaque/composants (Niveau 4)\n                └── Licence Plate Light/-Parts [ID: 100147] (Niveau 3) → ProductId: 112\n                    └── Ampoule du feu éclaireur de plaque (Niveau 6)\n                        └── Licence Plate Light Bulb [ID: 100499] (Niveau 4) → ProductId: 112",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Vehicle Rear"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101705
+      ],
+      "finalCategoryId": 101705,
+      "productId": 112
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Feux",
+        "Lights"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101407
+      ],
+      "finalCategoryId": 101407,
+      "productId": 112
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Lights"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100043
+      ],
+      "finalCategoryId": 100043,
+      "productId": 112
+    }
+  ],
+  "productIdsInArbo": [
+    112
+  ],
+  "matchedProductIds": [
+    112
+  ]
+}

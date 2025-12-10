@@ -1,0 +1,106 @@
+{
+  "productName": "Valve de pression d'huile",
+  "searchText": "Valve de pression d'huile",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:31:27.154Z",
+  "productId": 1105,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Lubrification": {
+          "categoryId": null,
+          "categoryName": "Lubrification",
+          "level": 2,
+          "children": {
+            "Ressort, valve de pression d'huile-pompe à huile": {
+              "categoryId": 100245,
+              "categoryName": "Lubrication",
+              "level": 2,
+              "children": {
+                "Indicateur de pression d'huile / capteur / soupape": {
+                  "categoryId": null,
+                  "categoryName": "Indicateur de pression d'huile / capteur / soupape",
+                  "level": 4,
+                  "children": {
+                    "Ressort, valve de pression d'huile-pompe à huile": {
+                      "categoryId": 100478,
+                      "categoryName": "Oil Pressure Switch/Sensor/Valve",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4037
+                    }
+                  }
+                }
+              },
+              "productId": 4037
+            },
+            "Valve de pression d'huile": {
+              "categoryId": 100245,
+              "categoryName": "Lubrication",
+              "level": 2,
+              "children": {
+                "Indicateur de pression d'huile / capteur / soupape": {
+                  "categoryId": null,
+                  "categoryName": "Indicateur de pression d'huile / capteur / soupape",
+                  "level": 4,
+                  "children": {
+                    "Valve de pression d'huile": {
+                      "categoryId": 100478,
+                      "categoryName": "Oil Pressure Switch/Sensor/Valve",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1105
+                    }
+                  }
+                }
+              },
+              "productId": 1105
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Lubrification (Niveau 2)\n        ├── Lubrication [ID: 100245] (Niveau 2) → ProductId: 4037\n        │   └── Indicateur de pression d'huile / capteur / soupape (Niveau 4)\n        │       └── Oil Pressure Switch/Sensor/Valve [ID: 100478] (Niveau 3) → ProductId: 4037\n        └── Lubrication [ID: 100245] (Niveau 2) → ProductId: 1105\n            └── Indicateur de pression d'huile / capteur / soupape (Niveau 4)\n                └── Oil Pressure Switch/Sensor/Valve [ID: 100478] (Niveau 3) → ProductId: 1105",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Lubrification",
+        "Lubrication"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100245
+      ],
+      "finalCategoryId": 100245,
+      "productId": 4037
+    },
+    {
+      "path": [
+        "Moteur",
+        "Lubrification",
+        "Lubrication"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100245
+      ],
+      "finalCategoryId": 100245,
+      "productId": 1105
+    }
+  ],
+  "productIdsInArbo": [
+    1105,
+    4037
+  ],
+  "matchedProductIds": [
+    1105
+  ]
+}

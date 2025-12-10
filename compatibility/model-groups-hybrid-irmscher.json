@@ -1,0 +1,67 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.342Z",
+  "manufacturer": "IRMSCHER",
+  "countGroups": 4,
+  "groups": [
+    {
+      "manufacturerId": 1508,
+      "manufacturerName": "IRMSCHER",
+      "groupKey": "COUPE",
+      "displayName": "COUPE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4254,
+          "modelName": "COUPE",
+          "modelYearFrom": "1997-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1508,
+      "manufacturerName": "IRMSCHER",
+      "groupKey": "GT",
+      "displayName": "GT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4256,
+          "modelName": "GT",
+          "modelYearFrom": "1988-01-01",
+          "modelYearTo": "1990-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1508,
+      "manufacturerName": "IRMSCHER",
+      "groupKey": "OMEGA",
+      "displayName": "OMEGA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4257,
+          "modelName": "OMEGA Caravan",
+          "modelYearFrom": "1990-01-01",
+          "modelYearTo": "1996-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1508,
+      "manufacturerName": "IRMSCHER",
+      "groupKey": "SENATOR",
+      "displayName": "SENATOR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4255,
+          "modelName": "SENATOR",
+          "modelYearFrom": "1990-01-01",
+          "modelYearTo": "1996-12-01"
+        }
+      ]
+    }
+  ]
+}

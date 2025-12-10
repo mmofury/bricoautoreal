@@ -1,0 +1,183 @@
+{
+  "productName": "Volant de direction",
+  "searchText": "Volant de direction",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:35:43.913Z",
+  "productId": 1547,
+  "arborescence": {
+    "Direction": {
+      "categoryId": 100012,
+      "categoryName": "Direction",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Extracteur, volant - entretoise": {
+              "categoryId": 103158,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4549
+            }
+          }
+        },
+        "Volant /- composants": {
+          "categoryId": null,
+          "categoryName": "Volant /- composants",
+          "level": 2,
+          "children": {
+            "Douille isolante, volant": {
+              "categoryId": 104391,
+              "categoryName": "Steering Wheel/Parts",
+              "level": 2,
+              "children": [],
+              "productId": 5981
+            },
+            "Volant de direction": {
+              "categoryId": 104391,
+              "categoryName": "Steering Wheel/Parts",
+              "level": 2,
+              "children": [],
+              "productId": 1547
+            }
+          }
+        }
+      }
+    },
+    "Équipement intérieur": {
+      "categoryId": 100341,
+      "categoryName": "Équipement intérieur",
+      "level": 1,
+      "children": {
+        "Leviers manuels / Leviers de pédale": {
+          "categoryId": null,
+          "categoryName": "Leviers manuels / Leviers de pédale",
+          "level": 2,
+          "children": {
+            "Douille isolante, volant": {
+              "categoryId": 102695,
+              "categoryName": "Hand/Foot Lever System",
+              "level": 2,
+              "children": [],
+              "productId": 5981
+            },
+            "Revêtement, volant": {
+              "categoryId": 102695,
+              "categoryName": "Hand/Foot Lever System",
+              "level": 2,
+              "children": [],
+              "productId": 8007
+            },
+            "Volant de direction": {
+              "categoryId": 102695,
+              "categoryName": "Hand/Foot Lever System",
+              "level": 2,
+              "children": [],
+              "productId": 1547
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Direction [ID: 100012] (Niveau 1)\n│   ├── Outils (Niveau 2)\n│   │   └── Tools [ID: 103158] (Niveau 2) → ProductId: 4549\n│   └── Volant /- composants (Niveau 2)\n│       ├── Steering Wheel/Parts [ID: 104391] (Niveau 2) → ProductId: 5981\n│       └── Steering Wheel/Parts [ID: 104391] (Niveau 2) → ProductId: 1547\n\n└── Équipement intérieur [ID: 100341] (Niveau 1)\n    └── Leviers manuels / Leviers de pédale (Niveau 2)\n        ├── Hand/Foot Lever System [ID: 102695] (Niveau 2) → ProductId: 5981\n        ├── Hand/Foot Lever System [ID: 102695] (Niveau 2) → ProductId: 8007\n        └── Hand/Foot Lever System [ID: 102695] (Niveau 2) → ProductId: 1547",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Direction",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        103158
+      ],
+      "finalCategoryId": 103158,
+      "productId": 4549
+    },
+    {
+      "path": [
+        "Direction",
+        "Volant /- composants",
+        "Steering Wheel/Parts"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        104391
+      ],
+      "finalCategoryId": 104391,
+      "productId": 5981
+    },
+    {
+      "path": [
+        "Direction",
+        "Volant /- composants",
+        "Steering Wheel/Parts"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        104391
+      ],
+      "finalCategoryId": 104391,
+      "productId": 1547
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Leviers manuels / Leviers de pédale",
+        "Hand/Foot Lever System"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102695
+      ],
+      "finalCategoryId": 102695,
+      "productId": 5981
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Leviers manuels / Leviers de pédale",
+        "Hand/Foot Lever System"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102695
+      ],
+      "finalCategoryId": 102695,
+      "productId": 8007
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Leviers manuels / Leviers de pédale",
+        "Hand/Foot Lever System"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102695
+      ],
+      "finalCategoryId": 102695,
+      "productId": 1547
+    }
+  ],
+  "productIdsInArbo": [
+    1547,
+    4549,
+    5981,
+    8007
+  ],
+  "matchedProductIds": [
+    1547
+  ]
+}

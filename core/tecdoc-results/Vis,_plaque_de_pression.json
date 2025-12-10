@@ -1,0 +1,54 @@
+{
+  "productName": "Vis, plaque de pression",
+  "searchText": "Vis, plaque de pression",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:34:58.138Z",
+  "productId": 3181,
+  "arborescence": {
+    "Embrayage / composants": {
+      "categoryId": 100050,
+      "categoryName": "Embrayage / composants",
+      "level": 1,
+      "children": {
+        "Mécanisme d'embrayage": {
+          "categoryId": null,
+          "categoryName": "Mécanisme d'embrayage",
+          "level": 2,
+          "children": {
+            "Vis, plaque de pression": {
+              "categoryId": 100052,
+              "categoryName": "Clutch Pressure Plate",
+              "level": 2,
+              "children": [],
+              "productId": 3181
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Embrayage / composants [ID: 100050] (Niveau 1)\n    └── Mécanisme d'embrayage (Niveau 2)\n        └── Clutch Pressure Plate [ID: 100052] (Niveau 2) → ProductId: 3181",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Embrayage / composants",
+        "Mécanisme d'embrayage",
+        "Clutch Pressure Plate"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100052
+      ],
+      "finalCategoryId": 100052,
+      "productId": 3181
+    }
+  ],
+  "productIdsInArbo": [
+    3181
+  ],
+  "matchedProductIds": [
+    3181
+  ]
+}

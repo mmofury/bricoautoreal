@@ -1,0 +1,250 @@
+{
+  "productName": "Kit de réparation, arbre intermédiaire",
+  "searchText": "Kit de réparation, arbre intermédiaire",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:03:26.849Z",
+  "productId": 1651,
+  "arborescence": {
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Boîte de vitesses manuelle": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesses manuelle",
+          "level": 2,
+          "children": {
+            "Kit de réparation, arbre intermédiaire (BM)": {
+              "categoryId": 100239,
+              "categoryName": "Manual Transmission",
+              "level": 2,
+              "children": {
+                "Réparation/entretien": {
+                  "categoryId": null,
+                  "categoryName": "Réparation/entretien",
+                  "level": 4,
+                  "children": {
+                    "Kit de réparation, arbre intermédiaire (BM)": {
+                      "categoryId": 101809,
+                      "categoryName": "Repair/Maintenance",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60459
+                    }
+                  }
+                }
+              },
+              "productId": 60459
+            }
+          }
+        },
+        "Boîte de vitesses manuelle robotisée (BVR)": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesses manuelle robotisée (BVR)",
+          "level": 2,
+          "children": {
+            "Kit de réparation, arbre intermédiaire (BVR)": {
+              "categoryId": 706584,
+              "categoryName": "Automated manual transmission (AMT)",
+              "level": 2,
+              "children": {
+                "Réparation/entretien": {
+                  "categoryId": null,
+                  "categoryName": "Réparation/entretien",
+                  "level": 4,
+                  "children": {
+                    "Kit de réparation, arbre intermédiaire (BVR)": {
+                      "categoryId": 706603,
+                      "categoryName": "Repair/Maintenance",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60285
+                    }
+                  }
+                }
+              },
+              "productId": 60285
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Carter de vilebrequin": {
+          "categoryId": null,
+          "categoryName": "Carter de vilebrequin",
+          "level": 2,
+          "children": {
+            "Kit de réparation, arbre intermédiaire": {
+              "categoryId": 100514,
+              "categoryName": "Crankcase",
+              "level": 2,
+              "children": {
+                "Arbre intermédiaire/arbre à contrepoids d'équilibrage": {
+                  "categoryId": null,
+                  "categoryName": "Arbre intermédiaire/arbre à contrepoids d'équilibrage",
+                  "level": 4,
+                  "children": {
+                    "Kit de réparation, arbre intermédiaire": {
+                      "categoryId": 105860,
+                      "categoryName": "Intermediate/Balance Shaft",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1651
+                    }
+                  }
+                }
+              },
+              "productId": 1651
+            }
+          }
+        },
+        "Distribution moteur": {
+          "categoryId": null,
+          "categoryName": "Distribution moteur",
+          "level": 2,
+          "children": {
+            "Kit de réparation, arbre intermédiaire": {
+              "categoryId": 100003,
+              "categoryName": "Engine Timing",
+              "level": 2,
+              "children": {
+                "Arbre intermédiaire": {
+                  "categoryId": null,
+                  "categoryName": "Arbre intermédiaire",
+                  "level": 4,
+                  "children": {
+                    "Kit de réparation, arbre intermédiaire": {
+                      "categoryId": 100852,
+                      "categoryName": "Intermediate Shaft",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1651
+                    }
+                  }
+                }
+              },
+              "productId": 1651
+            }
+          }
+        },
+        "Système bielle-manivelle": {
+          "categoryId": null,
+          "categoryName": "Système bielle-manivelle",
+          "level": 2,
+          "children": {
+            "Kit de réparation, arbre intermédiaire": {
+              "categoryId": 100515,
+              "categoryName": "Crankshaft Drive",
+              "level": 2,
+              "children": {
+                "Arbre intermédiaire/arbre à contrepoids d'équilibrage": {
+                  "categoryId": null,
+                  "categoryName": "Arbre intermédiaire/arbre à contrepoids d'équilibrage",
+                  "level": 4,
+                  "children": {
+                    "Kit de réparation, arbre intermédiaire": {
+                      "categoryId": 103120,
+                      "categoryName": "Intermediate/Balance Shaft",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1651
+                    }
+                  }
+                }
+              },
+              "productId": 1651
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Boîte de vitesses [ID: 100238] (Niveau 1)\n│   ├── Boîte de vitesses manuelle (Niveau 2)\n│   │   └── Manual Transmission [ID: 100239] (Niveau 2) → ProductId: 60459\n│   │       └── Réparation/entretien (Niveau 4)\n│   │           └── Repair/Maintenance [ID: 101809] (Niveau 3) → ProductId: 60459\n│   └── Boîte de vitesses manuelle robotisée (BVR) (Niveau 2)\n│       └── Automated manual transmission (AMT) [ID: 706584] (Niveau 2) → ProductId: 60285\n│           └── Réparation/entretien (Niveau 4)\n│               └── Repair/Maintenance [ID: 706603] (Niveau 3) → ProductId: 60285\n\n└── Moteur [ID: 100002] (Niveau 1)\n    ├── Carter de vilebrequin (Niveau 2)\n    │   └── Crankcase [ID: 100514] (Niveau 2) → ProductId: 1651\n    │       └── Arbre intermédiaire/arbre à contrepoids d'équilibrage (Niveau 4)\n    │           └── Intermediate/Balance Shaft [ID: 105860] (Niveau 3) → ProductId: 1651\n    ├── Distribution moteur (Niveau 2)\n    │   └── Engine Timing [ID: 100003] (Niveau 2) → ProductId: 1651\n    │       └── Arbre intermédiaire (Niveau 4)\n    │           └── Intermediate Shaft [ID: 100852] (Niveau 3) → ProductId: 1651\n    └── Système bielle-manivelle (Niveau 2)\n        └── Crankshaft Drive [ID: 100515] (Niveau 2) → ProductId: 1651\n            └── Arbre intermédiaire/arbre à contrepoids d'équilibrage (Niveau 4)\n                └── Intermediate/Balance Shaft [ID: 103120] (Niveau 3) → ProductId: 1651",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesses manuelle",
+        "Manual Transmission"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        100239
+      ],
+      "finalCategoryId": 100239,
+      "productId": 60459
+    },
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesses manuelle robotisée (BVR)",
+        "Automated manual transmission (AMT)"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        706584
+      ],
+      "finalCategoryId": 706584,
+      "productId": 60285
+    },
+    {
+      "path": [
+        "Moteur",
+        "Carter de vilebrequin",
+        "Crankcase"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100514
+      ],
+      "finalCategoryId": 100514,
+      "productId": 1651
+    },
+    {
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Engine Timing"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100003
+      ],
+      "finalCategoryId": 100003,
+      "productId": 1651
+    },
+    {
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Crankshaft Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100515
+      ],
+      "finalCategoryId": 100515,
+      "productId": 1651
+    }
+  ],
+  "productIdsInArbo": [
+    1651,
+    60285,
+    60459
+  ],
+  "matchedProductIds": [
+    1651
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "productName": "Verrouillage de capot avant",
+  "productId": 5106,
+  "searchText": "Verrouillage de capot avant",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Cabine du conducteur/carrosserie": {
+          "categoryId": 200022,
+          "categoryName": "Cabine du conducteur/carrosserie",
+          "level": 1,
+          "children": {
+            "Hayons/Capots/Portes/Toits ouvrants": {
+              "categoryId": null,
+              "categoryName": "Hayons/Capots/Portes/Toits ouvrants",
+              "level": 2,
+              "children": {
+                "Verrouillage de capot avant": {
+                  "categoryId": 201076,
+                  "categoryName": "Hatches/ Bonnets/ Doors/ Sunroof",
+                  "level": 2,
+                  "children": {
+                    "Capot avant / composants / insonorisation": {
+                      "categoryId": null,
+                      "categoryName": "Capot avant / composants / insonorisation",
+                      "level": 4,
+                      "children": {
+                        "Verrouillage de capot avant": {
+                          "categoryId": 201077,
+                          "categoryName": "Bonnet/Parts/Noise Insulation",
+                          "level": 3,
+                          "children": [],
+                          "productId": 5106
+                        }
+                      }
+                    }
+                  },
+                  "productId": 5106
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Cabine du conducteur/carrosserie [ID: 200022] (Niveau 1)\n    └── Hayons/Capots/Portes/Toits ouvrants (Niveau 2)\n        └── Hatches/ Bonnets/ Doors/ Sunroof [ID: 201076] (Niveau 2) → ProductId: 5106\n            └── Capot avant / composants / insonorisation (Niveau 4)\n                └── Bonnet/Parts/Noise Insulation [ID: 201077] (Niveau 3) → ProductId: 5106",
+      "productIdsInArbo": [
+        5106
+      ],
+      "matchedProductIds": [
+        5106
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:45:19.497Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

@@ -1,0 +1,814 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.201Z",
+  "manufacturer": "CADILLAC",
+  "countGroups": 29,
+  "groups": [
+    {
+      "manufacturerId": 819,
+      "manufacturerName": "CADILLAC",
+      "groupKey": "60",
+      "displayName": "60",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30523,
+          "modelName": "60 SPECIAL A trois volumes (CD69)",
+          "modelYearFrom": "1992-09-01",
+          "modelYearTo": "1993-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 819,
+      "manufacturerName": "CADILLAC",
+      "groupKey": "ALLANTE",
+      "displayName": "ALLANTE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5860,
+          "modelName": "ALLANTE Décapotable (V)",
+          "modelYearFrom": "1985-09-01",
+          "modelYearTo": "1993-09-01"
+        },
+        {
+          "modelId": 5861,
+          "modelName": "ALLANTE Coupé (V)",
+          "modelYearFrom": "1991-01-01",
+          "modelYearTo": "1993-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 819,
+      "manufacturerName": "CADILLAC",
+      "groupKey": "ATS",
+      "displayName": "ATS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11211,
+          "modelName": "ATS",
+          "modelYearFrom": "2013-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13025,
+          "modelName": "ATS Coupé",
+          "modelYearFrom": "2013-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 819,
+      "manufacturerName": "CADILLAC",
+      "groupKey": "BLS",
+      "displayName": "BLS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6398,
+          "modelName": "BLS",
+          "modelYearFrom": "2006-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 6721,
+          "modelName": "BLS Wagon",
+          "modelYearFrom": "2007-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 819,
+      "manufacturerName": "CADILLAC",
+      "groupKey": "BROUGHAM",
+      "displayName": "BROUGHAM",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30525,
+          "modelName": "BROUGHAM A trois volumes",
+          "modelYearFrom": "1986-09-01",
+          "modelYearTo": "1992-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 819,
+      "manufacturerName": "CADILLAC",
+      "groupKey": "CALAIS",
+      "displayName": "CALAIS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30526,
+          "modelName": "CALAIS A trois volumes",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1976-12-01"
+        },
+        {
+          "modelId": 30527,
+          "modelName": "CALAIS Coupé",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1976-12-01"
+        },
+        {
+          "modelId": 37527,
+          "modelName": "CALAIS A trois volumes",
+          "modelYearFrom": "1964-09-01",
+          "modelYearTo": "1970-12-01"
+        },
+        {
+          "modelId": 37528,
+          "modelName": "CALAIS Coupé",
+          "modelYearFrom": "1964-09-01",
+          "modelYearTo": "1970-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 819,
+      "manufacturerName": "CADILLAC",
+      "groupKey": "CATERA",
+      "displayName": "CATERA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30529,
+          "modelName": "CATERA A trois volumes",
+          "modelYearFrom": "1996-09-01",
+          "modelYearTo": "2001-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 819,
+      "manufacturerName": "CADILLAC",
+      "groupKey": "CIMARRON",
+      "displayName": "CIMARRON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30530,
+          "modelName": "CIMARRON A trois volumes",
+          "modelYearFrom": "1981-09-01",
+          "modelYearTo": "1988-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 819,
+      "manufacturerName": "CADILLAC",
+      "groupKey": "COMMERCIAL",
+      "displayName": "COMMERCIAL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30531,
+          "modelName": "COMMERCIAL CHASSIS Cab & Chassis",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 30532,
+          "modelName": "COMMERCIAL CHASSIS A trois volumes",
+          "modelYearFrom": "1991-09-01",
+          "modelYearTo": "1996-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 819,
+      "manufacturerName": "CADILLAC",
+      "groupKey": "CT4",
+      "displayName": "CT4",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40422,
+          "modelName": "CT4",
+          "modelYearFrom": "2019-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 819,
+      "manufacturerName": "CADILLAC",
+      "groupKey": "CT5",
+      "displayName": "CT5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40423,
+          "modelName": "CT5",
+          "modelYearFrom": "2019-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 819,
+      "manufacturerName": "CADILLAC",
+      "groupKey": "CT6",
+      "displayName": "CT6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14831,
+          "modelName": "CT6",
+          "modelYearFrom": "2015-11-01",
+          "modelYearTo": "2020-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 819,
+      "manufacturerName": "CADILLAC",
+      "groupKey": "CTS",
+      "displayName": "CTS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4861,
+          "modelName": "CTS",
+          "modelYearFrom": "2002-03-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 6723,
+          "modelName": "CTS",
+          "modelYearFrom": "2007-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 9018,
+          "modelName": "CTS Coupé",
+          "modelYearFrom": "2008-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 9019,
+          "modelName": "CTS Sport Wagon",
+          "modelYearFrom": "2008-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11758,
+          "modelName": "CTS",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13022,
+          "modelName": "CTS Coupé",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13023,
+          "modelName": "CTS Sport Wagon",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 819,
+      "manufacturerName": "CADILLAC",
+      "groupKey": "DEVILLE",
+      "displayName": "DEVILLE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5982,
+          "modelName": "DEVILLE",
+          "modelYearFrom": "1989-09-01",
+          "modelYearTo": "1993-09-01"
+        },
+        {
+          "modelId": 5983,
+          "modelName": "DEVILLE",
+          "modelYearFrom": "1993-09-01",
+          "modelYearTo": "1999-09-01"
+        },
+        {
+          "modelId": 5984,
+          "modelName": "DEVILLE",
+          "modelYearFrom": "1999-09-01",
+          "modelYearTo": "2005-12-01"
+        },
+        {
+          "modelId": 30534,
+          "modelName": "DEVILLE A trois volumes",
+          "modelYearFrom": "1952-09-01",
+          "modelYearTo": "1976-12-01"
+        },
+        {
+          "modelId": 30536,
+          "modelName": "DEVILLE Coupé",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1976-12-01"
+        },
+        {
+          "modelId": 30538,
+          "modelName": "DEVILLE A trois volumes",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1976-12-01"
+        },
+        {
+          "modelId": 34942,
+          "modelName": "DEVILLE A trois volumes",
+          "modelYearFrom": "1976-09-01",
+          "modelYearTo": "1984-12-01"
+        },
+        {
+          "modelId": 34943,
+          "modelName": "DEVILLE A trois volumes",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1988-12-01"
+        },
+        {
+          "modelId": 34946,
+          "modelName": "DEVILLE Coupé",
+          "modelYearFrom": "1976-09-01",
+          "modelYearTo": "1984-12-01"
+        },
+        {
+          "modelId": 34947,
+          "modelName": "DEVILLE Coupé",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 37062,
+          "modelName": "DEVILLE Coupé",
+          "modelYearFrom": "1964-09-01",
+          "modelYearTo": "1970-12-01"
+        },
+        {
+          "modelId": 37525,
+          "modelName": "DEVILLE Décapotable",
+          "modelYearFrom": "1964-09-01",
+          "modelYearTo": "1970-12-01"
+        },
+        {
+          "modelId": 37526,
+          "modelName": "DEVILLE A trois volumes",
+          "modelYearFrom": "1964-09-01",
+          "modelYearTo": "1970-12-01"
+        },
+        {
+          "modelId": 45510,
+          "modelName": "DEVILLE Coupé",
+          "modelYearFrom": "1952-09-01",
+          "modelYearTo": "1976-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 819,
+      "manufacturerName": "CADILLAC",
+      "groupKey": "DTS",
+      "displayName": "DTS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7395,
+          "modelName": "DTS",
+          "modelYearFrom": "2005-06-01",
+          "modelYearTo": "2011-12-01"
+        },
+        {
+          "modelId": 41790,
+          "modelName": "DTS Break",
+          "modelYearFrom": "2005-09-01",
+          "modelYearTo": "2011-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 819,
+      "manufacturerName": "CADILLAC",
+      "groupKey": "ELDORADO",
+      "displayName": "ELDORADO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4599,
+          "modelName": "ELDORADO Coupé",
+          "modelYearFrom": "1991-09-01",
+          "modelYearTo": "2002-09-01"
+        },
+        {
+          "modelId": 5992,
+          "modelName": "ELDORADO Coupé",
+          "modelYearFrom": "1987-10-01",
+          "modelYearTo": "1991-09-01"
+        },
+        {
+          "modelId": 30540,
+          "modelName": "ELDORADO A trois volumes",
+          "modelYearFrom": "1952-09-01",
+          "modelYearTo": "1953-12-01"
+        },
+        {
+          "modelId": 30541,
+          "modelName": "ELDORADO Décapotable",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1976-12-01"
+        },
+        {
+          "modelId": 30542,
+          "modelName": "ELDORADO Coupé",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1978-12-01"
+        },
+        {
+          "modelId": 34949,
+          "modelName": "ELDORADO Coupé",
+          "modelYearFrom": "1978-09-01",
+          "modelYearTo": "1985-12-01"
+        },
+        {
+          "modelId": 34950,
+          "modelName": "ELDORADO Coupé",
+          "modelYearFrom": "1985-09-01",
+          "modelYearTo": "1991-12-01"
+        },
+        {
+          "modelId": 34952,
+          "modelName": "ELDORADO Décapotable",
+          "modelYearFrom": "1983-09-01",
+          "modelYearTo": "1985-12-01"
+        },
+        {
+          "modelId": 36248,
+          "modelName": "ELDORADO A trois volumes",
+          "modelYearFrom": "1953-09-01",
+          "modelYearTo": "1958-12-01"
+        },
+        {
+          "modelId": 36249,
+          "modelName": "ELDORADO A trois volumes",
+          "modelYearFrom": "1958-09-01",
+          "modelYearTo": "1966-12-01"
+        },
+        {
+          "modelId": 36251,
+          "modelName": "ELDORADO A trois volumes",
+          "modelYearFrom": "1966-09-01",
+          "modelYearTo": "1970-12-01"
+        },
+        {
+          "modelId": 45511,
+          "modelName": "ELDORADO Coupé",
+          "modelYearFrom": "1958-09-01",
+          "modelYearTo": "1966-12-01"
+        },
+        {
+          "modelId": 45512,
+          "modelName": "ELDORADO Décapotable",
+          "modelYearFrom": "1958-09-01",
+          "modelYearTo": "1966-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 819,
+      "manufacturerName": "CADILLAC",
+      "groupKey": "ELR",
+      "displayName": "ELR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13027,
+          "modelName": "ELR",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": "2016-02-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 819,
+      "manufacturerName": "CADILLAC",
+      "groupKey": "ESCALADE",
+      "displayName": "ESCALADE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3900,
+          "modelName": "ESCALADE",
+          "modelYearFrom": "1998-10-01",
+          "modelYearTo": "2006-12-01"
+        },
+        {
+          "modelId": 7396,
+          "modelName": "ESCALADE",
+          "modelYearFrom": "2006-10-01",
+          "modelYearTo": "2014-12-01"
+        },
+        {
+          "modelId": 14112,
+          "modelName": "ESCALADE",
+          "modelYearFrom": "2014-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 30543,
+          "modelName": "ESCALADE Crew Cab Pickup",
+          "modelYearFrom": "2001-09-01",
+          "modelYearTo": "2006-12-01"
+        },
+        {
+          "modelId": 34836,
+          "modelName": "ESCALADE Crew Cab Pickup",
+          "modelYearFrom": "2006-09-01",
+          "modelYearTo": "2014-12-01"
+        },
+        {
+          "modelId": 40967,
+          "modelName": "ESCALADE (GMT1XL)",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45666,
+          "modelName": "ESCALADE IQ",
+          "modelYearFrom": "2024-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 819,
+      "manufacturerName": "CADILLAC",
+      "groupKey": "FLEETWOOD",
+      "displayName": "FLEETWOOD",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6005,
+          "modelName": "FLEETWOOD A trois volumes",
+          "modelYearFrom": "1992-09-01",
+          "modelYearTo": "1997-09-01"
+        },
+        {
+          "modelId": 14566,
+          "modelName": "FLEETWOOD A trois volumes",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1988-12-01"
+        },
+        {
+          "modelId": 14567,
+          "modelName": "FLEETWOOD A trois volumes",
+          "modelYearFrom": "1988-09-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 14568,
+          "modelName": "FLEETWOOD Coupé",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1986-12-01"
+        },
+        {
+          "modelId": 30546,
+          "modelName": "FLEETWOOD A trois volumes",
+          "modelYearFrom": "1968-01-01",
+          "modelYearTo": "1976-12-01"
+        },
+        {
+          "modelId": 30548,
+          "modelName": "FLEETWOOD A trois volumes",
+          "modelYearFrom": "1976-09-01",
+          "modelYearTo": "1986-12-01"
+        },
+        {
+          "modelId": 34955,
+          "modelName": "FLEETWOOD Coupé",
+          "modelYearFrom": "1988-09-01",
+          "modelYearTo": "1992-12-01"
+        },
+        {
+          "modelId": 35801,
+          "modelName": "FLEETWOOD Coupé",
+          "modelYearFrom": "1979-09-01",
+          "modelYearTo": "1986-12-01"
+        },
+        {
+          "modelId": 37529,
+          "modelName": "FLEETWOOD A trois volumes",
+          "modelYearFrom": "1964-09-01",
+          "modelYearTo": "1970-12-01"
+        },
+        {
+          "modelId": 45513,
+          "modelName": "FLEETWOOD A trois volumes",
+          "modelYearFrom": "1958-09-01",
+          "modelYearTo": "1964-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 819,
+      "manufacturerName": "CADILLAC",
+      "groupKey": "LYRIQ",
+      "displayName": "LYRIQ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42476,
+          "modelName": "LYRIQ (6M_)",
+          "modelYearFrom": "2021-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 819,
+      "manufacturerName": "CADILLAC",
+      "groupKey": "SERIES 62",
+      "displayName": "SERIES 62",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30566,
+          "modelName": "SERIES 62 A trois volumes",
+          "modelYearFrom": "1939-09-01",
+          "modelYearTo": "1964-12-01"
+        },
+        {
+          "modelId": 45508,
+          "modelName": "SERIES 62 Coupé",
+          "modelYearFrom": "1939-09-01",
+          "modelYearTo": "1964-12-01"
+        },
+        {
+          "modelId": 45509,
+          "modelName": "SERIES 62 Décapotable",
+          "modelYearFrom": "1939-09-01",
+          "modelYearTo": "1964-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 819,
+      "manufacturerName": "CADILLAC",
+      "groupKey": "SEVILLE",
+      "displayName": "SEVILLE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1987,
+          "modelName": "SEVILLE II (K)",
+          "modelYearFrom": "1985-09-01",
+          "modelYearTo": "1991-12-01"
+        },
+        {
+          "modelId": 4585,
+          "modelName": "SEVILLE",
+          "modelYearFrom": "1997-09-01",
+          "modelYearTo": "2004-09-01"
+        },
+        {
+          "modelId": 6908,
+          "modelName": "SEVILLE (6K_)",
+          "modelYearFrom": "1992-06-01",
+          "modelYearTo": "1997-09-01"
+        },
+        {
+          "modelId": 30577,
+          "modelName": "SEVILLE A trois volumes",
+          "modelYearFrom": "1975-09-01",
+          "modelYearTo": "1979-12-01"
+        },
+        {
+          "modelId": 34961,
+          "modelName": "SEVILLE A trois volumes",
+          "modelYearFrom": "1979-08-01",
+          "modelYearTo": "1985-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 819,
+      "manufacturerName": "CADILLAC",
+      "groupKey": "SRX",
+      "displayName": "SRX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5161,
+          "modelName": "SRX",
+          "modelYearFrom": "2003-09-01",
+          "modelYearTo": "2009-12-01"
+        },
+        {
+          "modelId": 9561,
+          "modelName": "SRX",
+          "modelYearFrom": "2009-01-01",
+          "modelYearTo": "2016-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 819,
+      "manufacturerName": "CADILLAC",
+      "groupKey": "STS",
+      "displayName": "STS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5478,
+          "modelName": "STS",
+          "modelYearFrom": "2004-09-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 13178,
+          "modelName": "STS",
+          "modelYearFrom": "2007-09-01",
+          "modelYearTo": "2012-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 819,
+      "manufacturerName": "CADILLAC",
+      "groupKey": "XLR",
+      "displayName": "XLR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5121,
+          "modelName": "XLR",
+          "modelYearFrom": "2003-09-01",
+          "modelYearTo": "2009-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 819,
+      "manufacturerName": "CADILLAC",
+      "groupKey": "XT4",
+      "displayName": "XT4",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38607,
+          "modelName": "XT4",
+          "modelYearFrom": "2018-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 819,
+      "manufacturerName": "CADILLAC",
+      "groupKey": "XT5",
+      "displayName": "XT5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36528,
+          "modelName": "XT5",
+          "modelYearFrom": "2016-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 819,
+      "manufacturerName": "CADILLAC",
+      "groupKey": "XT6",
+      "displayName": "XT6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40424,
+          "modelName": "XT6 (NX26)",
+          "modelYearFrom": "2019-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 819,
+      "manufacturerName": "CADILLAC",
+      "groupKey": "XTS",
+      "displayName": "XTS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10623,
+          "modelName": "XTS (1P5)",
+          "modelYearFrom": "2011-09-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

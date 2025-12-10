@@ -1,0 +1,148 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.232Z",
+  "manufacturer": "DAIMLER",
+  "countGroups": 9,
+  "groups": [
+    {
+      "manufacturerId": 26,
+      "manufacturerName": "DAIMLER",
+      "groupKey": "2",
+      "displayName": "2",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1709,
+          "modelName": "2.8 - 5.3",
+          "modelYearFrom": "1969-10-01",
+          "modelYearTo": "1993-02-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 26,
+      "manufacturerName": "DAIMLER",
+      "groupKey": "COUPE",
+      "displayName": "COUPE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3494,
+          "modelName": "COUPE",
+          "modelYearFrom": "1973-09-01",
+          "modelYearTo": "1977-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 26,
+      "manufacturerName": "DAIMLER",
+      "groupKey": "DAIMLER",
+      "displayName": "DAIMLER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1711,
+          "modelName": "DAIMLER (XJ4_)",
+          "modelYearFrom": "1989-10-01",
+          "modelYearTo": "1994-09-01"
+        },
+        {
+          "modelId": 10785,
+          "modelName": "DAIMLER XJ (X30_)",
+          "modelYearFrom": "1994-10-01",
+          "modelYearTo": "2003-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 26,
+      "manufacturerName": "DAIMLER",
+      "groupKey": "DART",
+      "displayName": "DART",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11022,
+          "modelName": "DART Décapotable",
+          "modelYearFrom": "1959-04-01",
+          "modelYearTo": "1964-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 26,
+      "manufacturerName": "DAIMLER",
+      "groupKey": "LANDAULETTE",
+      "displayName": "LANDAULETTE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1710,
+          "modelName": "LANDAULETTE",
+          "modelYearFrom": "1974-03-01",
+          "modelYearTo": "1991-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 26,
+      "manufacturerName": "DAIMLER",
+      "groupKey": "LIMOUSINE",
+      "displayName": "LIMOUSINE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3608,
+          "modelName": "LIMOUSINE",
+          "modelYearFrom": "1968-06-01",
+          "modelYearTo": "1991-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 26,
+      "manufacturerName": "DAIMLER",
+      "groupKey": "SUPER",
+      "displayName": "SUPER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38351,
+          "modelName": "SUPER EIGHT (X350)",
+          "modelYearFrom": "2005-09-01",
+          "modelYearTo": "2009-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 26,
+      "manufacturerName": "DAIMLER",
+      "groupKey": "V8",
+      "displayName": "V8",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14561,
+          "modelName": "V8",
+          "modelYearFrom": "1967-09-01",
+          "modelYearTo": "1970-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 26,
+      "manufacturerName": "DAIMLER",
+      "groupKey": "XJ",
+      "displayName": "XJ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1715,
+          "modelName": "XJ 40, 81",
+          "modelYearFrom": "1986-10-01",
+          "modelYearTo": "1994-09-01"
+        }
+      ]
+    }
+  ]
+}

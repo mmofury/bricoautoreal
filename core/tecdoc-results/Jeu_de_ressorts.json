@@ -1,0 +1,181 @@
+{
+  "productName": "Jeu de ressorts",
+  "searchText": "Jeu de ressorts",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T20:51:08.178Z",
+  "productId": 2241,
+  "arborescence": {
+    "Embrayage / composants": {
+      "categoryId": 100050,
+      "categoryName": "Embrayage / composants",
+      "level": 1,
+      "children": {
+        "Disque d'embrayage": {
+          "categoryId": null,
+          "categoryName": "Disque d'embrayage",
+          "level": 2,
+          "children": {
+            "Kit de ressorts d'embrayage": {
+              "categoryId": 100053,
+              "categoryName": "Clutch Disc",
+              "level": 2,
+              "children": [],
+              "productId": 5362
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Distribution moteur": {
+          "categoryId": null,
+          "categoryName": "Distribution moteur",
+          "level": 2,
+          "children": {
+            "Kit de ressorts de soupapes": {
+              "categoryId": 100003,
+              "categoryName": "Engine Timing",
+              "level": 2,
+              "children": {
+                "Soupape / réglage de soupape": {
+                  "categoryId": null,
+                  "categoryName": "Soupape / réglage de soupape",
+                  "level": 4,
+                  "children": {
+                    "Kit de ressorts de soupapes": {
+                      "categoryId": 100422,
+                      "categoryName": "Valve Train",
+                      "level": 3,
+                      "children": {
+                        "Réglage de soupape": {
+                          "categoryId": null,
+                          "categoryName": "Réglage de soupape",
+                          "level": 6,
+                          "children": {
+                            "Kit de ressorts de soupapes": {
+                              "categoryId": 100424,
+                              "categoryName": "Valve Actuation",
+                              "level": 4,
+                              "children": [],
+                              "productId": 3208
+                            }
+                          }
+                        },
+                        "Soupapes / accessoires": {
+                          "categoryId": null,
+                          "categoryName": "Soupapes / accessoires",
+                          "level": 6,
+                          "children": {
+                            "Kit de ressorts de soupapes": {
+                              "categoryId": 100423,
+                              "categoryName": "Valves/Parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 3208
+                            }
+                          }
+                        }
+                      },
+                      "productId": 3208
+                    }
+                  }
+                }
+              },
+              "productId": 3208
+            }
+          }
+        }
+      }
+    },
+    "Suspension/Amortissement": {
+      "categoryId": 100011,
+      "categoryName": "Suspension/Amortissement",
+      "level": 1,
+      "children": {
+        "Suspension": {
+          "categoryId": null,
+          "categoryName": "Suspension",
+          "level": 2,
+          "children": {
+            "Kit de suspension, ressorts": {
+              "categoryId": 100113,
+              "categoryName": "Coil Springs",
+              "level": 2,
+              "children": [],
+              "productId": 189
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Embrayage / composants [ID: 100050] (Niveau 1)\n│   └── Disque d'embrayage (Niveau 2)\n│       └── Clutch Disc [ID: 100053] (Niveau 2) → ProductId: 5362\n\n├── Moteur [ID: 100002] (Niveau 1)\n│   └── Distribution moteur (Niveau 2)\n│       └── Engine Timing [ID: 100003] (Niveau 2) → ProductId: 3208\n│           └── Soupape / réglage de soupape (Niveau 4)\n│               └── Valve Train [ID: 100422] (Niveau 3) → ProductId: 3208\n│                   ├── Réglage de soupape (Niveau 6)\n│                   │   └── Valve Actuation [ID: 100424] (Niveau 4) → ProductId: 3208\n│                   └── Soupapes / accessoires (Niveau 6)\n│                       └── Valves/Parts [ID: 100423] (Niveau 4) → ProductId: 3208\n\n└── Suspension/Amortissement [ID: 100011] (Niveau 1)\n    └── Suspension (Niveau 2)\n        └── Coil Springs [ID: 100113] (Niveau 2) → ProductId: 189",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Embrayage / composants",
+        "Disque d'embrayage",
+        "Clutch Disc"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100053
+      ],
+      "finalCategoryId": 100053,
+      "productId": 5362
+    },
+    {
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Engine Timing"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100003
+      ],
+      "finalCategoryId": 100003,
+      "productId": 3208
+    },
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Suspension",
+        "Coil Springs"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        100113
+      ],
+      "finalCategoryId": 100113,
+      "productId": 189
+    }
+  ],
+  "productIdsInArbo": [
+    189,
+    3208,
+    5362
+  ],
+  "closestProductIds": [
+    {
+      "productId": 189,
+      "productName": "Kit de suspension, ressorts"
+    },
+    {
+      "productId": 3208,
+      "productName": "Kit de ressorts de soupapes"
+    },
+    {
+      "productId": 5362,
+      "productName": "Kit de ressorts d'embrayage"
+    }
+  ]
+}

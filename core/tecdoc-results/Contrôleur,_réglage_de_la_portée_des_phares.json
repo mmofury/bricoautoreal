@@ -1,0 +1,140 @@
+{
+  "productName": "Contrôleur, réglage de la portée des phares",
+  "searchText": "Contrôleur, réglage de la portée des phares",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:24:52.985Z",
+  "productId": 1432,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Appareils de commande": {
+          "categoryId": null,
+          "categoryName": "Appareils de commande",
+          "level": 2,
+          "children": {
+            "Contrôleur, réglage de la portée des phares": {
+              "categoryId": 100727,
+              "categoryName": "Control Units",
+              "level": 2,
+              "children": [],
+              "productId": 1432
+            }
+          }
+        },
+        "Interrupteur/Relais/Contrôle clignotant/Appareil d.commande": {
+          "categoryId": null,
+          "categoryName": "Interrupteur/Relais/Contrôle clignotant/Appareil d.commande",
+          "level": 2,
+          "children": {
+            "Contrôleur, réglage de la portée des phares": {
+              "categoryId": 100307,
+              "categoryName": "Light Switches/Relays/Controls",
+              "level": 2,
+              "children": {
+                "Appareils de commande": {
+                  "categoryId": null,
+                  "categoryName": "Appareils de commande",
+                  "level": 4,
+                  "children": {
+                    "Contrôleur, réglage de la portée des phares": {
+                      "categoryId": 100724,
+                      "categoryName": "Controls",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1432
+                    }
+                  }
+                }
+              },
+              "productId": 1432
+            }
+          }
+        },
+        "Projecteurs principaux / composants": {
+          "categoryId": null,
+          "categoryName": "Projecteurs principaux / composants",
+          "level": 2,
+          "children": {
+            "Contrôleur, réglage de la portée des phares": {
+              "categoryId": 100143,
+              "categoryName": "Headlight/Parts",
+              "level": 2,
+              "children": {
+                "Correcteur de portée lumineuse": {
+                  "categoryId": null,
+                  "categoryName": "Correcteur de portée lumineuse",
+                  "level": 4,
+                  "children": {
+                    "Contrôleur, réglage de la portée des phares": {
+                      "categoryId": 100279,
+                      "categoryName": "Headlight Levelling",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1432
+                    }
+                  }
+                }
+              },
+              "productId": 1432
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    ├── Appareils de commande (Niveau 2)\n    │   └── Control Units [ID: 100727] (Niveau 2) → ProductId: 1432\n    ├── Interrupteur/Relais/Contrôle clignotant/Appareil d.commande (Niveau 2)\n    │   └── Light Switches/Relays/Controls [ID: 100307] (Niveau 2) → ProductId: 1432\n    │       └── Appareils de commande (Niveau 4)\n    │           └── Controls [ID: 100724] (Niveau 3) → ProductId: 1432\n    └── Projecteurs principaux / composants (Niveau 2)\n        └── Headlight/Parts [ID: 100143] (Niveau 2) → ProductId: 1432\n            └── Correcteur de portée lumineuse (Niveau 4)\n                └── Headlight Levelling [ID: 100279] (Niveau 3) → ProductId: 1432",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Appareils de commande",
+        "Control Units"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100727
+      ],
+      "finalCategoryId": 100727,
+      "productId": 1432
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Interrupteur/Relais/Contrôle clignotant/Appareil d.commande",
+        "Light Switches/Relays/Controls"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100307
+      ],
+      "finalCategoryId": 100307,
+      "productId": 1432
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Projecteurs principaux / composants",
+        "Headlight/Parts"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100143
+      ],
+      "finalCategoryId": 100143,
+      "productId": 1432
+    }
+  ],
+  "productIdsInArbo": [
+    1432
+  ],
+  "matchedProductIds": [
+    1432
+  ]
+}

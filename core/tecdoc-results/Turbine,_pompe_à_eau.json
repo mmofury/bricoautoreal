@@ -1,0 +1,69 @@
+{
+  "productName": "Turbine, pompe à eau",
+  "searchText": "Turbine, pompe à eau",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:28:16.889Z",
+  "productId": 3299,
+  "arborescence": {
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Pompe à eau / joint": {
+          "categoryId": null,
+          "categoryName": "Pompe à eau / joint",
+          "level": 2,
+          "children": {
+            "Turbine, pompe à eau": {
+              "categoryId": 100088,
+              "categoryName": "Water Pump/Gasket",
+              "level": 2,
+              "children": {
+                "Pompe à eau": {
+                  "categoryId": null,
+                  "categoryName": "Pompe à eau",
+                  "level": 4,
+                  "children": {
+                    "Turbine, pompe à eau": {
+                      "categoryId": 100091,
+                      "categoryName": "Water Pump",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3299
+                    }
+                  }
+                }
+              },
+              "productId": 3299
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Refroidissement [ID: 100007] (Niveau 1)\n    └── Pompe à eau / joint (Niveau 2)\n        └── Water Pump/Gasket [ID: 100088] (Niveau 2) → ProductId: 3299\n            └── Pompe à eau (Niveau 4)\n                └── Water Pump [ID: 100091] (Niveau 3) → ProductId: 3299",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Refroidissement",
+        "Pompe à eau / joint",
+        "Water Pump/Gasket"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100088
+      ],
+      "finalCategoryId": 100088,
+      "productId": 3299
+    }
+  ],
+  "productIdsInArbo": [
+    3299
+  ],
+  "matchedProductIds": [
+    3299
+  ]
+}

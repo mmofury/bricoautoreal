@@ -1,0 +1,422 @@
+{
+  "productName": "Bougie d'allumage",
+  "searchText": "Bougie d'allumage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:08:54.279Z",
+  "productId": 686,
+  "arborescence": {
+    "Allumage / préchauffage": {
+      "categoryId": 100008,
+      "categoryName": "Allumage / préchauffage",
+      "level": 1,
+      "children": {
+        "Bobine/unite de bobine d'allumage": {
+          "categoryId": null,
+          "categoryName": "Bobine/unite de bobine d'allumage",
+          "level": 2,
+          "children": {
+            "Capuchon protecteur, fiche de bobine d'allumage": {
+              "categoryId": 100150,
+              "categoryName": "Ignition Coil/Ignition Coil Unit",
+              "level": 2,
+              "children": [],
+              "productId": 2289
+            }
+          }
+        },
+        "Bougie d'allumage": {
+          "categoryId": null,
+          "categoryName": "Bougie d'allumage",
+          "level": 2,
+          "children": {
+            "Adaptateur de bougie d'allumage": {
+              "categoryId": 100151,
+              "categoryName": "Spark Plug",
+              "level": 2,
+              "children": [],
+              "productId": 60890
+            },
+            "Bougie d'allumage": {
+              "categoryId": 100151,
+              "categoryName": "Spark Plug",
+              "level": 2,
+              "children": [],
+              "productId": 686
+            }
+          }
+        },
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Clé dynamométrique, bougie d'allumage": {
+              "categoryId": 103139,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4861
+            },
+            "Clé pour bougie d'allumage": {
+              "categoryId": 103139,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4499
+            },
+            "Pince, cosse de bougie d'allumage": {
+              "categoryId": 103139,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4497
+            }
+          }
+        },
+        "Raccords de câble d'allumage": {
+          "categoryId": null,
+          "categoryName": "Raccords de câble d'allumage",
+          "level": 2,
+          "children": {
+            "Bonnette protectrice, cosse de bougie d'allumage": {
+              "categoryId": 100153,
+              "categoryName": "Ignition Cable/Connecting Parts",
+              "level": 2,
+              "children": [],
+              "productId": 2288
+            },
+            "Fiche, bougie d'allumage": {
+              "categoryId": 100153,
+              "categoryName": "Ignition Cable/Connecting Parts",
+              "level": 2,
+              "children": [],
+              "productId": 696
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Culasse / pieces de montage": {
+          "categoryId": null,
+          "categoryName": "Culasse / pieces de montage",
+          "level": 2,
+          "children": {
+            "Douille pour bougie": {
+              "categoryId": 100373,
+              "categoryName": "Cylinder Head/Attachment Parts",
+              "level": 2,
+              "children": {
+                "Culasse": {
+                  "categoryId": null,
+                  "categoryName": "Culasse",
+                  "level": 4,
+                  "children": {
+                    "Douille pour bougie": {
+                      "categoryId": 100380,
+                      "categoryName": "Cylinder Head",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4418
+                    }
+                  }
+                }
+              },
+              "productId": 4418
+            }
+          }
+        },
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Extracteur, fiche de bobine d'allumage": {
+              "categoryId": 103129,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 8164
+            },
+            "Kit d'extracteurs, fiche de bobine d'allumage": {
+              "categoryId": 103129,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 8165
+            }
+          }
+        }
+      }
+    },
+    "Pièces de maintenance": {
+      "categoryId": 100019,
+      "categoryName": "Pièces de maintenance",
+      "level": 1,
+      "children": {
+        "Intervalle": {
+          "categoryId": null,
+          "categoryName": "Intervalle",
+          "level": 2,
+          "children": {
+            "Bougie d'allumage": {
+              "categoryId": 100597,
+              "categoryName": "Service Intervals",
+              "level": 2,
+              "children": [],
+              "productId": 686
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Clé pour bougie d'allumage": {
+              "categoryId": 103136,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4499
+            },
+            "Pince, cosse de bougie d'allumage": {
+              "categoryId": 103136,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4497
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Allumage / préchauffage [ID: 100008] (Niveau 1)\n│   ├── Bobine/unite de bobine d'allumage (Niveau 2)\n│   │   └── Ignition Coil/Ignition Coil Unit [ID: 100150] (Niveau 2) → ProductId: 2289\n│   ├── Bougie d'allumage (Niveau 2)\n│   │   ├── Spark Plug [ID: 100151] (Niveau 2) → ProductId: 60890\n│   │   └── Spark Plug [ID: 100151] (Niveau 2) → ProductId: 686\n│   ├── Outils (Niveau 2)\n│   │   ├── Tools [ID: 103139] (Niveau 2) → ProductId: 4861\n│   │   ├── Tools [ID: 103139] (Niveau 2) → ProductId: 4499\n│   │   └── Tools [ID: 103139] (Niveau 2) → ProductId: 4497\n│   └── Raccords de câble d'allumage (Niveau 2)\n│       ├── Ignition Cable/Connecting Parts [ID: 100153] (Niveau 2) → ProductId: 2288\n│       └── Ignition Cable/Connecting Parts [ID: 100153] (Niveau 2) → ProductId: 696\n\n├── Moteur [ID: 100002] (Niveau 1)\n│   ├── Culasse / pieces de montage (Niveau 2)\n│   │   └── Cylinder Head/Attachment Parts [ID: 100373] (Niveau 2) → ProductId: 4418\n│   │       └── Culasse (Niveau 4)\n│   │           └── Cylinder Head [ID: 100380] (Niveau 3) → ProductId: 4418\n│   └── Outils (Niveau 2)\n│       ├── Tools [ID: 103129] (Niveau 2) → ProductId: 8164\n│       └── Tools [ID: 103129] (Niveau 2) → ProductId: 8165\n\n├── Pièces de maintenance [ID: 100019] (Niveau 1)\n│   └── Intervalle (Niveau 2)\n│       └── Service Intervals [ID: 100597] (Niveau 2) → ProductId: 686\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Outils (Niveau 2)\n        ├── Tools [ID: 103136] (Niveau 2) → ProductId: 4499\n        └── Tools [ID: 103136] (Niveau 2) → ProductId: 4497",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Bobine/unite de bobine d'allumage",
+        "Ignition Coil/Ignition Coil Unit"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        100150
+      ],
+      "finalCategoryId": 100150,
+      "productId": 2289
+    },
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Bougie d'allumage",
+        "Spark Plug"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        100151
+      ],
+      "finalCategoryId": 100151,
+      "productId": 60890
+    },
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Bougie d'allumage",
+        "Spark Plug"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        100151
+      ],
+      "finalCategoryId": 100151,
+      "productId": 686
+    },
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        103139
+      ],
+      "finalCategoryId": 103139,
+      "productId": 4861
+    },
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        103139
+      ],
+      "finalCategoryId": 103139,
+      "productId": 4499
+    },
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        103139
+      ],
+      "finalCategoryId": 103139,
+      "productId": 4497
+    },
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Raccords de câble d'allumage",
+        "Ignition Cable/Connecting Parts"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        100153
+      ],
+      "finalCategoryId": 100153,
+      "productId": 2288
+    },
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Raccords de câble d'allumage",
+        "Ignition Cable/Connecting Parts"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        100153
+      ],
+      "finalCategoryId": 100153,
+      "productId": 696
+    },
+    {
+      "path": [
+        "Moteur",
+        "Culasse / pieces de montage",
+        "Cylinder Head/Attachment Parts"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100373
+      ],
+      "finalCategoryId": 100373,
+      "productId": 4418
+    },
+    {
+      "path": [
+        "Moteur",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        103129
+      ],
+      "finalCategoryId": 103129,
+      "productId": 8164
+    },
+    {
+      "path": [
+        "Moteur",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        103129
+      ],
+      "finalCategoryId": 103129,
+      "productId": 8165
+    },
+    {
+      "path": [
+        "Pièces de maintenance",
+        "Intervalle",
+        "Service Intervals"
+      ],
+      "categoryIds": [
+        100019,
+        null,
+        100597
+      ],
+      "finalCategoryId": 100597,
+      "productId": 686
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        103136
+      ],
+      "finalCategoryId": 103136,
+      "productId": 4499
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        103136
+      ],
+      "finalCategoryId": 103136,
+      "productId": 4497
+    }
+  ],
+  "productIdsInArbo": [
+    686,
+    696,
+    2288,
+    2289,
+    4418,
+    4497,
+    4499,
+    4861,
+    8164,
+    8165,
+    60890
+  ],
+  "matchedProductIds": [
+    686
+  ]
+}

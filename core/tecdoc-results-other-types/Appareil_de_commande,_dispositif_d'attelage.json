@@ -1,0 +1,78 @@
+{
+  "productName": "Appareil de commande, dispositif d'attelage",
+  "searchText": "Appareil de commande, dispositif d'attelage",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 3,
+      "found": true,
+      "hasMatch": false,
+      "arborescence": {
+        "Dispositif d'attelage/accessoires": {
+          "categoryId": 100015,
+          "categoryName": "Dispositif d'attelage/accessoires",
+          "level": 1,
+          "children": []
+        }
+      },
+      "arborescenceText": "└── Dispositif d'attelage/accessoires [ID: 100015] (Niveau 1)",
+      "productIdsInArbo": []
+    },
+    {
+      "typeId": 4,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 5,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 6,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 7,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 8,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 9,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 10,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 11,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 12,
+      "found": false,
+      "hasMatch": false
+    }
+  ],
+  "timestamp": "2025-12-03T09:42:03.357Z",
+  "bestMatch": {
+    "typeId": 3,
+    "found": true,
+    "hasMatch": false
+  }
+}

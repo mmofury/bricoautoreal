@@ -1,0 +1,54 @@
+{
+  "productName": "Support, différentiel",
+  "searchText": "Support, différentiel",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:21:15.775Z",
+  "productId": 4981,
+  "arborescence": {
+    "Entraînement des essieux": {
+      "categoryId": 100400,
+      "categoryName": "Entraînement des essieux",
+      "level": 1,
+      "children": {
+        "Différentiel": {
+          "categoryId": null,
+          "categoryName": "Différentiel",
+          "level": 2,
+          "children": {
+            "Support, différentiel": {
+              "categoryId": 100415,
+              "categoryName": "Differential",
+              "level": 2,
+              "children": [],
+              "productId": 4981
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement des essieux [ID: 100400] (Niveau 1)\n    └── Différentiel (Niveau 2)\n        └── Differential [ID: 100415] (Niveau 2) → ProductId: 4981",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des essieux",
+        "Différentiel",
+        "Differential"
+      ],
+      "categoryIds": [
+        100400,
+        null,
+        100415
+      ],
+      "finalCategoryId": 100415,
+      "productId": 4981
+    }
+  ],
+  "productIdsInArbo": [
+    4981
+  ],
+  "matchedProductIds": [
+    4981
+  ]
+}

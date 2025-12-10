@@ -1,0 +1,84 @@
+{
+  "productName": "Kit réparation de câble, feu clignotant",
+  "searchText": "Kit réparation de câble, feu clignotant",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:09:54.229Z",
+  "productId": 6343,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Feux": {
+          "categoryId": null,
+          "categoryName": "Feux",
+          "level": 2,
+          "children": {
+            "Kit réparation de câble, feu clignotant": {
+              "categoryId": 100043,
+              "categoryName": "Lights",
+              "level": 2,
+              "children": {
+                "Feu clignotant/composants": {
+                  "categoryId": null,
+                  "categoryName": "Feu clignotant/composants",
+                  "level": 4,
+                  "children": {
+                    "Kit réparation de câble, feu clignotant": {
+                      "categoryId": 100145,
+                      "categoryName": "Direction Indicator/Parts",
+                      "level": 3,
+                      "children": {
+                        "Composants de feu clignotant": {
+                          "categoryId": null,
+                          "categoryName": "Composants de feu clignotant",
+                          "level": 6,
+                          "children": {
+                            "Kit réparation de câble, feu clignotant": {
+                              "categoryId": 100480,
+                              "categoryName": "Indicator Parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 6343
+                            }
+                          }
+                        }
+                      },
+                      "productId": 6343
+                    }
+                  }
+                }
+              },
+              "productId": 6343
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Feux (Niveau 2)\n        └── Lights [ID: 100043] (Niveau 2) → ProductId: 6343\n            └── Feu clignotant/composants (Niveau 4)\n                └── Direction Indicator/Parts [ID: 100145] (Niveau 3) → ProductId: 6343\n                    └── Composants de feu clignotant (Niveau 6)\n                        └── Indicator Parts [ID: 100480] (Niveau 4) → ProductId: 6343",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Lights"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100043
+      ],
+      "finalCategoryId": 100043,
+      "productId": 6343
+    }
+  ],
+  "productIdsInArbo": [
+    6343
+  ],
+  "matchedProductIds": [
+    6343
+  ]
+}

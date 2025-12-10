@@ -1,0 +1,57 @@
+{
+  "productName": "Émetteur de signaux",
+  "searchText": "Émetteur de signaux",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-03T07:39:33.728Z",
+  "productId": 2205,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Caisson lumineux": {
+          "categoryId": null,
+          "categoryName": "Caisson lumineux",
+          "level": 2,
+          "children": {
+            "Émetteur de signaux": {
+              "categoryId": 100884,
+              "categoryName": "Indicator",
+              "level": 2,
+              "children": [],
+              "productId": 2709
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Caisson lumineux (Niveau 2)\n        └── Indicator [ID: 100884] (Niveau 2) → ProductId: 2709",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Caisson lumineux",
+        "Indicator"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100884
+      ],
+      "finalCategoryId": 100884,
+      "productId": 2709
+    }
+  ],
+  "productIdsInArbo": [
+    2709
+  ],
+  "closestProductIds": [
+    {
+      "productId": 2709,
+      "productName": "Émetteur de signaux"
+    }
+  ]
+}

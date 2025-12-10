@@ -1,0 +1,50 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "B56ED1",
+      "index": "00720588",
+      "tecDoc": "00720588",
+      "tecDocProd": "4593",
+      "articleNumber": "00720588",
+      "brand": "TEDGUM",
+      "shortDescription": "Bearing, drive shaft",
+      "description": "Propeller shaft support (30mm, with a bearing) fits: FORD FIESTA IV, FIESTA/HATCHBACK, FIESTA/MINIVAN, GALAXY I, GALAXY MK I, MONDEO III, SEAT ALHAMBRA, TOYOTA CARINA IV 1.0-3.0 10.86-03.10",
+      "gtuCode": "GTU_07",
+      "eans": [
+        "5908229949931"
+      ],
+      "packageWeight": "0,322",
+      "packageWidth": "11,000",
+      "packageDepth": "10,000",
+      "packageHeight": "2,000",
+      "customsCode": "87085099",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1420",
+          "primary": false,
+          "name": {
+            "en": "Suspension, propshaft"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_2109",
+          "primary": false,
+          "name": {
+            "en": "Bearing, propshaft centre bearing"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3521",
+          "primary": true,
+          "name": {
+            "en": "Bearing, drive shaft"
+          }
+        }
+      ]
+    }
+  ]
+}

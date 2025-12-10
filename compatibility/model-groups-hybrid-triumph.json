@@ -1,0 +1,403 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.518Z",
+  "manufacturer": "TRIUMPH",
+  "countGroups": 18,
+  "groups": [
+    {
+      "manufacturerId": 112,
+      "manufacturerName": "TRIUMPH",
+      "groupKey": "1300",
+      "displayName": "1300",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1754,
+          "modelName": "1300 I",
+          "modelYearFrom": "1965-01-01",
+          "modelYearTo": "1970-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 112,
+      "manufacturerName": "TRIUMPH",
+      "groupKey": "1500",
+      "displayName": "1500",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1764,
+          "modelName": "1500 I",
+          "modelYearFrom": "1970-01-01",
+          "modelYearTo": "1977-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 112,
+      "manufacturerName": "TRIUMPH",
+      "groupKey": "2",
+      "displayName": "2",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1762,
+          "modelName": "2.5 PI MK I",
+          "modelYearFrom": "1968-01-01",
+          "modelYearTo": "1975-12-01"
+        },
+        {
+          "modelId": 1775,
+          "modelName": "2.5 PI MK I Estate",
+          "modelYearFrom": "1968-01-01",
+          "modelYearTo": "1975-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 112,
+      "manufacturerName": "TRIUMPH",
+      "groupKey": "2000",
+      "displayName": "2000",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1757,
+          "modelName": "2000 MK I",
+          "modelYearFrom": "1968-01-01",
+          "modelYearTo": "1972-03-01"
+        },
+        {
+          "modelId": 1774,
+          "modelName": "2000 MK I Estate",
+          "modelYearFrom": "1968-01-01",
+          "modelYearTo": "1975-12-01"
+        },
+        {
+          "modelId": 3585,
+          "modelName": "2000 MKII",
+          "modelYearFrom": "1972-03-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 3586,
+          "modelName": "2000 MKII Estate",
+          "modelYearFrom": "1972-03-01",
+          "modelYearTo": "1975-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 112,
+      "manufacturerName": "TRIUMPH",
+      "groupKey": "2500",
+      "displayName": "2500",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1767,
+          "modelName": "2500",
+          "modelYearFrom": "1974-05-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 1777,
+          "modelName": "2500 Estate",
+          "modelYearFrom": "1974-05-01",
+          "modelYearTo": "1979-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 112,
+      "manufacturerName": "TRIUMPH",
+      "groupKey": "ACCLAIM",
+      "displayName": "ACCLAIM",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 274,
+          "modelName": "ACCLAIM (XD)",
+          "modelYearFrom": "1981-10-01",
+          "modelYearTo": "1985-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 112,
+      "manufacturerName": "TRIUMPH",
+      "groupKey": "DOLOMITE",
+      "displayName": "DOLOMITE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1766,
+          "modelName": "DOLOMITE (W, TW)",
+          "modelYearFrom": "1972-01-01",
+          "modelYearTo": "1981-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 112,
+      "manufacturerName": "TRIUMPH",
+      "groupKey": "GT6",
+      "displayName": "GT6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1755,
+          "modelName": "GT6 I",
+          "modelYearFrom": "1966-01-01",
+          "modelYearTo": "1973-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 112,
+      "manufacturerName": "TRIUMPH",
+      "groupKey": "HERALD",
+      "displayName": "HERALD",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1753,
+          "modelName": "HERALD (1GET)",
+          "modelYearFrom": "1961-01-01",
+          "modelYearTo": "1971-12-01"
+        },
+        {
+          "modelId": 1772,
+          "modelName": "HERALD Estate (1EET)",
+          "modelYearFrom": "1961-01-01",
+          "modelYearTo": "1971-12-01"
+        },
+        {
+          "modelId": 3924,
+          "modelName": "HERALD Décapotable (1RET)",
+          "modelYearFrom": "1961-01-01",
+          "modelYearTo": "1971-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 112,
+      "manufacturerName": "TRIUMPH",
+      "groupKey": "ITALIA",
+      "displayName": "ITALIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1771,
+          "modelName": "ITALIA",
+          "modelYearFrom": "1959-01-01",
+          "modelYearTo": "1963-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 112,
+      "manufacturerName": "TRIUMPH",
+      "groupKey": "SPITFIRE",
+      "displayName": "SPITFIRE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 298,
+          "modelName": "SPITFIRE 1500 (FM)",
+          "modelYearFrom": "1962-10-01",
+          "modelYearTo": "1980-01-01"
+        },
+        {
+          "modelId": 41751,
+          "modelName": "SPITFIRE MK I (FC)",
+          "modelYearFrom": "1962-10-01",
+          "modelYearTo": "1965-12-01"
+        },
+        {
+          "modelId": 41752,
+          "modelName": "SPITFIRE MK II (FD)",
+          "modelYearFrom": "1964-12-01",
+          "modelYearTo": "1967-01-01"
+        },
+        {
+          "modelId": 41753,
+          "modelName": "SPITFIRE MK III (FD)",
+          "modelYearFrom": "1966-09-01",
+          "modelYearTo": "1970-11-01"
+        },
+        {
+          "modelId": 41754,
+          "modelName": "SPITFIRE MK IV (FD)",
+          "modelYearFrom": "1970-12-01",
+          "modelYearTo": "1974-11-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 112,
+      "manufacturerName": "TRIUMPH",
+      "groupKey": "STAG",
+      "displayName": "STAG",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1765,
+          "modelName": "STAG (LD)",
+          "modelYearFrom": "1970-01-01",
+          "modelYearTo": "1977-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 112,
+      "manufacturerName": "TRIUMPH",
+      "groupKey": "TOLEDO",
+      "displayName": "TOLEDO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1763,
+          "modelName": "TOLEDO (ADM, ADF)",
+          "modelYearFrom": "1970-01-01",
+          "modelYearTo": "1977-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 112,
+      "manufacturerName": "TRIUMPH",
+      "groupKey": "TR",
+      "displayName": "TR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 416,
+          "modelName": "TR 6 I",
+          "modelYearFrom": "1969-01-01",
+          "modelYearTo": "1976-12-01"
+        },
+        {
+          "modelId": 420,
+          "modelName": "TR 7 II",
+          "modelYearFrom": "1979-01-01",
+          "modelYearTo": "1982-12-01"
+        },
+        {
+          "modelId": 424,
+          "modelName": "TR 7 I Coupé",
+          "modelYearFrom": "1975-01-01",
+          "modelYearTo": "1981-12-01"
+        },
+        {
+          "modelId": 1758,
+          "modelName": "TR 3 I",
+          "modelYearFrom": "1955-01-01",
+          "modelYearTo": "1957-12-01"
+        },
+        {
+          "modelId": 1759,
+          "modelName": "TR 4 I",
+          "modelYearFrom": "1960-09-01",
+          "modelYearTo": "1965-12-01"
+        },
+        {
+          "modelId": 1760,
+          "modelName": "TR 5 (250)",
+          "modelYearFrom": "1967-01-01",
+          "modelYearTo": "1969-12-01"
+        },
+        {
+          "modelId": 1761,
+          "modelName": "TR 8",
+          "modelYearFrom": "1979-09-01",
+          "modelYearTo": "1981-12-01"
+        },
+        {
+          "modelId": 1768,
+          "modelName": "TR 2 I",
+          "modelYearFrom": "1953-01-01",
+          "modelYearTo": "1955-12-01"
+        },
+        {
+          "modelId": 1769,
+          "modelName": "TR 3A I",
+          "modelYearFrom": "1957-12-01",
+          "modelYearTo": "1961-12-01"
+        },
+        {
+          "modelId": 1770,
+          "modelName": "TR 4A",
+          "modelYearFrom": "1964-09-01",
+          "modelYearTo": "1968-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 112,
+      "manufacturerName": "TRIUMPH",
+      "groupKey": "TR250",
+      "displayName": "TR250",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 34080,
+          "modelName": "TR250 Décapotable",
+          "modelYearFrom": "1967-09-01",
+          "modelYearTo": "1969-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 112,
+      "manufacturerName": "TRIUMPH",
+      "groupKey": "TR3B",
+      "displayName": "TR3B",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 34082,
+          "modelName": "TR3B Décapotable",
+          "modelYearFrom": "1961-09-01",
+          "modelYearTo": "1962-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 112,
+      "manufacturerName": "TRIUMPH",
+      "groupKey": "TR8",
+      "displayName": "TR8",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 34092,
+          "modelName": "TR8 Coupé",
+          "modelYearFrom": "1979-09-01",
+          "modelYearTo": "1981-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 112,
+      "manufacturerName": "TRIUMPH",
+      "groupKey": "VITESSE",
+      "displayName": "VITESSE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1756,
+          "modelName": "VITESSE I",
+          "modelYearFrom": "1961-01-01",
+          "modelYearTo": "1971-12-01"
+        },
+        {
+          "modelId": 1773,
+          "modelName": "VITESSE Cabriolet (HBC)",
+          "modelYearFrom": "1961-01-01",
+          "modelYearTo": "1971-12-01"
+        }
+      ]
+    }
+  ]
+}

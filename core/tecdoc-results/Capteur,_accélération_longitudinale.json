@@ -1,0 +1,132 @@
+{
+  "productName": "Capteur, accélération longitudinale",
+  "searchText": "Capteur, accélération longitudinale",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:15:31.714Z",
+  "productId": 585,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Réglage du comportement dynamique": {
+          "categoryId": null,
+          "categoryName": "Réglage du comportement dynamique",
+          "level": 2,
+          "children": {
+            "Capteur, accélération longitudinale": {
+              "categoryId": 100038,
+              "categoryName": "Drive Dynamics Control",
+              "level": 2,
+              "children": [],
+              "productId": 585
+            },
+            "Capteur, accélération longitudinale/latérale": {
+              "categoryId": 100038,
+              "categoryName": "Drive Dynamics Control",
+              "level": 2,
+              "children": [],
+              "productId": 3097
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Capteurs": {
+          "categoryId": null,
+          "categoryName": "Capteurs",
+          "level": 2,
+          "children": {
+            "Capteur, accélération longitudinale": {
+              "categoryId": 102747,
+              "categoryName": "Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 585
+            },
+            "Capteur, accélération longitudinale/latérale": {
+              "categoryId": 102747,
+              "categoryName": "Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 3097
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Dispositif de freinage [ID: 100006] (Niveau 1)\n│   └── Réglage du comportement dynamique (Niveau 2)\n│       ├── Drive Dynamics Control [ID: 100038] (Niveau 2) → ProductId: 585\n│       └── Drive Dynamics Control [ID: 100038] (Niveau 2) → ProductId: 3097\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Capteurs (Niveau 2)\n        ├── Sensors [ID: 102747] (Niveau 2) → ProductId: 585\n        └── Sensors [ID: 102747] (Niveau 2) → ProductId: 3097",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Réglage du comportement dynamique",
+        "Drive Dynamics Control"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100038
+      ],
+      "finalCategoryId": 100038,
+      "productId": 585
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Réglage du comportement dynamique",
+        "Drive Dynamics Control"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100038
+      ],
+      "finalCategoryId": 100038,
+      "productId": 3097
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Capteurs",
+        "Sensors"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        102747
+      ],
+      "finalCategoryId": 102747,
+      "productId": 585
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Capteurs",
+        "Sensors"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        102747
+      ],
+      "finalCategoryId": 102747,
+      "productId": 3097
+    }
+  ],
+  "productIdsInArbo": [
+    585,
+    3097
+  ],
+  "matchedProductIds": [
+    585
+  ]
+}

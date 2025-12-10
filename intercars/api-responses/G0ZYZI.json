@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G0ZYZI",
+      "index": "DIN9AA022",
+      "tecDoc": "9AA022",
+      "tecDocProd": "233",
+      "articleNumber": "9AA022",
+      "brand": "DINEX",
+      "shortDescription": "Soot/Particulate Filter, exhaust system",
+      "description": "Diesel particle filter",
+      "customsCode": "84213200",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1256",
+          "primary": true,
+          "name": {
+            "en": "Soot/Particulate Filter, exhaust system"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_2767",
+          "primary": false,
+          "name": {
+            "en": "Conversion Catalytic Converter"
+          }
+        }
+      ]
+    }
+  ]
+}

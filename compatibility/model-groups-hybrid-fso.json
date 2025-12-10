@@ -1,0 +1,196 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.283Z",
+  "manufacturer": "FSO",
+  "countGroups": 9,
+  "groups": [
+    {
+      "manufacturerId": 775,
+      "manufacturerName": "FSO",
+      "groupKey": "125P",
+      "displayName": "125P",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3856,
+          "modelName": "125P",
+          "modelYearFrom": "1967-10-01",
+          "modelYearTo": "1992-08-01"
+        },
+        {
+          "modelId": 3857,
+          "modelName": "125P Break",
+          "modelYearFrom": "1967-10-01",
+          "modelYearTo": "1992-08-01"
+        },
+        {
+          "modelId": 13225,
+          "modelName": "125P Pick-up",
+          "modelYearFrom": "1975-06-01",
+          "modelYearTo": "1991-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 775,
+      "manufacturerName": "FSO",
+      "groupKey": "126P",
+      "displayName": "126P",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3858,
+          "modelName": "126P",
+          "modelYearFrom": "1972-07-01",
+          "modelYearTo": "2000-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 775,
+      "manufacturerName": "FSO",
+      "groupKey": "127P",
+      "displayName": "127P",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3859,
+          "modelName": "127P",
+          "modelYearFrom": "1969-10-01",
+          "modelYearTo": "1976-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 775,
+      "manufacturerName": "FSO",
+      "groupKey": "1300",
+      "displayName": "1300",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38797,
+          "modelName": "1300 A trois volumes",
+          "modelYearFrom": "1981-06-01",
+          "modelYearTo": "1991-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 775,
+      "manufacturerName": "FSO",
+      "groupKey": "132P",
+      "displayName": "132P",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3860,
+          "modelName": "132P",
+          "modelYearFrom": "1974-01-01",
+          "modelYearTo": "1978-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 775,
+      "manufacturerName": "FSO",
+      "groupKey": "1500",
+      "displayName": "1500",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38798,
+          "modelName": "1500 A trois volumes",
+          "modelYearFrom": "1981-06-01",
+          "modelYearTo": "1991-12-01"
+        },
+        {
+          "modelId": 38799,
+          "modelName": "1500 Break",
+          "modelYearFrom": "1981-06-01",
+          "modelYearTo": "1991-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 775,
+      "manufacturerName": "FSO",
+      "groupKey": "LANOS",
+      "displayName": "LANOS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8681,
+          "modelName": "LANOS A trois volumes",
+          "modelYearFrom": "2004-05-01",
+          "modelYearTo": "2008-10-01"
+        },
+        {
+          "modelId": 8682,
+          "modelName": "LANOS Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2004-05-01",
+          "modelYearTo": "2008-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 775,
+      "manufacturerName": "FSO",
+      "groupKey": "MATIZ",
+      "displayName": "MATIZ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40191,
+          "modelName": "MATIZ",
+          "modelYearFrom": "2000-06-01",
+          "modelYearTo": "2005-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 775,
+      "manufacturerName": "FSO",
+      "groupKey": "POLONEZ",
+      "displayName": "POLONEZ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3861,
+          "modelName": "POLONEZ I",
+          "modelYearFrom": "1977-10-01",
+          "modelYearTo": "1991-12-01"
+        },
+        {
+          "modelId": 3862,
+          "modelName": "POLONEZ II",
+          "modelYearFrom": "1988-08-01",
+          "modelYearTo": "1992-08-01"
+        },
+        {
+          "modelId": 3876,
+          "modelName": "POLONEZ III",
+          "modelYearFrom": "1992-09-01",
+          "modelYearTo": "2005-01-01"
+        },
+        {
+          "modelId": 3877,
+          "modelName": "POLONEZ III A trois volumes",
+          "modelYearFrom": "1992-09-01",
+          "modelYearTo": "2002-03-01"
+        },
+        {
+          "modelId": 11666,
+          "modelName": "POLONEZ Pick-up",
+          "modelYearFrom": "1994-04-01",
+          "modelYearTo": "1998-09-01"
+        },
+        {
+          "modelId": 37119,
+          "modelName": "POLONEZ Break",
+          "modelYearFrom": "1983-07-01",
+          "modelYearTo": "1995-10-01"
+        }
+      ]
+    }
+  ]
+}

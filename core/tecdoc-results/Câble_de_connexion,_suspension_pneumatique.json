@@ -1,0 +1,54 @@
+{
+  "productName": "Câble de connexion, suspension pneumatique",
+  "searchText": "Câble de connexion, suspension pneumatique",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:29:31.778Z",
+  "productId": 2464,
+  "arborescence": {
+    "Suspension/Amortissement": {
+      "categoryId": 100011,
+      "categoryName": "Suspension/Amortissement",
+      "level": 1,
+      "children": {
+        "Suspension pneumatique": {
+          "categoryId": null,
+          "categoryName": "Suspension pneumatique",
+          "level": 2,
+          "children": {
+            "Câble de connexion, suspension pneumatique": {
+              "categoryId": 101884,
+              "categoryName": "Air Suspension",
+              "level": 2,
+              "children": [],
+              "productId": 2464
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Suspension/Amortissement [ID: 100011] (Niveau 1)\n    └── Suspension pneumatique (Niveau 2)\n        └── Air Suspension [ID: 101884] (Niveau 2) → ProductId: 2464",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Suspension pneumatique",
+        "Air Suspension"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        101884
+      ],
+      "finalCategoryId": 101884,
+      "productId": 2464
+    }
+  ],
+  "productIdsInArbo": [
+    2464
+  ],
+  "matchedProductIds": [
+    2464
+  ]
+}

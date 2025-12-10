@@ -1,0 +1,69 @@
+{
+  "productName": "Valve de suspension pneumatique",
+  "searchText": "Valve de suspension pneumatique",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:31:42.734Z",
+  "productId": 326,
+  "arborescence": {
+    "Système pneumatique": {
+      "categoryId": 103168,
+      "categoryName": "Système pneumatique",
+      "level": 1,
+      "children": {
+        "Soupapes / Système d'air comprimé": {
+          "categoryId": null,
+          "categoryName": "Soupapes / Système d'air comprimé",
+          "level": 2,
+          "children": {
+            "Valve de suspension pneumatique": {
+              "categoryId": 103198,
+              "categoryName": "Valves/compressed-air system",
+              "level": 2,
+              "children": {
+                "Soupapes diverses": {
+                  "categoryId": null,
+                  "categoryName": "Soupapes diverses",
+                  "level": 4,
+                  "children": {
+                    "Valve de suspension pneumatique": {
+                      "categoryId": 103200,
+                      "categoryName": "Other Valves",
+                      "level": 3,
+                      "children": [],
+                      "productId": 326
+                    }
+                  }
+                }
+              },
+              "productId": 326
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système pneumatique [ID: 103168] (Niveau 1)\n    └── Soupapes / Système d'air comprimé (Niveau 2)\n        └── Valves/compressed-air system [ID: 103198] (Niveau 2) → ProductId: 326\n            └── Soupapes diverses (Niveau 4)\n                └── Other Valves [ID: 103200] (Niveau 3) → ProductId: 326",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système pneumatique",
+        "Soupapes / Système d'air comprimé",
+        "Valves/compressed-air system"
+      ],
+      "categoryIds": [
+        103168,
+        null,
+        103198
+      ],
+      "finalCategoryId": 103198,
+      "productId": 326
+    }
+  ],
+  "productIdsInArbo": [
+    326
+  ],
+  "matchedProductIds": [
+    326
+  ]
+}

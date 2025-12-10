@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "CF6762",
+      "index": "SAS4391041",
+      "tecDoc": "4391041",
+      "tecDocProd": "260",
+      "articleNumber": "4391041",
+      "brand": "SASIC",
+      "shortDescription": "Hanger, exhaust system",
+      "description": "Exhaust system hanger fits: PEUGEOT 404, 504 1.6-2.7 04.63-10.99",
+      "customsCode": "40169957",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1710",
+          "primary": false,
+          "name": {
+            "en": "Rubber Buffer, air filter"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1059",
+          "primary": true,
+          "name": {
+            "en": "Hanger, exhaust system"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "E6E05F",
+      "index": "090508",
+      "tecDoc": "090508",
+      "tecDocProd": "168",
+      "articleNumber": "090508",
+      "brand": "MOTIP",
+      "shortDescription": "Anti-Fungal agent",
+      "description": "0,5l, 1 pcs, application: detergent,",
+      "eans": [
+        "8711347225842"
+      ],
+      "packageWeight": "0,570",
+      "packageWidth": "7,000",
+      "packageDepth": "7,000",
+      "packageHeight": "24,500",
+      "customsCode": "32089091",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1896",
+          "primary": false,
+          "name": {
+            "en": "Air Conditioning Cleaner/-Disinfecter"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_93318",
+          "primary": true,
+          "name": {
+            "en": "Anti-Fungal agent"
+          }
+        }
+      ]
+    }
+  ]
+}

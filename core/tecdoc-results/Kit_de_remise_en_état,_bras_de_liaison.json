@@ -1,0 +1,69 @@
+{
+  "productName": "Kit de remise en état, bras de liaison",
+  "searchText": "Kit de remise en état, bras de liaison",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:02:31.401Z",
+  "productId": 2473,
+  "arborescence": {
+    "Suspension d'essieu/Guidage des roues/Roues": {
+      "categoryId": 100013,
+      "categoryName": "Suspension d'essieu/Guidage des roues/Roues",
+      "level": 1,
+      "children": {
+        "Bras oscillant / suspension": {
+          "categoryId": null,
+          "categoryName": "Bras oscillant / suspension",
+          "level": 2,
+          "children": {
+            "Kit de remise en état, bras de liaison": {
+              "categoryId": 100208,
+              "categoryName": "Steering Link/Control/Trailing Arm Mounting",
+              "level": 2,
+              "children": {
+                "Bras (transversal, longitudinal, oblique)": {
+                  "categoryId": null,
+                  "categoryName": "Bras (transversal, longitudinal, oblique)",
+                  "level": 4,
+                  "children": {
+                    "Kit de remise en état, bras de liaison": {
+                      "categoryId": 100571,
+                      "categoryName": "Steering Links (control arm, trailing link, diagonal arm)",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2473
+                    }
+                  }
+                }
+              },
+              "productId": 2473
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Suspension d'essieu/Guidage des roues/Roues [ID: 100013] (Niveau 1)\n    └── Bras oscillant / suspension (Niveau 2)\n        └── Steering Link/Control/Trailing Arm Mounting [ID: 100208] (Niveau 2) → ProductId: 2473\n            └── Bras (transversal, longitudinal, oblique) (Niveau 4)\n                └── Steering Links (control arm, trailing link, diagonal arm) [ID: 100571] (Niveau 3) → ProductId: 2473",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Bras oscillant / suspension",
+        "Steering Link/Control/Trailing Arm Mounting"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        100208
+      ],
+      "finalCategoryId": 100208,
+      "productId": 2473
+    }
+  ],
+  "productIdsInArbo": [
+    2473
+  ],
+  "matchedProductIds": [
+    2473
+  ]
+}

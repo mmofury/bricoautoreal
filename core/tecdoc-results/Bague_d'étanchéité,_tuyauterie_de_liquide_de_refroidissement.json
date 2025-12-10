@@ -1,0 +1,69 @@
+{
+  "productName": "Bague d'étanchéité, tuyauterie de liquide de refroidissement",
+  "searchText": "Bague d'étanchéité, tuyauterie de liquide de refroidissement",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:04:53.332Z",
+  "productId": 3988,
+  "arborescence": {
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Tuyauterie et brides": {
+          "categoryId": null,
+          "categoryName": "Tuyauterie et brides",
+          "level": 2,
+          "children": {
+            "Bague d'étanchéité, tuyauterie de liquide de refroidissement": {
+              "categoryId": 100099,
+              "categoryName": "Hoses/Pipes/Flanges",
+              "level": 2,
+              "children": {
+                "Durite de refroidissement/conduite": {
+                  "categoryId": null,
+                  "categoryName": "Durite de refroidissement/conduite",
+                  "level": 4,
+                  "children": {
+                    "Bague d'étanchéité, tuyauterie de liquide de refroidissement": {
+                      "categoryId": 100100,
+                      "categoryName": "Radiator Hoses",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3988
+                    }
+                  }
+                }
+              },
+              "productId": 3988
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Refroidissement [ID: 100007] (Niveau 1)\n    └── Tuyauterie et brides (Niveau 2)\n        └── Hoses/Pipes/Flanges [ID: 100099] (Niveau 2) → ProductId: 3988\n            └── Durite de refroidissement/conduite (Niveau 4)\n                └── Radiator Hoses [ID: 100100] (Niveau 3) → ProductId: 3988",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Refroidissement",
+        "Tuyauterie et brides",
+        "Hoses/Pipes/Flanges"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100099
+      ],
+      "finalCategoryId": 100099,
+      "productId": 3988
+    }
+  ],
+  "productIdsInArbo": [
+    3988
+  ],
+  "matchedProductIds": [
+    3988
+  ]
+}

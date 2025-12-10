@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "E0A0C8",
+      "index": "IMP37589",
+      "tecDoc": "37589",
+      "tecDocProd": "331",
+      "articleNumber": "37589",
+      "brand": "IMPERGOM",
+      "shortDescription": "Engine mount",
+      "description": "Engine mount front L, bottom, rubber-metal fits: AUDI A1, SEAT CORDOBA, IBIZA III, IBIZA IV, IBIZA IV SC, IBIZA IV ST, SKODA FABIA I, FABIA II, RAPID, ROOMSTER, VW POLO IV 1.2-1.9D 01.00-05.22",
+      "customsCode": "40169952",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_247",
+          "primary": true,
+          "name": {
+            "en": "Engine mount"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_483",
+          "primary": false,
+          "name": {
+            "en": "Engine mount support"
+          }
+        }
+      ]
+    }
+  ]
+}

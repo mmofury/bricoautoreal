@@ -1,0 +1,107 @@
+{
+  "productName": "Embout de clé à douille, fusée d'essieu (entretoise)",
+  "searchText": "Embout de clé à douille, fusée d'essieu (entretoise)",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T20:35:47.467Z",
+  "productId": 7908,
+  "arborescence": {
+    "Outils spéciaux": {
+      "categoryId": 706365,
+      "categoryName": "Outils spéciaux",
+      "level": 1,
+      "children": {
+        "Outils spéciaux suspension d’essieu/guidage des roues/roues": {
+          "categoryId": null,
+          "categoryName": "Outils spéciaux suspension d’essieu/guidage des roues/roues",
+          "level": 2,
+          "children": {
+            "Embout de clé à douille, fusée d'essieu (entretoise)": {
+              "categoryId": 706380,
+              "categoryName": "Special Tools, axle mounting/steering/wheels",
+              "level": 2,
+              "children": {
+                "Fusée d'essieu": {
+                  "categoryId": null,
+                  "categoryName": "Fusée d'essieu",
+                  "level": 4,
+                  "children": {
+                    "Embout de clé à douille, fusée d'essieu (entretoise)": {
+                      "categoryId": 706389,
+                      "categoryName": "Steering Knuckle",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8764
+                    }
+                  }
+                }
+              },
+              "productId": 8764
+            }
+          }
+        }
+      }
+    },
+    "Suspension d'essieu/Guidage des roues/Roues": {
+      "categoryId": 100013,
+      "categoryName": "Suspension d'essieu/Guidage des roues/Roues",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Embout de clé à douille, fusée d'essieu (entretoise)": {
+              "categoryId": 103159,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 8764
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Outils spéciaux [ID: 706365] (Niveau 1)\n│   └── Outils spéciaux suspension d’essieu/guidage des roues/roues (Niveau 2)\n│       └── Special Tools, axle mounting/steering/wheels [ID: 706380] (Niveau 2) → ProductId: 8764\n│           └── Fusée d'essieu (Niveau 4)\n│               └── Steering Knuckle [ID: 706389] (Niveau 3) → ProductId: 8764\n\n└── Suspension d'essieu/Guidage des roues/Roues [ID: 100013] (Niveau 1)\n    └── Outils (Niveau 2)\n        └── Tools [ID: 103159] (Niveau 2) → ProductId: 8764",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Outils spéciaux",
+        "Outils spéciaux suspension d’essieu/guidage des roues/roues",
+        "Special Tools, axle mounting/steering/wheels"
+      ],
+      "categoryIds": [
+        706365,
+        null,
+        706380
+      ],
+      "finalCategoryId": 706380,
+      "productId": 8764
+    },
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        103159
+      ],
+      "finalCategoryId": 103159,
+      "productId": 8764
+    }
+  ],
+  "productIdsInArbo": [
+    8764
+  ],
+  "closestProductIds": [
+    {
+      "productId": 8764,
+      "productName": "Embout de clé à douille, fusée d'essieu (entretoise)"
+    }
+  ]
+}

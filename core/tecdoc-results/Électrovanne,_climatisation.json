@@ -1,0 +1,54 @@
+{
+  "productName": "Électrovanne, climatisation",
+  "searchText": "Électrovanne, climatisation",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:38:35.708Z",
+  "productId": 4906,
+  "arborescence": {
+    "Climatisation": {
+      "categoryId": 100243,
+      "categoryName": "Climatisation",
+      "level": 1,
+      "children": {
+        "Soupapes": {
+          "categoryId": null,
+          "categoryName": "Soupapes",
+          "level": 2,
+          "children": {
+            "Électrovanne, climatisation": {
+              "categoryId": 100358,
+              "categoryName": "Valves",
+              "level": 2,
+              "children": [],
+              "productId": 4906
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Climatisation [ID: 100243] (Niveau 1)\n    └── Soupapes (Niveau 2)\n        └── Valves [ID: 100358] (Niveau 2) → ProductId: 4906",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Climatisation",
+        "Soupapes",
+        "Valves"
+      ],
+      "categoryIds": [
+        100243,
+        null,
+        100358
+      ],
+      "finalCategoryId": 100358,
+      "productId": 4906
+    }
+  ],
+  "productIdsInArbo": [
+    4906
+  ],
+  "matchedProductIds": [
+    4906
+  ]
+}

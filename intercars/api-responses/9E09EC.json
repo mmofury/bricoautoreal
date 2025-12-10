@@ -1,0 +1,38 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "9E09EC",
+      "index": "P536431",
+      "tecDoc": "P536431",
+      "tecDocProd": "4868",
+      "articleNumber": "P536431",
+      "brand": "DONALDSON OFF",
+      "shortDescription": "Air filter",
+      "description": "Air filter fits: FORD USA 7.5, 7.5 4x4",
+      "eans": [
+        "74233003998"
+      ],
+      "customsCode": "84213100",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_8",
+          "primary": true,
+          "name": {
+            "en": "Air filter"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1156",
+          "primary": false,
+          "name": {
+            "en": "Air Filter, compressor intake"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "productName": "Vérin à gaz, bouchon de réservoir",
+  "searchText": "Vérin à gaz, bouchon de réservoir",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:36:00.033Z",
+  "productId": 60120,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Trappes/capots/portes/toit coul./toit panoram./toit pliant": {
+          "categoryId": null,
+          "categoryName": "Trappes/capots/portes/toit coul./toit panoram./toit pliant",
+          "level": 2,
+          "children": {
+            "Vérin à gaz, bouchon de réservoir": {
+              "categoryId": 100746,
+              "categoryName": "Hatches/Bonnets/Doors/Sunroof/Panoramic Roof",
+              "level": 2,
+              "children": {
+                "Composants du bouchon": {
+                  "categoryId": null,
+                  "categoryName": "Composants du bouchon",
+                  "level": 4,
+                  "children": {
+                    "Vérin à gaz, bouchon de réservoir": {
+                      "categoryId": 102731,
+                      "categoryName": "Fuel Filler Flap/-parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60120
+                    }
+                  }
+                }
+              },
+              "productId": 60120
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    └── Trappes/capots/portes/toit coul./toit panoram./toit pliant (Niveau 2)\n        └── Hatches/Bonnets/Doors/Sunroof/Panoramic Roof [ID: 100746] (Niveau 2) → ProductId: 60120\n            └── Composants du bouchon (Niveau 4)\n                └── Fuel Filler Flap/-parts [ID: 102731] (Niveau 3) → ProductId: 60120",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Trappes/capots/portes/toit coul./toit panoram./toit pliant",
+        "Hatches/Bonnets/Doors/Sunroof/Panoramic Roof"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100746
+      ],
+      "finalCategoryId": 100746,
+      "productId": 60120
+    }
+  ],
+  "productIdsInArbo": [
+    60120
+  ],
+  "matchedProductIds": [
+    60120
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Nez à souder, détecteur de particules",
+  "searchText": "Nez à souder, détecteur de particules",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:17:04.079Z",
+  "productId": 9352,
+  "arborescence": {
+    "Échappement": {
+      "categoryId": 100004,
+      "categoryName": "Échappement",
+      "level": 1,
+      "children": {
+        "Capteur/sonde lambda": {
+          "categoryId": null,
+          "categoryName": "Capteur/sonde lambda",
+          "level": 2,
+          "children": {
+            "Nez à souder, détecteur de particules": {
+              "categoryId": 103414,
+              "categoryName": "Sensor/Probe",
+              "level": 2,
+              "children": [],
+              "productId": 9352
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Échappement [ID: 100004] (Niveau 1)\n    └── Capteur/sonde lambda (Niveau 2)\n        └── Sensor/Probe [ID: 103414] (Niveau 2) → ProductId: 9352",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Échappement",
+        "Capteur/sonde lambda",
+        "Sensor/Probe"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        103414
+      ],
+      "finalCategoryId": 103414,
+      "productId": 9352
+    }
+  ],
+  "productIdsInArbo": [
+    9352
+  ],
+  "matchedProductIds": [
+    9352
+  ]
+}

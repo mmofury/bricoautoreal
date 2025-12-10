@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.327Z",
+  "manufacturer": "HUAZI AUTO",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 6697,
+      "manufacturerName": "HUAZI AUTO",
+      "groupKey": "NO",
+      "displayName": "NO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43695,
+          "modelName": "NO.1",
+          "modelYearFrom": "2021-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6697,
+      "manufacturerName": "HUAZI AUTO",
+      "groupKey": "OHMYCAR",
+      "displayName": "OHMYCAR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43694,
+          "modelName": "OHMYCAR",
+          "modelYearFrom": "2022-10-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

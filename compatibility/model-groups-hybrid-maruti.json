@@ -1,0 +1,184 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.403Z",
+  "manufacturer": "MARUTI",
+  "countGroups": 11,
+  "groups": [
+    {
+      "manufacturerId": 908,
+      "manufacturerName": "MARUTI",
+      "groupKey": "1000",
+      "displayName": "1000",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8791,
+          "modelName": "1000",
+          "modelYearFrom": "1990-01-01",
+          "modelYearTo": "2000-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 908,
+      "manufacturerName": "MARUTI",
+      "groupKey": "800",
+      "displayName": "800",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8937,
+          "modelName": "800",
+          "modelYearFrom": "1986-01-01",
+          "modelYearTo": "2006-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 908,
+      "manufacturerName": "MARUTI",
+      "groupKey": "ALTO",
+      "displayName": "ALTO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8768,
+          "modelName": "ALTO",
+          "modelYearFrom": "2000-09-01",
+          "modelYearTo": "2006-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 908,
+      "manufacturerName": "MARUTI",
+      "groupKey": "BALENO",
+      "displayName": "BALENO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8789,
+          "modelName": "BALENO",
+          "modelYearFrom": "1998-01-01",
+          "modelYearTo": "2007-03-01"
+        },
+        {
+          "modelId": 9696,
+          "modelName": "BALENO Break",
+          "modelYearFrom": "1998-01-01",
+          "modelYearTo": "2007-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 908,
+      "manufacturerName": "MARUTI",
+      "groupKey": "ESTEEM",
+      "displayName": "ESTEEM",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5999,
+          "modelName": "ESTEEM",
+          "modelYearFrom": "1994-11-01",
+          "modelYearTo": "2006-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 908,
+      "manufacturerName": "MARUTI",
+      "groupKey": "GRAND",
+      "displayName": "GRAND",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8774,
+          "modelName": "GRAND VITARA",
+          "modelYearFrom": "2002-01-01",
+          "modelYearTo": "2006-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 908,
+      "manufacturerName": "MARUTI",
+      "groupKey": "GYPSY",
+      "displayName": "GYPSY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6024,
+          "modelName": "GYPSY",
+          "modelYearFrom": "1985-01-01",
+          "modelYearTo": "2006-12-01"
+        },
+        {
+          "modelId": 6026,
+          "modelName": "GYPSY",
+          "modelYearFrom": "1998-09-01",
+          "modelYearTo": "2006-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 908,
+      "manufacturerName": "MARUTI",
+      "groupKey": "OMNI",
+      "displayName": "OMNI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8787,
+          "modelName": "OMNI",
+          "modelYearFrom": "1984-01-01",
+          "modelYearTo": "2006-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 908,
+      "manufacturerName": "MARUTI",
+      "groupKey": "VERSA",
+      "displayName": "VERSA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8772,
+          "modelName": "VERSA Autobus/Autocar",
+          "modelYearFrom": "2001-01-01",
+          "modelYearTo": "2006-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 908,
+      "manufacturerName": "MARUTI",
+      "groupKey": "WAGON",
+      "displayName": "WAGON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8785,
+          "modelName": "WAGON R",
+          "modelYearFrom": "1998-04-01",
+          "modelYearTo": "2006-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 908,
+      "manufacturerName": "MARUTI",
+      "groupKey": "ZEN",
+      "displayName": "ZEN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8778,
+          "modelName": "ZEN",
+          "modelYearFrom": "1993-01-01",
+          "modelYearTo": "2006-12-01"
+        }
+      ]
+    }
+  ]
+}

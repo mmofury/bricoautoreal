@@ -1,0 +1,1042 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.198Z",
+  "manufacturer": "BUICK",
+  "countGroups": 35,
+  "groups": [
+    {
+      "manufacturerId": 816,
+      "manufacturerName": "BUICK",
+      "groupKey": "ALLURE",
+      "displayName": "ALLURE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11698,
+          "modelName": "ALLURE A trois volumes (GE)",
+          "modelYearFrom": "2009-09-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 30435,
+          "modelName": "ALLURE A trois volumes",
+          "modelYearFrom": "2004-09-01",
+          "modelYearTo": "2009-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 816,
+      "manufacturerName": "BUICK",
+      "groupKey": "APOLLO",
+      "displayName": "APOLLO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30436,
+          "modelName": "APOLLO A trois volumes",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1975-12-01"
+        },
+        {
+          "modelId": 37594,
+          "modelName": "APOLLO Coupé",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1975-12-01"
+        },
+        {
+          "modelId": 37595,
+          "modelName": "APOLLO Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1975-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 816,
+      "manufacturerName": "BUICK",
+      "groupKey": "CASCADA",
+      "displayName": "CASCADA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14970,
+          "modelName": "CASCADA",
+          "modelYearFrom": "2015-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 816,
+      "manufacturerName": "BUICK",
+      "groupKey": "CENTURION",
+      "displayName": "CENTURION",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30438,
+          "modelName": "CENTURION Hardtop",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1973-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 816,
+      "manufacturerName": "BUICK",
+      "groupKey": "CENTURY",
+      "displayName": "CENTURY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1986,
+          "modelName": "CENTURY A trois volumes",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1981-12-01"
+        },
+        {
+          "modelId": 5938,
+          "modelName": "CENTURY A trois volumes",
+          "modelYearFrom": "1981-05-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 5941,
+          "modelName": "CENTURY Break (4_35)",
+          "modelYearFrom": "1981-09-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 6638,
+          "modelName": "CENTURY Coupé (4A_)",
+          "modelYearFrom": "1981-09-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 6639,
+          "modelName": "CENTURY Break (A)",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1981-12-01"
+        },
+        {
+          "modelId": 6640,
+          "modelName": "CENTURY A trois volumes",
+          "modelYearFrom": "1996-10-01",
+          "modelYearTo": "2005-02-01"
+        },
+        {
+          "modelId": 6748,
+          "modelName": "CENTURY A trois volumes",
+          "modelYearFrom": "2005-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11700,
+          "modelName": "CENTURY Coupé",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1981-12-01"
+        },
+        {
+          "modelId": 14505,
+          "modelName": "CENTURY A trois volumes",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 30440,
+          "modelName": "CENTURY Coupé",
+          "modelYearFrom": "1973-09-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 30442,
+          "modelName": "CENTURY Break",
+          "modelYearFrom": "1973-09-01",
+          "modelYearTo": "1977-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 816,
+      "manufacturerName": "BUICK",
+      "groupKey": "COMMERCIAL",
+      "displayName": "COMMERCIAL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30444,
+          "modelName": "COMMERCIAL CHASSIS Cab & Chassis",
+          "modelYearFrom": "1990-09-01",
+          "modelYearTo": "1996-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 816,
+      "manufacturerName": "BUICK",
+      "groupKey": "ELECTRA",
+      "displayName": "ELECTRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5993,
+          "modelName": "ELECTRA",
+          "modelYearFrom": "1975-09-01",
+          "modelYearTo": "1984-12-01"
+        },
+        {
+          "modelId": 5995,
+          "modelName": "ELECTRA",
+          "modelYearFrom": "1984-10-01",
+          "modelYearTo": "1991-09-01"
+        },
+        {
+          "modelId": 14517,
+          "modelName": "ELECTRA Break",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1990-12-01"
+        },
+        {
+          "modelId": 30445,
+          "modelName": "ELECTRA A trois volumes",
+          "modelYearFrom": "1964-09-01",
+          "modelYearTo": "1970-12-01"
+        },
+        {
+          "modelId": 30446,
+          "modelName": "ELECTRA Coupé",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1976-12-01"
+        },
+        {
+          "modelId": 30448,
+          "modelName": "ELECTRA Break",
+          "modelYearFrom": "1976-09-01",
+          "modelYearTo": "1984-12-01"
+        },
+        {
+          "modelId": 34921,
+          "modelName": "ELECTRA Coupé",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 34924,
+          "modelName": "ELECTRA Coupé",
+          "modelYearFrom": "1976-09-01",
+          "modelYearTo": "1984-12-01"
+        },
+        {
+          "modelId": 36814,
+          "modelName": "ELECTRA A trois volumes",
+          "modelYearFrom": "1969-09-01",
+          "modelYearTo": "1976-12-01"
+        },
+        {
+          "modelId": 40889,
+          "modelName": "ELECTRA Coupé",
+          "modelYearFrom": "1964-09-01",
+          "modelYearTo": "1970-12-01"
+        },
+        {
+          "modelId": 40890,
+          "modelName": "ELECTRA Décapotable",
+          "modelYearFrom": "1964-09-01",
+          "modelYearTo": "1970-12-01"
+        },
+        {
+          "modelId": 44497,
+          "modelName": "ELECTRA A trois volumes",
+          "modelYearFrom": "1960-09-01",
+          "modelYearTo": "1964-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 816,
+      "manufacturerName": "BUICK",
+      "groupKey": "ENCLAVE",
+      "displayName": "ENCLAVE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10296,
+          "modelName": "ENCLAVE",
+          "modelYearFrom": "2007-04-01",
+          "modelYearTo": "2017-12-01"
+        },
+        {
+          "modelId": 36522,
+          "modelName": "ENCLAVE",
+          "modelYearFrom": "2017-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45636,
+          "modelName": "ENCLAVE (LD56)",
+          "modelYearFrom": "2024-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 816,
+      "manufacturerName": "BUICK",
+      "groupKey": "ENCORE",
+      "displayName": "ENCORE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10865,
+          "modelName": "ENCORE SUV",
+          "modelYearFrom": "2012-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40965,
+          "modelName": "ENCORE GX SUV (4T_)",
+          "modelYearFrom": "2019-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 816,
+      "manufacturerName": "BUICK",
+      "groupKey": "ENVISION",
+      "displayName": "ENVISION",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36386,
+          "modelName": "ENVISION (X_26)",
+          "modelYearFrom": "2016-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42676,
+          "modelName": "ENVISION (Z_26)",
+          "modelYearFrom": "2020-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 816,
+      "manufacturerName": "BUICK",
+      "groupKey": "ENVISTA",
+      "displayName": "ENVISTA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44362,
+          "modelName": "ENVISTA (4TS_)",
+          "modelYearFrom": "2023-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 816,
+      "manufacturerName": "BUICK",
+      "groupKey": "ESTATE",
+      "displayName": "ESTATE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30449,
+          "modelName": "ESTATE WAGON Break",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1976-12-01"
+        },
+        {
+          "modelId": 30450,
+          "modelName": "ESTATE WAGON Break",
+          "modelYearFrom": "1976-09-01",
+          "modelYearTo": "1989-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 816,
+      "manufacturerName": "BUICK",
+      "groupKey": "EXCELLE",
+      "displayName": "EXCELLE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6000,
+          "modelName": "EXCELLE",
+          "modelYearFrom": "2003-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 816,
+      "manufacturerName": "BUICK",
+      "groupKey": "GRAN",
+      "displayName": "GRAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30451,
+          "modelName": "GRAN SPORT Coupé",
+          "modelYearFrom": "1964-09-01",
+          "modelYearTo": "1967-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 816,
+      "manufacturerName": "BUICK",
+      "groupKey": "GS",
+      "displayName": "GS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30452,
+          "modelName": "GS A trois volumes",
+          "modelYearFrom": "1969-09-01",
+          "modelYearTo": "1972-12-01"
+        },
+        {
+          "modelId": 30453,
+          "modelName": "GS 350 A trois volumes",
+          "modelYearFrom": "1967-09-01",
+          "modelYearTo": "1969-12-01"
+        },
+        {
+          "modelId": 30454,
+          "modelName": "GS 400 A trois volumes",
+          "modelYearFrom": "1967-09-01",
+          "modelYearTo": "1969-12-01"
+        },
+        {
+          "modelId": 30455,
+          "modelName": "GS 455 A trois volumes",
+          "modelYearFrom": "1969-09-01",
+          "modelYearTo": "1972-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 816,
+      "manufacturerName": "BUICK",
+      "groupKey": "LA",
+      "displayName": "LA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7393,
+          "modelName": "LA CROSSE A trois volumes",
+          "modelYearFrom": "2004-09-01",
+          "modelYearTo": "2009-12-01"
+        },
+        {
+          "modelId": 10295,
+          "modelName": "LA CROSSE A trois volumes",
+          "modelYearFrom": "2009-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 36227,
+          "modelName": "LA CROSSE A trois volumes (Z_79)",
+          "modelYearFrom": "2016-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 816,
+      "manufacturerName": "BUICK",
+      "groupKey": "LESABRE",
+      "displayName": "LESABRE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4094,
+          "modelName": "LESABRE",
+          "modelYearFrom": "1999-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 6073,
+          "modelName": "LESABRE",
+          "modelYearFrom": "1985-10-01",
+          "modelYearTo": "1991-09-01"
+        },
+        {
+          "modelId": 6074,
+          "modelName": "LESABRE",
+          "modelYearFrom": "1991-10-01",
+          "modelYearTo": "1995-09-01"
+        },
+        {
+          "modelId": 7394,
+          "modelName": "LESABRE",
+          "modelYearFrom": "1995-10-01",
+          "modelYearTo": "1999-09-01"
+        },
+        {
+          "modelId": 30458,
+          "modelName": "LESABRE",
+          "modelYearFrom": "1964-09-01",
+          "modelYearTo": "1970-12-01"
+        },
+        {
+          "modelId": 30459,
+          "modelName": "LESABRE Décapotable",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1975-12-01"
+        },
+        {
+          "modelId": 30460,
+          "modelName": "LESABRE Coupé",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1976-12-01"
+        },
+        {
+          "modelId": 30461,
+          "modelName": "LESABRE",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1976-12-01"
+        },
+        {
+          "modelId": 30462,
+          "modelName": "LESABRE Break",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1990-12-01"
+        },
+        {
+          "modelId": 34929,
+          "modelName": "LESABRE Coupé",
+          "modelYearFrom": "1976-09-01",
+          "modelYearTo": "1985-12-01"
+        },
+        {
+          "modelId": 34930,
+          "modelName": "LESABRE Coupé",
+          "modelYearFrom": "1985-09-01",
+          "modelYearTo": "1991-12-01"
+        },
+        {
+          "modelId": 35799,
+          "modelName": "LESABRE",
+          "modelYearFrom": "1976-09-01",
+          "modelYearTo": "1985-12-01"
+        },
+        {
+          "modelId": 37287,
+          "modelName": "LESABRE Coupé",
+          "modelYearFrom": "1964-09-01",
+          "modelYearTo": "1970-12-01"
+        },
+        {
+          "modelId": 40894,
+          "modelName": "LESABRE Break",
+          "modelYearFrom": "1964-09-01",
+          "modelYearTo": "1970-12-01"
+        },
+        {
+          "modelId": 40895,
+          "modelName": "LESABRE Coupé",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1976-12-01"
+        },
+        {
+          "modelId": 40896,
+          "modelName": "LESABRE Décapotable",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1976-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 816,
+      "manufacturerName": "BUICK",
+      "groupKey": "LUCERNE",
+      "displayName": "LUCERNE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30465,
+          "modelName": "LUCERNE A trois volumes",
+          "modelYearFrom": "2005-09-01",
+          "modelYearTo": "2011-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 816,
+      "manufacturerName": "BUICK",
+      "groupKey": "OPEL",
+      "displayName": "OPEL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30471,
+          "modelName": "OPEL Coupé",
+          "modelYearFrom": "1975-09-01",
+          "modelYearTo": "1979-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 816,
+      "manufacturerName": "BUICK",
+      "groupKey": "PARK",
+      "displayName": "PARK",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3503,
+          "modelName": "PARK AVENUE",
+          "modelYearFrom": "1990-10-01",
+          "modelYearTo": "1996-10-01"
+        },
+        {
+          "modelId": 5815,
+          "modelName": "PARK AVENUE",
+          "modelYearFrom": "1996-10-01",
+          "modelYearTo": "2005-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 816,
+      "manufacturerName": "BUICK",
+      "groupKey": "RAINIER",
+      "displayName": "RAINIER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30474,
+          "modelName": "RAINIER SUV",
+          "modelYearFrom": "2003-09-01",
+          "modelYearTo": "2007-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 816,
+      "manufacturerName": "BUICK",
+      "groupKey": "REATTA",
+      "displayName": "REATTA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30475,
+          "modelName": "REATTA Décapotable",
+          "modelYearFrom": "1989-09-01",
+          "modelYearTo": "1991-12-01"
+        },
+        {
+          "modelId": 30476,
+          "modelName": "REATTA Coupé",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "1991-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 816,
+      "manufacturerName": "BUICK",
+      "groupKey": "REGAL",
+      "displayName": "REGAL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6120,
+          "modelName": "REGAL",
+          "modelYearFrom": "1987-10-01",
+          "modelYearTo": "1991-09-01"
+        },
+        {
+          "modelId": 6121,
+          "modelName": "REGAL",
+          "modelYearFrom": "1988-09-01",
+          "modelYearTo": "1997-09-01"
+        },
+        {
+          "modelId": 6122,
+          "modelName": "REGAL (4WF_)",
+          "modelYearFrom": "1997-10-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 30477,
+          "modelName": "REGAL A trois volumes",
+          "modelYearFrom": "1978-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 30478,
+          "modelName": "REGAL Coupé",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 30479,
+          "modelName": "REGAL A trois volumes",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 30480,
+          "modelName": "REGAL Break",
+          "modelYearFrom": "1981-09-01",
+          "modelYearTo": "1983-12-01"
+        },
+        {
+          "modelId": 34792,
+          "modelName": "REGAL A trois volumes",
+          "modelYearFrom": "2010-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 34934,
+          "modelName": "REGAL Coupé",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 35800,
+          "modelName": "REGAL Coupé",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 38326,
+          "modelName": "REGAL Sportback (Z_68)",
+          "modelYearFrom": "2017-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38327,
+          "modelName": "REGAL Regal TourX",
+          "modelYearFrom": "2017-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 816,
+      "manufacturerName": "BUICK",
+      "groupKey": "RENDEZVOUZ",
+      "displayName": "RENDEZVOUZ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7924,
+          "modelName": "RENDEZVOUZ",
+          "modelYearFrom": "2000-04-01",
+          "modelYearTo": "2007-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 816,
+      "manufacturerName": "BUICK",
+      "groupKey": "RIVIERA",
+      "displayName": "RIVIERA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30482,
+          "modelName": "RIVIERA A trois volumes",
+          "modelYearFrom": "1962-09-01",
+          "modelYearTo": "1974-12-01"
+        },
+        {
+          "modelId": 30483,
+          "modelName": "RIVIERA Décapotable",
+          "modelYearFrom": "1981-09-01",
+          "modelYearTo": "1985-12-01"
+        },
+        {
+          "modelId": 30484,
+          "modelName": "RIVIERA Coupé",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1978-12-01"
+        },
+        {
+          "modelId": 35824,
+          "modelName": "RIVIERA Coupé",
+          "modelYearFrom": "1978-09-01",
+          "modelYearTo": "1985-12-01"
+        },
+        {
+          "modelId": 35825,
+          "modelName": "RIVIERA Coupé",
+          "modelYearFrom": "1985-09-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 38369,
+          "modelName": "RIVIERA Coupé",
+          "modelYearFrom": "1993-09-01",
+          "modelYearTo": "1999-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 816,
+      "manufacturerName": "BUICK",
+      "groupKey": "ROADMASTER",
+      "displayName": "ROADMASTER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6125,
+          "modelName": "ROADMASTER Break",
+          "modelYearFrom": "1990-10-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 6641,
+          "modelName": "ROADMASTER A trois volumes",
+          "modelYearFrom": "1992-10-01",
+          "modelYearTo": "1996-09-01"
+        },
+        {
+          "modelId": 30485,
+          "modelName": "ROADMASTER A trois volumes",
+          "modelYearFrom": "1950-09-01",
+          "modelYearTo": "1958-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 816,
+      "manufacturerName": "BUICK",
+      "groupKey": "SKYHAWK",
+      "displayName": "SKYHAWK",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30493,
+          "modelName": "SKYHAWK Coupé",
+          "modelYearFrom": "1981-09-01",
+          "modelYearTo": "1989-12-01"
+        },
+        {
+          "modelId": 30494,
+          "modelName": "SKYHAWK Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 30495,
+          "modelName": "SKYHAWK A trois volumes",
+          "modelYearFrom": "1981-09-01",
+          "modelYearTo": "1989-12-01"
+        },
+        {
+          "modelId": 30496,
+          "modelName": "SKYHAWK Break",
+          "modelYearFrom": "1982-09-01",
+          "modelYearTo": "1989-12-01"
+        },
+        {
+          "modelId": 34935,
+          "modelName": "SKYHAWK Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1985-09-01",
+          "modelYearTo": "1989-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 816,
+      "manufacturerName": "BUICK",
+      "groupKey": "SKYLARK",
+      "displayName": "SKYLARK",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1985,
+          "modelName": "SKYLARK (N)",
+          "modelYearFrom": "1979-04-01",
+          "modelYearTo": "1985-12-01"
+        },
+        {
+          "modelId": 9560,
+          "modelName": "SKYLARK",
+          "modelYearFrom": "1991-09-01",
+          "modelYearTo": "1999-12-01"
+        },
+        {
+          "modelId": 14513,
+          "modelName": "SKYLARK",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1991-12-01"
+        },
+        {
+          "modelId": 30497,
+          "modelName": "SKYLARK",
+          "modelYearFrom": "1967-09-01",
+          "modelYearTo": "1972-12-01"
+        },
+        {
+          "modelId": 30498,
+          "modelName": "SKYLARK Coupé",
+          "modelYearFrom": "1991-09-01",
+          "modelYearTo": "1997-12-01"
+        },
+        {
+          "modelId": 30499,
+          "modelName": "SKYLARK Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1979-12-01"
+        },
+        {
+          "modelId": 30500,
+          "modelName": "SKYLARK",
+          "modelYearFrom": "1973-09-01",
+          "modelYearTo": "1979-12-01"
+        },
+        {
+          "modelId": 34939,
+          "modelName": "SKYLARK Coupé",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1991-12-01"
+        },
+        {
+          "modelId": 34940,
+          "modelName": "SKYLARK Coupé",
+          "modelYearFrom": "1979-09-01",
+          "modelYearTo": "1984-12-01"
+        },
+        {
+          "modelId": 34941,
+          "modelName": "SKYLARK Coupé",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1979-12-01"
+        },
+        {
+          "modelId": 36473,
+          "modelName": "SKYLARK",
+          "modelYearFrom": "1963-09-01",
+          "modelYearTo": "1967-12-01"
+        },
+        {
+          "modelId": 37308,
+          "modelName": "SKYLARK Coupé",
+          "modelYearFrom": "1967-09-01",
+          "modelYearTo": "1972-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 816,
+      "manufacturerName": "BUICK",
+      "groupKey": "SOMERSET",
+      "displayName": "SOMERSET",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30501,
+          "modelName": "SOMERSET Coupé",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1987-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 816,
+      "manufacturerName": "BUICK",
+      "groupKey": "SPECIAL",
+      "displayName": "SPECIAL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30503,
+          "modelName": "SPECIAL A trois volumes",
+          "modelYearFrom": "1950-09-01",
+          "modelYearTo": "1969-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 816,
+      "manufacturerName": "BUICK",
+      "groupKey": "SPORTWAGON",
+      "displayName": "SPORTWAGON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30508,
+          "modelName": "SPORTWAGON Break",
+          "modelYearFrom": "1963-09-01",
+          "modelYearTo": "1972-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 816,
+      "manufacturerName": "BUICK",
+      "groupKey": "SUPER",
+      "displayName": "SUPER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30510,
+          "modelName": "SUPER A trois volumes",
+          "modelYearFrom": "1950-09-01",
+          "modelYearTo": "1958-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 816,
+      "manufacturerName": "BUICK",
+      "groupKey": "TERRAZA",
+      "displayName": "TERRAZA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30512,
+          "modelName": "TERRAZA Mini Passenger Van",
+          "modelYearFrom": "2004-09-01",
+          "modelYearTo": "2007-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 816,
+      "manufacturerName": "BUICK",
+      "groupKey": "VERANO",
+      "displayName": "VERANO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 35957,
+          "modelName": "VERANO A trois volumes",
+          "modelYearFrom": "2011-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 816,
+      "manufacturerName": "BUICK",
+      "groupKey": "WILDCAT",
+      "displayName": "WILDCAT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30513,
+          "modelName": "WILDCAT A trois volumes",
+          "modelYearFrom": "1964-09-01",
+          "modelYearTo": "1970-12-01"
+        },
+        {
+          "modelId": 37593,
+          "modelName": "WILDCAT Décapotable",
+          "modelYearFrom": "1964-09-01",
+          "modelYearTo": "1970-12-01"
+        }
+      ]
+    }
+  ]
+}

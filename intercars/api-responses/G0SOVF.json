@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G0SOVF",
+      "index": "HAZ 4800-1",
+      "tecDoc": "4800-1",
+      "tecDocProd": "4808",
+      "articleNumber": "4800-1",
+      "brand": "HAZET",
+      "shortDescription": "Devices for working fluids and fuels",
+      "description": "Pump, application: cooling system vacuum filling HAZET",
+      "eans": [
+        "4000896022243"
+      ],
+      "packageWeight": "0,600",
+      "packageWidth": "12,000",
+      "packageDepth": "30,000",
+      "packageHeight": "8,000",
+      "customsCode": "90318080",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4628",
+          "primary": false,
+          "name": {
+            "en": "Test Set, cooling system pressure"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91773",
+          "primary": true,
+          "name": {
+            "en": "Devices for working fluids and fuels"
+          }
+        }
+      ]
+    }
+  ]
+}

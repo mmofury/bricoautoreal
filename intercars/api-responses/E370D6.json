@@ -1,0 +1,36 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "E370D6",
+      "index": "FE39888",
+      "tecDoc": "39888",
+      "tecDocProd": "101",
+      "articleNumber": "39888",
+      "brand": "FEBI",
+      "shortDescription": "Drive Shaft",
+      "description": "Indirect shaft fits: VW CALIFORNIA T5 CAMPER, MULTIVAN T5, TRANSPORTER T5 1.9D-3.2 04.03-08.15",
+      "gtuCode": "GTU_07",
+      "customsCode": "87084099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_13",
+          "primary": true,
+          "name": {
+            "en": "Drive Shaft"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_5051",
+          "primary": false,
+          "name": {
+            "en": "Stub Shaft, differential"
+          }
+        }
+      ]
+    }
+  ]
+}

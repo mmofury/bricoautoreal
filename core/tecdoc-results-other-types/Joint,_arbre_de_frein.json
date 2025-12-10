@@ -1,0 +1,64 @@
+{
+  "productName": "Joint, arbre de frein",
+  "productId": 5141,
+  "searchText": "Joint, arbre de frein",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Dispositif de freinage": {
+          "categoryId": 200058,
+          "categoryName": "Dispositif de freinage",
+          "level": 1,
+          "children": {
+            "Frein à tambour": {
+              "categoryId": null,
+              "categoryName": "Frein à tambour",
+              "level": 2,
+              "children": {
+                "Joint, arbre de frein": {
+                  "categoryId": 200098,
+                  "categoryName": "Drum Brake",
+                  "level": 2,
+                  "children": {
+                    "Arbre de frein / accessoires": {
+                      "categoryId": null,
+                      "categoryName": "Arbre de frein / accessoires",
+                      "level": 4,
+                      "children": {
+                        "Joint, arbre de frein": {
+                          "categoryId": 200364,
+                          "categoryName": "Brake Shaft/ Equipment",
+                          "level": 3,
+                          "children": [],
+                          "productId": 5141
+                        }
+                      }
+                    }
+                  },
+                  "productId": 5141
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Dispositif de freinage [ID: 200058] (Niveau 1)\n    └── Frein à tambour (Niveau 2)\n        └── Drum Brake [ID: 200098] (Niveau 2) → ProductId: 5141\n            └── Arbre de frein / accessoires (Niveau 4)\n                └── Brake Shaft/ Equipment [ID: 200364] (Niveau 3) → ProductId: 5141",
+      "productIdsInArbo": [
+        5141
+      ],
+      "matchedProductIds": [
+        5141
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:39:19.651Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

@@ -1,0 +1,768 @@
+{
+  "productName": "Catalyseur",
+  "searchText": "Catalyseur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:18:51.753Z",
+  "productId": 429,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Additifs": {
+          "categoryId": null,
+          "categoryName": "Additifs",
+          "level": 2,
+          "children": {
+            "Additif au carburant": {
+              "categoryId": 706479,
+              "categoryName": "Additive",
+              "level": 2,
+              "children": [],
+              "productId": 9797
+            }
+          }
+        }
+      }
+    },
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Capteur NOx, Catalyseur NOx": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Capteur/sonde lambda": {
+                  "categoryId": null,
+                  "categoryName": "Capteur/sonde lambda",
+                  "level": 4,
+                  "children": {
+                    "Capteur NOx, Catalyseur NOx": {
+                      "categoryId": 102809,
+                      "categoryName": "Sensor/Probe",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4965
+                    }
+                  }
+                }
+              },
+              "productId": 4965
+            }
+          }
+        }
+      }
+    },
+    "Échappement": {
+      "categoryId": 100004,
+      "categoryName": "Échappement",
+      "level": 1,
+      "children": {
+        "Capteur/sonde lambda": {
+          "categoryId": null,
+          "categoryName": "Capteur/sonde lambda",
+          "level": 2,
+          "children": {
+            "Capteur NOx, Catalyseur NOx": {
+              "categoryId": 103414,
+              "categoryName": "Sensor/Probe",
+              "level": 2,
+              "children": [],
+              "productId": 4965
+            }
+          }
+        },
+        "Catalyseur": {
+          "categoryId": null,
+          "categoryName": "Catalyseur",
+          "level": 2,
+          "children": {
+            "Catalyseur": {
+              "categoryId": 100047,
+              "categoryName": "Catalytic Converter",
+              "level": 2,
+              "children": [],
+              "productId": 429
+            },
+            "Catalyseur de mise à niveau": {
+              "categoryId": 100047,
+              "categoryName": "Catalytic Converter",
+              "level": 2,
+              "children": [],
+              "productId": 2767
+            },
+            "Catalyseur en coude": {
+              "categoryId": 100047,
+              "categoryName": "Catalytic Converter",
+              "level": 2,
+              "children": [],
+              "productId": 4120
+            },
+            "Catalyseur SCR": {
+              "categoryId": 100047,
+              "categoryName": "Catalytic Converter",
+              "level": 2,
+              "children": [],
+              "productId": 9811
+            },
+            "Joint, catalyseur": {
+              "categoryId": 100047,
+              "categoryName": "Catalytic Converter",
+              "level": 2,
+              "children": [],
+              "productId": 8253
+            },
+            "Kit d'assemblage, catalyseur": {
+              "categoryId": 100047,
+              "categoryName": "Catalytic Converter",
+              "level": 2,
+              "children": [],
+              "productId": 518
+            },
+            "Kit de modernisation, catalyseur SCR": {
+              "categoryId": 100047,
+              "categoryName": "Catalytic Converter",
+              "level": 2,
+              "children": [],
+              "productId": 9606
+            },
+            "Kit de montage, catalyseur avant": {
+              "categoryId": 100047,
+              "categoryName": "Catalytic Converter",
+              "level": 2,
+              "children": [],
+              "productId": 3570
+            },
+            "Kit de montage, catalyseur SCR": {
+              "categoryId": 100047,
+              "categoryName": "Catalytic Converter",
+              "level": 2,
+              "children": [],
+              "productId": 60574
+            },
+            "Kit de réparation, catalyseur": {
+              "categoryId": 100047,
+              "categoryName": "Catalytic Converter",
+              "level": 2,
+              "children": [],
+              "productId": 60185
+            },
+            "Lot de rattrapage, catalyseur": {
+              "categoryId": 100047,
+              "categoryName": "Catalytic Converter",
+              "level": 2,
+              "children": [],
+              "productId": 430
+            },
+            "Lot de rattrapage, catalyseur / filtre à particules combinés": {
+              "categoryId": 100047,
+              "categoryName": "Catalytic Converter",
+              "level": 2,
+              "children": [],
+              "productId": 4339
+            },
+            "Lot de rattrapage, pré-catalyseur": {
+              "categoryId": 100047,
+              "categoryName": "Catalytic Converter",
+              "level": 2,
+              "children": [],
+              "productId": 3012
+            },
+            "Nettoyage catalyseur": {
+              "categoryId": 100047,
+              "categoryName": "Catalytic Converter",
+              "level": 2,
+              "children": [],
+              "productId": 6331
+            },
+            "Précatalyseur": {
+              "categoryId": 100047,
+              "categoryName": "Catalytic Converter",
+              "level": 2,
+              "children": [],
+              "productId": 2929
+            },
+            "Tube de réparation, catalyseur": {
+              "categoryId": 100047,
+              "categoryName": "Catalytic Converter",
+              "level": 2,
+              "children": [],
+              "productId": 3466
+            }
+          }
+        },
+        "Collecteur": {
+          "categoryId": null,
+          "categoryName": "Collecteur",
+          "level": 2,
+          "children": {
+            "Catalyseur en coude": {
+              "categoryId": 100715,
+              "categoryName": "Manifold",
+              "level": 2,
+              "children": [],
+              "productId": 4120
+            }
+          }
+        },
+        "Filtre à particules": {
+          "categoryId": null,
+          "categoryName": "Filtre à particules",
+          "level": 2,
+          "children": {
+            "Lot de rattrapage, catalyseur / filtre à particules combinés": {
+              "categoryId": 100318,
+              "categoryName": "Soot/Particulate Filter",
+              "level": 2,
+              "children": [],
+              "productId": 4339
+            }
+          }
+        },
+        "Mise à niveau Euro1/Euro2": {
+          "categoryId": null,
+          "categoryName": "Mise à niveau Euro1/Euro2",
+          "level": 2,
+          "children": {
+            "Catalyseur de mise à niveau": {
+              "categoryId": 100873,
+              "categoryName": "Euro1-/Euro2-/D3 Conversion",
+              "level": 2,
+              "children": [],
+              "productId": 2767
+            },
+            "Lot de rattrapage, catalyseur": {
+              "categoryId": 100873,
+              "categoryName": "Euro1-/Euro2-/D3 Conversion",
+              "level": 2,
+              "children": [],
+              "productId": 430
+            },
+            "Lot de rattrapage, pré-catalyseur": {
+              "categoryId": 100873,
+              "categoryName": "Euro1-/Euro2-/D3 Conversion",
+              "level": 2,
+              "children": [],
+              "productId": 3012
+            }
+          }
+        },
+        "Pièces de montage": {
+          "categoryId": null,
+          "categoryName": "Pièces de montage",
+          "level": 2,
+          "children": {
+            "Kit d'assemblage, catalyseur": {
+              "categoryId": 100222,
+              "categoryName": "Assembly Parts",
+              "level": 2,
+              "children": {
+                "Assortiment de montage": {
+                  "categoryId": null,
+                  "categoryName": "Assortiment de montage",
+                  "level": 4,
+                  "children": {
+                    "Kit d'assemblage, catalyseur": {
+                      "categoryId": 100316,
+                      "categoryName": "Assembly Kit",
+                      "level": 3,
+                      "children": [],
+                      "productId": 518
+                    }
+                  }
+                }
+              },
+              "productId": 518
+            },
+            "Kit de montage, catalyseur avant": {
+              "categoryId": 100222,
+              "categoryName": "Assembly Parts",
+              "level": 2,
+              "children": {
+                "Assortiment de montage": {
+                  "categoryId": null,
+                  "categoryName": "Assortiment de montage",
+                  "level": 4,
+                  "children": {
+                    "Kit de montage, catalyseur avant": {
+                      "categoryId": 100316,
+                      "categoryName": "Assembly Kit",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3570
+                    }
+                  }
+                }
+              },
+              "productId": 3570
+            },
+            "Kit de montage, catalyseur SCR": {
+              "categoryId": 100222,
+              "categoryName": "Assembly Parts",
+              "level": 2,
+              "children": {
+                "Assortiment de montage": {
+                  "categoryId": null,
+                  "categoryName": "Assortiment de montage",
+                  "level": 4,
+                  "children": {
+                    "Kit de montage, catalyseur SCR": {
+                      "categoryId": 100316,
+                      "categoryName": "Assembly Kit",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60574
+                    }
+                  }
+                }
+              },
+              "productId": 60574
+            }
+          }
+        },
+        "Tuyaux": {
+          "categoryId": null,
+          "categoryName": "Tuyaux",
+          "level": 2,
+          "children": {
+            "Tube de réparation, catalyseur": {
+              "categoryId": 100315,
+              "categoryName": "Exhaust Pipes",
+              "level": 2,
+              "children": [],
+              "productId": 3466
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Alimentation carburant [ID: 100214] (Niveau 1)\n│   └── Additifs (Niveau 2)\n│       └── Additive [ID: 706479] (Niveau 2) → ProductId: 9797\n\n├── Carburation [ID: 100254] (Niveau 1)\n│   └── Mélange air-carburant (Niveau 2)\n│       └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 4965\n│           └── Capteur/sonde lambda (Niveau 4)\n│               └── Sensor/Probe [ID: 102809] (Niveau 3) → ProductId: 4965\n\n└── Échappement [ID: 100004] (Niveau 1)\n    ├── Capteur/sonde lambda (Niveau 2)\n    │   └── Sensor/Probe [ID: 103414] (Niveau 2) → ProductId: 4965\n    ├── Catalyseur (Niveau 2)\n    │   ├── Catalytic Converter [ID: 100047] (Niveau 2) → ProductId: 429\n    │   ├── Catalytic Converter [ID: 100047] (Niveau 2) → ProductId: 2767\n    │   ├── Catalytic Converter [ID: 100047] (Niveau 2) → ProductId: 4120\n    │   ├── Catalytic Converter [ID: 100047] (Niveau 2) → ProductId: 9811\n    │   ├── Catalytic Converter [ID: 100047] (Niveau 2) → ProductId: 8253\n    │   ├── Catalytic Converter [ID: 100047] (Niveau 2) → ProductId: 518\n    │   ├── Catalytic Converter [ID: 100047] (Niveau 2) → ProductId: 9606\n    │   ├── Catalytic Converter [ID: 100047] (Niveau 2) → ProductId: 3570\n    │   ├── Catalytic Converter [ID: 100047] (Niveau 2) → ProductId: 60574\n    │   ├── Catalytic Converter [ID: 100047] (Niveau 2) → ProductId: 60185\n    │   ├── Catalytic Converter [ID: 100047] (Niveau 2) → ProductId: 430\n    │   ├── Catalytic Converter [ID: 100047] (Niveau 2) → ProductId: 4339\n    │   ├── Catalytic Converter [ID: 100047] (Niveau 2) → ProductId: 3012\n    │   ├── Catalytic Converter [ID: 100047] (Niveau 2) → ProductId: 6331\n    │   ├── Catalytic Converter [ID: 100047] (Niveau 2) → ProductId: 2929\n    │   └── Catalytic Converter [ID: 100047] (Niveau 2) → ProductId: 3466\n    ├── Collecteur (Niveau 2)\n    │   └── Manifold [ID: 100715] (Niveau 2) → ProductId: 4120\n    ├── Filtre à particules (Niveau 2)\n    │   └── Soot/Particulate Filter [ID: 100318] (Niveau 2) → ProductId: 4339\n    ├── Mise à niveau Euro1/Euro2 (Niveau 2)\n    │   ├── Euro1-/Euro2-/D3 Conversion [ID: 100873] (Niveau 2) → ProductId: 2767\n    │   ├── Euro1-/Euro2-/D3 Conversion [ID: 100873] (Niveau 2) → ProductId: 430\n    │   └── Euro1-/Euro2-/D3 Conversion [ID: 100873] (Niveau 2) → ProductId: 3012\n    ├── Pièces de montage (Niveau 2)\n    │   ├── Assembly Parts [ID: 100222] (Niveau 2) → ProductId: 518\n    │   │   └── Assortiment de montage (Niveau 4)\n    │   │       └── Assembly Kit [ID: 100316] (Niveau 3) → ProductId: 518\n    │   ├── Assembly Parts [ID: 100222] (Niveau 2) → ProductId: 3570\n    │   │   └── Assortiment de montage (Niveau 4)\n    │   │       └── Assembly Kit [ID: 100316] (Niveau 3) → ProductId: 3570\n    │   └── Assembly Parts [ID: 100222] (Niveau 2) → ProductId: 60574\n    │       └── Assortiment de montage (Niveau 4)\n    │           └── Assembly Kit [ID: 100316] (Niveau 3) → ProductId: 60574\n    └── Tuyaux (Niveau 2)\n        └── Exhaust Pipes [ID: 100315] (Niveau 2) → ProductId: 3466",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Additifs",
+        "Additive"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        706479
+      ],
+      "finalCategoryId": 706479,
+      "productId": 9797
+    },
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 4965
+    },
+    {
+      "path": [
+        "Échappement",
+        "Capteur/sonde lambda",
+        "Sensor/Probe"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        103414
+      ],
+      "finalCategoryId": 103414,
+      "productId": 4965
+    },
+    {
+      "path": [
+        "Échappement",
+        "Catalyseur",
+        "Catalytic Converter"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100047
+      ],
+      "finalCategoryId": 100047,
+      "productId": 429
+    },
+    {
+      "path": [
+        "Échappement",
+        "Catalyseur",
+        "Catalytic Converter"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100047
+      ],
+      "finalCategoryId": 100047,
+      "productId": 2767
+    },
+    {
+      "path": [
+        "Échappement",
+        "Catalyseur",
+        "Catalytic Converter"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100047
+      ],
+      "finalCategoryId": 100047,
+      "productId": 4120
+    },
+    {
+      "path": [
+        "Échappement",
+        "Catalyseur",
+        "Catalytic Converter"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100047
+      ],
+      "finalCategoryId": 100047,
+      "productId": 9811
+    },
+    {
+      "path": [
+        "Échappement",
+        "Catalyseur",
+        "Catalytic Converter"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100047
+      ],
+      "finalCategoryId": 100047,
+      "productId": 8253
+    },
+    {
+      "path": [
+        "Échappement",
+        "Catalyseur",
+        "Catalytic Converter"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100047
+      ],
+      "finalCategoryId": 100047,
+      "productId": 518
+    },
+    {
+      "path": [
+        "Échappement",
+        "Catalyseur",
+        "Catalytic Converter"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100047
+      ],
+      "finalCategoryId": 100047,
+      "productId": 9606
+    },
+    {
+      "path": [
+        "Échappement",
+        "Catalyseur",
+        "Catalytic Converter"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100047
+      ],
+      "finalCategoryId": 100047,
+      "productId": 3570
+    },
+    {
+      "path": [
+        "Échappement",
+        "Catalyseur",
+        "Catalytic Converter"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100047
+      ],
+      "finalCategoryId": 100047,
+      "productId": 60574
+    },
+    {
+      "path": [
+        "Échappement",
+        "Catalyseur",
+        "Catalytic Converter"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100047
+      ],
+      "finalCategoryId": 100047,
+      "productId": 60185
+    },
+    {
+      "path": [
+        "Échappement",
+        "Catalyseur",
+        "Catalytic Converter"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100047
+      ],
+      "finalCategoryId": 100047,
+      "productId": 430
+    },
+    {
+      "path": [
+        "Échappement",
+        "Catalyseur",
+        "Catalytic Converter"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100047
+      ],
+      "finalCategoryId": 100047,
+      "productId": 4339
+    },
+    {
+      "path": [
+        "Échappement",
+        "Catalyseur",
+        "Catalytic Converter"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100047
+      ],
+      "finalCategoryId": 100047,
+      "productId": 3012
+    },
+    {
+      "path": [
+        "Échappement",
+        "Catalyseur",
+        "Catalytic Converter"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100047
+      ],
+      "finalCategoryId": 100047,
+      "productId": 6331
+    },
+    {
+      "path": [
+        "Échappement",
+        "Catalyseur",
+        "Catalytic Converter"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100047
+      ],
+      "finalCategoryId": 100047,
+      "productId": 2929
+    },
+    {
+      "path": [
+        "Échappement",
+        "Catalyseur",
+        "Catalytic Converter"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100047
+      ],
+      "finalCategoryId": 100047,
+      "productId": 3466
+    },
+    {
+      "path": [
+        "Échappement",
+        "Collecteur",
+        "Manifold"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100715
+      ],
+      "finalCategoryId": 100715,
+      "productId": 4120
+    },
+    {
+      "path": [
+        "Échappement",
+        "Filtre à particules",
+        "Soot/Particulate Filter"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100318
+      ],
+      "finalCategoryId": 100318,
+      "productId": 4339
+    },
+    {
+      "path": [
+        "Échappement",
+        "Mise à niveau Euro1/Euro2",
+        "Euro1-/Euro2-/D3 Conversion"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100873
+      ],
+      "finalCategoryId": 100873,
+      "productId": 2767
+    },
+    {
+      "path": [
+        "Échappement",
+        "Mise à niveau Euro1/Euro2",
+        "Euro1-/Euro2-/D3 Conversion"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100873
+      ],
+      "finalCategoryId": 100873,
+      "productId": 430
+    },
+    {
+      "path": [
+        "Échappement",
+        "Mise à niveau Euro1/Euro2",
+        "Euro1-/Euro2-/D3 Conversion"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100873
+      ],
+      "finalCategoryId": 100873,
+      "productId": 3012
+    },
+    {
+      "path": [
+        "Échappement",
+        "Pièces de montage",
+        "Assembly Parts"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100222
+      ],
+      "finalCategoryId": 100222,
+      "productId": 518
+    },
+    {
+      "path": [
+        "Échappement",
+        "Pièces de montage",
+        "Assembly Parts"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100222
+      ],
+      "finalCategoryId": 100222,
+      "productId": 3570
+    },
+    {
+      "path": [
+        "Échappement",
+        "Pièces de montage",
+        "Assembly Parts"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100222
+      ],
+      "finalCategoryId": 100222,
+      "productId": 60574
+    },
+    {
+      "path": [
+        "Échappement",
+        "Tuyaux",
+        "Exhaust Pipes"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100315
+      ],
+      "finalCategoryId": 100315,
+      "productId": 3466
+    }
+  ],
+  "productIdsInArbo": [
+    429,
+    430,
+    518,
+    2767,
+    2929,
+    3012,
+    3466,
+    3570,
+    4120,
+    4339,
+    4965,
+    6331,
+    8253,
+    9606,
+    9797,
+    9811,
+    60185,
+    60574
+  ],
+  "matchedProductIds": [
+    429
+  ]
+}

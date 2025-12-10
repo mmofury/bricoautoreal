@@ -1,0 +1,125 @@
+{
+  "productName": "Capteur, températeur de batterie",
+  "searchText": "Capteur, températeur de batterie",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:16:48.792Z",
+  "productId": 3077,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Batterie": {
+          "categoryId": null,
+          "categoryName": "Batterie",
+          "level": 2,
+          "children": {
+            "Capteur, températeur de batterie": {
+              "categoryId": 100042,
+              "categoryName": "Battery",
+              "level": 2,
+              "children": [],
+              "productId": 3077
+            }
+          }
+        },
+        "Capteurs": {
+          "categoryId": null,
+          "categoryName": "Capteurs",
+          "level": 2,
+          "children": {
+            "Capteur, températeur de batterie": {
+              "categoryId": 102747,
+              "categoryName": "Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 3077
+            }
+          }
+        },
+        "Instruments": {
+          "categoryId": null,
+          "categoryName": "Instruments",
+          "level": 2,
+          "children": {
+            "Capteur, températeur de batterie": {
+              "categoryId": 100322,
+              "categoryName": "Instruments",
+              "level": 2,
+              "children": {
+                "Capteurs/Conatct": {
+                  "categoryId": null,
+                  "categoryName": "Capteurs/Conatct",
+                  "level": 4,
+                  "children": {
+                    "Capteur, températeur de batterie": {
+                      "categoryId": 100553,
+                      "categoryName": "Sensors/Switches",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3077
+                    }
+                  }
+                }
+              },
+              "productId": 3077
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    ├── Batterie (Niveau 2)\n    │   └── Battery [ID: 100042] (Niveau 2) → ProductId: 3077\n    ├── Capteurs (Niveau 2)\n    │   └── Sensors [ID: 102747] (Niveau 2) → ProductId: 3077\n    └── Instruments (Niveau 2)\n        └── Instruments [ID: 100322] (Niveau 2) → ProductId: 3077\n            └── Capteurs/Conatct (Niveau 4)\n                └── Sensors/Switches [ID: 100553] (Niveau 3) → ProductId: 3077",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Batterie",
+        "Battery"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100042
+      ],
+      "finalCategoryId": 100042,
+      "productId": 3077
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Capteurs",
+        "Sensors"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        102747
+      ],
+      "finalCategoryId": 102747,
+      "productId": 3077
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Instruments",
+        "Instruments"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100322
+      ],
+      "finalCategoryId": 100322,
+      "productId": 3077
+    }
+  ],
+  "productIdsInArbo": [
+    3077
+  ],
+  "matchedProductIds": [
+    3077
+  ]
+}

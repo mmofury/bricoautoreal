@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.492Z",
+  "manufacturer": "SPECTRE",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 1549,
+      "manufacturerName": "SPECTRE",
+      "groupKey": "R42",
+      "displayName": "R42",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4379,
+          "modelName": "R42",
+          "modelYearFrom": "1995-06-01",
+          "modelYearTo": "1997-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1549,
+      "manufacturerName": "SPECTRE",
+      "groupKey": "R45",
+      "displayName": "R45",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4380,
+          "modelName": "R45",
+          "modelYearFrom": "1995-06-01",
+          "modelYearTo": "1997-12-01"
+        }
+      ]
+    }
+  ]
+}

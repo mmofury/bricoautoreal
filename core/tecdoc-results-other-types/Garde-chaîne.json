@@ -1,0 +1,113 @@
+{
+  "productName": "Garde-chaîne",
+  "productId": 5408,
+  "searchText": "Garde-chaîne",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 3,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Moto": {
+          "categoryId": 103671,
+          "categoryName": "Moto",
+          "level": 1,
+          "children": {
+            "Cadre/Châssis": {
+              "categoryId": null,
+              "categoryName": "Cadre/Châssis",
+              "level": 2,
+              "children": {
+                "Garde-chaîne": {
+                  "categoryId": 103736,
+                  "categoryName": "Frame",
+                  "level": 2,
+                  "children": {
+                    "Garde-chaîne": {
+                      "categoryId": null,
+                      "categoryName": "Garde-chaîne",
+                      "level": 4,
+                      "children": {
+                        "Garde-chaîne": {
+                          "categoryId": 103738,
+                          "categoryName": "Chain Guard",
+                          "level": 3,
+                          "children": [],
+                          "productId": 5408
+                        }
+                      }
+                    }
+                  },
+                  "productId": 5408
+                }
+              }
+            },
+            "Entraînement des roues": {
+              "categoryId": null,
+              "categoryName": "Entraînement des roues",
+              "level": 2,
+              "children": {
+                "Garde-chaîne": {
+                  "categoryId": 103747,
+                  "categoryName": "Wheel Drive",
+                  "level": 2,
+                  "children": {
+                    "Chaines, pignons, roues etc.": {
+                      "categoryId": null,
+                      "categoryName": "Chaines, pignons, roues etc.",
+                      "level": 4,
+                      "children": {
+                        "Garde-chaîne": {
+                          "categoryId": 103748,
+                          "categoryName": "Chains, Sprockets, Pinions, etc.",
+                          "level": 3,
+                          "children": {
+                            "Garde-chaîne": {
+                              "categoryId": null,
+                              "categoryName": "Garde-chaîne",
+                              "level": 6,
+                              "children": {
+                                "Garde-chaîne": {
+                                  "categoryId": 103752,
+                                  "categoryName": "Chain Guard",
+                                  "level": 4,
+                                  "children": [],
+                                  "productId": 5408
+                                }
+                              }
+                            }
+                          },
+                          "productId": 5408
+                        }
+                      }
+                    }
+                  },
+                  "productId": 5408
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Moto [ID: 103671] (Niveau 1)\n    ├── Cadre/Châssis (Niveau 2)\n    │   └── Frame [ID: 103736] (Niveau 2) → ProductId: 5408\n    │       └── Garde-chaîne (Niveau 4)\n    │           └── Chain Guard [ID: 103738] (Niveau 3) → ProductId: 5408\n    └── Entraînement des roues (Niveau 2)\n        └── Wheel Drive [ID: 103747] (Niveau 2) → ProductId: 5408\n            └── Chaines, pignons, roues etc. (Niveau 4)\n                └── Chains, Sprockets, Pinions, etc. [ID: 103748] (Niveau 3) → ProductId: 5408\n                    └── Garde-chaîne (Niveau 6)\n                        └── Chain Guard [ID: 103752] (Niveau 4) → ProductId: 5408",
+      "productIdsInArbo": [
+        5408
+      ],
+      "matchedProductIds": [
+        5408
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:32:26.697Z",
+  "bestMatch": {
+    "typeId": 3,
+    "found": true,
+    "hasMatch": true
+  }
+}

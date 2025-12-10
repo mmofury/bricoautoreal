@@ -1,0 +1,84 @@
+{
+  "productName": "Kit réparation de câble, feu de plaque d'immatriculation",
+  "searchText": "Kit réparation de câble, feu de plaque d'immatriculation",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:09:56.708Z",
+  "productId": 7286,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Feux": {
+          "categoryId": null,
+          "categoryName": "Feux",
+          "level": 2,
+          "children": {
+            "Kit réparation de câble, feu de plaque d'immatriculation": {
+              "categoryId": 100043,
+              "categoryName": "Lights",
+              "level": 2,
+              "children": {
+                "Feu éclaireur de plaque/composants": {
+                  "categoryId": null,
+                  "categoryName": "Feu éclaireur de plaque/composants",
+                  "level": 4,
+                  "children": {
+                    "Kit réparation de câble, feu de plaque d'immatriculation": {
+                      "categoryId": 100147,
+                      "categoryName": "Licence Plate Light/-Parts",
+                      "level": 3,
+                      "children": {
+                        "Composants du feu éclaireur de plaque": {
+                          "categoryId": null,
+                          "categoryName": "Composants du feu éclaireur de plaque",
+                          "level": 6,
+                          "children": {
+                            "Kit réparation de câble, feu de plaque d'immatriculation": {
+                              "categoryId": 100482,
+                              "categoryName": "Licence Plate Light Parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 7286
+                            }
+                          }
+                        }
+                      },
+                      "productId": 7286
+                    }
+                  }
+                }
+              },
+              "productId": 7286
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Feux (Niveau 2)\n        └── Lights [ID: 100043] (Niveau 2) → ProductId: 7286\n            └── Feu éclaireur de plaque/composants (Niveau 4)\n                └── Licence Plate Light/-Parts [ID: 100147] (Niveau 3) → ProductId: 7286\n                    └── Composants du feu éclaireur de plaque (Niveau 6)\n                        └── Licence Plate Light Parts [ID: 100482] (Niveau 4) → ProductId: 7286",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Lights"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100043
+      ],
+      "finalCategoryId": 100043,
+      "productId": 7286
+    }
+  ],
+  "productIdsInArbo": [
+    7286
+  ],
+  "matchedProductIds": [
+    7286
+  ]
+}

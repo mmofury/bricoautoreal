@@ -1,0 +1,112 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.502Z",
+  "manufacturer": "SUZUKI (CHANGHE)",
+  "countGroups": 5,
+  "groups": [
+    {
+      "manufacturerId": 3199,
+      "manufacturerName": "SUZUKI (CHANGHE)",
+      "groupKey": "CHANGLINWANG",
+      "displayName": "CHANGLINWANG",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13714,
+          "modelName": "CHANGLINWANG",
+          "modelYearFrom": "2001-05-01",
+          "modelYearTo": "2013-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3199,
+      "manufacturerName": "SUZUKI (CHANGHE)",
+      "groupKey": "LANDY",
+      "displayName": "LANDY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7850,
+          "modelName": "LANDY",
+          "modelYearFrom": "2007-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3199,
+      "manufacturerName": "SUZUKI (CHANGHE)",
+      "groupKey": "LIANA",
+      "displayName": "LIANA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7845,
+          "modelName": "LIANA A trois volumes",
+          "modelYearFrom": "2005-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 7848,
+          "modelName": "LIANA Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2005-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37083,
+          "modelName": "LIANA A6 A trois volumes",
+          "modelYearFrom": "2013-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37084,
+          "modelName": "LIANA A6 Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2013-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3199,
+      "manufacturerName": "SUZUKI (CHANGHE)",
+      "groupKey": "SPLASH",
+      "displayName": "SPLASH",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10194,
+          "modelName": "SPLASH",
+          "modelYearFrom": "2011-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3199,
+      "manufacturerName": "SUZUKI (CHANGHE)",
+      "groupKey": "WAGON",
+      "displayName": "WAGON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7483,
+          "modelName": "WAGON R (CH_)",
+          "modelYearFrom": "1999-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14261,
+          "modelName": "WAGON R e+",
+          "modelYearFrom": "2010-04-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 14263,
+          "modelName": "WAGON R X5",
+          "modelYearFrom": "2012-10-01",
+          "modelYearTo": "2019-12-01"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "productName": "Amortisseur de bruit, système d'air comprimé",
+  "searchText": "Amortisseur de bruit, système d'air comprimé",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": false,
+      "arborescence": {
+        "Système pneumatique": {
+          "categoryId": 200059,
+          "categoryName": "Système pneumatique",
+          "level": 1,
+          "children": {
+            "Silencieux (système à air comprimé)": {
+              "categoryId": null,
+              "categoryName": "Silencieux (système à air comprimé)",
+              "level": 2,
+              "children": {
+                "Amortisseur de bruit, système d'air comprimé": {
+                  "categoryId": 200532,
+                  "categoryName": "Muffler (compressed-air system)",
+                  "level": 2,
+                  "children": [],
+                  "productId": 369
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système pneumatique [ID: 200059] (Niveau 1)\n    └── Silencieux (système à air comprimé) (Niveau 2)\n        └── Muffler (compressed-air system) [ID: 200532] (Niveau 2) → ProductId: 369",
+      "productIdsInArbo": [
+        369
+      ]
+    },
+    {
+      "typeId": 3,
+      "found": true,
+      "hasMatch": false,
+      "arborescence": {
+        "Système pneumatique": {
+          "categoryId": 103168,
+          "categoryName": "Système pneumatique",
+          "level": 1,
+          "children": {
+            "Silencieux (système à air comprimé)": {
+              "categoryId": null,
+              "categoryName": "Silencieux (système à air comprimé)",
+              "level": 2,
+              "children": {
+                "Amortisseur de bruit, système d'air comprimé": {
+                  "categoryId": 103183,
+                  "categoryName": "Muffler (compressed-air system)",
+                  "level": 2,
+                  "children": [],
+                  "productId": 369
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système pneumatique [ID: 103168] (Niveau 1)\n    └── Silencieux (système à air comprimé) (Niveau 2)\n        └── Muffler (compressed-air system) [ID: 103183] (Niveau 2) → ProductId: 369",
+      "productIdsInArbo": [
+        369
+      ]
+    },
+    {
+      "typeId": 4,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 5,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 6,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 7,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 8,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 9,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 10,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 11,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 12,
+      "found": false,
+      "hasMatch": false
+    }
+  ],
+  "timestamp": "2025-12-03T09:39:11.516Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": false
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.257Z",
+  "manufacturer": "EUNOS",
+  "countGroups": 8,
+  "groups": [
+    {
+      "manufacturerId": 2857,
+      "manufacturerName": "EUNOS",
+      "groupKey": "30X",
+      "displayName": "30X",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8326,
+          "modelName": "30X Coupé (EC)",
+          "modelYearFrom": "1991-01-01",
+          "modelYearTo": "1995-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2857,
+      "manufacturerName": "EUNOS",
+      "groupKey": "500",
+      "displayName": "500",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5842,
+          "modelName": "500 A trois volumes (CA)",
+          "modelYearFrom": "1992-01-01",
+          "modelYearTo": "1999-10-01"
+        },
+        {
+          "modelId": 5843,
+          "modelName": "500 Coupé",
+          "modelYearFrom": "1992-01-01",
+          "modelYearTo": "1999-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2857,
+      "manufacturerName": "EUNOS",
+      "groupKey": "800",
+      "displayName": "800",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5847,
+          "modelName": "800 A trois volumes (E65, TA)",
+          "modelYearFrom": "1993-09-01",
+          "modelYearTo": "2002-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2857,
+      "manufacturerName": "EUNOS",
+      "groupKey": "CARGO",
+      "displayName": "CARGO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6015,
+          "modelName": "CARGO Monospace (SS)",
+          "modelYearFrom": "1988-09-01",
+          "modelYearTo": "1992-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2857,
+      "manufacturerName": "EUNOS",
+      "groupKey": "COSMO",
+      "displayName": "COSMO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5970,
+          "modelName": "COSMO Coupé (JC_)",
+          "modelYearFrom": "1986-05-01",
+          "modelYearTo": "1995-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2857,
+      "manufacturerName": "EUNOS",
+      "groupKey": "MPV",
+      "displayName": "MPV",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6097,
+          "modelName": "MPV Monospace (SS)",
+          "modelYearFrom": "1988-09-01",
+          "modelYearTo": "1992-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2857,
+      "manufacturerName": "EUNOS",
+      "groupKey": "PRESSO",
+      "displayName": "PRESSO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6115,
+          "modelName": "PRESSO Coupé (EC)",
+          "modelYearFrom": "1987-10-01",
+          "modelYearTo": "1996-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2857,
+      "manufacturerName": "EUNOS",
+      "groupKey": "ROADSTER",
+      "displayName": "ROADSTER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36515,
+          "modelName": "ROADSTER I (NA)",
+          "modelYearFrom": "1989-06-01",
+          "modelYearTo": "1998-04-01"
+        },
+        {
+          "modelId": 36520,
+          "modelName": "ROADSTER II (NB)",
+          "modelYearFrom": "1998-01-01",
+          "modelYearTo": "2005-10-01"
+        }
+      ]
+    }
+  ]
+}

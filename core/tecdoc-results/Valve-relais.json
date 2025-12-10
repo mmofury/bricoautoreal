@@ -1,0 +1,105 @@
+{
+  "productName": "Valve-relais",
+  "searchText": "Valve-relais",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:32:01.015Z",
+  "productId": 1329,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Outillage de montage, joint de valve-relais": {
+              "categoryId": 103154,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 9361
+            }
+          }
+        }
+      }
+    },
+    "Système pneumatique": {
+      "categoryId": 103168,
+      "categoryName": "Système pneumatique",
+      "level": 1,
+      "children": {
+        "Soupapes / Système d'air comprimé": {
+          "categoryId": null,
+          "categoryName": "Soupapes / Système d'air comprimé",
+          "level": 2,
+          "children": {
+            "Valve-relais": {
+              "categoryId": 103198,
+              "categoryName": "Valves/compressed-air system",
+              "level": 2,
+              "children": {
+                "Soupapes diverses": {
+                  "categoryId": null,
+                  "categoryName": "Soupapes diverses",
+                  "level": 4,
+                  "children": {
+                    "Valve-relais": {
+                      "categoryId": 103200,
+                      "categoryName": "Other Valves",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1329
+                    }
+                  }
+                }
+              },
+              "productId": 1329
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Dispositif de freinage [ID: 100006] (Niveau 1)\n│   └── Outils (Niveau 2)\n│       └── Tools [ID: 103154] (Niveau 2) → ProductId: 9361\n\n└── Système pneumatique [ID: 103168] (Niveau 1)\n    └── Soupapes / Système d'air comprimé (Niveau 2)\n        └── Valves/compressed-air system [ID: 103198] (Niveau 2) → ProductId: 1329\n            └── Soupapes diverses (Niveau 4)\n                └── Other Valves [ID: 103200] (Niveau 3) → ProductId: 1329",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        103154
+      ],
+      "finalCategoryId": 103154,
+      "productId": 9361
+    },
+    {
+      "path": [
+        "Système pneumatique",
+        "Soupapes / Système d'air comprimé",
+        "Valves/compressed-air system"
+      ],
+      "categoryIds": [
+        103168,
+        null,
+        103198
+      ],
+      "finalCategoryId": 103198,
+      "productId": 1329
+    }
+  ],
+  "productIdsInArbo": [
+    1329,
+    9361
+  ],
+  "matchedProductIds": [
+    1329
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "productName": "Joint, bobine d'allumage",
+  "searchText": "Joint, bobine d'allumage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:54:32.405Z",
+  "productId": 6160,
+  "arborescence": {
+    "Allumage / préchauffage": {
+      "categoryId": 100008,
+      "categoryName": "Allumage / préchauffage",
+      "level": 1,
+      "children": {
+        "Bobine/unite de bobine d'allumage": {
+          "categoryId": null,
+          "categoryName": "Bobine/unite de bobine d'allumage",
+          "level": 2,
+          "children": {
+            "Joint, bobine d'allumage": {
+              "categoryId": 100150,
+              "categoryName": "Ignition Coil/Ignition Coil Unit",
+              "level": 2,
+              "children": [],
+              "productId": 6160
+            }
+          }
+        },
+        "Module d'allumage/Appareil de commande": {
+          "categoryId": null,
+          "categoryName": "Module d'allumage/Appareil de commande",
+          "level": 2,
+          "children": {
+            "Joint, bobine d'allumage": {
+              "categoryId": 100246,
+              "categoryName": "Ignition Module/Control Unit",
+              "level": 2,
+              "children": [],
+              "productId": 6160
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Allumage / préchauffage [ID: 100008] (Niveau 1)\n    ├── Bobine/unite de bobine d'allumage (Niveau 2)\n    │   └── Ignition Coil/Ignition Coil Unit [ID: 100150] (Niveau 2) → ProductId: 6160\n    └── Module d'allumage/Appareil de commande (Niveau 2)\n        └── Ignition Module/Control Unit [ID: 100246] (Niveau 2) → ProductId: 6160",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Bobine/unite de bobine d'allumage",
+        "Ignition Coil/Ignition Coil Unit"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        100150
+      ],
+      "finalCategoryId": 100150,
+      "productId": 6160
+    },
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Module d'allumage/Appareil de commande",
+        "Ignition Module/Control Unit"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        100246
+      ],
+      "finalCategoryId": 100246,
+      "productId": 6160
+    }
+  ],
+  "productIdsInArbo": [
+    6160
+  ],
+  "matchedProductIds": [
+    6160
+  ]
+}

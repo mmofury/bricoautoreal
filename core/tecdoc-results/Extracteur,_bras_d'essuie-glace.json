@@ -1,0 +1,57 @@
+{
+  "productName": "Extracteur, bras d'essuie-glace",
+  "searchText": "Extracteur, bras d'essuie-glace",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T20:37:48.747Z",
+  "productId": 4882,
+  "arborescence": {
+    "Nettoyage des vitres": {
+      "categoryId": 100018,
+      "categoryName": "Nettoyage des vitres",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Extracteur, bras d'essuie-glace": {
+              "categoryId": 103410,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4883
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Nettoyage des vitres [ID: 100018] (Niveau 1)\n    └── Outils (Niveau 2)\n        └── Tools [ID: 103410] (Niveau 2) → ProductId: 4883",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Nettoyage des vitres",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100018,
+        null,
+        103410
+      ],
+      "finalCategoryId": 103410,
+      "productId": 4883
+    }
+  ],
+  "productIdsInArbo": [
+    4883
+  ],
+  "closestProductIds": [
+    {
+      "productId": 4883,
+      "productName": "Extracteur, bras d'essuie-glace"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "productName": "Bague d'étanchéité, gaine de suralimentation",
+  "searchText": "Bague d'étanchéité, gaine de suralimentation",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:03:50.223Z",
+  "productId": 3980,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Alimentation en air": {
+          "categoryId": null,
+          "categoryName": "Alimentation en air",
+          "level": 2,
+          "children": {
+            "Bague d'étanchéité, gaine de suralimentation": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Suralimentation": {
+                  "categoryId": null,
+                  "categoryName": "Suralimentation",
+                  "level": 4,
+                  "children": {
+                    "Bague d'étanchéité, gaine de suralimentation": {
+                      "categoryId": 100390,
+                      "categoryName": "Charging (supercharged/turbocharged)",
+                      "level": 3,
+                      "children": {
+                        "Tube d'air de suralimentation": {
+                          "categoryId": null,
+                          "categoryName": "Tube d'air de suralimentation",
+                          "level": 6,
+                          "children": {
+                            "Bague d'étanchéité, gaine de suralimentation": {
+                              "categoryId": 102076,
+                              "categoryName": "Charge Air Hose",
+                              "level": 4,
+                              "children": [],
+                              "productId": 3980
+                            }
+                          }
+                        }
+                      },
+                      "productId": 3980
+                    }
+                  }
+                }
+              },
+              "productId": 3980
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Alimentation en air (Niveau 2)\n        └── Air Supply [ID: 100383] (Niveau 2) → ProductId: 3980\n            └── Suralimentation (Niveau 4)\n                └── Charging (supercharged/turbocharged) [ID: 100390] (Niveau 3) → ProductId: 3980\n                    └── Tube d'air de suralimentation (Niveau 6)\n                        └── Charge Air Hose [ID: 102076] (Niveau 4) → ProductId: 3980",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 3980
+    }
+  ],
+  "productIdsInArbo": [
+    3980
+  ],
+  "matchedProductIds": [
+    3980
+  ]
+}

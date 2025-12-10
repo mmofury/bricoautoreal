@@ -1,0 +1,54 @@
+{
+  "productName": "Suspension, Différentiel",
+  "searchText": "Suspension, Différentiel",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:22:35.870Z",
+  "productId": 4831,
+  "arborescence": {
+    "Entraînement des essieux": {
+      "categoryId": 100400,
+      "categoryName": "Entraînement des essieux",
+      "level": 1,
+      "children": {
+        "Différentiel": {
+          "categoryId": null,
+          "categoryName": "Différentiel",
+          "level": 2,
+          "children": {
+            "Suspension, Différentiel": {
+              "categoryId": 100415,
+              "categoryName": "Differential",
+              "level": 2,
+              "children": [],
+              "productId": 4831
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement des essieux [ID: 100400] (Niveau 1)\n    └── Différentiel (Niveau 2)\n        └── Differential [ID: 100415] (Niveau 2) → ProductId: 4831",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des essieux",
+        "Différentiel",
+        "Differential"
+      ],
+      "categoryIds": [
+        100400,
+        null,
+        100415
+      ],
+      "finalCategoryId": 100415,
+      "productId": 4831
+    }
+  ],
+  "productIdsInArbo": [
+    4831
+  ],
+  "matchedProductIds": [
+    4831
+  ]
+}

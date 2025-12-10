@@ -1,0 +1,54 @@
+{
+  "productName": "Kit de joints, levier de direction",
+  "searchText": "Kit de joints, levier de direction",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:01:01.331Z",
+  "productId": 8234,
+  "arborescence": {
+    "Direction": {
+      "categoryId": 100012,
+      "categoryName": "Direction",
+      "level": 1,
+      "children": {
+        "Pièces de transmission de direction": {
+          "categoryId": null,
+          "categoryName": "Pièces de transmission de direction",
+          "level": 2,
+          "children": {
+            "Kit de joints, levier de direction": {
+              "categoryId": 100594,
+              "categoryName": "Steering Linkage",
+              "level": 2,
+              "children": [],
+              "productId": 8234
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Direction [ID: 100012] (Niveau 1)\n    └── Pièces de transmission de direction (Niveau 2)\n        └── Steering Linkage [ID: 100594] (Niveau 2) → ProductId: 8234",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Direction",
+        "Pièces de transmission de direction",
+        "Steering Linkage"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        100594
+      ],
+      "finalCategoryId": 100594,
+      "productId": 8234
+    }
+  ],
+  "productIdsInArbo": [
+    8234
+  ],
+  "matchedProductIds": [
+    8234
+  ]
+}

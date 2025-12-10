@@ -1,0 +1,247 @@
+{
+  "productName": "Poulie roue libre, alternateur",
+  "searchText": "Poulie roue libre, alternateur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:03:34.123Z",
+  "productId": 1390,
+  "arborescence": {
+    "Commande à courroie": {
+      "categoryId": 100016,
+      "categoryName": "Commande à courroie",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Kit de montage, poulie roue libre (alternateur)": {
+              "categoryId": 103130,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4491
+            }
+          }
+        },
+        "Poulie roue libre, alternateur": {
+          "categoryId": null,
+          "categoryName": "Poulie roue libre, alternateur",
+          "level": 2,
+          "children": {
+            "Poulie roue libre, alternateur": {
+              "categoryId": 102239,
+              "categoryName": "Alternator Freewheel Clutch",
+              "level": 2,
+              "children": [],
+              "productId": 1390
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Commande à courroie": {
+          "categoryId": null,
+          "categoryName": "Commande à courroie",
+          "level": 2,
+          "children": {
+            "Kit de montage, poulie roue libre (alternateur)": {
+              "categoryId": 104302,
+              "categoryName": "Belt Drive",
+              "level": 2,
+              "children": {
+                "Outils": {
+                  "categoryId": null,
+                  "categoryName": "Outils",
+                  "level": 4,
+                  "children": {
+                    "Kit de montage, poulie roue libre (alternateur)": {
+                      "categoryId": 104332,
+                      "categoryName": "Tools",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4491
+                    }
+                  }
+                }
+              },
+              "productId": 4491
+            },
+            "Poulie roue libre, alternateur": {
+              "categoryId": 104302,
+              "categoryName": "Belt Drive",
+              "level": 2,
+              "children": {
+                "Poulie roue libre, alternateur": {
+                  "categoryId": null,
+                  "categoryName": "Poulie roue libre, alternateur",
+                  "level": 4,
+                  "children": {
+                    "Poulie roue libre, alternateur": {
+                      "categoryId": 104330,
+                      "categoryName": "Alternator Freewheel Clutch",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1390
+                    }
+                  }
+                }
+              },
+              "productId": 1390
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Alternateur / composants": {
+          "categoryId": null,
+          "categoryName": "Alternateur / composants",
+          "level": 2,
+          "children": {
+            "Poulie roue libre, alternateur": {
+              "categoryId": 100041,
+              "categoryName": "Alternator/Parts",
+              "level": 2,
+              "children": {
+                "Composants": {
+                  "categoryId": null,
+                  "categoryName": "Composants",
+                  "level": 4,
+                  "children": {
+                    "Poulie roue libre, alternateur": {
+                      "categoryId": 100352,
+                      "categoryName": "Generator/ Alternator Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1390
+                    }
+                  }
+                }
+              },
+              "productId": 1390
+            }
+          }
+        },
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Kit de montage, poulie roue libre (alternateur)": {
+              "categoryId": 103136,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4491
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Commande à courroie [ID: 100016] (Niveau 1)\n│   ├── Outils (Niveau 2)\n│   │   └── Tools [ID: 103130] (Niveau 2) → ProductId: 4491\n│   └── Poulie roue libre, alternateur (Niveau 2)\n│       └── Alternator Freewheel Clutch [ID: 102239] (Niveau 2) → ProductId: 1390\n\n├── Moteur [ID: 100002] (Niveau 1)\n│   └── Commande à courroie (Niveau 2)\n│       ├── Belt Drive [ID: 104302] (Niveau 2) → ProductId: 4491\n│       │   └── Outils (Niveau 4)\n│       │       └── Tools [ID: 104332] (Niveau 3) → ProductId: 4491\n│       └── Belt Drive [ID: 104302] (Niveau 2) → ProductId: 1390\n│           └── Poulie roue libre, alternateur (Niveau 4)\n│               └── Alternator Freewheel Clutch [ID: 104330] (Niveau 3) → ProductId: 1390\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    ├── Alternateur / composants (Niveau 2)\n    │   └── Alternator/Parts [ID: 100041] (Niveau 2) → ProductId: 1390\n    │       └── Composants (Niveau 4)\n    │           └── Generator/ Alternator Parts [ID: 100352] (Niveau 3) → ProductId: 1390\n    └── Outils (Niveau 2)\n        └── Tools [ID: 103136] (Niveau 2) → ProductId: 4491",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Commande à courroie",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100016,
+        null,
+        103130
+      ],
+      "finalCategoryId": 103130,
+      "productId": 4491
+    },
+    {
+      "path": [
+        "Commande à courroie",
+        "Poulie roue libre, alternateur",
+        "Alternator Freewheel Clutch"
+      ],
+      "categoryIds": [
+        100016,
+        null,
+        102239
+      ],
+      "finalCategoryId": 102239,
+      "productId": 1390
+    },
+    {
+      "path": [
+        "Moteur",
+        "Commande à courroie",
+        "Belt Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        104302
+      ],
+      "finalCategoryId": 104302,
+      "productId": 4491
+    },
+    {
+      "path": [
+        "Moteur",
+        "Commande à courroie",
+        "Belt Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        104302
+      ],
+      "finalCategoryId": 104302,
+      "productId": 1390
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Alternateur / composants",
+        "Alternator/Parts"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100041
+      ],
+      "finalCategoryId": 100041,
+      "productId": 1390
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        103136
+      ],
+      "finalCategoryId": 103136,
+      "productId": 4491
+    }
+  ],
+  "productIdsInArbo": [
+    1390,
+    4491
+  ],
+  "matchedProductIds": [
+    1390
+  ]
+}

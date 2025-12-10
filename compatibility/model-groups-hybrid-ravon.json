@@ -1,0 +1,82 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.461Z",
+  "manufacturer": "RAVON",
+  "countGroups": 5,
+  "groups": [
+    {
+      "manufacturerId": 4660,
+      "manufacturerName": "RAVON",
+      "groupKey": "GENTRA",
+      "displayName": "GENTRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37731,
+          "modelName": "GENTRA",
+          "modelYearFrom": "2015-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4660,
+      "manufacturerName": "RAVON",
+      "groupKey": "MATIZ",
+      "displayName": "MATIZ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37732,
+          "modelName": "MATIZ",
+          "modelYearFrom": "2015-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4660,
+      "manufacturerName": "RAVON",
+      "groupKey": "NEXIA",
+      "displayName": "NEXIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40182,
+          "modelName": "NEXIA",
+          "modelYearFrom": "2015-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4660,
+      "manufacturerName": "RAVON",
+      "groupKey": "R2",
+      "displayName": "R2",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40184,
+          "modelName": "R2",
+          "modelYearFrom": "2015-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4660,
+      "manufacturerName": "RAVON",
+      "groupKey": "R4",
+      "displayName": "R4",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40185,
+          "modelName": "R4",
+          "modelYearFrom": "2015-10-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

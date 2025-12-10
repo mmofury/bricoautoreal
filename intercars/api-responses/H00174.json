@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H00174",
+      "index": "FE185244",
+      "tecDoc": "185244",
+      "tecDocProd": "101",
+      "articleNumber": "185244",
+      "brand": "FEBI",
+      "shortDescription": "Filter, cabin air",
+      "description": "Cabin filter fits: TOYOTA PRIUS 1.8H 06.08-06.16",
+      "customsCode": "84213925",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_424",
+          "primary": true,
+          "name": {
+            "en": "Filter, cabin air"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_60552",
+          "primary": false,
+          "name": {
+            "en": "Air filter, drive battery housing"
+          }
+        }
+      ]
+    }
+  ]
+}

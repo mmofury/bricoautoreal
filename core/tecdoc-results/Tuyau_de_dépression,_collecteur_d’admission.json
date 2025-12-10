@@ -1,0 +1,69 @@
+{
+  "productName": "Tuyau de dépression, collecteur d’admission",
+  "searchText": "Tuyau de dépression, collecteur d’admission",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:28:28.666Z",
+  "productId": 60321,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Culasse / pieces de montage": {
+          "categoryId": null,
+          "categoryName": "Culasse / pieces de montage",
+          "level": 2,
+          "children": {
+            "Tuyau de dépression, collecteur d’admission": {
+              "categoryId": 100373,
+              "categoryName": "Cylinder Head/Attachment Parts",
+              "level": 2,
+              "children": {
+                "Joint de collecteur d'admission/des gaz d'échappement": {
+                  "categoryId": null,
+                  "categoryName": "Joint de collecteur d'admission/des gaz d'échappement",
+                  "level": 4,
+                  "children": {
+                    "Tuyau de dépression, collecteur d’admission": {
+                      "categoryId": 100376,
+                      "categoryName": "Intake-/Exhaust Manifold Gasket/-seal ring",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60321
+                    }
+                  }
+                }
+              },
+              "productId": 60321
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Culasse / pieces de montage (Niveau 2)\n        └── Cylinder Head/Attachment Parts [ID: 100373] (Niveau 2) → ProductId: 60321\n            └── Joint de collecteur d'admission/des gaz d'échappement (Niveau 4)\n                └── Intake-/Exhaust Manifold Gasket/-seal ring [ID: 100376] (Niveau 3) → ProductId: 60321",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Culasse / pieces de montage",
+        "Cylinder Head/Attachment Parts"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100373
+      ],
+      "finalCategoryId": 100373,
+      "productId": 60321
+    }
+  ],
+  "productIdsInArbo": [
+    60321
+  ],
+  "matchedProductIds": [
+    60321
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "productName": "Bague d'étanchéité, refroidisseur d'huile (lubrification)",
+  "searchText": "Bague d'étanchéité, refroidisseur d'huile (lubrification)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:04:30.879Z",
+  "productId": 3305,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Lubrification": {
+          "categoryId": null,
+          "categoryName": "Lubrification",
+          "level": 2,
+          "children": {
+            "Bague d'étanchéité, refroidisseur d'huile (lubrification)": {
+              "categoryId": 100245,
+              "categoryName": "Lubrication",
+              "level": 2,
+              "children": {
+                "Radiateur d'huile / pièces de montage": {
+                  "categoryId": null,
+                  "categoryName": "Radiateur d'huile / pièces de montage",
+                  "level": 4,
+                  "children": {
+                    "Bague d'étanchéité, refroidisseur d'huile (lubrification)": {
+                      "categoryId": 100474,
+                      "categoryName": "Oil Cooler/Attachment Parts",
+                      "level": 3,
+                      "children": {
+                        "Joint": {
+                          "categoryId": null,
+                          "categoryName": "Joint",
+                          "level": 6,
+                          "children": {
+                            "Bague d'étanchéité, refroidisseur d'huile (lubrification)": {
+                              "categoryId": 100488,
+                              "categoryName": "Seal",
+                              "level": 4,
+                              "children": [],
+                              "productId": 3305
+                            }
+                          }
+                        }
+                      },
+                      "productId": 3305
+                    }
+                  }
+                }
+              },
+              "productId": 3305
+            }
+          }
+        }
+      }
+    },
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Radiateur d'eau/d'huile": {
+          "categoryId": null,
+          "categoryName": "Radiateur d'eau/d'huile",
+          "level": 2,
+          "children": {
+            "Bague d'étanchéité, refroidisseur d'huile (lubrification)": {
+              "categoryId": 100102,
+              "categoryName": "Radiator/Oil Cooler",
+              "level": 2,
+              "children": {
+                "Radiateur d'huile": {
+                  "categoryId": null,
+                  "categoryName": "Radiateur d'huile",
+                  "level": 4,
+                  "children": {
+                    "Bague d'étanchéité, refroidisseur d'huile (lubrification)": {
+                      "categoryId": 100108,
+                      "categoryName": "Oil Cooler",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3305
+                    }
+                  }
+                }
+              },
+              "productId": 3305
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Moteur [ID: 100002] (Niveau 1)\n│   └── Lubrification (Niveau 2)\n│       └── Lubrication [ID: 100245] (Niveau 2) → ProductId: 3305\n│           └── Radiateur d'huile / pièces de montage (Niveau 4)\n│               └── Oil Cooler/Attachment Parts [ID: 100474] (Niveau 3) → ProductId: 3305\n│                   └── Joint (Niveau 6)\n│                       └── Seal [ID: 100488] (Niveau 4) → ProductId: 3305\n\n└── Refroidissement [ID: 100007] (Niveau 1)\n    └── Radiateur d'eau/d'huile (Niveau 2)\n        └── Radiator/Oil Cooler [ID: 100102] (Niveau 2) → ProductId: 3305\n            └── Radiateur d'huile (Niveau 4)\n                └── Oil Cooler [ID: 100108] (Niveau 3) → ProductId: 3305",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Lubrification",
+        "Lubrication"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100245
+      ],
+      "finalCategoryId": 100245,
+      "productId": 3305
+    },
+    {
+      "path": [
+        "Refroidissement",
+        "Radiateur d'eau/d'huile",
+        "Radiator/Oil Cooler"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100102
+      ],
+      "finalCategoryId": 100102,
+      "productId": 3305
+    }
+  ],
+  "productIdsInArbo": [
+    3305
+  ],
+  "matchedProductIds": [
+    3305
+  ]
+}

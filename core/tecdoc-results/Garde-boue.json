@@ -1,0 +1,193 @@
+{
+  "productName": "Garde-boue",
+  "searchText": "Garde-boue",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T20:42:27.728Z",
+  "productId": 1715,
+  "arborescence": {
+    "Accessoires": {
+      "categoryId": 100733,
+      "categoryName": "Accessoires",
+      "level": 1,
+      "children": {
+        "Bavette/garde-boue": {
+          "categoryId": null,
+          "categoryName": "Bavette/garde-boue",
+          "level": 2,
+          "children": {
+            "Garde-boue": {
+              "categoryId": 706700,
+              "categoryName": "Mud Flap",
+              "level": 2,
+              "children": [],
+              "productId": 60571
+            }
+          }
+        }
+      }
+    },
+    "Entraînement hybride/électrique": {
+      "categoryId": 706209,
+      "categoryName": "Entraînement hybride/électrique",
+      "level": 1,
+      "children": {
+        "Boîte de vitesses": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesses",
+          "level": 2,
+          "children": {
+            "Kit de réparation, garde-boue": {
+              "categoryId": 706569,
+              "categoryName": "Transmission",
+              "level": 2,
+              "children": {
+                "Réparation/entretien": {
+                  "categoryId": null,
+                  "categoryName": "Réparation/entretien",
+                  "level": 4,
+                  "children": {
+                    "Kit de réparation, garde-boue": {
+                      "categoryId": 706762,
+                      "categoryName": "Repair/Maintenance",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60740
+                    }
+                  }
+                }
+              },
+              "productId": 60740
+            },
+            "Kit de vis, garde-boue": {
+              "categoryId": 706569,
+              "categoryName": "Transmission",
+              "level": 2,
+              "children": {
+                "Réparation/entretien": {
+                  "categoryId": null,
+                  "categoryName": "Réparation/entretien",
+                  "level": 4,
+                  "children": {
+                    "Kit de vis, garde-boue": {
+                      "categoryId": 706762,
+                      "categoryName": "Repair/Maintenance",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60741
+                    }
+                  }
+                }
+              },
+              "productId": 60741
+            }
+          }
+        }
+      }
+    },
+    "Système d'information et de communication": {
+      "categoryId": 100339,
+      "categoryName": "Système d'information et de communication",
+      "level": 1,
+      "children": {
+        "Antennes": {
+          "categoryId": null,
+          "categoryName": "Antennes",
+          "level": 2,
+          "children": {
+            "Télescope d'antenne": {
+              "categoryId": 100695,
+              "categoryName": "Aerial",
+              "level": 2,
+              "children": [],
+              "productId": 1357
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Accessoires [ID: 100733] (Niveau 1)\n│   └── Bavette/garde-boue (Niveau 2)\n│       └── Mud Flap [ID: 706700] (Niveau 2) → ProductId: 60571\n\n├── Entraînement hybride/électrique [ID: 706209] (Niveau 1)\n│   └── Boîte de vitesses (Niveau 2)\n│       ├── Transmission [ID: 706569] (Niveau 2) → ProductId: 60740\n│       │   └── Réparation/entretien (Niveau 4)\n│       │       └── Repair/Maintenance [ID: 706762] (Niveau 3) → ProductId: 60740\n│       └── Transmission [ID: 706569] (Niveau 2) → ProductId: 60741\n│           └── Réparation/entretien (Niveau 4)\n│               └── Repair/Maintenance [ID: 706762] (Niveau 3) → ProductId: 60741\n\n└── Système d'information et de communication [ID: 100339] (Niveau 1)\n    └── Antennes (Niveau 2)\n        └── Aerial [ID: 100695] (Niveau 2) → ProductId: 1357",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Accessoires",
+        "Bavette/garde-boue",
+        "Mud Flap"
+      ],
+      "categoryIds": [
+        100733,
+        null,
+        706700
+      ],
+      "finalCategoryId": 706700,
+      "productId": 60571
+    },
+    {
+      "path": [
+        "Entraînement hybride/électrique",
+        "Boîte de vitesses",
+        "Transmission"
+      ],
+      "categoryIds": [
+        706209,
+        null,
+        706569
+      ],
+      "finalCategoryId": 706569,
+      "productId": 60740
+    },
+    {
+      "path": [
+        "Entraînement hybride/électrique",
+        "Boîte de vitesses",
+        "Transmission"
+      ],
+      "categoryIds": [
+        706209,
+        null,
+        706569
+      ],
+      "finalCategoryId": 706569,
+      "productId": 60741
+    },
+    {
+      "path": [
+        "Système d'information et de communication",
+        "Antennes",
+        "Aerial"
+      ],
+      "categoryIds": [
+        100339,
+        null,
+        100695
+      ],
+      "finalCategoryId": 100695,
+      "productId": 1357
+    }
+  ],
+  "productIdsInArbo": [
+    1357,
+    60571,
+    60740,
+    60741
+  ],
+  "closestProductIds": [
+    {
+      "productId": 1357,
+      "productName": "Télescope d'antenne"
+    },
+    {
+      "productId": 60571,
+      "productName": "Garde-boue"
+    },
+    {
+      "productId": 60740,
+      "productName": "Kit de réparation, garde-boue"
+    },
+    {
+      "productId": 60741,
+      "productName": "Kit de vis, garde-boue"
+    }
+  ]
+}

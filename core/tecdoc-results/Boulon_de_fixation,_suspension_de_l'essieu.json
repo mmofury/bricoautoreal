@@ -1,0 +1,69 @@
+{
+  "productName": "Boulon de fixation, suspension de l'essieu",
+  "searchText": "Boulon de fixation, suspension de l'essieu",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:09:18.234Z",
+  "productId": 3239,
+  "arborescence": {
+    "Suspension d'essieu/Guidage des roues/Roues": {
+      "categoryId": 100013,
+      "categoryName": "Suspension d'essieu/Guidage des roues/Roues",
+      "level": 1,
+      "children": {
+        "Support d'essieu / arbre d'essieu / fixation": {
+          "categoryId": null,
+          "categoryName": "Support d'essieu / arbre d'essieu / fixation",
+          "level": 2,
+          "children": {
+            "Boulon de fixation, suspension de l'essieu": {
+              "categoryId": 100212,
+              "categoryName": "Axle Cross Member/Axle Beam/Axle Beam Mounting",
+              "level": 2,
+              "children": {
+                "Support d'essieu/cadre auxiliaire": {
+                  "categoryId": null,
+                  "categoryName": "Support d'essieu/cadre auxiliaire",
+                  "level": 4,
+                  "children": {
+                    "Boulon de fixation, suspension de l'essieu": {
+                      "categoryId": 100761,
+                      "categoryName": "Axle Cross Member/Subframe",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3239
+                    }
+                  }
+                }
+              },
+              "productId": 3239
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Suspension d'essieu/Guidage des roues/Roues [ID: 100013] (Niveau 1)\n    └── Support d'essieu / arbre d'essieu / fixation (Niveau 2)\n        └── Axle Cross Member/Axle Beam/Axle Beam Mounting [ID: 100212] (Niveau 2) → ProductId: 3239\n            └── Support d'essieu/cadre auxiliaire (Niveau 4)\n                └── Axle Cross Member/Subframe [ID: 100761] (Niveau 3) → ProductId: 3239",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Support d'essieu / arbre d'essieu / fixation",
+        "Axle Cross Member/Axle Beam/Axle Beam Mounting"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        100212
+      ],
+      "finalCategoryId": 100212,
+      "productId": 3239
+    }
+  ],
+  "productIdsInArbo": [
+    3239
+  ],
+  "matchedProductIds": [
+    3239
+  ]
+}

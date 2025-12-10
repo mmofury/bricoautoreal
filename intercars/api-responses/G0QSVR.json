@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G0QSVR",
+      "index": "HAZ 2534",
+      "tecDoc": "2534",
+      "tecDocProd": "4808",
+      "articleNumber": "2534",
+      "brand": "HAZET",
+      "shortDescription": "Hammers, punches, chisels, drifts",
+      "description": "Steering and suspension system special tools",
+      "customsCode": "82041100",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_5604",
+          "primary": false,
+          "name": {
+            "en": "Taper Pin Punch"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91627",
+          "primary": true,
+          "name": {
+            "en": "Hammers, punches, chisels, drifts"
+          }
+        }
+      ]
+    }
+  ]
+}

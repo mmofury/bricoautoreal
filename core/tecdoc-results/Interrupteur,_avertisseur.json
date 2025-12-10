@@ -1,0 +1,168 @@
+{
+  "productName": "Interrupteur, avertisseur",
+  "searchText": "Interrupteur, avertisseur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:46:52.244Z",
+  "productId": 1767,
+  "arborescence": {
+    "Équipement intérieur": {
+      "categoryId": 100341,
+      "categoryName": "Équipement intérieur",
+      "level": 1,
+      "children": {
+        "Leviers manuels / Leviers de pédale": {
+          "categoryId": null,
+          "categoryName": "Leviers manuels / Leviers de pédale",
+          "level": 2,
+          "children": {
+            "Interrupteur, avertisseur": {
+              "categoryId": 102695,
+              "categoryName": "Hand/Foot Lever System",
+              "level": 2,
+              "children": [],
+              "productId": 1767
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Avertisseur sonore / trompette": {
+          "categoryId": null,
+          "categoryName": "Avertisseur sonore / trompette",
+          "level": 2,
+          "children": {
+            "Interrupteur, avertisseur": {
+              "categoryId": 100320,
+              "categoryName": "Signal Horn/Trumpet Horn",
+              "level": 2,
+              "children": [],
+              "productId": 1767
+            }
+          }
+        }
+      }
+    },
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Aide au stationnement/Alarme de marche arrière": {
+          "categoryId": null,
+          "categoryName": "Aide au stationnement/Alarme de marche arrière",
+          "level": 2,
+          "children": {
+            "Interrupteur, avertisseur de marche-arrière": {
+              "categoryId": 100618,
+              "categoryName": "park distance control/Back-up Alarm",
+              "level": 2,
+              "children": [],
+              "productId": 1770
+            }
+          }
+        },
+        "Moteur / Relais": {
+          "categoryId": null,
+          "categoryName": "Moteur / Relais",
+          "level": 2,
+          "children": {
+            "Interrupteur, avertisseur de marche-arrière": {
+              "categoryId": 104156,
+              "categoryName": "Motor/Relay/Switch",
+              "level": 2,
+              "children": {
+                "Aide au stationnement/Alarme de marche arrière": {
+                  "categoryId": null,
+                  "categoryName": "Aide au stationnement/Alarme de marche arrière",
+                  "level": 4,
+                  "children": {
+                    "Interrupteur, avertisseur de marche-arrière": {
+                      "categoryId": 104161,
+                      "categoryName": "park distance control/Back-up Alarm",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1770
+                    }
+                  }
+                }
+              },
+              "productId": 1770
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Équipement intérieur [ID: 100341] (Niveau 1)\n│   └── Leviers manuels / Leviers de pédale (Niveau 2)\n│       └── Hand/Foot Lever System [ID: 102695] (Niveau 2) → ProductId: 1767\n\n├── Système électrique [ID: 100010] (Niveau 1)\n│   └── Avertisseur sonore / trompette (Niveau 2)\n│       └── Signal Horn/Trumpet Horn [ID: 100320] (Niveau 2) → ProductId: 1767\n\n└── Systèmes de confort [ID: 100335] (Niveau 1)\n    ├── Aide au stationnement/Alarme de marche arrière (Niveau 2)\n    │   └── park distance control/Back-up Alarm [ID: 100618] (Niveau 2) → ProductId: 1770\n    └── Moteur / Relais (Niveau 2)\n        └── Motor/Relay/Switch [ID: 104156] (Niveau 2) → ProductId: 1770\n            └── Aide au stationnement/Alarme de marche arrière (Niveau 4)\n                └── park distance control/Back-up Alarm [ID: 104161] (Niveau 3) → ProductId: 1770",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Équipement intérieur",
+        "Leviers manuels / Leviers de pédale",
+        "Hand/Foot Lever System"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102695
+      ],
+      "finalCategoryId": 102695,
+      "productId": 1767
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Avertisseur sonore / trompette",
+        "Signal Horn/Trumpet Horn"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100320
+      ],
+      "finalCategoryId": 100320,
+      "productId": 1767
+    },
+    {
+      "path": [
+        "Systèmes de confort",
+        "Aide au stationnement/Alarme de marche arrière",
+        "park distance control/Back-up Alarm"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        100618
+      ],
+      "finalCategoryId": 100618,
+      "productId": 1770
+    },
+    {
+      "path": [
+        "Systèmes de confort",
+        "Moteur / Relais",
+        "Motor/Relay/Switch"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        104156
+      ],
+      "finalCategoryId": 104156,
+      "productId": 1770
+    }
+  ],
+  "productIdsInArbo": [
+    1767,
+    1770
+  ],
+  "matchedProductIds": [
+    1767
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "productName": "Kit réparation de câble, générateur",
+  "searchText": "Kit réparation de câble, générateur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:10:03.859Z",
+  "productId": 7304,
+  "arborescence": {
+    "Climatisation": {
+      "categoryId": 100243,
+      "categoryName": "Climatisation",
+      "level": 1,
+      "children": {
+        "Kit de réparation": {
+          "categoryId": null,
+          "categoryName": "Kit de réparation",
+          "level": 2,
+          "children": {
+            "Kit réparation de câble, générateur": {
+              "categoryId": 102922,
+              "categoryName": "Repair Kit",
+              "level": 2,
+              "children": [],
+              "productId": 7304
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Alternateur / composants": {
+          "categoryId": null,
+          "categoryName": "Alternateur / composants",
+          "level": 2,
+          "children": {
+            "Kit réparation de câble, générateur": {
+              "categoryId": 100041,
+              "categoryName": "Alternator/Parts",
+              "level": 2,
+              "children": {
+                "Alternateur": {
+                  "categoryId": null,
+                  "categoryName": "Alternateur",
+                  "level": 4,
+                  "children": {
+                    "Kit réparation de câble, générateur": {
+                      "categoryId": 100350,
+                      "categoryName": "Alternator",
+                      "level": 3,
+                      "children": [],
+                      "productId": 7304
+                    }
+                  }
+                }
+              },
+              "productId": 7304
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Climatisation [ID: 100243] (Niveau 1)\n│   └── Kit de réparation (Niveau 2)\n│       └── Repair Kit [ID: 102922] (Niveau 2) → ProductId: 7304\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Alternateur / composants (Niveau 2)\n        └── Alternator/Parts [ID: 100041] (Niveau 2) → ProductId: 7304\n            └── Alternateur (Niveau 4)\n                └── Alternator [ID: 100350] (Niveau 3) → ProductId: 7304",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Climatisation",
+        "Kit de réparation",
+        "Repair Kit"
+      ],
+      "categoryIds": [
+        100243,
+        null,
+        102922
+      ],
+      "finalCategoryId": 102922,
+      "productId": 7304
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Alternateur / composants",
+        "Alternator/Parts"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100041
+      ],
+      "finalCategoryId": 100041,
+      "productId": 7304
+    }
+  ],
+  "productIdsInArbo": [
+    7304
+  ],
+  "matchedProductIds": [
+    7304
+  ]
+}

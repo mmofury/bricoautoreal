@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "A8E971",
+      "index": "90942308",
+      "tecDoc": "90942308",
+      "tecDocProd": "72",
+      "articleNumber": "90942308",
+      "brand": "HERTH+BUSS ELPARTS",
+      "shortDescription": "Universal pliers",
+      "description": "H + B pliers with wire stripper",
+      "eans": [
+        "4026736079413"
+      ],
+      "packageWeight": "0,305",
+      "packageWidth": "12,200",
+      "packageDepth": "2,600",
+      "packageHeight": "23,900",
+      "customsCode": "82032000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_94118",
+          "primary": false,
+          "name": {
+            "en": "Pliers for handling electrical installations"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_4192",
+          "primary": true,
+          "name": {
+            "en": "Universal pliers"
+          }
+        }
+      ]
+    }
+  ]
+}

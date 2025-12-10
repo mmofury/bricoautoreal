@@ -1,0 +1,58 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.339Z",
+  "manufacturer": "INFINITI (DFAC)",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 4211,
+      "manufacturerName": "INFINITI (DFAC)",
+      "groupKey": "Q50L",
+      "displayName": "Q50L",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13347,
+          "modelName": "Q50L (V37Z)",
+          "modelYearFrom": "2014-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4211,
+      "manufacturerName": "INFINITI (DFAC)",
+      "groupKey": "QX50",
+      "displayName": "QX50",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13958,
+          "modelName": "QX50 (J50Z)",
+          "modelYearFrom": "2015-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38769,
+          "modelName": "QX50 (J55Z)",
+          "modelYearFrom": "2018-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4211,
+      "manufacturerName": "INFINITI (DFAC)",
+      "groupKey": "QX60",
+      "displayName": "QX60",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42712,
+          "modelName": "QX60 (L51Z)",
+          "modelYearFrom": "2022-02-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

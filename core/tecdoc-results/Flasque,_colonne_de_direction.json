@@ -1,0 +1,54 @@
+{
+  "productName": "Flasque, colonne de direction",
+  "searchText": "Flasque, colonne de direction",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:41:01.149Z",
+  "productId": 246,
+  "arborescence": {
+    "Direction": {
+      "categoryId": 100012,
+      "categoryName": "Direction",
+      "level": 1,
+      "children": {
+        "Colonne de direction / arbre": {
+          "categoryId": null,
+          "categoryName": "Colonne de direction / arbre",
+          "level": 2,
+          "children": {
+            "Flasque, colonne de direction": {
+              "categoryId": 100202,
+              "categoryName": "Steering Column",
+              "level": 2,
+              "children": [],
+              "productId": 246
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Direction [ID: 100012] (Niveau 1)\n    └── Colonne de direction / arbre (Niveau 2)\n        └── Steering Column [ID: 100202] (Niveau 2) → ProductId: 246",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Direction",
+        "Colonne de direction / arbre",
+        "Steering Column"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        100202
+      ],
+      "finalCategoryId": 100202,
+      "productId": 246
+    }
+  ],
+  "productIdsInArbo": [
+    246
+  ],
+  "matchedProductIds": [
+    246
+  ]
+}

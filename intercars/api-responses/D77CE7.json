@@ -1,0 +1,50 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "D77CE7",
+      "index": "CO80005005",
+      "tecDoc": "80005005",
+      "tecDocProd": "140",
+      "articleNumber": "80005005",
+      "brand": "CORTECO",
+      "shortDescription": "Vacuum Chamber, transmission control",
+      "description": "Automatic gearbox pressure tank",
+      "gtuCode": "GTU_07",
+      "eans": [
+        "3358960598547"
+      ],
+      "packageWeight": "0,920",
+      "packageWidth": "15,000",
+      "packageDepth": "15,000",
+      "packageHeight": "12,000",
+      "customsCode": "87084099",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3686",
+          "primary": false,
+          "name": {
+            "en": "Pressure accumulator, clutch"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1794",
+          "primary": true,
+          "name": {
+            "en": "Vacuum Chamber, transmission control"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3067",
+          "primary": false,
+          "name": {
+            "en": "Valve Unit, aut. transm. hydraulic unit"
+          }
+        }
+      ]
+    }
+  ]
+}

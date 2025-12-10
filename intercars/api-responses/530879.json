@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "530879",
+      "index": "897 131 060 4",
+      "tecDoc": "8971310604",
+      "tecDocProd": "22",
+      "articleNumber": "8971310604",
+      "brand": "WABCO",
+      "shortDescription": "Membrane, vacuum pump",
+      "description": "WABCO pneumatic element",
+      "gtuCode": "GTU_07",
+      "eans": [
+        "4057875267508"
+      ],
+      "customsCode": "87083099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1008",
+          "primary": true,
+          "name": {
+            "en": "Membrane, vacuum pump"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3289",
+          "primary": false,
+          "name": {
+            "en": "Membrane"
+          }
+        }
+      ]
+    }
+  ]
+}

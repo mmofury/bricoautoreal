@@ -1,0 +1,54 @@
+{
+  "productName": "Joint d'étanchéité, prise de force",
+  "searchText": "Joint d'étanchéité, prise de force",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:53:27.266Z",
+  "productId": 634,
+  "arborescence": {
+    "Prise de force": {
+      "categoryId": 103202,
+      "categoryName": "Prise de force",
+      "level": 1,
+      "children": {
+        "Joints": {
+          "categoryId": null,
+          "categoryName": "Joints",
+          "level": 2,
+          "children": {
+            "Joint d'étanchéité, prise de force": {
+              "categoryId": 103203,
+              "categoryName": "Gaskets",
+              "level": 2,
+              "children": [],
+              "productId": 634
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Prise de force [ID: 103202] (Niveau 1)\n    └── Joints (Niveau 2)\n        └── Gaskets [ID: 103203] (Niveau 2) → ProductId: 634",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Prise de force",
+        "Joints",
+        "Gaskets"
+      ],
+      "categoryIds": [
+        103202,
+        null,
+        103203
+      ],
+      "finalCategoryId": 103203,
+      "productId": 634
+    }
+  ],
+  "productIdsInArbo": [
+    634
+  ],
+  "matchedProductIds": [
+    634
+  ]
+}

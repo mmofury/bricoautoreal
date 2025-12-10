@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.314Z",
+  "manufacturer": "HINDUSTAN",
+  "countGroups": 7,
+  "groups": [
+    {
+      "manufacturerId": 1499,
+      "manufacturerName": "HINDUSTAN",
+      "groupKey": "AMBASSADOR",
+      "displayName": "AMBASSADOR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4268,
+          "modelName": "AMBASSADOR",
+          "modelYearFrom": "1958-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1499,
+      "manufacturerName": "HINDUSTAN",
+      "groupKey": "CONTESSA",
+      "displayName": "CONTESSA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4269,
+          "modelName": "CONTESSA (MJY)",
+          "modelYearFrom": "1984-01-01",
+          "modelYearTo": "2005-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1499,
+      "manufacturerName": "HINDUSTAN",
+      "groupKey": "LANCER",
+      "displayName": "LANCER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6070,
+          "modelName": "LANCER",
+          "modelYearFrom": "2002-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1499,
+      "manufacturerName": "HINDUSTAN",
+      "groupKey": "RTV",
+      "displayName": "RTV",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9684,
+          "modelName": "RTV",
+          "modelYearFrom": "1998-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1499,
+      "manufacturerName": "HINDUSTAN",
+      "groupKey": "TREKKER",
+      "displayName": "TREKKER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7456,
+          "modelName": "TREKKER",
+          "modelYearFrom": "1974-05-01",
+          "modelYearTo": "2016-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1499,
+      "manufacturerName": "HINDUSTAN",
+      "groupKey": "VEER",
+      "displayName": "VEER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10009,
+          "modelName": "VEER Camion plate-forme/Châssis",
+          "modelYearFrom": "2011-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10010,
+          "modelName": "VEER Pick-up",
+          "modelYearFrom": "2011-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1499,
+      "manufacturerName": "HINDUSTAN",
+      "groupKey": "WINNER",
+      "displayName": "WINNER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10011,
+          "modelName": "WINNER Camion plate-forme/Châssis",
+          "modelYearFrom": "2008-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10012,
+          "modelName": "WINNER Fourgon",
+          "modelYearFrom": "2008-12-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

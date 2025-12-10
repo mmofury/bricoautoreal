@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.263Z",
+  "manufacturer": "FARGO",
+  "countGroups": 1,
+  "groups": [
+    {
+      "manufacturerId": 6089,
+      "manufacturerName": "FARGO",
+      "groupKey": "AS",
+      "displayName": "AS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41778,
+          "modelName": "AS 250 Camion plate-forme/Châssis",
+          "modelYearFrom": "2001-01-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 41779,
+          "modelName": "AS 250 Pick-up",
+          "modelYearFrom": "2001-01-01",
+          "modelYearTo": "2007-12-01"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "357865",
+      "index": "HAZ 1849-2",
+      "tecDoc": "1849-2",
+      "tecDocProd": "4808",
+      "articleNumber": "1849-2",
+      "brand": "HAZET",
+      "shortDescription": "Special pliers",
+      "description": "Pliers special for spark plug boot, length: 290mm",
+      "eans": [
+        "4000896007103"
+      ],
+      "packageWeight": "0,340",
+      "packageWidth": "10,000",
+      "packageDepth": "30,000",
+      "packageHeight": "3,000",
+      "customsCode": "82032000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4497",
+          "primary": false,
+          "name": {
+            "en": "Pliers, spark plug socket"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_94119",
+          "primary": true,
+          "name": {
+            "en": "Special pliers"
+          }
+        }
+      ]
+    }
+  ]
+}

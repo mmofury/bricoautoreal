@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.485Z",
+  "manufacturer": "SINOTRUK (CNHTC)",
+  "countGroups": 4,
+  "groups": [
+    {
+      "manufacturerId": 3855,
+      "manufacturerName": "SINOTRUK (CNHTC)",
+      "groupKey": "BOSHENG",
+      "displayName": "BOSHENG",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45980,
+          "modelName": "BOSHENG",
+          "modelYearFrom": "2024-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3855,
+      "manufacturerName": "SINOTRUK (CNHTC)",
+      "groupKey": "HOWO",
+      "displayName": "HOWO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44126,
+          "modelName": "HOWO ZHIXIANG Camion plate-forme/Châssis",
+          "modelYearFrom": "2021-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3855,
+      "manufacturerName": "SINOTRUK (CNHTC)",
+      "groupKey": "TRUMP",
+      "displayName": "TRUMP",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43522,
+          "modelName": "TRUMP CARD W1 Véhicule municipal",
+          "modelYearFrom": "2016-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43523,
+          "modelName": "TRUMP CARD W1 Camion plate-forme/Châssis",
+          "modelYearFrom": "2012-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44130,
+          "modelName": "TRUMP CARD YOUSHI Camion plate-forme/Châssis",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3855,
+      "manufacturerName": "SINOTRUK (CNHTC)",
+      "groupKey": "XIANFENGGUAN",
+      "displayName": "XIANFENGGUAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45962,
+          "modelName": "XIANFENGGUAN V Fourgon",
+          "modelYearFrom": "2024-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45963,
+          "modelName": "XIANFENGGUAN V Autobus/Autocar",
+          "modelYearFrom": "2024-07-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

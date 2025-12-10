@@ -1,0 +1,36 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G17ZK5",
+      "index": "V25-2528",
+      "tecDoc": "V25-2528",
+      "tecDocProd": "162",
+      "articleNumber": "V25-2528",
+      "brand": "VAICO",
+      "shortDescription": "Hub coupling",
+      "description": "Free wheel hubs fits: FORD USA EXCURSION, F-250 SUPER DUTY, F-350 SUPER DUTY 5.4/6.8/7.3D 09.98-12.05",
+      "gtuCode": "GTU_07",
+      "customsCode": "87085099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_60543",
+          "primary": false,
+          "name": {
+            "en": "Repair element, all wheels drive"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_92525",
+          "primary": true,
+          "name": {
+            "en": "Hub coupling"
+          }
+        }
+      ]
+    }
+  ]
+}

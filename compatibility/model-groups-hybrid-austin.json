@@ -1,0 +1,958 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.168Z",
+  "manufacturer": "AUSTIN",
+  "countGroups": 37,
+  "groups": [
+    {
+      "manufacturerId": 6,
+      "manufacturerName": "AUSTIN",
+      "groupKey": "1000",
+      "displayName": "1000",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 83,
+          "modelName": "1000-Series MK II",
+          "modelYearFrom": "1962-10-01",
+          "modelYearTo": "1974-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6,
+      "manufacturerName": "AUSTIN",
+      "groupKey": "1800",
+      "displayName": "1800",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44906,
+          "modelName": "1800 MKI A trois volumes (AD017)",
+          "modelYearFrom": "1965-10-01",
+          "modelYearTo": "1968-09-01"
+        },
+        {
+          "modelId": 44907,
+          "modelName": "1800 MKII A trois volumes (AD017)",
+          "modelYearFrom": "1968-10-01",
+          "modelYearTo": "1972-02-01"
+        },
+        {
+          "modelId": 44908,
+          "modelName": "1800 MKI Pick-up (YD010)",
+          "modelYearFrom": "1967-07-01",
+          "modelYearTo": "1968-09-01"
+        },
+        {
+          "modelId": 44909,
+          "modelName": "1800 MKII Pick-up (YD010)",
+          "modelYearFrom": "1968-10-01",
+          "modelYearTo": "1970-11-01"
+        },
+        {
+          "modelId": 44910,
+          "modelName": "1800 MKI Camion plate-forme/Châssis (YD010)",
+          "modelYearFrom": "1967-07-01",
+          "modelYearTo": "1968-09-01"
+        },
+        {
+          "modelId": 44911,
+          "modelName": "1800 MKII Camion plate-forme/Châssis (YD010)",
+          "modelYearFrom": "1968-10-01",
+          "modelYearTo": "1970-11-01"
+        },
+        {
+          "modelId": 90124,
+          "modelName": "1800 MKIII A trois volumes (AD017)",
+          "modelYearFrom": "1972-03-01",
+          "modelYearTo": "1975-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6,
+      "manufacturerName": "AUSTIN",
+      "groupKey": "250",
+      "displayName": "250",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44986,
+          "modelName": "250 JU Fourgon (JUV)",
+          "modelYearFrom": "1969-01-01",
+          "modelYearTo": "1973-12-01"
+        },
+        {
+          "modelId": 44987,
+          "modelName": "250 JU Autobus/Autocar (JUB)",
+          "modelYearFrom": "1969-01-01",
+          "modelYearTo": "1973-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6,
+      "manufacturerName": "AUSTIN",
+      "groupKey": "A105",
+      "displayName": "A105",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38036,
+          "modelName": "A105 WESTMINSTER (BS7, ADO10)",
+          "modelYearFrom": "1956-01-01",
+          "modelYearTo": "1959-12-01"
+        },
+        {
+          "modelId": 44963,
+          "modelName": "A105 DE LUXE A trois volumes (BS7, ADO10)",
+          "modelYearFrom": "1957-08-01",
+          "modelYearTo": "1959-11-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6,
+      "manufacturerName": "AUSTIN",
+      "groupKey": "A110",
+      "displayName": "A110",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44964,
+          "modelName": "A110 WESTMINSTER A trois volumes (BS10, AD053)",
+          "modelYearFrom": "1961-09-01",
+          "modelYearTo": "1968-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6,
+      "manufacturerName": "AUSTIN",
+      "groupKey": "A125",
+      "displayName": "A125",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44965,
+          "modelName": "A125 SHEERLINE A trois volumes (DS1, DM1)",
+          "modelYearFrom": "1947-01-01",
+          "modelYearTo": "1954-01-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6,
+      "manufacturerName": "AUSTIN",
+      "groupKey": "A135",
+      "displayName": "A135",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44966,
+          "modelName": "A135 PRINCESS MKI A trois volumes (DS2, DM2, DM4)",
+          "modelYearFrom": "1948-02-01",
+          "modelYearTo": "1967-12-01"
+        },
+        {
+          "modelId": 44967,
+          "modelName": "A135 PRINCESS MKII A trois volumes (DS3, DM3)",
+          "modelYearFrom": "1950-10-01",
+          "modelYearTo": "1953-09-01"
+        },
+        {
+          "modelId": 44968,
+          "modelName": "A135 PRINCESS MKIII A trois volumes (DM4, DS5, DM5, DS6)",
+          "modelYearFrom": "1953-10-01",
+          "modelYearTo": "1956-09-01"
+        },
+        {
+          "modelId": 44969,
+          "modelName": "A135 PRINCESS MKIV A trois volumes (DS6, DM4, DS7, DM7)",
+          "modelYearFrom": "1956-10-01",
+          "modelYearTo": "1967-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6,
+      "manufacturerName": "AUSTIN",
+      "groupKey": "A30",
+      "displayName": "A30",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38029,
+          "modelName": "A30 A trois volumes (AS3, A2S4, AS4)",
+          "modelYearFrom": "1951-01-01",
+          "modelYearTo": "1956-12-01"
+        },
+        {
+          "modelId": 44924,
+          "modelName": "A30 Countryman (AP4)",
+          "modelYearFrom": "1954-08-01",
+          "modelYearTo": "1956-10-01"
+        },
+        {
+          "modelId": 44925,
+          "modelName": "A30 Fourgon/Break (AV4)",
+          "modelYearFrom": "1954-08-01",
+          "modelYearTo": "1956-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6,
+      "manufacturerName": "AUSTIN",
+      "groupKey": "A35",
+      "displayName": "A35",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38030,
+          "modelName": "A35 A trois volumes (A2S5, AS5)",
+          "modelYearFrom": "1956-10-01",
+          "modelYearTo": "1959-12-01"
+        },
+        {
+          "modelId": 38032,
+          "modelName": "A35 Fourgon/Break (AV5, AV6, AV8)",
+          "modelYearFrom": "1956-10-01",
+          "modelYearTo": "1968-12-01"
+        },
+        {
+          "modelId": 44926,
+          "modelName": "A35 Countryman (AP5, AP6)",
+          "modelYearFrom": "1956-10-01",
+          "modelYearTo": "1962-12-01"
+        },
+        {
+          "modelId": 44927,
+          "modelName": "A35 Pick-up (AK5)",
+          "modelYearFrom": "1956-10-01",
+          "modelYearTo": "1957-11-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6,
+      "manufacturerName": "AUSTIN",
+      "groupKey": "A40",
+      "displayName": "A40",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44928,
+          "modelName": "A40 DORSET A trois volumes (G2S2)",
+          "modelYearFrom": "1947-10-01",
+          "modelYearTo": "1950-01-01"
+        },
+        {
+          "modelId": 44929,
+          "modelName": "A40 TOURER Décapotable (GS2, GV2)",
+          "modelYearFrom": "1947-10-01",
+          "modelYearTo": "1952-01-01"
+        },
+        {
+          "modelId": 44930,
+          "modelName": "A40 SPORTS Décapotable (GD2, GD3)",
+          "modelYearFrom": "1950-11-01",
+          "modelYearTo": "1953-04-01"
+        },
+        {
+          "modelId": 44931,
+          "modelName": "A40 DEVON A trois volumes (GS2, GS3)",
+          "modelYearFrom": "1947-10-01",
+          "modelYearTo": "1952-01-01"
+        },
+        {
+          "modelId": 44932,
+          "modelName": "A40 DEVON Countryman (GP2, GP4)",
+          "modelYearFrom": "1947-10-01",
+          "modelYearTo": "1956-01-01"
+        },
+        {
+          "modelId": 44933,
+          "modelName": "A40 DEVON Pick-up (AF1, GQU4)",
+          "modelYearFrom": "1947-10-01",
+          "modelYearTo": "1956-01-01"
+        },
+        {
+          "modelId": 44934,
+          "modelName": "A40 DEVON Fourgon/Break (AF1, GV2, GV3, GV4, GV5)",
+          "modelYearFrom": "1947-10-01",
+          "modelYearTo": "1956-01-01"
+        },
+        {
+          "modelId": 44935,
+          "modelName": "A40 SOMERSET A trois volumes (GS4)",
+          "modelYearFrom": "1952-01-01",
+          "modelYearTo": "1954-01-01"
+        },
+        {
+          "modelId": 44936,
+          "modelName": "A40 SOMERSET Décapotable (GS4)",
+          "modelYearFrom": "1952-01-01",
+          "modelYearTo": "1954-01-01"
+        },
+        {
+          "modelId": 44937,
+          "modelName": "A40 FARINA MKI A trois volumes (A2S6, AD08)",
+          "modelYearFrom": "1958-05-01",
+          "modelYearTo": "1961-09-01"
+        },
+        {
+          "modelId": 44938,
+          "modelName": "A40 FARINA MKI Countryman (AW8, AD08)",
+          "modelYearFrom": "1958-05-01",
+          "modelYearTo": "1961-09-01"
+        },
+        {
+          "modelId": 44939,
+          "modelName": "A40 FARINA MKII A trois volumes (A2S8, A2S9, ADO8)",
+          "modelYearFrom": "1961-09-01",
+          "modelYearTo": "1962-07-01"
+        },
+        {
+          "modelId": 44940,
+          "modelName": "A40 FARINA MKII Countryman (AW8, AW9, ADO8)",
+          "modelYearFrom": "1961-09-01",
+          "modelYearTo": "1962-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6,
+      "manufacturerName": "AUSTIN",
+      "groupKey": "A50",
+      "displayName": "A50",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44941,
+          "modelName": "A50 CAMBRIDGE A trois volumes (HS5)",
+          "modelYearFrom": "1953-01-01",
+          "modelYearTo": "1957-12-01"
+        },
+        {
+          "modelId": 44942,
+          "modelName": "A50 CAMBRIDGE Countryman (HP5)",
+          "modelYearFrom": "1953-01-01",
+          "modelYearTo": "1957-12-01"
+        },
+        {
+          "modelId": 44943,
+          "modelName": "A50 CAMBRIDGE Pick-up (AF2)",
+          "modelYearFrom": "1953-01-01",
+          "modelYearTo": "1957-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6,
+      "manufacturerName": "AUSTIN",
+      "groupKey": "A55",
+      "displayName": "A55",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44944,
+          "modelName": "A55 CAMBRIDGE A trois volumes (HS6)",
+          "modelYearFrom": "1957-02-01",
+          "modelYearTo": "1959-12-01"
+        },
+        {
+          "modelId": 44945,
+          "modelName": "A55 CAMBRIDGE Pick-up (AF3)",
+          "modelYearFrom": "1957-02-01",
+          "modelYearTo": "1959-12-01"
+        },
+        {
+          "modelId": 44946,
+          "modelName": "A55 CAMBRIDGE Countryman (HP6)",
+          "modelYearFrom": "1957-02-01",
+          "modelYearTo": "1959-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6,
+      "manufacturerName": "AUSTIN",
+      "groupKey": "A60",
+      "displayName": "A60",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38034,
+          "modelName": "A60 CAMBRIDGE A trois volumes (YAHS8, HS9, AD09)",
+          "modelYearFrom": "1959-08-01",
+          "modelYearTo": "1969-12-01"
+        },
+        {
+          "modelId": 44949,
+          "modelName": "A60 CAMBRIDGE Countryman (YAHW8, AD09)",
+          "modelYearFrom": "1961-01-01",
+          "modelYearTo": "1969-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6,
+      "manufacturerName": "AUSTIN",
+      "groupKey": "A70",
+      "displayName": "A70",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44950,
+          "modelName": "A70 HAMPSHIRE A trois volumes (BS2)",
+          "modelYearFrom": "1948-09-01",
+          "modelYearTo": "1950-08-01"
+        },
+        {
+          "modelId": 44951,
+          "modelName": "A70 HAMPSHIRE Pick-up (BQU2)",
+          "modelYearFrom": "1948-09-01",
+          "modelYearTo": "1950-08-01"
+        },
+        {
+          "modelId": 44952,
+          "modelName": "A70 HAMPSHIRE Break (BW3)",
+          "modelYearFrom": "1948-09-01",
+          "modelYearTo": "1950-08-01"
+        },
+        {
+          "modelId": 44953,
+          "modelName": "A70 HEREFORD A trois volumes (BS3)",
+          "modelYearFrom": "1950-09-01",
+          "modelYearTo": "1952-08-01"
+        },
+        {
+          "modelId": 44954,
+          "modelName": "A70 HEREFORD Décapotable (BD3)",
+          "modelYearFrom": "1951-12-01",
+          "modelYearTo": "1952-08-01"
+        },
+        {
+          "modelId": 44955,
+          "modelName": "A70 HEREFORD Pick-up (BK3)",
+          "modelYearFrom": "1951-06-01",
+          "modelYearTo": "1952-08-01"
+        },
+        {
+          "modelId": 44956,
+          "modelName": "A70 HEREFORD Camion plate-forme/Châssis (BQ3, BQR3)",
+          "modelYearFrom": "1951-06-01",
+          "modelYearTo": "1952-08-01"
+        },
+        {
+          "modelId": 44957,
+          "modelName": "A70 HEREFORD Countryman (BW4)",
+          "modelYearFrom": "1951-05-01",
+          "modelYearTo": "1952-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6,
+      "manufacturerName": "AUSTIN",
+      "groupKey": "A90",
+      "displayName": "A90",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38035,
+          "modelName": "A90 WESTMINSTER A trois volumes (BS4, ADO10)",
+          "modelYearFrom": "1954-01-01",
+          "modelYearTo": "1956-12-01"
+        },
+        {
+          "modelId": 44958,
+          "modelName": "A90 ATLANTIC Coupé (BE2)",
+          "modelYearFrom": "1952-01-01",
+          "modelYearTo": "1952-09-01"
+        },
+        {
+          "modelId": 44959,
+          "modelName": "A90 ATLANTIC Décapotable (BD2)",
+          "modelYearFrom": "1949-02-01",
+          "modelYearTo": "1952-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6,
+      "manufacturerName": "AUSTIN",
+      "groupKey": "A95",
+      "displayName": "A95",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38037,
+          "modelName": "A95 WESTMINSTER (BS6, ADO10)",
+          "modelYearFrom": "1956-01-01",
+          "modelYearTo": "1959-12-01"
+        },
+        {
+          "modelId": 44961,
+          "modelName": "A95 WESTMINSTER Countryman (BW6, ADO10)",
+          "modelYearFrom": "1956-01-01",
+          "modelYearTo": "1959-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6,
+      "manufacturerName": "AUSTIN",
+      "groupKey": "A99",
+      "displayName": "A99",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44962,
+          "modelName": "A99 WESTMINSTER A trois volumes (BS9, AD053)",
+          "modelYearFrom": "1960-04-01",
+          "modelYearTo": "1962-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6,
+      "manufacturerName": "AUSTIN",
+      "groupKey": "ALLEGRO",
+      "displayName": "ALLEGRO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 343,
+          "modelName": "ALLEGRO I Berline bicorps trois ou cinq portes (ADO 67)",
+          "modelYearFrom": "1973-05-01",
+          "modelYearTo": "1983-10-01"
+        },
+        {
+          "modelId": 4360,
+          "modelName": "ALLEGRO I Break (ADO 67)",
+          "modelYearFrom": "1975-01-01",
+          "modelYearTo": "1983-12-01"
+        },
+        {
+          "modelId": 7646,
+          "modelName": "ALLEGRO I A trois volumes",
+          "modelYearFrom": "1973-02-01",
+          "modelYearTo": "1984-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6,
+      "manufacturerName": "AUSTIN",
+      "groupKey": "AMBASSADOR",
+      "displayName": "AMBASSADOR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4361,
+          "modelName": "AMBASSADOR I Fastback",
+          "modelYearFrom": "1982-03-01",
+          "modelYearTo": "1984-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6,
+      "manufacturerName": "AUSTIN",
+      "groupKey": "AMERICA",
+      "displayName": "AMERICA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30253,
+          "modelName": "AMERICA",
+          "modelYearFrom": "1967-09-01",
+          "modelYearTo": "1972-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6,
+      "manufacturerName": "AUSTIN",
+      "groupKey": "APACHE",
+      "displayName": "APACHE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4469,
+          "modelName": "APACHE",
+          "modelYearFrom": "1971-11-01",
+          "modelYearTo": "1974-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6,
+      "manufacturerName": "AUSTIN",
+      "groupKey": "CHAMP",
+      "displayName": "CHAMP",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44988,
+          "modelName": "CHAMP Véhicule tout terrain fermé (WN1, WN2, WN3)",
+          "modelYearFrom": "1951-09-01",
+          "modelYearTo": "1956-05-01"
+        },
+        {
+          "modelId": 44989,
+          "modelName": "CHAMP Véhicule tout terrain à carrosserie ouverte (WN1, WN2,",
+          "modelYearFrom": "1951-09-01",
+          "modelYearTo": "1956-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6,
+      "manufacturerName": "AUSTIN",
+      "groupKey": "FREEWAY",
+      "displayName": "FREEWAY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44970,
+          "modelName": "FREEWAY MKI A trois volumes (ADO40)",
+          "modelYearFrom": "1962-05-01",
+          "modelYearTo": "1964-09-01"
+        },
+        {
+          "modelId": 44971,
+          "modelName": "FREEWAY MKII A trois volumes (YD03)",
+          "modelYearFrom": "1964-10-01",
+          "modelYearTo": "1965-08-01"
+        },
+        {
+          "modelId": 44972,
+          "modelName": "FREEWAY MKI Station Wagon (ADO40)",
+          "modelYearFrom": "1962-05-01",
+          "modelYearTo": "1964-09-01"
+        },
+        {
+          "modelId": 44973,
+          "modelName": "FREEWAY MKII Station Wagon (YD03)",
+          "modelYearFrom": "1964-10-01",
+          "modelYearTo": "1965-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6,
+      "manufacturerName": "AUSTIN",
+      "groupKey": "FX4",
+      "displayName": "FX4",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44974,
+          "modelName": "FX4 A trois volumes (ADO6)",
+          "modelYearFrom": "1958-10-01",
+          "modelYearTo": "1982-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6,
+      "manufacturerName": "AUSTIN",
+      "groupKey": "GIPSY",
+      "displayName": "GIPSY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44975,
+          "modelName": "GIPSY Series I Véhicule tout terrain fermé (G1)",
+          "modelYearFrom": "1958-02-01",
+          "modelYearTo": "1960-03-01"
+        },
+        {
+          "modelId": 44976,
+          "modelName": "GIPSY Series I Véhicule tout terrain à carrosserie ouverte (",
+          "modelYearFrom": "1958-02-01",
+          "modelYearTo": "1960-03-01"
+        },
+        {
+          "modelId": 44977,
+          "modelName": "GIPSY Series II Véhicule tout terrain fermé (G2)",
+          "modelYearFrom": "1960-03-01",
+          "modelYearTo": "1962-10-01"
+        },
+        {
+          "modelId": 44978,
+          "modelName": "GIPSY Series II Véhicule tout terrain à carrosserie ouverte",
+          "modelYearFrom": "1960-03-01",
+          "modelYearTo": "1962-10-01"
+        },
+        {
+          "modelId": 44979,
+          "modelName": "GIPSY Series IV Véhicule tout terrain fermé (G4)",
+          "modelYearFrom": "1962-10-01",
+          "modelYearTo": "1968-12-01"
+        },
+        {
+          "modelId": 44980,
+          "modelName": "GIPSY Series IV Véhicule tout terrain à carrosserie ouverte",
+          "modelYearFrom": "1962-10-01",
+          "modelYearTo": "1968-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6,
+      "manufacturerName": "AUSTIN",
+      "groupKey": "J2",
+      "displayName": "J2",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44981,
+          "modelName": "J2 Autobus/Autocar (J2BA)",
+          "modelYearFrom": "1956-01-01",
+          "modelYearTo": "1967-12-01"
+        },
+        {
+          "modelId": 44982,
+          "modelName": "J2 Pick-up (J2PA)",
+          "modelYearFrom": "1956-01-01",
+          "modelYearTo": "1967-12-01"
+        },
+        {
+          "modelId": 44983,
+          "modelName": "J2 Fourgon (J2VA)",
+          "modelYearFrom": "1956-01-01",
+          "modelYearTo": "1967-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6,
+      "manufacturerName": "AUSTIN",
+      "groupKey": "J4",
+      "displayName": "J4",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44984,
+          "modelName": "J4 Pick-up (J4PA)",
+          "modelYearFrom": "1960-01-01",
+          "modelYearTo": "1974-12-01"
+        },
+        {
+          "modelId": 44985,
+          "modelName": "J4 Fourgon (J4VA)",
+          "modelYearFrom": "1960-01-01",
+          "modelYearTo": "1974-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6,
+      "manufacturerName": "AUSTIN",
+      "groupKey": "KIMBERLEY",
+      "displayName": "KIMBERLEY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39286,
+          "modelName": "KIMBERLEY X6 I (YDO13, YDO19)",
+          "modelYearFrom": "1970-01-01",
+          "modelYearTo": "1972-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6,
+      "manufacturerName": "AUSTIN",
+      "groupKey": "LANCER",
+      "displayName": "LANCER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44947,
+          "modelName": "LANCER MKI A trois volumes (AA46, AA47, DO1101)",
+          "modelYearFrom": "1958-03-01",
+          "modelYearTo": "1959-10-01"
+        },
+        {
+          "modelId": 44948,
+          "modelName": "LANCER MKII A trois volumes (YAHS2, DO1115)",
+          "modelYearFrom": "1959-10-01",
+          "modelYearTo": "1962-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6,
+      "manufacturerName": "AUSTIN",
+      "groupKey": "MAESTRO",
+      "displayName": "MAESTRO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 240,
+          "modelName": "MAESTRO Fastback (XC)",
+          "modelYearFrom": "1983-03-01",
+          "modelYearTo": "1992-09-01"
+        },
+        {
+          "modelId": 42085,
+          "modelName": "MAESTRO Fourgon/Break (XC)",
+          "modelYearFrom": "1983-03-01",
+          "modelYearTo": "1992-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6,
+      "manufacturerName": "AUSTIN",
+      "groupKey": "MARINA",
+      "displayName": "MARINA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30259,
+          "modelName": "MARINA",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1975-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6,
+      "manufacturerName": "AUSTIN",
+      "groupKey": "MAXI",
+      "displayName": "MAXI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 267,
+          "modelName": "MAXI I Fastback",
+          "modelYearFrom": "1969-04-01",
+          "modelYearTo": "1980-10-01"
+        },
+        {
+          "modelId": 4493,
+          "modelName": "MAXI II Fastback",
+          "modelYearFrom": "1980-10-01",
+          "modelYearTo": "1982-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6,
+      "manufacturerName": "AUSTIN",
+      "groupKey": "METRO",
+      "displayName": "METRO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 271,
+          "modelName": "METRO I Fastback (XF)",
+          "modelYearFrom": "1980-10-01",
+          "modelYearTo": "1990-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6,
+      "manufacturerName": "AUSTIN",
+      "groupKey": "MINI",
+      "displayName": "MINI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 276,
+          "modelName": "MINI I",
+          "modelYearFrom": "1958-09-01",
+          "modelYearTo": "1994-06-01"
+        },
+        {
+          "modelId": 11256,
+          "modelName": "MINI Break",
+          "modelYearFrom": "1960-01-01",
+          "modelYearTo": "1981-08-01"
+        },
+        {
+          "modelId": 11257,
+          "modelName": "MINI I Fourgon/Break",
+          "modelYearFrom": "1960-01-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 41775,
+          "modelName": "MINI II",
+          "modelYearFrom": "1967-10-01",
+          "modelYearTo": "1994-06-01"
+        },
+        {
+          "modelId": 42680,
+          "modelName": "MINI Pick-up",
+          "modelYearFrom": "1960-01-01",
+          "modelYearTo": "1983-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6,
+      "manufacturerName": "AUSTIN",
+      "groupKey": "MONTEGO",
+      "displayName": "MONTEGO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 297,
+          "modelName": "MONTEGO (XE)",
+          "modelYearFrom": "1984-04-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 302,
+          "modelName": "MONTEGO Break (XE)",
+          "modelYearFrom": "1984-10-01",
+          "modelYearTo": "1992-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6,
+      "manufacturerName": "AUSTIN",
+      "groupKey": "PRINCESS",
+      "displayName": "PRINCESS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 448,
+          "modelName": "PRINCESS",
+          "modelYearFrom": "1976-04-01",
+          "modelYearTo": "1978-09-01"
+        },
+        {
+          "modelId": 4450,
+          "modelName": "PRINCESS 2",
+          "modelYearFrom": "1978-09-01",
+          "modelYearTo": "1982-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6,
+      "manufacturerName": "AUSTIN",
+      "groupKey": "TASMAN",
+      "displayName": "TASMAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39287,
+          "modelName": "TASMAN X6 I (YDO13, YDO19)",
+          "modelYearFrom": "1970-01-01",
+          "modelYearTo": "1972-12-01"
+        }
+      ]
+    }
+  ]
+}

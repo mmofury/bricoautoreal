@@ -1,0 +1,106 @@
+{
+  "productName": "Capteur, correcteur de portée d’éclairage",
+  "searchText": "Capteur, correcteur de portée d’éclairage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:15:43.866Z",
+  "productId": 7838,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Projecteurs principaux / composants": {
+          "categoryId": null,
+          "categoryName": "Projecteurs principaux / composants",
+          "level": 2,
+          "children": {
+            "Capteur, correcteur de portée d’éclairage": {
+              "categoryId": 100143,
+              "categoryName": "Headlight/Parts",
+              "level": 2,
+              "children": {
+                "Correcteur de portée lumineuse": {
+                  "categoryId": null,
+                  "categoryName": "Correcteur de portée lumineuse",
+                  "level": 4,
+                  "children": {
+                    "Capteur, correcteur de portée d’éclairage": {
+                      "categoryId": 100279,
+                      "categoryName": "Headlight Levelling",
+                      "level": 3,
+                      "children": [],
+                      "productId": 7838
+                    }
+                  }
+                }
+              },
+              "productId": 7838
+            },
+            "Support, capteur (réglage de la portée des phares)": {
+              "categoryId": 100143,
+              "categoryName": "Headlight/Parts",
+              "level": 2,
+              "children": {
+                "Correcteur de portée lumineuse": {
+                  "categoryId": null,
+                  "categoryName": "Correcteur de portée lumineuse",
+                  "level": 4,
+                  "children": {
+                    "Support, capteur (réglage de la portée des phares)": {
+                      "categoryId": 100279,
+                      "categoryName": "Headlight Levelling",
+                      "level": 3,
+                      "children": [],
+                      "productId": 61092
+                    }
+                  }
+                }
+              },
+              "productId": 61092
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Projecteurs principaux / composants (Niveau 2)\n        ├── Headlight/Parts [ID: 100143] (Niveau 2) → ProductId: 7838\n        │   └── Correcteur de portée lumineuse (Niveau 4)\n        │       └── Headlight Levelling [ID: 100279] (Niveau 3) → ProductId: 7838\n        └── Headlight/Parts [ID: 100143] (Niveau 2) → ProductId: 61092\n            └── Correcteur de portée lumineuse (Niveau 4)\n                └── Headlight Levelling [ID: 100279] (Niveau 3) → ProductId: 61092",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Projecteurs principaux / composants",
+        "Headlight/Parts"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100143
+      ],
+      "finalCategoryId": 100143,
+      "productId": 7838
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Projecteurs principaux / composants",
+        "Headlight/Parts"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100143
+      ],
+      "finalCategoryId": 100143,
+      "productId": 61092
+    }
+  ],
+  "productIdsInArbo": [
+    7838,
+    61092
+  ],
+  "matchedProductIds": [
+    7838
+  ]
+}

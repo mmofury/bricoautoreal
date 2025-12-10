@@ -1,0 +1,177 @@
+{
+  "productName": "Joint d'étanchéité, projecteur principal",
+  "searchText": "Joint d'étanchéité, projecteur principal",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:53:29.385Z",
+  "productId": 1099,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Avant du véhicule": {
+          "categoryId": null,
+          "categoryName": "Avant du véhicule",
+          "level": 2,
+          "children": {
+            "Joint d'étanchéité, projecteur principal": {
+              "categoryId": 101648,
+              "categoryName": "Vehicle Front",
+              "level": 2,
+              "children": {
+                "Projecteurs principaux / composants": {
+                  "categoryId": null,
+                  "categoryName": "Projecteurs principaux / composants",
+                  "level": 4,
+                  "children": {
+                    "Joint d'étanchéité, projecteur principal": {
+                      "categoryId": 101656,
+                      "categoryName": "Headlight/Parts",
+                      "level": 3,
+                      "children": {
+                        "Composants des projecteurs principaux": {
+                          "categoryId": null,
+                          "categoryName": "Composants des projecteurs principaux",
+                          "level": 6,
+                          "children": {
+                            "Joint d'étanchéité, projecteur principal": {
+                              "categoryId": 101659,
+                              "categoryName": "Headlight Parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 1099
+                            }
+                          }
+                        }
+                      },
+                      "productId": 1099
+                    }
+                  }
+                }
+              },
+              "productId": 1099
+            }
+          }
+        },
+        "Projecteurs principaux / composants": {
+          "categoryId": null,
+          "categoryName": "Projecteurs principaux / composants",
+          "level": 2,
+          "children": {
+            "Joint d'étanchéité, projecteur principal": {
+              "categoryId": 101465,
+              "categoryName": "Headlight/Parts",
+              "level": 2,
+              "children": {
+                "Composants des projecteurs principaux": {
+                  "categoryId": null,
+                  "categoryName": "Composants des projecteurs principaux",
+                  "level": 4,
+                  "children": {
+                    "Joint d'étanchéité, projecteur principal": {
+                      "categoryId": 101468,
+                      "categoryName": "Headlight Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1099
+                    }
+                  }
+                }
+              },
+              "productId": 1099
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Projecteurs principaux / composants": {
+          "categoryId": null,
+          "categoryName": "Projecteurs principaux / composants",
+          "level": 2,
+          "children": {
+            "Joint d'étanchéité, projecteur principal": {
+              "categoryId": 100143,
+              "categoryName": "Headlight/Parts",
+              "level": 2,
+              "children": {
+                "Composants des projecteurs principaux": {
+                  "categoryId": null,
+                  "categoryName": "Composants des projecteurs principaux",
+                  "level": 4,
+                  "children": {
+                    "Joint d'étanchéité, projecteur principal": {
+                      "categoryId": 100430,
+                      "categoryName": "Headlight Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1099
+                    }
+                  }
+                }
+              },
+              "productId": 1099
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carrosserie [ID: 100001] (Niveau 1)\n│   ├── Avant du véhicule (Niveau 2)\n│   │   └── Vehicle Front [ID: 101648] (Niveau 2) → ProductId: 1099\n│   │       └── Projecteurs principaux / composants (Niveau 4)\n│   │           └── Headlight/Parts [ID: 101656] (Niveau 3) → ProductId: 1099\n│   │               └── Composants des projecteurs principaux (Niveau 6)\n│   │                   └── Headlight Parts [ID: 101659] (Niveau 4) → ProductId: 1099\n│   └── Projecteurs principaux / composants (Niveau 2)\n│       └── Headlight/Parts [ID: 101465] (Niveau 2) → ProductId: 1099\n│           └── Composants des projecteurs principaux (Niveau 4)\n│               └── Headlight Parts [ID: 101468] (Niveau 3) → ProductId: 1099\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Projecteurs principaux / composants (Niveau 2)\n        └── Headlight/Parts [ID: 100143] (Niveau 2) → ProductId: 1099\n            └── Composants des projecteurs principaux (Niveau 4)\n                └── Headlight Parts [ID: 100430] (Niveau 3) → ProductId: 1099",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Avant du véhicule",
+        "Vehicle Front"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101648
+      ],
+      "finalCategoryId": 101648,
+      "productId": 1099
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Projecteurs principaux / composants",
+        "Headlight/Parts"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101465
+      ],
+      "finalCategoryId": 101465,
+      "productId": 1099
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Projecteurs principaux / composants",
+        "Headlight/Parts"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100143
+      ],
+      "finalCategoryId": 100143,
+      "productId": 1099
+    }
+  ],
+  "productIdsInArbo": [
+    1099
+  ],
+  "matchedProductIds": [
+    1099
+  ]
+}

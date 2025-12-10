@@ -1,0 +1,54 @@
+{
+  "productName": "Récupérateur d'huile, différentiel",
+  "searchText": "Récupérateur d'huile, différentiel",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:13:15.647Z",
+  "productId": 5121,
+  "arborescence": {
+    "Entraînement des essieux": {
+      "categoryId": 100400,
+      "categoryName": "Entraînement des essieux",
+      "level": 1,
+      "children": {
+        "Différentiel": {
+          "categoryId": null,
+          "categoryName": "Différentiel",
+          "level": 2,
+          "children": {
+            "Récupérateur d'huile, différentiel": {
+              "categoryId": 100415,
+              "categoryName": "Differential",
+              "level": 2,
+              "children": [],
+              "productId": 5121
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement des essieux [ID: 100400] (Niveau 1)\n    └── Différentiel (Niveau 2)\n        └── Differential [ID: 100415] (Niveau 2) → ProductId: 5121",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des essieux",
+        "Différentiel",
+        "Differential"
+      ],
+      "categoryIds": [
+        100400,
+        null,
+        100415
+      ],
+      "finalCategoryId": 100415,
+      "productId": 5121
+    }
+  ],
+  "productIdsInArbo": [
+    5121
+  ],
+  "matchedProductIds": [
+    5121
+  ]
+}

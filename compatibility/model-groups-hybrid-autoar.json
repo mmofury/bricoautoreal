@@ -1,0 +1,22 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.170Z",
+  "manufacturer": "AUTOAR",
+  "countGroups": 1,
+  "groups": [
+    {
+      "manufacturerId": 4600,
+      "manufacturerName": "AUTOAR",
+      "groupKey": "SEDAN",
+      "displayName": "SEDAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45870,
+          "modelName": "SEDAN",
+          "modelYearFrom": "1950-01-01",
+          "modelYearTo": "1953-12-01"
+        }
+      ]
+    }
+  ]
+}

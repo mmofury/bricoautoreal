@@ -1,0 +1,84 @@
+{
+  "productName": "Kit réparation de câble, feu antibrouillard",
+  "searchText": "Kit réparation de câble, feu antibrouillard",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:09:49.917Z",
+  "productId": 8003,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Phares supplémentaires/composants": {
+          "categoryId": null,
+          "categoryName": "Phares supplémentaires/composants",
+          "level": 2,
+          "children": {
+            "Kit réparation de câble, feu antibrouillard": {
+              "categoryId": 100787,
+              "categoryName": "Additional Headlight/Parts",
+              "level": 2,
+              "children": {
+                "Projecteur antibrouillard/ composants": {
+                  "categoryId": null,
+                  "categoryName": "Projecteur antibrouillard/ composants",
+                  "level": 4,
+                  "children": {
+                    "Kit réparation de câble, feu antibrouillard": {
+                      "categoryId": 100277,
+                      "categoryName": "Front Fog Light/Parts",
+                      "level": 3,
+                      "children": {
+                        "Composants pour projecteur antibrouillard": {
+                          "categoryId": null,
+                          "categoryName": "Composants pour projecteur antibrouillard",
+                          "level": 6,
+                          "children": {
+                            "Kit réparation de câble, feu antibrouillard": {
+                              "categoryId": 100444,
+                              "categoryName": "Fog Light Parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 8003
+                            }
+                          }
+                        }
+                      },
+                      "productId": 8003
+                    }
+                  }
+                }
+              },
+              "productId": 8003
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Phares supplémentaires/composants (Niveau 2)\n        └── Additional Headlight/Parts [ID: 100787] (Niveau 2) → ProductId: 8003\n            └── Projecteur antibrouillard/ composants (Niveau 4)\n                └── Front Fog Light/Parts [ID: 100277] (Niveau 3) → ProductId: 8003\n                    └── Composants pour projecteur antibrouillard (Niveau 6)\n                        └── Fog Light Parts [ID: 100444] (Niveau 4) → ProductId: 8003",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Phares supplémentaires/composants",
+        "Additional Headlight/Parts"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100787
+      ],
+      "finalCategoryId": 100787,
+      "productId": 8003
+    }
+  ],
+  "productIdsInArbo": [
+    8003
+  ],
+  "matchedProductIds": [
+    8003
+  ]
+}

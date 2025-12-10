@@ -1,0 +1,67 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.336Z",
+  "manufacturer": "IM MOTORS",
+  "countGroups": 4,
+  "groups": [
+    {
+      "manufacturerId": 6514,
+      "manufacturerName": "IM MOTORS",
+      "groupKey": "L6",
+      "displayName": "L6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45581,
+          "modelName": "L6",
+          "modelYearFrom": "2024-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6514,
+      "manufacturerName": "IM MOTORS",
+      "groupKey": "L7",
+      "displayName": "L7",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42851,
+          "modelName": "L7",
+          "modelYearFrom": "2022-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6514,
+      "manufacturerName": "IM MOTORS",
+      "groupKey": "LS6",
+      "displayName": "LS6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44848,
+          "modelName": "LS6",
+          "modelYearFrom": "2023-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6514,
+      "manufacturerName": "IM MOTORS",
+      "groupKey": "LS7",
+      "displayName": "LS7",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44042,
+          "modelName": "LS7",
+          "modelYearFrom": "2023-02-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

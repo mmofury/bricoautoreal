@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.270Z",
+  "manufacturer": "FIAT (GAC)",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 3761,
+      "manufacturerName": "FIAT (GAC)",
+      "groupKey": "OTTIMO",
+      "displayName": "OTTIMO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14295,
+          "modelName": "OTTIMO",
+          "modelYearFrom": "2014-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3761,
+      "manufacturerName": "FIAT (GAC)",
+      "groupKey": "VIAGGIO",
+      "displayName": "VIAGGIO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10853,
+          "modelName": "VIAGGIO",
+          "modelYearFrom": "2012-06-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

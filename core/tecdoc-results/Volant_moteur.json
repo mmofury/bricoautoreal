@@ -1,0 +1,715 @@
+{
+  "productName": "Volant moteur",
+  "searchText": "Volant moteur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:35:46.092Z",
+  "productId": 577,
+  "arborescence": {
+    "Embrayage / composants": {
+      "categoryId": 100050,
+      "categoryName": "Embrayage / composants",
+      "level": 1,
+      "children": {
+        "Kit adaptateur pour embrayage": {
+          "categoryId": null,
+          "categoryName": "Kit adaptateur pour embrayage",
+          "level": 2,
+          "children": {
+            "Kit adaptateur, embrayage": {
+              "categoryId": 104718,
+              "categoryName": "Clutch Conversion Kit",
+              "level": 2,
+              "children": [],
+              "productId": 5030
+            }
+          }
+        },
+        "Kit d'embrayage": {
+          "categoryId": null,
+          "categoryName": "Kit d'embrayage",
+          "level": 2,
+          "children": {
+            "Kit adaptateur, embrayage": {
+              "categoryId": 100051,
+              "categoryName": "Clutch Kit",
+              "level": 2,
+              "children": [],
+              "productId": 5030
+            }
+          }
+        },
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Kit de montage, embrayage/volant moteur": {
+              "categoryId": 103156,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 7213
+            }
+          }
+        },
+        "Volant-moteur": {
+          "categoryId": null,
+          "categoryName": "Volant-moteur",
+          "level": 2,
+          "children": {
+            "Amortisseur de torsion, volant moteur": {
+              "categoryId": 100057,
+              "categoryName": "Flywheel",
+              "level": 2,
+              "children": [],
+              "productId": 4920
+            },
+            "Couronne dentée, volant moteur": {
+              "categoryId": 100057,
+              "categoryName": "Flywheel",
+              "level": 2,
+              "children": [],
+              "productId": 578
+            },
+            "Disque d’équilibrage, volant moteur": {
+              "categoryId": 100057,
+              "categoryName": "Flywheel",
+              "level": 2,
+              "children": [],
+              "productId": 9093
+            },
+            "Kit adaptateur, embrayage": {
+              "categoryId": 100057,
+              "categoryName": "Flywheel",
+              "level": 2,
+              "children": [],
+              "productId": 5030
+            },
+            "Visserie, volant moteur": {
+              "categoryId": 100057,
+              "categoryName": "Flywheel",
+              "level": 2,
+              "children": [],
+              "productId": 3985
+            },
+            "Volant moteur": {
+              "categoryId": 100057,
+              "categoryName": "Flywheel",
+              "level": 2,
+              "children": [],
+              "productId": 577
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Kit d'outils de réglage, épure de distribution": {
+              "categoryId": 103129,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4463
+            },
+            "Mandrin d'arrêt, volant moteur": {
+              "categoryId": 103129,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4512
+            }
+          }
+        },
+        "Système bielle-manivelle": {
+          "categoryId": null,
+          "categoryName": "Système bielle-manivelle",
+          "level": 2,
+          "children": {
+            "Amortisseur de torsion, volant moteur": {
+              "categoryId": 100515,
+              "categoryName": "Crankshaft Drive",
+              "level": 2,
+              "children": {
+                "Volant-moteur": {
+                  "categoryId": null,
+                  "categoryName": "Volant-moteur",
+                  "level": 4,
+                  "children": {
+                    "Amortisseur de torsion, volant moteur": {
+                      "categoryId": 100518,
+                      "categoryName": "Flywheel",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4920
+                    }
+                  }
+                }
+              },
+              "productId": 4920
+            },
+            "Couronne dentée, volant moteur": {
+              "categoryId": 100515,
+              "categoryName": "Crankshaft Drive",
+              "level": 2,
+              "children": {
+                "Volant-moteur": {
+                  "categoryId": null,
+                  "categoryName": "Volant-moteur",
+                  "level": 4,
+                  "children": {
+                    "Couronne dentée, volant moteur": {
+                      "categoryId": 100518,
+                      "categoryName": "Flywheel",
+                      "level": 3,
+                      "children": [],
+                      "productId": 578
+                    }
+                  }
+                }
+              },
+              "productId": 578
+            },
+            "Disque d’équilibrage, volant moteur": {
+              "categoryId": 100515,
+              "categoryName": "Crankshaft Drive",
+              "level": 2,
+              "children": {
+                "Volant-moteur": {
+                  "categoryId": null,
+                  "categoryName": "Volant-moteur",
+                  "level": 4,
+                  "children": {
+                    "Disque d’équilibrage, volant moteur": {
+                      "categoryId": 100518,
+                      "categoryName": "Flywheel",
+                      "level": 3,
+                      "children": [],
+                      "productId": 9093
+                    }
+                  }
+                }
+              },
+              "productId": 9093
+            },
+            "Joint d'étanchéité, volant moteur": {
+              "categoryId": 100515,
+              "categoryName": "Crankshaft Drive",
+              "level": 2,
+              "children": {
+                "Volant-moteur": {
+                  "categoryId": null,
+                  "categoryName": "Volant-moteur",
+                  "level": 4,
+                  "children": {
+                    "Joint d'étanchéité, volant moteur": {
+                      "categoryId": 100518,
+                      "categoryName": "Flywheel",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1680
+                    }
+                  }
+                }
+              },
+              "productId": 1680
+            },
+            "Kit adaptateur, embrayage": {
+              "categoryId": 100515,
+              "categoryName": "Crankshaft Drive",
+              "level": 2,
+              "children": {
+                "Volant-moteur": {
+                  "categoryId": null,
+                  "categoryName": "Volant-moteur",
+                  "level": 4,
+                  "children": {
+                    "Kit adaptateur, embrayage": {
+                      "categoryId": 100518,
+                      "categoryName": "Flywheel",
+                      "level": 3,
+                      "children": [],
+                      "productId": 5030
+                    }
+                  }
+                }
+              },
+              "productId": 5030
+            },
+            "Kit de réparation/volant moteur": {
+              "categoryId": 100515,
+              "categoryName": "Crankshaft Drive",
+              "level": 2,
+              "children": {
+                "Volant-moteur": {
+                  "categoryId": null,
+                  "categoryName": "Volant-moteur",
+                  "level": 4,
+                  "children": {
+                    "Kit de réparation/volant moteur": {
+                      "categoryId": 100518,
+                      "categoryName": "Flywheel",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2728
+                    }
+                  }
+                }
+              },
+              "productId": 2728
+            },
+            "Outil d'arrêt, volant moteur": {
+              "categoryId": 100515,
+              "categoryName": "Crankshaft Drive",
+              "level": 2,
+              "children": {
+                "Outils": {
+                  "categoryId": null,
+                  "categoryName": "Outils",
+                  "level": 4,
+                  "children": {
+                    "Outil d'arrêt, volant moteur": {
+                      "categoryId": 706358,
+                      "categoryName": "Tools",
+                      "level": 3,
+                      "children": [],
+                      "productId": 9536
+                    }
+                  }
+                }
+              },
+              "productId": 9536
+            },
+            "Vis au support du pignon pour volant moteur": {
+              "categoryId": 100515,
+              "categoryName": "Crankshaft Drive",
+              "level": 2,
+              "children": {
+                "Volant-moteur": {
+                  "categoryId": null,
+                  "categoryName": "Volant-moteur",
+                  "level": 4,
+                  "children": {
+                    "Vis au support du pignon pour volant moteur": {
+                      "categoryId": 100518,
+                      "categoryName": "Flywheel",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3217
+                    }
+                  }
+                }
+              },
+              "productId": 3217
+            },
+            "Vis de volant moteur": {
+              "categoryId": 100515,
+              "categoryName": "Crankshaft Drive",
+              "level": 2,
+              "children": {
+                "Volant-moteur": {
+                  "categoryId": null,
+                  "categoryName": "Volant-moteur",
+                  "level": 4,
+                  "children": {
+                    "Vis de volant moteur": {
+                      "categoryId": 100518,
+                      "categoryName": "Flywheel",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1627
+                    }
+                  }
+                }
+              },
+              "productId": 1627
+            },
+            "Visserie, volant moteur": {
+              "categoryId": 100515,
+              "categoryName": "Crankshaft Drive",
+              "level": 2,
+              "children": {
+                "Volant-moteur": {
+                  "categoryId": null,
+                  "categoryName": "Volant-moteur",
+                  "level": 4,
+                  "children": {
+                    "Visserie, volant moteur": {
+                      "categoryId": 100518,
+                      "categoryName": "Flywheel",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3985
+                    }
+                  }
+                }
+              },
+              "productId": 3985
+            },
+            "Volant moteur": {
+              "categoryId": 100515,
+              "categoryName": "Crankshaft Drive",
+              "level": 2,
+              "children": {
+                "Volant-moteur": {
+                  "categoryId": null,
+                  "categoryName": "Volant-moteur",
+                  "level": 4,
+                  "children": {
+                    "Volant moteur": {
+                      "categoryId": 100518,
+                      "categoryName": "Flywheel",
+                      "level": 3,
+                      "children": [],
+                      "productId": 577
+                    }
+                  }
+                }
+              },
+              "productId": 577
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Embrayage / composants [ID: 100050] (Niveau 1)\n│   ├── Kit adaptateur pour embrayage (Niveau 2)\n│   │   └── Clutch Conversion Kit [ID: 104718] (Niveau 2) → ProductId: 5030\n│   ├── Kit d'embrayage (Niveau 2)\n│   │   └── Clutch Kit [ID: 100051] (Niveau 2) → ProductId: 5030\n│   ├── Outils (Niveau 2)\n│   │   └── Tools [ID: 103156] (Niveau 2) → ProductId: 7213\n│   └── Volant-moteur (Niveau 2)\n│       ├── Flywheel [ID: 100057] (Niveau 2) → ProductId: 4920\n│       ├── Flywheel [ID: 100057] (Niveau 2) → ProductId: 578\n│       ├── Flywheel [ID: 100057] (Niveau 2) → ProductId: 9093\n│       ├── Flywheel [ID: 100057] (Niveau 2) → ProductId: 5030\n│       ├── Flywheel [ID: 100057] (Niveau 2) → ProductId: 3985\n│       └── Flywheel [ID: 100057] (Niveau 2) → ProductId: 577\n\n└── Moteur [ID: 100002] (Niveau 1)\n    ├── Outils (Niveau 2)\n    │   ├── Tools [ID: 103129] (Niveau 2) → ProductId: 4463\n    │   └── Tools [ID: 103129] (Niveau 2) → ProductId: 4512\n    └── Système bielle-manivelle (Niveau 2)\n        ├── Crankshaft Drive [ID: 100515] (Niveau 2) → ProductId: 4920\n        │   └── Volant-moteur (Niveau 4)\n        │       └── Flywheel [ID: 100518] (Niveau 3) → ProductId: 4920\n        ├── Crankshaft Drive [ID: 100515] (Niveau 2) → ProductId: 578\n        │   └── Volant-moteur (Niveau 4)\n        │       └── Flywheel [ID: 100518] (Niveau 3) → ProductId: 578\n        ├── Crankshaft Drive [ID: 100515] (Niveau 2) → ProductId: 9093\n        │   └── Volant-moteur (Niveau 4)\n        │       └── Flywheel [ID: 100518] (Niveau 3) → ProductId: 9093\n        ├── Crankshaft Drive [ID: 100515] (Niveau 2) → ProductId: 1680\n        │   └── Volant-moteur (Niveau 4)\n        │       └── Flywheel [ID: 100518] (Niveau 3) → ProductId: 1680\n        ├── Crankshaft Drive [ID: 100515] (Niveau 2) → ProductId: 5030\n        │   └── Volant-moteur (Niveau 4)\n        │       └── Flywheel [ID: 100518] (Niveau 3) → ProductId: 5030\n        ├── Crankshaft Drive [ID: 100515] (Niveau 2) → ProductId: 2728\n        │   └── Volant-moteur (Niveau 4)\n        │       └── Flywheel [ID: 100518] (Niveau 3) → ProductId: 2728\n        ├── Crankshaft Drive [ID: 100515] (Niveau 2) → ProductId: 9536\n        │   └── Outils (Niveau 4)\n        │       └── Tools [ID: 706358] (Niveau 3) → ProductId: 9536\n        ├── Crankshaft Drive [ID: 100515] (Niveau 2) → ProductId: 3217\n        │   └── Volant-moteur (Niveau 4)\n        │       └── Flywheel [ID: 100518] (Niveau 3) → ProductId: 3217\n        ├── Crankshaft Drive [ID: 100515] (Niveau 2) → ProductId: 1627\n        │   └── Volant-moteur (Niveau 4)\n        │       └── Flywheel [ID: 100518] (Niveau 3) → ProductId: 1627\n        ├── Crankshaft Drive [ID: 100515] (Niveau 2) → ProductId: 3985\n        │   └── Volant-moteur (Niveau 4)\n        │       └── Flywheel [ID: 100518] (Niveau 3) → ProductId: 3985\n        └── Crankshaft Drive [ID: 100515] (Niveau 2) → ProductId: 577\n            └── Volant-moteur (Niveau 4)\n                └── Flywheel [ID: 100518] (Niveau 3) → ProductId: 577",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Embrayage / composants",
+        "Kit adaptateur pour embrayage",
+        "Clutch Conversion Kit"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        104718
+      ],
+      "finalCategoryId": 104718,
+      "productId": 5030
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Kit d'embrayage",
+        "Clutch Kit"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100051
+      ],
+      "finalCategoryId": 100051,
+      "productId": 5030
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        103156
+      ],
+      "finalCategoryId": 103156,
+      "productId": 7213
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Volant-moteur",
+        "Flywheel"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100057
+      ],
+      "finalCategoryId": 100057,
+      "productId": 4920
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Volant-moteur",
+        "Flywheel"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100057
+      ],
+      "finalCategoryId": 100057,
+      "productId": 578
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Volant-moteur",
+        "Flywheel"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100057
+      ],
+      "finalCategoryId": 100057,
+      "productId": 9093
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Volant-moteur",
+        "Flywheel"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100057
+      ],
+      "finalCategoryId": 100057,
+      "productId": 5030
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Volant-moteur",
+        "Flywheel"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100057
+      ],
+      "finalCategoryId": 100057,
+      "productId": 3985
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Volant-moteur",
+        "Flywheel"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100057
+      ],
+      "finalCategoryId": 100057,
+      "productId": 577
+    },
+    {
+      "path": [
+        "Moteur",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        103129
+      ],
+      "finalCategoryId": 103129,
+      "productId": 4463
+    },
+    {
+      "path": [
+        "Moteur",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        103129
+      ],
+      "finalCategoryId": 103129,
+      "productId": 4512
+    },
+    {
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Crankshaft Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100515
+      ],
+      "finalCategoryId": 100515,
+      "productId": 4920
+    },
+    {
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Crankshaft Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100515
+      ],
+      "finalCategoryId": 100515,
+      "productId": 578
+    },
+    {
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Crankshaft Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100515
+      ],
+      "finalCategoryId": 100515,
+      "productId": 9093
+    },
+    {
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Crankshaft Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100515
+      ],
+      "finalCategoryId": 100515,
+      "productId": 1680
+    },
+    {
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Crankshaft Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100515
+      ],
+      "finalCategoryId": 100515,
+      "productId": 5030
+    },
+    {
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Crankshaft Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100515
+      ],
+      "finalCategoryId": 100515,
+      "productId": 2728
+    },
+    {
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Crankshaft Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100515
+      ],
+      "finalCategoryId": 100515,
+      "productId": 9536
+    },
+    {
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Crankshaft Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100515
+      ],
+      "finalCategoryId": 100515,
+      "productId": 3217
+    },
+    {
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Crankshaft Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100515
+      ],
+      "finalCategoryId": 100515,
+      "productId": 1627
+    },
+    {
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Crankshaft Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100515
+      ],
+      "finalCategoryId": 100515,
+      "productId": 3985
+    },
+    {
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Crankshaft Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100515
+      ],
+      "finalCategoryId": 100515,
+      "productId": 577
+    }
+  ],
+  "productIdsInArbo": [
+    577,
+    578,
+    1627,
+    1680,
+    2728,
+    3217,
+    3985,
+    4463,
+    4512,
+    4920,
+    5030,
+    7213,
+    9093,
+    9536
+  ],
+  "matchedProductIds": [
+    577
+  ]
+}

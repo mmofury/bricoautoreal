@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "F4EFF5",
+      "index": "FE40529",
+      "tecDoc": "40529",
+      "tecDocProd": "101",
+      "articleNumber": "40529",
+      "brand": "FEBI",
+      "shortDescription": "Relay, spotlight",
+      "description": "Relay (24V, low beam lights) fits: SCANIA 4, 4 BUS 05.95-04.08",
+      "eans": [
+        "4027816405290"
+      ],
+      "packageWeight": "0,100",
+      "packageWidth": "8,000",
+      "packageDepth": "8,000",
+      "packageHeight": "5,500",
+      "customsCode": "90328900",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1287",
+          "primary": true,
+          "name": {
+            "en": "Relay, spotlight"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1532",
+          "primary": false,
+          "name": {
+            "en": "Relay, low beam"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "productName": "Tringlerie d'essuie-glace",
+  "searchText": "Tringlerie d'essuie-glace",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:27:29.711Z",
+  "productId": 300,
+  "arborescence": {
+    "Nettoyage des vitres": {
+      "categoryId": 100018,
+      "categoryName": "Nettoyage des vitres",
+      "level": 1,
+      "children": {
+        "Moteur d'essuie-glace": {
+          "categoryId": null,
+          "categoryName": "Moteur d'essuie-glace",
+          "level": 2,
+          "children": {
+            "Tringlerie d'essuie-glace": {
+              "categoryId": 100134,
+              "categoryName": "Wiper Motor",
+              "level": 2,
+              "children": [],
+              "productId": 300
+            }
+          }
+        },
+        "Tringlerie d'essuie-glace / commande": {
+          "categoryId": null,
+          "categoryName": "Tringlerie d'essuie-glace / commande",
+          "level": 2,
+          "children": {
+            "Bras conducteur, nettoyage des vitres": {
+              "categoryId": 100137,
+              "categoryName": "Wiper Linkage/Drive",
+              "level": 2,
+              "children": [],
+              "productId": 209
+            },
+            "Commande d'essuie-glace, nettoyage des vitres": {
+              "categoryId": 100137,
+              "categoryName": "Wiper Linkage/Drive",
+              "level": 2,
+              "children": [],
+              "productId": 242
+            },
+            "Joint-soufflet, tringlerie d'essuie-glace": {
+              "categoryId": 100137,
+              "categoryName": "Wiper Linkage/Drive",
+              "level": 2,
+              "children": [],
+              "productId": 841
+            },
+            "Tige du moteur, essuies glaces": {
+              "categoryId": 100137,
+              "categoryName": "Wiper Linkage/Drive",
+              "level": 2,
+              "children": [],
+              "productId": 3857
+            },
+            "Tringlerie d'essuie-glace": {
+              "categoryId": 100137,
+              "categoryName": "Wiper Linkage/Drive",
+              "level": 2,
+              "children": [],
+              "productId": 300
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Nettoyage des vitres [ID: 100018] (Niveau 1)\n    ├── Moteur d'essuie-glace (Niveau 2)\n    │   └── Wiper Motor [ID: 100134] (Niveau 2) → ProductId: 300\n    └── Tringlerie d'essuie-glace / commande (Niveau 2)\n        ├── Wiper Linkage/Drive [ID: 100137] (Niveau 2) → ProductId: 209\n        ├── Wiper Linkage/Drive [ID: 100137] (Niveau 2) → ProductId: 242\n        ├── Wiper Linkage/Drive [ID: 100137] (Niveau 2) → ProductId: 841\n        ├── Wiper Linkage/Drive [ID: 100137] (Niveau 2) → ProductId: 3857\n        └── Wiper Linkage/Drive [ID: 100137] (Niveau 2) → ProductId: 300",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Nettoyage des vitres",
+        "Moteur d'essuie-glace",
+        "Wiper Motor"
+      ],
+      "categoryIds": [
+        100018,
+        null,
+        100134
+      ],
+      "finalCategoryId": 100134,
+      "productId": 300
+    },
+    {
+      "path": [
+        "Nettoyage des vitres",
+        "Tringlerie d'essuie-glace / commande",
+        "Wiper Linkage/Drive"
+      ],
+      "categoryIds": [
+        100018,
+        null,
+        100137
+      ],
+      "finalCategoryId": 100137,
+      "productId": 209
+    },
+    {
+      "path": [
+        "Nettoyage des vitres",
+        "Tringlerie d'essuie-glace / commande",
+        "Wiper Linkage/Drive"
+      ],
+      "categoryIds": [
+        100018,
+        null,
+        100137
+      ],
+      "finalCategoryId": 100137,
+      "productId": 242
+    },
+    {
+      "path": [
+        "Nettoyage des vitres",
+        "Tringlerie d'essuie-glace / commande",
+        "Wiper Linkage/Drive"
+      ],
+      "categoryIds": [
+        100018,
+        null,
+        100137
+      ],
+      "finalCategoryId": 100137,
+      "productId": 841
+    },
+    {
+      "path": [
+        "Nettoyage des vitres",
+        "Tringlerie d'essuie-glace / commande",
+        "Wiper Linkage/Drive"
+      ],
+      "categoryIds": [
+        100018,
+        null,
+        100137
+      ],
+      "finalCategoryId": 100137,
+      "productId": 3857
+    },
+    {
+      "path": [
+        "Nettoyage des vitres",
+        "Tringlerie d'essuie-glace / commande",
+        "Wiper Linkage/Drive"
+      ],
+      "categoryIds": [
+        100018,
+        null,
+        100137
+      ],
+      "finalCategoryId": 100137,
+      "productId": 300
+    }
+  ],
+  "productIdsInArbo": [
+    209,
+    242,
+    300,
+    841,
+    3857
+  ],
+  "matchedProductIds": [
+    300
+  ]
+}

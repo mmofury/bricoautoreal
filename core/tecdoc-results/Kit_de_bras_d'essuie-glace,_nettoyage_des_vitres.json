@@ -1,0 +1,82 @@
+{
+  "productName": "Kit de bras d'essuie-glace, nettoyage des vitres",
+  "searchText": "Kit de bras d'essuie-glace, nettoyage des vitres",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:58:46.095Z",
+  "productId": 6545,
+  "arborescence": {
+    "Nettoyage des vitres": {
+      "categoryId": 100018,
+      "categoryName": "Nettoyage des vitres",
+      "level": 1,
+      "children": {
+        "Balai d'essuie-glace / raclette": {
+          "categoryId": null,
+          "categoryName": "Balai d'essuie-glace / raclette",
+          "level": 2,
+          "children": {
+            "Kit de bras d'essuie-glace, nettoyage des vitres": {
+              "categoryId": 100133,
+              "categoryName": "Wiper Blade/-Rubber",
+              "level": 2,
+              "children": [],
+              "productId": 6545
+            }
+          }
+        },
+        "Bras d'essuie-glace / fixation": {
+          "categoryId": null,
+          "categoryName": "Bras d'essuie-glace / fixation",
+          "level": 2,
+          "children": {
+            "Kit de bras d'essuie-glace, nettoyage des vitres": {
+              "categoryId": 100136,
+              "categoryName": "Wiper Arm/Bearing",
+              "level": 2,
+              "children": [],
+              "productId": 6545
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Nettoyage des vitres [ID: 100018] (Niveau 1)\n    ├── Balai d'essuie-glace / raclette (Niveau 2)\n    │   └── Wiper Blade/-Rubber [ID: 100133] (Niveau 2) → ProductId: 6545\n    └── Bras d'essuie-glace / fixation (Niveau 2)\n        └── Wiper Arm/Bearing [ID: 100136] (Niveau 2) → ProductId: 6545",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Nettoyage des vitres",
+        "Balai d'essuie-glace / raclette",
+        "Wiper Blade/-Rubber"
+      ],
+      "categoryIds": [
+        100018,
+        null,
+        100133
+      ],
+      "finalCategoryId": 100133,
+      "productId": 6545
+    },
+    {
+      "path": [
+        "Nettoyage des vitres",
+        "Bras d'essuie-glace / fixation",
+        "Wiper Arm/Bearing"
+      ],
+      "categoryIds": [
+        100018,
+        null,
+        100136
+      ],
+      "finalCategoryId": 100136,
+      "productId": 6545
+    }
+  ],
+  "productIdsInArbo": [
+    6545
+  ],
+  "matchedProductIds": [
+    6545
+  ]
+}

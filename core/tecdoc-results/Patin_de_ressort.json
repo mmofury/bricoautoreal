@@ -1,0 +1,105 @@
+{
+  "productName": "Patin de ressort",
+  "searchText": "Patin de ressort",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:19:31.080Z",
+  "productId": 1300,
+  "arborescence": {
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Boîte de vitesse automatique": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesse automatique",
+          "level": 2,
+          "children": {
+            "Patin de ressort, embrayage multidisque": {
+              "categoryId": 100240,
+              "categoryName": "Automatic Transmission",
+              "level": 2,
+              "children": {
+                "Boîtier/composants": {
+                  "categoryId": null,
+                  "categoryName": "Boîtier/composants",
+                  "level": 4,
+                  "children": {
+                    "Patin de ressort, embrayage multidisque": {
+                      "categoryId": 100775,
+                      "categoryName": "Transmission Housing/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 6155
+                    }
+                  }
+                }
+              },
+              "productId": 6155
+            }
+          }
+        }
+      }
+    },
+    "Suspension/Amortissement": {
+      "categoryId": 100011,
+      "categoryName": "Suspension/Amortissement",
+      "level": 1,
+      "children": {
+        "Suspension": {
+          "categoryId": null,
+          "categoryName": "Suspension",
+          "level": 2,
+          "children": {
+            "Patin de ressort": {
+              "categoryId": 100113,
+              "categoryName": "Coil Springs",
+              "level": 2,
+              "children": [],
+              "productId": 1300
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Boîte de vitesses [ID: 100238] (Niveau 1)\n│   └── Boîte de vitesse automatique (Niveau 2)\n│       └── Automatic Transmission [ID: 100240] (Niveau 2) → ProductId: 6155\n│           └── Boîtier/composants (Niveau 4)\n│               └── Transmission Housing/Parts [ID: 100775] (Niveau 3) → ProductId: 6155\n\n└── Suspension/Amortissement [ID: 100011] (Niveau 1)\n    └── Suspension (Niveau 2)\n        └── Coil Springs [ID: 100113] (Niveau 2) → ProductId: 1300",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesse automatique",
+        "Automatic Transmission"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        100240
+      ],
+      "finalCategoryId": 100240,
+      "productId": 6155
+    },
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Suspension",
+        "Coil Springs"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        100113
+      ],
+      "finalCategoryId": 100113,
+      "productId": 1300
+    }
+  ],
+  "productIdsInArbo": [
+    1300,
+    6155
+  ],
+  "matchedProductIds": [
+    1300
+  ]
+}

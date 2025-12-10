@@ -1,0 +1,54 @@
+{
+  "productName": "Conduite à basse pression, climatisation",
+  "searchText": "Conduite à basse pression, climatisation",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:24:01.283Z",
+  "productId": 2095,
+  "arborescence": {
+    "Climatisation": {
+      "categoryId": 100243,
+      "categoryName": "Climatisation",
+      "level": 1,
+      "children": {
+        "Tuyaux/Conduites": {
+          "categoryId": null,
+          "categoryName": "Tuyaux/Conduites",
+          "level": 2,
+          "children": {
+            "Conduite à basse pression, climatisation": {
+              "categoryId": 100360,
+              "categoryName": "Hoses/Pipe",
+              "level": 2,
+              "children": [],
+              "productId": 2095
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Climatisation [ID: 100243] (Niveau 1)\n    └── Tuyaux/Conduites (Niveau 2)\n        └── Hoses/Pipe [ID: 100360] (Niveau 2) → ProductId: 2095",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Climatisation",
+        "Tuyaux/Conduites",
+        "Hoses/Pipe"
+      ],
+      "categoryIds": [
+        100243,
+        null,
+        100360
+      ],
+      "finalCategoryId": 100360,
+      "productId": 2095
+    }
+  ],
+  "productIdsInArbo": [
+    2095
+  ],
+  "matchedProductIds": [
+    2095
+  ]
+}

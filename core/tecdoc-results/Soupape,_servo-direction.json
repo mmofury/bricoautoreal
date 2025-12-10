@@ -1,0 +1,54 @@
+{
+  "productName": "Soupape, servo-direction",
+  "searchText": "Soupape, servo-direction",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:18:11.615Z",
+  "productId": 679,
+  "arborescence": {
+    "Direction": {
+      "categoryId": 100012,
+      "categoryName": "Direction",
+      "level": 1,
+      "children": {
+        "Commande / réglage": {
+          "categoryId": null,
+          "categoryName": "Commande / réglage",
+          "level": 2,
+          "children": {
+            "Soupape, servo-direction": {
+              "categoryId": 100565,
+              "categoryName": "Control/Regulation",
+              "level": 2,
+              "children": [],
+              "productId": 679
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Direction [ID: 100012] (Niveau 1)\n    └── Commande / réglage (Niveau 2)\n        └── Control/Regulation [ID: 100565] (Niveau 2) → ProductId: 679",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Direction",
+        "Commande / réglage",
+        "Control/Regulation"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        100565
+      ],
+      "finalCategoryId": 100565,
+      "productId": 679
+    }
+  ],
+  "productIdsInArbo": [
+    679
+  ],
+  "matchedProductIds": [
+    679
+  ]
+}

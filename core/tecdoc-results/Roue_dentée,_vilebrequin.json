@@ -1,0 +1,83 @@
+{
+  "productName": "Roue dentée, vilebrequin",
+  "searchText": "Roue dentée, vilebrequin",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:12:35.128Z",
+  "productId": 1066,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Distribution moteur": {
+          "categoryId": null,
+          "categoryName": "Distribution moteur",
+          "level": 2,
+          "children": {
+            "Roue dentée, vilebrequin": {
+              "categoryId": 100003,
+              "categoryName": "Engine Timing",
+              "level": 2,
+              "children": {
+                "Pignon droit": {
+                  "categoryId": null,
+                  "categoryName": "Pignon droit",
+                  "level": 4,
+                  "children": {
+                    "Roue dentée, vilebrequin": {
+                      "categoryId": 100425,
+                      "categoryName": "Timing Gear",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1066
+                    }
+                  }
+                },
+                "roues dentées": {
+                  "categoryId": null,
+                  "categoryName": "roues dentées",
+                  "level": 4,
+                  "children": {
+                    "Roue dentée, vilebrequin": {
+                      "categoryId": 101833,
+                      "categoryName": "Timing Gears",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1066
+                    }
+                  }
+                }
+              },
+              "productId": 1066
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Distribution moteur (Niveau 2)\n        └── Engine Timing [ID: 100003] (Niveau 2) → ProductId: 1066\n            ├── Pignon droit (Niveau 4)\n            │   └── Timing Gear [ID: 100425] (Niveau 3) → ProductId: 1066\n            └── roues dentées (Niveau 4)\n                └── Timing Gears [ID: 101833] (Niveau 3) → ProductId: 1066",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Engine Timing"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100003
+      ],
+      "finalCategoryId": 100003,
+      "productId": 1066
+    }
+  ],
+  "productIdsInArbo": [
+    1066
+  ],
+  "matchedProductIds": [
+    1066
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "productName": "Ressort tournant, Airbag",
+  "searchText": "Ressort tournant, Airbag",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:08:58.419Z",
+  "productId": 4826,
+  "arborescence": {
+    "Direction": {
+      "categoryId": 100012,
+      "categoryName": "Direction",
+      "level": 1,
+      "children": {
+        "Volant /- composants": {
+          "categoryId": null,
+          "categoryName": "Volant /- composants",
+          "level": 2,
+          "children": {
+            "Ressort tournant, Airbag": {
+              "categoryId": 104391,
+              "categoryName": "Steering Wheel/Parts",
+              "level": 2,
+              "children": [],
+              "productId": 4826
+            }
+          }
+        }
+      }
+    },
+    "Systèmes de sécurité": {
+      "categoryId": 100417,
+      "categoryName": "Systèmes de sécurité",
+      "level": 1,
+      "children": {
+        "Système d'air-bag": {
+          "categoryId": null,
+          "categoryName": "Système d'air-bag",
+          "level": 2,
+          "children": {
+            "Ressort tournant, Airbag": {
+              "categoryId": 100762,
+              "categoryName": "Air Bag System",
+              "level": 2,
+              "children": [],
+              "productId": 4826
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Direction [ID: 100012] (Niveau 1)\n│   └── Volant /- composants (Niveau 2)\n│       └── Steering Wheel/Parts [ID: 104391] (Niveau 2) → ProductId: 4826\n\n└── Systèmes de sécurité [ID: 100417] (Niveau 1)\n    └── Système d'air-bag (Niveau 2)\n        └── Air Bag System [ID: 100762] (Niveau 2) → ProductId: 4826",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Direction",
+        "Volant /- composants",
+        "Steering Wheel/Parts"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        104391
+      ],
+      "finalCategoryId": 104391,
+      "productId": 4826
+    },
+    {
+      "path": [
+        "Systèmes de sécurité",
+        "Système d'air-bag",
+        "Air Bag System"
+      ],
+      "categoryIds": [
+        100417,
+        null,
+        100762
+      ],
+      "finalCategoryId": 100762,
+      "productId": 4826
+    }
+  ],
+  "productIdsInArbo": [
+    4826
+  ],
+  "matchedProductIds": [
+    4826
+  ]
+}

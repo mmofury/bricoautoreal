@@ -1,0 +1,54 @@
+{
+  "productName": "Kit réparation de câble, moteur électrique filet anti-remous",
+  "searchText": "Kit réparation de câble, moteur électrique filet anti-remous",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:10:20.241Z",
+  "productId": 9703,
+  "arborescence": {
+    "Équipement intérieur": {
+      "categoryId": 100341,
+      "categoryName": "Équipement intérieur",
+      "level": 1,
+      "children": {
+        "Filet anti-remous": {
+          "categoryId": null,
+          "categoryName": "Filet anti-remous",
+          "level": 2,
+          "children": {
+            "Kit réparation de câble, moteur électrique filet anti-remous": {
+              "categoryId": 706471,
+              "categoryName": "Wind Deflector",
+              "level": 2,
+              "children": [],
+              "productId": 9703
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Équipement intérieur [ID: 100341] (Niveau 1)\n    └── Filet anti-remous (Niveau 2)\n        └── Wind Deflector [ID: 706471] (Niveau 2) → ProductId: 9703",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Équipement intérieur",
+        "Filet anti-remous",
+        "Wind Deflector"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        706471
+      ],
+      "finalCategoryId": 706471,
+      "productId": 9703
+    }
+  ],
+  "productIdsInArbo": [
+    9703
+  ],
+  "matchedProductIds": [
+    9703
+  ]
+}

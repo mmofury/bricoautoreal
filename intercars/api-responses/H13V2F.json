@@ -1,0 +1,37 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H13V2F",
+      "index": "6.70159",
+      "tecDoc": "6.70159",
+      "tecDocProd": "355",
+      "articleNumber": "6.70159",
+      "brand": "DT SPARE PARTS",
+      "shortDescription": "Bulkhead",
+      "description": "Front fender R fits: RVI T 01.13-",
+      "gtuCode": "GTU_07",
+      "packageWeight": "0,850",
+      "customsCode": "87082990",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_449",
+          "primary": false,
+          "name": {
+            "en": "Fender"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_913",
+          "primary": true,
+          "name": {
+            "en": "Bulkhead"
+          }
+        }
+      ]
+    }
+  ]
+}

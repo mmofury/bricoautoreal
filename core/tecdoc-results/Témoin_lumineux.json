@@ -1,0 +1,69 @@
+{
+  "productName": "Témoin lumineux",
+  "searchText": "Témoin lumineux",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:29:37.924Z",
+  "productId": 1433,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Interrupteur/Relais/Contrôle clignotant/Appareil d.commande": {
+          "categoryId": null,
+          "categoryName": "Interrupteur/Relais/Contrôle clignotant/Appareil d.commande",
+          "level": 2,
+          "children": {
+            "Témoin lumineux": {
+              "categoryId": 100307,
+              "categoryName": "Light Switches/Relays/Controls",
+              "level": 2,
+              "children": {
+                "Relais": {
+                  "categoryId": null,
+                  "categoryName": "Relais",
+                  "level": 4,
+                  "children": {
+                    "Témoin lumineux": {
+                      "categoryId": 100510,
+                      "categoryName": "Relay",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1433
+                    }
+                  }
+                }
+              },
+              "productId": 1433
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Interrupteur/Relais/Contrôle clignotant/Appareil d.commande (Niveau 2)\n        └── Light Switches/Relays/Controls [ID: 100307] (Niveau 2) → ProductId: 1433\n            └── Relais (Niveau 4)\n                └── Relay [ID: 100510] (Niveau 3) → ProductId: 1433",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Interrupteur/Relais/Contrôle clignotant/Appareil d.commande",
+        "Light Switches/Relays/Controls"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100307
+      ],
+      "finalCategoryId": 100307,
+      "productId": 1433
+    }
+  ],
+  "productIdsInArbo": [
+    1433
+  ],
+  "matchedProductIds": [
+    1433
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.365Z",
+  "manufacturer": "JOYFUN AUTO",
+  "countGroups": 5,
+  "groups": [
+    {
+      "manufacturerId": 5699,
+      "manufacturerName": "JOYFUN AUTO",
+      "groupKey": "CV03",
+      "displayName": "CV03",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41948,
+          "modelName": "CV03",
+          "modelYearFrom": "2012-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5699,
+      "manufacturerName": "JOYFUN AUTO",
+      "groupKey": "E11K",
+      "displayName": "E11K",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40950,
+          "modelName": "E11K",
+          "modelYearFrom": "2018-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5699,
+      "manufacturerName": "JOYFUN AUTO",
+      "groupKey": "E17",
+      "displayName": "E17",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40951,
+          "modelName": "E17",
+          "modelYearFrom": "2018-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5699,
+      "manufacturerName": "JOYFUN AUTO",
+      "groupKey": "ER30",
+      "displayName": "ER30",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40949,
+          "modelName": "ER30",
+          "modelYearFrom": "2018-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5699,
+      "manufacturerName": "JOYFUN AUTO",
+      "groupKey": "JUNFENG",
+      "displayName": "JUNFENG",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42900,
+          "modelName": "JUNFENG",
+          "modelYearFrom": "2010-06-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

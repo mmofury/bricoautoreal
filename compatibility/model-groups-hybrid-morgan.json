@@ -1,0 +1,148 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.425Z",
+  "manufacturer": "MORGAN",
+  "countGroups": 7,
+  "groups": [
+    {
+      "manufacturerId": 803,
+      "manufacturerName": "MORGAN",
+      "groupKey": "3",
+      "displayName": "3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 12831,
+          "modelName": "3-WHEELER",
+          "modelYearFrom": "2014-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 803,
+      "manufacturerName": "MORGAN",
+      "groupKey": "AERO",
+      "displayName": "AERO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4639,
+          "modelName": "AERO 8 Décapotable",
+          "modelYearFrom": "2000-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 8955,
+          "modelName": "AERO SUPERSPORTS",
+          "modelYearFrom": "2010-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10219,
+          "modelName": "AERO Coupé",
+          "modelYearFrom": "2012-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38746,
+          "modelName": "AERO 8 Décapotable",
+          "modelYearFrom": "2012-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 803,
+      "manufacturerName": "MORGAN",
+      "groupKey": "AEROMAX",
+      "displayName": "AEROMAX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11495,
+          "modelName": "AEROMAX Coupé",
+          "modelYearFrom": "2007-03-01",
+          "modelYearTo": "2009-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 803,
+      "manufacturerName": "MORGAN",
+      "groupKey": "EVA",
+      "displayName": "EVA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9562,
+          "modelName": "EVA",
+          "modelYearFrom": "2012-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 803,
+      "manufacturerName": "MORGAN",
+      "groupKey": "FOUR",
+      "displayName": "FOUR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4414,
+          "modelName": "FOUR FOUR",
+          "modelYearFrom": "1968-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 803,
+      "manufacturerName": "MORGAN",
+      "groupKey": "PLUS",
+      "displayName": "PLUS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4415,
+          "modelName": "PLUS FOUR",
+          "modelYearFrom": "1985-01-01",
+          "modelYearTo": "2020-02-01"
+        },
+        {
+          "modelId": 4416,
+          "modelName": "PLUS EIGHT",
+          "modelYearFrom": "1968-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40651,
+          "modelName": "PLUS FOUR",
+          "modelYearFrom": "2020-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40652,
+          "modelName": "PLUS SIX",
+          "modelYearFrom": "2019-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 803,
+      "manufacturerName": "MORGAN",
+      "groupKey": "ROADSTER",
+      "displayName": "ROADSTER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8953,
+          "modelName": "ROADSTER Décapotable",
+          "modelYearFrom": "2004-01-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "productName": "Kit de montage, disque de frein",
+  "productId": 8136,
+  "searchText": "Kit de montage, disque de frein",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 3,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Moto": {
+          "categoryId": 103671,
+          "categoryName": "Moto",
+          "level": 1,
+          "children": {
+            "Dispositif de freinage": {
+              "categoryId": null,
+              "categoryName": "Dispositif de freinage",
+              "level": 2,
+              "children": {
+                "Kit de montage, disque de frein": {
+                  "categoryId": 103672,
+                  "categoryName": "Braking System",
+                  "level": 2,
+                  "children": {
+                    "Disque de frein / accessoires": {
+                      "categoryId": null,
+                      "categoryName": "Disque de frein / accessoires",
+                      "level": 4,
+                      "children": {
+                        "Kit de montage, disque de frein": {
+                          "categoryId": 104082,
+                          "categoryName": "Brake Disc/Accessories",
+                          "level": 3,
+                          "children": [],
+                          "productId": 8136
+                        }
+                      }
+                    }
+                  },
+                  "productId": 8136
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Moto [ID: 103671] (Niveau 1)\n    └── Dispositif de freinage (Niveau 2)\n        └── Braking System [ID: 103672] (Niveau 2) → ProductId: 8136\n            └── Disque de frein / accessoires (Niveau 4)\n                └── Brake Disc/Accessories [ID: 104082] (Niveau 3) → ProductId: 8136",
+      "productIdsInArbo": [
+        8136
+      ],
+      "matchedProductIds": [
+        8136
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:44:37.744Z",
+  "bestMatch": {
+    "typeId": 3,
+    "found": true,
+    "hasMatch": true
+  }
+}

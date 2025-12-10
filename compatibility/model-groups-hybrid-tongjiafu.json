@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.513Z",
+  "manufacturer": "TONGJIAFU",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 4448,
+      "manufacturerName": "TONGJIAFU",
+      "groupKey": "FU",
+      "displayName": "FU",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14836,
+          "modelName": "FU JIA",
+          "modelYearFrom": "2010-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4448,
+      "manufacturerName": "TONGJIAFU",
+      "groupKey": "LONG",
+      "displayName": "LONG",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37790,
+          "modelName": "LONG RUI",
+          "modelYearFrom": "2014-01-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

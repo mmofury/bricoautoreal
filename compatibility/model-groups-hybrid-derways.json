@@ -1,0 +1,67 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.237Z",
+  "manufacturer": "DERWAYS",
+  "countGroups": 4,
+  "groups": [
+    {
+      "manufacturerId": 3069,
+      "manufacturerName": "DERWAYS",
+      "groupKey": "AURORA",
+      "displayName": "AURORA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14807,
+          "modelName": "AURORA",
+          "modelYearFrom": "2007-01-01",
+          "modelYearTo": "2009-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3069,
+      "manufacturerName": "DERWAYS",
+      "groupKey": "COWBOY",
+      "displayName": "COWBOY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13924,
+          "modelName": "COWBOY(3131)",
+          "modelYearFrom": "2004-01-01",
+          "modelYearTo": "2007-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3069,
+      "manufacturerName": "DERWAYS",
+      "groupKey": "PLUTUS",
+      "displayName": "PLUTUS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14810,
+          "modelName": "PLUTUS",
+          "modelYearFrom": "2007-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3069,
+      "manufacturerName": "DERWAYS",
+      "groupKey": "SHUTTLE",
+      "displayName": "SHUTTLE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14811,
+          "modelName": "SHUTTLE",
+          "modelYearFrom": "2006-09-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

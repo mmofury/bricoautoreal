@@ -1,0 +1,54 @@
+{
+  "productName": "Huile pour engrenage d'essieux",
+  "searchText": "Huile pour engrenage d'essieux",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:44:53.891Z",
+  "productId": 3226,
+  "arborescence": {
+    "Entraînement des essieux": {
+      "categoryId": 100400,
+      "categoryName": "Entraînement des essieux",
+      "level": 1,
+      "children": {
+        "Huiles": {
+          "categoryId": null,
+          "categoryName": "Huiles",
+          "level": 2,
+          "children": {
+            "Huile pour engrenage d'essieux": {
+              "categoryId": 101996,
+              "categoryName": "Oil",
+              "level": 2,
+              "children": [],
+              "productId": 3226
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement des essieux [ID: 100400] (Niveau 1)\n    └── Huiles (Niveau 2)\n        └── Oil [ID: 101996] (Niveau 2) → ProductId: 3226",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des essieux",
+        "Huiles",
+        "Oil"
+      ],
+      "categoryIds": [
+        100400,
+        null,
+        101996
+      ],
+      "finalCategoryId": 101996,
+      "productId": 3226
+    }
+  ],
+  "productIdsInArbo": [
+    3226
+  ],
+  "matchedProductIds": [
+    3226
+  ]
+}

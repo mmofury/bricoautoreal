@@ -1,0 +1,54 @@
+{
+  "productName": "Revêtement, console centrale",
+  "searchText": "Revêtement, console centrale",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:09:50.756Z",
+  "productId": 5093,
+  "arborescence": {
+    "Équipement intérieur": {
+      "categoryId": 100341,
+      "categoryName": "Équipement intérieur",
+      "level": 1,
+      "children": {
+        "Console centrale": {
+          "categoryId": null,
+          "categoryName": "Console centrale",
+          "level": 2,
+          "children": {
+            "Revêtement, console centrale": {
+              "categoryId": 103004,
+              "categoryName": "Centre Console",
+              "level": 2,
+              "children": [],
+              "productId": 5093
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Équipement intérieur [ID: 100341] (Niveau 1)\n    └── Console centrale (Niveau 2)\n        └── Centre Console [ID: 103004] (Niveau 2) → ProductId: 5093",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Équipement intérieur",
+        "Console centrale",
+        "Centre Console"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        103004
+      ],
+      "finalCategoryId": 103004,
+      "productId": 5093
+    }
+  ],
+  "productIdsInArbo": [
+    5093
+  ],
+  "matchedProductIds": [
+    5093
+  ]
+}

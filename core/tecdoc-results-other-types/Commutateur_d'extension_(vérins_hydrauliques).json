@@ -1,0 +1,70 @@
+{
+  "productName": "Commutateur d'extension (vérins hydrauliques)",
+  "productId": 6368,
+  "searchText": "Commutateur d'extension (vérins hydrauliques)",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Prise de force": {
+          "categoryId": 200057,
+          "categoryName": "Prise de force",
+          "level": 1,
+          "children": {
+            "Interrupteur": {
+              "categoryId": null,
+              "categoryName": "Interrupteur",
+              "level": 2,
+              "children": {
+                "Commutateur d'extension (vérins hydrauliques)": {
+                  "categoryId": 200956,
+                  "categoryName": "Switch, PTO",
+                  "level": 2,
+                  "children": [],
+                  "productId": 6368
+                }
+              }
+            }
+          }
+        },
+        "Système électrique": {
+          "categoryId": 200064,
+          "categoryName": "Système électrique",
+          "level": 1,
+          "children": {
+            "Interrupteur (électromécanique)": {
+              "categoryId": null,
+              "categoryName": "Interrupteur (électromécanique)",
+              "level": 2,
+              "children": {
+                "Commutateur d'extension (vérins hydrauliques)": {
+                  "categoryId": 204822,
+                  "categoryName": "Switch (Electro-Mechanical)",
+                  "level": 2,
+                  "children": [],
+                  "productId": 6368
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "├── Prise de force [ID: 200057] (Niveau 1)\n│   └── Interrupteur (Niveau 2)\n│       └── Switch, PTO [ID: 200956] (Niveau 2) → ProductId: 6368\n\n└── Système électrique [ID: 200064] (Niveau 1)\n    └── Interrupteur (électromécanique) (Niveau 2)\n        └── Switch (Electro-Mechanical) [ID: 204822] (Niveau 2) → ProductId: 6368",
+      "productIdsInArbo": [
+        6368
+      ],
+      "matchedProductIds": [
+        6368
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:09:33.107Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

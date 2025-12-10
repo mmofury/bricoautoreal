@@ -1,0 +1,69 @@
+{
+  "productName": "Flasque, carburateur",
+  "searchText": "Flasque, carburateur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:40:59.059Z",
+  "productId": 1081,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Carburateurs": {
+          "categoryId": null,
+          "categoryName": "Carburateurs",
+          "level": 2,
+          "children": {
+            "Flasque, carburateur": {
+              "categoryId": 102903,
+              "categoryName": "Carburettor System",
+              "level": 2,
+              "children": {
+                "Bride": {
+                  "categoryId": null,
+                  "categoryName": "Bride",
+                  "level": 4,
+                  "children": {
+                    "Flasque, carburateur": {
+                      "categoryId": 102908,
+                      "categoryName": "Flange",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1081
+                    }
+                  }
+                }
+              },
+              "productId": 1081
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carburation [ID: 100254] (Niveau 1)\n    └── Carburateurs (Niveau 2)\n        └── Carburettor System [ID: 102903] (Niveau 2) → ProductId: 1081\n            └── Bride (Niveau 4)\n                └── Flange [ID: 102908] (Niveau 3) → ProductId: 1081",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Carburateurs",
+        "Carburettor System"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102903
+      ],
+      "finalCategoryId": 102903,
+      "productId": 1081
+    }
+  ],
+  "productIdsInArbo": [
+    1081
+  ],
+  "matchedProductIds": [
+    1081
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "productName": "Rotule, barre de traction - soupape à coussin d'air",
+  "productId": 3021,
+  "searchText": "Rotule, barre de traction - soupape à coussin d'air",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Système pneumatique": {
+          "categoryId": 200059,
+          "categoryName": "Système pneumatique",
+          "level": 1,
+          "children": {
+            "Suspension pneumatique": {
+              "categoryId": null,
+              "categoryName": "Suspension pneumatique",
+              "level": 2,
+              "children": {
+                "Rotule, barre de traction - soupape à coussin d'air": {
+                  "categoryId": 200506,
+                  "categoryName": "Air Suspension",
+                  "level": 2,
+                  "children": {
+                    "Soupape de ressort pneumatique": {
+                      "categoryId": null,
+                      "categoryName": "Soupape de ressort pneumatique",
+                      "level": 4,
+                      "children": {
+                        "Rotule, barre de traction - soupape à coussin d'air": {
+                          "categoryId": 200554,
+                          "categoryName": "Air Spring Valve",
+                          "level": 3,
+                          "children": [],
+                          "productId": 3021
+                        }
+                      }
+                    }
+                  },
+                  "productId": 3021
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système pneumatique [ID: 200059] (Niveau 1)\n    └── Suspension pneumatique (Niveau 2)\n        └── Air Suspension [ID: 200506] (Niveau 2) → ProductId: 3021\n            └── Soupape de ressort pneumatique (Niveau 4)\n                └── Air Spring Valve [ID: 200554] (Niveau 3) → ProductId: 3021",
+      "productIdsInArbo": [
+        3021
+      ],
+      "matchedProductIds": [
+        3021
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:26:41.989Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

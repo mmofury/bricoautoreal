@@ -1,0 +1,49 @@
+{
+  "productName": "Bague d'étanchéité, moyeu de roue (engrenage planétaire)",
+  "productId": 3013,
+  "searchText": "Bague d'étanchéité, moyeu de roue (engrenage planétaire)",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Entraînement des roues": {
+          "categoryId": 200055,
+          "categoryName": "Entraînement des roues",
+          "level": 1,
+          "children": {
+            "Engrenage de pont planétaire": {
+              "categoryId": null,
+              "categoryName": "Engrenage de pont planétaire",
+              "level": 2,
+              "children": {
+                "Bague d'étanchéité, moyeu de roue (engrenage planétaire)": {
+                  "categoryId": 200957,
+                  "categoryName": "External Planetary Gearbox",
+                  "level": 2,
+                  "children": [],
+                  "productId": 3013
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Entraînement des roues [ID: 200055] (Niveau 1)\n    └── Engrenage de pont planétaire (Niveau 2)\n        └── External Planetary Gearbox [ID: 200957] (Niveau 2) → ProductId: 3013",
+      "productIdsInArbo": [
+        3013
+      ],
+      "matchedProductIds": [
+        3013
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T09:53:26.934Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

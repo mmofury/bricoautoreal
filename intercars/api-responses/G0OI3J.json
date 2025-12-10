@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G0OI3J",
+      "index": "HAZ 4793-2",
+      "tecDoc": "4793-2",
+      "tecDocProd": "4808",
+      "articleNumber": "4793-2",
+      "brand": "HAZET",
+      "shortDescription": "Other diagnostic devices",
+      "description": "...",
+      "eans": [
+        "4000896076208"
+      ],
+      "packageWeight": "0,280",
+      "packageWidth": "6,000",
+      "packageDepth": "4,500",
+      "packageHeight": "14,500",
+      "customsCode": "90318080",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_5948",
+          "primary": false,
+          "name": {
+            "en": "Penetrant, dye crack testing"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91584",
+          "primary": true,
+          "name": {
+            "en": "Other diagnostic devices"
+          }
+        }
+      ]
+    }
+  ]
+}

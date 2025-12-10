@@ -1,0 +1,76 @@
+{
+  "productName": "Catadioptre",
+  "searchText": "Catadioptre",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:18:49.633Z",
+  "productId": 1093,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Cataphote arrière/Réflecteur latéral": {
+          "categoryId": null,
+          "categoryName": "Cataphote arrière/Réflecteur latéral",
+          "level": 2,
+          "children": {
+            "Catadioptre": {
+              "categoryId": 100295,
+              "categoryName": "Reflectors/Side Reflectors",
+              "level": 2,
+              "children": [],
+              "productId": 1093
+            },
+            "Support, catadioptre": {
+              "categoryId": 100295,
+              "categoryName": "Reflectors/Side Reflectors",
+              "level": 2,
+              "children": [],
+              "productId": 2480
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Cataphote arrière/Réflecteur latéral (Niveau 2)\n        ├── Reflectors/Side Reflectors [ID: 100295] (Niveau 2) → ProductId: 1093\n        └── Reflectors/Side Reflectors [ID: 100295] (Niveau 2) → ProductId: 2480",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Cataphote arrière/Réflecteur latéral",
+        "Reflectors/Side Reflectors"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100295
+      ],
+      "finalCategoryId": 100295,
+      "productId": 1093
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Cataphote arrière/Réflecteur latéral",
+        "Reflectors/Side Reflectors"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100295
+      ],
+      "finalCategoryId": 100295,
+      "productId": 2480
+    }
+  ],
+  "productIdsInArbo": [
+    1093,
+    2480
+  ],
+  "matchedProductIds": [
+    1093
+  ]
+}

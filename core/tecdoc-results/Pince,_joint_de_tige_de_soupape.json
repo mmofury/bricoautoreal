@@ -1,0 +1,54 @@
+{
+  "productName": "Pince, joint de tige de soupape",
+  "searchText": "Pince, joint de tige de soupape",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:20:56.775Z",
+  "productId": 4484,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Pince, joint de tige de soupape": {
+              "categoryId": 103129,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4484
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Outils (Niveau 2)\n        └── Tools [ID: 103129] (Niveau 2) → ProductId: 4484",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        103129
+      ],
+      "finalCategoryId": 103129,
+      "productId": 4484
+    }
+  ],
+  "productIdsInArbo": [
+    4484
+  ],
+  "matchedProductIds": [
+    4484
+  ]
+}

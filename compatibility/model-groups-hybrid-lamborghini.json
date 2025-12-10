@@ -1,0 +1,409 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.377Z",
+  "manufacturer": "LAMBORGHINI",
+  "countGroups": 22,
+  "groups": [
+    {
+      "manufacturerId": 701,
+      "manufacturerName": "LAMBORGHINI",
+      "groupKey": "400GT",
+      "displayName": "400GT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32316,
+          "modelName": "400GT A trois volumes",
+          "modelYearFrom": "1965-09-01",
+          "modelYearTo": "1968-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 701,
+      "manufacturerName": "LAMBORGHINI",
+      "groupKey": "AVENTADOR",
+      "displayName": "AVENTADOR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11487,
+          "modelName": "AVENTADOR Targa",
+          "modelYearFrom": "2013-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11494,
+          "modelName": "AVENTADOR Coupé",
+          "modelYearFrom": "2011-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 701,
+      "manufacturerName": "LAMBORGHINI",
+      "groupKey": "CENTENARIO",
+      "displayName": "CENTENARIO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36612,
+          "modelName": "CENTENARIO Coupé",
+          "modelYearFrom": "2016-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38948,
+          "modelName": "CENTENARIO Roadster",
+          "modelYearFrom": "2016-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 701,
+      "manufacturerName": "LAMBORGHINI",
+      "groupKey": "COUNTACH",
+      "displayName": "COUNTACH",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4287,
+          "modelName": "COUNTACH",
+          "modelYearFrom": "1974-01-01",
+          "modelYearTo": "1991-12-01"
+        },
+        {
+          "modelId": 43547,
+          "modelName": "COUNTACH",
+          "modelYearFrom": "2022-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 701,
+      "manufacturerName": "LAMBORGHINI",
+      "groupKey": "DIABLO",
+      "displayName": "DIABLO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4288,
+          "modelName": "DIABLO",
+          "modelYearFrom": "1990-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 4289,
+          "modelName": "DIABLO Roadster",
+          "modelYearFrom": "1995-09-01",
+          "modelYearTo": "2000-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 701,
+      "manufacturerName": "LAMBORGHINI",
+      "groupKey": "ESPADA",
+      "displayName": "ESPADA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4290,
+          "modelName": "ESPADA",
+          "modelYearFrom": "1968-01-01",
+          "modelYearTo": "1981-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 701,
+      "manufacturerName": "LAMBORGHINI",
+      "groupKey": "GALLARDO",
+      "displayName": "GALLARDO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4994,
+          "modelName": "GALLARDO",
+          "modelYearFrom": "2003-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 5527,
+          "modelName": "GALLARDO SPYDER",
+          "modelYearFrom": "2005-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 701,
+      "manufacturerName": "LAMBORGHINI",
+      "groupKey": "HURAC",
+      "displayName": "HURAC",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 12856,
+          "modelName": "HURACÁN",
+          "modelYearFrom": "2014-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38313,
+          "modelName": "HURACÁN SPYDER",
+          "modelYearFrom": "2015-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 701,
+      "manufacturerName": "LAMBORGHINI",
+      "groupKey": "ISLERO",
+      "displayName": "ISLERO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32325,
+          "modelName": "ISLERO Coupé",
+          "modelYearFrom": "1967-09-01",
+          "modelYearTo": "1970-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 701,
+      "manufacturerName": "LAMBORGHINI",
+      "groupKey": "JALPA",
+      "displayName": "JALPA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4291,
+          "modelName": "JALPA",
+          "modelYearFrom": "1982-01-01",
+          "modelYearTo": "1987-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 701,
+      "manufacturerName": "LAMBORGHINI",
+      "groupKey": "JARAMA",
+      "displayName": "JARAMA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4292,
+          "modelName": "JARAMA",
+          "modelYearFrom": "1968-01-01",
+          "modelYearTo": "1976-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 701,
+      "manufacturerName": "LAMBORGHINI",
+      "groupKey": "LM",
+      "displayName": "LM",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4293,
+          "modelName": "LM-001",
+          "modelYearFrom": "1980-01-01",
+          "modelYearTo": "1983-12-01"
+        },
+        {
+          "modelId": 4294,
+          "modelName": "LM-002",
+          "modelYearFrom": "1983-01-01",
+          "modelYearTo": "1992-12-01"
+        },
+        {
+          "modelId": 34530,
+          "modelName": "LM AMERICAN Véhicule tout terrain fermé",
+          "modelYearFrom": "1990-09-01",
+          "modelYearTo": "1993-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 701,
+      "manufacturerName": "LAMBORGHINI",
+      "groupKey": "MIURA",
+      "displayName": "MIURA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4295,
+          "modelName": "MIURA",
+          "modelYearFrom": "1966-06-01",
+          "modelYearTo": "1973-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 701,
+      "manufacturerName": "LAMBORGHINI",
+      "groupKey": "MURCI",
+      "displayName": "MURCI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4843,
+          "modelName": "MURCIÉLAGO",
+          "modelYearFrom": "2001-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 5164,
+          "modelName": "MURCIÉLAGO Roadster",
+          "modelYearFrom": "2004-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 701,
+      "manufacturerName": "LAMBORGHINI",
+      "groupKey": "REVENTON",
+      "displayName": "REVENTON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11496,
+          "modelName": "REVENTON",
+          "modelYearFrom": "2007-09-01",
+          "modelYearTo": "2009-03-01"
+        },
+        {
+          "modelId": 39124,
+          "modelName": "REVENTON Décapotable",
+          "modelYearFrom": "2009-09-01",
+          "modelYearTo": "2010-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 701,
+      "manufacturerName": "LAMBORGHINI",
+      "groupKey": "REVUELTO",
+      "displayName": "REVUELTO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44353,
+          "modelName": "REVUELTO",
+          "modelYearFrom": "2023-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 701,
+      "manufacturerName": "LAMBORGHINI",
+      "groupKey": "SIAN",
+      "displayName": "SIAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39872,
+          "modelName": "SIAN FKP 37 Coupé",
+          "modelYearFrom": "2019-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41763,
+          "modelName": "SIAN FKP 37 Roadster",
+          "modelYearFrom": "2020-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 701,
+      "manufacturerName": "LAMBORGHINI",
+      "groupKey": "SILHOUETTE",
+      "displayName": "SILHOUETTE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32333,
+          "modelName": "SILHOUETTE Coupé",
+          "modelYearFrom": "1975-09-01",
+          "modelYearTo": "1979-02-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 701,
+      "manufacturerName": "LAMBORGHINI",
+      "groupKey": "TEMERARIO",
+      "displayName": "TEMERARIO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45882,
+          "modelName": "TEMERARIO",
+          "modelYearFrom": "2024-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 701,
+      "manufacturerName": "LAMBORGHINI",
+      "groupKey": "URRACO",
+      "displayName": "URRACO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4296,
+          "modelName": "URRACO",
+          "modelYearFrom": "1974-01-01",
+          "modelYearTo": "1981-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 701,
+      "manufacturerName": "LAMBORGHINI",
+      "groupKey": "URUS",
+      "displayName": "URUS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38523,
+          "modelName": "URUS",
+          "modelYearFrom": "2018-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 701,
+      "manufacturerName": "LAMBORGHINI",
+      "groupKey": "VENENO",
+      "displayName": "VENENO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14902,
+          "modelName": "VENENO",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38343,
+          "modelName": "VENENO Targa",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

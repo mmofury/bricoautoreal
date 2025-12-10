@@ -1,0 +1,49 @@
+{
+  "productName": "Tôle de sécurité, écrou d'essieu",
+  "productId": 3618,
+  "searchText": "Tôle de sécurité, écrou d'essieu",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Suspension des roues": {
+          "categoryId": 200061,
+          "categoryName": "Suspension des roues",
+          "level": 1,
+          "children": {
+            "Moyeu de roue/accessoires": {
+              "categoryId": null,
+              "categoryName": "Moyeu de roue/accessoires",
+              "level": 2,
+              "children": {
+                "Tôle de sécurité, écrou d'essieu": {
+                  "categoryId": 200886,
+                  "categoryName": "Wheel Hub/ Parts",
+                  "level": 2,
+                  "children": [],
+                  "productId": 3618
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Suspension des roues [ID: 200061] (Niveau 1)\n    └── Moyeu de roue/accessoires (Niveau 2)\n        └── Wheel Hub/ Parts [ID: 200886] (Niveau 2) → ProductId: 3618",
+      "productIdsInArbo": [
+        3618
+      ],
+      "matchedProductIds": [
+        3618
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:44:35.399Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

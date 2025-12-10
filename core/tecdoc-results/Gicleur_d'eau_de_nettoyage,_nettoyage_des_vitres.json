@@ -1,0 +1,54 @@
+{
+  "productName": "Gicleur d'eau de nettoyage, nettoyage des vitres",
+  "searchText": "Gicleur d'eau de nettoyage, nettoyage des vitres",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:42:55.654Z",
+  "productId": 303,
+  "arborescence": {
+    "Nettoyage des vitres": {
+      "categoryId": 100018,
+      "categoryName": "Nettoyage des vitres",
+      "level": 1,
+      "children": {
+        "Gicleur d'eau de lavage": {
+          "categoryId": null,
+          "categoryName": "Gicleur d'eau de lavage",
+          "level": 2,
+          "children": {
+            "Gicleur d'eau de nettoyage, nettoyage des vitres": {
+              "categoryId": 100611,
+              "categoryName": "Washer Fluid Jet",
+              "level": 2,
+              "children": [],
+              "productId": 303
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Nettoyage des vitres [ID: 100018] (Niveau 1)\n    └── Gicleur d'eau de lavage (Niveau 2)\n        └── Washer Fluid Jet [ID: 100611] (Niveau 2) → ProductId: 303",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Nettoyage des vitres",
+        "Gicleur d'eau de lavage",
+        "Washer Fluid Jet"
+      ],
+      "categoryIds": [
+        100018,
+        null,
+        100611
+      ],
+      "finalCategoryId": 100611,
+      "productId": 303
+    }
+  ],
+  "productIdsInArbo": [
+    303
+  ],
+  "matchedProductIds": [
+    303
+  ]
+}

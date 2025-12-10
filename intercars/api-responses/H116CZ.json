@@ -1,0 +1,36 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H116CZ",
+      "index": "70705002",
+      "tecDoc": "70705002",
+      "tecDocProd": "72",
+      "articleNumber": "70705002",
+      "brand": "HERTH+BUSS ELPARTS",
+      "shortDescription": "Automatic Transmission",
+      "description": "Automatic control box fits: AUDI A1, A3, Q2, Q3, TT, SEAT ALHAMBRA, ALTEA, ALTEA XL, ATECA, LEON, LEON SC, LEON ST, LEON ST/KOMBI, LEON/HATCHBACK, TARRACO, TOLEDO III, SKODA KAROQ 1.0-3.6 01.98-",
+      "gtuCode": "GTU_07",
+      "customsCode": "87084099",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3066",
+          "primary": true,
+          "name": {
+            "en": "Automatic Transmission"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_60505",
+          "primary": false,
+          "name": {
+            "en": "PCB, mechatronics (AMT)"
+          }
+        }
+      ]
+    }
+  ]
+}

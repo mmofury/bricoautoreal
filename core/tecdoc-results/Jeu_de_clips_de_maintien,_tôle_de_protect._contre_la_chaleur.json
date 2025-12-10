@@ -1,0 +1,54 @@
+{
+  "productName": "Jeu de clips de maintien, tôle de protect. contre la chaleur",
+  "searchText": "Jeu de clips de maintien, tôle de protect. contre la chaleur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:48:56.883Z",
+  "productId": 60585,
+  "arborescence": {
+    "Échappement": {
+      "categoryId": 100004,
+      "categoryName": "Échappement",
+      "level": 1,
+      "children": {
+        "Protection thermique": {
+          "categoryId": null,
+          "categoryName": "Protection thermique",
+          "level": 2,
+          "children": {
+            "Jeu de clips de maintien, tôle de protect. contre la chaleur": {
+              "categoryId": 100714,
+              "categoryName": "Heat Shield",
+              "level": 2,
+              "children": [],
+              "productId": 60585
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Échappement [ID: 100004] (Niveau 1)\n    └── Protection thermique (Niveau 2)\n        └── Heat Shield [ID: 100714] (Niveau 2) → ProductId: 60585",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Échappement",
+        "Protection thermique",
+        "Heat Shield"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100714
+      ],
+      "finalCategoryId": 100714,
+      "productId": 60585
+    }
+  ],
+  "productIdsInArbo": [
+    60585
+  ],
+  "matchedProductIds": [
+    60585
+  ]
+}

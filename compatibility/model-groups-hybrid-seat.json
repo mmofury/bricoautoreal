@@ -1,0 +1,601 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.479Z",
+  "manufacturer": "SEAT",
+  "countGroups": 28,
+  "groups": [
+    {
+      "manufacturerId": 104,
+      "manufacturerName": "SEAT",
+      "groupKey": "124",
+      "displayName": "124",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5040,
+          "modelName": "124",
+          "modelYearFrom": "1968-01-01",
+          "modelYearTo": "1980-10-01"
+        },
+        {
+          "modelId": 5041,
+          "modelName": "124 Break (124A)",
+          "modelYearFrom": "1970-01-01",
+          "modelYearTo": "1976-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 104,
+      "manufacturerName": "SEAT",
+      "groupKey": "127",
+      "displayName": "127",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5037,
+          "modelName": "127 (127A)",
+          "modelYearFrom": "1972-04-01",
+          "modelYearTo": "1982-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 104,
+      "manufacturerName": "SEAT",
+      "groupKey": "128",
+      "displayName": "128",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5045,
+          "modelName": "128 (128A)",
+          "modelYearFrom": "1976-01-01",
+          "modelYearTo": "1980-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 104,
+      "manufacturerName": "SEAT",
+      "groupKey": "131",
+      "displayName": "131",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 2029,
+          "modelName": "131 (131A)",
+          "modelYearFrom": "1975-05-01",
+          "modelYearTo": "1986-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 104,
+      "manufacturerName": "SEAT",
+      "groupKey": "132",
+      "displayName": "132",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5043,
+          "modelName": "132 (132A)",
+          "modelYearFrom": "1973-01-01",
+          "modelYearTo": "1982-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 104,
+      "manufacturerName": "SEAT",
+      "groupKey": "133",
+      "displayName": "133",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 159,
+          "modelName": "133 (133A)",
+          "modelYearFrom": "1974-05-01",
+          "modelYearTo": "1979-11-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 104,
+      "manufacturerName": "SEAT",
+      "groupKey": "600",
+      "displayName": "600",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 468,
+          "modelName": "600 (110B)",
+          "modelYearFrom": "1963-09-01",
+          "modelYearTo": "1970-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 104,
+      "manufacturerName": "SEAT",
+      "groupKey": "850",
+      "displayName": "850",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5038,
+          "modelName": "850 (100GD)",
+          "modelYearFrom": "1966-01-01",
+          "modelYearTo": "1975-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 104,
+      "manufacturerName": "SEAT",
+      "groupKey": "ALHAMBRA",
+      "displayName": "ALHAMBRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1564,
+          "modelName": "ALHAMBRA (7V8, 7V9)",
+          "modelYearFrom": "1996-04-01",
+          "modelYearTo": "2010-03-01"
+        },
+        {
+          "modelId": 9009,
+          "modelName": "ALHAMBRA (710, 711)",
+          "modelYearFrom": "2010-06-01",
+          "modelYearTo": "2022-12-01"
+        },
+        {
+          "modelId": 41660,
+          "modelName": "ALHAMBRA VAN (711)",
+          "modelYearFrom": "2010-06-01",
+          "modelYearTo": "2023-06-01"
+        },
+        {
+          "modelId": 41662,
+          "modelName": "ALHAMBRA VAN (7V8, 7V9)",
+          "modelYearFrom": "1996-03-01",
+          "modelYearTo": "2010-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 104,
+      "manufacturerName": "SEAT",
+      "groupKey": "ALTEA",
+      "displayName": "ALTEA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5111,
+          "modelName": "ALTEA (5P1)",
+          "modelYearFrom": "2004-03-01",
+          "modelYearTo": "2015-12-01"
+        },
+        {
+          "modelId": 6236,
+          "modelName": "ALTEA XL (5P5, 5P8)",
+          "modelYearFrom": "2006-10-01",
+          "modelYearTo": "2015-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 104,
+      "manufacturerName": "SEAT",
+      "groupKey": "ARONA",
+      "displayName": "ARONA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38144,
+          "modelName": "ARONA (KJ7, KJP)",
+          "modelYearFrom": "2017-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 104,
+      "manufacturerName": "SEAT",
+      "groupKey": "AROSA",
+      "displayName": "AROSA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1903,
+          "modelName": "AROSA (6H1)",
+          "modelYearFrom": "1997-05-01",
+          "modelYearTo": "2004-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 104,
+      "manufacturerName": "SEAT",
+      "groupKey": "ATECA",
+      "displayName": "ATECA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36512,
+          "modelName": "ATECA (KH7, KHP)",
+          "modelYearFrom": "2016-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 104,
+      "manufacturerName": "SEAT",
+      "groupKey": "CORDOBA",
+      "displayName": "CORDOBA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 93,
+          "modelName": "CORDOBA (6K1, 6K2)",
+          "modelYearFrom": "1993-02-01",
+          "modelYearTo": "2002-12-01"
+        },
+        {
+          "modelId": 1992,
+          "modelName": "CORDOBA Vario (6K5)",
+          "modelYearFrom": "1996-07-01",
+          "modelYearTo": "2002-12-01"
+        },
+        {
+          "modelId": 4961,
+          "modelName": "CORDOBA (6L2)",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": "2009-11-01"
+        },
+        {
+          "modelId": 39007,
+          "modelName": "CORDOBA VARIO Fourgon/Break (6K5)",
+          "modelYearFrom": "2000-08-01",
+          "modelYearTo": "2002-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 104,
+      "manufacturerName": "SEAT",
+      "groupKey": "EXEO",
+      "displayName": "EXEO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8032,
+          "modelName": "EXEO (3R2)",
+          "modelYearFrom": "2008-12-01",
+          "modelYearTo": "2013-05-01"
+        },
+        {
+          "modelId": 8095,
+          "modelName": "EXEO ST (3R5)",
+          "modelYearFrom": "2009-05-01",
+          "modelYearTo": "2013-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 104,
+      "manufacturerName": "SEAT",
+      "groupKey": "FURA",
+      "displayName": "FURA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 443,
+          "modelName": "FURA (25A)",
+          "modelYearFrom": "1982-01-01",
+          "modelYearTo": "1986-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 104,
+      "manufacturerName": "SEAT",
+      "groupKey": "IBIZA",
+      "displayName": "IBIZA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 564,
+          "modelName": "IBIZA I (21A)",
+          "modelYearFrom": "1984-06-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 569,
+          "modelName": "IBIZA II (6K1)",
+          "modelYearFrom": "1993-03-01",
+          "modelYearTo": "2002-05-01"
+        },
+        {
+          "modelId": 4870,
+          "modelName": "IBIZA III (6L1)",
+          "modelYearFrom": "2002-02-01",
+          "modelYearTo": "2009-11-01"
+        },
+        {
+          "modelId": 7540,
+          "modelName": "IBIZA IV (6J5, 6P1)",
+          "modelYearFrom": "2008-03-01",
+          "modelYearTo": "2017-12-01"
+        },
+        {
+          "modelId": 7567,
+          "modelName": "IBIZA IV SC (6J1, 6P5)",
+          "modelYearFrom": "2008-06-01",
+          "modelYearTo": "2018-12-01"
+        },
+        {
+          "modelId": 8609,
+          "modelName": "IBIZA IV ST (6J8, 6P8)",
+          "modelYearFrom": "2010-03-01",
+          "modelYearTo": "2016-07-01"
+        },
+        {
+          "modelId": 37916,
+          "modelName": "IBIZA V (KJ1, KJG)",
+          "modelYearFrom": "2017-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39005,
+          "modelName": "IBIZA IV Camionnette/Berline bicorps trois ou cinq portes (6",
+          "modelYearFrom": "2008-04-01",
+          "modelYearTo": "2015-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 104,
+      "manufacturerName": "SEAT",
+      "groupKey": "INCA",
+      "displayName": "INCA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1551,
+          "modelName": "INCA (6K9)",
+          "modelYearFrom": "1995-11-01",
+          "modelYearTo": "2003-11-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 104,
+      "manufacturerName": "SEAT",
+      "groupKey": "LEON",
+      "displayName": "LEON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4350,
+          "modelName": "LEON (1M1)",
+          "modelYearFrom": "1999-11-01",
+          "modelYearTo": "2006-06-01"
+        },
+        {
+          "modelId": 5431,
+          "modelName": "LEON (1P1)",
+          "modelYearFrom": "2005-05-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 10734,
+          "modelName": "LEON (5F1)",
+          "modelYearFrom": "2012-09-01",
+          "modelYearTo": "2021-05-01"
+        },
+        {
+          "modelId": 11279,
+          "modelName": "LEON SC (5F5)",
+          "modelYearFrom": "2013-01-01",
+          "modelYearTo": "2018-12-01"
+        },
+        {
+          "modelId": 11484,
+          "modelName": "LEON ST (5F8)",
+          "modelYearFrom": "2012-09-01",
+          "modelYearTo": "2020-08-01"
+        },
+        {
+          "modelId": 38536,
+          "modelName": "LEON ST Fourgon/Break (5F8)",
+          "modelYearFrom": "2013-01-01",
+          "modelYearTo": "2020-08-01"
+        },
+        {
+          "modelId": 38537,
+          "modelName": "LEON Camionnette/Berline bicorps trois ou cinq portes (5F1)",
+          "modelYearFrom": "2012-09-01",
+          "modelYearTo": "2020-08-01"
+        },
+        {
+          "modelId": 40534,
+          "modelName": "LEON (KL1, KLG)",
+          "modelYearFrom": "2019-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40535,
+          "modelName": "LEON Sportstourer (KL8, KLD)",
+          "modelYearFrom": "2020-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 104,
+      "manufacturerName": "SEAT",
+      "groupKey": "MALAGA",
+      "displayName": "MALAGA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 245,
+          "modelName": "MALAGA (23A)",
+          "modelYearFrom": "1984-11-01",
+          "modelYearTo": "1993-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 104,
+      "manufacturerName": "SEAT",
+      "groupKey": "MARBELLA",
+      "displayName": "MARBELLA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 262,
+          "modelName": "MARBELLA (28A)",
+          "modelYearFrom": "1986-08-01",
+          "modelYearTo": "1999-05-01"
+        },
+        {
+          "modelId": 1960,
+          "modelName": "MARBELLA Camionnette/Berline bicorps trois ou cinq portes (0",
+          "modelYearFrom": "1986-11-01",
+          "modelYearTo": "1999-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 104,
+      "manufacturerName": "SEAT",
+      "groupKey": "MII",
+      "displayName": "MII",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10094,
+          "modelName": "Mii (KF1, KE1)",
+          "modelYearFrom": "2011-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 104,
+      "manufacturerName": "SEAT",
+      "groupKey": "PANDA",
+      "displayName": "PANDA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5035,
+          "modelName": "PANDA (141A)",
+          "modelYearFrom": "1980-10-01",
+          "modelYearTo": "1986-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 104,
+      "manufacturerName": "SEAT",
+      "groupKey": "RITMO",
+      "displayName": "RITMO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5036,
+          "modelName": "RITMO (138)",
+          "modelYearFrom": "1978-07-01",
+          "modelYearTo": "1983-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 104,
+      "manufacturerName": "SEAT",
+      "groupKey": "RONDA",
+      "displayName": "RONDA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 91,
+          "modelName": "RONDA (22A)",
+          "modelYearFrom": "1982-06-01",
+          "modelYearTo": "1988-11-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 104,
+      "manufacturerName": "SEAT",
+      "groupKey": "TARRACO",
+      "displayName": "TARRACO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39208,
+          "modelName": "TARRACO (KN2)",
+          "modelYearFrom": "2018-09-01",
+          "modelYearTo": "2024-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 104,
+      "manufacturerName": "SEAT",
+      "groupKey": "TERRA",
+      "displayName": "TERRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 382,
+          "modelName": "TERRA (24)",
+          "modelYearFrom": "1987-01-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 386,
+          "modelName": "TERRA Fourgon/Break (024A)",
+          "modelYearFrom": "1987-01-01",
+          "modelYearTo": "1996-02-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 104,
+      "manufacturerName": "SEAT",
+      "groupKey": "TOLEDO",
+      "displayName": "TOLEDO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 409,
+          "modelName": "TOLEDO I (1L2)",
+          "modelYearFrom": "1991-01-01",
+          "modelYearTo": "1999-10-01"
+        },
+        {
+          "modelId": 3899,
+          "modelName": "TOLEDO II (1M2)",
+          "modelYearFrom": "1998-10-01",
+          "modelYearTo": "2006-05-01"
+        },
+        {
+          "modelId": 5378,
+          "modelName": "TOLEDO III (5P2)",
+          "modelYearFrom": "2004-04-01",
+          "modelYearTo": "2009-05-01"
+        },
+        {
+          "modelId": 10880,
+          "modelName": "TOLEDO IV (KG3)",
+          "modelYearFrom": "2012-07-01",
+          "modelYearTo": "2019-04-01"
+        }
+      ]
+    }
+  ]
+}

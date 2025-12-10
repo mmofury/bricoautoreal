@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "BF6FF7",
+      "index": "3.82070",
+      "tecDoc": "3.82070",
+      "tecDocProd": "355",
+      "articleNumber": "3.82070",
+      "brand": "DT SPARE PARTS",
+      "shortDescription": "Sensor",
+      "description": "Internal A/C temperature sensor",
+      "eans": [
+        "4047755692599"
+      ],
+      "packageWeight": "0,020",
+      "packageWidth": "5,000",
+      "packageDepth": "13,500",
+      "packageHeight": "5,000",
+      "customsCode": "90268080",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_832",
+          "primary": false,
+          "name": {
+            "en": "Interior temperature sensor"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1485",
+          "primary": true,
+          "name": {
+            "en": "Sensor"
+          }
+        }
+      ]
+    }
+  ]
+}

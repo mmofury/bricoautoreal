@@ -1,0 +1,202 @@
+{
+  "productName": "Goupille fendue",
+  "searchText": "Goupille fendue",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T20:43:29.878Z",
+  "productId": 1658,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Boîtier/filtre à carburant": {
+          "categoryId": null,
+          "categoryName": "Boîtier/filtre à carburant",
+          "level": 2,
+          "children": {
+            "Goupille fendue à ressort, filtre à carburant (thermostat)": {
+              "categoryId": 100253,
+              "categoryName": "Fuel Filter/Housing",
+              "level": 2,
+              "children": [],
+              "productId": 6309
+            }
+          }
+        }
+      }
+    },
+    "Filtre": {
+      "categoryId": 100005,
+      "categoryName": "Filtre",
+      "level": 1,
+      "children": {
+        "Filtre à carburant": {
+          "categoryId": null,
+          "categoryName": "Filtre à carburant",
+          "level": 2,
+          "children": {
+            "Goupille fendue à ressort, filtre à carburant (thermostat)": {
+              "categoryId": 100261,
+              "categoryName": "Fuel Filter",
+              "level": 2,
+              "children": [],
+              "productId": 6309
+            }
+          }
+        }
+      }
+    },
+    "Pièces de maintenance": {
+      "categoryId": 100019,
+      "categoryName": "Pièces de maintenance",
+      "level": 1,
+      "children": {
+        "Travaux supplémentaires": {
+          "categoryId": null,
+          "categoryName": "Travaux supplémentaires",
+          "level": 2,
+          "children": {
+            "Goupille fendue à ressort, filtre à carburant (thermostat)": {
+              "categoryId": 100598,
+              "categoryName": "Additional Repairs",
+              "level": 2,
+              "children": [],
+              "productId": 6309
+            }
+          }
+        }
+      }
+    },
+    "Roues/Pneus": {
+      "categoryId": 103099,
+      "categoryName": "Roues/Pneus",
+      "level": 1,
+      "children": {
+        "Accessoires": {
+          "categoryId": null,
+          "categoryName": "Accessoires",
+          "level": 2,
+          "children": {
+            "Goupille fendue à ressort, pivot de roue": {
+              "categoryId": 103102,
+              "categoryName": "Accessories",
+              "level": 2,
+              "children": [],
+              "productId": 3652
+            }
+          }
+        }
+      }
+    },
+    "Suspension d'essieu/Guidage des roues/Roues": {
+      "categoryId": 100013,
+      "categoryName": "Suspension d'essieu/Guidage des roues/Roues",
+      "level": 1,
+      "children": {
+        "Roue / fixation de la roue": {
+          "categoryId": null,
+          "categoryName": "Roue / fixation de la roue",
+          "level": 2,
+          "children": {
+            "Goupille fendue à ressort, pivot de roue": {
+              "categoryId": 100213,
+              "categoryName": "Wheel/Wheel Fastening",
+              "level": 2,
+              "children": [],
+              "productId": 3652
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Alimentation carburant [ID: 100214] (Niveau 1)\n│   └── Boîtier/filtre à carburant (Niveau 2)\n│       └── Fuel Filter/Housing [ID: 100253] (Niveau 2) → ProductId: 6309\n\n├── Filtre [ID: 100005] (Niveau 1)\n│   └── Filtre à carburant (Niveau 2)\n│       └── Fuel Filter [ID: 100261] (Niveau 2) → ProductId: 6309\n\n├── Pièces de maintenance [ID: 100019] (Niveau 1)\n│   └── Travaux supplémentaires (Niveau 2)\n│       └── Additional Repairs [ID: 100598] (Niveau 2) → ProductId: 6309\n\n├── Roues/Pneus [ID: 103099] (Niveau 1)\n│   └── Accessoires (Niveau 2)\n│       └── Accessories [ID: 103102] (Niveau 2) → ProductId: 3652\n\n└── Suspension d'essieu/Guidage des roues/Roues [ID: 100013] (Niveau 1)\n    └── Roue / fixation de la roue (Niveau 2)\n        └── Wheel/Wheel Fastening [ID: 100213] (Niveau 2) → ProductId: 3652",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Boîtier/filtre à carburant",
+        "Fuel Filter/Housing"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100253
+      ],
+      "finalCategoryId": 100253,
+      "productId": 6309
+    },
+    {
+      "path": [
+        "Filtre",
+        "Filtre à carburant",
+        "Fuel Filter"
+      ],
+      "categoryIds": [
+        100005,
+        null,
+        100261
+      ],
+      "finalCategoryId": 100261,
+      "productId": 6309
+    },
+    {
+      "path": [
+        "Pièces de maintenance",
+        "Travaux supplémentaires",
+        "Additional Repairs"
+      ],
+      "categoryIds": [
+        100019,
+        null,
+        100598
+      ],
+      "finalCategoryId": 100598,
+      "productId": 6309
+    },
+    {
+      "path": [
+        "Roues/Pneus",
+        "Accessoires",
+        "Accessories"
+      ],
+      "categoryIds": [
+        103099,
+        null,
+        103102
+      ],
+      "finalCategoryId": 103102,
+      "productId": 3652
+    },
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Roue / fixation de la roue",
+        "Wheel/Wheel Fastening"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        100213
+      ],
+      "finalCategoryId": 100213,
+      "productId": 3652
+    }
+  ],
+  "productIdsInArbo": [
+    3652,
+    6309
+  ],
+  "closestProductIds": [
+    {
+      "productId": 3652,
+      "productName": "Goupille fendue à ressort, pivot de roue"
+    },
+    {
+      "productId": 6309,
+      "productName": "Goupille fendue à ressort, filtre à carburant (thermostat)"
+    }
+  ]
+}

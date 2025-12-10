@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "F87CB6",
+      "index": "WA411967.82D0",
+      "tecDoc": "411967.82D0",
+      "tecDocProd": "79",
+      "articleNumber": "411967.82D0",
+      "brand": "WAHLER",
+      "shortDescription": "Thermostat, coolant",
+      "description": "Cooling system thermostat (82°C, in housing) fits: BMW X5 (E53) 3.0-4.8 01.00-10.06",
+      "customsCode": "90321080",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_316",
+          "primary": true,
+          "name": {
+            "en": "Thermostat, coolant"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_966",
+          "primary": false,
+          "name": {
+            "en": "Thermostat, oil cooling"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1792",
+          "primary": false,
+          "name": {
+            "en": "Thermostat Housing"
+          }
+        }
+      ]
+    }
+  ]
+}

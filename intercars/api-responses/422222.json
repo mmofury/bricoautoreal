@@ -1,0 +1,70 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "422222",
+      "index": "HP202 150",
+      "tecDoc": "202 150",
+      "tecDocProd": "301",
+      "articleNumber": "202 150",
+      "brand": "HANS PRIES",
+      "shortDescription": "Relay, immobilizer",
+      "description": "GP relay (12V, 30A, number of connections: 4) fits: OPEL AGILA A, AGILA B, ASCONA C, ASTRA F, ASTRA F/KOMBI, ASTRA G, ASTRA G CLASSIC, ASTRA G/KOMBI, CALIBRA A, COMBO TOUR, COMBO/MINIVAN 08.77-",
+      "eans": [
+        "2386110000016"
+      ],
+      "packageWeight": "0,050",
+      "packageWidth": "3,000",
+      "packageDepth": "3,500",
+      "packageHeight": "3,000",
+      "customsCode": "90328900",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4967",
+          "primary": false,
+          "name": {
+            "en": "Multifunctional Relay"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_5654",
+          "primary": false,
+          "name": {
+            "en": "Relay, fuel preheater"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_763",
+          "primary": true,
+          "name": {
+            "en": "Relay, immobilizer"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1111",
+          "primary": false,
+          "name": {
+            "en": "Relay, fuel pump"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1286",
+          "primary": false,
+          "name": {
+            "en": "Relay, rear fog light"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_2262",
+          "primary": false,
+          "name": {
+            "en": "Relay, klaxon/horn"
+          }
+        }
+      ]
+    }
+  ]
+}

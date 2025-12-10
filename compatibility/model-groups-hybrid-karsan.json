@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.369Z",
+  "manufacturer": "KARSAN",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 4445,
+      "manufacturerName": "KARSAN",
+      "groupKey": "J10",
+      "displayName": "J10",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39876,
+          "modelName": "J10",
+          "modelYearFrom": "2011-04-01",
+          "modelYearTo": "2014-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4445,
+      "manufacturerName": "KARSAN",
+      "groupKey": "J9",
+      "displayName": "J9",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39875,
+          "modelName": "J9 PREMIER",
+          "modelYearFrom": "2006-02-01",
+          "modelYearTo": "2013-12-01"
+        }
+      ]
+    }
+  ]
+}

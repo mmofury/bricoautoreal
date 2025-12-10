@@ -1,0 +1,82 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.169Z",
+  "manufacturer": "AUSTIN-HEALEY",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 1538,
+      "manufacturerName": "AUSTIN-HEALEY",
+      "groupKey": "100",
+      "displayName": "100",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37919,
+          "modelName": "100",
+          "modelYearFrom": "1953-01-01",
+          "modelYearTo": "1959-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1538,
+      "manufacturerName": "AUSTIN-HEALEY",
+      "groupKey": "3000",
+      "displayName": "3000",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 12992,
+          "modelName": "3000 MK.III Décapotable",
+          "modelYearFrom": "1964-03-01",
+          "modelYearTo": "1971-10-01"
+        },
+        {
+          "modelId": 12996,
+          "modelName": "3000 MK.I Décapotable",
+          "modelYearFrom": "1959-01-01",
+          "modelYearTo": "1961-12-01"
+        },
+        {
+          "modelId": 12997,
+          "modelName": "3000 MK.II Décapotable",
+          "modelYearFrom": "1962-01-01",
+          "modelYearTo": "1963-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1538,
+      "manufacturerName": "AUSTIN-HEALEY",
+      "groupKey": "SPRITE",
+      "displayName": "SPRITE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4451,
+          "modelName": "SPRITE MK.III Décapotable",
+          "modelYearFrom": "1964-03-01",
+          "modelYearTo": "1966-10-01"
+        },
+        {
+          "modelId": 12993,
+          "modelName": "SPRITE MK.IV Décapotable",
+          "modelYearFrom": "1966-03-01",
+          "modelYearTo": "1971-10-01"
+        },
+        {
+          "modelId": 12994,
+          "modelName": "SPRITE MK.I Décapotable",
+          "modelYearFrom": "1960-01-01",
+          "modelYearTo": "1963-01-01"
+        },
+        {
+          "modelId": 12995,
+          "modelName": "SPRITE MK.II Décapotable",
+          "modelYearFrom": "1961-08-01",
+          "modelYearTo": "1964-10-01"
+        }
+      ]
+    }
+  ]
+}

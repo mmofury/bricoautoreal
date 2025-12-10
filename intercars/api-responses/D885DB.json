@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "D885DB",
+      "index": "03.9314-5950.3",
+      "tecDoc": "03.9314-5950.3",
+      "tecDocProd": "3",
+      "articleNumber": "03.9314-5950.3",
+      "brand": "ATE",
+      "shortDescription": "Devices for working fluids and fuels",
+      "description": "Tap, application: brake fluid ATE",
+      "packageWeight": "0,275",
+      "packageWidth": "15,600",
+      "packageDepth": "12,700",
+      "packageHeight": "19,500",
+      "customsCode": "90319000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_2348",
+          "primary": false,
+          "name": {
+            "en": "Filler Tap, brake fluid"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91773",
+          "primary": true,
+          "name": {
+            "en": "Devices for working fluids and fuels"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Adaptateur de batterie",
+  "searchText": "Adaptateur de batterie",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T18:47:52.416Z",
+  "productId": 3793,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Batterie": {
+          "categoryId": null,
+          "categoryName": "Batterie",
+          "level": 2,
+          "children": {
+            "Adaptateur de batterie": {
+              "categoryId": 100042,
+              "categoryName": "Battery",
+              "level": 2,
+              "children": [],
+              "productId": 3793
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Batterie (Niveau 2)\n        └── Battery [ID: 100042] (Niveau 2) → ProductId: 3793",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Batterie",
+        "Battery"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100042
+      ],
+      "finalCategoryId": 100042,
+      "productId": 3793
+    }
+  ],
+  "productIdsInArbo": [
+    3793
+  ],
+  "matchedProductIds": [
+    3793
+  ]
+}

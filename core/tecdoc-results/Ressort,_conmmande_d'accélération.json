@@ -1,0 +1,178 @@
+{
+  "productName": "Ressort, conmmande d'accélération",
+  "searchText": "Ressort, conmmande d'accélération",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:09:00.967Z",
+  "productId": 1755,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Carburateurs": {
+          "categoryId": null,
+          "categoryName": "Carburateurs",
+          "level": 2,
+          "children": {
+            "Ressort, conmmande d'accélération": {
+              "categoryId": 102903,
+              "categoryName": "Carburettor System",
+              "level": 2,
+              "children": {
+                "Commande / Amortisseurs / Boîtiers": {
+                  "categoryId": null,
+                  "categoryName": "Commande / Amortisseurs / Boîtiers",
+                  "level": 4,
+                  "children": {
+                    "Ressort, conmmande d'accélération": {
+                      "categoryId": 102910,
+                      "categoryName": "Control Linkage/Damper/Chambers",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1755
+                    }
+                  }
+                },
+                "Composants du carburateur": {
+                  "categoryId": null,
+                  "categoryName": "Composants du carburateur",
+                  "level": 4,
+                  "children": {
+                    "Ressort, conmmande d'accélération": {
+                      "categoryId": 102906,
+                      "categoryName": "Carburettor Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1755
+                    }
+                  }
+                }
+              },
+              "productId": 1755
+            }
+          }
+        },
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Ressort, conmmande d'accélération": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Câble/ tige d'accélérateur": {
+                  "categoryId": null,
+                  "categoryName": "Câble/ tige d'accélérateur",
+                  "level": 4,
+                  "children": {
+                    "Ressort, conmmande d'accélération": {
+                      "categoryId": 102802,
+                      "categoryName": "Accelerator Cable/Linkages",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3909
+                    }
+                  }
+                }
+              },
+              "productId": 3909
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Alimentation en air": {
+          "categoryId": null,
+          "categoryName": "Alimentation en air",
+          "level": 2,
+          "children": {
+            "Ressort, conmmande d'accélération": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Câble d'accélérateur/tringlerie": {
+                  "categoryId": null,
+                  "categoryName": "Câble d'accélérateur/tringlerie",
+                  "level": 4,
+                  "children": {
+                    "Ressort, conmmande d'accélération": {
+                      "categoryId": 100385,
+                      "categoryName": "Accelerator Cable/Linkage",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1756
+                    }
+                  }
+                }
+              },
+              "productId": 1756
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carburation [ID: 100254] (Niveau 1)\n│   ├── Carburateurs (Niveau 2)\n│   │   └── Carburettor System [ID: 102903] (Niveau 2) → ProductId: 1755\n│   │       ├── Commande / Amortisseurs / Boîtiers (Niveau 4)\n│   │       │   └── Control Linkage/Damper/Chambers [ID: 102910] (Niveau 3) → ProductId: 1755\n│   │       └── Composants du carburateur (Niveau 4)\n│   │           └── Carburettor Parts [ID: 102906] (Niveau 3) → ProductId: 1755\n│   └── Mélange air-carburant (Niveau 2)\n│       └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 3909\n│           └── Câble/ tige d'accélérateur (Niveau 4)\n│               └── Accelerator Cable/Linkages [ID: 102802] (Niveau 3) → ProductId: 3909\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Alimentation en air (Niveau 2)\n        └── Air Supply [ID: 100383] (Niveau 2) → ProductId: 1756\n            └── Câble d'accélérateur/tringlerie (Niveau 4)\n                └── Accelerator Cable/Linkage [ID: 100385] (Niveau 3) → ProductId: 1756",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Carburateurs",
+        "Carburettor System"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102903
+      ],
+      "finalCategoryId": 102903,
+      "productId": 1755
+    },
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 3909
+    },
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 1756
+    }
+  ],
+  "productIdsInArbo": [
+    1755,
+    1756,
+    3909
+  ],
+  "matchedProductIds": [
+    1755
+  ]
+}

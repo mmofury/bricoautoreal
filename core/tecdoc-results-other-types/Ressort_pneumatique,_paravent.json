@@ -1,0 +1,49 @@
+{
+  "productName": "Ressort pneumatique, paravent",
+  "productId": 846,
+  "searchText": "Ressort pneumatique, paravent",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Cabine du conducteur/carrosserie": {
+          "categoryId": 200022,
+          "categoryName": "Cabine du conducteur/carrosserie",
+          "level": 1,
+          "children": {
+            "Ressorts pneumatiques": {
+              "categoryId": null,
+              "categoryName": "Ressorts pneumatiques",
+              "level": 2,
+              "children": {
+                "Ressort pneumatique, paravent": {
+                  "categoryId": 201031,
+                  "categoryName": "Gas Springs",
+                  "level": 2,
+                  "children": [],
+                  "productId": 846
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Cabine du conducteur/carrosserie [ID: 200022] (Niveau 1)\n    └── Ressorts pneumatiques (Niveau 2)\n        └── Gas Springs [ID: 201031] (Niveau 2) → ProductId: 846",
+      "productIdsInArbo": [
+        846
+      ],
+      "matchedProductIds": [
+        846
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:24:45.867Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

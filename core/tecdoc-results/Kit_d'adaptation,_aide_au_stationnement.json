@@ -1,0 +1,54 @@
+{
+  "productName": "Kit d'adaptation, aide au stationnement",
+  "searchText": "Kit d'adaptation, aide au stationnement",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:57:43.388Z",
+  "productId": 60771,
+  "arborescence": {
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Aide au stationnement/Alarme de marche arrière": {
+          "categoryId": null,
+          "categoryName": "Aide au stationnement/Alarme de marche arrière",
+          "level": 2,
+          "children": {
+            "Kit d'adaptation, aide au stationnement": {
+              "categoryId": 100618,
+              "categoryName": "park distance control/Back-up Alarm",
+              "level": 2,
+              "children": [],
+              "productId": 60771
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Systèmes de confort [ID: 100335] (Niveau 1)\n    └── Aide au stationnement/Alarme de marche arrière (Niveau 2)\n        └── park distance control/Back-up Alarm [ID: 100618] (Niveau 2) → ProductId: 60771",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Systèmes de confort",
+        "Aide au stationnement/Alarme de marche arrière",
+        "park distance control/Back-up Alarm"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        100618
+      ],
+      "finalCategoryId": 100618,
+      "productId": 60771
+    }
+  ],
+  "productIdsInArbo": [
+    60771
+  ],
+  "matchedProductIds": [
+    60771
+  ]
+}

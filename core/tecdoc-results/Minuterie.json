@@ -1,0 +1,191 @@
+{
+  "productName": "Minuterie",
+  "searchText": "Minuterie",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T21:14:48.913Z",
+  "productId": 4160,
+  "arborescence": {
+    "Allumage / préchauffage": {
+      "categoryId": 100008,
+      "categoryName": "Allumage / préchauffage",
+      "level": 1,
+      "children": {
+        "Indicateur de niveau (allumage)": {
+          "categoryId": null,
+          "categoryName": "Indicateur de niveau (allumage)",
+          "level": 2,
+          "children": {
+            "Indicateur de capacité, allumage": {
+              "categoryId": 103016,
+              "categoryName": "Scale (Ignition Timing)",
+              "level": 2,
+              "children": [],
+              "productId": 4242
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Minuterie multifonctions": {
+          "categoryId": null,
+          "categoryName": "Minuterie multifonctions",
+          "level": 2,
+          "children": {
+            "Minuterie multifonctions": {
+              "categoryId": 103428,
+              "categoryName": "Multifunctional Relay",
+              "level": 2,
+              "children": [],
+              "productId": 4967
+            },
+            "Relais industriel": {
+              "categoryId": 103428,
+              "categoryName": "Multifunctional Relay",
+              "level": 2,
+              "children": [],
+              "productId": 8308
+            }
+          }
+        },
+        "Relais": {
+          "categoryId": null,
+          "categoryName": "Relais",
+          "level": 2,
+          "children": {
+            "Minuterie multifonctions": {
+              "categoryId": 100785,
+              "categoryName": "Relay",
+              "level": 2,
+              "children": [],
+              "productId": 4967
+            }
+          }
+        }
+      }
+    },
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Préchauffage du moteur (électrique)": {
+          "categoryId": null,
+          "categoryName": "Préchauffage du moteur (électrique)",
+          "level": 2,
+          "children": {
+            "Minuterie, préchauffage": {
+              "categoryId": 102736,
+              "categoryName": "Engine Preheater System (electric)",
+              "level": 2,
+              "children": [],
+              "productId": 3800
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Allumage / préchauffage [ID: 100008] (Niveau 1)\n│   └── Indicateur de niveau (allumage) (Niveau 2)\n│       └── Scale (Ignition Timing) [ID: 103016] (Niveau 2) → ProductId: 4242\n\n├── Système électrique [ID: 100010] (Niveau 1)\n│   ├── Minuterie multifonctions (Niveau 2)\n│   │   ├── Multifunctional Relay [ID: 103428] (Niveau 2) → ProductId: 4967\n│   │   └── Multifunctional Relay [ID: 103428] (Niveau 2) → ProductId: 8308\n│   └── Relais (Niveau 2)\n│       └── Relay [ID: 100785] (Niveau 2) → ProductId: 4967\n\n└── Systèmes de confort [ID: 100335] (Niveau 1)\n    └── Préchauffage du moteur (électrique) (Niveau 2)\n        └── Engine Preheater System (electric) [ID: 102736] (Niveau 2) → ProductId: 3800",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Indicateur de niveau (allumage)",
+        "Scale (Ignition Timing)"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        103016
+      ],
+      "finalCategoryId": 103016,
+      "productId": 4242
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Minuterie multifonctions",
+        "Multifunctional Relay"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        103428
+      ],
+      "finalCategoryId": 103428,
+      "productId": 4967
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Minuterie multifonctions",
+        "Multifunctional Relay"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        103428
+      ],
+      "finalCategoryId": 103428,
+      "productId": 8308
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Relais",
+        "Relay"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100785
+      ],
+      "finalCategoryId": 100785,
+      "productId": 4967
+    },
+    {
+      "path": [
+        "Systèmes de confort",
+        "Préchauffage du moteur (électrique)",
+        "Engine Preheater System (electric)"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        102736
+      ],
+      "finalCategoryId": 102736,
+      "productId": 3800
+    }
+  ],
+  "productIdsInArbo": [
+    3800,
+    4242,
+    4967,
+    8308
+  ],
+  "closestProductIds": [
+    {
+      "productId": 3800,
+      "productName": "Minuterie, préchauffage"
+    },
+    {
+      "productId": 4242,
+      "productName": "Indicateur de capacité, allumage"
+    },
+    {
+      "productId": 4967,
+      "productName": "Minuterie multifonctions"
+    },
+    {
+      "productId": 8308,
+      "productName": "Relais industriel"
+    }
+  ]
+}

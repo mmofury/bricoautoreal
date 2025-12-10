@@ -1,0 +1,2 @@
+core/prisma/core/dev.db filter=lfs diff=lfs merge=lfs -text
+compatibility/versions.json filter=lfs diff=lfs merge=lfs -text

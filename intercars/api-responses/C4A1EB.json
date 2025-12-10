@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "C4A1EB",
+      "index": "6.45264",
+      "tecDoc": "6.45264",
+      "tecDocProd": "355",
+      "articleNumber": "6.45264",
+      "brand": "DT SPARE PARTS",
+      "shortDescription": "Oil Pump, manual transmission",
+      "description": "Oil pump repair kit",
+      "packageWeight": "0,619",
+      "packageWidth": "6,200",
+      "packageDepth": "8,200",
+      "packageHeight": "8,200",
+      "customsCode": "84139100",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3706",
+          "primary": false,
+          "name": {
+            "en": "Drive Shaft, oil pump"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3991",
+          "primary": true,
+          "name": {
+            "en": "Oil Pump, manual transmission"
+          }
+        }
+      ]
+    }
+  ]
+}

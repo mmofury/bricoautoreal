@@ -1,0 +1,117 @@
+{
+  "productName": "Résistance, pulseur d'air habitacle",
+  "searchText": "Résistance, pulseur d'air habitacle",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:14:48.680Z",
+  "productId": 2975,
+  "arborescence": {
+    "Chauffage / Ventilation": {
+      "categoryId": 100241,
+      "categoryName": "Chauffage / Ventilation",
+      "level": 1,
+      "children": {
+        "Appareils de commande": {
+          "categoryId": null,
+          "categoryName": "Appareils de commande",
+          "level": 2,
+          "children": {
+            "Résistance, pulseur d'air habitacle": {
+              "categoryId": 100725,
+              "categoryName": "Control Units",
+              "level": 2,
+              "children": [],
+              "productId": 2975
+            }
+          }
+        },
+        "Pulseur d'air habitacle composants": {
+          "categoryId": null,
+          "categoryName": "Pulseur d'air habitacle composants",
+          "level": 2,
+          "children": {
+            "Résistance, pulseur d'air habitacle": {
+              "categoryId": 100349,
+              "categoryName": "Blower/Parts",
+              "level": 2,
+              "children": [],
+              "productId": 2975
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Appareils de commande": {
+          "categoryId": null,
+          "categoryName": "Appareils de commande",
+          "level": 2,
+          "children": {
+            "Résistance, pulseur d'air habitacle": {
+              "categoryId": 100727,
+              "categoryName": "Control Units",
+              "level": 2,
+              "children": [],
+              "productId": 2975
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Chauffage / Ventilation [ID: 100241] (Niveau 1)\n│   ├── Appareils de commande (Niveau 2)\n│   │   └── Control Units [ID: 100725] (Niveau 2) → ProductId: 2975\n│   └── Pulseur d'air habitacle composants (Niveau 2)\n│       └── Blower/Parts [ID: 100349] (Niveau 2) → ProductId: 2975\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Appareils de commande (Niveau 2)\n        └── Control Units [ID: 100727] (Niveau 2) → ProductId: 2975",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Chauffage / Ventilation",
+        "Appareils de commande",
+        "Control Units"
+      ],
+      "categoryIds": [
+        100241,
+        null,
+        100725
+      ],
+      "finalCategoryId": 100725,
+      "productId": 2975
+    },
+    {
+      "path": [
+        "Chauffage / Ventilation",
+        "Pulseur d'air habitacle composants",
+        "Blower/Parts"
+      ],
+      "categoryIds": [
+        100241,
+        null,
+        100349
+      ],
+      "finalCategoryId": 100349,
+      "productId": 2975
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Appareils de commande",
+        "Control Units"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100727
+      ],
+      "finalCategoryId": 100727,
+      "productId": 2975
+    }
+  ],
+  "productIdsInArbo": [
+    2975
+  ],
+  "matchedProductIds": [
+    2975
+  ]
+}

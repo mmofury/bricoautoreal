@@ -1,0 +1,147 @@
+{
+  "productName": "Vérin, lit (toit relevable)",
+  "searchText": "Vérin, lit (toit relevable)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:36:33.199Z",
+  "productId": 7745,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Habitacle": {
+          "categoryId": null,
+          "categoryName": "Habitacle",
+          "level": 2,
+          "children": {
+            "Vérin, lit (toit relevable)": {
+              "categoryId": 101690,
+              "categoryName": "Passenger Cabin",
+              "level": 2,
+              "children": {
+                "Composants/suppléments": {
+                  "categoryId": null,
+                  "categoryName": "Composants/suppléments",
+                  "level": 4,
+                  "children": {
+                    "Vérin, lit (toit relevable)": {
+                      "categoryId": 101700,
+                      "categoryName": "Parts",
+                      "level": 3,
+                      "children": {
+                        "Ressorts pneumatiques": {
+                          "categoryId": null,
+                          "categoryName": "Ressorts pneumatiques",
+                          "level": 6,
+                          "children": {
+                            "Vérin, lit (toit relevable)": {
+                              "categoryId": 101703,
+                              "categoryName": "Gas Springs",
+                              "level": 4,
+                              "children": [],
+                              "productId": 7745
+                            }
+                          }
+                        }
+                      },
+                      "productId": 7745
+                    }
+                  }
+                }
+              },
+              "productId": 7745
+            }
+          }
+        },
+        "Ressorts pneumatiques": {
+          "categoryId": null,
+          "categoryName": "Ressorts pneumatiques",
+          "level": 2,
+          "children": {
+            "Vérin, lit (toit relevable)": {
+              "categoryId": 100826,
+              "categoryName": "Gas Springs",
+              "level": 2,
+              "children": [],
+              "productId": 7745
+            }
+          }
+        }
+      }
+    },
+    "Équipement intérieur": {
+      "categoryId": 100341,
+      "categoryName": "Équipement intérieur",
+      "level": 1,
+      "children": {
+        "Ressorts pneumatiques": {
+          "categoryId": null,
+          "categoryName": "Ressorts pneumatiques",
+          "level": 2,
+          "children": {
+            "Vérin, lit (toit relevable)": {
+              "categoryId": 102693,
+              "categoryName": "Gas Springs",
+              "level": 2,
+              "children": [],
+              "productId": 7745
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carrosserie [ID: 100001] (Niveau 1)\n│   ├── Habitacle (Niveau 2)\n│   │   └── Passenger Cabin [ID: 101690] (Niveau 2) → ProductId: 7745\n│   │       └── Composants/suppléments (Niveau 4)\n│   │           └── Parts [ID: 101700] (Niveau 3) → ProductId: 7745\n│   │               └── Ressorts pneumatiques (Niveau 6)\n│   │                   └── Gas Springs [ID: 101703] (Niveau 4) → ProductId: 7745\n│   └── Ressorts pneumatiques (Niveau 2)\n│       └── Gas Springs [ID: 100826] (Niveau 2) → ProductId: 7745\n\n└── Équipement intérieur [ID: 100341] (Niveau 1)\n    └── Ressorts pneumatiques (Niveau 2)\n        └── Gas Springs [ID: 102693] (Niveau 2) → ProductId: 7745",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Habitacle",
+        "Passenger Cabin"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101690
+      ],
+      "finalCategoryId": 101690,
+      "productId": 7745
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Ressorts pneumatiques",
+        "Gas Springs"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100826
+      ],
+      "finalCategoryId": 100826,
+      "productId": 7745
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Ressorts pneumatiques",
+        "Gas Springs"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102693
+      ],
+      "finalCategoryId": 102693,
+      "productId": 7745
+    }
+  ],
+  "productIdsInArbo": [
+    7745
+  ],
+  "matchedProductIds": [
+    7745
+  ]
+}

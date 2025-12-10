@@ -1,0 +1,43 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "F7ECE6",
+      "index": "YCB352",
+      "tecDoc": "YCB352",
+      "tecDocProd": "161",
+      "articleNumber": "YCB352",
+      "brand": "TRW",
+      "shortDescription": "Devices for working fluids and fuels",
+      "description": "Plug set, application: brake fluid, for product (ref. no): YCB350, YCB351 TRW",
+      "gtuCode": "GTU_07",
+      "eans": [
+        "3322937537235"
+      ],
+      "packageWeight": "1,220",
+      "packageWidth": "24,000",
+      "packageDepth": "28,000",
+      "packageHeight": "10,000",
+      "customsCode": "87083099",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_2345",
+          "primary": false,
+          "name": {
+            "en": "Bleeder Adaptor Set"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91773",
+          "primary": true,
+          "name": {
+            "en": "Devices for working fluids and fuels"
+          }
+        }
+      ]
+    }
+  ]
+}

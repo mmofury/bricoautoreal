@@ -1,0 +1,76 @@
+{
+  "productName": "Silencieux avant",
+  "searchText": "Silencieux avant",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:16:08.338Z",
+  "productId": 3435,
+  "arborescence": {
+    "Échappement": {
+      "categoryId": 100004,
+      "categoryName": "Échappement",
+      "level": 1,
+      "children": {
+        "Silencieux": {
+          "categoryId": null,
+          "categoryName": "Silencieux",
+          "level": 2,
+          "children": {
+            "Kit de réparation, silencieux avant": {
+              "categoryId": 100314,
+              "categoryName": "Muffler",
+              "level": 2,
+              "children": [],
+              "productId": 60186
+            },
+            "Silencieux avant": {
+              "categoryId": 100314,
+              "categoryName": "Muffler",
+              "level": 2,
+              "children": [],
+              "productId": 3435
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Échappement [ID: 100004] (Niveau 1)\n    └── Silencieux (Niveau 2)\n        ├── Muffler [ID: 100314] (Niveau 2) → ProductId: 60186\n        └── Muffler [ID: 100314] (Niveau 2) → ProductId: 3435",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Échappement",
+        "Silencieux",
+        "Muffler"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100314
+      ],
+      "finalCategoryId": 100314,
+      "productId": 60186
+    },
+    {
+      "path": [
+        "Échappement",
+        "Silencieux",
+        "Muffler"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100314
+      ],
+      "finalCategoryId": 100314,
+      "productId": 3435
+    }
+  ],
+  "productIdsInArbo": [
+    3435,
+    60186
+  ],
+  "matchedProductIds": [
+    3435
+  ]
+}

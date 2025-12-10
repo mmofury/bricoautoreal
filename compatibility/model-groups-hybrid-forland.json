@@ -1,0 +1,121 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.280Z",
+  "manufacturer": "FORLAND",
+  "countGroups": 6,
+  "groups": [
+    {
+      "manufacturerId": 4189,
+      "manufacturerName": "FORLAND",
+      "groupKey": "EV6",
+      "displayName": "EV6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45246,
+          "modelName": "EV6",
+          "modelYearFrom": "2023-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4189,
+      "manufacturerName": "FORLAND",
+      "groupKey": "KANGRUI",
+      "displayName": "KANGRUI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43139,
+          "modelName": "KANGRUI K1 Camion plate-forme/Châssis",
+          "modelYearFrom": "2011-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43140,
+          "modelName": "KANGRUI K2 Camion plate-forme/Châssis",
+          "modelYearFrom": "2012-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43141,
+          "modelName": "KANGRUI KQ1 Camion plate-forme/Châssis",
+          "modelYearFrom": "2012-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43142,
+          "modelName": "KANGRUI KQ2 Camion plate-forme/Châssis",
+          "modelYearFrom": "2015-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4189,
+      "manufacturerName": "FORLAND",
+      "groupKey": "V",
+      "displayName": "V",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39882,
+          "modelName": "V Camion plate-forme/Châssis",
+          "modelYearFrom": "2007-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4189,
+      "manufacturerName": "FORLAND",
+      "groupKey": "VQ",
+      "displayName": "VQ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39868,
+          "modelName": "VQ Camion plate-forme/Châssis",
+          "modelYearFrom": "2007-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43170,
+          "modelName": "VQ Véhicule municipal",
+          "modelYearFrom": "2015-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4189,
+      "manufacturerName": "FORLAND",
+      "groupKey": "XIAOKAZHIXING",
+      "displayName": "XIAOKAZHIXING",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43155,
+          "modelName": "XIAOKAZHIXING 1 Camion plate-forme/Châssis",
+          "modelYearFrom": "2020-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4189,
+      "manufacturerName": "FORLAND",
+      "groupKey": "YULING",
+      "displayName": "YULING",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43168,
+          "modelName": "YULING Camion plate-forme/Châssis",
+          "modelYearFrom": "2009-11-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

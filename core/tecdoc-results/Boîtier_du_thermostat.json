@@ -1,0 +1,266 @@
+{
+  "productName": "Boîtier du thermostat",
+  "searchText": "Boîtier du thermostat",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:10:58.292Z",
+  "productId": 1792,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Joints": {
+          "categoryId": null,
+          "categoryName": "Joints",
+          "level": 2,
+          "children": {
+            "Bague d'étanchéité, boîtier du thermostat": {
+              "categoryId": 100223,
+              "categoryName": "Gaskets",
+              "level": 2,
+              "children": {
+                "Joint d'eau de refroidissement": {
+                  "categoryId": null,
+                  "categoryName": "Joint d'eau de refroidissement",
+                  "level": 4,
+                  "children": {
+                    "Bague d'étanchéité, boîtier du thermostat": {
+                      "categoryId": 100683,
+                      "categoryName": "Coolant Circuit Seals",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60671
+                    }
+                  }
+                }
+              },
+              "productId": 60671
+            },
+            "Joint d'étanchéité, boîtier du thermostat": {
+              "categoryId": 100223,
+              "categoryName": "Gaskets",
+              "level": 2,
+              "children": {
+                "Joint d'eau de refroidissement": {
+                  "categoryId": null,
+                  "categoryName": "Joint d'eau de refroidissement",
+                  "level": 4,
+                  "children": {
+                    "Joint d'étanchéité, boîtier du thermostat": {
+                      "categoryId": 100683,
+                      "categoryName": "Coolant Circuit Seals",
+                      "level": 3,
+                      "children": [],
+                      "productId": 317
+                    }
+                  }
+                }
+              },
+              "productId": 317
+            }
+          }
+        }
+      }
+    },
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Joint/Thermostat": {
+          "categoryId": null,
+          "categoryName": "Joint/Thermostat",
+          "level": 2,
+          "children": {
+            "Bague d'étanchéité, boîtier du thermostat": {
+              "categoryId": 100094,
+              "categoryName": "Thermostat/Seal",
+              "level": 2,
+              "children": {
+                "Joint": {
+                  "categoryId": null,
+                  "categoryName": "Joint",
+                  "level": 4,
+                  "children": {
+                    "Bague d'étanchéité, boîtier du thermostat": {
+                      "categoryId": 100096,
+                      "categoryName": "Seal",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60671
+                    }
+                  }
+                }
+              },
+              "productId": 60671
+            },
+            "Boîtier du thermostat": {
+              "categoryId": 100094,
+              "categoryName": "Thermostat/Seal",
+              "level": 2,
+              "children": {
+                "Thermostat": {
+                  "categoryId": null,
+                  "categoryName": "Thermostat",
+                  "level": 4,
+                  "children": {
+                    "Boîtier du thermostat": {
+                      "categoryId": 100095,
+                      "categoryName": "Thermostat",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1792
+                    }
+                  }
+                }
+              },
+              "productId": 1792
+            },
+            "Jeu de pièces de montage, boîtier du thermostat": {
+              "categoryId": 100094,
+              "categoryName": "Thermostat/Seal",
+              "level": 2,
+              "children": {
+                "Thermostat": {
+                  "categoryId": null,
+                  "categoryName": "Thermostat",
+                  "level": 4,
+                  "children": {
+                    "Jeu de pièces de montage, boîtier du thermostat": {
+                      "categoryId": 100095,
+                      "categoryName": "Thermostat",
+                      "level": 3,
+                      "children": [],
+                      "productId": 5003
+                    }
+                  }
+                }
+              },
+              "productId": 5003
+            },
+            "Joint d'étanchéité, boîtier du thermostat": {
+              "categoryId": 100094,
+              "categoryName": "Thermostat/Seal",
+              "level": 2,
+              "children": {
+                "Joint": {
+                  "categoryId": null,
+                  "categoryName": "Joint",
+                  "level": 4,
+                  "children": {
+                    "Joint d'étanchéité, boîtier du thermostat": {
+                      "categoryId": 100096,
+                      "categoryName": "Seal",
+                      "level": 3,
+                      "children": [],
+                      "productId": 317
+                    }
+                  }
+                }
+              },
+              "productId": 317
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Moteur [ID: 100002] (Niveau 1)\n│   └── Joints (Niveau 2)\n│       ├── Gaskets [ID: 100223] (Niveau 2) → ProductId: 60671\n│       │   └── Joint d'eau de refroidissement (Niveau 4)\n│       │       └── Coolant Circuit Seals [ID: 100683] (Niveau 3) → ProductId: 60671\n│       └── Gaskets [ID: 100223] (Niveau 2) → ProductId: 317\n│           └── Joint d'eau de refroidissement (Niveau 4)\n│               └── Coolant Circuit Seals [ID: 100683] (Niveau 3) → ProductId: 317\n\n└── Refroidissement [ID: 100007] (Niveau 1)\n    └── Joint/Thermostat (Niveau 2)\n        ├── Thermostat/Seal [ID: 100094] (Niveau 2) → ProductId: 60671\n        │   └── Joint (Niveau 4)\n        │       └── Seal [ID: 100096] (Niveau 3) → ProductId: 60671\n        ├── Thermostat/Seal [ID: 100094] (Niveau 2) → ProductId: 1792\n        │   └── Thermostat (Niveau 4)\n        │       └── Thermostat [ID: 100095] (Niveau 3) → ProductId: 1792\n        ├── Thermostat/Seal [ID: 100094] (Niveau 2) → ProductId: 5003\n        │   └── Thermostat (Niveau 4)\n        │       └── Thermostat [ID: 100095] (Niveau 3) → ProductId: 5003\n        └── Thermostat/Seal [ID: 100094] (Niveau 2) → ProductId: 317\n            └── Joint (Niveau 4)\n                └── Seal [ID: 100096] (Niveau 3) → ProductId: 317",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Joints",
+        "Gaskets"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100223
+      ],
+      "finalCategoryId": 100223,
+      "productId": 60671
+    },
+    {
+      "path": [
+        "Moteur",
+        "Joints",
+        "Gaskets"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100223
+      ],
+      "finalCategoryId": 100223,
+      "productId": 317
+    },
+    {
+      "path": [
+        "Refroidissement",
+        "Joint/Thermostat",
+        "Thermostat/Seal"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100094
+      ],
+      "finalCategoryId": 100094,
+      "productId": 60671
+    },
+    {
+      "path": [
+        "Refroidissement",
+        "Joint/Thermostat",
+        "Thermostat/Seal"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100094
+      ],
+      "finalCategoryId": 100094,
+      "productId": 1792
+    },
+    {
+      "path": [
+        "Refroidissement",
+        "Joint/Thermostat",
+        "Thermostat/Seal"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100094
+      ],
+      "finalCategoryId": 100094,
+      "productId": 5003
+    },
+    {
+      "path": [
+        "Refroidissement",
+        "Joint/Thermostat",
+        "Thermostat/Seal"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100094
+      ],
+      "finalCategoryId": 100094,
+      "productId": 317
+    }
+  ],
+  "productIdsInArbo": [
+    317,
+    1792,
+    5003,
+    60671
+  ],
+  "matchedProductIds": [
+    1792
+  ]
+}

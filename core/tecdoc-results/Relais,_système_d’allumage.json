@@ -1,0 +1,89 @@
+{
+  "productName": "Relais, système d’allumage",
+  "searchText": "Relais, système d’allumage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:08:18.739Z",
+  "productId": 9042,
+  "arborescence": {
+    "Allumage / préchauffage": {
+      "categoryId": 100008,
+      "categoryName": "Allumage / préchauffage",
+      "level": 1,
+      "children": {
+        "Appareil de commande / relais": {
+          "categoryId": null,
+          "categoryName": "Appareil de commande / relais",
+          "level": 2,
+          "children": {
+            "Relais, système d’allumage": {
+              "categoryId": 100247,
+              "categoryName": "Control Unit/Relay/Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 9042
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Relais": {
+          "categoryId": null,
+          "categoryName": "Relais",
+          "level": 2,
+          "children": {
+            "Relais, système d’allumage": {
+              "categoryId": 100785,
+              "categoryName": "Relay",
+              "level": 2,
+              "children": [],
+              "productId": 9042
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Allumage / préchauffage [ID: 100008] (Niveau 1)\n│   └── Appareil de commande / relais (Niveau 2)\n│       └── Control Unit/Relay/Sensors [ID: 100247] (Niveau 2) → ProductId: 9042\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Relais (Niveau 2)\n        └── Relay [ID: 100785] (Niveau 2) → ProductId: 9042",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Appareil de commande / relais",
+        "Control Unit/Relay/Sensors"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        100247
+      ],
+      "finalCategoryId": 100247,
+      "productId": 9042
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Relais",
+        "Relay"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100785
+      ],
+      "finalCategoryId": 100785,
+      "productId": 9042
+    }
+  ],
+  "productIdsInArbo": [
+    9042
+  ],
+  "matchedProductIds": [
+    9042
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "productName": "Boîtier de commande, compresseur",
+  "searchText": "Boîtier de commande, compresseur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:10:42.828Z",
+  "productId": 3827,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Alimentation en air": {
+          "categoryId": null,
+          "categoryName": "Alimentation en air",
+          "level": 2,
+          "children": {
+            "Boîtier de commande, compresseur": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Réglage/Commande": {
+                  "categoryId": null,
+                  "categoryName": "Réglage/Commande",
+                  "level": 4,
+                  "children": {
+                    "Boîtier de commande, compresseur": {
+                      "categoryId": 100818,
+                      "categoryName": "Charger Management",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3827
+                    }
+                  }
+                }
+              },
+              "productId": 3827
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Alimentation en air (Niveau 2)\n        └── Air Supply [ID: 100383] (Niveau 2) → ProductId: 3827\n            └── Réglage/Commande (Niveau 4)\n                └── Charger Management [ID: 100818] (Niveau 3) → ProductId: 3827",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 3827
+    }
+  ],
+  "productIdsInArbo": [
+    3827
+  ],
+  "matchedProductIds": [
+    3827
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Suspension, pompe de la direction assistée",
+  "searchText": "Suspension, pompe de la direction assistée",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:23:16.637Z",
+  "productId": 4206,
+  "arborescence": {
+    "Direction": {
+      "categoryId": 100012,
+      "categoryName": "Direction",
+      "level": 1,
+      "children": {
+        "Crémaillère de direction/pompe": {
+          "categoryId": null,
+          "categoryName": "Crémaillère de direction/pompe",
+          "level": 2,
+          "children": {
+            "Suspension, pompe de la direction assistée": {
+              "categoryId": 100199,
+              "categoryName": "Steering Gear/Pump",
+              "level": 2,
+              "children": [],
+              "productId": 4206
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Direction [ID: 100012] (Niveau 1)\n    └── Crémaillère de direction/pompe (Niveau 2)\n        └── Steering Gear/Pump [ID: 100199] (Niveau 2) → ProductId: 4206",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Direction",
+        "Crémaillère de direction/pompe",
+        "Steering Gear/Pump"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        100199
+      ],
+      "finalCategoryId": 100199,
+      "productId": 4206
+    }
+  ],
+  "productIdsInArbo": [
+    4206
+  ],
+  "matchedProductIds": [
+    4206
+  ]
+}

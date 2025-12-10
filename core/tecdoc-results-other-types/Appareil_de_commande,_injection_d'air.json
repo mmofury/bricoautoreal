@@ -1,0 +1,131 @@
+{
+  "productName": "Appareil de commande, injection d'air",
+  "searchText": "Appareil de commande, injection d'air",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": false,
+      "arborescence": {
+        "Moteur": {
+          "categoryId": 200026,
+          "categoryName": "Moteur",
+          "level": 1,
+          "children": {
+            "Alimentation en air": {
+              "categoryId": null,
+              "categoryName": "Alimentation en air",
+              "level": 2,
+              "children": {
+                "Appareil de commande, injection d'air": {
+                  "categoryId": 200030,
+                  "categoryName": "Air Supply",
+                  "level": 2,
+                  "children": {
+                    "Réglage/contrôle": {
+                      "categoryId": null,
+                      "categoryName": "Réglage/contrôle",
+                      "level": 4,
+                      "children": {
+                        "Appareil de commande, injection d'air": {
+                          "categoryId": 200990,
+                          "categoryName": "Control, air conditioner",
+                          "level": 3,
+                          "children": [],
+                          "productId": 2047
+                        }
+                      }
+                    }
+                  },
+                  "productId": 2047
+                }
+              }
+            }
+          }
+        },
+        "Système électrique": {
+          "categoryId": 200064,
+          "categoryName": "Système électrique",
+          "level": 1,
+          "children": {
+            "Appareils de commande": {
+              "categoryId": null,
+              "categoryName": "Appareils de commande",
+              "level": 2,
+              "children": {
+                "Appareil de commande, injection d'air": {
+                  "categoryId": 202876,
+                  "categoryName": "Controls",
+                  "level": 2,
+                  "children": [],
+                  "productId": 2047
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "├── Moteur [ID: 200026] (Niveau 1)\n│   └── Alimentation en air (Niveau 2)\n│       └── Air Supply [ID: 200030] (Niveau 2) → ProductId: 2047\n│           └── Réglage/contrôle (Niveau 4)\n│               └── Control, air conditioner [ID: 200990] (Niveau 3) → ProductId: 2047\n\n└── Système électrique [ID: 200064] (Niveau 1)\n    └── Appareils de commande (Niveau 2)\n        └── Controls [ID: 202876] (Niveau 2) → ProductId: 2047",
+      "productIdsInArbo": [
+        2047
+      ]
+    },
+    {
+      "typeId": 3,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 4,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 5,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 6,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 7,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 8,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 9,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 10,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 11,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 12,
+      "found": false,
+      "hasMatch": false
+    }
+  ],
+  "timestamp": "2025-12-03T09:42:16.797Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": false
+  }
+}

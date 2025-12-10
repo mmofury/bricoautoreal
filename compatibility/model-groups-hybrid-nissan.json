@@ -1,0 +1,4402 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.434Z",
+  "manufacturer": "NISSAN",
+  "countGroups": 143,
+  "groups": [
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "100NX",
+      "displayName": "100NX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1195,
+          "modelName": "100NX (B13)",
+          "modelYearFrom": "1990-03-01",
+          "modelYearTo": "1996-01-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "1200",
+      "displayName": "1200",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40518,
+          "modelName": "1200 Pick-up (B120)",
+          "modelYearFrom": "1971-02-01",
+          "modelYearTo": "1989-11-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "1400",
+      "displayName": "1400",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10505,
+          "modelName": "1400 BAKKIE (B140)",
+          "modelYearFrom": "1981-08-01",
+          "modelYearTo": "2009-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "180SX",
+      "displayName": "180SX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7035,
+          "modelName": "180SX Coupé (S13)",
+          "modelYearFrom": "1988-09-01",
+          "modelYearTo": "1997-01-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "200SX",
+      "displayName": "200SX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1194,
+          "modelName": "200SX (S13)",
+          "modelYearFrom": "1988-07-01",
+          "modelYearTo": "1995-12-01"
+        },
+        {
+          "modelId": 4201,
+          "modelName": "200SX Coupé (S14)",
+          "modelYearFrom": "1993-10-01",
+          "modelYearTo": "1999-12-01"
+        },
+        {
+          "modelId": 7938,
+          "modelName": "200SX Coupé",
+          "modelYearFrom": "1979-01-01",
+          "modelYearTo": "1983-07-01"
+        },
+        {
+          "modelId": 32895,
+          "modelName": "200SX Coupé",
+          "modelYearFrom": "1976-09-01",
+          "modelYearTo": "1983-12-01"
+        },
+        {
+          "modelId": 32896,
+          "modelName": "200SX Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1979-09-01",
+          "modelYearTo": "1983-12-01"
+        },
+        {
+          "modelId": 45177,
+          "modelName": "200SX Coupé (S14)",
+          "modelYearFrom": "1994-09-01",
+          "modelYearTo": "2000-10-01"
+        },
+        {
+          "modelId": 45178,
+          "modelName": "200SX Coupé (S15)",
+          "modelYearFrom": "2000-10-01",
+          "modelYearTo": "2002-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "210",
+      "displayName": "210",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32897,
+          "modelName": "210 Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1978-09-01",
+          "modelYearTo": "1982-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "240SX",
+      "displayName": "240SX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6870,
+          "modelName": "240SX",
+          "modelYearFrom": "1988-08-01",
+          "modelYearTo": "2001-02-01"
+        },
+        {
+          "modelId": 13573,
+          "modelName": "240SX Décapotable",
+          "modelYearFrom": "1988-09-01",
+          "modelYearTo": "1995-12-01"
+        },
+        {
+          "modelId": 13574,
+          "modelName": "240SX",
+          "modelYearFrom": "1994-01-01",
+          "modelYearTo": "2001-12-01"
+        },
+        {
+          "modelId": 13579,
+          "modelName": "240SX Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1988-09-01",
+          "modelYearTo": "1995-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "240Z",
+      "displayName": "240Z",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11163,
+          "modelName": "240Z (S30)",
+          "modelYearFrom": "1970-10-01",
+          "modelYearTo": "1974-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "260Z",
+      "displayName": "260Z",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11164,
+          "modelName": "260Z (S30)",
+          "modelYearFrom": "1974-05-01",
+          "modelYearTo": "1979-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "280Z",
+      "displayName": "280Z",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32907,
+          "modelName": "280Z Coupé (S30)",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1978-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "280ZX",
+      "displayName": "280ZX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1193,
+          "modelName": "280ZX,ZXT (HGS130)",
+          "modelYearFrom": "1978-07-01",
+          "modelYearTo": "1984-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "300ZX",
+      "displayName": "300ZX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1225,
+          "modelName": "300ZX (Z32)",
+          "modelYearFrom": "1989-09-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 3434,
+          "modelName": "300ZX (Z31)",
+          "modelYearFrom": "1984-01-01",
+          "modelYearTo": "1990-10-01"
+        },
+        {
+          "modelId": 13575,
+          "modelName": "300ZX Décapotable (Z32)",
+          "modelYearFrom": "1988-09-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 39091,
+          "modelName": "300ZX Coupé (Z31)",
+          "modelYearFrom": "1984-01-01",
+          "modelYearTo": "1990-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "310",
+      "displayName": "310",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32911,
+          "modelName": "310 Coupé",
+          "modelYearFrom": "1978-09-01",
+          "modelYearTo": "1982-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "350Z",
+      "displayName": "350Z",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5018,
+          "modelName": "350Z Coupé (Z33)",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": "2009-12-01"
+        },
+        {
+          "modelId": 5203,
+          "modelName": "350Z Roadster (Z33)",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": "2009-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "370Z",
+      "displayName": "370Z",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8052,
+          "modelName": "370Z Coupé (Z34)",
+          "modelYearFrom": "2009-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 8862,
+          "modelName": "370Z Roadster (Z34)",
+          "modelYearFrom": "2009-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "510",
+      "displayName": "510",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32918,
+          "modelName": "510 Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1981-12-01"
+        },
+        {
+          "modelId": 32919,
+          "modelName": "510 A trois volumes",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1981-12-01"
+        },
+        {
+          "modelId": 32920,
+          "modelName": "510 Break",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1981-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "610",
+      "displayName": "610",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32923,
+          "modelName": "610 A trois volumes",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1977-10-01"
+        },
+        {
+          "modelId": 32924,
+          "modelName": "610 Coupé",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1977-10-01"
+        },
+        {
+          "modelId": 32926,
+          "modelName": "610 Break",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1977-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "620",
+      "displayName": "620",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32929,
+          "modelName": "620 Pick-up",
+          "modelYearFrom": "1971-09-01",
+          "modelYearTo": "1979-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "710",
+      "displayName": "710",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32931,
+          "modelName": "710 Hardtop",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 32933,
+          "modelName": "710 Break",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1977-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "720",
+      "displayName": "720",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32934,
+          "modelName": "720 Cab & Chassis",
+          "modelYearFrom": "1979-09-01",
+          "modelYearTo": "1986-12-01"
+        },
+        {
+          "modelId": 35764,
+          "modelName": "720 Extended Cab Pickup",
+          "modelYearFrom": "1979-09-01",
+          "modelYearTo": "1986-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "810",
+      "displayName": "810",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32937,
+          "modelName": "810 Hardtop",
+          "modelYearFrom": "1977-10-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 32939,
+          "modelName": "810 Break",
+          "modelYearFrom": "1976-09-01",
+          "modelYearTo": "1981-12-01"
+        },
+        {
+          "modelId": 40536,
+          "modelName": "810 A trois volumes",
+          "modelYearFrom": "1977-10-01",
+          "modelYearTo": "1981-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "AD",
+      "displayName": "AD",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6249,
+          "modelName": "AD Van (Y10)",
+          "modelYearFrom": "1990-10-01",
+          "modelYearTo": "1999-04-01"
+        },
+        {
+          "modelId": 6913,
+          "modelName": "AD Van (Y11)",
+          "modelYearFrom": "1999-05-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 7036,
+          "modelName": "AD Van (VB11)",
+          "modelYearFrom": "1981-10-01",
+          "modelYearTo": "1990-08-01"
+        },
+        {
+          "modelId": 13898,
+          "modelName": "AD Van (Y12)",
+          "modelYearFrom": "2006-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "ALMERA",
+      "displayName": "ALMERA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1475,
+          "modelName": "ALMERA I Hatchback (N15)",
+          "modelYearFrom": "1995-07-01",
+          "modelYearTo": "2001-01-01"
+        },
+        {
+          "modelId": 1476,
+          "modelName": "ALMERA I (N15)",
+          "modelYearFrom": "1995-07-01",
+          "modelYearTo": "2000-09-01"
+        },
+        {
+          "modelId": 4083,
+          "modelName": "ALMERA TINO (V10)",
+          "modelYearFrom": "1998-12-01",
+          "modelYearTo": "2006-02-01"
+        },
+        {
+          "modelId": 4607,
+          "modelName": "ALMERA II Hatchback (N16)",
+          "modelYearFrom": "2000-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 4651,
+          "modelName": "ALMERA II (N16)",
+          "modelYearFrom": "2000-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 9005,
+          "modelName": "ALMERA Classic (B10)",
+          "modelYearFrom": "2006-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11266,
+          "modelName": "ALMERA (N17)",
+          "modelYearFrom": "2011-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40526,
+          "modelName": "ALMERA (N18_)",
+          "modelYearFrom": "2019-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "ALTIMA",
+      "displayName": "ALTIMA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6871,
+          "modelName": "ALTIMA (L30)",
+          "modelYearFrom": "1997-06-01",
+          "modelYearTo": "2001-08-01"
+        },
+        {
+          "modelId": 7039,
+          "modelName": "ALTIMA Coupé (CL32)",
+          "modelYearFrom": "2006-10-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 7040,
+          "modelName": "ALTIMA (L32)",
+          "modelYearFrom": "2006-10-01",
+          "modelYearTo": "2013-07-01"
+        },
+        {
+          "modelId": 7610,
+          "modelName": "ALTIMA (L31)",
+          "modelYearFrom": "2001-08-01",
+          "modelYearTo": "2007-04-01"
+        },
+        {
+          "modelId": 11717,
+          "modelName": "ALTIMA (L33)",
+          "modelYearFrom": "2012-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39489,
+          "modelName": "ALTIMA (L34)",
+          "modelYearFrom": "2018-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "ALTRA",
+      "displayName": "ALTRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32942,
+          "modelName": "ALTRA Break (N30)",
+          "modelYearFrom": "1997-11-01",
+          "modelYearTo": "2001-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "APRIO",
+      "displayName": "APRIO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9907,
+          "modelName": "APRIO",
+          "modelYearFrom": "2008-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "ARIYA",
+      "displayName": "ARIYA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41986,
+          "modelName": "ARIYA (FE0)",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "ARMADA",
+      "displayName": "ARMADA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7041,
+          "modelName": "ARMADA MK I (TA60)",
+          "modelYearFrom": "2003-08-01",
+          "modelYearTo": "2015-12-01"
+        },
+        {
+          "modelId": 36524,
+          "modelName": "ARMADA MK II (Y62)",
+          "modelYearFrom": "2016-05-01",
+          "modelYearTo": "2024-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "ATLAS",
+      "displayName": "ATLAS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7042,
+          "modelName": "ATLAS II (F23, H41, H42)",
+          "modelYearFrom": "1992-07-01",
+          "modelYearTo": "2007-06-01"
+        },
+        {
+          "modelId": 45534,
+          "modelName": "ATLAS III (F24)",
+          "modelYearFrom": "2007-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "AUSTER",
+      "displayName": "AUSTER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7043,
+          "modelName": "AUSTER (T12)",
+          "modelYearFrom": "1986-06-01",
+          "modelYearTo": "1989-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "AVENIR",
+      "displayName": "AVENIR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6914,
+          "modelName": "AVENIR (W11)",
+          "modelYearFrom": "1997-11-01",
+          "modelYearTo": "2006-03-01"
+        },
+        {
+          "modelId": 7044,
+          "modelName": "AVENIR (W10)",
+          "modelYearFrom": "1986-06-01",
+          "modelYearTo": "1997-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "B210",
+      "displayName": "B210",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32947,
+          "modelName": "B210 Coupé",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1978-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "BASSARA",
+      "displayName": "BASSARA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7136,
+          "modelName": "BASSARA (JU30)",
+          "modelYearFrom": "1999-11-01",
+          "modelYearTo": "2003-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "BE",
+      "displayName": "BE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7197,
+          "modelName": "BE (BK10)",
+          "modelYearFrom": "1982-12-01",
+          "modelYearTo": "1992-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "BLUEBIRD",
+      "displayName": "BLUEBIRD",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1203,
+          "modelName": "BLUEBIRD (T72 , T12, U12)",
+          "modelYearFrom": "1985-12-01",
+          "modelYearTo": "1990-12-01"
+        },
+        {
+          "modelId": 1205,
+          "modelName": "BLUEBIRD (U11)",
+          "modelYearFrom": "1983-11-01",
+          "modelYearTo": "1990-05-01"
+        },
+        {
+          "modelId": 1207,
+          "modelName": "BLUEBIRD (910)",
+          "modelYearFrom": "1980-01-01",
+          "modelYearTo": "1983-12-01"
+        },
+        {
+          "modelId": 1211,
+          "modelName": "BLUEBIRD Hatchback (T72, T12)",
+          "modelYearFrom": "1985-12-01",
+          "modelYearTo": "1992-11-01"
+        },
+        {
+          "modelId": 1212,
+          "modelName": "BLUEBIRD Station Wagon (WU11)",
+          "modelYearFrom": "1983-11-01",
+          "modelYearTo": "1990-12-01"
+        },
+        {
+          "modelId": 1213,
+          "modelName": "BLUEBIRD Traveller (W910)",
+          "modelYearFrom": "1980-01-01",
+          "modelYearTo": "1986-06-01"
+        },
+        {
+          "modelId": 4012,
+          "modelName": "BLUEBIRD A trois volumes (910)",
+          "modelYearFrom": "1980-01-01",
+          "modelYearTo": "1986-06-01"
+        },
+        {
+          "modelId": 4013,
+          "modelName": "BLUEBIRD (B610) (610)",
+          "modelYearFrom": "1971-08-01",
+          "modelYearTo": "1980-01-01"
+        },
+        {
+          "modelId": 6915,
+          "modelName": "BLUEBIRD SYLPHY I (G10, N16)",
+          "modelYearFrom": "2000-01-01",
+          "modelYearTo": "2014-08-01"
+        },
+        {
+          "modelId": 6916,
+          "modelName": "BLUEBIRD SYLPHY II (G11)",
+          "modelYearFrom": "2005-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 7308,
+          "modelName": "BLUEBIRD (U13, U14)",
+          "modelYearFrom": "1991-09-01",
+          "modelYearTo": "2002-05-01"
+        },
+        {
+          "modelId": 11273,
+          "modelName": "BLUEBIRD SYLPHY / SYLPHY III (B17)",
+          "modelYearFrom": "2012-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37656,
+          "modelName": "BLUEBIRD Coupé (910)",
+          "modelYearFrom": "1980-01-01",
+          "modelYearTo": "1983-10-01"
+        },
+        {
+          "modelId": 37965,
+          "modelName": "BLUEBIRD A trois volumes (510)",
+          "modelYearFrom": "1967-08-01",
+          "modelYearTo": "1972-10-01"
+        },
+        {
+          "modelId": 37966,
+          "modelName": "BLUEBIRD Break (510)",
+          "modelYearFrom": "1967-08-01",
+          "modelYearTo": "1972-10-01"
+        },
+        {
+          "modelId": 38236,
+          "modelName": "BLUEBIRD (U14)",
+          "modelYearFrom": "1996-06-01",
+          "modelYearTo": "2002-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "BOBBY",
+      "displayName": "BOBBY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7269,
+          "modelName": "BOBBY Fourgon",
+          "modelYearFrom": "1987-11-01",
+          "modelYearTo": "1994-11-01"
+        },
+        {
+          "modelId": 7270,
+          "modelName": "BOBBY Autobus/Autocar",
+          "modelYearFrom": "1987-11-01",
+          "modelYearTo": "1994-11-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "CABALL",
+      "displayName": "CABALL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40551,
+          "modelName": "CABALL Camion plate-forme/Châssis (C240)",
+          "modelYearFrom": "1966-08-01",
+          "modelYearTo": "1976-04-01"
+        },
+        {
+          "modelId": 40552,
+          "modelName": "CABALL Camion plate-forme/Châssis (C340)",
+          "modelYearFrom": "1976-05-01",
+          "modelYearTo": "1981-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "CABSTAR",
+      "displayName": "CABSTAR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6263,
+          "modelName": "CABSTAR (F22, H40)",
+          "modelYearFrom": "1982-01-01",
+          "modelYearTo": "1993-09-01"
+        },
+        {
+          "modelId": 6264,
+          "modelName": "CABSTAR E (TL_, VL_)",
+          "modelYearFrom": "1992-07-01",
+          "modelYearTo": "2006-11-01"
+        },
+        {
+          "modelId": 6265,
+          "modelName": "CABSTAR (F23, H41, H42)",
+          "modelYearFrom": "1992-07-01",
+          "modelYearTo": "2011-09-01"
+        },
+        {
+          "modelId": 34634,
+          "modelName": "CABSTAR (F24M, F24W)",
+          "modelYearFrom": "2006-09-01",
+          "modelYearTo": "2013-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "CARAVAN",
+      "displayName": "CARAVAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5825,
+          "modelName": "CARAVAN Fourgon (E25)",
+          "modelYearFrom": "2000-10-01",
+          "modelYearTo": "2012-06-01"
+        },
+        {
+          "modelId": 7295,
+          "modelName": "CARAVAN Autobus/Autocar (E25)",
+          "modelYearFrom": "2000-10-01",
+          "modelYearTo": "2012-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "CEDRIC",
+      "displayName": "CEDRIC",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6271,
+          "modelName": "CEDRIC (Y30)",
+          "modelYearFrom": "1983-10-01",
+          "modelYearTo": "1997-08-01"
+        },
+        {
+          "modelId": 6272,
+          "modelName": "CEDRIC Hardtop (Y31)",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "1991-05-01"
+        },
+        {
+          "modelId": 6273,
+          "modelName": "CEDRIC (Y32)",
+          "modelYearFrom": "1991-06-01",
+          "modelYearTo": "1995-10-01"
+        },
+        {
+          "modelId": 6275,
+          "modelName": "CEDRIC X (Y34)",
+          "modelYearFrom": "1999-05-01",
+          "modelYearTo": "2004-12-01"
+        },
+        {
+          "modelId": 6420,
+          "modelName": "CEDRIC WAGON (Y30)",
+          "modelYearFrom": "1983-10-01",
+          "modelYearTo": "1997-08-01"
+        },
+        {
+          "modelId": 37354,
+          "modelName": "CEDRIC A trois volumes (Y31)",
+          "modelYearFrom": "1991-06-01",
+          "modelYearTo": "2010-09-01"
+        },
+        {
+          "modelId": 37611,
+          "modelName": "CEDRIC (Y33)",
+          "modelYearFrom": "1995-11-01",
+          "modelYearTo": "1999-04-01"
+        },
+        {
+          "modelId": 38040,
+          "modelName": "CEDRIC A trois volumes (230)",
+          "modelYearFrom": "1971-08-01",
+          "modelYearTo": "1978-03-01"
+        },
+        {
+          "modelId": 38072,
+          "modelName": "CEDRIC Hardtop (230)",
+          "modelYearFrom": "1971-08-01",
+          "modelYearTo": "1978-03-01"
+        },
+        {
+          "modelId": 38073,
+          "modelName": "CEDRIC Break (230)",
+          "modelYearFrom": "1971-08-01",
+          "modelYearTo": "1972-12-01"
+        },
+        {
+          "modelId": 40544,
+          "modelName": "CEDRIC A trois volumes (430)",
+          "modelYearFrom": "1980-01-01",
+          "modelYearTo": "1984-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "CEFIRO",
+      "displayName": "CEFIRO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6917,
+          "modelName": "CEFIRO I A trois volumes (A31)",
+          "modelYearFrom": "1988-06-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 6918,
+          "modelName": "CEFIRO II A trois volumes (A32)",
+          "modelYearFrom": "1994-08-01",
+          "modelYearTo": "1999-12-01"
+        },
+        {
+          "modelId": 6919,
+          "modelName": "CEFIRO III A trois volumes (A33)",
+          "modelYearFrom": "1999-01-01",
+          "modelYearTo": "2007-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "CHERRY",
+      "displayName": "CHERRY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1197,
+          "modelName": "CHERRY III (N12)",
+          "modelYearFrom": "1982-04-01",
+          "modelYearTo": "1987-10-01"
+        },
+        {
+          "modelId": 1209,
+          "modelName": "CHERRY II Traveller (VN10)",
+          "modelYearFrom": "1978-08-01",
+          "modelYearTo": "1983-12-01"
+        },
+        {
+          "modelId": 1220,
+          "modelName": "CHERRY II Coupé (N10)",
+          "modelYearFrom": "1978-08-01",
+          "modelYearTo": "1982-12-01"
+        },
+        {
+          "modelId": 1221,
+          "modelName": "CHERRY II Hatchback (N10)",
+          "modelYearFrom": "1978-08-01",
+          "modelYearTo": "1984-06-01"
+        },
+        {
+          "modelId": 4014,
+          "modelName": "CHERRY (E10) I",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1978-09-01"
+        },
+        {
+          "modelId": 8864,
+          "modelName": "CHERRY III A trois volumes (N12)",
+          "modelYearFrom": "1983-11-01",
+          "modelYearTo": "1987-09-01"
+        },
+        {
+          "modelId": 8870,
+          "modelName": "CHERRY IV Berline bicorps trois ou cinq portes (N13)",
+          "modelYearFrom": "1987-07-01",
+          "modelYearTo": "1991-09-01"
+        },
+        {
+          "modelId": 8882,
+          "modelName": "CHERRY IV A trois volumes (N13)",
+          "modelYearFrom": "1989-06-01",
+          "modelYearTo": "1991-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "CIMA",
+      "displayName": "CIMA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7280,
+          "modelName": "CIMA (F50)",
+          "modelYearFrom": "2001-02-01",
+          "modelYearTo": "2010-08-01"
+        },
+        {
+          "modelId": 7281,
+          "modelName": "CIMA (Y33)",
+          "modelYearFrom": "1996-07-01",
+          "modelYearTo": "2001-02-01"
+        },
+        {
+          "modelId": 7315,
+          "modelName": "CIMA (Y32)",
+          "modelYearFrom": "1991-09-01",
+          "modelYearTo": "1996-06-01"
+        },
+        {
+          "modelId": 7343,
+          "modelName": "CIMA (Y31)",
+          "modelYearFrom": "1988-01-01",
+          "modelYearTo": "1991-08-01"
+        },
+        {
+          "modelId": 90136,
+          "modelName": "CIMA (Y51)",
+          "modelYearFrom": "2012-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "CIVILIAN",
+      "displayName": "CIVILIAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45536,
+          "modelName": "CIVILIAN Autobus/Autocar (W40)",
+          "modelYearFrom": "1982-08-01",
+          "modelYearTo": "1999-02-01"
+        },
+        {
+          "modelId": 45537,
+          "modelName": "CIVILIAN Autobus/Autocar (W41)",
+          "modelYearFrom": "1999-02-01",
+          "modelYearTo": "2021-01-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "CLIPPER",
+      "displayName": "CLIPPER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7275,
+          "modelName": "CLIPPER VAN (U71W)",
+          "modelYearFrom": "2003-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "CREW",
+      "displayName": "CREW",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7273,
+          "modelName": "CREW (_K30_)",
+          "modelYearFrom": "1993-06-01",
+          "modelYearTo": "2010-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "CUBE",
+      "displayName": "CUBE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7304,
+          "modelName": "CUBE (Z11)",
+          "modelYearFrom": "2003-01-01",
+          "modelYearTo": "2008-11-01"
+        },
+        {
+          "modelId": 7305,
+          "modelName": "CUBE (Z10)",
+          "modelYearFrom": "1998-03-01",
+          "modelYearTo": "2002-12-01"
+        },
+        {
+          "modelId": 8499,
+          "modelName": "CUBE (Z12)",
+          "modelYearFrom": "2007-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "DATSUN",
+      "displayName": "DATSUN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1823,
+          "modelName": "DATSUN 100A (E10, BLF10)",
+          "modelYearFrom": "1974-12-01",
+          "modelYearTo": "1980-08-01"
+        },
+        {
+          "modelId": 1824,
+          "modelName": "DATSUN 120 A trois volumes (B210)",
+          "modelYearFrom": "1962-04-01",
+          "modelYearTo": "1980-08-01"
+        },
+        {
+          "modelId": 1825,
+          "modelName": "DATSUN 140Y Break (HLB310)",
+          "modelYearFrom": "1979-02-01",
+          "modelYearTo": "1983-06-01"
+        },
+        {
+          "modelId": 1826,
+          "modelName": "DATSUN 160J (710, A10)",
+          "modelYearFrom": "1973-01-01",
+          "modelYearTo": "1983-09-01"
+        },
+        {
+          "modelId": 1827,
+          "modelName": "DATSUN 180B (PL810)",
+          "modelYearFrom": "1977-05-01",
+          "modelYearTo": "1981-01-01"
+        },
+        {
+          "modelId": 1828,
+          "modelName": "DATSUN 240 Coupé (C210)",
+          "modelYearFrom": "1978-03-01",
+          "modelYearTo": "1981-07-01"
+        },
+        {
+          "modelId": 2086,
+          "modelName": "DATSUN 100A Break (WBLF10)",
+          "modelYearFrom": "1975-12-01",
+          "modelYearTo": "1980-08-01"
+        },
+        {
+          "modelId": 2087,
+          "modelName": "DATSUN 120Y Coupé (KB210)",
+          "modelYearFrom": "1962-04-01",
+          "modelYearTo": "1980-08-01"
+        },
+        {
+          "modelId": 4011,
+          "modelName": "DATSUN 140J (710)",
+          "modelYearFrom": "1973-01-01",
+          "modelYearTo": "1977-05-01"
+        },
+        {
+          "modelId": 8900,
+          "modelName": "DATSUN 280C A trois volumes (330)",
+          "modelYearFrom": "1977-06-01",
+          "modelYearTo": "1979-12-01"
+        },
+        {
+          "modelId": 37955,
+          "modelName": "DATSUN 280C Break (330)",
+          "modelYearFrom": "1977-06-01",
+          "modelYearTo": "1979-12-01"
+        },
+        {
+          "modelId": 40532,
+          "modelName": "DATSUN 120Y Wagon (VB210)",
+          "modelYearFrom": "1962-04-01",
+          "modelYearTo": "1980-08-01"
+        },
+        {
+          "modelId": 40533,
+          "modelName": "DATSUN 120Y Fourgon/Break (VB210)",
+          "modelYearFrom": "1962-04-01",
+          "modelYearTo": "1980-08-01"
+        },
+        {
+          "modelId": 43048,
+          "modelName": "DATSUN 100A A trois volumes (F10)",
+          "modelYearFrom": "1975-01-01",
+          "modelYearTo": "1980-08-01"
+        },
+        {
+          "modelId": 43049,
+          "modelName": "DATSUN 100A Coupé (F10)",
+          "modelYearFrom": "1975-12-01",
+          "modelYearTo": "1980-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "DAYZ",
+      "displayName": "DAYZ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13397,
+          "modelName": "DAYZ (B21W)",
+          "modelYearFrom": "2013-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13400,
+          "modelName": "DAYZ ROOX (B21A)",
+          "modelYearFrom": "2014-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40582,
+          "modelName": "DAYZ",
+          "modelYearFrom": "2019-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "E20",
+      "displayName": "E20",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44879,
+          "modelName": "E20 Fourgon",
+          "modelYearFrom": "1973-05-01",
+          "modelYearTo": "2000-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "ELGRAND",
+      "displayName": "ELGRAND",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7291,
+          "modelName": "ELGRAND (E50)",
+          "modelYearFrom": "1995-10-01",
+          "modelYearTo": "2002-04-01"
+        },
+        {
+          "modelId": 7292,
+          "modelName": "ELGRAND (E51)",
+          "modelYearFrom": "2000-08-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 9619,
+          "modelName": "ELGRAND (E52)",
+          "modelYearFrom": "2010-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "EVALIA",
+      "displayName": "EVALIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8660,
+          "modelName": "EVALIA Autobus/Autocar",
+          "modelYearFrom": "2010-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "EXA",
+      "displayName": "EXA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8904,
+          "modelName": "EXA Targa (N13)",
+          "modelYearFrom": "1987-02-01",
+          "modelYearTo": "1991-10-01"
+        },
+        {
+          "modelId": 8905,
+          "modelName": "EXA Coupé (N12)",
+          "modelYearFrom": "1983-04-01",
+          "modelYearTo": "1987-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "EXPERT",
+      "displayName": "EXPERT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6308,
+          "modelName": "EXPERT II (W11)",
+          "modelYearFrom": "1998-10-01",
+          "modelYearTo": "2004-04-01"
+        },
+        {
+          "modelId": 7294,
+          "modelName": "EXPERT I (W10)",
+          "modelYearFrom": "1995-10-01",
+          "modelYearTo": "2000-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "F10",
+      "displayName": "F10",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32952,
+          "modelName": "F10 Berline bicorps trois ou cinq portes (F10)",
+          "modelYearFrom": "1975-09-01",
+          "modelYearTo": "1978-12-01"
+        },
+        {
+          "modelId": 32953,
+          "modelName": "F10 A trois volumes (F10)",
+          "modelYearFrom": "1975-09-01",
+          "modelYearTo": "1978-12-01"
+        },
+        {
+          "modelId": 32954,
+          "modelName": "F10 Break (F10)",
+          "modelYearFrom": "1975-09-01",
+          "modelYearTo": "1978-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "FAIRLADY",
+      "displayName": "FAIRLADY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7309,
+          "modelName": "FAIRLADY Z (Z31)",
+          "modelYearFrom": "1984-01-01",
+          "modelYearTo": "1989-12-01"
+        },
+        {
+          "modelId": 37864,
+          "modelName": "FAIRLADY Décapotable (SP310)",
+          "modelYearFrom": "1963-01-01",
+          "modelYearTo": "1968-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "FIGARO",
+      "displayName": "FIGARO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8920,
+          "modelName": "FIGARO Coupé (FK10)",
+          "modelYearFrom": "1991-02-01",
+          "modelYearTo": "1992-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "FUGA",
+      "displayName": "FUGA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13273,
+          "modelName": "FUGA II (_Y51)",
+          "modelYearFrom": "2009-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37229,
+          "modelName": "FUGA I (_Y50)",
+          "modelYearFrom": "2004-10-01",
+          "modelYearTo": "2009-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "GLORIA",
+      "displayName": "GLORIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6313,
+          "modelName": "GLORIA VII (Y30)",
+          "modelYearFrom": "1983-10-01",
+          "modelYearTo": "1987-08-01"
+        },
+        {
+          "modelId": 6314,
+          "modelName": "GLORIA VIII (Y31)",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "2004-08-01"
+        },
+        {
+          "modelId": 6315,
+          "modelName": "GLORIA (Y32)",
+          "modelYearFrom": "1991-06-01",
+          "modelYearTo": "1997-10-01"
+        },
+        {
+          "modelId": 6316,
+          "modelName": "GLORIA (Y33)",
+          "modelYearFrom": "1995-11-01",
+          "modelYearTo": "1999-04-01"
+        },
+        {
+          "modelId": 6317,
+          "modelName": "GLORIA XI (Y34)",
+          "modelYearFrom": "1999-05-01",
+          "modelYearTo": "2004-08-01"
+        },
+        {
+          "modelId": 7301,
+          "modelName": "GLORIA Break (Y30, Y31, Y32)",
+          "modelYearFrom": "1984-03-01",
+          "modelYearTo": "1997-08-01"
+        },
+        {
+          "modelId": 37959,
+          "modelName": "GLORIA Coupé (330)",
+          "modelYearFrom": "1975-01-01",
+          "modelYearTo": "1979-12-01"
+        },
+        {
+          "modelId": 37961,
+          "modelName": "GLORIA A trois volumes (330)",
+          "modelYearFrom": "1975-01-01",
+          "modelYearTo": "1979-12-01"
+        },
+        {
+          "modelId": 37963,
+          "modelName": "GLORIA Break (330)",
+          "modelYearFrom": "1975-01-01",
+          "modelYearTo": "1979-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "GT",
+      "displayName": "GT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7532,
+          "modelName": "GT-R (R35)",
+          "modelYearFrom": "2007-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "HOMY",
+      "displayName": "HOMY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7302,
+          "modelName": "HOMY Camion plate-forme/Châssis (E23)",
+          "modelYearFrom": "1982-08-01",
+          "modelYearTo": "1992-04-01"
+        },
+        {
+          "modelId": 7303,
+          "modelName": "HOMY Camion plate-forme/Châssis (E24)",
+          "modelYearFrom": "1992-05-01",
+          "modelYearTo": "1997-10-01"
+        },
+        {
+          "modelId": 7306,
+          "modelName": "HOMY Fourgon (E23)",
+          "modelYearFrom": "1982-08-01",
+          "modelYearTo": "1992-04-01"
+        },
+        {
+          "modelId": 7307,
+          "modelName": "HOMY Fourgon (E24)",
+          "modelYearFrom": "1992-05-01",
+          "modelYearTo": "1997-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "HYPERMINI",
+      "displayName": "HYPERMINI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13280,
+          "modelName": "HYPERMINI (EA0)",
+          "modelYearFrom": "1998-03-01",
+          "modelYearTo": "2001-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "ICHI",
+      "displayName": "ICHI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7939,
+          "modelName": "ICHI Autobus/Autocar",
+          "modelYearFrom": "1990-09-01",
+          "modelYearTo": "2001-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "INFINITI",
+      "displayName": "INFINITI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9049,
+          "modelName": "INFINITI Q45 (G50)",
+          "modelYearFrom": "1993-07-01",
+          "modelYearTo": "1997-01-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "INTERSTAR",
+      "displayName": "INTERSTAR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4944,
+          "modelName": "INTERSTAR Autobus/Autocar (X70)",
+          "modelYearFrom": "2002-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 4945,
+          "modelName": "INTERSTAR Fourgon (X70)",
+          "modelYearFrom": "2002-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 6616,
+          "modelName": "INTERSTAR Camion plate-forme/Châssis (X70)",
+          "modelYearFrom": "2003-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42577,
+          "modelName": "INTERSTAR Fourgon (X62B)",
+          "modelYearFrom": "2021-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42578,
+          "modelName": "INTERSTAR Camion plate-forme/Châssis (X62B)",
+          "modelYearFrom": "2021-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45517,
+          "modelName": "INTERSTAR Fourgon (XDD)",
+          "modelYearFrom": "2024-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 90042,
+          "modelName": "INTERSTAR Camion plate-forme/Châssis (XDE)",
+          "modelYearFrom": "2024-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "JUKE",
+      "displayName": "JUKE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8922,
+          "modelName": "JUKE (F15)",
+          "modelYearFrom": "2010-06-01",
+          "modelYearTo": "2019-12-01"
+        },
+        {
+          "modelId": 39878,
+          "modelName": "JUKE (F16_)",
+          "modelYearFrom": "2019-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41645,
+          "modelName": "JUKE Van (F15)",
+          "modelYearFrom": "2010-06-01",
+          "modelYearTo": "2019-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "KICKS",
+      "displayName": "KICKS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37719,
+          "modelName": "KICKS (P15_, PP15_)",
+          "modelYearFrom": "2016-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39469,
+          "modelName": "KICKS (D15K)",
+          "modelYearFrom": "2019-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45714,
+          "modelName": "KICKS",
+          "modelYearFrom": "2024-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "KIX",
+      "displayName": "KIX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13278,
+          "modelName": "KIX (H59)",
+          "modelYearFrom": "2008-11-01",
+          "modelYearTo": "2012-11-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "KUBISTAR",
+      "displayName": "KUBISTAR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8531,
+          "modelName": "KUBISTAR Fourgon (X76)",
+          "modelYearFrom": "2003-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "LAFESTA",
+      "displayName": "LAFESTA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10350,
+          "modelName": "LAFESTA (B30)",
+          "modelYearFrom": "2004-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37218,
+          "modelName": "LAFESTA (B35)",
+          "modelYearFrom": "2011-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "LARGO",
+      "displayName": "LARGO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13037,
+          "modelName": "LARGO Monospace (W30)",
+          "modelYearFrom": "1993-05-01",
+          "modelYearTo": "1999-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "LATIO",
+      "displayName": "LATIO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6920,
+          "modelName": "LATIO A trois volumes (C11)",
+          "modelYearFrom": "2004-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 6921,
+          "modelName": "LATIO A trois volumes (N17)",
+          "modelYearFrom": "2007-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37667,
+          "modelName": "LATIO Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2007-03-01",
+          "modelYearTo": "2010-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "LAUREL",
+      "displayName": "LAUREL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1189,
+          "modelName": "LAUREL (JC32)",
+          "modelYearFrom": "1984-11-01",
+          "modelYearTo": "1990-06-01"
+        },
+        {
+          "modelId": 1196,
+          "modelName": "LAUREL (HLC230)",
+          "modelYearFrom": "1977-03-01",
+          "modelYearTo": "1983-05-01"
+        },
+        {
+          "modelId": 1198,
+          "modelName": "LAUREL (JC31)",
+          "modelYearFrom": "1980-11-01",
+          "modelYearTo": "1985-12-01"
+        },
+        {
+          "modelId": 6922,
+          "modelName": "LAUREL (C34)",
+          "modelYearFrom": "1993-01-01",
+          "modelYearTo": "1997-06-01"
+        },
+        {
+          "modelId": 6923,
+          "modelName": "LAUREL (C35)",
+          "modelYearFrom": "1997-07-01",
+          "modelYearTo": "2002-10-01"
+        },
+        {
+          "modelId": 90048,
+          "modelName": "LAUREL A trois volumes (C33)",
+          "modelYearFrom": "1988-12-01",
+          "modelYearTo": "1992-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "LEAF",
+      "displayName": "LEAF",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9010,
+          "modelName": "LEAF (ZE0)",
+          "modelYearFrom": "2010-11-01",
+          "modelYearTo": "2017-12-01"
+        },
+        {
+          "modelId": 38202,
+          "modelName": "LEAF (ZE1)",
+          "modelYearFrom": "2017-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "LEOPARD",
+      "displayName": "LEOPARD",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7268,
+          "modelName": "LEOPARD (Y33)",
+          "modelYearFrom": "1995-10-01",
+          "modelYearTo": "2001-08-01"
+        },
+        {
+          "modelId": 7271,
+          "modelName": "LEOPARD Break (Y33)",
+          "modelYearFrom": "1995-10-01",
+          "modelYearTo": "2001-08-01"
+        },
+        {
+          "modelId": 7278,
+          "modelName": "LEOPARD Coupé (F30)",
+          "modelYearFrom": "1980-10-01",
+          "modelYearTo": "1986-03-01"
+        },
+        {
+          "modelId": 7297,
+          "modelName": "LEOPARD (Y32)",
+          "modelYearFrom": "1991-10-01",
+          "modelYearTo": "1995-09-01"
+        },
+        {
+          "modelId": 7299,
+          "modelName": "LEOPARD I (F30)",
+          "modelYearFrom": "1980-10-01",
+          "modelYearTo": "1986-03-01"
+        },
+        {
+          "modelId": 7363,
+          "modelName": "LEOPARD II Coupé (F31)",
+          "modelYearFrom": "1986-04-01",
+          "modelYearTo": "1991-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "LIVINA",
+      "displayName": "LIVINA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9623,
+          "modelName": "LIVINA / GRAND LIVINA (L10, L11)",
+          "modelYearFrom": "2007-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39497,
+          "modelName": "LIVINA / GRAND LIVINA II",
+          "modelYearFrom": "2019-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "LUCINO",
+      "displayName": "LUCINO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7609,
+          "modelName": "LUCINO A trois volumes (B14)",
+          "modelYearFrom": "1994-09-01",
+          "modelYearTo": "2000-01-01"
+        },
+        {
+          "modelId": 7611,
+          "modelName": "LUCINO Berline bicorps trois ou cinq portes (N15)",
+          "modelYearFrom": "1995-11-01",
+          "modelYearTo": "2000-01-01"
+        },
+        {
+          "modelId": 7624,
+          "modelName": "LUCINO Berline bicorps trois ou cinq portes (N14)",
+          "modelYearFrom": "1991-09-01",
+          "modelYearTo": "1995-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "MAGNITE",
+      "displayName": "MAGNITE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41505,
+          "modelName": "MAGNITE SUV (DD0K)",
+          "modelYearFrom": "2020-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "MAXIMA",
+      "displayName": "MAXIMA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1192,
+          "modelName": "MAXIMA III (J30)",
+          "modelYearFrom": "1988-10-01",
+          "modelYearTo": "1995-02-01"
+        },
+        {
+          "modelId": 1320,
+          "modelName": "MAXIMA / MAXIMA QX IV (A32)",
+          "modelYearFrom": "1994-03-01",
+          "modelYearTo": "2000-08-01"
+        },
+        {
+          "modelId": 4617,
+          "modelName": "MAXIMA / MAXIMA QX V (A33)",
+          "modelYearFrom": "1999-04-01",
+          "modelYearTo": "2003-11-01"
+        },
+        {
+          "modelId": 4618,
+          "modelName": "MAXIMA / MAXIMA QX IV Station Wagon (A32)",
+          "modelYearFrom": "1997-10-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 6872,
+          "modelName": "MAXIMA II (PU11)",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1988-12-01"
+        },
+        {
+          "modelId": 10091,
+          "modelName": "MAXIMA VII (A35)",
+          "modelYearFrom": "2008-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11322,
+          "modelName": "MAXIMA VI (A34)",
+          "modelYearFrom": "2003-01-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 13528,
+          "modelName": "MAXIMA I Break (G910)",
+          "modelYearFrom": "1979-09-01",
+          "modelYearTo": "1984-12-01"
+        },
+        {
+          "modelId": 14108,
+          "modelName": "MAXIMA VIII (A36)",
+          "modelYearFrom": "2015-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 32958,
+          "modelName": "MAXIMA I A trois volumes (G910)",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1984-12-01"
+        },
+        {
+          "modelId": 35758,
+          "modelName": "MAXIMA II Break (PU11)",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1988-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "MICRA",
+      "displayName": "MICRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1190,
+          "modelName": "MICRA I (K10)",
+          "modelYearFrom": "1982-12-01",
+          "modelYearTo": "1992-11-01"
+        },
+        {
+          "modelId": 1208,
+          "modelName": "MICRA II (K11)",
+          "modelYearFrom": "1992-01-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 4971,
+          "modelName": "MICRA III (K12)",
+          "modelYearFrom": "2002-03-01",
+          "modelYearTo": "2010-06-01"
+        },
+        {
+          "modelId": 5458,
+          "modelName": "MICRA C+C III (K12)",
+          "modelYearFrom": "2005-08-01",
+          "modelYearTo": "2010-06-01"
+        },
+        {
+          "modelId": 9133,
+          "modelName": "MICRA IV (K13K, K13KK)",
+          "modelYearFrom": "2010-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37261,
+          "modelName": "MICRA V (K14)",
+          "modelYearFrom": "2016-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 90118,
+          "modelName": "MICRA II Décapotable (K11)",
+          "modelYearFrom": "1997-05-01",
+          "modelYearTo": "1997-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "MOCO",
+      "displayName": "MOCO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13275,
+          "modelName": "MOCO II (MG22S)",
+          "modelYearFrom": "2006-03-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 14353,
+          "modelName": "MOCO III (MG33S)",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37305,
+          "modelName": "MOCO I (MG21S)",
+          "modelYearFrom": "2002-04-01",
+          "modelYearTo": "2006-01-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "MURANO",
+      "displayName": "MURANO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5382,
+          "modelName": "MURANO I (Z50)",
+          "modelYearFrom": "2002-04-01",
+          "modelYearTo": "2009-12-01"
+        },
+        {
+          "modelId": 7870,
+          "modelName": "MURANO II (Z51)",
+          "modelYearFrom": "2007-10-01",
+          "modelYearTo": "2014-09-01"
+        },
+        {
+          "modelId": 12803,
+          "modelName": "MURANO II Décapotable",
+          "modelYearFrom": "2010-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 36382,
+          "modelName": "MURANO III (Z52_)",
+          "modelYearFrom": "2014-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41725,
+          "modelName": "MURANO II VAN (Z51)",
+          "modelYearFrom": "2007-10-01",
+          "modelYearTo": "2014-09-01"
+        },
+        {
+          "modelId": 41726,
+          "modelName": "MURANO III VAN (Z52_)",
+          "modelYearFrom": "2014-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "NAVARA",
+      "displayName": "NAVARA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5434,
+          "modelName": "NAVARA NP300 (D40)",
+          "modelYearFrom": "2004-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 7813,
+          "modelName": "NAVARA (D22)",
+          "modelYearFrom": "1997-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 7814,
+          "modelName": "NAVARA (D21)",
+          "modelYearFrom": "1985-09-01",
+          "modelYearTo": "2008-03-01"
+        },
+        {
+          "modelId": 8651,
+          "modelName": "NAVARA Camion plate-forme/Châssis (D21)",
+          "modelYearFrom": "1985-09-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 8652,
+          "modelName": "NAVARA Camion plate-forme/Châssis (D22)",
+          "modelYearFrom": "1997-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 8653,
+          "modelName": "NAVARA NP300 Camion plate-forme/Châssis (D40)",
+          "modelYearFrom": "2008-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13324,
+          "modelName": "NAVARA Pick-up (D23, D23T)",
+          "modelYearFrom": "2014-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14046,
+          "modelName": "NAVARA NP300 Camion plate-forme/Châssis (D23)",
+          "modelYearFrom": "2015-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "NOTE",
+      "displayName": "NOTE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5482,
+          "modelName": "NOTE (E11, NE11)",
+          "modelYearFrom": "2005-01-01",
+          "modelYearTo": "2013-08-01"
+        },
+        {
+          "modelId": 11226,
+          "modelName": "NOTE (E12)",
+          "modelYearFrom": "2012-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41728,
+          "modelName": "NOTE VAN (E11)",
+          "modelYearFrom": "2005-01-01",
+          "modelYearTo": "2013-08-01"
+        },
+        {
+          "modelId": 41818,
+          "modelName": "NOTE (E13)",
+          "modelYearFrom": "2020-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "NP200",
+      "displayName": "NP200",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10577,
+          "modelName": "NP200",
+          "modelYearFrom": "2008-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "NP300",
+      "displayName": "NP300",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9016,
+          "modelName": "NP300 PICKUP (D22)",
+          "modelYearFrom": "2008-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "NT100",
+      "displayName": "NT100",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37188,
+          "modelName": "NT100 CLIPPER (U71T)",
+          "modelYearFrom": "2003-04-01",
+          "modelYearTo": "2013-05-01"
+        },
+        {
+          "modelId": 37234,
+          "modelName": "NT100 CLIPPER (DR16T)",
+          "modelYearFrom": "2012-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "NT400",
+      "displayName": "NT400",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36484,
+          "modelName": "NT400 CABSTAR (F24M)",
+          "modelYearFrom": "2009-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "NV",
+      "displayName": "NV",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11004,
+          "modelName": "NV 3500 Standard Passenger Van",
+          "modelYearFrom": "2011-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 35918,
+          "modelName": "NV 1500 Standard Cargo Van",
+          "modelYearFrom": "2011-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 36144,
+          "modelName": "NV 2500 Standard Cargo Van",
+          "modelYearFrom": "2011-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 36145,
+          "modelName": "NV 3500 Standard Cargo Van",
+          "modelYearFrom": "2011-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37617,
+          "modelName": "NV (Y10)",
+          "modelYearFrom": "1990-10-01",
+          "modelYearTo": "1999-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "NV100",
+      "displayName": "NV100",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14354,
+          "modelName": "NV100 CLIPPER RIO MPV (DR17W, DR64W)",
+          "modelYearFrom": "2012-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14355,
+          "modelName": "NV100 CLIPPER Monospace (DR17V, DR64V)",
+          "modelYearFrom": "2012-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37189,
+          "modelName": "NV100 CLIPPER Monospace (U71W, U72W)",
+          "modelYearFrom": "2003-04-01",
+          "modelYearTo": "2011-11-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "NV200",
+      "displayName": "NV200",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8659,
+          "modelName": "NV200 Fourgon",
+          "modelYearFrom": "2010-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "NV250",
+      "displayName": "NV250",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40198,
+          "modelName": "NV250 Fourgon (X61)",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40199,
+          "modelName": "NV250 Autobus/Autocar (X61)",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "NV300",
+      "displayName": "NV300",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37028,
+          "modelName": "NV300 Fourgon (X82)",
+          "modelYearFrom": "2016-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37038,
+          "modelName": "NV300 Kombi (X82)",
+          "modelYearFrom": "2016-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37814,
+          "modelName": "NV300 Camion plate-forme/Châssis (X82)",
+          "modelYearFrom": "2016-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "NV350",
+      "displayName": "NV350",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13246,
+          "modelName": "NV350 / CARAVAN Autobus/Autocar (E26)",
+          "modelYearFrom": "2012-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 36891,
+          "modelName": "NV350 Fourgon (E26)",
+          "modelYearFrom": "2012-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "NV400",
+      "displayName": "NV400",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9841,
+          "modelName": "NV400 Fourgon (X62, X62B)",
+          "modelYearFrom": "2011-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 9842,
+          "modelName": "NV400 Autobus/Autocar (X62, X62B)",
+          "modelYearFrom": "2011-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 9846,
+          "modelName": "NV400 Camion plate-forme/Châssis (X62, X62B)",
+          "modelYearFrom": "2011-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "OTTI",
+      "displayName": "OTTI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13279,
+          "modelName": "OTTI (H91, H92)",
+          "modelYearFrom": "2005-01-01",
+          "modelYearTo": "2013-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "PAO",
+      "displayName": "PAO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13281,
+          "modelName": "PAO (PK10)",
+          "modelYearFrom": "1989-03-01",
+          "modelYearTo": "1991-11-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "PATHFINDER",
+      "displayName": "PATHFINDER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3563,
+          "modelName": "PATHFINDER II (R50)",
+          "modelYearFrom": "1995-09-01",
+          "modelYearTo": "2005-07-01"
+        },
+        {
+          "modelId": 5395,
+          "modelName": "PATHFINDER III (R51)",
+          "modelYearFrom": "2005-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 7618,
+          "modelName": "PATHFINDER I (WD21)",
+          "modelYearFrom": "1986-07-01",
+          "modelYearTo": "1995-10-01"
+        },
+        {
+          "modelId": 11002,
+          "modelName": "PATHFINDER IV (R52)",
+          "modelYearFrom": "2012-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41727,
+          "modelName": "PATHFINDER III VAN (R51_)",
+          "modelYearFrom": "2005-01-01",
+          "modelYearTo": "2014-08-01"
+        },
+        {
+          "modelId": 43533,
+          "modelName": "PATHFINDER V (R53)",
+          "modelYearFrom": "2021-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "PATROL",
+      "displayName": "PATROL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1227,
+          "modelName": "PATROL III/2 Station Wagon (W260)",
+          "modelYearFrom": "1988-08-01",
+          "modelYearTo": "1998-04-01"
+        },
+        {
+          "modelId": 1228,
+          "modelName": "PATROL III/1 Station Wagon (W160)",
+          "modelYearFrom": "1979-11-01",
+          "modelYearTo": "1989-02-01"
+        },
+        {
+          "modelId": 2037,
+          "modelName": "PATROL III/1 Hardtop (K160)",
+          "modelYearFrom": "1979-11-01",
+          "modelYearTo": "1989-02-01"
+        },
+        {
+          "modelId": 2038,
+          "modelName": "PATROL III/2 Hardtop (K260)",
+          "modelYearFrom": "1984-10-01",
+          "modelYearTo": "1998-04-01"
+        },
+        {
+          "modelId": 3880,
+          "modelName": "PATROL GR V Wagon (Y61)",
+          "modelYearFrom": "1997-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 3932,
+          "modelName": "PATROL GR IV (Y60, GR)",
+          "modelYearFrom": "1986-01-01",
+          "modelYearTo": "1998-02-01"
+        },
+        {
+          "modelId": 8812,
+          "modelName": "PATROL GR V Camion plate-forme/Châssis (Y61)",
+          "modelYearFrom": "1998-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 8909,
+          "modelName": "PATROL III/1 Camion plate-forme/Châssis (MQ, MK, GQ)",
+          "modelYearFrom": "1980-06-01",
+          "modelYearTo": "2000-09-01"
+        },
+        {
+          "modelId": 8915,
+          "modelName": "PATROL II Véhicule tout terrain à carrosserie ouverte (G61)",
+          "modelYearFrom": "1976-01-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 8917,
+          "modelName": "PATROL II Véhicule tout terrain fermé (G60)",
+          "modelYearFrom": "1976-01-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 8974,
+          "modelName": "PATROL VI (Y62)",
+          "modelYearFrom": "2010-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 9081,
+          "modelName": "PATROL GR IV Camion plate-forme/Châssis (Y60)",
+          "modelYearFrom": "1994-01-01",
+          "modelYearTo": "2000-02-01"
+        },
+        {
+          "modelId": 10540,
+          "modelName": "PATROL GR V Pick-up (Y61)",
+          "modelYearFrom": "2006-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 46022,
+          "modelName": "PATROL MK VII (Y63)",
+          "modelYearFrom": "2024-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "PICK",
+      "displayName": "PICK",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3515,
+          "modelName": "PICK UP (D21)",
+          "modelYearFrom": "1985-09-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 3892,
+          "modelName": "PICK UP (D22)",
+          "modelYearFrom": "1997-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 4008,
+          "modelName": "PICK UP (720)",
+          "modelYearFrom": "1980-01-01",
+          "modelYearTo": "1986-03-01"
+        },
+        {
+          "modelId": 38553,
+          "modelName": "PICK UP (D22G)",
+          "modelYearFrom": "2016-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "PINO",
+      "displayName": "PINO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13285,
+          "modelName": "PINO (HC24_)",
+          "modelYearFrom": "2007-03-01",
+          "modelYearTo": "2012-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "PINTARA",
+      "displayName": "PINTARA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8916,
+          "modelName": "PINTARA A trois volumes (R31)",
+          "modelYearFrom": "1986-06-01",
+          "modelYearTo": "1990-10-01"
+        },
+        {
+          "modelId": 8918,
+          "modelName": "PINTARA Break (R31)",
+          "modelYearFrom": "1986-06-01",
+          "modelYearTo": "1990-10-01"
+        },
+        {
+          "modelId": 8919,
+          "modelName": "PINTARA Berline bicorps trois ou cinq portes (U12)",
+          "modelYearFrom": "1990-11-01",
+          "modelYearTo": "1992-10-01"
+        },
+        {
+          "modelId": 8921,
+          "modelName": "PINTARA A trois volumes (U12)",
+          "modelYearFrom": "1989-11-01",
+          "modelYearTo": "1992-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "PIXO",
+      "displayName": "PIXO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8053,
+          "modelName": "PIXO (UA0)",
+          "modelYearFrom": "2009-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "PLATINA",
+      "displayName": "PLATINA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6873,
+          "modelName": "PLATINA",
+          "modelYearFrom": "2001-06-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 13563,
+          "modelName": "PLATINA",
+          "modelYearFrom": "2008-09-01",
+          "modelYearTo": "2010-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "PRAIRIE",
+      "displayName": "PRAIRIE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1201,
+          "modelName": "PRAIRIE (M10, NM10)",
+          "modelYearFrom": "1982-12-01",
+          "modelYearTo": "1988-10-01"
+        },
+        {
+          "modelId": 1219,
+          "modelName": "PRAIRIE PRO (M11)",
+          "modelYearFrom": "1988-10-01",
+          "modelYearTo": "1998-10-01"
+        },
+        {
+          "modelId": 36744,
+          "modelName": "PRAIRIE LIBERTY (_M12)",
+          "modelYearFrom": "1998-11-01",
+          "modelYearTo": "2004-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "PRESAGE",
+      "displayName": "PRESAGE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13272,
+          "modelName": "PRESAGE (U30)",
+          "modelYearFrom": "1998-03-01",
+          "modelYearTo": "2003-12-01"
+        },
+        {
+          "modelId": 37118,
+          "modelName": "PRESAGE (U31)",
+          "modelYearFrom": "2003-09-01",
+          "modelYearTo": "2009-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "PRESEA",
+      "displayName": "PRESEA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13271,
+          "modelName": "PRESEA (R11)",
+          "modelYearFrom": "1990-03-01",
+          "modelYearTo": "2000-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "PRESIDENT",
+      "displayName": "PRESIDENT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13282,
+          "modelName": "PRESIDENT (H252)",
+          "modelYearFrom": "1973-03-01",
+          "modelYearTo": "1990-10-01"
+        },
+        {
+          "modelId": 13283,
+          "modelName": "PRESIDENT (JHG50)",
+          "modelYearFrom": "1990-03-01",
+          "modelYearTo": "2002-10-01"
+        },
+        {
+          "modelId": 37409,
+          "modelName": "PRESIDENT (PGF50)",
+          "modelYearFrom": "2003-10-01",
+          "modelYearTo": "2010-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "PRIMASTAR",
+      "displayName": "PRIMASTAR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4949,
+          "modelName": "PRIMASTAR Autobus/Autocar (X83)",
+          "modelYearFrom": "2001-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 4965,
+          "modelName": "PRIMASTAR Fourgon (X83)",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10593,
+          "modelName": "PRIMASTAR Camion plate-forme/Châssis (X83)",
+          "modelYearFrom": "2002-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42518,
+          "modelName": "PRIMASTAR Fourgon (X82)",
+          "modelYearFrom": "2021-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43524,
+          "modelName": "PRIMASTAR Autobus/Autocar (X82)",
+          "modelYearFrom": "2021-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "PRIMERA",
+      "displayName": "PRIMERA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1202,
+          "modelName": "PRIMERA (P10)",
+          "modelYearFrom": "1990-06-01",
+          "modelYearTo": "1996-06-01"
+        },
+        {
+          "modelId": 1223,
+          "modelName": "PRIMERA Hatchback (P10)",
+          "modelYearFrom": "1990-06-01",
+          "modelYearTo": "1996-06-01"
+        },
+        {
+          "modelId": 1224,
+          "modelName": "PRIMERA Traveller (W10)",
+          "modelYearFrom": "1990-07-01",
+          "modelYearTo": "1998-03-01"
+        },
+        {
+          "modelId": 1899,
+          "modelName": "PRIMERA (P11)",
+          "modelYearFrom": "1996-06-01",
+          "modelYearTo": "2001-12-01"
+        },
+        {
+          "modelId": 1900,
+          "modelName": "PRIMERA Hatchback (P11)",
+          "modelYearFrom": "1996-06-01",
+          "modelYearTo": "2002-07-01"
+        },
+        {
+          "modelId": 3561,
+          "modelName": "PRIMERA Traveller (WP11)",
+          "modelYearFrom": "1996-06-01",
+          "modelYearTo": "2002-01-01"
+        },
+        {
+          "modelId": 4833,
+          "modelName": "PRIMERA (P12)",
+          "modelYearFrom": "2002-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 4834,
+          "modelName": "PRIMERA Traveller (WP12)",
+          "modelYearFrom": "2002-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 4941,
+          "modelName": "PRIMERA Hatchback (P12)",
+          "modelYearFrom": "2002-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "PULSAR",
+      "displayName": "PULSAR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7620,
+          "modelName": "PULSAR Berline bicorps trois ou cinq portes (N12)",
+          "modelYearFrom": "1982-01-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 10740,
+          "modelName": "PULSAR Berline bicorps trois ou cinq portes (N14)",
+          "modelYearFrom": "1990-01-01",
+          "modelYearTo": "1995-12-01"
+        },
+        {
+          "modelId": 11289,
+          "modelName": "PULSAR A trois volumes (N12)",
+          "modelYearFrom": "1982-01-01",
+          "modelYearTo": "1986-12-01"
+        },
+        {
+          "modelId": 11321,
+          "modelName": "PULSAR Berline bicorps trois ou cinq portes (N10)",
+          "modelYearFrom": "1978-01-01",
+          "modelYearTo": "1982-12-01"
+        },
+        {
+          "modelId": 11365,
+          "modelName": "PULSAR Berline bicorps trois ou cinq portes (C13)",
+          "modelYearFrom": "2014-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 32969,
+          "modelName": "PULSAR NX Coupé",
+          "modelYearFrom": "1982-09-01",
+          "modelYearTo": "1990-12-01"
+        },
+        {
+          "modelId": 37394,
+          "modelName": "PULSAR A trois volumes (N13)",
+          "modelYearFrom": "1988-09-01",
+          "modelYearTo": "1990-08-01"
+        },
+        {
+          "modelId": 37395,
+          "modelName": "PULSAR Berline bicorps trois ou cinq portes (N13)",
+          "modelYearFrom": "1988-09-01",
+          "modelYearTo": "1990-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "QASHQAI",
+      "displayName": "QASHQAI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5616,
+          "modelName": "QASHQAI I (J10, NJ10)",
+          "modelYearFrom": "2006-11-01",
+          "modelYearTo": "2014-04-01"
+        },
+        {
+          "modelId": 11757,
+          "modelName": "QASHQAI II (J11, J11_)",
+          "modelYearFrom": "2013-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41701,
+          "modelName": "QASHQAI I VAN (J10)",
+          "modelYearFrom": "2006-12-01",
+          "modelYearTo": "2014-04-01"
+        },
+        {
+          "modelId": 41702,
+          "modelName": "QASHQAI II VAN (J11_)",
+          "modelYearFrom": "2013-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41987,
+          "modelName": "QASHQAI III (J12)",
+          "modelYearFrom": "2021-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 90173,
+          "modelName": "QASHQAI +2 (JJ10E)",
+          "modelYearFrom": "2007-02-01",
+          "modelYearTo": "2014-07-01"
+        },
+        {
+          "modelId": 90174,
+          "modelName": "QASHQAI +2 VAN (JJ10E)",
+          "modelYearFrom": "2008-08-01",
+          "modelYearTo": "2014-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "QUEST",
+      "displayName": "QUEST",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6874,
+          "modelName": "QUEST (V42)",
+          "modelYearFrom": "2003-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 7522,
+          "modelName": "QUEST (V40)",
+          "modelYearFrom": "1992-05-01",
+          "modelYearTo": "1998-09-01"
+        },
+        {
+          "modelId": 10840,
+          "modelName": "QUEST (E52)",
+          "modelYearFrom": "2009-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 35747,
+          "modelName": "QUEST Mini Passenger Van",
+          "modelYearFrom": "1998-09-01",
+          "modelYearTo": "2002-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "R",
+      "displayName": "R",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37380,
+          "modelName": "R'NESSA (N30)",
+          "modelYearFrom": "1997-11-01",
+          "modelYearTo": "2001-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "RASHEEN",
+      "displayName": "RASHEEN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10739,
+          "modelName": "RASHEEN (NB14)",
+          "modelYearFrom": "1994-08-01",
+          "modelYearTo": "2000-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "ROGUE",
+      "displayName": "ROGUE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10315,
+          "modelName": "ROGUE",
+          "modelYearFrom": "2007-01-01",
+          "modelYearTo": "2015-12-01"
+        },
+        {
+          "modelId": 40893,
+          "modelName": "ROGUE (T33)",
+          "modelYearFrom": "2020-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "ROOX",
+      "displayName": "ROOX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13284,
+          "modelName": "ROOX (B21A)",
+          "modelYearFrom": "2009-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40578,
+          "modelName": "ROOX",
+          "modelYearFrom": "2020-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "S",
+      "displayName": "S",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8911,
+          "modelName": "S-CARGO Fourgon",
+          "modelYearFrom": "1989-01-01",
+          "modelYearTo": "1994-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "SABRE",
+      "displayName": "SABRE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44197,
+          "modelName": "SABRE (ES, N14)",
+          "modelYearFrom": "1994-08-01",
+          "modelYearTo": "2001-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "SANI",
+      "displayName": "SANI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10541,
+          "modelName": "SANI Véhicule tout terrain fermé",
+          "modelYearFrom": "1992-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10742,
+          "modelName": "SANI Véhicule tout terrain fermé",
+          "modelYearFrom": "1986-07-01",
+          "modelYearTo": "1992-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "SENTRA",
+      "displayName": "SENTRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6875,
+          "modelName": "SENTRA V (B15)",
+          "modelYearFrom": "1998-07-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 7937,
+          "modelName": "SENTRA VI (B16)",
+          "modelYearFrom": "2006-09-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 11513,
+          "modelName": "SENTRA VII (B17)",
+          "modelYearFrom": "2012-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13899,
+          "modelName": "SENTRA IV (B14)",
+          "modelYearFrom": "1995-01-01",
+          "modelYearTo": "1999-12-01"
+        },
+        {
+          "modelId": 13900,
+          "modelName": "SENTRA III (B13)",
+          "modelYearFrom": "1990-01-01",
+          "modelYearTo": "1994-12-01"
+        },
+        {
+          "modelId": 32975,
+          "modelName": "SENTRA Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1981-09-01",
+          "modelYearTo": "1986-12-01"
+        },
+        {
+          "modelId": 37256,
+          "modelName": "SENTRA A trois volumes",
+          "modelYearFrom": "1981-09-01",
+          "modelYearTo": "1986-12-01"
+        },
+        {
+          "modelId": 40892,
+          "modelName": "SENTRA VIII (B18X)",
+          "modelYearFrom": "2019-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44177,
+          "modelName": "SENTRA II (ES, N14)",
+          "modelYearFrom": "1992-06-01",
+          "modelYearTo": "2002-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "SERENA",
+      "displayName": "SERENA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1229,
+          "modelName": "SERENA (C23)",
+          "modelYearFrom": "1991-06-01",
+          "modelYearTo": "2001-09-01"
+        },
+        {
+          "modelId": 5823,
+          "modelName": "SERENA (C24)",
+          "modelYearFrom": "1999-06-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 10016,
+          "modelName": "SERENA (C25)",
+          "modelYearFrom": "2005-04-01",
+          "modelYearTo": "2012-08-01"
+        },
+        {
+          "modelId": 10017,
+          "modelName": "SERENA (C26)",
+          "modelYearFrom": "2010-11-01",
+          "modelYearTo": "2017-12-01"
+        },
+        {
+          "modelId": 37219,
+          "modelName": "SERENA (C27)",
+          "modelYearFrom": "2016-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41729,
+          "modelName": "SERENA VAN (C23)",
+          "modelYearFrom": "1991-06-01",
+          "modelYearTo": "2001-09-01"
+        },
+        {
+          "modelId": 45501,
+          "modelName": "SERENA (C28)",
+          "modelYearFrom": "2022-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "SILVIA",
+      "displayName": "SILVIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1546,
+          "modelName": "SILVIA (S12)",
+          "modelYearFrom": "1983-06-01",
+          "modelYearTo": "1988-12-01"
+        },
+        {
+          "modelId": 2034,
+          "modelName": "SILVIA (S110)",
+          "modelYearFrom": "1979-01-01",
+          "modelYearTo": "1983-07-01"
+        },
+        {
+          "modelId": 7267,
+          "modelName": "SILVIA Coupé (S13)",
+          "modelYearFrom": "1988-08-01",
+          "modelYearTo": "1994-03-01"
+        },
+        {
+          "modelId": 7277,
+          "modelName": "SILVIA Décapotable (S13)",
+          "modelYearFrom": "1988-08-01",
+          "modelYearTo": "1994-03-01"
+        },
+        {
+          "modelId": 8845,
+          "modelName": "SILVIA (S15)",
+          "modelYearFrom": "1999-09-01",
+          "modelYearTo": "2006-07-01"
+        },
+        {
+          "modelId": 36518,
+          "modelName": "SILVIA Berline bicorps trois ou cinq portes (S12)",
+          "modelYearFrom": "1983-06-01",
+          "modelYearTo": "1988-12-01"
+        },
+        {
+          "modelId": 39671,
+          "modelName": "SILVIA Décapotable (S15)",
+          "modelYearFrom": "2000-07-01",
+          "modelYearTo": "2001-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "SKYLINE",
+      "displayName": "SKYLINE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6925,
+          "modelName": "SKYLINE Break (R30)",
+          "modelYearFrom": "1981-03-01",
+          "modelYearTo": "1986-06-01"
+        },
+        {
+          "modelId": 6926,
+          "modelName": "SKYLINE (R30)",
+          "modelYearFrom": "1981-03-01",
+          "modelYearTo": "1987-06-01"
+        },
+        {
+          "modelId": 6927,
+          "modelName": "SKYLINE Coupé (R32)",
+          "modelYearFrom": "1989-03-01",
+          "modelYearTo": "1995-01-01"
+        },
+        {
+          "modelId": 6928,
+          "modelName": "SKYLINE (R32)",
+          "modelYearFrom": "1989-03-01",
+          "modelYearTo": "1993-06-01"
+        },
+        {
+          "modelId": 6929,
+          "modelName": "SKYLINE Coupé (R33)",
+          "modelYearFrom": "1993-07-01",
+          "modelYearTo": "2000-07-01"
+        },
+        {
+          "modelId": 6930,
+          "modelName": "SKYLINE (R33)",
+          "modelYearFrom": "1993-07-01",
+          "modelYearTo": "1998-12-01"
+        },
+        {
+          "modelId": 7279,
+          "modelName": "SKYLINE Coupé (V35)",
+          "modelYearFrom": "2001-01-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 8605,
+          "modelName": "SKYLINE (R34)",
+          "modelYearFrom": "1998-01-01",
+          "modelYearTo": "2006-01-01"
+        },
+        {
+          "modelId": 8606,
+          "modelName": "SKYLINE Coupé (R34)",
+          "modelYearFrom": "1998-01-01",
+          "modelYearTo": "2008-02-01"
+        },
+        {
+          "modelId": 8893,
+          "modelName": "SKYLINE A trois volumes (C210)",
+          "modelYearFrom": "1978-03-01",
+          "modelYearTo": "1981-07-01"
+        },
+        {
+          "modelId": 8894,
+          "modelName": "SKYLINE (R31)",
+          "modelYearFrom": "1985-05-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 8896,
+          "modelName": "SKYLINE Break (R31)",
+          "modelYearFrom": "1985-08-01",
+          "modelYearTo": "1990-12-01"
+        },
+        {
+          "modelId": 8897,
+          "modelName": "SKYLINE Coupé (R31)",
+          "modelYearFrom": "1985-08-01",
+          "modelYearTo": "1990-05-01"
+        },
+        {
+          "modelId": 8898,
+          "modelName": "SKYLINE (V35)",
+          "modelYearFrom": "2000-08-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 36230,
+          "modelName": "SKYLINE CROSSOVER (_J50)",
+          "modelYearFrom": "2009-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37285,
+          "modelName": "SKYLINE (V36)",
+          "modelYearFrom": "2006-12-01",
+          "modelYearTo": "2014-12-01"
+        },
+        {
+          "modelId": 37356,
+          "modelName": "SKYLINE (_V37)",
+          "modelYearFrom": "2014-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38328,
+          "modelName": "SKYLINE Coupé (V36)",
+          "modelYearFrom": "2007-10-01",
+          "modelYearTo": "2015-03-01"
+        },
+        {
+          "modelId": 38817,
+          "modelName": "SKYLINE Berline bicorps trois ou cinq portes (R30)",
+          "modelYearFrom": "1982-08-01",
+          "modelYearTo": "1983-11-01"
+        },
+        {
+          "modelId": 40539,
+          "modelName": "SKYLINE A trois volumes (C110)",
+          "modelYearFrom": "1972-01-01",
+          "modelYearTo": "1978-03-01"
+        },
+        {
+          "modelId": 40540,
+          "modelName": "SKYLINE Coupé (C110)",
+          "modelYearFrom": "1972-01-01",
+          "modelYearTo": "1978-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "STAGEA",
+      "displayName": "STAGEA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8545,
+          "modelName": "STAGEA (M35)",
+          "modelYearFrom": "2001-10-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 8546,
+          "modelName": "STAGEA (WC34)",
+          "modelYearFrom": "1996-09-01",
+          "modelYearTo": "2001-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "STANZA",
+      "displayName": "STANZA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1206,
+          "modelName": "STANZA Hatchback (T11)",
+          "modelYearFrom": "1981-08-01",
+          "modelYearTo": "1985-12-01"
+        },
+        {
+          "modelId": 1450,
+          "modelName": "STANZA (T11)",
+          "modelYearFrom": "1981-08-01",
+          "modelYearTo": "1985-12-01"
+        },
+        {
+          "modelId": 6931,
+          "modelName": "STANZA Berline bicorps trois ou cinq portes (T12)",
+          "modelYearFrom": "1986-01-01",
+          "modelYearTo": "1989-12-01"
+        },
+        {
+          "modelId": 6932,
+          "modelName": "STANZA A trois volumes (T12)",
+          "modelYearFrom": "1985-09-01",
+          "modelYearTo": "1989-12-01"
+        },
+        {
+          "modelId": 32979,
+          "modelName": "STANZA A trois volumes (U12)",
+          "modelYearFrom": "1989-09-01",
+          "modelYearTo": "1992-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "SUNNY",
+      "displayName": "SUNNY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1191,
+          "modelName": "SUNNY (140Y, 150Y)",
+          "modelYearFrom": "1970-01-01",
+          "modelYearTo": "1982-02-01"
+        },
+        {
+          "modelId": 1199,
+          "modelName": "SUNNY I (B11)",
+          "modelYearFrom": "1982-03-01",
+          "modelYearTo": "1990-12-01"
+        },
+        {
+          "modelId": 1200,
+          "modelName": "SUNNY II (N13, B12)",
+          "modelYearFrom": "1986-06-01",
+          "modelYearTo": "1992-10-01"
+        },
+        {
+          "modelId": 1204,
+          "modelName": "SUNNY II Hatchback (N13)",
+          "modelYearFrom": "1986-06-01",
+          "modelYearTo": "1991-09-01"
+        },
+        {
+          "modelId": 1210,
+          "modelName": "SUNNY Traveller (140Y, 150Y)",
+          "modelYearFrom": "1979-06-01",
+          "modelYearTo": "1982-02-01"
+        },
+        {
+          "modelId": 1214,
+          "modelName": "SUNNY III Hatchback (N14)",
+          "modelYearFrom": "1990-08-01",
+          "modelYearTo": "1995-07-01"
+        },
+        {
+          "modelId": 1215,
+          "modelName": "SUNNY III Liftback (N14)",
+          "modelYearFrom": "1990-10-01",
+          "modelYearTo": "1995-10-01"
+        },
+        {
+          "modelId": 1216,
+          "modelName": "SUNNY II Traveller (B12)",
+          "modelYearFrom": "1986-01-01",
+          "modelYearTo": "1991-06-01"
+        },
+        {
+          "modelId": 1217,
+          "modelName": "SUNNY II Coupé (B12)",
+          "modelYearFrom": "1986-06-01",
+          "modelYearTo": "1992-06-01"
+        },
+        {
+          "modelId": 3472,
+          "modelName": "SUNNY I Traveller (B11)",
+          "modelYearFrom": "1982-03-01",
+          "modelYearTo": "1990-08-01"
+        },
+        {
+          "modelId": 3473,
+          "modelName": "SUNNY III (N14, B13)",
+          "modelYearFrom": "1990-05-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 3474,
+          "modelName": "SUNNY III Traveller (Y10)",
+          "modelYearFrom": "1990-11-01",
+          "modelYearTo": "2000-03-01"
+        },
+        {
+          "modelId": 3607,
+          "modelName": "SUNNY I Coupé (B11)",
+          "modelYearFrom": "1982-03-01",
+          "modelYearTo": "1990-08-01"
+        },
+        {
+          "modelId": 4010,
+          "modelName": "SUNNY III Fourgon/Break (Y10)",
+          "modelYearFrom": "1990-11-01",
+          "modelYearTo": "2000-03-01"
+        },
+        {
+          "modelId": 6933,
+          "modelName": "SUNNY III Coupé",
+          "modelYearFrom": "1995-11-01",
+          "modelYearTo": "2001-04-01"
+        },
+        {
+          "modelId": 6934,
+          "modelName": "SUNNY IV Coupé (B15)",
+          "modelYearFrom": "2000-04-01",
+          "modelYearTo": "2003-09-01"
+        },
+        {
+          "modelId": 6935,
+          "modelName": "SUNNY IV Berline bicorps trois ou cinq portes (N16)",
+          "modelYearFrom": "2000-04-01",
+          "modelYearTo": "2003-09-01"
+        },
+        {
+          "modelId": 6936,
+          "modelName": "SUNNY IV A trois volumes (N16)",
+          "modelYearFrom": "1995-07-01",
+          "modelYearTo": "2003-12-01"
+        },
+        {
+          "modelId": 14452,
+          "modelName": "SUNNY",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37967,
+          "modelName": "SUNNY Coupé (KB110)",
+          "modelYearFrom": "1970-06-01",
+          "modelYearTo": "1974-04-01"
+        },
+        {
+          "modelId": 37968,
+          "modelName": "SUNNY A trois volumes (B110)",
+          "modelYearFrom": "1970-06-01",
+          "modelYearTo": "1974-04-01"
+        },
+        {
+          "modelId": 37969,
+          "modelName": "SUNNY Break (B110)",
+          "modelYearFrom": "1970-06-01",
+          "modelYearTo": "1974-04-01"
+        },
+        {
+          "modelId": 37970,
+          "modelName": "SUNNY Coupé (B10)",
+          "modelYearFrom": "1966-06-01",
+          "modelYearTo": "1970-06-01"
+        },
+        {
+          "modelId": 37971,
+          "modelName": "SUNNY A trois volumes (B10)",
+          "modelYearFrom": "1966-06-01",
+          "modelYearTo": "1970-06-01"
+        },
+        {
+          "modelId": 37972,
+          "modelName": "SUNNY Break (VB10)",
+          "modelYearFrom": "1966-06-01",
+          "modelYearTo": "1970-06-01"
+        },
+        {
+          "modelId": 39046,
+          "modelName": "SUNNY Fourgon/Break (B11)",
+          "modelYearFrom": "1982-02-01",
+          "modelYearTo": "1990-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "TEANA",
+      "displayName": "TEANA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8623,
+          "modelName": "TEANA I (J31)",
+          "modelYearFrom": "2003-02-01",
+          "modelYearTo": "2008-09-01"
+        },
+        {
+          "modelId": 8624,
+          "modelName": "TEANA II (J32)",
+          "modelYearFrom": "2007-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13057,
+          "modelName": "TEANA III (J33, L33)",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "TERRA",
+      "displayName": "TERRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39053,
+          "modelName": "TERRA (JD23TT, JD23F)",
+          "modelYearFrom": "2018-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "TERRANO",
+      "displayName": "TERRANO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1218,
+          "modelName": "TERRANO I (WD21)",
+          "modelYearFrom": "1986-07-01",
+          "modelYearTo": "1996-02-01"
+        },
+        {
+          "modelId": 1226,
+          "modelName": "TERRANO II (R20)",
+          "modelYearFrom": "1992-10-01",
+          "modelYearTo": "2007-09-01"
+        },
+        {
+          "modelId": 9837,
+          "modelName": "TERRANO II Van (R20)",
+          "modelYearFrom": "1998-06-01",
+          "modelYearTo": "2007-09-01"
+        },
+        {
+          "modelId": 13862,
+          "modelName": "TERRANO (D10)",
+          "modelYearFrom": "2013-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42723,
+          "modelName": "TERRANO REGULUS (R50)",
+          "modelYearFrom": "1996-08-01",
+          "modelYearTo": "2003-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "TIIDA",
+      "displayName": "TIIDA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6452,
+          "modelName": "TIIDA A trois volumes (SC11)",
+          "modelYearFrom": "2004-05-01",
+          "modelYearTo": "2014-02-01"
+        },
+        {
+          "modelId": 6937,
+          "modelName": "TIIDA Berline bicorps trois ou cinq portes (C11)",
+          "modelYearFrom": "2004-05-01",
+          "modelYearTo": "2014-12-01"
+        },
+        {
+          "modelId": 11514,
+          "modelName": "TIIDA A trois volumes (SC12)",
+          "modelYearFrom": "2009-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13517,
+          "modelName": "TIIDA Berline bicorps trois ou cinq portes (C12)",
+          "modelYearFrom": "2010-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "TITAN",
+      "displayName": "TITAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6876,
+          "modelName": "TITAN (A60)",
+          "modelYearFrom": "2003-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14960,
+          "modelName": "TITAN (H61)",
+          "modelYearFrom": "2015-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "TOWNSTAR",
+      "displayName": "TOWNSTAR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42519,
+          "modelName": "TOWNSTAR Camionnette/Monospace (XFK)",
+          "modelYearFrom": "2021-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42520,
+          "modelName": "TOWNSTAR Monospace (XFK)",
+          "modelYearFrom": "2021-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 90043,
+          "modelName": "TOWNSTAR EVALIA Monospace (XFK)",
+          "modelYearFrom": "2024-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "TRADE",
+      "displayName": "TRADE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7612,
+          "modelName": "TRADE Autobus/Autocar",
+          "modelYearFrom": "1996-06-01",
+          "modelYearTo": "2001-10-01"
+        },
+        {
+          "modelId": 7614,
+          "modelName": "TRADE Camion plate-forme/Châssis",
+          "modelYearFrom": "1998-11-01",
+          "modelYearTo": "2004-09-01"
+        },
+        {
+          "modelId": 7616,
+          "modelName": "TRADE Camion plate-forme/Châssis",
+          "modelYearFrom": "1996-06-01",
+          "modelYearTo": "2001-10-01"
+        },
+        {
+          "modelId": 7617,
+          "modelName": "TRADE Fourgon",
+          "modelYearFrom": "1996-06-01",
+          "modelYearTo": "2001-10-01"
+        },
+        {
+          "modelId": 7619,
+          "modelName": "TRADE Camion plate-forme/Châssis",
+          "modelYearFrom": "1993-04-01",
+          "modelYearTo": "1998-10-01"
+        },
+        {
+          "modelId": 7621,
+          "modelName": "TRADE Fourgon",
+          "modelYearFrom": "1986-11-01",
+          "modelYearTo": "1993-03-01"
+        },
+        {
+          "modelId": 7622,
+          "modelName": "TRADE Camion plate-forme/Châssis",
+          "modelYearFrom": "1986-11-01",
+          "modelYearTo": "1994-06-01"
+        },
+        {
+          "modelId": 7623,
+          "modelName": "TRADE Fourgon",
+          "modelYearFrom": "1993-04-01",
+          "modelYearTo": "1998-10-01"
+        },
+        {
+          "modelId": 9537,
+          "modelName": "TRADE Fourgon",
+          "modelYearFrom": "1996-01-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 9538,
+          "modelName": "TRADE Camion plate-forme/Châssis",
+          "modelYearFrom": "1994-01-01",
+          "modelYearTo": "1998-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "TSURU",
+      "displayName": "TSURU",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10770,
+          "modelName": "TSURU A trois volumes",
+          "modelYearFrom": "2006-09-01",
+          "modelYearTo": "2012-12-01"
+        },
+        {
+          "modelId": 10771,
+          "modelName": "TSURU A trois volumes (B13)",
+          "modelYearFrom": "2012-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11326,
+          "modelName": "TSURU",
+          "modelYearFrom": "1988-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "URVAN",
+      "displayName": "URVAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1222,
+          "modelName": "URVAN Autobus/Autocar (E24)",
+          "modelYearFrom": "1986-06-01",
+          "modelYearTo": "1997-05-01"
+        },
+        {
+          "modelId": 1829,
+          "modelName": "URVAN Autobus/Autocar (E23)",
+          "modelYearFrom": "1980-07-01",
+          "modelYearTo": "1988-11-01"
+        },
+        {
+          "modelId": 2088,
+          "modelName": "URVAN Fourgon (E23)",
+          "modelYearFrom": "1980-07-01",
+          "modelYearTo": "1998-11-01"
+        },
+        {
+          "modelId": 4009,
+          "modelName": "URVAN Fourgon (E24)",
+          "modelYearFrom": "1986-06-01",
+          "modelYearTo": "1997-05-01"
+        },
+        {
+          "modelId": 5824,
+          "modelName": "URVAN Autobus/Autocar (E24)",
+          "modelYearFrom": "1995-10-01",
+          "modelYearTo": "2010-11-01"
+        },
+        {
+          "modelId": 7285,
+          "modelName": "URVAN Fourgon (E24)",
+          "modelYearFrom": "1995-10-01",
+          "modelYearTo": "2000-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "VANETTE",
+      "displayName": "VANETTE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1230,
+          "modelName": "VANETTE Autobus/Autocar (C22)",
+          "modelYearFrom": "1986-10-01",
+          "modelYearTo": "2013-06-01"
+        },
+        {
+          "modelId": 1231,
+          "modelName": "VANETTE Autobus/Autocar (KC120)",
+          "modelYearFrom": "1981-06-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 3543,
+          "modelName": "VANETTE CARGO Fourgon (HC 23)",
+          "modelYearFrom": "1994-09-01",
+          "modelYearTo": "2002-05-01"
+        },
+        {
+          "modelId": 3545,
+          "modelName": "VANETTE CARGO Autobus/Autocar (HC 23)",
+          "modelYearFrom": "1994-04-01",
+          "modelYearTo": "2001-05-01"
+        },
+        {
+          "modelId": 4030,
+          "modelName": "VANETTE Fourgon (_C22)",
+          "modelYearFrom": "1986-10-01",
+          "modelYearTo": "2013-06-01"
+        },
+        {
+          "modelId": 7615,
+          "modelName": "VANETTE Fourgon (C120)",
+          "modelYearFrom": "1981-07-01",
+          "modelYearTo": "1987-06-01"
+        },
+        {
+          "modelId": 10756,
+          "modelName": "VANETTE Camion plate-forme/Châssis (C22)",
+          "modelYearFrom": "1992-07-01",
+          "modelYearTo": "2013-06-01"
+        },
+        {
+          "modelId": 37228,
+          "modelName": "VANETTE Camion plate-forme/Châssis (S21)",
+          "modelYearFrom": "1999-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37288,
+          "modelName": "VANETTE Autobus/Autocar (S20)",
+          "modelYearFrom": "1994-04-01",
+          "modelYearTo": "1999-05-01"
+        },
+        {
+          "modelId": 37299,
+          "modelName": "VANETTE Fourgon (S20)",
+          "modelYearFrom": "1994-04-01",
+          "modelYearTo": "1999-05-01"
+        },
+        {
+          "modelId": 37300,
+          "modelName": "VANETTE Camion plate-forme/Châssis (S20)",
+          "modelYearFrom": "1994-04-01",
+          "modelYearTo": "1999-05-01"
+        },
+        {
+          "modelId": 37302,
+          "modelName": "VANETTE Fourgon (S21)",
+          "modelYearFrom": "2003-09-01",
+          "modelYearTo": "2017-06-01"
+        },
+        {
+          "modelId": 37303,
+          "modelName": "VANETTE Autobus/Autocar (S21)",
+          "modelYearFrom": "2003-09-01",
+          "modelYearTo": "2017-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "VERSA",
+      "displayName": "VERSA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11576,
+          "modelName": "VERSA I",
+          "modelYearFrom": "2006-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11577,
+          "modelName": "VERSA II (N17_)",
+          "modelYearFrom": "2011-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "WINGROAD",
+      "displayName": "WINGROAD",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6250,
+          "modelName": "WINGROAD / AD Wagon (_Y10)",
+          "modelYearFrom": "1990-10-01",
+          "modelYearTo": "1999-04-01"
+        },
+        {
+          "modelId": 13276,
+          "modelName": "WINGROAD / AD Wagon (_Y11)",
+          "modelYearFrom": "1999-03-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 37235,
+          "modelName": "WINGROAD / AD Wagon (_Y12)",
+          "modelYearFrom": "2005-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "X",
+      "displayName": "X",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4784,
+          "modelName": "X-TRAIL I (T30)",
+          "modelYearFrom": "2001-01-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 6399,
+          "modelName": "X-TRAIL II (T31)",
+          "modelYearFrom": "2007-03-01",
+          "modelYearTo": "2018-12-01"
+        },
+        {
+          "modelId": 12857,
+          "modelName": "X-TRAIL III (T32_, T32R, T32RR)",
+          "modelYearFrom": "2013-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41658,
+          "modelName": "X-TRAIL VAN (T31)",
+          "modelYearFrom": "2007-03-01",
+          "modelYearTo": "2014-02-01"
+        },
+        {
+          "modelId": 41659,
+          "modelName": "X-TRAIL VAN (T32)",
+          "modelYearFrom": "2013-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43503,
+          "modelName": "X-TRAIL IV (T33)",
+          "modelYearFrom": "2022-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "XFN",
+      "displayName": "XFN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8883,
+          "modelName": "XFN Pick-up",
+          "modelYearFrom": "1988-07-01",
+          "modelYearTo": "1992-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "XTERRA",
+      "displayName": "XTERRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9622,
+          "modelName": "XTERRA (N50)",
+          "modelYearFrom": "2005-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10896,
+          "modelName": "XTERRA (WD22_)",
+          "modelYearFrom": "1999-01-01",
+          "modelYearTo": "2008-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 80,
+      "manufacturerName": "NISSAN",
+      "groupKey": "Z",
+      "displayName": "Z",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42218,
+          "modelName": "Z (Z34)",
+          "modelYearFrom": "2021-09-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.384Z",
+  "manufacturer": "LEYLAND-INNOCENTI",
+  "countGroups": 4,
+  "groups": [
+    {
+      "manufacturerId": 2407,
+      "manufacturerName": "LEYLAND-INNOCENTI",
+      "groupKey": "MARINA",
+      "displayName": "MARINA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37949,
+          "modelName": "MARINA A trois volumes",
+          "modelYearFrom": "1972-04-01",
+          "modelYearTo": "1978-09-01"
+        },
+        {
+          "modelId": 37974,
+          "modelName": "MARINA Coupé",
+          "modelYearFrom": "1972-04-01",
+          "modelYearTo": "1978-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2407,
+      "manufacturerName": "LEYLAND-INNOCENTI",
+      "groupKey": "MINI",
+      "displayName": "MINI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37951,
+          "modelName": "MINI Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1961-01-01",
+          "modelYearTo": "1979-08-01"
+        },
+        {
+          "modelId": 37952,
+          "modelName": "MINI Fourgon/Break",
+          "modelYearFrom": "1960-01-01",
+          "modelYearTo": "1980-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2407,
+      "manufacturerName": "LEYLAND-INNOCENTI",
+      "groupKey": "MOKE",
+      "displayName": "MOKE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37976,
+          "modelName": "MOKE Décapotable",
+          "modelYearFrom": "1966-06-01",
+          "modelYearTo": "1985-01-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2407,
+      "manufacturerName": "LEYLAND-INNOCENTI",
+      "groupKey": "P76",
+      "displayName": "P76",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11021,
+          "modelName": "P76 A trois volumes",
+          "modelYearFrom": "1973-04-01",
+          "modelYearTo": "1976-07-01"
+        }
+      ]
+    }
+  ]
+}

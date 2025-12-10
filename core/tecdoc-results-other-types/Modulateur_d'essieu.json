@@ -1,0 +1,87 @@
+{
+  "productName": "Modulateur d'essieu",
+  "productId": 2077,
+  "searchText": "Modulateur d'essieu",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Système pneumatique": {
+          "categoryId": 200059,
+          "categoryName": "Système pneumatique",
+          "level": 1,
+          "children": {
+            "Soupapes / Système d'air comprimé": {
+              "categoryId": null,
+              "categoryName": "Soupapes / Système d'air comprimé",
+              "level": 2,
+              "children": {
+                "Kit de réparation, modulateur d'essieu": {
+                  "categoryId": 200115,
+                  "categoryName": "Valves/compressed-air system",
+                  "level": 2,
+                  "children": {
+                    "Soupapes diverses": {
+                      "categoryId": null,
+                      "categoryName": "Soupapes diverses",
+                      "level": 4,
+                      "children": {
+                        "Kit de réparation, modulateur d'essieu": {
+                          "categoryId": 200916,
+                          "categoryName": "Other Valves",
+                          "level": 3,
+                          "children": [],
+                          "productId": 60949
+                        }
+                      }
+                    }
+                  },
+                  "productId": 60949
+                },
+                "Modulateur d'essieu": {
+                  "categoryId": 200115,
+                  "categoryName": "Valves/compressed-air system",
+                  "level": 2,
+                  "children": {
+                    "Soupapes diverses": {
+                      "categoryId": null,
+                      "categoryName": "Soupapes diverses",
+                      "level": 4,
+                      "children": {
+                        "Modulateur d'essieu": {
+                          "categoryId": 200916,
+                          "categoryName": "Other Valves",
+                          "level": 3,
+                          "children": [],
+                          "productId": 2077
+                        }
+                      }
+                    }
+                  },
+                  "productId": 2077
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système pneumatique [ID: 200059] (Niveau 1)\n    └── Soupapes / Système d'air comprimé (Niveau 2)\n        ├── Valves/compressed-air system [ID: 200115] (Niveau 2) → ProductId: 60949\n        │   └── Soupapes diverses (Niveau 4)\n        │       └── Other Valves [ID: 200916] (Niveau 3) → ProductId: 60949\n        └── Valves/compressed-air system [ID: 200115] (Niveau 2) → ProductId: 2077\n            └── Soupapes diverses (Niveau 4)\n                └── Other Valves [ID: 200916] (Niveau 3) → ProductId: 2077",
+      "productIdsInArbo": [
+        2077,
+        60949
+      ],
+      "matchedProductIds": [
+        2077
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:57:06.684Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

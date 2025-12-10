@@ -1,0 +1,54 @@
+{
+  "productName": "Revêtement de pédale, pédale de frein",
+  "searchText": "Revêtement de pédale, pédale de frein",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:09:40.832Z",
+  "productId": 1629,
+  "arborescence": {
+    "Équipement intérieur": {
+      "categoryId": 100341,
+      "categoryName": "Équipement intérieur",
+      "level": 1,
+      "children": {
+        "Leviers manuels / Leviers de pédale": {
+          "categoryId": null,
+          "categoryName": "Leviers manuels / Leviers de pédale",
+          "level": 2,
+          "children": {
+            "Revêtement de pédale, pédale de frein": {
+              "categoryId": 102695,
+              "categoryName": "Hand/Foot Lever System",
+              "level": 2,
+              "children": [],
+              "productId": 1629
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Équipement intérieur [ID: 100341] (Niveau 1)\n    └── Leviers manuels / Leviers de pédale (Niveau 2)\n        └── Hand/Foot Lever System [ID: 102695] (Niveau 2) → ProductId: 1629",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Équipement intérieur",
+        "Leviers manuels / Leviers de pédale",
+        "Hand/Foot Lever System"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102695
+      ],
+      "finalCategoryId": 102695,
+      "productId": 1629
+    }
+  ],
+  "productIdsInArbo": [
+    1629
+  ],
+  "matchedProductIds": [
+    1629
+  ]
+}

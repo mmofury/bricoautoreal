@@ -1,0 +1,84 @@
+{
+  "productName": "Joint, détendeur de suralimentation",
+  "searchText": "Joint, détendeur de suralimentation",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:55:33.261Z",
+  "productId": 3816,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Alimentation en air": {
+          "categoryId": null,
+          "categoryName": "Alimentation en air",
+          "level": 2,
+          "children": {
+            "Joint, détendeur de suralimentation": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Suralimentation": {
+                  "categoryId": null,
+                  "categoryName": "Suralimentation",
+                  "level": 4,
+                  "children": {
+                    "Joint, détendeur de suralimentation": {
+                      "categoryId": 100390,
+                      "categoryName": "Charging (supercharged/turbocharged)",
+                      "level": 3,
+                      "children": {
+                        "Réglage d'air de suralimentation": {
+                          "categoryId": null,
+                          "categoryName": "Réglage d'air de suralimentation",
+                          "level": 6,
+                          "children": {
+                            "Joint, détendeur de suralimentation": {
+                              "categoryId": 100394,
+                              "categoryName": "Charge Air Control",
+                              "level": 4,
+                              "children": [],
+                              "productId": 3816
+                            }
+                          }
+                        }
+                      },
+                      "productId": 3816
+                    }
+                  }
+                }
+              },
+              "productId": 3816
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Alimentation en air (Niveau 2)\n        └── Air Supply [ID: 100383] (Niveau 2) → ProductId: 3816\n            └── Suralimentation (Niveau 4)\n                └── Charging (supercharged/turbocharged) [ID: 100390] (Niveau 3) → ProductId: 3816\n                    └── Réglage d'air de suralimentation (Niveau 6)\n                        └── Charge Air Control [ID: 100394] (Niveau 4) → ProductId: 3816",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 3816
+    }
+  ],
+  "productIdsInArbo": [
+    3816
+  ],
+  "matchedProductIds": [
+    3816
+  ]
+}

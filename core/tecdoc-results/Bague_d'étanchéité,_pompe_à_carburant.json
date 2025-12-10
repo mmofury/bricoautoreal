@@ -1,0 +1,69 @@
+{
+  "productName": "Bague d'étanchéité, pompe à carburant",
+  "searchText": "Bague d'étanchéité, pompe à carburant",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:04:11.754Z",
+  "productId": 60680,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Pompe / accessoires": {
+          "categoryId": null,
+          "categoryName": "Pompe / accessoires",
+          "level": 2,
+          "children": {
+            "Bague d'étanchéité, pompe à carburant": {
+              "categoryId": 100251,
+              "categoryName": "Pump/Accessories",
+              "level": 2,
+              "children": {
+                "Accessoires/Composants": {
+                  "categoryId": null,
+                  "categoryName": "Accessoires/Composants",
+                  "level": 4,
+                  "children": {
+                    "Bague d'étanchéité, pompe à carburant": {
+                      "categoryId": 100718,
+                      "categoryName": "Accessories/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60680
+                    }
+                  }
+                }
+              },
+              "productId": 60680
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Alimentation carburant [ID: 100214] (Niveau 1)\n    └── Pompe / accessoires (Niveau 2)\n        └── Pump/Accessories [ID: 100251] (Niveau 2) → ProductId: 60680\n            └── Accessoires/Composants (Niveau 4)\n                └── Accessories/Parts [ID: 100718] (Niveau 3) → ProductId: 60680",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Pompe / accessoires",
+        "Pump/Accessories"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100251
+      ],
+      "finalCategoryId": 100251,
+      "productId": 60680
+    }
+  ],
+  "productIdsInArbo": [
+    60680
+  ],
+  "matchedProductIds": [
+    60680
+  ]
+}

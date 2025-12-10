@@ -1,0 +1,54 @@
+{
+  "productName": "Chargeur, batterie d’entraînement",
+  "searchText": "Chargeur, batterie d’entraînement",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:19:05.899Z",
+  "productId": 60172,
+  "arborescence": {
+    "Entraînement hybride/électrique": {
+      "categoryId": 706209,
+      "categoryName": "Entraînement hybride/électrique",
+      "level": 1,
+      "children": {
+        "Chargeur": {
+          "categoryId": null,
+          "categoryName": "Chargeur",
+          "level": 2,
+          "children": {
+            "Chargeur, batterie d’entraînement": {
+              "categoryId": 706567,
+              "categoryName": "Charger",
+              "level": 2,
+              "children": [],
+              "productId": 60172
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement hybride/électrique [ID: 706209] (Niveau 1)\n    └── Chargeur (Niveau 2)\n        └── Charger [ID: 706567] (Niveau 2) → ProductId: 60172",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement hybride/électrique",
+        "Chargeur",
+        "Charger"
+      ],
+      "categoryIds": [
+        706209,
+        null,
+        706567
+      ],
+      "finalCategoryId": 706567,
+      "productId": 60172
+    }
+  ],
+  "productIdsInArbo": [
+    60172
+  ],
+  "matchedProductIds": [
+    60172
+  ]
+}

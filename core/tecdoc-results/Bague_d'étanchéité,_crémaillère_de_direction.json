@@ -1,0 +1,54 @@
+{
+  "productName": "Bague d'étanchéité, crémaillère de direction",
+  "searchText": "Bague d'étanchéité, crémaillère de direction",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:03:21.319Z",
+  "productId": 3424,
+  "arborescence": {
+    "Direction": {
+      "categoryId": 100012,
+      "categoryName": "Direction",
+      "level": 1,
+      "children": {
+        "Crémaillère de direction/pompe": {
+          "categoryId": null,
+          "categoryName": "Crémaillère de direction/pompe",
+          "level": 2,
+          "children": {
+            "Bague d'étanchéité, crémaillère de direction": {
+              "categoryId": 100199,
+              "categoryName": "Steering Gear/Pump",
+              "level": 2,
+              "children": [],
+              "productId": 3424
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Direction [ID: 100012] (Niveau 1)\n    └── Crémaillère de direction/pompe (Niveau 2)\n        └── Steering Gear/Pump [ID: 100199] (Niveau 2) → ProductId: 3424",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Direction",
+        "Crémaillère de direction/pompe",
+        "Steering Gear/Pump"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        100199
+      ],
+      "finalCategoryId": 100199,
+      "productId": 3424
+    }
+  ],
+  "productIdsInArbo": [
+    3424
+  ],
+  "matchedProductIds": [
+    3424
+  ]
+}

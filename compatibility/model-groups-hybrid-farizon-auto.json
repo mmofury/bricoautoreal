@@ -1,0 +1,127 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.264Z",
+  "manufacturer": "FARIZON AUTO",
+  "countGroups": 8,
+  "groups": [
+    {
+      "manufacturerId": 6000,
+      "manufacturerName": "FARIZON AUTO",
+      "groupKey": "E5",
+      "displayName": "E5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43559,
+          "modelName": "E5",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6000,
+      "manufacturerName": "FARIZON AUTO",
+      "groupKey": "E5L",
+      "displayName": "E5L",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42785,
+          "modelName": "E5L Fourgon",
+          "modelYearFrom": "2019-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6000,
+      "manufacturerName": "FARIZON AUTO",
+      "groupKey": "E6",
+      "displayName": "E6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42956,
+          "modelName": "E6 Fourgon",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6000,
+      "manufacturerName": "FARIZON AUTO",
+      "groupKey": "F1E",
+      "displayName": "F1E",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44532,
+          "modelName": "F1E",
+          "modelYearFrom": "2023-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6000,
+      "manufacturerName": "FARIZON AUTO",
+      "groupKey": "FENGRUI",
+      "displayName": "FENGRUI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42784,
+          "modelName": "FENGRUI",
+          "modelYearFrom": "2021-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6000,
+      "manufacturerName": "FARIZON AUTO",
+      "groupKey": "FX",
+      "displayName": "FX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41463,
+          "modelName": "FX",
+          "modelYearFrom": "2020-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6000,
+      "manufacturerName": "FARIZON AUTO",
+      "groupKey": "JILIXINGFUHAO",
+      "displayName": "JILIXINGFUHAO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45968,
+          "modelName": "JILIXINGFUHAO",
+          "modelYearFrom": "2024-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6000,
+      "manufacturerName": "FARIZON AUTO",
+      "groupKey": "XINGXIANG",
+      "displayName": "XINGXIANG",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42788,
+          "modelName": "XINGXIANG V Fourgon",
+          "modelYearFrom": "2022-03-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

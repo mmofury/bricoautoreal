@@ -1,0 +1,58 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.518Z",
+  "manufacturer": "TROLLER",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 3681,
+      "manufacturerName": "TROLLER",
+      "groupKey": "PANTANAL",
+      "displayName": "PANTANAL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9915,
+          "modelName": "PANTANAL",
+          "modelYearFrom": "2006-02-01",
+          "modelYearTo": "2008-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3681,
+      "manufacturerName": "TROLLER",
+      "groupKey": "RF",
+      "displayName": "RF",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 12755,
+          "modelName": "RF",
+          "modelYearFrom": "1997-01-01",
+          "modelYearTo": "2001-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3681,
+      "manufacturerName": "TROLLER",
+      "groupKey": "T4",
+      "displayName": "T4",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9914,
+          "modelName": "T4 I",
+          "modelYearFrom": "1999-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 12864,
+          "modelName": "T4 II",
+          "modelYearFrom": "2014-06-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

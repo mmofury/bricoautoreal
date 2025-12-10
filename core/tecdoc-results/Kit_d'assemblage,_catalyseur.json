@@ -1,0 +1,97 @@
+{
+  "productName": "Kit d'assemblage, catalyseur",
+  "searchText": "Kit d'assemblage, catalyseur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:58:02.842Z",
+  "productId": 518,
+  "arborescence": {
+    "Échappement": {
+      "categoryId": 100004,
+      "categoryName": "Échappement",
+      "level": 1,
+      "children": {
+        "Catalyseur": {
+          "categoryId": null,
+          "categoryName": "Catalyseur",
+          "level": 2,
+          "children": {
+            "Kit d'assemblage, catalyseur": {
+              "categoryId": 100047,
+              "categoryName": "Catalytic Converter",
+              "level": 2,
+              "children": [],
+              "productId": 518
+            }
+          }
+        },
+        "Pièces de montage": {
+          "categoryId": null,
+          "categoryName": "Pièces de montage",
+          "level": 2,
+          "children": {
+            "Kit d'assemblage, catalyseur": {
+              "categoryId": 100222,
+              "categoryName": "Assembly Parts",
+              "level": 2,
+              "children": {
+                "Assortiment de montage": {
+                  "categoryId": null,
+                  "categoryName": "Assortiment de montage",
+                  "level": 4,
+                  "children": {
+                    "Kit d'assemblage, catalyseur": {
+                      "categoryId": 100316,
+                      "categoryName": "Assembly Kit",
+                      "level": 3,
+                      "children": [],
+                      "productId": 518
+                    }
+                  }
+                }
+              },
+              "productId": 518
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Échappement [ID: 100004] (Niveau 1)\n    ├── Catalyseur (Niveau 2)\n    │   └── Catalytic Converter [ID: 100047] (Niveau 2) → ProductId: 518\n    └── Pièces de montage (Niveau 2)\n        └── Assembly Parts [ID: 100222] (Niveau 2) → ProductId: 518\n            └── Assortiment de montage (Niveau 4)\n                └── Assembly Kit [ID: 100316] (Niveau 3) → ProductId: 518",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Échappement",
+        "Catalyseur",
+        "Catalytic Converter"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100047
+      ],
+      "finalCategoryId": 100047,
+      "productId": 518
+    },
+    {
+      "path": [
+        "Échappement",
+        "Pièces de montage",
+        "Assembly Parts"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100222
+      ],
+      "finalCategoryId": 100222,
+      "productId": 518
+    }
+  ],
+  "productIdsInArbo": [
+    518
+  ],
+  "matchedProductIds": [
+    518
+  ]
+}

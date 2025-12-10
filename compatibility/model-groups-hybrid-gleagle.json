@@ -1,0 +1,112 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.291Z",
+  "manufacturer": "GLEAGLE",
+  "countGroups": 7,
+  "groups": [
+    {
+      "manufacturerId": 3697,
+      "manufacturerName": "GLEAGLE",
+      "groupKey": "FREE",
+      "displayName": "FREE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11449,
+          "modelName": "FREE CRUISER",
+          "modelYearFrom": "2005-04-01",
+          "modelYearTo": "2014-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3697,
+      "manufacturerName": "GLEAGLE",
+      "groupKey": "GC7",
+      "displayName": "GC7",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10190,
+          "modelName": "GC7",
+          "modelYearFrom": "2011-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3697,
+      "manufacturerName": "GLEAGLE",
+      "groupKey": "GX2",
+      "displayName": "GX2",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10191,
+          "modelName": "GX2 / PANDA",
+          "modelYearFrom": "2010-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3697,
+      "manufacturerName": "GLEAGLE",
+      "groupKey": "GX7",
+      "displayName": "GX7",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10827,
+          "modelName": "GX7",
+          "modelYearFrom": "2012-04-01",
+          "modelYearTo": "2015-01-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3697,
+      "manufacturerName": "GLEAGLE",
+      "groupKey": "PANDA",
+      "displayName": "PANDA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9859,
+          "modelName": "PANDA",
+          "modelYearFrom": "2008-11-01",
+          "modelYearTo": "2015-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3697,
+      "manufacturerName": "GLEAGLE",
+      "groupKey": "VISION",
+      "displayName": "VISION",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11448,
+          "modelName": "VISION",
+          "modelYearFrom": "2006-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3697,
+      "manufacturerName": "GLEAGLE",
+      "groupKey": "ZHONGGUOLONG",
+      "displayName": "ZHONGGUOLONG",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13468,
+          "modelName": "ZHONGGUOLONG",
+          "modelYearFrom": "2009-01-01",
+          "modelYearTo": "2012-12-01"
+        }
+      ]
+    }
+  ]
+}

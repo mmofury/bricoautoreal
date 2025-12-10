@@ -1,0 +1,54 @@
+{
+  "productName": "Filtre, purge d'air (réservoir de carburant)",
+  "searchText": "Filtre, purge d'air (réservoir de carburant)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:40:15.315Z",
+  "productId": 7397,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Réservoir de carburant / accessoires": {
+          "categoryId": null,
+          "categoryName": "Réservoir de carburant / accessoires",
+          "level": 2,
+          "children": {
+            "Filtre, purge d'air (réservoir de carburant)": {
+              "categoryId": 100250,
+              "categoryName": "Fuel Tank/Accessories",
+              "level": 2,
+              "children": [],
+              "productId": 7397
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Alimentation carburant [ID: 100214] (Niveau 1)\n    └── Réservoir de carburant / accessoires (Niveau 2)\n        └── Fuel Tank/Accessories [ID: 100250] (Niveau 2) → ProductId: 7397",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Réservoir de carburant / accessoires",
+        "Fuel Tank/Accessories"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100250
+      ],
+      "finalCategoryId": 100250,
+      "productId": 7397
+    }
+  ],
+  "productIdsInArbo": [
+    7397
+  ],
+  "matchedProductIds": [
+    7397
+  ]
+}

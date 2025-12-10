@@ -1,0 +1,54 @@
+{
+  "productName": "Kit réparation de câble, calculateur durée de préchauffage",
+  "searchText": "Kit réparation de câble, calculateur durée de préchauffage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:09:05.277Z",
+  "productId": 9891,
+  "arborescence": {
+    "Allumage / préchauffage": {
+      "categoryId": 100008,
+      "categoryName": "Allumage / préchauffage",
+      "level": 1,
+      "children": {
+        "Appareil de commande / relais": {
+          "categoryId": null,
+          "categoryName": "Appareil de commande / relais",
+          "level": 2,
+          "children": {
+            "Kit réparation de câble, calculateur durée de préchauffage": {
+              "categoryId": 100247,
+              "categoryName": "Control Unit/Relay/Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 9891
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Allumage / préchauffage [ID: 100008] (Niveau 1)\n    └── Appareil de commande / relais (Niveau 2)\n        └── Control Unit/Relay/Sensors [ID: 100247] (Niveau 2) → ProductId: 9891",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Appareil de commande / relais",
+        "Control Unit/Relay/Sensors"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        100247
+      ],
+      "finalCategoryId": 100247,
+      "productId": 9891
+    }
+  ],
+  "productIdsInArbo": [
+    9891
+  ],
+  "matchedProductIds": [
+    9891
+  ]
+}

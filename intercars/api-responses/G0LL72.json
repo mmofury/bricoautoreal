@@ -1,0 +1,36 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G0LL72",
+      "index": "97044300",
+      "tecDoc": "97044300",
+      "tecDocProd": "39",
+      "articleNumber": "97044300",
+      "brand": "TEXTAR",
+      "shortDescription": "Accessory Kit, parking brake shoes",
+      "description": "Brake shoe self-adjuster fits: MERCEDES S (C216), S (W221, V221) 2.2D-5.5 10.05-12.13",
+      "gtuCode": "GTU_07",
+      "customsCode": "87083099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_783",
+          "primary": false,
+          "name": {
+            "en": "Repair Kit, expander"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1337",
+          "primary": true,
+          "name": {
+            "en": "Accessory Kit, parking brake shoes"
+          }
+        }
+      ]
+    }
+  ]
+}

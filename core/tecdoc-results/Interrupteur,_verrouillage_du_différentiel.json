@@ -1,0 +1,54 @@
+{
+  "productName": "Interrupteur, verrouillage du différentiel",
+  "searchText": "Interrupteur, verrouillage du différentiel",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:48:05.916Z",
+  "productId": 1760,
+  "arborescence": {
+    "Entraînement des essieux": {
+      "categoryId": 100400,
+      "categoryName": "Entraînement des essieux",
+      "level": 1,
+      "children": {
+        "Interrupteur/Soupapes": {
+          "categoryId": null,
+          "categoryName": "Interrupteur/Soupapes",
+          "level": 2,
+          "children": {
+            "Interrupteur, verrouillage du différentiel": {
+              "categoryId": 100768,
+              "categoryName": "Switches/Valves",
+              "level": 2,
+              "children": [],
+              "productId": 1760
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement des essieux [ID: 100400] (Niveau 1)\n    └── Interrupteur/Soupapes (Niveau 2)\n        └── Switches/Valves [ID: 100768] (Niveau 2) → ProductId: 1760",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des essieux",
+        "Interrupteur/Soupapes",
+        "Switches/Valves"
+      ],
+      "categoryIds": [
+        100400,
+        null,
+        100768
+      ],
+      "finalCategoryId": 100768,
+      "productId": 1760
+    }
+  ],
+  "productIdsInArbo": [
+    1760
+  ],
+  "matchedProductIds": [
+    1760
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "productName": "Joint, boîte de vitesses (essieu E)",
+  "searchText": "Joint, boîte de vitesses (essieu E)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:54:44.194Z",
+  "productId": 60707,
+  "arborescence": {
+    "Entraînement hybride/électrique": {
+      "categoryId": 706209,
+      "categoryName": "Entraînement hybride/électrique",
+      "level": 1,
+      "children": {
+        "Boîte de vitesses": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesses",
+          "level": 2,
+          "children": {
+            "Joint, boîte de vitesses (essieu E)": {
+              "categoryId": 706569,
+              "categoryName": "Transmission",
+              "level": 2,
+              "children": {
+                "Joints": {
+                  "categoryId": null,
+                  "categoryName": "Joints",
+                  "level": 4,
+                  "children": {
+                    "Joint, boîte de vitesses (essieu E)": {
+                      "categoryId": 706764,
+                      "categoryName": "Gaskets",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60707
+                    }
+                  }
+                }
+              },
+              "productId": 60707
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement hybride/électrique [ID: 706209] (Niveau 1)\n    └── Boîte de vitesses (Niveau 2)\n        └── Transmission [ID: 706569] (Niveau 2) → ProductId: 60707\n            └── Joints (Niveau 4)\n                └── Gaskets [ID: 706764] (Niveau 3) → ProductId: 60707",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement hybride/électrique",
+        "Boîte de vitesses",
+        "Transmission"
+      ],
+      "categoryIds": [
+        706209,
+        null,
+        706569
+      ],
+      "finalCategoryId": 706569,
+      "productId": 60707
+    }
+  ],
+  "productIdsInArbo": [
+    60707
+  ],
+  "matchedProductIds": [
+    60707
+  ]
+}

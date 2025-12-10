@@ -1,0 +1,85 @@
+{
+  "productName": "Prise de remorque",
+  "searchText": "Prise de remorque",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-03T07:04:20.791Z",
+  "productId": 4953,
+  "arborescence": {
+    "Dispositif d'attelage/accessoires": {
+      "categoryId": 100015,
+      "categoryName": "Dispositif d'attelage/accessoires",
+      "level": 1,
+      "children": {
+        "Composants / pièces de montage": {
+          "categoryId": null,
+          "categoryName": "Composants / pièces de montage",
+          "level": 2,
+          "children": {
+            "Kit réparation de câble, commutateur prise de remorque": {
+              "categoryId": 100609,
+              "categoryName": "Parts",
+              "level": 2,
+              "children": [],
+              "productId": 9327
+            }
+          }
+        },
+        "Pièces du système électrique": {
+          "categoryId": null,
+          "categoryName": "Pièces du système électrique",
+          "level": 2,
+          "children": {
+            "Kit réparation de câble, commutateur prise de remorque": {
+              "categoryId": 100608,
+              "categoryName": "Electric Parts",
+              "level": 2,
+              "children": [],
+              "productId": 9327
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif d'attelage/accessoires [ID: 100015] (Niveau 1)\n    ├── Composants / pièces de montage (Niveau 2)\n    │   └── Parts [ID: 100609] (Niveau 2) → ProductId: 9327\n    └── Pièces du système électrique (Niveau 2)\n        └── Electric Parts [ID: 100608] (Niveau 2) → ProductId: 9327",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif d'attelage/accessoires",
+        "Composants / pièces de montage",
+        "Parts"
+      ],
+      "categoryIds": [
+        100015,
+        null,
+        100609
+      ],
+      "finalCategoryId": 100609,
+      "productId": 9327
+    },
+    {
+      "path": [
+        "Dispositif d'attelage/accessoires",
+        "Pièces du système électrique",
+        "Electric Parts"
+      ],
+      "categoryIds": [
+        100015,
+        null,
+        100608
+      ],
+      "finalCategoryId": 100608,
+      "productId": 9327
+    }
+  ],
+  "productIdsInArbo": [
+    9327
+  ],
+  "closestProductIds": [
+    {
+      "productId": 9327,
+      "productName": "Kit réparation de câble, commutateur prise de remorque"
+    }
+  ]
+}

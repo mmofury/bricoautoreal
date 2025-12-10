@@ -1,0 +1,69 @@
+{
+  "productName": "Joint (réservoir d'huile moteur)",
+  "searchText": "Joint (réservoir d'huile moteur)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:51:48.215Z",
+  "productId": 60749,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Lubrification": {
+          "categoryId": null,
+          "categoryName": "Lubrification",
+          "level": 2,
+          "children": {
+            "Joint (réservoir d'huile moteur)": {
+              "categoryId": 100245,
+              "categoryName": "Lubrication",
+              "level": 2,
+              "children": {
+                "Carter d'huile": {
+                  "categoryId": null,
+                  "categoryName": "Carter d'huile",
+                  "level": 4,
+                  "children": {
+                    "Joint (réservoir d'huile moteur)": {
+                      "categoryId": 100512,
+                      "categoryName": "Oil Sump",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60749
+                    }
+                  }
+                }
+              },
+              "productId": 60749
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Lubrification (Niveau 2)\n        └── Lubrication [ID: 100245] (Niveau 2) → ProductId: 60749\n            └── Carter d'huile (Niveau 4)\n                └── Oil Sump [ID: 100512] (Niveau 3) → ProductId: 60749",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Lubrification",
+        "Lubrication"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100245
+      ],
+      "finalCategoryId": 100245,
+      "productId": 60749
+    }
+  ],
+  "productIdsInArbo": [
+    60749
+  ],
+  "matchedProductIds": [
+    60749
+  ]
+}

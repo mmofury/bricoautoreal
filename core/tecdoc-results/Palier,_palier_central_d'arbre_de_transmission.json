@@ -1,0 +1,83 @@
+{
+  "productName": "Palier, palier central d'arbre de transmission",
+  "searchText": "Palier, palier central d'arbre de transmission",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:18:40.472Z",
+  "productId": 2109,
+  "arborescence": {
+    "Entraînement des essieux": {
+      "categoryId": 100400,
+      "categoryName": "Entraînement des essieux",
+      "level": 1,
+      "children": {
+        "Arbre de transmission": {
+          "categoryId": null,
+          "categoryName": "Arbre de transmission",
+          "level": 2,
+          "children": {
+            "Palier, palier central d'arbre de transmission": {
+              "categoryId": 100703,
+              "categoryName": "Propshaft",
+              "level": 2,
+              "children": {
+                "Arbre de transmission": {
+                  "categoryId": null,
+                  "categoryName": "Arbre de transmission",
+                  "level": 4,
+                  "children": {
+                    "Palier, palier central d'arbre de transmission": {
+                      "categoryId": 100805,
+                      "categoryName": "Propshaft",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2109
+                    }
+                  }
+                },
+                "Paliers/suspension": {
+                  "categoryId": null,
+                  "categoryName": "Paliers/suspension",
+                  "level": 4,
+                  "children": {
+                    "Palier, palier central d'arbre de transmission": {
+                      "categoryId": 100839,
+                      "categoryName": "Bearing/Mounting",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2109
+                    }
+                  }
+                }
+              },
+              "productId": 2109
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement des essieux [ID: 100400] (Niveau 1)\n    └── Arbre de transmission (Niveau 2)\n        └── Propshaft [ID: 100703] (Niveau 2) → ProductId: 2109\n            ├── Arbre de transmission (Niveau 4)\n            │   └── Propshaft [ID: 100805] (Niveau 3) → ProductId: 2109\n            └── Paliers/suspension (Niveau 4)\n                └── Bearing/Mounting [ID: 100839] (Niveau 3) → ProductId: 2109",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des essieux",
+        "Arbre de transmission",
+        "Propshaft"
+      ],
+      "categoryIds": [
+        100400,
+        null,
+        100703
+      ],
+      "finalCategoryId": 100703,
+      "productId": 2109
+    }
+  ],
+  "productIdsInArbo": [
+    2109
+  ],
+  "matchedProductIds": [
+    2109
+  ]
+}

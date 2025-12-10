@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G0S9LI",
+      "index": "HAZ 4795-1",
+      "tecDoc": "4795-1",
+      "tecDocProd": "4808",
+      "articleNumber": "4795-1",
+      "brand": "HAZET",
+      "shortDescription": "Fuel system maintenance special tools",
+      "description": "Cylinder sealing tester",
+      "eans": [
+        "4000896083770"
+      ],
+      "packageWeight": "0,900",
+      "packageWidth": "12,000",
+      "packageDepth": "32,000",
+      "packageHeight": "13,000",
+      "customsCode": "90268080",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_2004",
+          "primary": false,
+          "name": {
+            "en": "Tester, pressure loss"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91788",
+          "primary": true,
+          "name": {
+            "en": "Fuel system maintenance special tools"
+          }
+        }
+      ]
+    }
+  ]
+}

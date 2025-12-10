@@ -1,0 +1,104 @@
+{
+  "productName": "Kit réparation de câble, commutateur colonne de direction",
+  "searchText": "Kit réparation de câble, commutateur colonne de direction",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:09:39.002Z",
+  "productId": 8916,
+  "arborescence": {
+    "Équipement intérieur": {
+      "categoryId": 100341,
+      "categoryName": "Équipement intérieur",
+      "level": 1,
+      "children": {
+        "Leviers manuels / Leviers de pédale": {
+          "categoryId": null,
+          "categoryName": "Leviers manuels / Leviers de pédale",
+          "level": 2,
+          "children": {
+            "Kit réparation de câble, commutateur colonne de direction": {
+              "categoryId": 102695,
+              "categoryName": "Hand/Foot Lever System",
+              "level": 2,
+              "children": [],
+              "productId": 8916
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Interrupteur/Relais/Contrôle clignotant/Appareil d.commande": {
+          "categoryId": null,
+          "categoryName": "Interrupteur/Relais/Contrôle clignotant/Appareil d.commande",
+          "level": 2,
+          "children": {
+            "Kit réparation de câble, commutateur colonne de direction": {
+              "categoryId": 100307,
+              "categoryName": "Light Switches/Relays/Controls",
+              "level": 2,
+              "children": {
+                "Interrupteur / régulateur": {
+                  "categoryId": null,
+                  "categoryName": "Interrupteur / régulateur",
+                  "level": 4,
+                  "children": {
+                    "Kit réparation de câble, commutateur colonne de direction": {
+                      "categoryId": 100509,
+                      "categoryName": "Light Switch/ Lever",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8916
+                    }
+                  }
+                }
+              },
+              "productId": 8916
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Équipement intérieur [ID: 100341] (Niveau 1)\n│   └── Leviers manuels / Leviers de pédale (Niveau 2)\n│       └── Hand/Foot Lever System [ID: 102695] (Niveau 2) → ProductId: 8916\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Interrupteur/Relais/Contrôle clignotant/Appareil d.commande (Niveau 2)\n        └── Light Switches/Relays/Controls [ID: 100307] (Niveau 2) → ProductId: 8916\n            └── Interrupteur / régulateur (Niveau 4)\n                └── Light Switch/ Lever [ID: 100509] (Niveau 3) → ProductId: 8916",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Équipement intérieur",
+        "Leviers manuels / Leviers de pédale",
+        "Hand/Foot Lever System"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102695
+      ],
+      "finalCategoryId": 102695,
+      "productId": 8916
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Interrupteur/Relais/Contrôle clignotant/Appareil d.commande",
+        "Light Switches/Relays/Controls"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100307
+      ],
+      "finalCategoryId": 100307,
+      "productId": 8916
+    }
+  ],
+  "productIdsInArbo": [
+    8916
+  ],
+  "matchedProductIds": [
+    8916
+  ]
+}

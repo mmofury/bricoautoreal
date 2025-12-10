@@ -1,0 +1,69 @@
+{
+  "productName": "Revêtement, jupe avant",
+  "searchText": "Revêtement, jupe avant",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:10:00.260Z",
+  "productId": 1558,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Pièces de carrosserie/ailes/pares-chocs": {
+          "categoryId": null,
+          "categoryName": "Pièces de carrosserie/ailes/pares-chocs",
+          "level": 2,
+          "children": {
+            "Revêtement, jupe avant": {
+              "categoryId": 100743,
+              "categoryName": "Body Parts/Wing/Bumper",
+              "level": 2,
+              "children": {
+                "Recouvrement/Capuchons": {
+                  "categoryId": null,
+                  "categoryName": "Recouvrement/Capuchons",
+                  "level": 4,
+                  "children": {
+                    "Revêtement, jupe avant": {
+                      "categoryId": 100699,
+                      "categoryName": "Covers/Caps",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1558
+                    }
+                  }
+                }
+              },
+              "productId": 1558
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    └── Pièces de carrosserie/ailes/pares-chocs (Niveau 2)\n        └── Body Parts/Wing/Bumper [ID: 100743] (Niveau 2) → ProductId: 1558\n            └── Recouvrement/Capuchons (Niveau 4)\n                └── Covers/Caps [ID: 100699] (Niveau 3) → ProductId: 1558",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Pièces de carrosserie/ailes/pares-chocs",
+        "Body Parts/Wing/Bumper"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100743
+      ],
+      "finalCategoryId": 100743,
+      "productId": 1558
+    }
+  ],
+  "productIdsInArbo": [
+    1558
+  ],
+  "matchedProductIds": [
+    1558
+  ]
+}

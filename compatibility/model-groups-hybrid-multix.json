@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.428Z",
+  "manufacturer": "MULTIX",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 4605,
+      "manufacturerName": "MULTIX",
+      "groupKey": "AX",
+      "displayName": "AX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36979,
+          "modelName": "AX+",
+          "modelYearFrom": "2015-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4605,
+      "manufacturerName": "MULTIX",
+      "groupKey": "MX",
+      "displayName": "MX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36978,
+          "modelName": "MX",
+          "modelYearFrom": "2015-08-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

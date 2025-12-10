@@ -1,0 +1,167 @@
+{
+  "productName": "Relais, verrouillage central",
+  "searchText": "Relais, verrouillage central",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:08:24.062Z",
+  "productId": 1267,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Relais": {
+          "categoryId": null,
+          "categoryName": "Relais",
+          "level": 2,
+          "children": {
+            "Relais, verrouillage central": {
+              "categoryId": 100785,
+              "categoryName": "Relay",
+              "level": 2,
+              "children": [],
+              "productId": 1267
+            }
+          }
+        }
+      }
+    },
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Moteur / Relais": {
+          "categoryId": null,
+          "categoryName": "Moteur / Relais",
+          "level": 2,
+          "children": {
+            "Relais, verrouillage central": {
+              "categoryId": 104156,
+              "categoryName": "Motor/Relay/Switch",
+              "level": 2,
+              "children": {
+                "Verrouillage central": {
+                  "categoryId": null,
+                  "categoryName": "Verrouillage central",
+                  "level": 4,
+                  "children": {
+                    "Relais, verrouillage central": {
+                      "categoryId": 104164,
+                      "categoryName": "Central Locking",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1267
+                    }
+                  }
+                }
+              },
+              "productId": 1267
+            }
+          }
+        },
+        "Verrouillage central": {
+          "categoryId": null,
+          "categoryName": "Verrouillage central",
+          "level": 2,
+          "children": {
+            "Relais, verrouillage central": {
+              "categoryId": 100617,
+              "categoryName": "Central Locking",
+              "level": 2,
+              "children": [],
+              "productId": 1267
+            }
+          }
+        }
+      }
+    },
+    "Verrouillage": {
+      "categoryId": 100685,
+      "categoryName": "Verrouillage",
+      "level": 1,
+      "children": {
+        "Verrouillage central": {
+          "categoryId": null,
+          "categoryName": "Verrouillage central",
+          "level": 2,
+          "children": {
+            "Relais, verrouillage central": {
+              "categoryId": 100686,
+              "categoryName": "Central Locking System",
+              "level": 2,
+              "children": [],
+              "productId": 1267
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Système électrique [ID: 100010] (Niveau 1)\n│   └── Relais (Niveau 2)\n│       └── Relay [ID: 100785] (Niveau 2) → ProductId: 1267\n\n├── Systèmes de confort [ID: 100335] (Niveau 1)\n│   ├── Moteur / Relais (Niveau 2)\n│   │   └── Motor/Relay/Switch [ID: 104156] (Niveau 2) → ProductId: 1267\n│   │       └── Verrouillage central (Niveau 4)\n│   │           └── Central Locking [ID: 104164] (Niveau 3) → ProductId: 1267\n│   └── Verrouillage central (Niveau 2)\n│       └── Central Locking [ID: 100617] (Niveau 2) → ProductId: 1267\n\n└── Verrouillage [ID: 100685] (Niveau 1)\n    └── Verrouillage central (Niveau 2)\n        └── Central Locking System [ID: 100686] (Niveau 2) → ProductId: 1267",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Relais",
+        "Relay"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100785
+      ],
+      "finalCategoryId": 100785,
+      "productId": 1267
+    },
+    {
+      "path": [
+        "Systèmes de confort",
+        "Moteur / Relais",
+        "Motor/Relay/Switch"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        104156
+      ],
+      "finalCategoryId": 104156,
+      "productId": 1267
+    },
+    {
+      "path": [
+        "Systèmes de confort",
+        "Verrouillage central",
+        "Central Locking"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        100617
+      ],
+      "finalCategoryId": 100617,
+      "productId": 1267
+    },
+    {
+      "path": [
+        "Verrouillage",
+        "Verrouillage central",
+        "Central Locking System"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100686
+      ],
+      "finalCategoryId": 100686,
+      "productId": 1267
+    }
+  ],
+  "productIdsInArbo": [
+    1267
+  ],
+  "matchedProductIds": [
+    1267
+  ]
+}

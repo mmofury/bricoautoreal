@@ -1,0 +1,82 @@
+{
+  "productName": "Écrou, roue conique",
+  "searchText": "Écrou, roue conique",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:38:18.765Z",
+  "productId": 1740,
+  "arborescence": {
+    "Entraînement des essieux": {
+      "categoryId": 100400,
+      "categoryName": "Entraînement des essieux",
+      "level": 1,
+      "children": {
+        "Boîte de transfert": {
+          "categoryId": null,
+          "categoryName": "Boîte de transfert",
+          "level": 2,
+          "children": {
+            "Écrou, roue conique": {
+              "categoryId": 100416,
+              "categoryName": "Transfer Case",
+              "level": 2,
+              "children": [],
+              "productId": 1740
+            }
+          }
+        },
+        "Différentiel": {
+          "categoryId": null,
+          "categoryName": "Différentiel",
+          "level": 2,
+          "children": {
+            "Écrou, roue conique": {
+              "categoryId": 100415,
+              "categoryName": "Differential",
+              "level": 2,
+              "children": [],
+              "productId": 1740
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement des essieux [ID: 100400] (Niveau 1)\n    ├── Boîte de transfert (Niveau 2)\n    │   └── Transfer Case [ID: 100416] (Niveau 2) → ProductId: 1740\n    └── Différentiel (Niveau 2)\n        └── Differential [ID: 100415] (Niveau 2) → ProductId: 1740",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des essieux",
+        "Boîte de transfert",
+        "Transfer Case"
+      ],
+      "categoryIds": [
+        100400,
+        null,
+        100416
+      ],
+      "finalCategoryId": 100416,
+      "productId": 1740
+    },
+    {
+      "path": [
+        "Entraînement des essieux",
+        "Différentiel",
+        "Differential"
+      ],
+      "categoryIds": [
+        100400,
+        null,
+        100415
+      ],
+      "finalCategoryId": 100415,
+      "productId": 1740
+    }
+  ],
+  "productIdsInArbo": [
+    1740
+  ],
+  "matchedProductIds": [
+    1740
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "productName": "Kit de montage, Silent bloc",
+  "searchText": "Kit de montage, Silent bloc",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T21:01:37.005Z",
+  "productId": 4556,
+  "arborescence": {
+    "Outils spéciaux": {
+      "categoryId": 706365,
+      "categoryName": "Outils spéciaux",
+      "level": 1,
+      "children": {
+        "Outils spéciaux suspension d’essieu/guidage des roues/roues": {
+          "categoryId": null,
+          "categoryName": "Outils spéciaux suspension d’essieu/guidage des roues/roues",
+          "level": 2,
+          "children": {
+            "Kit de montage, Silent bloc": {
+              "categoryId": 706380,
+              "categoryName": "Special Tools, axle mounting/steering/wheels",
+              "level": 2,
+              "children": {
+                "Silent bloc": {
+                  "categoryId": null,
+                  "categoryName": "Silent bloc",
+                  "level": 4,
+                  "children": {
+                    "Kit de montage, Silent bloc": {
+                      "categoryId": 706382,
+                      "categoryName": "Silent Bearing",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4560
+                    }
+                  }
+                }
+              },
+              "productId": 4560
+            }
+          }
+        }
+      }
+    },
+    "Suspension d'essieu/Guidage des roues/Roues": {
+      "categoryId": 100013,
+      "categoryName": "Suspension d'essieu/Guidage des roues/Roues",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Kit de montage, Silent bloc": {
+              "categoryId": 103159,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4560
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Outils spéciaux [ID: 706365] (Niveau 1)\n│   └── Outils spéciaux suspension d’essieu/guidage des roues/roues (Niveau 2)\n│       └── Special Tools, axle mounting/steering/wheels [ID: 706380] (Niveau 2) → ProductId: 4560\n│           └── Silent bloc (Niveau 4)\n│               └── Silent Bearing [ID: 706382] (Niveau 3) → ProductId: 4560\n\n└── Suspension d'essieu/Guidage des roues/Roues [ID: 100013] (Niveau 1)\n    └── Outils (Niveau 2)\n        └── Tools [ID: 103159] (Niveau 2) → ProductId: 4560",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Outils spéciaux",
+        "Outils spéciaux suspension d’essieu/guidage des roues/roues",
+        "Special Tools, axle mounting/steering/wheels"
+      ],
+      "categoryIds": [
+        706365,
+        null,
+        706380
+      ],
+      "finalCategoryId": 706380,
+      "productId": 4560
+    },
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        103159
+      ],
+      "finalCategoryId": 103159,
+      "productId": 4560
+    }
+  ],
+  "productIdsInArbo": [
+    4560
+  ],
+  "closestProductIds": [
+    {
+      "productId": 4560,
+      "productName": "Kit de montage, Silent bloc"
+    }
+  ]
+}

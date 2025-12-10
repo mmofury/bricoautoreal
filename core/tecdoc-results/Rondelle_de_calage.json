@@ -1,0 +1,253 @@
+{
+  "productName": "Rondelle de calage",
+  "searchText": "Rondelle de calage",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-03T07:10:52.866Z",
+  "productId": 1222,
+  "arborescence": {
+    "Commande à courroie": {
+      "categoryId": 100016,
+      "categoryName": "Commande à courroie",
+      "level": 1,
+      "children": {
+        "Accessoires": {
+          "categoryId": null,
+          "categoryName": "Accessoires",
+          "level": 2,
+          "children": {
+            "Rondelle de calage, poulie-vilebrequin": {
+              "categoryId": 101482,
+              "categoryName": "Accessories/Small Parts",
+              "level": 2,
+              "children": [],
+              "productId": 4248
+            }
+          }
+        }
+      }
+    },
+    "Échappement": {
+      "categoryId": 100004,
+      "categoryName": "Échappement",
+      "level": 1,
+      "children": {
+        "Turbocompresseur": {
+          "categoryId": null,
+          "categoryName": "Turbocompresseur",
+          "level": 2,
+          "children": {
+            "Rondelle de calage, vis de fixation du compresseur": {
+              "categoryId": 100872,
+              "categoryName": "Charger",
+              "level": 2,
+              "children": [],
+              "productId": 3735
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Alimentation en air": {
+          "categoryId": null,
+          "categoryName": "Alimentation en air",
+          "level": 2,
+          "children": {
+            "Rondelle de calage, vis de fixation du compresseur": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Suralimentation": {
+                  "categoryId": null,
+                  "categoryName": "Suralimentation",
+                  "level": 4,
+                  "children": {
+                    "Rondelle de calage, vis de fixation du compresseur": {
+                      "categoryId": 100390,
+                      "categoryName": "Charging (supercharged/turbocharged)",
+                      "level": 3,
+                      "children": {
+                        "Compresseur/composants": {
+                          "categoryId": null,
+                          "categoryName": "Compresseur/composants",
+                          "level": 6,
+                          "children": {
+                            "Rondelle de calage, vis de fixation du compresseur": {
+                              "categoryId": 100391,
+                              "categoryName": "Charger/-parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 3735
+                            }
+                          }
+                        }
+                      },
+                      "productId": 3735
+                    }
+                  }
+                }
+              },
+              "productId": 3735
+            }
+          }
+        },
+        "Commande à courroie": {
+          "categoryId": null,
+          "categoryName": "Commande à courroie",
+          "level": 2,
+          "children": {
+            "Rondelle de calage, poulie-vilebrequin": {
+              "categoryId": 104302,
+              "categoryName": "Belt Drive",
+              "level": 2,
+              "children": {
+                "Accessoires": {
+                  "categoryId": null,
+                  "categoryName": "Accessoires",
+                  "level": 4,
+                  "children": {
+                    "Rondelle de calage, poulie-vilebrequin": {
+                      "categoryId": 104328,
+                      "categoryName": "Accessories/Small Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4248
+                    }
+                  }
+                }
+              },
+              "productId": 4248
+            }
+          }
+        },
+        "Culasse / pieces de montage": {
+          "categoryId": null,
+          "categoryName": "Culasse / pieces de montage",
+          "level": 2,
+          "children": {
+            "Rondelle de calage, vis de culasse de cylindre": {
+              "categoryId": 100373,
+              "categoryName": "Cylinder Head/Attachment Parts",
+              "level": 2,
+              "children": {
+                "Vis de culasse": {
+                  "categoryId": null,
+                  "categoryName": "Vis de culasse",
+                  "level": 4,
+                  "children": {
+                    "Rondelle de calage, vis de culasse de cylindre": {
+                      "categoryId": 100378,
+                      "categoryName": "Cylinder Head Bolts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1534
+                    }
+                  }
+                }
+              },
+              "productId": 1534
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Commande à courroie [ID: 100016] (Niveau 1)\n│   └── Accessoires (Niveau 2)\n│       └── Accessories/Small Parts [ID: 101482] (Niveau 2) → ProductId: 4248\n\n├── Échappement [ID: 100004] (Niveau 1)\n│   └── Turbocompresseur (Niveau 2)\n│       └── Charger [ID: 100872] (Niveau 2) → ProductId: 3735\n\n└── Moteur [ID: 100002] (Niveau 1)\n    ├── Alimentation en air (Niveau 2)\n    │   └── Air Supply [ID: 100383] (Niveau 2) → ProductId: 3735\n    │       └── Suralimentation (Niveau 4)\n    │           └── Charging (supercharged/turbocharged) [ID: 100390] (Niveau 3) → ProductId: 3735\n    │               └── Compresseur/composants (Niveau 6)\n    │                   └── Charger/-parts [ID: 100391] (Niveau 4) → ProductId: 3735\n    ├── Commande à courroie (Niveau 2)\n    │   └── Belt Drive [ID: 104302] (Niveau 2) → ProductId: 4248\n    │       └── Accessoires (Niveau 4)\n    │           └── Accessories/Small Parts [ID: 104328] (Niveau 3) → ProductId: 4248\n    └── Culasse / pieces de montage (Niveau 2)\n        └── Cylinder Head/Attachment Parts [ID: 100373] (Niveau 2) → ProductId: 1534\n            └── Vis de culasse (Niveau 4)\n                └── Cylinder Head Bolts [ID: 100378] (Niveau 3) → ProductId: 1534",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Commande à courroie",
+        "Accessoires",
+        "Accessories/Small Parts"
+      ],
+      "categoryIds": [
+        100016,
+        null,
+        101482
+      ],
+      "finalCategoryId": 101482,
+      "productId": 4248
+    },
+    {
+      "path": [
+        "Échappement",
+        "Turbocompresseur",
+        "Charger"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100872
+      ],
+      "finalCategoryId": 100872,
+      "productId": 3735
+    },
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 3735
+    },
+    {
+      "path": [
+        "Moteur",
+        "Commande à courroie",
+        "Belt Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        104302
+      ],
+      "finalCategoryId": 104302,
+      "productId": 4248
+    },
+    {
+      "path": [
+        "Moteur",
+        "Culasse / pieces de montage",
+        "Cylinder Head/Attachment Parts"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100373
+      ],
+      "finalCategoryId": 100373,
+      "productId": 1534
+    }
+  ],
+  "productIdsInArbo": [
+    1534,
+    3735,
+    4248
+  ],
+  "closestProductIds": [
+    {
+      "productId": 1534,
+      "productName": "Rondelle de calage, vis de culasse de cylindre"
+    },
+    {
+      "productId": 3735,
+      "productName": "Rondelle de calage, vis de fixation du compresseur"
+    },
+    {
+      "productId": 4248,
+      "productName": "Rondelle de calage, poulie-vilebrequin"
+    }
+  ]
+}

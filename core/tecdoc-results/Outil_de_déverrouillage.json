@@ -1,0 +1,384 @@
+{
+  "productName": "Outil de déverrouillage",
+  "searchText": "Outil de déverrouillage",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T21:17:38.992Z",
+  "productId": 3221,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Kit d'outil de déverrouillage, Tuyauterie de carburant": {
+              "categoryId": 103148,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4505
+            },
+            "Kit d'outils de déverrouillage, conduite de carburant": {
+              "categoryId": 103148,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 8169
+            },
+            "Outil de déverrouillage, conduite de retour de carburant": {
+              "categoryId": 103148,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 61479
+            }
+          }
+        }
+      }
+    },
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Outil déverr., boîte vit. à double embrayage (DSG)": {
+              "categoryId": 103157,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 9761
+            }
+          }
+        }
+      }
+    },
+    "Équipement intérieur": {
+      "categoryId": 100341,
+      "categoryName": "Équipement intérieur",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Outil de desserrage, poignée": {
+              "categoryId": 105405,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 9530
+            },
+            "Outil de déverrouillage, pédale de frein": {
+              "categoryId": 105405,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 9523
+            },
+            "Outil déverrouillage, cache du verrou de volant": {
+              "categoryId": 105405,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 8852
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Kit d'outils de déverrouillage, conduite de carburant": {
+              "categoryId": 103129,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 8169
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Kit d'outil de déverrouillage": {
+              "categoryId": 103136,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 8941
+            },
+            "Outil de déverrouillage": {
+              "categoryId": 103136,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 8940
+            },
+            "Outil de déverrouillage, fiche plate/ronde": {
+              "categoryId": 103136,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 61343
+            }
+          }
+        }
+      }
+    },
+    "Systèmes de sécurité": {
+      "categoryId": 100417,
+      "categoryName": "Systèmes de sécurité",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Outil de déverrouillage, airbag": {
+              "categoryId": 103141,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4495
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Alimentation carburant [ID: 100214] (Niveau 1)\n│   └── Outils (Niveau 2)\n│       ├── Tools [ID: 103148] (Niveau 2) → ProductId: 4505\n│       ├── Tools [ID: 103148] (Niveau 2) → ProductId: 8169\n│       └── Tools [ID: 103148] (Niveau 2) → ProductId: 61479\n\n├── Boîte de vitesses [ID: 100238] (Niveau 1)\n│   └── Outils (Niveau 2)\n│       └── Tools [ID: 103157] (Niveau 2) → ProductId: 9761\n\n├── Équipement intérieur [ID: 100341] (Niveau 1)\n│   └── Outils (Niveau 2)\n│       ├── Tools [ID: 105405] (Niveau 2) → ProductId: 9530\n│       ├── Tools [ID: 105405] (Niveau 2) → ProductId: 9523\n│       └── Tools [ID: 105405] (Niveau 2) → ProductId: 8852\n\n├── Moteur [ID: 100002] (Niveau 1)\n│   └── Outils (Niveau 2)\n│       └── Tools [ID: 103129] (Niveau 2) → ProductId: 8169\n\n├── Système électrique [ID: 100010] (Niveau 1)\n│   └── Outils (Niveau 2)\n│       ├── Tools [ID: 103136] (Niveau 2) → ProductId: 8941\n│       ├── Tools [ID: 103136] (Niveau 2) → ProductId: 8940\n│       └── Tools [ID: 103136] (Niveau 2) → ProductId: 61343\n\n└── Systèmes de sécurité [ID: 100417] (Niveau 1)\n    └── Outils (Niveau 2)\n        └── Tools [ID: 103141] (Niveau 2) → ProductId: 4495",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        103148
+      ],
+      "finalCategoryId": 103148,
+      "productId": 4505
+    },
+    {
+      "path": [
+        "Alimentation carburant",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        103148
+      ],
+      "finalCategoryId": 103148,
+      "productId": 8169
+    },
+    {
+      "path": [
+        "Alimentation carburant",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        103148
+      ],
+      "finalCategoryId": 103148,
+      "productId": 61479
+    },
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        103157
+      ],
+      "finalCategoryId": 103157,
+      "productId": 9761
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        105405
+      ],
+      "finalCategoryId": 105405,
+      "productId": 9530
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        105405
+      ],
+      "finalCategoryId": 105405,
+      "productId": 9523
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        105405
+      ],
+      "finalCategoryId": 105405,
+      "productId": 8852
+    },
+    {
+      "path": [
+        "Moteur",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        103129
+      ],
+      "finalCategoryId": 103129,
+      "productId": 8169
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        103136
+      ],
+      "finalCategoryId": 103136,
+      "productId": 8941
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        103136
+      ],
+      "finalCategoryId": 103136,
+      "productId": 8940
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        103136
+      ],
+      "finalCategoryId": 103136,
+      "productId": 61343
+    },
+    {
+      "path": [
+        "Systèmes de sécurité",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100417,
+        null,
+        103141
+      ],
+      "finalCategoryId": 103141,
+      "productId": 4495
+    }
+  ],
+  "productIdsInArbo": [
+    4495,
+    4505,
+    8169,
+    8852,
+    8940,
+    8941,
+    9523,
+    9530,
+    9761,
+    61343,
+    61479
+  ],
+  "closestProductIds": [
+    {
+      "productId": 4495,
+      "productName": "Outil de déverrouillage, airbag"
+    },
+    {
+      "productId": 4505,
+      "productName": "Kit d'outil de déverrouillage, Tuyauterie de carburant"
+    },
+    {
+      "productId": 8169,
+      "productName": "Kit d'outils de déverrouillage, conduite de carburant"
+    },
+    {
+      "productId": 8852,
+      "productName": "Outil déverrouillage, cache du verrou de volant"
+    },
+    {
+      "productId": 8940,
+      "productName": "Outil de déverrouillage"
+    }
+  ]
+}

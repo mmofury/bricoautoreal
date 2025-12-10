@@ -1,0 +1,127 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.430Z",
+  "manufacturer": "NAZA",
+  "countGroups": 8,
+  "groups": [
+    {
+      "manufacturerId": 3070,
+      "manufacturerName": "NAZA",
+      "groupKey": "206",
+      "displayName": "206",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40048,
+          "modelName": "206 BESTARI",
+          "modelYearFrom": "2005-10-01",
+          "modelYearTo": "2011-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3070,
+      "manufacturerName": "NAZA",
+      "groupKey": "CITRA",
+      "displayName": "CITRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7524,
+          "modelName": "CITRA",
+          "modelYearFrom": "2005-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3070,
+      "manufacturerName": "NAZA",
+      "groupKey": "FORTE",
+      "displayName": "FORTE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37736,
+          "modelName": "FORTE",
+          "modelYearFrom": "2009-11-01",
+          "modelYearTo": "2013-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3070,
+      "manufacturerName": "NAZA",
+      "groupKey": "FORZA",
+      "displayName": "FORZA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7525,
+          "modelName": "FORZA",
+          "modelYearFrom": "2006-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3070,
+      "manufacturerName": "NAZA",
+      "groupKey": "PICANTO",
+      "displayName": "PICANTO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45209,
+          "modelName": "PICANTO",
+          "modelYearFrom": "2009-10-01",
+          "modelYearTo": "2012-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3070,
+      "manufacturerName": "NAZA",
+      "groupKey": "RIA",
+      "displayName": "RIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7520,
+          "modelName": "RIA",
+          "modelYearFrom": "2001-10-01",
+          "modelYearTo": "2006-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3070,
+      "manufacturerName": "NAZA",
+      "groupKey": "SURIA",
+      "displayName": "SURIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10348,
+          "modelName": "SURIA",
+          "modelYearFrom": "2006-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3070,
+      "manufacturerName": "NAZA",
+      "groupKey": "SUTERA",
+      "displayName": "SUTERA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7523,
+          "modelName": "SUTERA",
+          "modelYearFrom": "2006-04-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

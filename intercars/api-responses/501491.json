@@ -1,0 +1,49 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "501491",
+      "index": "FE18329",
+      "tecDoc": "18329",
+      "tecDocProd": "101",
+      "articleNumber": "18329",
+      "brand": "FEBI",
+      "shortDescription": "Plug",
+      "description": "Wire plug (number of pins: 2/4, plug shape: bayonet/round, female,with wire) fits: VOLVO B10, B12, FL6 01.78-",
+      "eans": [
+        "4027816183297"
+      ],
+      "packageWeight": "0,027",
+      "packageWidth": "6,100",
+      "packageDepth": "16,000",
+      "packageHeight": "4,600",
+      "customsCode": "85366990",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_5015",
+          "primary": false,
+          "name": {
+            "en": "Adapter, oil pressure switch"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_824",
+          "primary": true,
+          "name": {
+            "en": "Plug"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_4836",
+          "primary": false,
+          "name": {
+            "en": "Adapter, pressure switch"
+          }
+        }
+      ]
+    }
+  ]
+}

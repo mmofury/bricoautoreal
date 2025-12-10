@@ -1,0 +1,217 @@
+{
+  "productName": "Unité pompe-injecteur",
+  "searchText": "Unité pompe-injecteur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:30:48.727Z",
+  "productId": 3930,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Extracteur, Unité pompe-injecteur": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Outils": {
+                  "categoryId": null,
+                  "categoryName": "Outils",
+                  "level": 4,
+                  "children": {
+                    "Extracteur, Unité pompe-injecteur": {
+                      "categoryId": 103150,
+                      "categoryName": "Tools",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4515
+                    }
+                  }
+                }
+              },
+              "productId": 4515
+            },
+            "Kit de montage, Unité pompe-injecteur": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Outils": {
+                  "categoryId": null,
+                  "categoryName": "Outils",
+                  "level": 4,
+                  "children": {
+                    "Kit de montage, Unité pompe-injecteur": {
+                      "categoryId": 103150,
+                      "categoryName": "Tools",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4516
+                    }
+                  }
+                }
+              },
+              "productId": 4516
+            },
+            "Kit de montage, unité pompe-injecteur": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Outils": {
+                  "categoryId": null,
+                  "categoryName": "Outils",
+                  "level": 4,
+                  "children": {
+                    "Kit de montage, unité pompe-injecteur": {
+                      "categoryId": 103150,
+                      "categoryName": "Tools",
+                      "level": 3,
+                      "children": [],
+                      "productId": 9412
+                    }
+                  }
+                }
+              },
+              "productId": 9412
+            },
+            "Kit de réparation, unité pompe-injecteur": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Kit de réparation/Kit complet": {
+                  "categoryId": null,
+                  "categoryName": "Kit de réparation/Kit complet",
+                  "level": 4,
+                  "children": {
+                    "Kit de réparation, unité pompe-injecteur": {
+                      "categoryId": 102807,
+                      "categoryName": "Repair Kit",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3934
+                    }
+                  }
+                }
+              },
+              "productId": 3934
+            },
+            "Unité pompe-injecteur": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Injecteur/porte-injecteur/UPI": {
+                  "categoryId": null,
+                  "categoryName": "Injecteur/porte-injecteur/UPI",
+                  "level": 4,
+                  "children": {
+                    "Unité pompe-injecteur": {
+                      "categoryId": 102799,
+                      "categoryName": "Injector/Nozzle/Nozzle and Holder Assembly/UI",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3930
+                    }
+                  }
+                }
+              },
+              "productId": 3930
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carburation [ID: 100254] (Niveau 1)\n    └── Mélange air-carburant (Niveau 2)\n        ├── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 4515\n        │   └── Outils (Niveau 4)\n        │       └── Tools [ID: 103150] (Niveau 3) → ProductId: 4515\n        ├── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 4516\n        │   └── Outils (Niveau 4)\n        │       └── Tools [ID: 103150] (Niveau 3) → ProductId: 4516\n        ├── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 9412\n        │   └── Outils (Niveau 4)\n        │       └── Tools [ID: 103150] (Niveau 3) → ProductId: 9412\n        ├── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 3934\n        │   └── Kit de réparation/Kit complet (Niveau 4)\n        │       └── Repair Kit [ID: 102807] (Niveau 3) → ProductId: 3934\n        └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 3930\n            └── Injecteur/porte-injecteur/UPI (Niveau 4)\n                └── Injector/Nozzle/Nozzle and Holder Assembly/UI [ID: 102799] (Niveau 3) → ProductId: 3930",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 4515
+    },
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 4516
+    },
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 9412
+    },
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 3934
+    },
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 3930
+    }
+  ],
+  "productIdsInArbo": [
+    3930,
+    3934,
+    4515,
+    4516,
+    9412
+  ],
+  "matchedProductIds": [
+    3930
+  ]
+}

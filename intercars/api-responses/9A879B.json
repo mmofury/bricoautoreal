@@ -1,0 +1,36 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "9A879B",
+      "index": "VAL509320",
+      "tecDoc": "509320",
+      "tecDocProd": "21",
+      "articleNumber": "509320",
+      "brand": "VALEO",
+      "shortDescription": "Gasket, coolant pipe",
+      "description": "VALEO valve OPEL",
+      "packageWeight": "0,010",
+      "customsCode": "40169300",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4311",
+          "primary": false,
+          "name": {
+            "en": "Valve Core, service valve"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_547",
+          "primary": true,
+          "name": {
+            "en": "Gasket, coolant pipe"
+          }
+        }
+      ]
+    }
+  ]
+}

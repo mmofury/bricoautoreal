@@ -1,0 +1,56 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "D30765",
+      "index": "7.02256.29.0",
+      "tecDoc": "7.02256.29.0",
+      "tecDocProd": "5",
+      "articleNumber": "7.02256.29.0",
+      "brand": "PIERBURG",
+      "shortDescription": "EGR Valve, exhaust control",
+      "description": "Electric control valve (12V) fits: AUDI A3, A4 B5, A4 B6, A6 C5, FORD ESCORT VI, FIESTA III, MONDEO I, MONDEO II, TRANSIT, TRANSIT TOURNEO, SKODA SUPERB I, VW GOLF IV 1.6-3.2D 02.92-12.14",
+      "eans": [
+        "4028977745126"
+      ],
+      "packageWeight": "0,096",
+      "packageWidth": "6,500",
+      "packageDepth": "6,500",
+      "packageHeight": "7,500",
+      "customsCode": "84818099",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4906",
+          "primary": false,
+          "name": {
+            "en": "Solenoid Valve, air conditioning"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_761",
+          "primary": false,
+          "name": {
+            "en": "Boost Pressure Control Valve"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1137",
+          "primary": true,
+          "name": {
+            "en": "EGR Valve, exhaust control"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3551",
+          "primary": false,
+          "name": {
+            "en": "Change-Over Valve, change-over flap (induction pipe)"
+          }
+        }
+      ]
+    }
+  ]
+}

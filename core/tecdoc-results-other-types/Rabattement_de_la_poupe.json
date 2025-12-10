@@ -1,0 +1,69 @@
+{
+  "productName": "Rabattement de la poupe",
+  "productId": 5406,
+  "searchText": "Rabattement de la poupe",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 3,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Moto": {
+          "categoryId": 103671,
+          "categoryName": "Moto",
+          "level": 1,
+          "children": {
+            "Cadre/Châssis": {
+              "categoryId": null,
+              "categoryName": "Cadre/Châssis",
+              "level": 2,
+              "children": {
+                "Rabattement de la poupe": {
+                  "categoryId": 103736,
+                  "categoryName": "Frame",
+                  "level": 2,
+                  "children": {
+                    "Rabattemt/soulèvemt de poupe": {
+                      "categoryId": null,
+                      "categoryName": "Rabattemt/soulèvemt de poupe",
+                      "level": 4,
+                      "children": {
+                        "Rabattement de la poupe": {
+                          "categoryId": 103737,
+                          "categoryName": "Tail Lifting/Lowering",
+                          "level": 3,
+                          "children": [],
+                          "productId": 5406
+                        }
+                      }
+                    }
+                  },
+                  "productId": 5406
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Moto [ID: 103671] (Niveau 1)\n    └── Cadre/Châssis (Niveau 2)\n        └── Frame [ID: 103736] (Niveau 2) → ProductId: 5406\n            └── Rabattemt/soulèvemt de poupe (Niveau 4)\n                └── Tail Lifting/Lowering [ID: 103737] (Niveau 3) → ProductId: 5406",
+      "productIdsInArbo": [
+        5406
+      ],
+      "matchedProductIds": [
+        5406
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:21:01.129Z",
+  "bestMatch": {
+    "typeId": 3,
+    "found": true,
+    "hasMatch": true
+  }
+}

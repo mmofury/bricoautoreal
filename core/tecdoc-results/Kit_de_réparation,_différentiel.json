@@ -1,0 +1,54 @@
+{
+  "productName": "Kit de réparation, différentiel",
+  "searchText": "Kit de réparation, différentiel",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:04:43.690Z",
+  "productId": 4022,
+  "arborescence": {
+    "Entraînement des essieux": {
+      "categoryId": 100400,
+      "categoryName": "Entraînement des essieux",
+      "level": 1,
+      "children": {
+        "Différentiel": {
+          "categoryId": null,
+          "categoryName": "Différentiel",
+          "level": 2,
+          "children": {
+            "Kit de réparation, différentiel": {
+              "categoryId": 100415,
+              "categoryName": "Differential",
+              "level": 2,
+              "children": [],
+              "productId": 4022
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement des essieux [ID: 100400] (Niveau 1)\n    └── Différentiel (Niveau 2)\n        └── Differential [ID: 100415] (Niveau 2) → ProductId: 4022",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des essieux",
+        "Différentiel",
+        "Differential"
+      ],
+      "categoryIds": [
+        100400,
+        null,
+        100415
+      ],
+      "finalCategoryId": 100415,
+      "productId": 4022
+    }
+  ],
+  "productIdsInArbo": [
+    4022
+  ],
+  "matchedProductIds": [
+    4022
+  ]
+}

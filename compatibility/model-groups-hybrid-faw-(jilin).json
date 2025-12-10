@@ -1,0 +1,184 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.265Z",
+  "manufacturer": "FAW (JILIN)",
+  "countGroups": 5,
+  "groups": [
+    {
+      "manufacturerId": 2909,
+      "manufacturerName": "FAW (JILIN)",
+      "groupKey": "FUXING",
+      "displayName": "FUXING",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38508,
+          "modelName": "FUXING",
+          "modelYearFrom": "2005-01-01",
+          "modelYearTo": "2010-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2909,
+      "manufacturerName": "FAW (JILIN)",
+      "groupKey": "JIABAO",
+      "displayName": "JIABAO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6354,
+          "modelName": "JIABAO",
+          "modelYearFrom": "1998-10-01",
+          "modelYearTo": "2004-01-01"
+        },
+        {
+          "modelId": 7068,
+          "modelName": "JIABAO AV6 Autobus/Autocar",
+          "modelYearFrom": "2004-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14693,
+          "modelName": "JIABAO V75 Autobus/Autocar",
+          "modelYearFrom": "2014-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 36801,
+          "modelName": "JIABAO V70",
+          "modelYearFrom": "2009-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37064,
+          "modelName": "JIABAO V80 Autobus/Autocar",
+          "modelYearFrom": "2013-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37081,
+          "modelName": "JIABAO V55",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37776,
+          "modelName": "JIABAO T50",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37781,
+          "modelName": "JIABAO T51",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37782,
+          "modelName": "JIABAO T57",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37783,
+          "modelName": "JIABAO V77",
+          "modelYearFrom": "2015-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40848,
+          "modelName": "JIABAO V80 Fourgon",
+          "modelYearFrom": "2018-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41498,
+          "modelName": "JIABAO V52",
+          "modelYearFrom": "2011-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43117,
+          "modelName": "JIABAO V75 Fourgon",
+          "modelYearFrom": "2016-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2909,
+      "manufacturerName": "FAW (JILIN)",
+      "groupKey": "JIEFANG",
+      "displayName": "JIEFANG",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41949,
+          "modelName": "JIEFANG T90",
+          "modelYearFrom": "2018-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41951,
+          "modelName": "JIEFANG T80",
+          "modelYearFrom": "2014-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2909,
+      "manufacturerName": "FAW (JILIN)",
+      "groupKey": "SENIA",
+      "displayName": "SENIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39146,
+          "modelName": "SENIA R9",
+          "modelYearFrom": "2018-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40262,
+          "modelName": "SENIA R8",
+          "modelYearFrom": "2020-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42227,
+          "modelName": "SENIA HONGYAN",
+          "modelYearFrom": "2021-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2909,
+      "manufacturerName": "FAW (JILIN)",
+      "groupKey": "XENIA",
+      "displayName": "XENIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9176,
+          "modelName": "XENIA S80",
+          "modelYearFrom": "2010-12-01",
+          "modelYearTo": "2020-12-01"
+        },
+        {
+          "modelId": 36729,
+          "modelName": "XENIA R7",
+          "modelYearFrom": "2016-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38940,
+          "modelName": "XENIA M80",
+          "modelYearFrom": "2009-09-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

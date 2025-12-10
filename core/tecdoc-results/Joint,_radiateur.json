@@ -1,0 +1,265 @@
+{
+  "productName": "Joint, radiateur",
+  "searchText": "Joint, radiateur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:56:15.754Z",
+  "productId": 2666,
+  "arborescence": {
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Boîte de vitesse automatique": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesse automatique",
+          "level": 2,
+          "children": {
+            "Joint, radiateur d’huile (boîte automatique)": {
+              "categoryId": 100240,
+              "categoryName": "Automatic Transmission",
+              "level": 2,
+              "children": {
+                "Radiateur": {
+                  "categoryId": null,
+                  "categoryName": "Radiateur",
+                  "level": 4,
+                  "children": {
+                    "Joint, radiateur d’huile (boîte automatique)": {
+                      "categoryId": 103109,
+                      "categoryName": "Cooler",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60194
+                    }
+                  }
+                }
+              },
+              "productId": 60194
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Joints": {
+          "categoryId": null,
+          "categoryName": "Joints",
+          "level": 2,
+          "children": {
+            "Joint, radiateur d'huile": {
+              "categoryId": 100223,
+              "categoryName": "Gaskets",
+              "level": 2,
+              "children": {
+                "Joint de circuit d'huile": {
+                  "categoryId": null,
+                  "categoryName": "Joint de circuit d'huile",
+                  "level": 4,
+                  "children": {
+                    "Joint, radiateur d'huile": {
+                      "categoryId": 100684,
+                      "categoryName": "Oil Circuit Seals",
+                      "level": 3,
+                      "children": [],
+                      "productId": 131
+                    }
+                  }
+                }
+              },
+              "productId": 131
+            }
+          }
+        },
+        "Lubrification": {
+          "categoryId": null,
+          "categoryName": "Lubrification",
+          "level": 2,
+          "children": {
+            "Joint, radiateur d'huile": {
+              "categoryId": 100245,
+              "categoryName": "Lubrication",
+              "level": 2,
+              "children": {
+                "Radiateur d'huile / pièces de montage": {
+                  "categoryId": null,
+                  "categoryName": "Radiateur d'huile / pièces de montage",
+                  "level": 4,
+                  "children": {
+                    "Joint, radiateur d'huile": {
+                      "categoryId": 100474,
+                      "categoryName": "Oil Cooler/Attachment Parts",
+                      "level": 3,
+                      "children": {
+                        "Joint": {
+                          "categoryId": null,
+                          "categoryName": "Joint",
+                          "level": 6,
+                          "children": {
+                            "Joint, radiateur d'huile": {
+                              "categoryId": 100488,
+                              "categoryName": "Seal",
+                              "level": 4,
+                              "children": [],
+                              "productId": 131
+                            }
+                          }
+                        }
+                      },
+                      "productId": 131
+                    }
+                  }
+                }
+              },
+              "productId": 131
+            }
+          }
+        }
+      }
+    },
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Radiateur d'eau/d'huile": {
+          "categoryId": null,
+          "categoryName": "Radiateur d'eau/d'huile",
+          "level": 2,
+          "children": {
+            "Joint, radiateur": {
+              "categoryId": 100102,
+              "categoryName": "Radiator/Oil Cooler",
+              "level": 2,
+              "children": {
+                "Radiateur d'eau/composants": {
+                  "categoryId": null,
+                  "categoryName": "Radiateur d'eau/composants",
+                  "level": 4,
+                  "children": {
+                    "Joint, radiateur": {
+                      "categoryId": 100103,
+                      "categoryName": "Radiator/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2666
+                    }
+                  }
+                }
+              },
+              "productId": 2666
+            },
+            "Joint, radiateur d'huile": {
+              "categoryId": 100102,
+              "categoryName": "Radiator/Oil Cooler",
+              "level": 2,
+              "children": {
+                "Radiateur d'huile": {
+                  "categoryId": null,
+                  "categoryName": "Radiateur d'huile",
+                  "level": 4,
+                  "children": {
+                    "Joint, radiateur d'huile": {
+                      "categoryId": 100108,
+                      "categoryName": "Oil Cooler",
+                      "level": 3,
+                      "children": [],
+                      "productId": 131
+                    }
+                  }
+                }
+              },
+              "productId": 131
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Boîte de vitesses [ID: 100238] (Niveau 1)\n│   └── Boîte de vitesse automatique (Niveau 2)\n│       └── Automatic Transmission [ID: 100240] (Niveau 2) → ProductId: 60194\n│           └── Radiateur (Niveau 4)\n│               └── Cooler [ID: 103109] (Niveau 3) → ProductId: 60194\n\n├── Moteur [ID: 100002] (Niveau 1)\n│   ├── Joints (Niveau 2)\n│   │   └── Gaskets [ID: 100223] (Niveau 2) → ProductId: 131\n│   │       └── Joint de circuit d'huile (Niveau 4)\n│   │           └── Oil Circuit Seals [ID: 100684] (Niveau 3) → ProductId: 131\n│   └── Lubrification (Niveau 2)\n│       └── Lubrication [ID: 100245] (Niveau 2) → ProductId: 131\n│           └── Radiateur d'huile / pièces de montage (Niveau 4)\n│               └── Oil Cooler/Attachment Parts [ID: 100474] (Niveau 3) → ProductId: 131\n│                   └── Joint (Niveau 6)\n│                       └── Seal [ID: 100488] (Niveau 4) → ProductId: 131\n\n└── Refroidissement [ID: 100007] (Niveau 1)\n    └── Radiateur d'eau/d'huile (Niveau 2)\n        ├── Radiator/Oil Cooler [ID: 100102] (Niveau 2) → ProductId: 2666\n        │   └── Radiateur d'eau/composants (Niveau 4)\n        │       └── Radiator/Parts [ID: 100103] (Niveau 3) → ProductId: 2666\n        └── Radiator/Oil Cooler [ID: 100102] (Niveau 2) → ProductId: 131\n            └── Radiateur d'huile (Niveau 4)\n                └── Oil Cooler [ID: 100108] (Niveau 3) → ProductId: 131",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesse automatique",
+        "Automatic Transmission"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        100240
+      ],
+      "finalCategoryId": 100240,
+      "productId": 60194
+    },
+    {
+      "path": [
+        "Moteur",
+        "Joints",
+        "Gaskets"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100223
+      ],
+      "finalCategoryId": 100223,
+      "productId": 131
+    },
+    {
+      "path": [
+        "Moteur",
+        "Lubrification",
+        "Lubrication"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100245
+      ],
+      "finalCategoryId": 100245,
+      "productId": 131
+    },
+    {
+      "path": [
+        "Refroidissement",
+        "Radiateur d'eau/d'huile",
+        "Radiator/Oil Cooler"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100102
+      ],
+      "finalCategoryId": 100102,
+      "productId": 2666
+    },
+    {
+      "path": [
+        "Refroidissement",
+        "Radiateur d'eau/d'huile",
+        "Radiator/Oil Cooler"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100102
+      ],
+      "finalCategoryId": 100102,
+      "productId": 131
+    }
+  ],
+  "productIdsInArbo": [
+    131,
+    2666,
+    60194
+  ],
+  "matchedProductIds": [
+    2666
+  ]
+}

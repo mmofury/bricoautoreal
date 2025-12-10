@@ -1,0 +1,118 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.347Z",
+  "manufacturer": "ISUZU (QINGLING)",
+  "countGroups": 7,
+  "groups": [
+    {
+      "manufacturerId": 3139,
+      "manufacturerName": "ISUZU (QINGLING)",
+      "groupKey": "600P",
+      "displayName": "600P",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43878,
+          "modelName": "600P Fourgon",
+          "modelYearFrom": "2004-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3139,
+      "manufacturerName": "ISUZU (QINGLING)",
+      "groupKey": "EV100",
+      "displayName": "EV100",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43873,
+          "modelName": "EV100 Camion plate-forme/Châssis",
+          "modelYearFrom": "2018-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3139,
+      "manufacturerName": "ISUZU (QINGLING)",
+      "groupKey": "EVK100",
+      "displayName": "EVK100",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43874,
+          "modelName": "EVK100 Camion plate-forme/Châssis",
+          "modelYearFrom": "2018-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3139,
+      "manufacturerName": "ISUZU (QINGLING)",
+      "groupKey": "RODEO",
+      "displayName": "RODEO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6569,
+          "modelName": "RODEO",
+          "modelYearFrom": "2008-01-01",
+          "modelYearTo": "2012-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3139,
+      "manufacturerName": "ISUZU (QINGLING)",
+      "groupKey": "T17",
+      "displayName": "T17",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39649,
+          "modelName": "T17",
+          "modelYearFrom": "2017-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3139,
+      "manufacturerName": "ISUZU (QINGLING)",
+      "groupKey": "TAGA",
+      "displayName": "TAGA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38793,
+          "modelName": "TAGA",
+          "modelYearFrom": "2017-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41825,
+          "modelName": "TAGA H",
+          "modelYearFrom": "2021-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3139,
+      "manufacturerName": "ISUZU (QINGLING)",
+      "groupKey": "TF",
+      "displayName": "TF",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14097,
+          "modelName": "TF",
+          "modelYearFrom": "2009-01-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.235Z",
+  "manufacturer": "DE TOMASO",
+  "countGroups": 6,
+  "groups": [
+    {
+      "manufacturerId": 1495,
+      "manufacturerName": "DE TOMASO",
+      "groupKey": "BIGUA",
+      "displayName": "BIGUA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4320,
+          "modelName": "BIGUA",
+          "modelYearFrom": "1996-01-01",
+          "modelYearTo": "2002-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1495,
+      "manufacturerName": "DE TOMASO",
+      "groupKey": "DEAUVILLE",
+      "displayName": "DEAUVILLE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4321,
+          "modelName": "DEAUVILLE",
+          "modelYearFrom": "1972-01-01",
+          "modelYearTo": "1986-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1495,
+      "manufacturerName": "DE TOMASO",
+      "groupKey": "GUARA",
+      "displayName": "GUARA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4322,
+          "modelName": "GUARA",
+          "modelYearFrom": "1993-01-01",
+          "modelYearTo": "2004-12-01"
+        },
+        {
+          "modelId": 4323,
+          "modelName": "GUARA Barchetta",
+          "modelYearFrom": "1993-01-01",
+          "modelYearTo": "2004-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1495,
+      "manufacturerName": "DE TOMASO",
+      "groupKey": "LONGCHAMP",
+      "displayName": "LONGCHAMP",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4324,
+          "modelName": "LONGCHAMP",
+          "modelYearFrom": "1972-04-01",
+          "modelYearTo": "1985-01-01"
+        },
+        {
+          "modelId": 4325,
+          "modelName": "LONGCHAMP Décapotable",
+          "modelYearFrom": "1972-04-01",
+          "modelYearTo": "1979-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1495,
+      "manufacturerName": "DE TOMASO",
+      "groupKey": "MANGUSTA",
+      "displayName": "MANGUSTA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31041,
+          "modelName": "MANGUSTA A trois volumes",
+          "modelYearFrom": "1966-09-01",
+          "modelYearTo": "1972-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1495,
+      "manufacturerName": "DE TOMASO",
+      "groupKey": "PANTERA",
+      "displayName": "PANTERA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4326,
+          "modelName": "PANTERA",
+          "modelYearFrom": "1971-01-01",
+          "modelYearTo": "1997-10-01"
+        }
+      ]
+    }
+  ]
+}

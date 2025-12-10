@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G10EKB",
+      "index": "DOLZ EA574A",
+      "tecDoc": "EA574A",
+      "tecDocProd": "154",
+      "articleNumber": "EA574A",
+      "brand": "DOLZ",
+      "shortDescription": "Water pump",
+      "description": "Additional water pump (operation mode electric) fits: VW TOUAREG 3.0D 11.04-05.10",
+      "customsCode": "84133080",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1260",
+          "primary": true,
+          "name": {
+            "en": "Water pump"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1351",
+          "primary": false,
+          "name": {
+            "en": "Auxiliary Water Pump (cooling water circuit)"
+          }
+        }
+      ]
+    }
+  ]
+}

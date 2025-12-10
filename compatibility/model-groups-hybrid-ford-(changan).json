@@ -1,0 +1,304 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.275Z",
+  "manufacturer": "FORD (CHANGAN)",
+  "countGroups": 13,
+  "groups": [
+    {
+      "manufacturerId": 3125,
+      "manufacturerName": "FORD (CHANGAN)",
+      "groupKey": "ECOSPORT",
+      "displayName": "ECOSPORT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11202,
+          "modelName": "ECOSPORT",
+          "modelYearFrom": "2013-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3125,
+      "manufacturerName": "FORD (CHANGAN)",
+      "groupKey": "EDGE",
+      "displayName": "EDGE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14161,
+          "modelName": "EDGE",
+          "modelYearFrom": "2015-04-01",
+          "modelYearTo": "2023-03-01"
+        },
+        {
+          "modelId": 41732,
+          "modelName": "EDGE PLUS",
+          "modelYearFrom": "2020-12-01",
+          "modelYearTo": "2023-03-01"
+        },
+        {
+          "modelId": 44265,
+          "modelName": "EDGE L",
+          "modelYearFrom": "2023-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3125,
+      "manufacturerName": "FORD (CHANGAN)",
+      "groupKey": "ESCAPE",
+      "displayName": "ESCAPE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40263,
+          "modelName": "ESCAPE",
+          "modelYearFrom": "2019-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3125,
+      "manufacturerName": "FORD (CHANGAN)",
+      "groupKey": "ESCORT",
+      "displayName": "ESCORT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13572,
+          "modelName": "ESCORT",
+          "modelYearFrom": "2014-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3125,
+      "manufacturerName": "FORD (CHANGAN)",
+      "groupKey": "EVOS",
+      "displayName": "EVOS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42555,
+          "modelName": "EVOS",
+          "modelYearFrom": "2021-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3125,
+      "manufacturerName": "FORD (CHANGAN)",
+      "groupKey": "EXPLORER",
+      "displayName": "EXPLORER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40915,
+          "modelName": "EXPLORER",
+          "modelYearFrom": "2020-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3125,
+      "manufacturerName": "FORD (CHANGAN)",
+      "groupKey": "FIESTA",
+      "displayName": "FIESTA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6481,
+          "modelName": "FIESTA A trois volumes (GAF)",
+          "modelYearFrom": "2003-03-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 8050,
+          "modelName": "FIESTA Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2009-02-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 8078,
+          "modelName": "FIESTA A trois volumes",
+          "modelYearFrom": "2009-02-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 38427,
+          "modelName": "FIESTA Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2013-01-01",
+          "modelYearTo": "2017-12-01"
+        },
+        {
+          "modelId": 39141,
+          "modelName": "FIESTA A trois volumes",
+          "modelYearFrom": "2013-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3125,
+      "manufacturerName": "FORD (CHANGAN)",
+      "groupKey": "FOCUS",
+      "displayName": "FOCUS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6482,
+          "modelName": "FOCUS Berline bicorps trois ou cinq portes (CD5)",
+          "modelYearFrom": "2005-09-01",
+          "modelYearTo": "2011-12-01"
+        },
+        {
+          "modelId": 6483,
+          "modelName": "FOCUS A trois volumes (CD4)",
+          "modelYearFrom": "2005-09-01",
+          "modelYearTo": "2011-12-01"
+        },
+        {
+          "modelId": 10828,
+          "modelName": "FOCUS Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2012-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10829,
+          "modelName": "FOCUS A trois volumes",
+          "modelYearFrom": "2012-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39121,
+          "modelName": "FOCUS A trois volumes",
+          "modelYearFrom": "2018-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39122,
+          "modelName": "FOCUS Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2018-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40640,
+          "modelName": "FOCUS Active",
+          "modelYearFrom": "2019-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41514,
+          "modelName": "FOCUS Shooting Brake",
+          "modelYearFrom": "2020-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3125,
+      "manufacturerName": "FORD (CHANGAN)",
+      "groupKey": "KUGA",
+      "displayName": "KUGA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11201,
+          "modelName": "KUGA",
+          "modelYearFrom": "2013-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3125,
+      "manufacturerName": "FORD (CHANGAN)",
+      "groupKey": "MONDEO",
+      "displayName": "MONDEO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6485,
+          "modelName": "MONDEO",
+          "modelYearFrom": "2003-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11783,
+          "modelName": "MONDEO",
+          "modelYearFrom": "2013-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13560,
+          "modelName": "MONDEO / ZHISHENG",
+          "modelYearFrom": "2011-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14259,
+          "modelName": "MONDEO / ZHISHENG",
+          "modelYearFrom": "2007-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42883,
+          "modelName": "MONDEO",
+          "modelYearFrom": "2022-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3125,
+      "manufacturerName": "FORD (CHANGAN)",
+      "groupKey": "MUSTANG",
+      "displayName": "MUSTANG",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41908,
+          "modelName": "MUSTANG MACH-E",
+          "modelYearFrom": "2021-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3125,
+      "manufacturerName": "FORD (CHANGAN)",
+      "groupKey": "S",
+      "displayName": "S",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6487,
+          "modelName": "S-MAX (BWS)",
+          "modelYearFrom": "2007-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3125,
+      "manufacturerName": "FORD (CHANGAN)",
+      "groupKey": "TAURUS",
+      "displayName": "TAURUS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14850,
+          "modelName": "TAURUS",
+          "modelYearFrom": "2015-11-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

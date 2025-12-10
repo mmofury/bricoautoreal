@@ -1,0 +1,98 @@
+{
+  "productName": "Suspension, boîte de vitesse manuelle",
+  "searchText": "Suspension, boîte de vitesse manuelle",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:22:58.001Z",
+  "productId": 249,
+  "arborescence": {
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Boîte de vitesses manuelle": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesses manuelle",
+          "level": 2,
+          "children": {
+            "Suspension, boîte de vitesse manuelle": {
+              "categoryId": 100239,
+              "categoryName": "Manual Transmission",
+              "level": 2,
+              "children": {
+                "Fixation": {
+                  "categoryId": null,
+                  "categoryName": "Fixation",
+                  "level": 4,
+                  "children": {
+                    "Suspension, boîte de vitesse manuelle": {
+                      "categoryId": 100772,
+                      "categoryName": "Transmission Mounting",
+                      "level": 3,
+                      "children": [],
+                      "productId": 249
+                    }
+                  }
+                }
+              },
+              "productId": 249
+            }
+          }
+        },
+        "Recherche d'un article par graphique": {
+          "categoryId": null,
+          "categoryName": "Recherche d'un article par graphique",
+          "level": 2,
+          "children": {
+            "Suspension, boîte de vitesse manuelle": {
+              "categoryId": 102773,
+              "categoryName": "Article Search via Graphic",
+              "level": 2,
+              "children": [],
+              "productId": 3873
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Boîte de vitesses [ID: 100238] (Niveau 1)\n    ├── Boîte de vitesses manuelle (Niveau 2)\n    │   └── Manual Transmission [ID: 100239] (Niveau 2) → ProductId: 249\n    │       └── Fixation (Niveau 4)\n    │           └── Transmission Mounting [ID: 100772] (Niveau 3) → ProductId: 249\n    └── Recherche d'un article par graphique (Niveau 2)\n        └── Article Search via Graphic [ID: 102773] (Niveau 2) → ProductId: 3873",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesses manuelle",
+        "Manual Transmission"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        100239
+      ],
+      "finalCategoryId": 100239,
+      "productId": 249
+    },
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Recherche d'un article par graphique",
+        "Article Search via Graphic"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        102773
+      ],
+      "finalCategoryId": 102773,
+      "productId": 3873
+    }
+  ],
+  "productIdsInArbo": [
+    249,
+    3873
+  ],
+  "matchedProductIds": [
+    249
+  ]
+}

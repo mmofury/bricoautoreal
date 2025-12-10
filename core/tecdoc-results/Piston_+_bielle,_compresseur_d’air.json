@@ -1,0 +1,54 @@
+{
+  "productName": "Piston + bielle, compresseur d’air",
+  "searchText": "Piston + bielle, compresseur d’air",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:21:21.418Z",
+  "productId": 60006,
+  "arborescence": {
+    "Suspension/Amortissement": {
+      "categoryId": 100011,
+      "categoryName": "Suspension/Amortissement",
+      "level": 1,
+      "children": {
+        "Suspension pneumatique": {
+          "categoryId": null,
+          "categoryName": "Suspension pneumatique",
+          "level": 2,
+          "children": {
+            "Piston + bielle, compresseur d’air": {
+              "categoryId": 101884,
+              "categoryName": "Air Suspension",
+              "level": 2,
+              "children": [],
+              "productId": 60006
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Suspension/Amortissement [ID: 100011] (Niveau 1)\n    └── Suspension pneumatique (Niveau 2)\n        └── Air Suspension [ID: 101884] (Niveau 2) → ProductId: 60006",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Suspension pneumatique",
+        "Air Suspension"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        101884
+      ],
+      "finalCategoryId": 101884,
+      "productId": 60006
+    }
+  ],
+  "productIdsInArbo": [
+    60006
+  ],
+  "matchedProductIds": [
+    60006
+  ]
+}

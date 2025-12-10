@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H15ZCE",
+      "index": "FE199509",
+      "tecDoc": "199509",
+      "tecDocProd": "101",
+      "articleNumber": "199509",
+      "brand": "FEBI",
+      "shortDescription": "Plug",
+      "description": "Harness wire with clamp connector (250mm, number of pins: 6)",
+      "customsCode": "85443000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_824",
+          "primary": true,
+          "name": {
+            "en": "Plug"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_4321",
+          "primary": false,
+          "name": {
+            "en": "Repair Kit, cable set"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_19546",
+          "primary": false,
+          "name": {
+            "en": "Wiring Harness Repair Kit"
+          }
+        }
+      ]
+    }
+  ]
+}

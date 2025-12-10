@@ -1,0 +1,72 @@
+{
+  "productName": "Jauge d¿épaisseur",
+  "searchText": "Jauge d¿épaisseur",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T20:48:26.918Z",
+  "productId": 5826,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Distribution moteur": {
+          "categoryId": null,
+          "categoryName": "Distribution moteur",
+          "level": 2,
+          "children": {
+            "Jauge d¿épaisseur": {
+              "categoryId": 100003,
+              "categoryName": "Engine Timing",
+              "level": 2,
+              "children": {
+                "Outils": {
+                  "categoryId": null,
+                  "categoryName": "Outils",
+                  "level": 4,
+                  "children": {
+                    "Jauge d¿épaisseur": {
+                      "categoryId": 706307,
+                      "categoryName": "Tools",
+                      "level": 3,
+                      "children": [],
+                      "productId": 9078
+                    }
+                  }
+                }
+              },
+              "productId": 9078
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Distribution moteur (Niveau 2)\n        └── Engine Timing [ID: 100003] (Niveau 2) → ProductId: 9078\n            └── Outils (Niveau 4)\n                └── Tools [ID: 706307] (Niveau 3) → ProductId: 9078",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Engine Timing"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100003
+      ],
+      "finalCategoryId": 100003,
+      "productId": 9078
+    }
+  ],
+  "productIdsInArbo": [
+    9078
+  ],
+  "closestProductIds": [
+    {
+      "productId": 9078,
+      "productName": "Jauge d¿épaisseur"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "productName": "Kit de joints, pompe à huile",
+  "searchText": "Kit de joints, pompe à huile",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:01:12.769Z",
+  "productId": 60649,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Joints": {
+          "categoryId": null,
+          "categoryName": "Joints",
+          "level": 2,
+          "children": {
+            "Kit de joints, pompe à huile": {
+              "categoryId": 100223,
+              "categoryName": "Gaskets",
+              "level": 2,
+              "children": {
+                "Joint de circuit d'huile": {
+                  "categoryId": null,
+                  "categoryName": "Joint de circuit d'huile",
+                  "level": 4,
+                  "children": {
+                    "Kit de joints, pompe à huile": {
+                      "categoryId": 100684,
+                      "categoryName": "Oil Circuit Seals",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60649
+                    }
+                  }
+                }
+              },
+              "productId": 60649
+            }
+          }
+        },
+        "Lubrification": {
+          "categoryId": null,
+          "categoryName": "Lubrification",
+          "level": 2,
+          "children": {
+            "Kit de joints, pompe à huile": {
+              "categoryId": 100245,
+              "categoryName": "Lubrication",
+              "level": 2,
+              "children": {
+                "Pompe à huile et pièces de montage": {
+                  "categoryId": null,
+                  "categoryName": "Pompe à huile et pièces de montage",
+                  "level": 4,
+                  "children": {
+                    "Kit de joints, pompe à huile": {
+                      "categoryId": 100476,
+                      "categoryName": "Oil Pump/Attachment Parts",
+                      "level": 3,
+                      "children": {
+                        "Joint": {
+                          "categoryId": null,
+                          "categoryName": "Joint",
+                          "level": 6,
+                          "children": {
+                            "Kit de joints, pompe à huile": {
+                              "categoryId": 100493,
+                              "categoryName": "Seal",
+                              "level": 4,
+                              "children": [],
+                              "productId": 60649
+                            }
+                          }
+                        }
+                      },
+                      "productId": 60649
+                    }
+                  }
+                }
+              },
+              "productId": 60649
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    ├── Joints (Niveau 2)\n    │   └── Gaskets [ID: 100223] (Niveau 2) → ProductId: 60649\n    │       └── Joint de circuit d'huile (Niveau 4)\n    │           └── Oil Circuit Seals [ID: 100684] (Niveau 3) → ProductId: 60649\n    └── Lubrification (Niveau 2)\n        └── Lubrication [ID: 100245] (Niveau 2) → ProductId: 60649\n            └── Pompe à huile et pièces de montage (Niveau 4)\n                └── Oil Pump/Attachment Parts [ID: 100476] (Niveau 3) → ProductId: 60649\n                    └── Joint (Niveau 6)\n                        └── Seal [ID: 100493] (Niveau 4) → ProductId: 60649",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Joints",
+        "Gaskets"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100223
+      ],
+      "finalCategoryId": 100223,
+      "productId": 60649
+    },
+    {
+      "path": [
+        "Moteur",
+        "Lubrification",
+        "Lubrication"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100245
+      ],
+      "finalCategoryId": 100245,
+      "productId": 60649
+    }
+  ],
+  "productIdsInArbo": [
+    60649
+  ],
+  "matchedProductIds": [
+    60649
+  ]
+}

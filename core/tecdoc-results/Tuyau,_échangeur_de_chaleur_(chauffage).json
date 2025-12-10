@@ -1,0 +1,54 @@
+{
+  "productName": "Tuyau, échangeur de chaleur (chauffage)",
+  "searchText": "Tuyau, échangeur de chaleur (chauffage)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:29:14.765Z",
+  "productId": 1779,
+  "arborescence": {
+    "Chauffage / Ventilation": {
+      "categoryId": 100241,
+      "categoryName": "Chauffage / Ventilation",
+      "level": 1,
+      "children": {
+        "Gaines/tuyaux": {
+          "categoryId": null,
+          "categoryName": "Gaines/tuyaux",
+          "level": 2,
+          "children": {
+            "Tuyau, échangeur de chaleur (chauffage)": {
+              "categoryId": 100777,
+              "categoryName": "Hoses/Pipes",
+              "level": 2,
+              "children": [],
+              "productId": 1779
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Chauffage / Ventilation [ID: 100241] (Niveau 1)\n    └── Gaines/tuyaux (Niveau 2)\n        └── Hoses/Pipes [ID: 100777] (Niveau 2) → ProductId: 1779",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Chauffage / Ventilation",
+        "Gaines/tuyaux",
+        "Hoses/Pipes"
+      ],
+      "categoryIds": [
+        100241,
+        null,
+        100777
+      ],
+      "finalCategoryId": 100777,
+      "productId": 1779
+    }
+  ],
+  "productIdsInArbo": [
+    1779
+  ],
+  "matchedProductIds": [
+    1779
+  ]
+}

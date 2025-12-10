@@ -1,0 +1,64 @@
+{
+  "productName": "Kit de réparation, vérin de levage (essieu relevable)",
+  "productId": 4031,
+  "searchText": "Kit de réparation, vérin de levage (essieu relevable)",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Suspension des roues": {
+          "categoryId": 200061,
+          "categoryName": "Suspension des roues",
+          "level": 1,
+          "children": {
+            "Essieu élévateur": {
+              "categoryId": null,
+              "categoryName": "Essieu élévateur",
+              "level": 2,
+              "children": {
+                "Kit de réparation, vérin de levage (essieu relevable)": {
+                  "categoryId": 202888,
+                  "categoryName": "Lift Axle",
+                  "level": 2,
+                  "children": {
+                    "Verin de levage": {
+                      "categoryId": null,
+                      "categoryName": "Verin de levage",
+                      "level": 4,
+                      "children": {
+                        "Kit de réparation, vérin de levage (essieu relevable)": {
+                          "categoryId": 202890,
+                          "categoryName": "Tilt Cylinder",
+                          "level": 3,
+                          "children": [],
+                          "productId": 4031
+                        }
+                      }
+                    }
+                  },
+                  "productId": 4031
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Suspension des roues [ID: 200061] (Niveau 1)\n    └── Essieu élévateur (Niveau 2)\n        └── Lift Axle [ID: 202888] (Niveau 2) → ProductId: 4031\n            └── Verin de levage (Niveau 4)\n                └── Tilt Cylinder [ID: 202890] (Niveau 3) → ProductId: 4031",
+      "productIdsInArbo": [
+        4031
+      ],
+      "matchedProductIds": [
+        4031
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:47:09.193Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

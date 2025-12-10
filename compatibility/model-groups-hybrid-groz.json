@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.302Z",
+  "manufacturer": "GROZ",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 4640,
+      "manufacturerName": "GROZ",
+      "groupKey": "FOX",
+      "displayName": "FOX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37496,
+          "modelName": "FOX",
+          "modelYearFrom": "2008-01-01",
+          "modelYearTo": "2011-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4640,
+      "manufacturerName": "GROZ",
+      "groupKey": "ROCKY",
+      "displayName": "ROCKY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37497,
+          "modelName": "ROCKY",
+          "modelYearFrom": "2008-01-01",
+          "modelYearTo": "2010-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4640,
+      "manufacturerName": "GROZ",
+      "groupKey": "TARGET",
+      "displayName": "TARGET",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37495,
+          "modelName": "TARGET",
+          "modelYearFrom": "2008-01-01",
+          "modelYearTo": "2012-11-01"
+        }
+      ]
+    }
+  ]
+}

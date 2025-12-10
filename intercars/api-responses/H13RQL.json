@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H13RQL",
+      "index": "HAZ 9590-10",
+      "tecDoc": "9590-10",
+      "tecDocProd": "4808",
+      "articleNumber": "9590-10",
+      "brand": "HAZET",
+      "shortDescription": "Hot Air Blower",
+      "description": "Singeing machine, power supply: Battery-powered",
+      "eans": [
+        "4000896265299"
+      ],
+      "packageWeight": "0,960",
+      "packageWidth": "17,000",
+      "packageDepth": "22,500",
+      "packageHeight": "9,000",
+      "customsCode": "85152900",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_5555",
+          "primary": true,
+          "name": {
+            "en": "Hot Air Blower"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3415",
+          "primary": false,
+          "name": {
+            "en": "Hot Air Dryer"
+          }
+        }
+      ]
+    }
+  ]
+}

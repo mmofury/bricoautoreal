@@ -1,0 +1,103 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.222Z",
+  "manufacturer": "CNJ",
+  "countGroups": 4,
+  "groups": [
+    {
+      "manufacturerId": 5338,
+      "manufacturerName": "CNJ",
+      "groupKey": "RUIBAO",
+      "displayName": "RUIBAO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39637,
+          "modelName": "RUIBAO Camion plate-forme/Châssis",
+          "modelYearFrom": "2010-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43713,
+          "modelName": "RUIBAO Véhicule municipal",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44166,
+          "modelName": "RUIBAO Camion plate-forme/Châssis",
+          "modelYearFrom": "2022-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5338,
+      "manufacturerName": "CNJ",
+      "groupKey": "RUIDI",
+      "displayName": "RUIDI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43717,
+          "modelName": "RUIDI Camion plate-forme/Châssis",
+          "modelYearFrom": "2017-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44168,
+          "modelName": "RUIDI Camion plate-forme/Châssis",
+          "modelYearFrom": "2020-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5338,
+      "manufacturerName": "CNJ",
+      "groupKey": "RUISHUAI",
+      "displayName": "RUISHUAI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43722,
+          "modelName": "RUISHUAI C SERIES Camion plate-forme/Châssis",
+          "modelYearFrom": "2019-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43724,
+          "modelName": "RUISHUAI F SERIES Camion plate-forme/Châssis",
+          "modelYearFrom": "2019-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5338,
+      "manufacturerName": "CNJ",
+      "groupKey": "RUIYI",
+      "displayName": "RUIYI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39638,
+          "modelName": "RUIYI C SERIES Camion plate-forme/Châssis",
+          "modelYearFrom": "2012-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42002,
+          "modelName": "RUIYI F SERIES Camion plate-forme/Châssis",
+          "modelYearFrom": "2017-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43726,
+          "modelName": "RUIYI C SERIES Véhicule municipal",
+          "modelYearFrom": "2018-09-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Entretoise, joint-soufflet-direction",
+  "searchText": "Entretoise, joint-soufflet-direction",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:37:08.338Z",
+  "productId": 4258,
+  "arborescence": {
+    "Direction": {
+      "categoryId": 100012,
+      "categoryName": "Direction",
+      "level": 1,
+      "children": {
+        "Soufflet / joint": {
+          "categoryId": null,
+          "categoryName": "Soufflet / joint",
+          "level": 2,
+          "children": {
+            "Entretoise, joint-soufflet-direction": {
+              "categoryId": 100201,
+              "categoryName": "Bellow/Seal",
+              "level": 2,
+              "children": [],
+              "productId": 4258
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Direction [ID: 100012] (Niveau 1)\n    └── Soufflet / joint (Niveau 2)\n        └── Bellow/Seal [ID: 100201] (Niveau 2) → ProductId: 4258",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Direction",
+        "Soufflet / joint",
+        "Bellow/Seal"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        100201
+      ],
+      "finalCategoryId": 100201,
+      "productId": 4258
+    }
+  ],
+  "productIdsInArbo": [
+    4258
+  ],
+  "matchedProductIds": [
+    4258
+  ]
+}

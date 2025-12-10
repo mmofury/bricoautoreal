@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G0ONIA",
+      "index": "1.10857",
+      "tecDoc": "1.10857",
+      "tecDocProd": "355",
+      "articleNumber": "1.10857",
+      "brand": "DT SPARE PARTS",
+      "shortDescription": "Shaft, centrifugal cleaner",
+      "description": "Oil filter housing fits: SCANIA 4, G I, P I, R I, R II, S, T DC09.108-DT12.17 05.95-",
+      "eans": [
+        "4057795412712"
+      ],
+      "packageWeight": "0,480",
+      "packageWidth": "14,000",
+      "packageDepth": "18,000",
+      "packageHeight": "12,000",
+      "customsCode": "84219990",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_2139",
+          "primary": false,
+          "name": {
+            "en": "Rotor, oil pump"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_4326",
+          "primary": true,
+          "name": {
+            "en": "Shaft, centrifugal cleaner"
+          }
+        }
+      ]
+    }
+  ]
+}

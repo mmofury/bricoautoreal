@@ -1,0 +1,121 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.488Z",
+  "manufacturer": "SKYWELL (KAIWO)",
+  "countGroups": 6,
+  "groups": [
+    {
+      "manufacturerId": 5259,
+      "manufacturerName": "SKYWELL (KAIWO)",
+      "groupKey": "D07",
+      "displayName": "D07",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44087,
+          "modelName": "D07 Fourgon",
+          "modelYearFrom": "2017-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44088,
+          "modelName": "D07 Autobus/Autocar",
+          "modelYearFrom": "2018-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5259,
+      "manufacturerName": "SKYWELL (KAIWO)",
+      "groupKey": "D07L",
+      "displayName": "D07L",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43549,
+          "modelName": "D07L",
+          "modelYearFrom": "2022-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5259,
+      "manufacturerName": "SKYWELL (KAIWO)",
+      "groupKey": "D10",
+      "displayName": "D10",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43550,
+          "modelName": "D10 Autobus/Autocar",
+          "modelYearFrom": "2022-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43551,
+          "modelName": "D10 Fourgon",
+          "modelYearFrom": "2020-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5259,
+      "manufacturerName": "SKYWELL (KAIWO)",
+      "groupKey": "D11",
+      "displayName": "D11",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43552,
+          "modelName": "D11 Autobus/Autocar",
+          "modelYearFrom": "2014-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43553,
+          "modelName": "D11 Fourgon",
+          "modelYearFrom": "2014-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5259,
+      "manufacturerName": "SKYWELL (KAIWO)",
+      "groupKey": "EC11",
+      "displayName": "EC11",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45001,
+          "modelName": "EC11 Fourgon",
+          "modelYearFrom": "2023-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45002,
+          "modelName": "EC11 Autobus/Autocar",
+          "modelYearFrom": "2023-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5259,
+      "manufacturerName": "SKYWELL (KAIWO)",
+      "groupKey": "K10",
+      "displayName": "K10",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44204,
+          "modelName": "K10",
+          "modelYearFrom": "2023-04-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

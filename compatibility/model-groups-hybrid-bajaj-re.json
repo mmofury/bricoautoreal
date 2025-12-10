@@ -1,0 +1,115 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.181Z",
+  "manufacturer": "BAJAJ RE",
+  "countGroups": 6,
+  "groups": [
+    {
+      "manufacturerId": 5747,
+      "manufacturerName": "BAJAJ RE",
+      "groupKey": "COMPACT",
+      "displayName": "COMPACT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40879,
+          "modelName": "COMPACT Threewheeler Convertible",
+          "modelYearFrom": "2013-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5747,
+      "manufacturerName": "BAJAJ RE",
+      "groupKey": "FE",
+      "displayName": "FE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40880,
+          "modelName": "FE DELIVERY VAN Threewheeler Van",
+          "modelYearFrom": "2000-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40881,
+          "modelName": "FE PICKUP VAN Threewheeler Platform/Chassis",
+          "modelYearFrom": "2000-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5747,
+      "manufacturerName": "BAJAJ RE",
+      "groupKey": "GC",
+      "displayName": "GC",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40882,
+          "modelName": "GC Threewheeler Platform/Chassis",
+          "modelYearFrom": "2010-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5747,
+      "manufacturerName": "BAJAJ RE",
+      "groupKey": "MAXIMA",
+      "displayName": "MAXIMA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40883,
+          "modelName": "MAXIMA Threewheeler Convertible",
+          "modelYearFrom": "2014-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40884,
+          "modelName": "MAXIMA Threewheeler Platform/Chassis",
+          "modelYearFrom": "2018-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5747,
+      "manufacturerName": "BAJAJ RE",
+      "groupKey": "OPTIMA",
+      "displayName": "OPTIMA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40885,
+          "modelName": "OPTIMA Threewheeler Convertible",
+          "modelYearFrom": "2014-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5747,
+      "manufacturerName": "BAJAJ RE",
+      "groupKey": "RE",
+      "displayName": "RE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40886,
+          "modelName": "RE Threewheeler Convertible",
+          "modelYearFrom": "1998-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40887,
+          "modelName": "RE Threewheeler Platform/Chassis",
+          "modelYearFrom": "2010-01-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

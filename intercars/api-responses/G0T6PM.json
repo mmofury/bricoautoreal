@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G0T6PM",
+      "index": "03.9302-1503.3",
+      "tecDoc": "03.9302-1503.3",
+      "tecDocProd": "3",
+      "articleNumber": "03.9302-1503.3",
+      "brand": "ATE",
+      "shortDescription": "Devices for working fluids and fuels",
+      "description": "Electric socket ATE",
+      "eans": [
+        "4006633459013"
+      ],
+      "packageWeight": "0,013",
+      "packageWidth": "5,200",
+      "packageDepth": "5,200",
+      "packageHeight": "5,200",
+      "customsCode": "84139100",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_9145",
+          "primary": false,
+          "name": {
+            "en": "Non-Heat. Appliance Socket, fill/bleeding unit (brake hydr.)"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91773",
+          "primary": true,
+          "name": {
+            "en": "Devices for working fluids and fuels"
+          }
+        }
+      ]
+    }
+  ]
+}

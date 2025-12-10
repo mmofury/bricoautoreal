@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "400165",
+      "index": "HP103 542",
+      "tecDoc": "103 542",
+      "tecDocProd": "301",
+      "articleNumber": "103 542",
+      "brand": "HANS PRIES",
+      "shortDescription": "Door lock",
+      "description": "front/rear",
+      "eans": [
+        "8370840000501"
+      ],
+      "packageWeight": "0,040",
+      "packageWidth": "3,000",
+      "packageDepth": "4,000",
+      "packageHeight": "3,000",
+      "customsCode": "83016000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1361",
+          "primary": true,
+          "name": {
+            "en": "Door lock"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_60088",
+          "primary": false,
+          "name": {
+            "en": "Locking Pin, door lock"
+          }
+        }
+      ]
+    }
+  ]
+}

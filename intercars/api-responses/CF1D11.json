@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "CF1D11",
+      "index": "VKN 401",
+      "tecDoc": "VKN 401",
+      "tecDocProd": "50",
+      "articleNumber": "VKN 401",
+      "brand": "SKF",
+      "shortDescription": "Axle joints service",
+      "description": "Set of tools",
+      "eans": [
+        "7316575562502"
+      ],
+      "packageWeight": "0,320",
+      "packageWidth": "12,000",
+      "packageDepth": "19,000",
+      "packageHeight": "4,100",
+      "customsCode": "82032000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3075",
+          "primary": false,
+          "name": {
+            "en": "Mounting Tool, bellow"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91786",
+          "primary": true,
+          "name": {
+            "en": "Axle joints service"
+          }
+        }
+      ]
+    }
+  ]
+}

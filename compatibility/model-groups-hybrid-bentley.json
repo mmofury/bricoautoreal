@@ -1,0 +1,277 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.186Z",
+  "manufacturer": "BENTLEY",
+  "countGroups": 12,
+  "groups": [
+    {
+      "manufacturerId": 815,
+      "manufacturerName": "BENTLEY",
+      "groupKey": "ARNAGE",
+      "displayName": "ARNAGE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4460,
+          "modelName": "ARNAGE (RBS_)",
+          "modelYearFrom": "1998-03-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 7391,
+          "modelName": "ARNAGE Coupé",
+          "modelYearFrom": "2005-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 815,
+      "manufacturerName": "BENTLEY",
+      "groupKey": "AZURE",
+      "displayName": "AZURE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4929,
+          "modelName": "AZURE",
+          "modelYearFrom": "1995-09-01",
+          "modelYearTo": "2006-06-01"
+        },
+        {
+          "modelId": 5583,
+          "modelName": "AZURE II (RBS_)",
+          "modelYearFrom": "2006-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 815,
+      "manufacturerName": "BENTLEY",
+      "groupKey": "BENTAYGA",
+      "displayName": "BENTAYGA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14812,
+          "modelName": "BENTAYGA (4V1)",
+          "modelYearFrom": "2015-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 815,
+      "manufacturerName": "BENTLEY",
+      "groupKey": "BROOKLANDS",
+      "displayName": "BROOKLANDS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5910,
+          "modelName": "BROOKLANDS",
+          "modelYearFrom": "1992-07-01",
+          "modelYearTo": "1997-09-01"
+        },
+        {
+          "modelId": 8963,
+          "modelName": "BROOKLANDS Coupé (RBS_)",
+          "modelYearFrom": "2008-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 815,
+      "manufacturerName": "BENTLEY",
+      "groupKey": "CONTINENTAL",
+      "displayName": "CONTINENTAL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4930,
+          "modelName": "CONTINENTAL",
+          "modelYearFrom": "1991-10-01",
+          "modelYearTo": "2002-12-01"
+        },
+        {
+          "modelId": 5093,
+          "modelName": "CONTINENTAL Coupé (3W_, 393)",
+          "modelYearFrom": "2003-06-01",
+          "modelYearTo": "2018-07-01"
+        },
+        {
+          "modelId": 5416,
+          "modelName": "CONTINENTAL FLYING SPUR (3W_)",
+          "modelYearFrom": "2005-03-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 5963,
+          "modelName": "CONTINENTAL Décapotable",
+          "modelYearFrom": "1984-07-01",
+          "modelYearTo": "1990-12-01"
+        },
+        {
+          "modelId": 5964,
+          "modelName": "CONTINENTAL Décapotable",
+          "modelYearFrom": "1989-10-01",
+          "modelYearTo": "1995-12-01"
+        },
+        {
+          "modelId": 6415,
+          "modelName": "CONTINENTAL Décapotable (3W_, 394)",
+          "modelYearFrom": "2006-06-01",
+          "modelYearTo": "2018-11-01"
+        },
+        {
+          "modelId": 38200,
+          "modelName": "CONTINENTAL Coupé (3S3)",
+          "modelYearFrom": "2017-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39437,
+          "modelName": "CONTINENTAL Décapotable (3S_)",
+          "modelYearFrom": "2018-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 46110,
+          "modelName": "CONTINENTAL",
+          "modelYearFrom": "2024-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 90106,
+          "modelName": "CONTINENTAL Targa",
+          "modelYearFrom": "1998-12-01",
+          "modelYearTo": "2000-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 815,
+      "manufacturerName": "BENTLEY",
+      "groupKey": "CORNICHE",
+      "displayName": "CORNICHE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30279,
+          "modelName": "CORNICHE Décapotable",
+          "modelYearFrom": "1971-03-01",
+          "modelYearTo": "1984-12-01"
+        },
+        {
+          "modelId": 30280,
+          "modelName": "CORNICHE Coupé",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1984-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 815,
+      "manufacturerName": "BENTLEY",
+      "groupKey": "EIGHT",
+      "displayName": "EIGHT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5990,
+          "modelName": "EIGHT",
+          "modelYearFrom": "1984-07-01",
+          "modelYearTo": "1992-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 815,
+      "manufacturerName": "BENTLEY",
+      "groupKey": "FLYING",
+      "displayName": "FLYING",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11490,
+          "modelName": "FLYING SPUR (4W_)",
+          "modelYearFrom": "2013-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40211,
+          "modelName": "FLYING SPUR (ZG2_)",
+          "modelYearFrom": "2019-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 815,
+      "manufacturerName": "BENTLEY",
+      "groupKey": "MULSANNE",
+      "displayName": "MULSANNE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6098,
+          "modelName": "MULSANNE",
+          "modelYearFrom": "1980-10-01",
+          "modelYearTo": "1992-09-01"
+        },
+        {
+          "modelId": 8950,
+          "modelName": "MULSANNE (3Y_)",
+          "modelYearFrom": "2009-09-01",
+          "modelYearTo": "2020-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 815,
+      "manufacturerName": "BENTLEY",
+      "groupKey": "T1",
+      "displayName": "T1",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30285,
+          "modelName": "T1 SERIES A trois volumes",
+          "modelYearFrom": "1965-09-01",
+          "modelYearTo": "1976-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 815,
+      "manufacturerName": "BENTLEY",
+      "groupKey": "T2",
+      "displayName": "T2",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 30287,
+          "modelName": "T2 SERIES A trois volumes",
+          "modelYearFrom": "1976-09-01",
+          "modelYearTo": "1981-02-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 815,
+      "manufacturerName": "BENTLEY",
+      "groupKey": "TURBO",
+      "displayName": "TURBO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6191,
+          "modelName": "TURBO R",
+          "modelYearFrom": "1985-03-01",
+          "modelYearTo": "1998-02-01"
+        }
+      ]
+    }
+  ]
+}

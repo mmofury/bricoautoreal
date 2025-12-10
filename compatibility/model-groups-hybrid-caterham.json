@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.204Z",
+  "manufacturer": "CATERHAM",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 1490,
+      "manufacturerName": "CATERHAM",
+      "groupKey": "21",
+      "displayName": "21",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4249,
+          "modelName": "21 (C2)",
+          "modelYearFrom": "1994-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1490,
+      "manufacturerName": "CATERHAM",
+      "groupKey": "AEROSEVEN",
+      "displayName": "AEROSEVEN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38750,
+          "modelName": "AEROSEVEN (AE)",
+          "modelYearFrom": "2015-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1490,
+      "manufacturerName": "CATERHAM",
+      "groupKey": "SEVEN",
+      "displayName": "SEVEN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4250,
+          "modelName": "SEVEN (CF, CS)",
+          "modelYearFrom": "1980-01-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

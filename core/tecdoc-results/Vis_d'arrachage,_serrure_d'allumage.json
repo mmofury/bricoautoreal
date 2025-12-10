@@ -1,0 +1,110 @@
+{
+  "productName": "Vis d'arrachage, serrure d'allumage",
+  "searchText": "Vis d'arrachage, serrure d'allumage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:33:24.160Z",
+  "productId": 60986,
+  "arborescence": {
+    "Verrouillage": {
+      "categoryId": 100685,
+      "categoryName": "Verrouillage",
+      "level": 1,
+      "children": {
+        "Composants": {
+          "categoryId": null,
+          "categoryName": "Composants",
+          "level": 2,
+          "children": {
+            "Vis d'arrachage, serrure d'allumage": {
+              "categoryId": 100766,
+              "categoryName": "Parts",
+              "level": 2,
+              "children": [],
+              "productId": 60986
+            }
+          }
+        },
+        "Cylindre de serrure / jeu": {
+          "categoryId": null,
+          "categoryName": "Cylindre de serrure / jeu",
+          "level": 2,
+          "children": {
+            "Vis d'arrachage, serrure d'allumage": {
+              "categoryId": 100690,
+              "categoryName": "Lock Barrel/Set",
+              "level": 2,
+              "children": [],
+              "productId": 60986
+            }
+          }
+        },
+        "Kit de verrous": {
+          "categoryId": null,
+          "categoryName": "Kit de verrous",
+          "level": 2,
+          "children": {
+            "Vis d'arrachage, serrure d'allumage": {
+              "categoryId": 100689,
+              "categoryName": "Lock Set",
+              "level": 2,
+              "children": [],
+              "productId": 60986
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Verrouillage [ID: 100685] (Niveau 1)\n    ├── Composants (Niveau 2)\n    │   └── Parts [ID: 100766] (Niveau 2) → ProductId: 60986\n    ├── Cylindre de serrure / jeu (Niveau 2)\n    │   └── Lock Barrel/Set [ID: 100690] (Niveau 2) → ProductId: 60986\n    └── Kit de verrous (Niveau 2)\n        └── Lock Set [ID: 100689] (Niveau 2) → ProductId: 60986",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Verrouillage",
+        "Composants",
+        "Parts"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100766
+      ],
+      "finalCategoryId": 100766,
+      "productId": 60986
+    },
+    {
+      "path": [
+        "Verrouillage",
+        "Cylindre de serrure / jeu",
+        "Lock Barrel/Set"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100690
+      ],
+      "finalCategoryId": 100690,
+      "productId": 60986
+    },
+    {
+      "path": [
+        "Verrouillage",
+        "Kit de verrous",
+        "Lock Set"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100689
+      ],
+      "finalCategoryId": 100689,
+      "productId": 60986
+    }
+  ],
+  "productIdsInArbo": [
+    60986
+  ],
+  "matchedProductIds": [
+    60986
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Satellite, différentiel",
+  "searchText": "Satellite, différentiel",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:15:09.243Z",
+  "productId": 4079,
+  "arborescence": {
+    "Entraînement des essieux": {
+      "categoryId": 100400,
+      "categoryName": "Entraînement des essieux",
+      "level": 1,
+      "children": {
+        "Différentiel": {
+          "categoryId": null,
+          "categoryName": "Différentiel",
+          "level": 2,
+          "children": {
+            "Satellite, différentiel": {
+              "categoryId": 100415,
+              "categoryName": "Differential",
+              "level": 2,
+              "children": [],
+              "productId": 4079
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement des essieux [ID: 100400] (Niveau 1)\n    └── Différentiel (Niveau 2)\n        └── Differential [ID: 100415] (Niveau 2) → ProductId: 4079",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des essieux",
+        "Différentiel",
+        "Differential"
+      ],
+      "categoryIds": [
+        100400,
+        null,
+        100415
+      ],
+      "finalCategoryId": 100415,
+      "productId": 4079
+    }
+  ],
+  "productIdsInArbo": [
+    4079
+  ],
+  "matchedProductIds": [
+    4079
+  ]
+}

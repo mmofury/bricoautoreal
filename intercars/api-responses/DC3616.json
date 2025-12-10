@@ -1,0 +1,43 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "DC3616",
+      "index": "VAL845062",
+      "tecDoc": "845062",
+      "tecDocProd": "21",
+      "articleNumber": "845062",
+      "brand": "VALEO",
+      "shortDescription": "Clutch Kit",
+      "description": "Clutch kit with rigid flywheel and pneumatic bearing fits: FORD MONDEO III 2.0D 10.00-03.07",
+      "gtuCode": "GTU_07",
+      "eans": [
+        "3276428450629"
+      ],
+      "packageWeight": "19,400",
+      "packageWidth": "39,000",
+      "packageDepth": "56,000",
+      "packageHeight": "16,000",
+      "customsCode": "87089390",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_5030",
+          "primary": false,
+          "name": {
+            "en": "Conversion Set, clutch"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_479",
+          "primary": true,
+          "name": {
+            "en": "Clutch Kit"
+          }
+        }
+      ]
+    }
+  ]
+}

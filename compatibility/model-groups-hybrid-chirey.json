@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.216Z",
+  "manufacturer": "CHIREY",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 8231,
+      "manufacturerName": "CHIREY",
+      "groupKey": "ARRIZO",
+      "displayName": "ARRIZO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 90110,
+          "modelName": "ARRIZO",
+          "modelYearFrom": "2022-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 8231,
+      "manufacturerName": "CHIREY",
+      "groupKey": "TIGGO",
+      "displayName": "TIGGO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 90109,
+          "modelName": "TIGGO",
+          "modelYearFrom": "2022-06-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

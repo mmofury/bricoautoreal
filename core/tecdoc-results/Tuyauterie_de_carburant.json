@@ -1,0 +1,105 @@
+{
+  "productName": "Tuyauterie de carburant",
+  "searchText": "Tuyauterie de carburant",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:29:19.290Z",
+  "productId": 610,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Kit d'outil de déverrouillage, Tuyauterie de carburant": {
+              "categoryId": 103148,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4505
+            }
+          }
+        },
+        "Tuyauterie": {
+          "categoryId": null,
+          "categoryName": "Tuyauterie",
+          "level": 2,
+          "children": {
+            "Joint d'étanchéité, tuyauterie de carburant": {
+              "categoryId": 100258,
+              "categoryName": "Fuel Lines",
+              "level": 2,
+              "children": [],
+              "productId": 611
+            },
+            "Tuyauterie de carburant": {
+              "categoryId": 100258,
+              "categoryName": "Fuel Lines",
+              "level": 2,
+              "children": [],
+              "productId": 610
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Alimentation carburant [ID: 100214] (Niveau 1)\n    ├── Outils (Niveau 2)\n    │   └── Tools [ID: 103148] (Niveau 2) → ProductId: 4505\n    └── Tuyauterie (Niveau 2)\n        ├── Fuel Lines [ID: 100258] (Niveau 2) → ProductId: 611\n        └── Fuel Lines [ID: 100258] (Niveau 2) → ProductId: 610",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        103148
+      ],
+      "finalCategoryId": 103148,
+      "productId": 4505
+    },
+    {
+      "path": [
+        "Alimentation carburant",
+        "Tuyauterie",
+        "Fuel Lines"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100258
+      ],
+      "finalCategoryId": 100258,
+      "productId": 611
+    },
+    {
+      "path": [
+        "Alimentation carburant",
+        "Tuyauterie",
+        "Fuel Lines"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100258
+      ],
+      "finalCategoryId": 100258,
+      "productId": 610
+    }
+  ],
+  "productIdsInArbo": [
+    610,
+    611,
+    4505
+  ],
+  "matchedProductIds": [
+    610
+  ]
+}

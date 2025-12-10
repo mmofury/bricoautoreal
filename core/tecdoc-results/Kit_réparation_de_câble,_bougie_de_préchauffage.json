@@ -1,0 +1,54 @@
+{
+  "productName": "Kit réparation de câble, bougie de préchauffage",
+  "searchText": "Kit réparation de câble, bougie de préchauffage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:09:03.136Z",
+  "productId": 7292,
+  "arborescence": {
+    "Allumage / préchauffage": {
+      "categoryId": 100008,
+      "categoryName": "Allumage / préchauffage",
+      "level": 1,
+      "children": {
+        "Bougie de préchauffage": {
+          "categoryId": null,
+          "categoryName": "Bougie de préchauffage",
+          "level": 2,
+          "children": {
+            "Kit réparation de câble, bougie de préchauffage": {
+              "categoryId": 100152,
+              "categoryName": "Glow Plug",
+              "level": 2,
+              "children": [],
+              "productId": 7292
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Allumage / préchauffage [ID: 100008] (Niveau 1)\n    └── Bougie de préchauffage (Niveau 2)\n        └── Glow Plug [ID: 100152] (Niveau 2) → ProductId: 7292",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Bougie de préchauffage",
+        "Glow Plug"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        100152
+      ],
+      "finalCategoryId": 100152,
+      "productId": 7292
+    }
+  ],
+  "productIdsInArbo": [
+    7292
+  ],
+  "matchedProductIds": [
+    7292
+  ]
+}

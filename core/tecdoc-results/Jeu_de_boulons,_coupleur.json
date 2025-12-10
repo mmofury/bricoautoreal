@@ -1,0 +1,54 @@
+{
+  "productName": "Jeu de boulons, coupleur",
+  "searchText": "Jeu de boulons, coupleur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:48:47.664Z",
+  "productId": 890,
+  "arborescence": {
+    "Embrayage / composants": {
+      "categoryId": 100050,
+      "categoryName": "Embrayage / composants",
+      "level": 1,
+      "children": {
+        "Kit d'embrayage": {
+          "categoryId": null,
+          "categoryName": "Kit d'embrayage",
+          "level": 2,
+          "children": {
+            "Jeu de boulons, coupleur": {
+              "categoryId": 100051,
+              "categoryName": "Clutch Kit",
+              "level": 2,
+              "children": [],
+              "productId": 890
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Embrayage / composants [ID: 100050] (Niveau 1)\n    └── Kit d'embrayage (Niveau 2)\n        └── Clutch Kit [ID: 100051] (Niveau 2) → ProductId: 890",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Embrayage / composants",
+        "Kit d'embrayage",
+        "Clutch Kit"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100051
+      ],
+      "finalCategoryId": 100051,
+      "productId": 890
+    }
+  ],
+  "productIdsInArbo": [
+    890
+  ],
+  "matchedProductIds": [
+    890
+  ]
+}

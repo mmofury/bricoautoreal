@@ -1,0 +1,195 @@
+{
+  "productName": "Suspension du stabilisateur",
+  "searchText": "Suspension du stabilisateur",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-03T07:22:30.843Z",
+  "productId": 3538,
+  "arborescence": {
+    "Suspension d'essieu/Guidage des roues/Roues": {
+      "categoryId": 100013,
+      "categoryName": "Suspension d'essieu/Guidage des roues/Roues",
+      "level": 1,
+      "children": {
+        "Pièce de stabilisateur / pièces de fixation": {
+          "categoryId": null,
+          "categoryName": "Pièce de stabilisateur / pièces de fixation",
+          "level": 2,
+          "children": {
+            "Coussinet de palier, stabilisateur": {
+              "categoryId": 100210,
+              "categoryName": "Stabiliser Bar/Fastening Parts",
+              "level": 2,
+              "children": {
+                "Pièces de fixation": {
+                  "categoryId": null,
+                  "categoryName": "Pièces de fixation",
+                  "level": 4,
+                  "children": {
+                    "Coussinet de palier, stabilisateur": {
+                      "categoryId": 100596,
+                      "categoryName": "Fasteners",
+                      "level": 3,
+                      "children": [],
+                      "productId": 331
+                    }
+                  }
+                }
+              },
+              "productId": 331
+            },
+            "Kit de réparation, suspension du stabilisateur": {
+              "categoryId": 100210,
+              "categoryName": "Stabiliser Bar/Fastening Parts",
+              "level": 2,
+              "children": {
+                "Pièces de fixation": {
+                  "categoryId": null,
+                  "categoryName": "Pièces de fixation",
+                  "level": 4,
+                  "children": {
+                    "Kit de réparation, suspension du stabilisateur": {
+                      "categoryId": 100596,
+                      "categoryName": "Fasteners",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1097
+                    }
+                  }
+                }
+              },
+              "productId": 1097
+            },
+            "Manchon, suspension du stabilisateur": {
+              "categoryId": 100210,
+              "categoryName": "Stabiliser Bar/Fastening Parts",
+              "level": 2,
+              "children": {
+                "Pièces de fixation": {
+                  "categoryId": null,
+                  "categoryName": "Pièces de fixation",
+                  "level": 4,
+                  "children": {
+                    "Manchon, suspension du stabilisateur": {
+                      "categoryId": 100596,
+                      "categoryName": "Fasteners",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1663
+                    }
+                  }
+                }
+              },
+              "productId": 1663
+            },
+            "Support, suspension du stabilisateur": {
+              "categoryId": 100210,
+              "categoryName": "Stabiliser Bar/Fastening Parts",
+              "level": 2,
+              "children": {
+                "Pièces de fixation": {
+                  "categoryId": null,
+                  "categoryName": "Pièces de fixation",
+                  "level": 4,
+                  "children": {
+                    "Support, suspension du stabilisateur": {
+                      "categoryId": 100596,
+                      "categoryName": "Fasteners",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2069
+                    }
+                  }
+                }
+              },
+              "productId": 2069
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Suspension d'essieu/Guidage des roues/Roues [ID: 100013] (Niveau 1)\n    └── Pièce de stabilisateur / pièces de fixation (Niveau 2)\n        ├── Stabiliser Bar/Fastening Parts [ID: 100210] (Niveau 2) → ProductId: 331\n        │   └── Pièces de fixation (Niveau 4)\n        │       └── Fasteners [ID: 100596] (Niveau 3) → ProductId: 331\n        ├── Stabiliser Bar/Fastening Parts [ID: 100210] (Niveau 2) → ProductId: 1097\n        │   └── Pièces de fixation (Niveau 4)\n        │       └── Fasteners [ID: 100596] (Niveau 3) → ProductId: 1097\n        ├── Stabiliser Bar/Fastening Parts [ID: 100210] (Niveau 2) → ProductId: 1663\n        │   └── Pièces de fixation (Niveau 4)\n        │       └── Fasteners [ID: 100596] (Niveau 3) → ProductId: 1663\n        └── Stabiliser Bar/Fastening Parts [ID: 100210] (Niveau 2) → ProductId: 2069\n            └── Pièces de fixation (Niveau 4)\n                └── Fasteners [ID: 100596] (Niveau 3) → ProductId: 2069",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Pièce de stabilisateur / pièces de fixation",
+        "Stabiliser Bar/Fastening Parts"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        100210
+      ],
+      "finalCategoryId": 100210,
+      "productId": 331
+    },
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Pièce de stabilisateur / pièces de fixation",
+        "Stabiliser Bar/Fastening Parts"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        100210
+      ],
+      "finalCategoryId": 100210,
+      "productId": 1097
+    },
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Pièce de stabilisateur / pièces de fixation",
+        "Stabiliser Bar/Fastening Parts"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        100210
+      ],
+      "finalCategoryId": 100210,
+      "productId": 1663
+    },
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Pièce de stabilisateur / pièces de fixation",
+        "Stabiliser Bar/Fastening Parts"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        100210
+      ],
+      "finalCategoryId": 100210,
+      "productId": 2069
+    }
+  ],
+  "productIdsInArbo": [
+    331,
+    1097,
+    1663,
+    2069
+  ],
+  "closestProductIds": [
+    {
+      "productId": 331,
+      "productName": "Coussinet de palier, stabilisateur"
+    },
+    {
+      "productId": 1097,
+      "productName": "Kit de réparation, suspension du stabilisateur"
+    },
+    {
+      "productId": 1663,
+      "productName": "Manchon, suspension du stabilisateur"
+    },
+    {
+      "productId": 2069,
+      "productName": "Support, suspension du stabilisateur"
+    }
+  ]
+}

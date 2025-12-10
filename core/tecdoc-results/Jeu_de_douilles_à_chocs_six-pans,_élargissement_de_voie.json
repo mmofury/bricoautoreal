@@ -1,0 +1,132 @@
+{
+  "productName": "Jeu de douilles à chocs six-pans, élargissement de voie",
+  "searchText": "Jeu de douilles à chocs six-pans, élargissement de voie",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:49:30.573Z",
+  "productId": 8453,
+  "arborescence": {
+    "Outils spéciaux": {
+      "categoryId": 706365,
+      "categoryName": "Outils spéciaux",
+      "level": 1,
+      "children": {
+        "Outils spéciaux suspension d’essieu/guidage des roues/roues": {
+          "categoryId": null,
+          "categoryName": "Outils spéciaux suspension d’essieu/guidage des roues/roues",
+          "level": 2,
+          "children": {
+            "Jeu de douilles à chocs six-pans, élargissement de voie": {
+              "categoryId": 706380,
+              "categoryName": "Special Tools, axle mounting/steering/wheels",
+              "level": 2,
+              "children": {
+                "Alignement et carrossage des roues": {
+                  "categoryId": null,
+                  "categoryName": "Alignement et carrossage des roues",
+                  "level": 4,
+                  "children": {
+                    "Jeu de douilles à chocs six-pans, élargissement de voie": {
+                      "categoryId": 706388,
+                      "categoryName": "Caster/Camber Adjustment",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8453
+                    }
+                  }
+                }
+              },
+              "productId": 8453
+            }
+          }
+        }
+      }
+    },
+    "Suspension d'essieu/Guidage des roues/Roues": {
+      "categoryId": 100013,
+      "categoryName": "Suspension d'essieu/Guidage des roues/Roues",
+      "level": 1,
+      "children": {
+        "Écartement des roues élargi": {
+          "categoryId": null,
+          "categoryName": "Écartement des roues élargi",
+          "level": 2,
+          "children": {
+            "Jeu de douilles à chocs six-pans, élargissement de voie": {
+              "categoryId": 102733,
+              "categoryName": "Track Widening",
+              "level": 2,
+              "children": [],
+              "productId": 8453
+            }
+          }
+        },
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Jeu de douilles à chocs six-pans, élargissement de voie": {
+              "categoryId": 103159,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 8453
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Outils spéciaux [ID: 706365] (Niveau 1)\n│   └── Outils spéciaux suspension d’essieu/guidage des roues/roues (Niveau 2)\n│       └── Special Tools, axle mounting/steering/wheels [ID: 706380] (Niveau 2) → ProductId: 8453\n│           └── Alignement et carrossage des roues (Niveau 4)\n│               └── Caster/Camber Adjustment [ID: 706388] (Niveau 3) → ProductId: 8453\n\n└── Suspension d'essieu/Guidage des roues/Roues [ID: 100013] (Niveau 1)\n    ├── Écartement des roues élargi (Niveau 2)\n    │   └── Track Widening [ID: 102733] (Niveau 2) → ProductId: 8453\n    └── Outils (Niveau 2)\n        └── Tools [ID: 103159] (Niveau 2) → ProductId: 8453",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Outils spéciaux",
+        "Outils spéciaux suspension d’essieu/guidage des roues/roues",
+        "Special Tools, axle mounting/steering/wheels"
+      ],
+      "categoryIds": [
+        706365,
+        null,
+        706380
+      ],
+      "finalCategoryId": 706380,
+      "productId": 8453
+    },
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Écartement des roues élargi",
+        "Track Widening"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        102733
+      ],
+      "finalCategoryId": 102733,
+      "productId": 8453
+    },
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        103159
+      ],
+      "finalCategoryId": 103159,
+      "productId": 8453
+    }
+  ],
+  "productIdsInArbo": [
+    8453
+  ],
+  "matchedProductIds": [
+    8453
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "productName": "Amortisseur, support moteur",
+  "searchText": "Amortisseur, support moteur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T18:50:06.312Z",
+  "productId": 271,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Support du moteur": {
+          "categoryId": null,
+          "categoryName": "Support du moteur",
+          "level": 2,
+          "children": {
+            "Amortisseur, support moteur": {
+              "categoryId": 100535,
+              "categoryName": "Engine Mounting System",
+              "level": 2,
+              "children": {
+                "Amortisseurs de support moteur": {
+                  "categoryId": null,
+                  "categoryName": "Amortisseurs de support moteur",
+                  "level": 4,
+                  "children": {
+                    "Amortisseur, support moteur": {
+                      "categoryId": 100539,
+                      "categoryName": "Engine Mounting Rubber Buffer",
+                      "level": 3,
+                      "children": [],
+                      "productId": 271
+                    }
+                  }
+                }
+              },
+              "productId": 271
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Support du moteur (Niveau 2)\n        └── Engine Mounting System [ID: 100535] (Niveau 2) → ProductId: 271\n            └── Amortisseurs de support moteur (Niveau 4)\n                └── Engine Mounting Rubber Buffer [ID: 100539] (Niveau 3) → ProductId: 271",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Support du moteur",
+        "Engine Mounting System"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100535
+      ],
+      "finalCategoryId": 100535,
+      "productId": 271
+    }
+  ],
+  "productIdsInArbo": [
+    271
+  ],
+  "matchedProductIds": [
+    271
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.194Z",
+  "manufacturer": "BRABUS",
+  "countGroups": 5,
+  "groups": [
+    {
+      "manufacturerId": 4161,
+      "manufacturerName": "BRABUS",
+      "groupKey": "35MR",
+      "displayName": "35MR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13091,
+          "modelName": "35MR (W166)",
+          "modelYearFrom": "2011-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4161,
+      "manufacturerName": "BRABUS",
+      "groupKey": "38S",
+      "displayName": "38S",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13086,
+          "modelName": "38S (W221)",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4161,
+      "manufacturerName": "BRABUS",
+      "groupKey": "40S",
+      "displayName": "40S",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13085,
+          "modelName": "40S (W221)",
+          "modelYearFrom": "2011-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4161,
+      "manufacturerName": "BRABUS",
+      "groupKey": "50S",
+      "displayName": "50S",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13088,
+          "modelName": "50S (W221)",
+          "modelYearFrom": "2012-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4161,
+      "manufacturerName": "BRABUS",
+      "groupKey": "60S",
+      "displayName": "60S",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13087,
+          "modelName": "60S (W221)",
+          "modelYearFrom": "2011-04-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

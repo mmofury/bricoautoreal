@@ -1,0 +1,269 @@
+{
+  "productName": "Soupape d'admission",
+  "searchText": "Soupape d'admission",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:17:01.326Z",
+  "productId": 1269,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Distribution moteur": {
+          "categoryId": null,
+          "categoryName": "Distribution moteur",
+          "level": 2,
+          "children": {
+            "Couvercle de culasse": {
+              "categoryId": 100003,
+              "categoryName": "Engine Timing",
+              "level": 2,
+              "children": {
+                "Soupape / réglage de soupape": {
+                  "categoryId": null,
+                  "categoryName": "Soupape / réglage de soupape",
+                  "level": 4,
+                  "children": {
+                    "Couvercle de culasse": {
+                      "categoryId": 100422,
+                      "categoryName": "Valve Train",
+                      "level": 3,
+                      "children": {
+                        "Soupapes / accessoires": {
+                          "categoryId": null,
+                          "categoryName": "Soupapes / accessoires",
+                          "level": 6,
+                          "children": {
+                            "Couvercle de culasse": {
+                              "categoryId": 100423,
+                              "categoryName": "Valves/Parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 3976
+                            }
+                          }
+                        }
+                      },
+                      "productId": 3976
+                    }
+                  }
+                }
+              },
+              "productId": 3976
+            },
+            "Kit de soupapes, soupapes d’admission/d’échappement": {
+              "categoryId": 100003,
+              "categoryName": "Engine Timing",
+              "level": 2,
+              "children": {
+                "Soupape / réglage de soupape": {
+                  "categoryId": null,
+                  "categoryName": "Soupape / réglage de soupape",
+                  "level": 4,
+                  "children": {
+                    "Kit de soupapes, soupapes d’admission/d’échappement": {
+                      "categoryId": 100422,
+                      "categoryName": "Valve Train",
+                      "level": 3,
+                      "children": {
+                        "Soupapes / accessoires": {
+                          "categoryId": null,
+                          "categoryName": "Soupapes / accessoires",
+                          "level": 6,
+                          "children": {
+                            "Kit de soupapes, soupapes d’admission/d’échappement": {
+                              "categoryId": 100423,
+                              "categoryName": "Valves/Parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 60426
+                            }
+                          }
+                        }
+                      },
+                      "productId": 60426
+                    }
+                  }
+                }
+              },
+              "productId": 60426
+            },
+            "Patin de butée, soupapes d'admission/d'émission": {
+              "categoryId": 100003,
+              "categoryName": "Engine Timing",
+              "level": 2,
+              "children": {
+                "Soupape / réglage de soupape": {
+                  "categoryId": null,
+                  "categoryName": "Soupape / réglage de soupape",
+                  "level": 4,
+                  "children": {
+                    "Patin de butée, soupapes d'admission/d'émission": {
+                      "categoryId": 100422,
+                      "categoryName": "Valve Train",
+                      "level": 3,
+                      "children": {
+                        "Réglage de soupape": {
+                          "categoryId": null,
+                          "categoryName": "Réglage de soupape",
+                          "level": 6,
+                          "children": {
+                            "Patin de butée, soupapes d'admission/d'émission": {
+                              "categoryId": 100424,
+                              "categoryName": "Valve Actuation",
+                              "level": 4,
+                              "children": [],
+                              "productId": 2945
+                            }
+                          }
+                        }
+                      },
+                      "productId": 2945
+                    }
+                  }
+                }
+              },
+              "productId": 2945
+            },
+            "Soupape d'admission": {
+              "categoryId": 100003,
+              "categoryName": "Engine Timing",
+              "level": 2,
+              "children": {
+                "Soupape / réglage de soupape": {
+                  "categoryId": null,
+                  "categoryName": "Soupape / réglage de soupape",
+                  "level": 4,
+                  "children": {
+                    "Soupape d'admission": {
+                      "categoryId": 100422,
+                      "categoryName": "Valve Train",
+                      "level": 3,
+                      "children": {
+                        "Soupapes / accessoires": {
+                          "categoryId": null,
+                          "categoryName": "Soupapes / accessoires",
+                          "level": 6,
+                          "children": {
+                            "Soupape d'admission": {
+                              "categoryId": 100423,
+                              "categoryName": "Valves/Parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 1269
+                            }
+                          }
+                        }
+                      },
+                      "productId": 1269
+                    }
+                  }
+                }
+              },
+              "productId": 1269
+            }
+          }
+        },
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Kit d'outil de montage, soupape d'admission/de sortie": {
+              "categoryId": 103129,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4483
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    ├── Distribution moteur (Niveau 2)\n    │   ├── Engine Timing [ID: 100003] (Niveau 2) → ProductId: 3976\n    │   │   └── Soupape / réglage de soupape (Niveau 4)\n    │   │       └── Valve Train [ID: 100422] (Niveau 3) → ProductId: 3976\n    │   │           └── Soupapes / accessoires (Niveau 6)\n    │   │               └── Valves/Parts [ID: 100423] (Niveau 4) → ProductId: 3976\n    │   ├── Engine Timing [ID: 100003] (Niveau 2) → ProductId: 60426\n    │   │   └── Soupape / réglage de soupape (Niveau 4)\n    │   │       └── Valve Train [ID: 100422] (Niveau 3) → ProductId: 60426\n    │   │           └── Soupapes / accessoires (Niveau 6)\n    │   │               └── Valves/Parts [ID: 100423] (Niveau 4) → ProductId: 60426\n    │   ├── Engine Timing [ID: 100003] (Niveau 2) → ProductId: 2945\n    │   │   └── Soupape / réglage de soupape (Niveau 4)\n    │   │       └── Valve Train [ID: 100422] (Niveau 3) → ProductId: 2945\n    │   │           └── Réglage de soupape (Niveau 6)\n    │   │               └── Valve Actuation [ID: 100424] (Niveau 4) → ProductId: 2945\n    │   └── Engine Timing [ID: 100003] (Niveau 2) → ProductId: 1269\n    │       └── Soupape / réglage de soupape (Niveau 4)\n    │           └── Valve Train [ID: 100422] (Niveau 3) → ProductId: 1269\n    │               └── Soupapes / accessoires (Niveau 6)\n    │                   └── Valves/Parts [ID: 100423] (Niveau 4) → ProductId: 1269\n    └── Outils (Niveau 2)\n        └── Tools [ID: 103129] (Niveau 2) → ProductId: 4483",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Engine Timing"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100003
+      ],
+      "finalCategoryId": 100003,
+      "productId": 3976
+    },
+    {
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Engine Timing"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100003
+      ],
+      "finalCategoryId": 100003,
+      "productId": 60426
+    },
+    {
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Engine Timing"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100003
+      ],
+      "finalCategoryId": 100003,
+      "productId": 2945
+    },
+    {
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Engine Timing"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100003
+      ],
+      "finalCategoryId": 100003,
+      "productId": 1269
+    },
+    {
+      "path": [
+        "Moteur",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        103129
+      ],
+      "finalCategoryId": 103129,
+      "productId": 4483
+    }
+  ],
+  "productIdsInArbo": [
+    1269,
+    2945,
+    3976,
+    4483,
+    60426
+  ],
+  "matchedProductIds": [
+    1269
+  ]
+}

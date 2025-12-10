@@ -1,0 +1,82 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.394Z",
+  "manufacturer": "LOVSON",
+  "countGroups": 5,
+  "groups": [
+    {
+      "manufacturerId": 5422,
+      "manufacturerName": "LOVSON",
+      "groupKey": "AUTORICKSHAW",
+      "displayName": "AUTORICKSHAW",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40663,
+          "modelName": "AUTORICKSHAW Threewheeler Convertible",
+          "modelYearFrom": "2002-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5422,
+      "manufacturerName": "LOVSON",
+      "groupKey": "CL",
+      "displayName": "CL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40664,
+          "modelName": "CL Threewheeler Convertible",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5422,
+      "manufacturerName": "LOVSON",
+      "groupKey": "DELIVERY",
+      "displayName": "DELIVERY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40451,
+          "modelName": "DELIVERY VAN Threewheeler Van",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5422,
+      "manufacturerName": "LOVSON",
+      "groupKey": "PICK",
+      "displayName": "PICK",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40450,
+          "modelName": "PICK UP Threewheeler Platform/Chassis",
+          "modelYearFrom": "2002-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5422,
+      "manufacturerName": "LOVSON",
+      "groupKey": "TIPPER",
+      "displayName": "TIPPER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40449,
+          "modelName": "TIPPER Threewheeler Dump Truck",
+          "modelYearFrom": "2011-04-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

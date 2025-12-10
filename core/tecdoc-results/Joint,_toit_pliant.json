@@ -1,0 +1,112 @@
+{
+  "productName": "Joint, toit pliant",
+  "searchText": "Joint, toit pliant",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:56:46.872Z",
+  "productId": 3844,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Habitacle": {
+          "categoryId": null,
+          "categoryName": "Habitacle",
+          "level": 2,
+          "children": {
+            "Joint, toit pliant": {
+              "categoryId": 101690,
+              "categoryName": "Passenger Cabin",
+              "level": 2,
+              "children": {
+                "Toit pliant": {
+                  "categoryId": null,
+                  "categoryName": "Toit pliant",
+                  "level": 4,
+                  "children": {
+                    "Joint, toit pliant": {
+                      "categoryId": 102758,
+                      "categoryName": "Folding Roof",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3844
+                    }
+                  }
+                }
+              },
+              "productId": 3844
+            }
+          }
+        },
+        "Trappes/capots/portes/toit coul./toit panoram./toit pliant": {
+          "categoryId": null,
+          "categoryName": "Trappes/capots/portes/toit coul./toit panoram./toit pliant",
+          "level": 2,
+          "children": {
+            "Joint, toit pliant": {
+              "categoryId": 100746,
+              "categoryName": "Hatches/Bonnets/Doors/Sunroof/Panoramic Roof",
+              "level": 2,
+              "children": {
+                "Toit pliant": {
+                  "categoryId": null,
+                  "categoryName": "Toit pliant",
+                  "level": 4,
+                  "children": {
+                    "Joint, toit pliant": {
+                      "categoryId": 102760,
+                      "categoryName": "Folding Roof",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3844
+                    }
+                  }
+                }
+              },
+              "productId": 3844
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    ├── Habitacle (Niveau 2)\n    │   └── Passenger Cabin [ID: 101690] (Niveau 2) → ProductId: 3844\n    │       └── Toit pliant (Niveau 4)\n    │           └── Folding Roof [ID: 102758] (Niveau 3) → ProductId: 3844\n    └── Trappes/capots/portes/toit coul./toit panoram./toit pliant (Niveau 2)\n        └── Hatches/Bonnets/Doors/Sunroof/Panoramic Roof [ID: 100746] (Niveau 2) → ProductId: 3844\n            └── Toit pliant (Niveau 4)\n                └── Folding Roof [ID: 102760] (Niveau 3) → ProductId: 3844",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Habitacle",
+        "Passenger Cabin"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101690
+      ],
+      "finalCategoryId": 101690,
+      "productId": 3844
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Trappes/capots/portes/toit coul./toit panoram./toit pliant",
+        "Hatches/Bonnets/Doors/Sunroof/Panoramic Roof"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100746
+      ],
+      "finalCategoryId": 100746,
+      "productId": 3844
+    }
+  ],
+  "productIdsInArbo": [
+    3844
+  ],
+  "matchedProductIds": [
+    3844
+  ]
+}

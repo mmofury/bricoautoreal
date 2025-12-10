@@ -1,0 +1,36 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G0KFWR",
+      "index": "HEPAP8279",
+      "tecDoc": "AP8279",
+      "tecDocProd": "178",
+      "articleNumber": "AP8279",
+      "brand": "HEPU",
+      "shortDescription": "Water Recirculation Pump, parking heater",
+      "description": "Additional water pump (operation mode electric) fits: NISSAN PATHFINDER III 4.0 09.05-",
+      "packageWeight": "0,630",
+      "customsCode": "84133080",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_999",
+          "primary": true,
+          "name": {
+            "en": "Water Recirculation Pump, parking heater"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1351",
+          "primary": false,
+          "name": {
+            "en": "Auxiliary Water Pump (cooling water circuit)"
+          }
+        }
+      ]
+    }
+  ]
+}

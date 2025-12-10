@@ -1,0 +1,185 @@
+{
+  "productName": "Support de plaque d'immatriculation",
+  "searchText": "Support de plaque d'immatriculation",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:20:04.323Z",
+  "productId": 746,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Arrière de la voiture": {
+          "categoryId": null,
+          "categoryName": "Arrière de la voiture",
+          "level": 2,
+          "children": {
+            "Support de plaque d'immatriculation": {
+              "categoryId": 101705,
+              "categoryName": "Vehicle Rear",
+              "level": 2,
+              "children": {
+                "Composants/suppléments": {
+                  "categoryId": null,
+                  "categoryName": "Composants/suppléments",
+                  "level": 4,
+                  "children": {
+                    "Support de plaque d'immatriculation": {
+                      "categoryId": 101745,
+                      "categoryName": "Parts",
+                      "level": 3,
+                      "children": {
+                        "Support et plaque d'immatriculation": {
+                          "categoryId": null,
+                          "categoryName": "Support et plaque d'immatriculation",
+                          "level": 6,
+                          "children": {
+                            "Support de plaque d'immatriculation": {
+                              "categoryId": 101749,
+                              "categoryName": "Licence Plate Holder/Bracket",
+                              "level": 4,
+                              "children": [],
+                              "productId": 746
+                            }
+                          }
+                        }
+                      },
+                      "productId": 746
+                    }
+                  }
+                }
+              },
+              "productId": 746
+            }
+          }
+        },
+        "Avant du véhicule": {
+          "categoryId": null,
+          "categoryName": "Avant du véhicule",
+          "level": 2,
+          "children": {
+            "Support de plaque d'immatriculation": {
+              "categoryId": 101648,
+              "categoryName": "Vehicle Front",
+              "level": 2,
+              "children": {
+                "Composants/suppléments": {
+                  "categoryId": null,
+                  "categoryName": "Composants/suppléments",
+                  "level": 4,
+                  "children": {
+                    "Support de plaque d'immatriculation": {
+                      "categoryId": 101673,
+                      "categoryName": "Parts",
+                      "level": 3,
+                      "children": {
+                        "Support et plaque d'immatriculation": {
+                          "categoryId": null,
+                          "categoryName": "Support et plaque d'immatriculation",
+                          "level": 6,
+                          "children": {
+                            "Support de plaque d'immatriculation": {
+                              "categoryId": 101776,
+                              "categoryName": "Licence Plate Holder/Bracket",
+                              "level": 4,
+                              "children": [],
+                              "productId": 746
+                            }
+                          }
+                        }
+                      },
+                      "productId": 746
+                    }
+                  }
+                }
+              },
+              "productId": 746
+            }
+          }
+        },
+        "Pièces de carrosserie/ailes/pares-chocs": {
+          "categoryId": null,
+          "categoryName": "Pièces de carrosserie/ailes/pares-chocs",
+          "level": 2,
+          "children": {
+            "Support de plaque d'immatriculation": {
+              "categoryId": 100743,
+              "categoryName": "Body Parts/Wing/Bumper",
+              "level": 2,
+              "children": {
+                "Support et plaque d'immatriculation": {
+                  "categoryId": null,
+                  "categoryName": "Support et plaque d'immatriculation",
+                  "level": 4,
+                  "children": {
+                    "Support de plaque d'immatriculation": {
+                      "categoryId": 100606,
+                      "categoryName": "Licence Plate Holder/Bracket",
+                      "level": 3,
+                      "children": [],
+                      "productId": 746
+                    }
+                  }
+                }
+              },
+              "productId": 746
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    ├── Arrière de la voiture (Niveau 2)\n    │   └── Vehicle Rear [ID: 101705] (Niveau 2) → ProductId: 746\n    │       └── Composants/suppléments (Niveau 4)\n    │           └── Parts [ID: 101745] (Niveau 3) → ProductId: 746\n    │               └── Support et plaque d'immatriculation (Niveau 6)\n    │                   └── Licence Plate Holder/Bracket [ID: 101749] (Niveau 4) → ProductId: 746\n    ├── Avant du véhicule (Niveau 2)\n    │   └── Vehicle Front [ID: 101648] (Niveau 2) → ProductId: 746\n    │       └── Composants/suppléments (Niveau 4)\n    │           └── Parts [ID: 101673] (Niveau 3) → ProductId: 746\n    │               └── Support et plaque d'immatriculation (Niveau 6)\n    │                   └── Licence Plate Holder/Bracket [ID: 101776] (Niveau 4) → ProductId: 746\n    └── Pièces de carrosserie/ailes/pares-chocs (Niveau 2)\n        └── Body Parts/Wing/Bumper [ID: 100743] (Niveau 2) → ProductId: 746\n            └── Support et plaque d'immatriculation (Niveau 4)\n                └── Licence Plate Holder/Bracket [ID: 100606] (Niveau 3) → ProductId: 746",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Vehicle Rear"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101705
+      ],
+      "finalCategoryId": 101705,
+      "productId": 746
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Avant du véhicule",
+        "Vehicle Front"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101648
+      ],
+      "finalCategoryId": 101648,
+      "productId": 746
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Pièces de carrosserie/ailes/pares-chocs",
+        "Body Parts/Wing/Bumper"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100743
+      ],
+      "finalCategoryId": 100743,
+      "productId": 746
+    }
+  ],
+  "productIdsInArbo": [
+    746
+  ],
+  "matchedProductIds": [
+    746
+  ]
+}

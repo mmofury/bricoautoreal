@@ -1,0 +1,40 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G130P1",
+      "index": "VAL9730015",
+      "tecDoc": "9730015",
+      "tecDocProd": "54",
+      "articleNumber": "9730015",
+      "brand": "FTE",
+      "shortDescription": "Brake Booster",
+      "description": "Clutch master cylinder",
+      "gtuCode": "GTU_07",
+      "eans": [
+        "3276429272244"
+      ],
+      "packageWeight": "3,696",
+      "customsCode": "87089390",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_74",
+          "primary": true,
+          "name": {
+            "en": "Brake Booster"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_415",
+          "primary": false,
+          "name": {
+            "en": "Hydraulic Unit, braking system"
+          }
+        }
+      ]
+    }
+  ]
+}

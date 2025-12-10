@@ -1,0 +1,155 @@
+{
+  "productName": "Enjoliveur, pare-chocs",
+  "searchText": "Enjoliveur, pare-chocs",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:36:29.100Z",
+  "productId": 20,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Arrière de la voiture": {
+          "categoryId": null,
+          "categoryName": "Arrière de la voiture",
+          "level": 2,
+          "children": {
+            "Enjoliveur, pare-chocs": {
+              "categoryId": 101705,
+              "categoryName": "Vehicle Rear",
+              "level": 2,
+              "children": {
+                "Pare-chocs/composants": {
+                  "categoryId": null,
+                  "categoryName": "Pare-chocs/composants",
+                  "level": 4,
+                  "children": {
+                    "Enjoliveur, pare-chocs": {
+                      "categoryId": 101706,
+                      "categoryName": "Bumper/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 20
+                    }
+                  }
+                }
+              },
+              "productId": 20
+            }
+          }
+        },
+        "Avant du véhicule": {
+          "categoryId": null,
+          "categoryName": "Avant du véhicule",
+          "level": 2,
+          "children": {
+            "Enjoliveur, pare-chocs": {
+              "categoryId": 101648,
+              "categoryName": "Vehicle Front",
+              "level": 2,
+              "children": {
+                "Pare-chocs/composants": {
+                  "categoryId": null,
+                  "categoryName": "Pare-chocs/composants",
+                  "level": 4,
+                  "children": {
+                    "Enjoliveur, pare-chocs": {
+                      "categoryId": 101649,
+                      "categoryName": "Bumper/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 20
+                    }
+                  }
+                }
+              },
+              "productId": 20
+            }
+          }
+        },
+        "Pièces de carrosserie/ailes/pares-chocs": {
+          "categoryId": null,
+          "categoryName": "Pièces de carrosserie/ailes/pares-chocs",
+          "level": 2,
+          "children": {
+            "Enjoliveur, pare-chocs": {
+              "categoryId": 100743,
+              "categoryName": "Body Parts/Wing/Bumper",
+              "level": 2,
+              "children": {
+                "Pare-chocs/composants": {
+                  "categoryId": null,
+                  "categoryName": "Pare-chocs/composants",
+                  "level": 4,
+                  "children": {
+                    "Enjoliveur, pare-chocs": {
+                      "categoryId": 100187,
+                      "categoryName": "Bumper/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 20
+                    }
+                  }
+                }
+              },
+              "productId": 20
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    ├── Arrière de la voiture (Niveau 2)\n    │   └── Vehicle Rear [ID: 101705] (Niveau 2) → ProductId: 20\n    │       └── Pare-chocs/composants (Niveau 4)\n    │           └── Bumper/Parts [ID: 101706] (Niveau 3) → ProductId: 20\n    ├── Avant du véhicule (Niveau 2)\n    │   └── Vehicle Front [ID: 101648] (Niveau 2) → ProductId: 20\n    │       └── Pare-chocs/composants (Niveau 4)\n    │           └── Bumper/Parts [ID: 101649] (Niveau 3) → ProductId: 20\n    └── Pièces de carrosserie/ailes/pares-chocs (Niveau 2)\n        └── Body Parts/Wing/Bumper [ID: 100743] (Niveau 2) → ProductId: 20\n            └── Pare-chocs/composants (Niveau 4)\n                └── Bumper/Parts [ID: 100187] (Niveau 3) → ProductId: 20",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Vehicle Rear"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101705
+      ],
+      "finalCategoryId": 101705,
+      "productId": 20
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Avant du véhicule",
+        "Vehicle Front"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101648
+      ],
+      "finalCategoryId": 101648,
+      "productId": 20
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Pièces de carrosserie/ailes/pares-chocs",
+        "Body Parts/Wing/Bumper"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100743
+      ],
+      "finalCategoryId": 100743,
+      "productId": 20
+    }
+  ],
+  "productIdsInArbo": [
+    20
+  ],
+  "matchedProductIds": [
+    20
+  ]
+}

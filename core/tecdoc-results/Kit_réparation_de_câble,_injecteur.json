@@ -1,0 +1,106 @@
+{
+  "productName": "Kit réparation de câble, injecteur",
+  "searchText": "Kit réparation de câble, injecteur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:10:11.376Z",
+  "productId": 6350,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Kit réparation de câble, injecteur": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Injecteur/porte-injecteur/UPI": {
+                  "categoryId": null,
+                  "categoryName": "Injecteur/porte-injecteur/UPI",
+                  "level": 4,
+                  "children": {
+                    "Kit réparation de câble, injecteur": {
+                      "categoryId": 102799,
+                      "categoryName": "Injector/Nozzle/Nozzle and Holder Assembly/UI",
+                      "level": 3,
+                      "children": [],
+                      "productId": 6350
+                    }
+                  }
+                }
+              },
+              "productId": 6350
+            },
+            "Kit réparation de câble, injecteur auxiliaire de démarrage": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Réglage du ralenti/réglage de mise en température": {
+                  "categoryId": null,
+                  "categoryName": "Réglage du ralenti/réglage de mise en température",
+                  "level": 4,
+                  "children": {
+                    "Kit réparation de câble, injecteur auxiliaire de démarrage": {
+                      "categoryId": 102805,
+                      "categoryName": "Idle Control",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60026
+                    }
+                  }
+                }
+              },
+              "productId": 60026
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carburation [ID: 100254] (Niveau 1)\n    └── Mélange air-carburant (Niveau 2)\n        ├── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 6350\n        │   └── Injecteur/porte-injecteur/UPI (Niveau 4)\n        │       └── Injector/Nozzle/Nozzle and Holder Assembly/UI [ID: 102799] (Niveau 3) → ProductId: 6350\n        └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 60026\n            └── Réglage du ralenti/réglage de mise en température (Niveau 4)\n                └── Idle Control [ID: 102805] (Niveau 3) → ProductId: 60026",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 6350
+    },
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 60026
+    }
+  ],
+  "productIdsInArbo": [
+    6350,
+    60026
+  ],
+  "matchedProductIds": [
+    6350
+  ]
+}

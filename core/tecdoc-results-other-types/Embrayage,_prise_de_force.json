@@ -1,0 +1,49 @@
+{
+  "productName": "Embrayage, prise de force",
+  "productId": 60375,
+  "searchText": "Embrayage, prise de force",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Prise de force": {
+          "categoryId": 200057,
+          "categoryName": "Prise de force",
+          "level": 1,
+          "children": {
+            "Prise de force": {
+              "categoryId": null,
+              "categoryName": "Prise de force",
+              "level": 2,
+              "children": {
+                "Embrayage, prise de force": {
+                  "categoryId": 706163,
+                  "categoryName": "Power Take-off",
+                  "level": 2,
+                  "children": [],
+                  "productId": 60375
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Prise de force [ID: 200057] (Niveau 1)\n    └── Prise de force (Niveau 2)\n        └── Power Take-off [ID: 706163] (Niveau 2) → ProductId: 60375",
+      "productIdsInArbo": [
+        60375
+      ],
+      "matchedProductIds": [
+        60375
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:24:51.770Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "productName": "Diaphragme, soufflet à air",
+  "productId": 4070,
+  "searchText": "Diaphragme, soufflet à air",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Suspension/Amortissement": {
+          "categoryId": 200060,
+          "categoryName": "Suspension/Amortissement",
+          "level": 1,
+          "children": {
+            "Suspension pneumatique": {
+              "categoryId": null,
+              "categoryName": "Suspension pneumatique",
+              "level": 2,
+              "children": {
+                "Diaphragme, soufflet à air": {
+                  "categoryId": 200883,
+                  "categoryName": "Air Suspension",
+                  "level": 2,
+                  "children": {
+                    "Suspension pneumatique, pièces de montage": {
+                      "categoryId": null,
+                      "categoryName": "Suspension pneumatique, pièces de montage",
+                      "level": 4,
+                      "children": {
+                        "Diaphragme, soufflet à air": {
+                          "categoryId": 200933,
+                          "categoryName": "Air Suspension, parts",
+                          "level": 3,
+                          "children": [],
+                          "productId": 4070
+                        }
+                      }
+                    }
+                  },
+                  "productId": 4070
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Suspension/Amortissement [ID: 200060] (Niveau 1)\n    └── Suspension pneumatique (Niveau 2)\n        └── Air Suspension [ID: 200883] (Niveau 2) → ProductId: 4070\n            └── Suspension pneumatique, pièces de montage (Niveau 4)\n                └── Air Suspension, parts [ID: 200933] (Niveau 3) → ProductId: 4070",
+      "productIdsInArbo": [
+        4070
+      ],
+      "matchedProductIds": [
+        4070
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:19:53.506Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

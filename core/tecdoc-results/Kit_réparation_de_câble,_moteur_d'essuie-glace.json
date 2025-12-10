@@ -1,0 +1,54 @@
+{
+  "productName": "Kit réparation de câble, moteur d'essuie-glace",
+  "searchText": "Kit réparation de câble, moteur d'essuie-glace",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:10:18.109Z",
+  "productId": 6340,
+  "arborescence": {
+    "Nettoyage des vitres": {
+      "categoryId": 100018,
+      "categoryName": "Nettoyage des vitres",
+      "level": 1,
+      "children": {
+        "Moteur d'essuie-glace": {
+          "categoryId": null,
+          "categoryName": "Moteur d'essuie-glace",
+          "level": 2,
+          "children": {
+            "Kit réparation de câble, moteur d'essuie-glace": {
+              "categoryId": 100134,
+              "categoryName": "Wiper Motor",
+              "level": 2,
+              "children": [],
+              "productId": 6340
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Nettoyage des vitres [ID: 100018] (Niveau 1)\n    └── Moteur d'essuie-glace (Niveau 2)\n        └── Wiper Motor [ID: 100134] (Niveau 2) → ProductId: 6340",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Nettoyage des vitres",
+        "Moteur d'essuie-glace",
+        "Wiper Motor"
+      ],
+      "categoryIds": [
+        100018,
+        null,
+        100134
+      ],
+      "finalCategoryId": 100134,
+      "productId": 6340
+    }
+  ],
+  "productIdsInArbo": [
+    6340
+  ],
+  "matchedProductIds": [
+    6340
+  ]
+}

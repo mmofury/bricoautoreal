@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.189Z",
+  "manufacturer": "BIZZARRINI",
+  "countGroups": 1,
+  "groups": [
+    {
+      "manufacturerId": 5738,
+      "manufacturerName": "BIZZARRINI",
+      "groupKey": "GT",
+      "displayName": "GT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40820,
+          "modelName": "GT STRADA",
+          "modelYearFrom": "1964-01-01",
+          "modelYearTo": "1968-12-01"
+        },
+        {
+          "modelId": 40821,
+          "modelName": "GT EUROPA",
+          "modelYearFrom": "1967-01-01",
+          "modelYearTo": "1969-12-01"
+        }
+      ]
+    }
+  ]
+}

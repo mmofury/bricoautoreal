@@ -1,0 +1,126 @@
+{
+  "productName": "Régulateur de freinage",
+  "searchText": "Régulateur de freinage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:13:42.751Z",
+  "productId": 73,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Accumulateur de pression / pressostat": {
+          "categoryId": null,
+          "categoryName": "Accumulateur de pression / pressostat",
+          "level": 2,
+          "children": {
+            "Commutateur d'avertissement de différentiel de pression": {
+              "categoryId": 100382,
+              "categoryName": "Pressure Accumulator/Switch",
+              "level": 2,
+              "children": [],
+              "productId": 365
+            }
+          }
+        },
+        "Régulateur de freinage": {
+          "categoryId": null,
+          "categoryName": "Régulateur de freinage",
+          "level": 2,
+          "children": {
+            "Commutateur d'avertissement de différentiel de pression": {
+              "categoryId": 100037,
+              "categoryName": "Brake Force Regulator",
+              "level": 2,
+              "children": [],
+              "productId": 365
+            },
+            "Kit de réparation, régulateur de freinage": {
+              "categoryId": 100037,
+              "categoryName": "Brake Force Regulator",
+              "level": 2,
+              "children": [],
+              "productId": 782
+            },
+            "Régulateur de freinage": {
+              "categoryId": 100037,
+              "categoryName": "Brake Force Regulator",
+              "level": 2,
+              "children": [],
+              "productId": 73
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif de freinage [ID: 100006] (Niveau 1)\n    ├── Accumulateur de pression / pressostat (Niveau 2)\n    │   └── Pressure Accumulator/Switch [ID: 100382] (Niveau 2) → ProductId: 365\n    └── Régulateur de freinage (Niveau 2)\n        ├── Brake Force Regulator [ID: 100037] (Niveau 2) → ProductId: 365\n        ├── Brake Force Regulator [ID: 100037] (Niveau 2) → ProductId: 782\n        └── Brake Force Regulator [ID: 100037] (Niveau 2) → ProductId: 73",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Accumulateur de pression / pressostat",
+        "Pressure Accumulator/Switch"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100382
+      ],
+      "finalCategoryId": 100382,
+      "productId": 365
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Régulateur de freinage",
+        "Brake Force Regulator"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100037
+      ],
+      "finalCategoryId": 100037,
+      "productId": 365
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Régulateur de freinage",
+        "Brake Force Regulator"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100037
+      ],
+      "finalCategoryId": 100037,
+      "productId": 782
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Régulateur de freinage",
+        "Brake Force Regulator"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100037
+      ],
+      "finalCategoryId": 100037,
+      "productId": 73
+    }
+  ],
+  "productIdsInArbo": [
+    73,
+    365,
+    782
+  ],
+  "matchedProductIds": [
+    73
+  ]
+}

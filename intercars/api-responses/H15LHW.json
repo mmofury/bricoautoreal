@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H15LHW",
+      "index": "8885100164",
+      "tecDoc": "8885100164",
+      "tecDocProd": "97",
+      "articleNumber": "8885100164",
+      "brand": "WAECO",
+      "shortDescription": "Tester, compressor oil/refrigerant",
+      "description": "Oil quality tester, device type: standalone, PAG/POE oil, coolant type: R1234yf",
+      "customsCode": "90318080",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_8464",
+          "primary": false,
+          "name": {
+            "en": "Hoses and connectors for A/C stations"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_9513",
+          "primary": true,
+          "name": {
+            "en": "Tester, compressor oil/refrigerant"
+          }
+        }
+      ]
+    }
+  ]
+}

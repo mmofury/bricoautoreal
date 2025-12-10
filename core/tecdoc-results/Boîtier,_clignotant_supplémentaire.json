@@ -1,0 +1,84 @@
+{
+  "productName": "Boîtier, clignotant supplémentaire",
+  "searchText": "Boîtier, clignotant supplémentaire",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:11:05.865Z",
+  "productId": 5913,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Feux": {
+          "categoryId": null,
+          "categoryName": "Feux",
+          "level": 2,
+          "children": {
+            "Boîtier, clignotant supplémentaire": {
+              "categoryId": 100043,
+              "categoryName": "Lights",
+              "level": 2,
+              "children": {
+                "Feu clignotant/composants": {
+                  "categoryId": null,
+                  "categoryName": "Feu clignotant/composants",
+                  "level": 4,
+                  "children": {
+                    "Boîtier, clignotant supplémentaire": {
+                      "categoryId": 100145,
+                      "categoryName": "Direction Indicator/Parts",
+                      "level": 3,
+                      "children": {
+                        "Composants de feu clignotant": {
+                          "categoryId": null,
+                          "categoryName": "Composants de feu clignotant",
+                          "level": 6,
+                          "children": {
+                            "Boîtier, clignotant supplémentaire": {
+                              "categoryId": 100480,
+                              "categoryName": "Indicator Parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 5913
+                            }
+                          }
+                        }
+                      },
+                      "productId": 5913
+                    }
+                  }
+                }
+              },
+              "productId": 5913
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Feux (Niveau 2)\n        └── Lights [ID: 100043] (Niveau 2) → ProductId: 5913\n            └── Feu clignotant/composants (Niveau 4)\n                └── Direction Indicator/Parts [ID: 100145] (Niveau 3) → ProductId: 5913\n                    └── Composants de feu clignotant (Niveau 6)\n                        └── Indicator Parts [ID: 100480] (Niveau 4) → ProductId: 5913",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Lights"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100043
+      ],
+      "finalCategoryId": 100043,
+      "productId": 5913
+    }
+  ],
+  "productIdsInArbo": [
+    5913
+  ],
+  "matchedProductIds": [
+    5913
+  ]
+}

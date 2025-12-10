@@ -1,0 +1,49 @@
+{
+  "productName": "Couvercle, radiateur d'huile",
+  "productId": 5055,
+  "searchText": "Couvercle, radiateur d'huile",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Refroidissement": {
+          "categoryId": 200052,
+          "categoryName": "Refroidissement",
+          "level": 1,
+          "children": {
+            "Radiateur d'huile/composants": {
+              "categoryId": null,
+              "categoryName": "Radiateur d'huile/composants",
+              "level": 2,
+              "children": {
+                "Couvercle, radiateur d'huile": {
+                  "categoryId": 200088,
+                  "categoryName": "Oil Cooler/Parts",
+                  "level": 2,
+                  "children": [],
+                  "productId": 5055
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Refroidissement [ID: 200052] (Niveau 1)\n    └── Radiateur d'huile/composants (Niveau 2)\n        └── Oil Cooler/Parts [ID: 200088] (Niveau 2) → ProductId: 5055",
+      "productIdsInArbo": [
+        5055
+      ],
+      "matchedProductIds": [
+        5055
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:13:21.386Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

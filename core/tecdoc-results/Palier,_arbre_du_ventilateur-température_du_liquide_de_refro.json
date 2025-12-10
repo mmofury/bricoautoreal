@@ -1,0 +1,82 @@
+{
+  "productName": "Palier, arbre du ventilateur-température du liquide de refro",
+  "searchText": "Palier, arbre du ventilateur-température du liquide de refro",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:18:29.628Z",
+  "productId": 3304,
+  "arborescence": {
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Refroidissement par air": {
+          "categoryId": null,
+          "categoryName": "Refroidissement par air",
+          "level": 2,
+          "children": {
+            "Palier, arbre du ventilateur-température du liquide de refro": {
+              "categoryId": 100338,
+              "categoryName": "Air Cooling",
+              "level": 2,
+              "children": [],
+              "productId": 3304
+            }
+          }
+        },
+        "Ventilateur": {
+          "categoryId": null,
+          "categoryName": "Ventilateur",
+          "level": 2,
+          "children": {
+            "Palier, arbre du ventilateur-température du liquide de refro": {
+              "categoryId": 100337,
+              "categoryName": "Radiator Fan",
+              "level": 2,
+              "children": [],
+              "productId": 3304
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Refroidissement [ID: 100007] (Niveau 1)\n    ├── Refroidissement par air (Niveau 2)\n    │   └── Air Cooling [ID: 100338] (Niveau 2) → ProductId: 3304\n    └── Ventilateur (Niveau 2)\n        └── Radiator Fan [ID: 100337] (Niveau 2) → ProductId: 3304",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Refroidissement",
+        "Refroidissement par air",
+        "Air Cooling"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100338
+      ],
+      "finalCategoryId": 100338,
+      "productId": 3304
+    },
+    {
+      "path": [
+        "Refroidissement",
+        "Ventilateur",
+        "Radiator Fan"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100337
+      ],
+      "finalCategoryId": 100337,
+      "productId": 3304
+    }
+  ],
+  "productIdsInArbo": [
+    3304
+  ],
+  "matchedProductIds": [
+    3304
+  ]
+}

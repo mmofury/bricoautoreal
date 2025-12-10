@@ -1,0 +1,69 @@
+{
+  "productName": "Bague d'étanchéité, tubulure du papillon des gaz",
+  "searchText": "Bague d'étanchéité, tubulure du papillon des gaz",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:04:48.352Z",
+  "productId": 60677,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Bague d'étanchéité, tubulure du papillon des gaz": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Papillon des gaz / tubulure / tuyau de dépression": {
+                  "categoryId": null,
+                  "categoryName": "Papillon des gaz / tubulure / tuyau de dépression",
+                  "level": 4,
+                  "children": {
+                    "Bague d'étanchéité, tubulure du papillon des gaz": {
+                      "categoryId": 102796,
+                      "categoryName": "Throttle Valve/Throttle Body/Vacuum Pipe",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60677
+                    }
+                  }
+                }
+              },
+              "productId": 60677
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carburation [ID: 100254] (Niveau 1)\n    └── Mélange air-carburant (Niveau 2)\n        └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 60677\n            └── Papillon des gaz / tubulure / tuyau de dépression (Niveau 4)\n                └── Throttle Valve/Throttle Body/Vacuum Pipe [ID: 102796] (Niveau 3) → ProductId: 60677",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 60677
+    }
+  ],
+  "productIdsInArbo": [
+    60677
+  ],
+  "matchedProductIds": [
+    60677
+  ]
+}

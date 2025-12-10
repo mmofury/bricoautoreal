@@ -1,0 +1,89 @@
+{
+  "productName": "Capteur, qualité de l'air",
+  "searchText": "Capteur, qualité de l'air",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:16:38.793Z",
+  "productId": 5750,
+  "arborescence": {
+    "Climatisation": {
+      "categoryId": 100243,
+      "categoryName": "Climatisation",
+      "level": 1,
+      "children": {
+        "Capteurs": {
+          "categoryId": null,
+          "categoryName": "Capteurs",
+          "level": 2,
+          "children": {
+            "Capteur, qualité de l'air": {
+              "categoryId": 100794,
+              "categoryName": "Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 5750
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Capteurs": {
+          "categoryId": null,
+          "categoryName": "Capteurs",
+          "level": 2,
+          "children": {
+            "Capteur, qualité de l'air": {
+              "categoryId": 102747,
+              "categoryName": "Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 5750
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Climatisation [ID: 100243] (Niveau 1)\n│   └── Capteurs (Niveau 2)\n│       └── Sensors [ID: 100794] (Niveau 2) → ProductId: 5750\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Capteurs (Niveau 2)\n        └── Sensors [ID: 102747] (Niveau 2) → ProductId: 5750",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Climatisation",
+        "Capteurs",
+        "Sensors"
+      ],
+      "categoryIds": [
+        100243,
+        null,
+        100794
+      ],
+      "finalCategoryId": 100794,
+      "productId": 5750
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Capteurs",
+        "Sensors"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        102747
+      ],
+      "finalCategoryId": 102747,
+      "productId": 5750
+    }
+  ],
+  "productIdsInArbo": [
+    5750
+  ],
+  "matchedProductIds": [
+    5750
+  ]
+}

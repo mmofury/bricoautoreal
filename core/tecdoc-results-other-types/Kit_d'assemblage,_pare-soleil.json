@@ -1,0 +1,49 @@
+{
+  "productName": "Kit d'assemblage, pare-soleil",
+  "productId": 4074,
+  "searchText": "Kit d'assemblage, pare-soleil",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Cabine du conducteur/carrosserie": {
+          "categoryId": 200022,
+          "categoryName": "Cabine du conducteur/carrosserie",
+          "level": 1,
+          "children": {
+            "Pièces de montage / accessoires": {
+              "categoryId": null,
+              "categoryName": "Pièces de montage / accessoires",
+              "level": 2,
+              "children": {
+                "Kit d'assemblage, pare-soleil": {
+                  "categoryId": 200118,
+                  "categoryName": "Extras/ Accessories",
+                  "level": 2,
+                  "children": [],
+                  "productId": 4074
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Cabine du conducteur/carrosserie [ID: 200022] (Niveau 1)\n    └── Pièces de montage / accessoires (Niveau 2)\n        └── Extras/ Accessories [ID: 200118] (Niveau 2) → ProductId: 4074",
+      "productIdsInArbo": [
+        4074
+      ],
+      "matchedProductIds": [
+        4074
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:40:44.505Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

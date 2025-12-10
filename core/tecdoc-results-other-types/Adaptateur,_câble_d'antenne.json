@@ -1,0 +1,119 @@
+{
+  "productName": "Adaptateur, câble d'antenne",
+  "searchText": "Adaptateur, câble d'antenne",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": false,
+      "arborescence": {
+        "Système d'information et de communication": {
+          "categoryId": 203494,
+          "categoryName": "Système d'information et de communication",
+          "level": 1,
+          "children": {
+            "Antennes": {
+              "categoryId": null,
+              "categoryName": "Antennes",
+              "level": 2,
+              "children": {
+                "Adaptateur, câble d'antenne": {
+                  "categoryId": 203497,
+                  "categoryName": "Aerial",
+                  "level": 2,
+                  "children": [],
+                  "productId": 7271
+                }
+              }
+            },
+            "Communication": {
+              "categoryId": null,
+              "categoryName": "Communication",
+              "level": 2,
+              "children": {
+                "Adaptateur, câble d'antenne": {
+                  "categoryId": 203498,
+                  "categoryName": "Communication",
+                  "level": 2,
+                  "children": [],
+                  "productId": 7271
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système d'information et de communication [ID: 203494] (Niveau 1)\n    ├── Antennes (Niveau 2)\n    │   └── Aerial [ID: 203497] (Niveau 2) → ProductId: 7271\n    └── Communication (Niveau 2)\n        └── Communication [ID: 203498] (Niveau 2) → ProductId: 7271",
+      "productIdsInArbo": [
+        7271
+      ]
+    },
+    {
+      "typeId": 3,
+      "found": true,
+      "hasMatch": false,
+      "arborescence": {
+        "Système d'information et de communication": {
+          "categoryId": 100339,
+          "categoryName": "Système d'information et de communication",
+          "level": 1,
+          "children": []
+        }
+      },
+      "arborescenceText": "└── Système d'information et de communication [ID: 100339] (Niveau 1)",
+      "productIdsInArbo": []
+    },
+    {
+      "typeId": 4,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 5,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 6,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 7,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 8,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 9,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 10,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 11,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 12,
+      "found": false,
+      "hasMatch": false
+    }
+  ],
+  "timestamp": "2025-12-03T09:34:48.340Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": false
+  }
+}

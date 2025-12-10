@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "C56680",
+      "index": "FE37614",
+      "tecDoc": "37614",
+      "tecDocProd": "101",
+      "articleNumber": "37614",
+      "brand": "FEBI",
+      "shortDescription": "Timing Chain",
+      "description": "Timing chain (number of links: 70) fits: AUDI A3, Q7, TT, PORSCHE CAYENNE, SEAT ALHAMBRA, LEON, TOLEDO II, SKODA SUPERB II, VW BORA, BORA I, CALIFORNIA T4 CAMPER, CC B7 2.3-3.6 06.91-12.18",
+      "customsCode": "73151190",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1123",
+          "primary": true,
+          "name": {
+            "en": "Timing Chain"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1634",
+          "primary": false,
+          "name": {
+            "en": "Chain, intermediate shaft"
+          }
+        }
+      ]
+    }
+  ]
+}

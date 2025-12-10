@@ -1,0 +1,104 @@
+{
+  "productName": "Relais, contrôle de démarrage à froid",
+  "searchText": "Relais, contrôle de démarrage à froid",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:07:42.493Z",
+  "productId": 797,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Carburateurs": {
+          "categoryId": null,
+          "categoryName": "Carburateurs",
+          "level": 2,
+          "children": {
+            "Relais, contrôle de démarrage à froid": {
+              "categoryId": 102903,
+              "categoryName": "Carburettor System",
+              "level": 2,
+              "children": {
+                "Interrupteur / relais": {
+                  "categoryId": null,
+                  "categoryName": "Interrupteur / relais",
+                  "level": 4,
+                  "children": {
+                    "Relais, contrôle de démarrage à froid": {
+                      "categoryId": 102911,
+                      "categoryName": "Switch/ Relay",
+                      "level": 3,
+                      "children": [],
+                      "productId": 797
+                    }
+                  }
+                }
+              },
+              "productId": 797
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Relais": {
+          "categoryId": null,
+          "categoryName": "Relais",
+          "level": 2,
+          "children": {
+            "Relais, contrôle de démarrage à froid": {
+              "categoryId": 100785,
+              "categoryName": "Relay",
+              "level": 2,
+              "children": [],
+              "productId": 797
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carburation [ID: 100254] (Niveau 1)\n│   └── Carburateurs (Niveau 2)\n│       └── Carburettor System [ID: 102903] (Niveau 2) → ProductId: 797\n│           └── Interrupteur / relais (Niveau 4)\n│               └── Switch/ Relay [ID: 102911] (Niveau 3) → ProductId: 797\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Relais (Niveau 2)\n        └── Relay [ID: 100785] (Niveau 2) → ProductId: 797",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Carburateurs",
+        "Carburettor System"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102903
+      ],
+      "finalCategoryId": 102903,
+      "productId": 797
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Relais",
+        "Relay"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100785
+      ],
+      "finalCategoryId": 100785,
+      "productId": 797
+    }
+  ],
+  "productIdsInArbo": [
+    797
+  ],
+  "matchedProductIds": [
+    797
+  ]
+}

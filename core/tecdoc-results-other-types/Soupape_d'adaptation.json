@@ -1,0 +1,64 @@
+{
+  "productName": "Soupape d'adaptation",
+  "productId": 1328,
+  "searchText": "Soupape d'adaptation",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Système pneumatique": {
+          "categoryId": 200059,
+          "categoryName": "Système pneumatique",
+          "level": 1,
+          "children": {
+            "Soupapes / Système d'air comprimé": {
+              "categoryId": null,
+              "categoryName": "Soupapes / Système d'air comprimé",
+              "level": 2,
+              "children": {
+                "Soupape d'adaptation": {
+                  "categoryId": 200115,
+                  "categoryName": "Valves/compressed-air system",
+                  "level": 2,
+                  "children": {
+                    "Soupapes diverses": {
+                      "categoryId": null,
+                      "categoryName": "Soupapes diverses",
+                      "level": 4,
+                      "children": {
+                        "Soupape d'adaptation": {
+                          "categoryId": 200916,
+                          "categoryName": "Other Valves",
+                          "level": 3,
+                          "children": [],
+                          "productId": 1328
+                        }
+                      }
+                    }
+                  },
+                  "productId": 1328
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système pneumatique [ID: 200059] (Niveau 1)\n    └── Soupapes / Système d'air comprimé (Niveau 2)\n        └── Valves/compressed-air system [ID: 200115] (Niveau 2) → ProductId: 1328\n            └── Soupapes diverses (Niveau 4)\n                └── Other Valves [ID: 200916] (Niveau 3) → ProductId: 1328",
+      "productIdsInArbo": [
+        1328
+      ],
+      "matchedProductIds": [
+        1328
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:32:13.761Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

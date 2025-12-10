@@ -1,0 +1,54 @@
+{
+  "productName": "Jeu de joints d'étanchéité, différentiel",
+  "searchText": "Jeu de joints d'étanchéité, différentiel",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:50:09.261Z",
+  "productId": 629,
+  "arborescence": {
+    "Entraînement des essieux": {
+      "categoryId": 100400,
+      "categoryName": "Entraînement des essieux",
+      "level": 1,
+      "children": {
+        "Différentiel": {
+          "categoryId": null,
+          "categoryName": "Différentiel",
+          "level": 2,
+          "children": {
+            "Jeu de joints d'étanchéité, différentiel": {
+              "categoryId": 100415,
+              "categoryName": "Differential",
+              "level": 2,
+              "children": [],
+              "productId": 629
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement des essieux [ID: 100400] (Niveau 1)\n    └── Différentiel (Niveau 2)\n        └── Differential [ID: 100415] (Niveau 2) → ProductId: 629",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des essieux",
+        "Différentiel",
+        "Differential"
+      ],
+      "categoryIds": [
+        100400,
+        null,
+        100415
+      ],
+      "finalCategoryId": 100415,
+      "productId": 629
+    }
+  ],
+  "productIdsInArbo": [
+    629
+  ],
+  "matchedProductIds": [
+    629
+  ]
+}

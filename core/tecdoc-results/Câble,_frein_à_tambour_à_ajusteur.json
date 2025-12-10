@@ -1,0 +1,106 @@
+{
+  "productName": "Câble, frein à tambour à ajusteur",
+  "searchText": "Câble, frein à tambour à ajusteur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:30:15.472Z",
+  "productId": 8277,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Frein à tambour": {
+          "categoryId": null,
+          "categoryName": "Frein à tambour",
+          "level": 2,
+          "children": {
+            "Câble, frein à tambour à ajusteur": {
+              "categoryId": 100627,
+              "categoryName": "Drum Brake",
+              "level": 2,
+              "children": {
+                "Accessoires / composants": {
+                  "categoryId": null,
+                  "categoryName": "Accessoires / composants",
+                  "level": 4,
+                  "children": {
+                    "Câble, frein à tambour à ajusteur": {
+                      "categoryId": 100634,
+                      "categoryName": "Accessories/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8277
+                    }
+                  }
+                }
+              },
+              "productId": 8277
+            },
+            "Guidage de câble, frein à tambour à ajusteur": {
+              "categoryId": 100627,
+              "categoryName": "Drum Brake",
+              "level": 2,
+              "children": {
+                "Accessoires / composants": {
+                  "categoryId": null,
+                  "categoryName": "Accessoires / composants",
+                  "level": 4,
+                  "children": {
+                    "Guidage de câble, frein à tambour à ajusteur": {
+                      "categoryId": 100634,
+                      "categoryName": "Accessories/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8278
+                    }
+                  }
+                }
+              },
+              "productId": 8278
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif de freinage [ID: 100006] (Niveau 1)\n    └── Frein à tambour (Niveau 2)\n        ├── Drum Brake [ID: 100627] (Niveau 2) → ProductId: 8277\n        │   └── Accessoires / composants (Niveau 4)\n        │       └── Accessories/Parts [ID: 100634] (Niveau 3) → ProductId: 8277\n        └── Drum Brake [ID: 100627] (Niveau 2) → ProductId: 8278\n            └── Accessoires / composants (Niveau 4)\n                └── Accessories/Parts [ID: 100634] (Niveau 3) → ProductId: 8278",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Frein à tambour",
+        "Drum Brake"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100627
+      ],
+      "finalCategoryId": 100627,
+      "productId": 8277
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Frein à tambour",
+        "Drum Brake"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100627
+      ],
+      "finalCategoryId": 100627,
+      "productId": 8278
+    }
+  ],
+  "productIdsInArbo": [
+    8277,
+    8278
+  ],
+  "matchedProductIds": [
+    8277
+  ]
+}

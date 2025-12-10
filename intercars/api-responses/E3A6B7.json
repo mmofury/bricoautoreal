@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "E3A6B7",
+      "index": "FE101833",
+      "tecDoc": "101833",
+      "tecDocProd": "101",
+      "articleNumber": "101833",
+      "brand": "FEBI",
+      "shortDescription": "Cable Pull, driver cab tilting device",
+      "description": "Switch (number of pins 2, start/stop system) fits: MAN TGA, TGL I, TGM I, TGS I, TGX I 04.00-",
+      "eans": [
+        "4054224018330"
+      ],
+      "packageWeight": "0,030",
+      "packageWidth": "4,500",
+      "packageDepth": "6,000",
+      "packageHeight": "4,500",
+      "customsCode": "85365019",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_5105",
+          "primary": true,
+          "name": {
+            "en": "Cable Pull, driver cab tilting device"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_60015",
+          "primary": false,
+          "name": {
+            "en": "Sensor, driver cab tilting device"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,730 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.413Z",
+  "manufacturer": "MG",
+  "countGroups": 37,
+  "groups": [
+    {
+      "manufacturerId": 75,
+      "manufacturerName": "MG",
+      "groupKey": "COMET",
+      "displayName": "COMET",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45044,
+          "modelName": "COMET",
+          "modelYearFrom": "2023-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 75,
+      "manufacturerName": "MG",
+      "groupKey": "CYBERSTER",
+      "displayName": "CYBERSTER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45693,
+          "modelName": "CYBERSTER",
+          "modelYearFrom": "2024-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 75,
+      "manufacturerName": "MG",
+      "groupKey": "EP",
+      "displayName": "EP",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41601,
+          "modelName": "EP",
+          "modelYearFrom": "2020-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 75,
+      "manufacturerName": "MG",
+      "groupKey": "EXPRESS",
+      "displayName": "EXPRESS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7645,
+          "modelName": "EXPRESS Camionnette/Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2003-03-01",
+          "modelYearTo": "2005-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 75,
+      "manufacturerName": "MG",
+      "groupKey": "EXTENDER",
+      "displayName": "EXTENDER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41070,
+          "modelName": "EXTENDER Pick-up",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 75,
+      "manufacturerName": "MG",
+      "groupKey": "G50",
+      "displayName": "G50",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45414,
+          "modelName": "G50",
+          "modelYearFrom": "2024-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 75,
+      "manufacturerName": "MG",
+      "groupKey": "GLOSTER",
+      "displayName": "GLOSTER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41286,
+          "modelName": "GLOSTER",
+          "modelYearFrom": "2020-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 75,
+      "manufacturerName": "MG",
+      "groupKey": "GT",
+      "displayName": "GT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44234,
+          "modelName": "GT",
+          "modelYearFrom": "2016-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45401,
+          "modelName": "GT",
+          "modelYearFrom": "2020-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 75,
+      "manufacturerName": "MG",
+      "groupKey": "HECTOR",
+      "displayName": "HECTOR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39832,
+          "modelName": "HECTOR / HECTOR PLUS SUV",
+          "modelYearFrom": "2019-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 75,
+      "manufacturerName": "MG",
+      "groupKey": "M9",
+      "displayName": "M9",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45100,
+          "modelName": "M9",
+          "modelYearFrom": "2024-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 75,
+      "manufacturerName": "MG",
+      "groupKey": "MAESTRO",
+      "displayName": "MAESTRO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4456,
+          "modelName": "MAESTRO",
+          "modelYearFrom": "1983-03-01",
+          "modelYearTo": "1990-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 75,
+      "manufacturerName": "MG",
+      "groupKey": "MAGNETTE",
+      "displayName": "MAGNETTE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4455,
+          "modelName": "MAGNETTE",
+          "modelYearFrom": "1961-03-01",
+          "modelYearTo": "1968-09-01"
+        },
+        {
+          "modelId": 11017,
+          "modelName": "MAGNETTE",
+          "modelYearFrom": "1953-01-01",
+          "modelYearTo": "1958-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 75,
+      "manufacturerName": "MG",
+      "groupKey": "MARVEL",
+      "displayName": "MARVEL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42521,
+          "modelName": "MARVEL R",
+          "modelYearFrom": "2021-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 75,
+      "manufacturerName": "MG",
+      "groupKey": "METRO",
+      "displayName": "METRO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4454,
+          "modelName": "METRO",
+          "modelYearFrom": "1982-05-01",
+          "modelYearTo": "1990-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 75,
+      "manufacturerName": "MG",
+      "groupKey": "MG",
+      "displayName": "MG",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5049,
+          "modelName": "MG TF",
+          "modelYearFrom": "2002-03-01",
+          "modelYearTo": "2009-12-01"
+        },
+        {
+          "modelId": 5050,
+          "modelName": "MG ZR",
+          "modelYearFrom": "2001-06-01",
+          "modelYearTo": "2005-04-01"
+        },
+        {
+          "modelId": 5051,
+          "modelName": "MG ZS",
+          "modelYearFrom": "2001-07-01",
+          "modelYearTo": "2005-04-01"
+        },
+        {
+          "modelId": 5052,
+          "modelName": "MG ZS Hatchback",
+          "modelYearFrom": "2001-07-01",
+          "modelYearTo": "2005-10-01"
+        },
+        {
+          "modelId": 5053,
+          "modelName": "MG ZT",
+          "modelYearFrom": "2001-06-01",
+          "modelYearTo": "2005-10-01"
+        },
+        {
+          "modelId": 5054,
+          "modelName": "MG ZT- T",
+          "modelYearFrom": "2001-10-01",
+          "modelYearTo": "2005-10-01"
+        },
+        {
+          "modelId": 5385,
+          "modelName": "MG X-POWER",
+          "modelYearFrom": "2003-01-01",
+          "modelYearTo": "2008-04-01"
+        },
+        {
+          "modelId": 9580,
+          "modelName": "MG 6 Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2010-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 9740,
+          "modelName": "MG 6 A trois volumes",
+          "modelYearFrom": "2010-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10961,
+          "modelName": "MG 3",
+          "modelYearFrom": "2011-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 36907,
+          "modelName": "MG GS",
+          "modelYearFrom": "2016-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38594,
+          "modelName": "MG ZS SUV",
+          "modelYearFrom": "2017-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39015,
+          "modelName": "MG 350 (AP11)",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40059,
+          "modelName": "MG 5 Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2012-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40440,
+          "modelName": "MG HS (AS23)",
+          "modelYearFrom": "2018-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41958,
+          "modelName": "MG 5",
+          "modelYearFrom": "2012-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42217,
+          "modelName": "MG 5 Break",
+          "modelYearFrom": "2020-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42969,
+          "modelName": "MG 5",
+          "modelYearFrom": "2020-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43566,
+          "modelName": "MG 4 (EH32)",
+          "modelYearFrom": "2022-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44184,
+          "modelName": "MG 6 A trois volumes",
+          "modelYearFrom": "2019-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45344,
+          "modelName": "MG 3 (ZP2_)",
+          "modelYearFrom": "2024-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 90084,
+          "modelName": "MG HS (AS33)",
+          "modelYearFrom": "2024-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 75,
+      "manufacturerName": "MG",
+      "groupKey": "MG750",
+      "displayName": "MG750",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40135,
+          "modelName": "MG750",
+          "modelYearFrom": "2011-09-01",
+          "modelYearTo": "2016-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 75,
+      "manufacturerName": "MG",
+      "groupKey": "MGA",
+      "displayName": "MGA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11018,
+          "modelName": "MGA Coupé",
+          "modelYearFrom": "1955-05-01",
+          "modelYearTo": "1962-07-01"
+        },
+        {
+          "modelId": 37534,
+          "modelName": "MGA Décapotable (HDC, GHN, HAD)",
+          "modelYearFrom": "1955-05-01",
+          "modelYearTo": "1962-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 75,
+      "manufacturerName": "MG",
+      "groupKey": "MGB",
+      "displayName": "MGB",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1399,
+          "modelName": "MGB Décapotable",
+          "modelYearFrom": "1962-05-01",
+          "modelYearTo": "1981-12-01"
+        },
+        {
+          "modelId": 1400,
+          "modelName": "MGB GT",
+          "modelYearFrom": "1965-07-01",
+          "modelYearTo": "1980-11-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 75,
+      "manufacturerName": "MG",
+      "groupKey": "MGC",
+      "displayName": "MGC",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4459,
+          "modelName": "MGC",
+          "modelYearFrom": "1967-01-01",
+          "modelYearTo": "1969-09-01"
+        },
+        {
+          "modelId": 4461,
+          "modelName": "MGC GT",
+          "modelYearFrom": "1967-01-01",
+          "modelYearTo": "1969-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 75,
+      "manufacturerName": "MG",
+      "groupKey": "MGF",
+      "displayName": "MGF",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4463,
+          "modelName": "MGF (RD)",
+          "modelYearFrom": "1995-03-01",
+          "modelYearTo": "2002-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 75,
+      "manufacturerName": "MG",
+      "groupKey": "MGR",
+      "displayName": "MGR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1401,
+          "modelName": "MGR V8",
+          "modelYearFrom": "1992-09-01",
+          "modelYearTo": "1995-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 75,
+      "manufacturerName": "MG",
+      "groupKey": "MGY",
+      "displayName": "MGY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11019,
+          "modelName": "MGY Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1950-01-01",
+          "modelYearTo": "1953-09-01"
+        },
+        {
+          "modelId": 11020,
+          "modelName": "MGY Décapotable",
+          "modelYearFrom": "1950-01-01",
+          "modelYearTo": "1951-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 75,
+      "manufacturerName": "MG",
+      "groupKey": "MIDGET",
+      "displayName": "MIDGET",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1418,
+          "modelName": "MIDGET",
+          "modelYearFrom": "1964-01-01",
+          "modelYearTo": "1979-12-01"
+        },
+        {
+          "modelId": 32798,
+          "modelName": "MIDGET A trois volumes",
+          "modelYearFrom": "1960-09-01",
+          "modelYearTo": "1964-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 75,
+      "manufacturerName": "MG",
+      "groupKey": "MONTEGO",
+      "displayName": "MONTEGO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4458,
+          "modelName": "MONTEGO",
+          "modelYearFrom": "1984-04-01",
+          "modelYearTo": "1990-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 75,
+      "manufacturerName": "MG",
+      "groupKey": "ONE",
+      "displayName": "ONE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45374,
+          "modelName": "ONE",
+          "modelYearFrom": "2024-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 75,
+      "manufacturerName": "MG",
+      "groupKey": "RX8",
+      "displayName": "RX8",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42624,
+          "modelName": "RX8",
+          "modelYearFrom": "2018-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 75,
+      "manufacturerName": "MG",
+      "groupKey": "RX9",
+      "displayName": "RX9",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45386,
+          "modelName": "RX9",
+          "modelYearFrom": "2024-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 75,
+      "manufacturerName": "MG",
+      "groupKey": "TC",
+      "displayName": "TC",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32807,
+          "modelName": "TC A trois volumes",
+          "modelYearFrom": "1944-09-01",
+          "modelYearTo": "1949-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 75,
+      "manufacturerName": "MG",
+      "groupKey": "TD",
+      "displayName": "TD",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32808,
+          "modelName": "TD A trois volumes",
+          "modelYearFrom": "1948-09-01",
+          "modelYearTo": "1953-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 75,
+      "manufacturerName": "MG",
+      "groupKey": "TDC",
+      "displayName": "TDC",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32809,
+          "modelName": "TDC A trois volumes",
+          "modelYearFrom": "1950-09-01",
+          "modelYearTo": "1953-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 75,
+      "manufacturerName": "MG",
+      "groupKey": "TF",
+      "displayName": "TF",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32810,
+          "modelName": "TF A trois volumes",
+          "modelYearFrom": "1953-09-01",
+          "modelYearTo": "1955-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 75,
+      "manufacturerName": "MG",
+      "groupKey": "V80",
+      "displayName": "V80",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41071,
+          "modelName": "V80 Monospace",
+          "modelYearFrom": "2019-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 75,
+      "manufacturerName": "MG",
+      "groupKey": "YA",
+      "displayName": "YA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32813,
+          "modelName": "YA A trois volumes",
+          "modelYearFrom": "1946-09-01",
+          "modelYearTo": "1950-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 75,
+      "manufacturerName": "MG",
+      "groupKey": "YB",
+      "displayName": "YB",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32814,
+          "modelName": "YB A trois volumes",
+          "modelYearFrom": "1950-09-01",
+          "modelYearTo": "1953-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 75,
+      "manufacturerName": "MG",
+      "groupKey": "YT",
+      "displayName": "YT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32815,
+          "modelName": "YT A trois volumes",
+          "modelYearFrom": "1946-09-01",
+          "modelYearTo": "1950-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 75,
+      "manufacturerName": "MG",
+      "groupKey": "ZA",
+      "displayName": "ZA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32816,
+          "modelName": "ZA A trois volumes",
+          "modelYearFrom": "1953-09-01",
+          "modelYearTo": "1956-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 75,
+      "manufacturerName": "MG",
+      "groupKey": "ZX",
+      "displayName": "ZX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44237,
+          "modelName": "ZX",
+          "modelYearFrom": "2021-03-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

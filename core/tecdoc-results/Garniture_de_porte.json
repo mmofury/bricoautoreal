@@ -1,0 +1,176 @@
+{
+  "productName": "Garniture de porte",
+  "searchText": "Garniture de porte",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:42:39.419Z",
+  "productId": 3696,
+  "arborescence": {
+    "Équipement intérieur": {
+      "categoryId": 100341,
+      "categoryName": "Équipement intérieur",
+      "level": 1,
+      "children": {
+        "Clips de fixation": {
+          "categoryId": null,
+          "categoryName": "Clips de fixation",
+          "level": 2,
+          "children": {
+            "Clip de fixation, revêtement de porte": {
+              "categoryId": 104958,
+              "categoryName": "Fastening Clips",
+              "level": 2,
+              "children": [],
+              "productId": 9186
+            },
+            "Jeu de clips de maintien, garniture de la porte": {
+              "categoryId": 104958,
+              "categoryName": "Fastening Clips",
+              "level": 2,
+              "children": [],
+              "productId": 61187
+            }
+          }
+        },
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Levier de démontage, garniture de porte": {
+              "categoryId": 105405,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 7056
+            }
+          }
+        },
+        "Recouvrement": {
+          "categoryId": null,
+          "categoryName": "Recouvrement",
+          "level": 2,
+          "children": {
+            "Clip de fixation, revêtement de porte": {
+              "categoryId": 102706,
+              "categoryName": "Panelling",
+              "level": 2,
+              "children": [],
+              "productId": 9186
+            },
+            "Garniture de porte": {
+              "categoryId": 102706,
+              "categoryName": "Panelling",
+              "level": 2,
+              "children": [],
+              "productId": 3696
+            },
+            "Jeu de clips de maintien, garniture de la porte": {
+              "categoryId": 102706,
+              "categoryName": "Panelling",
+              "level": 2,
+              "children": [],
+              "productId": 61187
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Équipement intérieur [ID: 100341] (Niveau 1)\n    ├── Clips de fixation (Niveau 2)\n    │   ├── Fastening Clips [ID: 104958] (Niveau 2) → ProductId: 9186\n    │   └── Fastening Clips [ID: 104958] (Niveau 2) → ProductId: 61187\n    ├── Outils (Niveau 2)\n    │   └── Tools [ID: 105405] (Niveau 2) → ProductId: 7056\n    └── Recouvrement (Niveau 2)\n        ├── Panelling [ID: 102706] (Niveau 2) → ProductId: 9186\n        ├── Panelling [ID: 102706] (Niveau 2) → ProductId: 3696\n        └── Panelling [ID: 102706] (Niveau 2) → ProductId: 61187",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Équipement intérieur",
+        "Clips de fixation",
+        "Fastening Clips"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        104958
+      ],
+      "finalCategoryId": 104958,
+      "productId": 9186
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Clips de fixation",
+        "Fastening Clips"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        104958
+      ],
+      "finalCategoryId": 104958,
+      "productId": 61187
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        105405
+      ],
+      "finalCategoryId": 105405,
+      "productId": 7056
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Recouvrement",
+        "Panelling"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102706
+      ],
+      "finalCategoryId": 102706,
+      "productId": 9186
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Recouvrement",
+        "Panelling"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102706
+      ],
+      "finalCategoryId": 102706,
+      "productId": 3696
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Recouvrement",
+        "Panelling"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102706
+      ],
+      "finalCategoryId": 102706,
+      "productId": 61187
+    }
+  ],
+  "productIdsInArbo": [
+    3696,
+    7056,
+    9186,
+    61187
+  ],
+  "matchedProductIds": [
+    3696
+  ]
+}

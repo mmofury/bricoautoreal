@@ -1,0 +1,69 @@
+{
+  "productName": "Vis, étrier de frein",
+  "searchText": "Vis, étrier de frein",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:35:13.584Z",
+  "productId": 1546,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Étrier de frein": {
+          "categoryId": null,
+          "categoryName": "Étrier de frein",
+          "level": 2,
+          "children": {
+            "Vis, étrier de frein": {
+              "categoryId": 100027,
+              "categoryName": "Brake Caliper",
+              "level": 2,
+              "children": {
+                "Composants": {
+                  "categoryId": null,
+                  "categoryName": "Composants",
+                  "level": 4,
+                  "children": {
+                    "Vis, étrier de frein": {
+                      "categoryId": 100806,
+                      "categoryName": "Brake Caliper Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1546
+                    }
+                  }
+                }
+              },
+              "productId": 1546
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif de freinage [ID: 100006] (Niveau 1)\n    └── Étrier de frein (Niveau 2)\n        └── Brake Caliper [ID: 100027] (Niveau 2) → ProductId: 1546\n            └── Composants (Niveau 4)\n                └── Brake Caliper Parts [ID: 100806] (Niveau 3) → ProductId: 1546",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Étrier de frein",
+        "Brake Caliper"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100027
+      ],
+      "finalCategoryId": 100027,
+      "productId": 1546
+    }
+  ],
+  "productIdsInArbo": [
+    1546
+  ],
+  "matchedProductIds": [
+    1546
+  ]
+}

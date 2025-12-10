@@ -1,0 +1,127 @@
+{
+  "productName": "Roue dentée, pompe à huile",
+  "searchText": "Roue dentée, pompe à huile",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:12:30.605Z",
+  "productId": 1622,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Distribution moteur": {
+          "categoryId": null,
+          "categoryName": "Distribution moteur",
+          "level": 2,
+          "children": {
+            "Roue dentée, pompe à huile": {
+              "categoryId": 100003,
+              "categoryName": "Engine Timing",
+              "level": 2,
+              "children": {
+                "Pignon droit": {
+                  "categoryId": null,
+                  "categoryName": "Pignon droit",
+                  "level": 4,
+                  "children": {
+                    "Roue dentée, pompe à huile": {
+                      "categoryId": 100425,
+                      "categoryName": "Timing Gear",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1622
+                    }
+                  }
+                }
+              },
+              "productId": 1622
+            }
+          }
+        },
+        "Lubrification": {
+          "categoryId": null,
+          "categoryName": "Lubrification",
+          "level": 2,
+          "children": {
+            "Roue dentée, pompe à huile": {
+              "categoryId": 100245,
+              "categoryName": "Lubrication",
+              "level": 2,
+              "children": {
+                "Pompe à huile et pièces de montage": {
+                  "categoryId": null,
+                  "categoryName": "Pompe à huile et pièces de montage",
+                  "level": 4,
+                  "children": {
+                    "Roue dentée, pompe à huile": {
+                      "categoryId": 100476,
+                      "categoryName": "Oil Pump/Attachment Parts",
+                      "level": 3,
+                      "children": {
+                        "Pompe à huile": {
+                          "categoryId": null,
+                          "categoryName": "Pompe à huile",
+                          "level": 6,
+                          "children": {
+                            "Roue dentée, pompe à huile": {
+                              "categoryId": 100492,
+                              "categoryName": "Oil Pump",
+                              "level": 4,
+                              "children": [],
+                              "productId": 1622
+                            }
+                          }
+                        }
+                      },
+                      "productId": 1622
+                    }
+                  }
+                }
+              },
+              "productId": 1622
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    ├── Distribution moteur (Niveau 2)\n    │   └── Engine Timing [ID: 100003] (Niveau 2) → ProductId: 1622\n    │       └── Pignon droit (Niveau 4)\n    │           └── Timing Gear [ID: 100425] (Niveau 3) → ProductId: 1622\n    └── Lubrification (Niveau 2)\n        └── Lubrication [ID: 100245] (Niveau 2) → ProductId: 1622\n            └── Pompe à huile et pièces de montage (Niveau 4)\n                └── Oil Pump/Attachment Parts [ID: 100476] (Niveau 3) → ProductId: 1622\n                    └── Pompe à huile (Niveau 6)\n                        └── Oil Pump [ID: 100492] (Niveau 4) → ProductId: 1622",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Engine Timing"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100003
+      ],
+      "finalCategoryId": 100003,
+      "productId": 1622
+    },
+    {
+      "path": [
+        "Moteur",
+        "Lubrification",
+        "Lubrication"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100245
+      ],
+      "finalCategoryId": 100245,
+      "productId": 1622
+    }
+  ],
+  "productIdsInArbo": [
+    1622
+  ],
+  "matchedProductIds": [
+    1622
+  ]
+}

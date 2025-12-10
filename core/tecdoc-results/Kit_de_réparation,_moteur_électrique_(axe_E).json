@@ -1,0 +1,54 @@
+{
+  "productName": "Kit de réparation, moteur électrique (axe E)",
+  "searchText": "Kit de réparation, moteur électrique (axe E)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:05:32.118Z",
+  "productId": 60691,
+  "arborescence": {
+    "Entraînement hybride/électrique": {
+      "categoryId": 706209,
+      "categoryName": "Entraînement hybride/électrique",
+      "level": 1,
+      "children": {
+        "Moteur électrique": {
+          "categoryId": null,
+          "categoryName": "Moteur électrique",
+          "level": 2,
+          "children": {
+            "Kit de réparation, moteur électrique (axe E)": {
+              "categoryId": 706682,
+              "categoryName": "Electric Motor",
+              "level": 2,
+              "children": [],
+              "productId": 60691
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement hybride/électrique [ID: 706209] (Niveau 1)\n    └── Moteur électrique (Niveau 2)\n        └── Electric Motor [ID: 706682] (Niveau 2) → ProductId: 60691",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement hybride/électrique",
+        "Moteur électrique",
+        "Electric Motor"
+      ],
+      "categoryIds": [
+        706209,
+        null,
+        706682
+      ],
+      "finalCategoryId": 706682,
+      "productId": 60691
+    }
+  ],
+  "productIdsInArbo": [
+    60691
+  ],
+  "matchedProductIds": [
+    60691
+  ]
+}

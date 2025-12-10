@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "F8BB49",
+      "index": "000704",
+      "tecDoc": "000704",
+      "tecDocProd": "168",
+      "articleNumber": "000704",
+      "brand": "MOTIP",
+      "shortDescription": "Anti-Fungal agent",
+      "description": "...",
+      "eans": [
+        "8711347212866"
+      ],
+      "packageWeight": "0,400",
+      "packageWidth": "6,000",
+      "packageDepth": "6,000",
+      "packageHeight": "28,000",
+      "customsCode": "34025090",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3443",
+          "primary": false,
+          "name": {
+            "en": "Air Freshener"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_93318",
+          "primary": true,
+          "name": {
+            "en": "Anti-Fungal agent"
+          }
+        }
+      ]
+    }
+  ]
+}

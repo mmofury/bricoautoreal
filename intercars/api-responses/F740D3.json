@@ -1,0 +1,40 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "F740D3",
+      "index": "2.32363",
+      "tecDoc": "2.32363",
+      "tecDocProd": "355",
+      "articleNumber": "2.32363",
+      "brand": "DT SPARE PARTS",
+      "shortDescription": "Cover, wheel hub",
+      "description": "Gear shifting, outer fits: VOLVO F12, FL, FL6, N10 01.73-",
+      "gtuCode": "GTU_07",
+      "packageWeight": "0,559",
+      "packageWidth": "14,600",
+      "packageDepth": "6,400",
+      "packageHeight": "17,600",
+      "customsCode": "87084099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_5114",
+          "primary": true,
+          "name": {
+            "en": "Cover, wheel hub"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_4021",
+          "primary": false,
+          "name": {
+            "en": "Repair Kit, shift cylinder"
+          }
+        }
+      ]
+    }
+  ]
+}

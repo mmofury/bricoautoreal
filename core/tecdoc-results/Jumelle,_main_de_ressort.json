@@ -1,0 +1,54 @@
+{
+  "productName": "Jumelle, main de ressort",
+  "searchText": "Jumelle, main de ressort",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:57:14.688Z",
+  "productId": 3178,
+  "arborescence": {
+    "Suspension/Amortissement": {
+      "categoryId": 100011,
+      "categoryName": "Suspension/Amortissement",
+      "level": 1,
+      "children": {
+        "Suspension sur ressorts à lames": {
+          "categoryId": null,
+          "categoryName": "Suspension sur ressorts à lames",
+          "level": 2,
+          "children": {
+            "Jumelle, main de ressort": {
+              "categoryId": 100810,
+              "categoryName": "Leaf Spring Suspension",
+              "level": 2,
+              "children": [],
+              "productId": 3178
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Suspension/Amortissement [ID: 100011] (Niveau 1)\n    └── Suspension sur ressorts à lames (Niveau 2)\n        └── Leaf Spring Suspension [ID: 100810] (Niveau 2) → ProductId: 3178",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Suspension sur ressorts à lames",
+        "Leaf Spring Suspension"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        100810
+      ],
+      "finalCategoryId": 100810,
+      "productId": 3178
+    }
+  ],
+  "productIdsInArbo": [
+    3178
+  ],
+  "matchedProductIds": [
+    3178
+  ]
+}

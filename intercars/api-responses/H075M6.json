@@ -1,0 +1,36 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H075M6",
+      "index": "ORIS400-046",
+      "tecDoc": "400-046",
+      "tecDocProd": "6102",
+      "articleNumber": "400-046",
+      "brand": "ORIS",
+      "shortDescription": "Tow hitch",
+      "description": "Electric towbar fits: BMW X3 (G01), X3 (G01, F97, G08), X4 (G02, F98) 08.17-",
+      "gtuCode": "GTU_07",
+      "customsCode": "87082990",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_61032",
+          "primary": false,
+          "name": {
+            "en": "Retrofit Kit, trailer hitch"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_39",
+          "primary": true,
+          "name": {
+            "en": "Tow hitch"
+          }
+        }
+      ]
+    }
+  ]
+}

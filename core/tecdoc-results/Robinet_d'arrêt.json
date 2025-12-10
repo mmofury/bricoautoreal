@@ -1,0 +1,54 @@
+{
+  "productName": "Robinet d'arrêt",
+  "searchText": "Robinet d'arrêt",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:10:25.783Z",
+  "productId": 377,
+  "arborescence": {
+    "Système pneumatique": {
+      "categoryId": 103168,
+      "categoryName": "Système pneumatique",
+      "level": 1,
+      "children": {
+        "Robinet d'arrêt / Robinet à plusieurs voies": {
+          "categoryId": null,
+          "categoryName": "Robinet d'arrêt / Robinet à plusieurs voies",
+          "level": 2,
+          "children": {
+            "Robinet d'arrêt": {
+              "categoryId": 103192,
+              "categoryName": "Shut-off Cock",
+              "level": 2,
+              "children": [],
+              "productId": 377
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système pneumatique [ID: 103168] (Niveau 1)\n    └── Robinet d'arrêt / Robinet à plusieurs voies (Niveau 2)\n        └── Shut-off Cock [ID: 103192] (Niveau 2) → ProductId: 377",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système pneumatique",
+        "Robinet d'arrêt / Robinet à plusieurs voies",
+        "Shut-off Cock"
+      ],
+      "categoryIds": [
+        103168,
+        null,
+        103192
+      ],
+      "finalCategoryId": 103192,
+      "productId": 377
+    }
+  ],
+  "productIdsInArbo": [
+    377
+  ],
+  "matchedProductIds": [
+    377
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G17RSR",
+      "index": "HP118 814",
+      "tecDoc": "118 814",
+      "tecDocProd": "301",
+      "articleNumber": "118 814",
+      "brand": "HANS PRIES",
+      "shortDescription": "Control Unit, fuel pump",
+      "description": "Fuel pump elements (fuel pump controller) fits: AUDI Q3, VW AMAROK, MULTIVAN T5, MULTIVAN T6, TIGUAN, TRANSPORTER T5, TRANSPORTER T6, TRANSPORTER T6 / CARAVELLE T6 1.4/2.0/2.5 09.07-",
+      "eans": [
+        "4063926490498"
+      ],
+      "packageWeight": "0,188",
+      "packageWidth": "9,000",
+      "packageDepth": "9,000",
+      "packageHeight": "5,500",
+      "customsCode": "84139100",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1111",
+          "primary": false,
+          "name": {
+            "en": "Relay, fuel pump"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_5763",
+          "primary": true,
+          "name": {
+            "en": "Control Unit, fuel pump"
+          }
+        }
+      ]
+    }
+  ]
+}

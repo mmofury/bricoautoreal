@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G11DJW",
+      "index": "400 0579 10",
+      "tecDoc": "400 0579 10",
+      "tecDocProd": "6",
+      "articleNumber": "400 0579 10",
+      "brand": "LUK",
+      "shortDescription": "Clutch service",
+      "description": "Clutch service",
+      "eans": [
+        "4014870521561"
+      ],
+      "packageWeight": "14,440",
+      "packageWidth": "48,000",
+      "packageDepth": "13,000",
+      "packageHeight": "38,000",
+      "customsCode": "82055980",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_8510",
+          "primary": false,
+          "name": {
+            "en": "Mounting Tool Set, transmission bearing"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91787",
+          "primary": true,
+          "name": {
+            "en": "Clutch service"
+          }
+        }
+      ]
+    }
+  ]
+}

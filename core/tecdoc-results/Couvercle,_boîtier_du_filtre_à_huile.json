@@ -1,0 +1,69 @@
+{
+  "productName": "Couvercle, boîtier du filtre à huile",
+  "searchText": "Couvercle, boîtier du filtre à huile",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:27:13.491Z",
+  "productId": 3323,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Lubrification": {
+          "categoryId": null,
+          "categoryName": "Lubrification",
+          "level": 2,
+          "children": {
+            "Couvercle, boîtier du filtre à huile": {
+              "categoryId": 100245,
+              "categoryName": "Lubrication",
+              "level": 2,
+              "children": {
+                "Boîtier de filtres à huile / joint": {
+                  "categoryId": null,
+                  "categoryName": "Boîtier de filtres à huile / joint",
+                  "level": 4,
+                  "children": {
+                    "Couvercle, boîtier du filtre à huile": {
+                      "categoryId": 100472,
+                      "categoryName": "Oil Filter Housing/Seal",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3323
+                    }
+                  }
+                }
+              },
+              "productId": 3323
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Lubrification (Niveau 2)\n        └── Lubrication [ID: 100245] (Niveau 2) → ProductId: 3323\n            └── Boîtier de filtres à huile / joint (Niveau 4)\n                └── Oil Filter Housing/Seal [ID: 100472] (Niveau 3) → ProductId: 3323",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Lubrification",
+        "Lubrication"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100245
+      ],
+      "finalCategoryId": 100245,
+      "productId": 3323
+    }
+  ],
+  "productIdsInArbo": [
+    3323
+  ],
+  "matchedProductIds": [
+    3323
+  ]
+}

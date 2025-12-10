@@ -1,0 +1,196 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.276Z",
+  "manufacturer": "FORD (JMC)",
+  "countGroups": 7,
+  "groups": [
+    {
+      "manufacturerId": 3656,
+      "manufacturerName": "FORD (JMC)",
+      "groupKey": "BRONCO",
+      "displayName": "BRONCO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45499,
+          "modelName": "BRONCO",
+          "modelYearFrom": "2024-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3656,
+      "manufacturerName": "FORD (JMC)",
+      "groupKey": "EQUATOR",
+      "displayName": "EQUATOR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41869,
+          "modelName": "EQUATOR",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42844,
+          "modelName": "EQUATOR SPORT",
+          "modelYearFrom": "2022-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3656,
+      "manufacturerName": "FORD (JMC)",
+      "groupKey": "EVEREST",
+      "displayName": "EVEREST",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14817,
+          "modelName": "EVEREST",
+          "modelYearFrom": "2015-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3656,
+      "manufacturerName": "FORD (JMC)",
+      "groupKey": "RANGER",
+      "displayName": "RANGER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45005,
+          "modelName": "RANGER",
+          "modelYearFrom": "2023-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3656,
+      "manufacturerName": "FORD (JMC)",
+      "groupKey": "TERRITORY",
+      "displayName": "TERRITORY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39310,
+          "modelName": "TERRITORY",
+          "modelYearFrom": "2019-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41897,
+          "modelName": "TERRITORY S",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3656,
+      "manufacturerName": "FORD (JMC)",
+      "groupKey": "TOURNEO",
+      "displayName": "TOURNEO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36767,
+          "modelName": "TOURNEO",
+          "modelYearFrom": "2016-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3656,
+      "manufacturerName": "FORD (JMC)",
+      "groupKey": "TRANSIT",
+      "displayName": "TRANSIT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9670,
+          "modelName": "TRANSIT Fourgon",
+          "modelYearFrom": "1998-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 9671,
+          "modelName": "TRANSIT Fourgon",
+          "modelYearFrom": "2008-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13741,
+          "modelName": "TRANSIT Autobus/Autocar",
+          "modelYearFrom": "2006-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 36963,
+          "modelName": "TRANSIT CLASSIC Autobus/Autocar",
+          "modelYearFrom": "2002-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37182,
+          "modelName": "TRANSIT Autobus/Autocar",
+          "modelYearFrom": "2016-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41046,
+          "modelName": "TRANSIT Fourgon",
+          "modelYearFrom": "2015-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41049,
+          "modelName": "TRANSIT Fourgon",
+          "modelYearFrom": "2016-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41764,
+          "modelName": "TRANSIT PRO Fourgon",
+          "modelYearFrom": "2020-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41765,
+          "modelName": "TRANSIT PRO Autobus/Autocar",
+          "modelYearFrom": "2020-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44370,
+          "modelName": "TRANSIT V362 Autobus/Autocar",
+          "modelYearFrom": "2023-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44371,
+          "modelName": "TRANSIT V362 Fourgon",
+          "modelYearFrom": "2023-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44854,
+          "modelName": "TRANSIT T8 Autobus/Autocar",
+          "modelYearFrom": "2023-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44855,
+          "modelName": "TRANSIT T8 Fourgon",
+          "modelYearFrom": "2023-10-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

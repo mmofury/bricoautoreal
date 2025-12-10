@@ -1,0 +1,87 @@
+{
+  "productName": "Kit réparation de câble, éclairage de coffre",
+  "searchText": "Kit réparation de câble, éclairage de coffre",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T21:10:47.230Z",
+  "productId": 8615,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Feux": {
+          "categoryId": null,
+          "categoryName": "Feux",
+          "level": 2,
+          "children": {
+            "Kit réparation de câble, éclairage de coffre": {
+              "categoryId": 100043,
+              "categoryName": "Lights",
+              "level": 2,
+              "children": {
+                "Éclairage intérieur": {
+                  "categoryId": null,
+                  "categoryName": "Éclairage intérieur",
+                  "level": 4,
+                  "children": {
+                    "Kit réparation de câble, éclairage de coffre": {
+                      "categoryId": 100292,
+                      "categoryName": "Interior Lights",
+                      "level": 3,
+                      "children": {
+                        "Éclairage du coffre / du compartiment de chargement": {
+                          "categoryId": null,
+                          "categoryName": "Éclairage du coffre / du compartiment de chargement",
+                          "level": 6,
+                          "children": {
+                            "Kit réparation de câble, éclairage de coffre": {
+                              "categoryId": 100507,
+                              "categoryName": "Boot-/Cargo Area Lights",
+                              "level": 4,
+                              "children": [],
+                              "productId": 8787
+                            }
+                          }
+                        }
+                      },
+                      "productId": 8787
+                    }
+                  }
+                }
+              },
+              "productId": 8787
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Feux (Niveau 2)\n        └── Lights [ID: 100043] (Niveau 2) → ProductId: 8787\n            └── Éclairage intérieur (Niveau 4)\n                └── Interior Lights [ID: 100292] (Niveau 3) → ProductId: 8787\n                    └── Éclairage du coffre / du compartiment de chargement (Niveau 6)\n                        └── Boot-/Cargo Area Lights [ID: 100507] (Niveau 4) → ProductId: 8787",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Lights"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100043
+      ],
+      "finalCategoryId": 100043,
+      "productId": 8787
+    }
+  ],
+  "productIdsInArbo": [
+    8787
+  ],
+  "closestProductIds": [
+    {
+      "productId": 8787,
+      "productName": "Kit réparation de câble, éclairage de coffre"
+    }
+  ]
+}

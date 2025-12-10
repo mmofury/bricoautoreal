@@ -1,0 +1,43 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H0VKS1",
+      "index": "CRE 12 000P",
+      "tecDoc": "CRE 12 000P",
+      "tecDocProd": "287",
+      "articleNumber": "CRE 12 000P",
+      "brand": "MAHLE",
+      "shortDescription": "Engine radiator",
+      "description": "Engine radiator fits: VOLVO C40, EX40, XC40, POLESTAR POLESTAR 2 Electric 11.20-",
+      "gtuCode": "GTU_07",
+      "eans": [
+        "4057635240017"
+      ],
+      "packageWeight": "4,200",
+      "packageWidth": "14,000",
+      "packageDepth": "147,000",
+      "packageHeight": "61,000",
+      "customsCode": "87089135",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_470",
+          "primary": true,
+          "name": {
+            "en": "Engine radiator"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_8555",
+          "primary": false,
+          "name": {
+            "en": "Radiator, electric motor"
+          }
+        }
+      ]
+    }
+  ]
+}

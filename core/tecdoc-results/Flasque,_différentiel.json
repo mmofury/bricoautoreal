@@ -1,0 +1,54 @@
+{
+  "productName": "Flasque, différentiel",
+  "searchText": "Flasque, différentiel",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:41:03.268Z",
+  "productId": 3700,
+  "arborescence": {
+    "Entraînement des essieux": {
+      "categoryId": 100400,
+      "categoryName": "Entraînement des essieux",
+      "level": 1,
+      "children": {
+        "Différentiel": {
+          "categoryId": null,
+          "categoryName": "Différentiel",
+          "level": 2,
+          "children": {
+            "Flasque, différentiel": {
+              "categoryId": 100415,
+              "categoryName": "Differential",
+              "level": 2,
+              "children": [],
+              "productId": 3700
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement des essieux [ID: 100400] (Niveau 1)\n    └── Différentiel (Niveau 2)\n        └── Differential [ID: 100415] (Niveau 2) → ProductId: 3700",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des essieux",
+        "Différentiel",
+        "Differential"
+      ],
+      "categoryIds": [
+        100400,
+        null,
+        100415
+      ],
+      "finalCategoryId": 100415,
+      "productId": 3700
+    }
+  ],
+  "productIdsInArbo": [
+    3700
+  ],
+  "matchedProductIds": [
+    3700
+  ]
+}

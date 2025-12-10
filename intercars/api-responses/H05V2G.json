@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H05V2G",
+      "index": "FE183900",
+      "tecDoc": "183900",
+      "tecDocProd": "101",
+      "articleNumber": "183900",
+      "brand": "FEBI",
+      "shortDescription": "Sensor, compressed-air system",
+      "description": "(number of pins 3) fits: MERCEDES ACTROS, ACTROS MP2 / MP3, ACTROS MP4 / MP5, AROCS, ATEGO, ATEGO 2, AXOR, AXOR 2, LK/LN2, MK, NG, SK, T2/L, UNIMOG 01.59-",
+      "customsCode": "85365019",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1231",
+          "primary": true,
+          "name": {
+            "en": "Sensor, compressed-air system"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_2441",
+          "primary": false,
+          "name": {
+            "en": "Repair Kit, air dryer"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_60804",
+          "primary": false,
+          "name": {
+            "en": "Level switch, condensation water level"
+          }
+        }
+      ]
+    }
+  ]
+}

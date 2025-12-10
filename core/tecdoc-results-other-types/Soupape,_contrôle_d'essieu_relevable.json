@@ -1,0 +1,64 @@
+{
+  "productName": "Soupape, contrôle d'essieu relevable",
+  "productId": 2052,
+  "searchText": "Soupape, contrôle d'essieu relevable",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Système pneumatique": {
+          "categoryId": 200059,
+          "categoryName": "Système pneumatique",
+          "level": 1,
+          "children": {
+            "Correcteur d'assiette / système hydraulique": {
+              "categoryId": null,
+              "categoryName": "Correcteur d'assiette / système hydraulique",
+              "level": 2,
+              "children": {
+                "Soupape, contrôle d'essieu relevable": {
+                  "categoryId": 200507,
+                  "categoryName": "Level Control/Lifting System",
+                  "level": 2,
+                  "children": {
+                    "Soupape à plusieurs voies, correcteur d'assiette": {
+                      "categoryId": null,
+                      "categoryName": "Soupape à plusieurs voies, correcteur d'assiette",
+                      "level": 4,
+                      "children": {
+                        "Soupape, contrôle d'essieu relevable": {
+                          "categoryId": 200564,
+                          "categoryName": "Directional Control Valve, level control",
+                          "level": 3,
+                          "children": [],
+                          "productId": 2052
+                        }
+                      }
+                    }
+                  },
+                  "productId": 2052
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système pneumatique [ID: 200059] (Niveau 1)\n    └── Correcteur d'assiette / système hydraulique (Niveau 2)\n        └── Level Control/Lifting System [ID: 200507] (Niveau 2) → ProductId: 2052\n            └── Soupape à plusieurs voies, correcteur d'assiette (Niveau 4)\n                └── Directional Control Valve, level control [ID: 200564] (Niveau 3) → ProductId: 2052",
+      "productIdsInArbo": [
+        2052
+      ],
+      "matchedProductIds": [
+        2052
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:31:51.141Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

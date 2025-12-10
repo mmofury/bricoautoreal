@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.254Z",
+  "manufacturer": "ENOVATE",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 5248,
+      "manufacturerName": "ENOVATE",
+      "groupKey": "ME5",
+      "displayName": "ME5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42136,
+          "modelName": "ME5",
+          "modelYearFrom": "2021-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5248,
+      "manufacturerName": "ENOVATE",
+      "groupKey": "ME7",
+      "displayName": "ME7",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39509,
+          "modelName": "ME7",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

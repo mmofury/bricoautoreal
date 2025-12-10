@@ -1,0 +1,358 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.435Z",
+  "manufacturer": "NISSAN (DFAC)",
+  "countGroups": 17,
+  "groups": [
+    {
+      "manufacturerId": 3141,
+      "manufacturerName": "NISSAN (DFAC)",
+      "groupKey": "ALTIMA",
+      "displayName": "ALTIMA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39211,
+          "modelName": "ALTIMA (L34Z)",
+          "modelYearFrom": "2018-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3141,
+      "manufacturerName": "NISSAN (DFAC)",
+      "groupKey": "ARIYA",
+      "displayName": "ARIYA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43626,
+          "modelName": "ARIYA",
+          "modelYearFrom": "2022-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3141,
+      "manufacturerName": "NISSAN (DFAC)",
+      "groupKey": "BLUEBIRD",
+      "displayName": "BLUEBIRD",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7977,
+          "modelName": "BLUEBIRD (G10)",
+          "modelYearFrom": "2000-04-01",
+          "modelYearTo": "2006-12-01"
+        },
+        {
+          "modelId": 8089,
+          "modelName": "BLUEBIRD SYLPHY / SYLPHY CLASSIC (G11)",
+          "modelYearFrom": "2005-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3141,
+      "manufacturerName": "NISSAN (DFAC)",
+      "groupKey": "GENISS",
+      "displayName": "GENISS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8091,
+          "modelName": "GENISS / LIVINA GENISS Monospace (L10_)",
+          "modelYearFrom": "2006-10-01",
+          "modelYearTo": "2010-01-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3141,
+      "manufacturerName": "NISSAN (DFAC)",
+      "groupKey": "KICKS",
+      "displayName": "KICKS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38096,
+          "modelName": "KICKS (P15)",
+          "modelYearFrom": "2017-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3141,
+      "manufacturerName": "NISSAN (DFAC)",
+      "groupKey": "LANNIA",
+      "displayName": "LANNIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14814,
+          "modelName": "LANNIA A trois volumes (U15)",
+          "modelYearFrom": "2015-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3141,
+      "manufacturerName": "NISSAN (DFAC)",
+      "groupKey": "LIVINA",
+      "displayName": "LIVINA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9848,
+          "modelName": "LIVINA Monospace (L11Z)",
+          "modelYearFrom": "2010-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 9849,
+          "modelName": "LIVINA C-GEAR (NL10Z)",
+          "modelYearFrom": "2008-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10077,
+          "modelName": "LIVINA Monospace (L10_)",
+          "modelYearFrom": "2007-04-01",
+          "modelYearTo": "2013-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3141,
+      "manufacturerName": "NISSAN (DFAC)",
+      "groupKey": "MARCH",
+      "displayName": "MARCH",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10657,
+          "modelName": "MARCH (K13)",
+          "modelYearFrom": "2010-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3141,
+      "manufacturerName": "NISSAN (DFAC)",
+      "groupKey": "MAXIMA",
+      "displayName": "MAXIMA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36736,
+          "modelName": "MAXIMA (A36)",
+          "modelYearFrom": "2016-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3141,
+      "manufacturerName": "NISSAN (DFAC)",
+      "groupKey": "MURANO",
+      "displayName": "MURANO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9847,
+          "modelName": "MURANO II (Z51)",
+          "modelYearFrom": "2011-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14614,
+          "modelName": "MURANO III (Z52)",
+          "modelYearFrom": "2015-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3141,
+      "manufacturerName": "NISSAN (DFAC)",
+      "groupKey": "PATHFINDER",
+      "displayName": "PATHFINDER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45291,
+          "modelName": "PATHFINDER",
+          "modelYearFrom": "2024-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3141,
+      "manufacturerName": "NISSAN (DFAC)",
+      "groupKey": "QASHQAI",
+      "displayName": "QASHQAI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8267,
+          "modelName": "QASHQAI (J10)",
+          "modelYearFrom": "2007-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38288,
+          "modelName": "QASHQAI (J11)",
+          "modelYearFrom": "2015-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44719,
+          "modelName": "QASHQAI (J12)",
+          "modelYearFrom": "2023-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3141,
+      "manufacturerName": "NISSAN (DFAC)",
+      "groupKey": "SUNNY",
+      "displayName": "SUNNY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7978,
+          "modelName": "SUNNY (N16)",
+          "modelYearFrom": "2003-06-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 9839,
+          "modelName": "SUNNY (N17)",
+          "modelYearFrom": "2010-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3141,
+      "manufacturerName": "NISSAN (DFAC)",
+      "groupKey": "SYLPHY",
+      "displayName": "SYLPHY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11147,
+          "modelName": "SYLPHY (B17)",
+          "modelYearFrom": "2012-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39688,
+          "modelName": "SYLPHY (B18)",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3141,
+      "manufacturerName": "NISSAN (DFAC)",
+      "groupKey": "TEANA",
+      "displayName": "TEANA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7976,
+          "modelName": "TEANA (J31)",
+          "modelYearFrom": "2004-09-01",
+          "modelYearTo": "2008-06-01"
+        },
+        {
+          "modelId": 9808,
+          "modelName": "TEANA (J32Z)",
+          "modelYearFrom": "2008-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38163,
+          "modelName": "TEANA (L33Z)",
+          "modelYearFrom": "2013-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3141,
+      "manufacturerName": "NISSAN (DFAC)",
+      "groupKey": "TIIDA",
+      "displayName": "TIIDA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8268,
+          "modelName": "TIIDA Berline bicorps trois ou cinq portes (C11)",
+          "modelYearFrom": "2005-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 8269,
+          "modelName": "TIIDA A trois volumes (C11)",
+          "modelYearFrom": "2005-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 9840,
+          "modelName": "TIIDA Berline bicorps trois ou cinq portes (C12)",
+          "modelYearFrom": "2011-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 36768,
+          "modelName": "TIIDA Berline bicorps trois ou cinq portes (C13Z)",
+          "modelYearFrom": "2016-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3141,
+      "manufacturerName": "NISSAN (DFAC)",
+      "groupKey": "X",
+      "displayName": "X",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8270,
+          "modelName": "X-TRAIL (T31)",
+          "modelYearFrom": "2008-11-01",
+          "modelYearTo": "2014-12-01"
+        },
+        {
+          "modelId": 36910,
+          "modelName": "X-TRAIL (T32)",
+          "modelYearFrom": "2014-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42204,
+          "modelName": "X-TRAIL (T33)",
+          "modelYearFrom": "2021-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42594,
+          "modelName": "X-TRAIL HONOR (T32)",
+          "modelYearFrom": "2021-12-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "D7C26A",
+      "index": "V25-72-1091",
+      "tecDoc": "V25-72-1091",
+      "tecDocProd": "183",
+      "articleNumber": "V25-72-1091",
+      "brand": "VEMO",
+      "shortDescription": "Sensor, engine speed",
+      "description": "Crankshaft position sensor fits: FORD FIESTA V, FUSION, LEXUS IS C, IS II, MITSUBISHI PAJERO IV, OPEL AGILA B, SUZUKI ALTO VII, GRAND VITARA I, GRAND VITARA II, IGNIS I, IGNIS II 1.0-4.7 01.94-",
+      "packageWeight": "0,033",
+      "packageWidth": "5,400",
+      "packageDepth": "6,700",
+      "packageHeight": "2,200",
+      "customsCode": "90328900",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4113",
+          "primary": false,
+          "name": {
+            "en": "RPM Sensor, automatic transmission"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_833",
+          "primary": false,
+          "name": {
+            "en": "Sensor, crankshaft pulse"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1402",
+          "primary": true,
+          "name": {
+            "en": "Sensor, engine speed"
+          }
+        }
+      ]
+    }
+  ]
+}

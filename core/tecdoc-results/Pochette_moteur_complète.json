@@ -1,0 +1,83 @@
+{
+  "productName": "Pochette moteur complète",
+  "searchText": "Pochette moteur complète",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T06:59:51.686Z",
+  "productId": 560,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Joints": {
+          "categoryId": null,
+          "categoryName": "Joints",
+          "level": 2,
+          "children": {
+            "Pochette moteur complète": {
+              "categoryId": 100223,
+              "categoryName": "Gaskets",
+              "level": 2,
+              "children": {
+                "Jeu de joints complet": {
+                  "categoryId": null,
+                  "categoryName": "Jeu de joints complet",
+                  "level": 4,
+                  "children": {
+                    "Pochette moteur complète": {
+                      "categoryId": 100224,
+                      "categoryName": "Full Gasket Set",
+                      "level": 3,
+                      "children": [],
+                      "productId": 560
+                    }
+                  }
+                },
+                "Joint du carter de moteur": {
+                  "categoryId": null,
+                  "categoryName": "Joint du carter de moteur",
+                  "level": 4,
+                  "children": {
+                    "Pochette moteur complète": {
+                      "categoryId": 100233,
+                      "categoryName": "Crankcase Gasket",
+                      "level": 3,
+                      "children": [],
+                      "productId": 560
+                    }
+                  }
+                }
+              },
+              "productId": 560
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Joints (Niveau 2)\n        └── Gaskets [ID: 100223] (Niveau 2) → ProductId: 560\n            ├── Jeu de joints complet (Niveau 4)\n            │   └── Full Gasket Set [ID: 100224] (Niveau 3) → ProductId: 560\n            └── Joint du carter de moteur (Niveau 4)\n                └── Crankcase Gasket [ID: 100233] (Niveau 3) → ProductId: 560",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Joints",
+        "Gaskets"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100223
+      ],
+      "finalCategoryId": 100223,
+      "productId": 560
+    }
+  ],
+  "productIdsInArbo": [
+    560
+  ],
+  "matchedProductIds": [
+    560
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "productName": "Relais, voyant liquide de refroidissement",
+  "searchText": "Relais, voyant liquide de refroidissement",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:08:26.371Z",
+  "productId": 4408,
+  "arborescence": {
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Relais": {
+          "categoryId": null,
+          "categoryName": "Relais",
+          "level": 2,
+          "children": {
+            "Relais, voyant liquide de refroidissement": {
+              "categoryId": 100344,
+              "categoryName": "Relay",
+              "level": 2,
+              "children": [],
+              "productId": 4408
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Relais": {
+          "categoryId": null,
+          "categoryName": "Relais",
+          "level": 2,
+          "children": {
+            "Relais, voyant liquide de refroidissement": {
+              "categoryId": 100785,
+              "categoryName": "Relay",
+              "level": 2,
+              "children": [],
+              "productId": 4408
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Refroidissement [ID: 100007] (Niveau 1)\n│   └── Relais (Niveau 2)\n│       └── Relay [ID: 100344] (Niveau 2) → ProductId: 4408\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Relais (Niveau 2)\n        └── Relay [ID: 100785] (Niveau 2) → ProductId: 4408",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Refroidissement",
+        "Relais",
+        "Relay"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100344
+      ],
+      "finalCategoryId": 100344,
+      "productId": 4408
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Relais",
+        "Relay"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100785
+      ],
+      "finalCategoryId": 100785,
+      "productId": 4408
+    }
+  ],
+  "productIdsInArbo": [
+    4408
+  ],
+  "matchedProductIds": [
+    4408
+  ]
+}

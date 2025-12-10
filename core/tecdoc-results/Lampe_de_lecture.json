@@ -1,0 +1,136 @@
+{
+  "productName": "Lampe de lecture",
+  "searchText": "Lampe de lecture",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:11:11.430Z",
+  "productId": 3483,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Feux": {
+          "categoryId": null,
+          "categoryName": "Feux",
+          "level": 2,
+          "children": {
+            "Ampoule, lampe de lecture": {
+              "categoryId": 100043,
+              "categoryName": "Lights",
+              "level": 2,
+              "children": {
+                "Éclairage intérieur": {
+                  "categoryId": null,
+                  "categoryName": "Éclairage intérieur",
+                  "level": 4,
+                  "children": {
+                    "Ampoule, lampe de lecture": {
+                      "categoryId": 100292,
+                      "categoryName": "Interior Lights",
+                      "level": 3,
+                      "children": {
+                        "Lampe de lecture": {
+                          "categoryId": null,
+                          "categoryName": "Lampe de lecture",
+                          "level": 6,
+                          "children": {
+                            "Ampoule, lampe de lecture": {
+                              "categoryId": 101803,
+                              "categoryName": "Reading Light",
+                              "level": 4,
+                              "children": [],
+                              "productId": 3004
+                            }
+                          }
+                        }
+                      },
+                      "productId": 3004
+                    }
+                  }
+                }
+              },
+              "productId": 3004
+            },
+            "Lampe de lecture": {
+              "categoryId": 100043,
+              "categoryName": "Lights",
+              "level": 2,
+              "children": {
+                "Éclairage intérieur": {
+                  "categoryId": null,
+                  "categoryName": "Éclairage intérieur",
+                  "level": 4,
+                  "children": {
+                    "Lampe de lecture": {
+                      "categoryId": 100292,
+                      "categoryName": "Interior Lights",
+                      "level": 3,
+                      "children": {
+                        "Lampe de lecture": {
+                          "categoryId": null,
+                          "categoryName": "Lampe de lecture",
+                          "level": 6,
+                          "children": {
+                            "Lampe de lecture": {
+                              "categoryId": 101803,
+                              "categoryName": "Reading Light",
+                              "level": 4,
+                              "children": [],
+                              "productId": 3483
+                            }
+                          }
+                        }
+                      },
+                      "productId": 3483
+                    }
+                  }
+                }
+              },
+              "productId": 3483
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Feux (Niveau 2)\n        ├── Lights [ID: 100043] (Niveau 2) → ProductId: 3004\n        │   └── Éclairage intérieur (Niveau 4)\n        │       └── Interior Lights [ID: 100292] (Niveau 3) → ProductId: 3004\n        │           └── Lampe de lecture (Niveau 6)\n        │               └── Reading Light [ID: 101803] (Niveau 4) → ProductId: 3004\n        └── Lights [ID: 100043] (Niveau 2) → ProductId: 3483\n            └── Éclairage intérieur (Niveau 4)\n                └── Interior Lights [ID: 100292] (Niveau 3) → ProductId: 3483\n                    └── Lampe de lecture (Niveau 6)\n                        └── Reading Light [ID: 101803] (Niveau 4) → ProductId: 3483",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Lights"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100043
+      ],
+      "finalCategoryId": 100043,
+      "productId": 3004
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Lights"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100043
+      ],
+      "finalCategoryId": 100043,
+      "productId": 3483
+    }
+  ],
+  "productIdsInArbo": [
+    3004,
+    3483
+  ],
+  "matchedProductIds": [
+    3483
+  ]
+}

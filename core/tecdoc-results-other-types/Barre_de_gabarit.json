@@ -1,0 +1,49 @@
+{
+  "productName": "Barre de gabarit",
+  "productId": 5094,
+  "searchText": "Barre de gabarit",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Cabine du conducteur/carrosserie": {
+          "categoryId": 200022,
+          "categoryName": "Cabine du conducteur/carrosserie",
+          "level": 1,
+          "children": {
+            "Pièces de montage / accessoires": {
+              "categoryId": null,
+              "categoryName": "Pièces de montage / accessoires",
+              "level": 2,
+              "children": {
+                "Barre de gabarit": {
+                  "categoryId": 200118,
+                  "categoryName": "Extras/ Accessories",
+                  "level": 2,
+                  "children": [],
+                  "productId": 5094
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Cabine du conducteur/carrosserie [ID: 200022] (Niveau 1)\n    └── Pièces de montage / accessoires (Niveau 2)\n        └── Extras/ Accessories [ID: 200118] (Niveau 2) → ProductId: 5094",
+      "productIdsInArbo": [
+        5094
+      ],
+      "matchedProductIds": [
+        5094
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T09:56:15.886Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

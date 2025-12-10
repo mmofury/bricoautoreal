@@ -1,0 +1,167 @@
+{
+  "productName": "Relais, système d'alarme",
+  "searchText": "Relais, système d'alarme",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:08:16.162Z",
+  "productId": 828,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Relais": {
+          "categoryId": null,
+          "categoryName": "Relais",
+          "level": 2,
+          "children": {
+            "Relais, système d'alarme": {
+              "categoryId": 100785,
+              "categoryName": "Relay",
+              "level": 2,
+              "children": [],
+              "productId": 828
+            }
+          }
+        }
+      }
+    },
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Moteur / Relais": {
+          "categoryId": null,
+          "categoryName": "Moteur / Relais",
+          "level": 2,
+          "children": {
+            "Relais, système d'alarme": {
+              "categoryId": 104156,
+              "categoryName": "Motor/Relay/Switch",
+              "level": 2,
+              "children": {
+                "Système d'alarme": {
+                  "categoryId": null,
+                  "categoryName": "Système d'alarme",
+                  "level": 4,
+                  "children": {
+                    "Relais, système d'alarme": {
+                      "categoryId": 104166,
+                      "categoryName": "Alarm",
+                      "level": 3,
+                      "children": [],
+                      "productId": 828
+                    }
+                  }
+                }
+              },
+              "productId": 828
+            }
+          }
+        },
+        "Système d'alarme": {
+          "categoryId": null,
+          "categoryName": "Système d'alarme",
+          "level": 2,
+          "children": {
+            "Relais, système d'alarme": {
+              "categoryId": 100619,
+              "categoryName": "Alarm System",
+              "level": 2,
+              "children": [],
+              "productId": 828
+            }
+          }
+        }
+      }
+    },
+    "Systèmes de sécurité": {
+      "categoryId": 100417,
+      "categoryName": "Systèmes de sécurité",
+      "level": 1,
+      "children": {
+        "Système d'alarme": {
+          "categoryId": null,
+          "categoryName": "Système d'alarme",
+          "level": 2,
+          "children": {
+            "Relais, système d'alarme": {
+              "categoryId": 100419,
+              "categoryName": "Alarm System",
+              "level": 2,
+              "children": [],
+              "productId": 828
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Système électrique [ID: 100010] (Niveau 1)\n│   └── Relais (Niveau 2)\n│       └── Relay [ID: 100785] (Niveau 2) → ProductId: 828\n\n├── Systèmes de confort [ID: 100335] (Niveau 1)\n│   ├── Moteur / Relais (Niveau 2)\n│   │   └── Motor/Relay/Switch [ID: 104156] (Niveau 2) → ProductId: 828\n│   │       └── Système d'alarme (Niveau 4)\n│   │           └── Alarm [ID: 104166] (Niveau 3) → ProductId: 828\n│   └── Système d'alarme (Niveau 2)\n│       └── Alarm System [ID: 100619] (Niveau 2) → ProductId: 828\n\n└── Systèmes de sécurité [ID: 100417] (Niveau 1)\n    └── Système d'alarme (Niveau 2)\n        └── Alarm System [ID: 100419] (Niveau 2) → ProductId: 828",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Relais",
+        "Relay"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100785
+      ],
+      "finalCategoryId": 100785,
+      "productId": 828
+    },
+    {
+      "path": [
+        "Systèmes de confort",
+        "Moteur / Relais",
+        "Motor/Relay/Switch"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        104156
+      ],
+      "finalCategoryId": 104156,
+      "productId": 828
+    },
+    {
+      "path": [
+        "Systèmes de confort",
+        "Système d'alarme",
+        "Alarm System"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        100619
+      ],
+      "finalCategoryId": 100619,
+      "productId": 828
+    },
+    {
+      "path": [
+        "Systèmes de sécurité",
+        "Système d'alarme",
+        "Alarm System"
+      ],
+      "categoryIds": [
+        100417,
+        null,
+        100419
+      ],
+      "finalCategoryId": 100419,
+      "productId": 828
+    }
+  ],
+  "productIdsInArbo": [
+    828
+  ],
+  "matchedProductIds": [
+    828
+  ]
+}

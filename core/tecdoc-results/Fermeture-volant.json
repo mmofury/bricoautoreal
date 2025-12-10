@@ -1,0 +1,90 @@
+{
+  "productName": "Fermeture-volant",
+  "searchText": "Fermeture-volant",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:38:12.454Z",
+  "productId": 1367,
+  "arborescence": {
+    "Équipement intérieur": {
+      "categoryId": 100341,
+      "categoryName": "Équipement intérieur",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Outil déverrouillage, cache du verrou de volant": {
+              "categoryId": 105405,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 8852
+            }
+          }
+        }
+      }
+    },
+    "Verrouillage": {
+      "categoryId": 100685,
+      "categoryName": "Verrouillage",
+      "level": 1,
+      "children": {
+        "Serrure intérieure": {
+          "categoryId": null,
+          "categoryName": "Serrure intérieure",
+          "level": 2,
+          "children": {
+            "Fermeture-volant": {
+              "categoryId": 100688,
+              "categoryName": "Interior Locks",
+              "level": 2,
+              "children": [],
+              "productId": 1367
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Équipement intérieur [ID: 100341] (Niveau 1)\n│   └── Outils (Niveau 2)\n│       └── Tools [ID: 105405] (Niveau 2) → ProductId: 8852\n\n└── Verrouillage [ID: 100685] (Niveau 1)\n    └── Serrure intérieure (Niveau 2)\n        └── Interior Locks [ID: 100688] (Niveau 2) → ProductId: 1367",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Équipement intérieur",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        105405
+      ],
+      "finalCategoryId": 105405,
+      "productId": 8852
+    },
+    {
+      "path": [
+        "Verrouillage",
+        "Serrure intérieure",
+        "Interior Locks"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100688
+      ],
+      "finalCategoryId": 100688,
+      "productId": 1367
+    }
+  ],
+  "productIdsInArbo": [
+    1367,
+    8852
+  ],
+  "matchedProductIds": [
+    1367
+  ]
+}

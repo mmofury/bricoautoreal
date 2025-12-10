@@ -1,0 +1,54 @@
+{
+  "productName": "Kit de bagues d'étanchéité, embrayage",
+  "searchText": "Kit de bagues d'étanchéité, embrayage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:58:39.236Z",
+  "productId": 3878,
+  "arborescence": {
+    "Embrayage / composants": {
+      "categoryId": 100050,
+      "categoryName": "Embrayage / composants",
+      "level": 1,
+      "children": {
+        "Joints/Kits de joints": {
+          "categoryId": null,
+          "categoryName": "Joints/Kits de joints",
+          "level": 2,
+          "children": {
+            "Kit de bagues d'étanchéité, embrayage": {
+              "categoryId": 102784,
+              "categoryName": "Gaskets/Gasket Sets",
+              "level": 2,
+              "children": [],
+              "productId": 3878
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Embrayage / composants [ID: 100050] (Niveau 1)\n    └── Joints/Kits de joints (Niveau 2)\n        └── Gaskets/Gasket Sets [ID: 102784] (Niveau 2) → ProductId: 3878",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Embrayage / composants",
+        "Joints/Kits de joints",
+        "Gaskets/Gasket Sets"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        102784
+      ],
+      "finalCategoryId": 102784,
+      "productId": 3878
+    }
+  ],
+  "productIdsInArbo": [
+    3878
+  ],
+  "matchedProductIds": [
+    3878
+  ]
+}

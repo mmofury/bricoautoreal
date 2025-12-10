@@ -1,0 +1,214 @@
+{
+  "productName": "Ampoule, projecteur principal",
+  "searchText": "Ampoule, projecteur principal",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T18:50:37.125Z",
+  "productId": 107,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Avant du véhicule": {
+          "categoryId": null,
+          "categoryName": "Avant du véhicule",
+          "level": 2,
+          "children": {
+            "Ampoule, projecteur principal": {
+              "categoryId": 101648,
+              "categoryName": "Vehicle Front",
+              "level": 2,
+              "children": {
+                "Projecteurs principaux / composants": {
+                  "categoryId": null,
+                  "categoryName": "Projecteurs principaux / composants",
+                  "level": 4,
+                  "children": {
+                    "Ampoule, projecteur principal": {
+                      "categoryId": 101656,
+                      "categoryName": "Headlight/Parts",
+                      "level": 3,
+                      "children": {
+                        "Ampoule pour projecteur principal": {
+                          "categoryId": null,
+                          "categoryName": "Ampoule pour projecteur principal",
+                          "level": 6,
+                          "children": {
+                            "Ampoule, projecteur principal": {
+                              "categoryId": 101658,
+                              "categoryName": "Headlight Bulb",
+                              "level": 4,
+                              "children": [],
+                              "productId": 107
+                            }
+                          }
+                        }
+                      },
+                      "productId": 107
+                    }
+                  }
+                }
+              },
+              "productId": 107
+            }
+          }
+        },
+        "Projecteurs principaux / composants": {
+          "categoryId": null,
+          "categoryName": "Projecteurs principaux / composants",
+          "level": 2,
+          "children": {
+            "Ampoule, projecteur principal": {
+              "categoryId": 101465,
+              "categoryName": "Headlight/Parts",
+              "level": 2,
+              "children": {
+                "Ampoule pour projecteur principal": {
+                  "categoryId": null,
+                  "categoryName": "Ampoule pour projecteur principal",
+                  "level": 4,
+                  "children": {
+                    "Ampoule, projecteur principal": {
+                      "categoryId": 101467,
+                      "categoryName": "Headlight Bulb",
+                      "level": 3,
+                      "children": [],
+                      "productId": 107
+                    }
+                  }
+                }
+              },
+              "productId": 107
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Projecteurs principaux / composants": {
+          "categoryId": null,
+          "categoryName": "Projecteurs principaux / composants",
+          "level": 2,
+          "children": {
+            "Ampoule, projecteur principal": {
+              "categoryId": 100143,
+              "categoryName": "Headlight/Parts",
+              "level": 2,
+              "children": {
+                "Ampoule pour projecteur principal": {
+                  "categoryId": null,
+                  "categoryName": "Ampoule pour projecteur principal",
+                  "level": 4,
+                  "children": {
+                    "Ampoule, projecteur principal": {
+                      "categoryId": 100427,
+                      "categoryName": "Headlight Bulb",
+                      "level": 3,
+                      "children": [],
+                      "productId": 107
+                    }
+                  }
+                }
+              },
+              "productId": 107
+            },
+            "Ressort de retenue, ampoule (phare principal)": {
+              "categoryId": 100143,
+              "categoryName": "Headlight/Parts",
+              "level": 2,
+              "children": {
+                "Ampoule pour projecteur principal": {
+                  "categoryId": null,
+                  "categoryName": "Ampoule pour projecteur principal",
+                  "level": 4,
+                  "children": {
+                    "Ressort de retenue, ampoule (phare principal)": {
+                      "categoryId": 100427,
+                      "categoryName": "Headlight Bulb",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60582
+                    }
+                  }
+                }
+              },
+              "productId": 60582
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carrosserie [ID: 100001] (Niveau 1)\n│   ├── Avant du véhicule (Niveau 2)\n│   │   └── Vehicle Front [ID: 101648] (Niveau 2) → ProductId: 107\n│   │       └── Projecteurs principaux / composants (Niveau 4)\n│   │           └── Headlight/Parts [ID: 101656] (Niveau 3) → ProductId: 107\n│   │               └── Ampoule pour projecteur principal (Niveau 6)\n│   │                   └── Headlight Bulb [ID: 101658] (Niveau 4) → ProductId: 107\n│   └── Projecteurs principaux / composants (Niveau 2)\n│       └── Headlight/Parts [ID: 101465] (Niveau 2) → ProductId: 107\n│           └── Ampoule pour projecteur principal (Niveau 4)\n│               └── Headlight Bulb [ID: 101467] (Niveau 3) → ProductId: 107\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Projecteurs principaux / composants (Niveau 2)\n        ├── Headlight/Parts [ID: 100143] (Niveau 2) → ProductId: 107\n        │   └── Ampoule pour projecteur principal (Niveau 4)\n        │       └── Headlight Bulb [ID: 100427] (Niveau 3) → ProductId: 107\n        └── Headlight/Parts [ID: 100143] (Niveau 2) → ProductId: 60582\n            └── Ampoule pour projecteur principal (Niveau 4)\n                └── Headlight Bulb [ID: 100427] (Niveau 3) → ProductId: 60582",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Avant du véhicule",
+        "Vehicle Front"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101648
+      ],
+      "finalCategoryId": 101648,
+      "productId": 107
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Projecteurs principaux / composants",
+        "Headlight/Parts"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101465
+      ],
+      "finalCategoryId": 101465,
+      "productId": 107
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Projecteurs principaux / composants",
+        "Headlight/Parts"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100143
+      ],
+      "finalCategoryId": 100143,
+      "productId": 107
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Projecteurs principaux / composants",
+        "Headlight/Parts"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100143
+      ],
+      "finalCategoryId": 100143,
+      "productId": 60582
+    }
+  ],
+  "productIdsInArbo": [
+    107,
+    60582
+  ],
+  "matchedProductIds": [
+    107
+  ]
+}

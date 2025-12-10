@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "F48D48",
+      "index": "IMP37986",
+      "tecDoc": "37986",
+      "tecDocProd": "331",
+      "articleNumber": "37986",
+      "brand": "IMPERGOM",
+      "shortDescription": "Repair Kit, axle beam",
+      "description": "Rear track control arm silent block L/R (rear) fits: AUDI A6 C5, A6 C6, SKODA SUPERB I, VW PASSAT B5, PASSAT B5.5 1.6-4.2 08.96-08.11",
+      "customsCode": "40169952",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1281",
+          "primary": true,
+          "name": {
+            "en": "Repair Kit, axle beam"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1080",
+          "primary": false,
+          "name": {
+            "en": "Bushing, axle beam"
+          }
+        }
+      ]
+    }
+  ]
+}

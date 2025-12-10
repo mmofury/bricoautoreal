@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "ED3D40",
+      "index": "423 109 013 0",
+      "tecDoc": "4231090130",
+      "tecDocProd": "22",
+      "articleNumber": "4231090130",
+      "brand": "WABCO",
+      "shortDescription": "Wheel brake cylinder",
+      "description": "Brake servo-motor front (27, stroke: 65mm, M16x1,5mm, 247, drum) fits: RVI, SCANIA, VOLVO",
+      "gtuCode": "GTU_07",
+      "eans": [
+        "4057875164722"
+      ],
+      "customsCode": "87083099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_277",
+          "primary": true,
+          "name": {
+            "en": "Wheel brake cylinder"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_359",
+          "primary": false,
+          "name": {
+            "en": "Diaphragm Brake Cylinder"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "ABC7E2",
+      "index": "F 026 T03 002",
+      "tecDoc": "F 026 T03 002",
+      "tecDocProd": "30",
+      "articleNumber": "F 026 T03 002",
+      "brand": "BOSCH",
+      "shortDescription": "Electric motor",
+      "description": "Fuel pressure regulation valve",
+      "eans": [
+        "4047023216847"
+      ],
+      "packageWeight": "0,234",
+      "packageWidth": "5,200",
+      "packageDepth": "9,400",
+      "packageHeight": "5,100",
+      "customsCode": "84811099",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_2273",
+          "primary": true,
+          "name": {
+            "en": "Electric motor"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_60415",
+          "primary": false,
+          "name": {
+            "en": "Adapter Kit, fuel pressure regulator"
+          }
+        }
+      ]
+    }
+  ]
+}

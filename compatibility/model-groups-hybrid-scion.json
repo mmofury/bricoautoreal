@@ -1,0 +1,139 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.477Z",
+  "manufacturer": "SCION",
+  "countGroups": 8,
+  "groups": [
+    {
+      "manufacturerId": 2714,
+      "manufacturerName": "SCION",
+      "groupKey": "FR",
+      "displayName": "FR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10249,
+          "modelName": "FR-S Coupé",
+          "modelYearFrom": "2011-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2714,
+      "manufacturerName": "SCION",
+      "groupKey": "IA",
+      "displayName": "IA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14677,
+          "modelName": "iA",
+          "modelYearFrom": "2015-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2714,
+      "manufacturerName": "SCION",
+      "groupKey": "IM",
+      "displayName": "IM",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14577,
+          "modelName": "iM Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2015-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2714,
+      "manufacturerName": "SCION",
+      "groupKey": "IQ",
+      "displayName": "IQ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36181,
+          "modelName": "iQ Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2011-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2714,
+      "manufacturerName": "SCION",
+      "groupKey": "TC",
+      "displayName": "TC",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10413,
+          "modelName": "tC Coupé",
+          "modelYearFrom": "2009-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 33799,
+          "modelName": "tC Coupé",
+          "modelYearFrom": "2004-09-01",
+          "modelYearTo": "2010-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2714,
+      "manufacturerName": "SCION",
+      "groupKey": "XA",
+      "displayName": "XA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33801,
+          "modelName": "xA Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2003-09-01",
+          "modelYearTo": "2006-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2714,
+      "manufacturerName": "SCION",
+      "groupKey": "XB",
+      "displayName": "XB",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11099,
+          "modelName": "xB Monospace",
+          "modelYearFrom": "2006-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 33802,
+          "modelName": "xB Monospace",
+          "modelYearFrom": "2003-09-01",
+          "modelYearTo": "2006-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2714,
+      "manufacturerName": "SCION",
+      "groupKey": "XD",
+      "displayName": "XD",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 35884,
+          "modelName": "xD Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2007-09-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

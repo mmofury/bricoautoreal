@@ -1,0 +1,112 @@
+{
+  "productName": "Récupérateur d'huile",
+  "searchText": "Récupérateur d'huile",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-03T07:13:13.380Z",
+  "productId": 5315,
+  "arborescence": {
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Boîte de vitesses manuelle": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesses manuelle",
+          "level": 2,
+          "children": {
+            "Collecteur d’huile, boîte de vitesses": {
+              "categoryId": 100239,
+              "categoryName": "Manual Transmission",
+              "level": 2,
+              "children": {
+                "Carter/composants": {
+                  "categoryId": null,
+                  "categoryName": "Carter/composants",
+                  "level": 4,
+                  "children": {
+                    "Collecteur d’huile, boîte de vitesses": {
+                      "categoryId": 100774,
+                      "categoryName": "Transmission Housing/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60489
+                    }
+                  }
+                }
+              },
+              "productId": 60489
+            }
+          }
+        }
+      }
+    },
+    "Entraînement des essieux": {
+      "categoryId": 100400,
+      "categoryName": "Entraînement des essieux",
+      "level": 1,
+      "children": {
+        "Différentiel": {
+          "categoryId": null,
+          "categoryName": "Différentiel",
+          "level": 2,
+          "children": {
+            "Récupérateur d'huile, différentiel": {
+              "categoryId": 100415,
+              "categoryName": "Differential",
+              "level": 2,
+              "children": [],
+              "productId": 5121
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Boîte de vitesses [ID: 100238] (Niveau 1)\n│   └── Boîte de vitesses manuelle (Niveau 2)\n│       └── Manual Transmission [ID: 100239] (Niveau 2) → ProductId: 60489\n│           └── Carter/composants (Niveau 4)\n│               └── Transmission Housing/Parts [ID: 100774] (Niveau 3) → ProductId: 60489\n\n└── Entraînement des essieux [ID: 100400] (Niveau 1)\n    └── Différentiel (Niveau 2)\n        └── Differential [ID: 100415] (Niveau 2) → ProductId: 5121",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesses manuelle",
+        "Manual Transmission"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        100239
+      ],
+      "finalCategoryId": 100239,
+      "productId": 60489
+    },
+    {
+      "path": [
+        "Entraînement des essieux",
+        "Différentiel",
+        "Differential"
+      ],
+      "categoryIds": [
+        100400,
+        null,
+        100415
+      ],
+      "finalCategoryId": 100415,
+      "productId": 5121
+    }
+  ],
+  "productIdsInArbo": [
+    5121,
+    60489
+  ],
+  "closestProductIds": [
+    {
+      "productId": 5121,
+      "productName": "Récupérateur d'huile, différentiel"
+    },
+    {
+      "productId": 60489,
+      "productName": "Collecteur d’huile, boîte de vitesses"
+    }
+  ]
+}

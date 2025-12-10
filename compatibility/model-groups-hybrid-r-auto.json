@@ -1,0 +1,67 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.458Z",
+  "manufacturer": "R AUTO",
+  "countGroups": 4,
+  "groups": [
+    {
+      "manufacturerId": 6067,
+      "manufacturerName": "R AUTO",
+      "groupKey": "ER6",
+      "displayName": "ER6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42470,
+          "modelName": "ER6",
+          "modelYearFrom": "2020-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6067,
+      "manufacturerName": "R AUTO",
+      "groupKey": "F7",
+      "displayName": "F7",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44146,
+          "modelName": "F7",
+          "modelYearFrom": "2023-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6067,
+      "manufacturerName": "R AUTO",
+      "groupKey": "MARVEL",
+      "displayName": "MARVEL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41871,
+          "modelName": "MARVEL R",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6067,
+      "manufacturerName": "R AUTO",
+      "groupKey": "R7",
+      "displayName": "R7",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43624,
+          "modelName": "R7",
+          "modelYearFrom": "2022-09-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Jeu de serrures, verrouillage",
+  "searchText": "Jeu de serrures, verrouillage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:51:21.691Z",
+  "productId": 1372,
+  "arborescence": {
+    "Verrouillage": {
+      "categoryId": 100685,
+      "categoryName": "Verrouillage",
+      "level": 1,
+      "children": {
+        "Kit de verrous": {
+          "categoryId": null,
+          "categoryName": "Kit de verrous",
+          "level": 2,
+          "children": {
+            "Jeu de serrures, verrouillage": {
+              "categoryId": 100689,
+              "categoryName": "Lock Set",
+              "level": 2,
+              "children": [],
+              "productId": 1372
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Verrouillage [ID: 100685] (Niveau 1)\n    └── Kit de verrous (Niveau 2)\n        └── Lock Set [ID: 100689] (Niveau 2) → ProductId: 1372",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Verrouillage",
+        "Kit de verrous",
+        "Lock Set"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100689
+      ],
+      "finalCategoryId": 100689,
+      "productId": 1372
+    }
+  ],
+  "productIdsInArbo": [
+    1372
+  ],
+  "matchedProductIds": [
+    1372
+  ]
+}

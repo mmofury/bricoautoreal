@@ -1,0 +1,147 @@
+{
+  "productName": "Butée élastique, cache moteur",
+  "searchText": "Butée élastique, cache moteur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:12:40.028Z",
+  "productId": 4261,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Arrière de la voiture": {
+          "categoryId": null,
+          "categoryName": "Arrière de la voiture",
+          "level": 2,
+          "children": {
+            "Butée élastique, cache moteur": {
+              "categoryId": 101705,
+              "categoryName": "Vehicle Rear",
+              "level": 2,
+              "children": {
+                "Cache moteur": {
+                  "categoryId": null,
+                  "categoryName": "Cache moteur",
+                  "level": 4,
+                  "children": {
+                    "Butée élastique, cache moteur": {
+                      "categoryId": 103036,
+                      "categoryName": "Engine Cover",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4261
+                    }
+                  }
+                }
+              },
+              "productId": 4261
+            }
+          }
+        },
+        "Avant du véhicule": {
+          "categoryId": null,
+          "categoryName": "Avant du véhicule",
+          "level": 2,
+          "children": {
+            "Butée élastique, cache moteur": {
+              "categoryId": 101648,
+              "categoryName": "Vehicle Front",
+              "level": 2,
+              "children": {
+                "Cache moteur": {
+                  "categoryId": null,
+                  "categoryName": "Cache moteur",
+                  "level": 4,
+                  "children": {
+                    "Butée élastique, cache moteur": {
+                      "categoryId": 103035,
+                      "categoryName": "Engine Cover",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4261
+                    }
+                  }
+                }
+              },
+              "productId": 4261
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Cache moteur": {
+          "categoryId": null,
+          "categoryName": "Cache moteur",
+          "level": 2,
+          "children": {
+            "Butée élastique, cache moteur": {
+              "categoryId": 103037,
+              "categoryName": "Engine Cover",
+              "level": 2,
+              "children": [],
+              "productId": 4261
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carrosserie [ID: 100001] (Niveau 1)\n│   ├── Arrière de la voiture (Niveau 2)\n│   │   └── Vehicle Rear [ID: 101705] (Niveau 2) → ProductId: 4261\n│   │       └── Cache moteur (Niveau 4)\n│   │           └── Engine Cover [ID: 103036] (Niveau 3) → ProductId: 4261\n│   └── Avant du véhicule (Niveau 2)\n│       └── Vehicle Front [ID: 101648] (Niveau 2) → ProductId: 4261\n│           └── Cache moteur (Niveau 4)\n│               └── Engine Cover [ID: 103035] (Niveau 3) → ProductId: 4261\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Cache moteur (Niveau 2)\n        └── Engine Cover [ID: 103037] (Niveau 2) → ProductId: 4261",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Vehicle Rear"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101705
+      ],
+      "finalCategoryId": 101705,
+      "productId": 4261
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Avant du véhicule",
+        "Vehicle Front"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101648
+      ],
+      "finalCategoryId": 101648,
+      "productId": 4261
+    },
+    {
+      "path": [
+        "Moteur",
+        "Cache moteur",
+        "Engine Cover"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        103037
+      ],
+      "finalCategoryId": 103037,
+      "productId": 4261
+    }
+  ],
+  "productIdsInArbo": [
+    4261
+  ],
+  "matchedProductIds": [
+    4261
+  ]
+}

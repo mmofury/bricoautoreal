@@ -1,0 +1,54 @@
+{
+  "productName": "Goupille de verrouillage, serrure de porte",
+  "searchText": "Goupille de verrouillage, serrure de porte",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:43:25.200Z",
+  "productId": 60088,
+  "arborescence": {
+    "Verrouillage": {
+      "categoryId": 100685,
+      "categoryName": "Verrouillage",
+      "level": 1,
+      "children": {
+        "Serrure extérieure": {
+          "categoryId": null,
+          "categoryName": "Serrure extérieure",
+          "level": 2,
+          "children": {
+            "Goupille de verrouillage, serrure de porte": {
+              "categoryId": 100687,
+              "categoryName": "Exterior Locks",
+              "level": 2,
+              "children": [],
+              "productId": 60088
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Verrouillage [ID: 100685] (Niveau 1)\n    └── Serrure extérieure (Niveau 2)\n        └── Exterior Locks [ID: 100687] (Niveau 2) → ProductId: 60088",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Verrouillage",
+        "Serrure extérieure",
+        "Exterior Locks"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100687
+      ],
+      "finalCategoryId": 100687,
+      "productId": 60088
+    }
+  ],
+  "productIdsInArbo": [
+    60088
+  ],
+  "matchedProductIds": [
+    60088
+  ]
+}

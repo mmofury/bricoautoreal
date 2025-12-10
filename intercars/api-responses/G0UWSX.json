@@ -1,0 +1,49 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G0UWSX",
+      "index": "HP503 850",
+      "tecDoc": "503 850",
+      "tecDocProd": "301",
+      "articleNumber": "503 850",
+      "brand": "HANS PRIES",
+      "shortDescription": "Wiper Gear, window cleaning",
+      "description": "Windscreen wiper mechanism rear fits: BMW 3 (E91), 5 (E61) 03.04-12.12",
+      "eans": [
+        "4063926389860"
+      ],
+      "packageWeight": "0,196",
+      "packageWidth": "9,000",
+      "packageDepth": "12,000",
+      "packageHeight": "9,000",
+      "customsCode": "85129090",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_302",
+          "primary": false,
+          "name": {
+            "en": "Wiper Bearing"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_5883",
+          "primary": false,
+          "name": {
+            "en": "Switch, tailgate release"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_242",
+          "primary": true,
+          "name": {
+            "en": "Wiper Gear, window cleaning"
+          }
+        }
+      ]
+    }
+  ]
+}

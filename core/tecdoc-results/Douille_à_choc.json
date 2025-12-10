@@ -1,0 +1,57 @@
+{
+  "productName": "Douille à choc",
+  "searchText": "Douille à choc",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T20:33:58.379Z",
+  "productId": 4744,
+  "arborescence": {
+    "Entraînement des roues": {
+      "categoryId": 100014,
+      "categoryName": "Entraînement des roues",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Douille à choc, arbre d'entraînement": {
+              "categoryId": 103161,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 8881
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement des roues [ID: 100014] (Niveau 1)\n    └── Outils (Niveau 2)\n        └── Tools [ID: 103161] (Niveau 2) → ProductId: 8881",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des roues",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100014,
+        null,
+        103161
+      ],
+      "finalCategoryId": 103161,
+      "productId": 8881
+    }
+  ],
+  "productIdsInArbo": [
+    8881
+  ],
+  "closestProductIds": [
+    {
+      "productId": 8881,
+      "productName": "Douille à choc, arbre d'entraînement"
+    }
+  ]
+}

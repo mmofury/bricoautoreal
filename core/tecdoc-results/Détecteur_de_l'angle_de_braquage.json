@@ -1,0 +1,89 @@
+{
+  "productName": "Détecteur de l'angle de braquage",
+  "searchText": "Détecteur de l'angle de braquage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:35:15.635Z",
+  "productId": 3252,
+  "arborescence": {
+    "Direction": {
+      "categoryId": 100012,
+      "categoryName": "Direction",
+      "level": 1,
+      "children": {
+        "Détecteur de l'angle de braquage": {
+          "categoryId": null,
+          "categoryName": "Détecteur de l'angle de braquage",
+          "level": 2,
+          "children": {
+            "Détecteur de l'angle de braquage": {
+              "categoryId": 102073,
+              "categoryName": "Steering Angle Sensor",
+              "level": 2,
+              "children": [],
+              "productId": 3252
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Capteurs": {
+          "categoryId": null,
+          "categoryName": "Capteurs",
+          "level": 2,
+          "children": {
+            "Détecteur de l'angle de braquage": {
+              "categoryId": 102747,
+              "categoryName": "Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 3252
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Direction [ID: 100012] (Niveau 1)\n│   └── Détecteur de l'angle de braquage (Niveau 2)\n│       └── Steering Angle Sensor [ID: 102073] (Niveau 2) → ProductId: 3252\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Capteurs (Niveau 2)\n        └── Sensors [ID: 102747] (Niveau 2) → ProductId: 3252",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Direction",
+        "Détecteur de l'angle de braquage",
+        "Steering Angle Sensor"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        102073
+      ],
+      "finalCategoryId": 102073,
+      "productId": 3252
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Capteurs",
+        "Sensors"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        102747
+      ],
+      "finalCategoryId": 102747,
+      "productId": 3252
+    }
+  ],
+  "productIdsInArbo": [
+    3252
+  ],
+  "matchedProductIds": [
+    3252
+  ]
+}

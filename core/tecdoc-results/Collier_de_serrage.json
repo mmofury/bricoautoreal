@@ -1,0 +1,72 @@
+{
+  "productName": "Collier de serrage",
+  "searchText": "Collier de serrage",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T20:22:30.333Z",
+  "productId": 1504,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Alimentation en air": {
+          "categoryId": null,
+          "categoryName": "Alimentation en air",
+          "level": 2,
+          "children": {
+            "Outil de montage, collier de serrage durite air de suralim.": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Outils": {
+                  "categoryId": null,
+                  "categoryName": "Outils",
+                  "level": 4,
+                  "children": {
+                    "Outil de montage, collier de serrage durite air de suralim.": {
+                      "categoryId": 706541,
+                      "categoryName": "Tools",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60114
+                    }
+                  }
+                }
+              },
+              "productId": 60114
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Alimentation en air (Niveau 2)\n        └── Air Supply [ID: 100383] (Niveau 2) → ProductId: 60114\n            └── Outils (Niveau 4)\n                └── Tools [ID: 706541] (Niveau 3) → ProductId: 60114",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 60114
+    }
+  ],
+  "productIdsInArbo": [
+    60114
+  ],
+  "closestProductIds": [
+    {
+      "productId": 60114,
+      "productName": "Outil de montage, collier de serrage durite air de suralim."
+    }
+  ]
+}

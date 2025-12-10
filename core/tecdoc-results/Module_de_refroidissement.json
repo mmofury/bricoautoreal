@@ -1,0 +1,54 @@
+{
+  "productName": "Module de refroidissement",
+  "searchText": "Module de refroidissement",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:15:18.893Z",
+  "productId": 2668,
+  "arborescence": {
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Module de refroidissement": {
+          "categoryId": null,
+          "categoryName": "Module de refroidissement",
+          "level": 2,
+          "children": {
+            "Module de refroidissement": {
+              "categoryId": 100874,
+              "categoryName": "Cooling Module",
+              "level": 2,
+              "children": [],
+              "productId": 2668
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Refroidissement [ID: 100007] (Niveau 1)\n    └── Module de refroidissement (Niveau 2)\n        └── Cooling Module [ID: 100874] (Niveau 2) → ProductId: 2668",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Refroidissement",
+        "Module de refroidissement",
+        "Cooling Module"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100874
+      ],
+      "finalCategoryId": 100874,
+      "productId": 2668
+    }
+  ],
+  "productIdsInArbo": [
+    2668
+  ],
+  "matchedProductIds": [
+    2668
+  ]
+}

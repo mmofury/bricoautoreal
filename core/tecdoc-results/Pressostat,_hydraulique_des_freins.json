@@ -1,0 +1,54 @@
+{
+  "productName": "Pressostat, hydraulique des freins",
+  "searchText": "Pressostat, hydraulique des freins",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:04:09.551Z",
+  "productId": 2308,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Accumulateur de pression / pressostat": {
+          "categoryId": null,
+          "categoryName": "Accumulateur de pression / pressostat",
+          "level": 2,
+          "children": {
+            "Pressostat, hydraulique des freins": {
+              "categoryId": 100382,
+              "categoryName": "Pressure Accumulator/Switch",
+              "level": 2,
+              "children": [],
+              "productId": 2308
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif de freinage [ID: 100006] (Niveau 1)\n    └── Accumulateur de pression / pressostat (Niveau 2)\n        └── Pressure Accumulator/Switch [ID: 100382] (Niveau 2) → ProductId: 2308",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Accumulateur de pression / pressostat",
+        "Pressure Accumulator/Switch"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100382
+      ],
+      "finalCategoryId": 100382,
+      "productId": 2308
+    }
+  ],
+  "productIdsInArbo": [
+    2308
+  ],
+  "matchedProductIds": [
+    2308
+  ]
+}

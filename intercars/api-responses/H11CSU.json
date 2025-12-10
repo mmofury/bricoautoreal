@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H11CSU",
+      "index": "328022N",
+      "tecDoc": "328022N",
+      "tecDocProd": "80",
+      "articleNumber": "328022N",
+      "brand": "AKS DASIS",
+      "shortDescription": "Fan, air conditioning condenser",
+      "description": "Radiator fan fits: SUZUKI GRAND VITARA I 1.6-2.7 03.98-09.05",
+      "packageWeight": "2,820",
+      "packageWidth": "42,700",
+      "packageDepth": "14,500",
+      "packageHeight": "51,800",
+      "customsCode": "84145920",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_508",
+          "primary": false,
+          "name": {
+            "en": "Fan, engine cooling"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1254",
+          "primary": true,
+          "name": {
+            "en": "Fan, air conditioning condenser"
+          }
+        }
+      ]
+    }
+  ]
+}

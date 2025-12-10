@@ -1,0 +1,703 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.229Z",
+  "manufacturer": "DAEWOO",
+  "countGroups": 34,
+  "groups": [
+    {
+      "manufacturerId": 185,
+      "manufacturerName": "DAEWOO",
+      "groupKey": "1",
+      "displayName": "1",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8586,
+          "modelName": "1.5i (1C4)",
+          "modelYearFrom": "1994-07-01",
+          "modelYearTo": "1995-10-01"
+        },
+        {
+          "modelId": 8587,
+          "modelName": "1.5i A trois volumes (1C4)",
+          "modelYearFrom": "1994-07-01",
+          "modelYearTo": "1995-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 185,
+      "manufacturerName": "DAEWOO",
+      "groupKey": "ADVENTRA",
+      "displayName": "ADVENTRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5857,
+          "modelName": "ADVENTRA",
+          "modelYearFrom": "2003-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 185,
+      "manufacturerName": "DAEWOO",
+      "groupKey": "ARANOS",
+      "displayName": "ARANOS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5870,
+          "modelName": "ARANOS",
+          "modelYearFrom": "1995-01-01",
+          "modelYearTo": "1997-11-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 185,
+      "manufacturerName": "DAEWOO",
+      "groupKey": "ARCADIA",
+      "displayName": "ARCADIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37530,
+          "modelName": "ARCADIA A trois volumes",
+          "modelYearFrom": "1995-01-01",
+          "modelYearTo": "1999-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 185,
+      "manufacturerName": "DAEWOO",
+      "groupKey": "BROUGHAM",
+      "displayName": "BROUGHAM",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10463,
+          "modelName": "BROUGHAM",
+          "modelYearFrom": "1991-04-01",
+          "modelYearTo": "1997-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 185,
+      "manufacturerName": "DAEWOO",
+      "groupKey": "CIELO",
+      "displayName": "CIELO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5944,
+          "modelName": "CIELO",
+          "modelYearFrom": "1994-06-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 8588,
+          "modelName": "CIELO LOAD RUNNER",
+          "modelYearFrom": "1996-02-01",
+          "modelYearTo": "1997-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 185,
+      "manufacturerName": "DAEWOO",
+      "groupKey": "DAMAS",
+      "displayName": "DAMAS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5975,
+          "modelName": "DAMAS Autobus/Autocar",
+          "modelYearFrom": "1995-03-01",
+          "modelYearTo": "2011-12-01"
+        },
+        {
+          "modelId": 5976,
+          "modelName": "DAMAS Fourgon",
+          "modelYearFrom": "1991-10-01",
+          "modelYearTo": "2011-12-01"
+        },
+        {
+          "modelId": 38249,
+          "modelName": "DAMAS Fourgon",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38291,
+          "modelName": "DAMAS (90V)",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 185,
+      "manufacturerName": "DAEWOO",
+      "groupKey": "ESPERO",
+      "displayName": "ESPERO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1303,
+          "modelName": "ESPERO (KLEJ)",
+          "modelYearFrom": "1991-10-01",
+          "modelYearTo": "1999-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 185,
+      "manufacturerName": "DAEWOO",
+      "groupKey": "EVANDA",
+      "displayName": "EVANDA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4973,
+          "modelName": "EVANDA (KLAL)",
+          "modelYearFrom": "2002-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 185,
+      "manufacturerName": "DAEWOO",
+      "groupKey": "G2X",
+      "displayName": "G2X",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37532,
+          "modelName": "G2X Décapotable",
+          "modelYearFrom": "2008-01-01",
+          "modelYearTo": "2011-02-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 185,
+      "manufacturerName": "DAEWOO",
+      "groupKey": "GENTRA",
+      "displayName": "GENTRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6017,
+          "modelName": "GENTRA A trois volumes",
+          "modelYearFrom": "2002-11-01",
+          "modelYearTo": "2005-04-01"
+        },
+        {
+          "modelId": 6018,
+          "modelName": "GENTRA X Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2005-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 6019,
+          "modelName": "GENTRA A trois volumes",
+          "modelYearFrom": "2005-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 12879,
+          "modelName": "GENTRA A trois volumes",
+          "modelYearFrom": "2013-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 185,
+      "manufacturerName": "DAEWOO",
+      "groupKey": "KALOS",
+      "displayName": "KALOS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4950,
+          "modelName": "KALOS (KLAS)",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 6057,
+          "modelName": "KALOS A trois volumes (KLAS)",
+          "modelYearFrom": "2002-11-01",
+          "modelYearTo": "2004-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 185,
+      "manufacturerName": "DAEWOO",
+      "groupKey": "KORANDO",
+      "displayName": "KORANDO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4086,
+          "modelName": "KORANDO (KJ)",
+          "modelYearFrom": "1998-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 4087,
+          "modelName": "KORANDO Cabrio (KJ)",
+          "modelYearFrom": "1999-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 185,
+      "manufacturerName": "DAEWOO",
+      "groupKey": "LABO",
+      "displayName": "LABO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6061,
+          "modelName": "LABO Camion plate-forme/Châssis",
+          "modelYearFrom": "1995-03-01",
+          "modelYearTo": "1998-07-01"
+        },
+        {
+          "modelId": 6062,
+          "modelName": "LABO Fourgon",
+          "modelYearFrom": "1995-03-01",
+          "modelYearTo": "1999-04-01"
+        },
+        {
+          "modelId": 38297,
+          "modelName": "LABO Camion plate-forme/Châssis",
+          "modelYearFrom": "1992-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 185,
+      "manufacturerName": "DAEWOO",
+      "groupKey": "LACETTI",
+      "displayName": "LACETTI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5046,
+          "modelName": "LACETTI Berline bicorps trois ou cinq portes (KLAN)",
+          "modelYearFrom": "2002-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 6065,
+          "modelName": "LACETTI A trois volumes",
+          "modelYearFrom": "1999-06-01",
+          "modelYearTo": "2003-07-01"
+        },
+        {
+          "modelId": 6066,
+          "modelName": "LACETTI A trois volumes (J200)",
+          "modelYearFrom": "2002-06-01",
+          "modelYearTo": "2009-12-01"
+        },
+        {
+          "modelId": 38075,
+          "modelName": "LACETTI PREMIERE A trois volumes (J300)",
+          "modelYearFrom": "2009-02-01",
+          "modelYearTo": "2011-02-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 185,
+      "manufacturerName": "DAEWOO",
+      "groupKey": "LANOS",
+      "displayName": "LANOS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3410,
+          "modelName": "LANOS A trois volumes (KLAT)",
+          "modelYearFrom": "1997-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 3512,
+          "modelName": "LANOS (KLAT)",
+          "modelYearFrom": "1997-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 185,
+      "manufacturerName": "DAEWOO",
+      "groupKey": "LEGANZA",
+      "displayName": "LEGANZA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3413,
+          "modelName": "LEGANZA (KLAV)",
+          "modelYearFrom": "1997-03-01",
+          "modelYearTo": "2004-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 185,
+      "manufacturerName": "DAEWOO",
+      "groupKey": "LEMANS",
+      "displayName": "LEMANS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6075,
+          "modelName": "LEMANS",
+          "modelYearFrom": "1990-09-01",
+          "modelYearTo": "1997-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 185,
+      "manufacturerName": "DAEWOO",
+      "groupKey": "LUBLIN",
+      "displayName": "LUBLIN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3933,
+          "modelName": "LUBLIN II Fourgon",
+          "modelYearFrom": "1997-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 3934,
+          "modelName": "LUBLIN II Camion plate-forme/Châssis",
+          "modelYearFrom": "1997-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13302,
+          "modelName": "LUBLIN II Autobus/Autocar",
+          "modelYearFrom": "1997-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 185,
+      "manufacturerName": "DAEWOO",
+      "groupKey": "MAGNUS",
+      "displayName": "MAGNUS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6088,
+          "modelName": "MAGNUS",
+          "modelYearFrom": "1999-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 185,
+      "manufacturerName": "DAEWOO",
+      "groupKey": "MATIZ",
+      "displayName": "MATIZ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3890,
+          "modelName": "MATIZ (M100, M150)",
+          "modelYearFrom": "1998-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 8585,
+          "modelName": "MATIZ Camionnette/Berline bicorps trois ou cinq portes (KLA4",
+          "modelYearFrom": "1998-08-01",
+          "modelYearTo": "2002-08-01"
+        },
+        {
+          "modelId": 38145,
+          "modelName": "MATIZ (M200, M250)",
+          "modelYearFrom": "2005-01-01",
+          "modelYearTo": "2018-12-01"
+        },
+        {
+          "modelId": 41991,
+          "modelName": "MATIZ (M300)",
+          "modelYearFrom": "2010-01-01",
+          "modelYearTo": "2012-11-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 185,
+      "manufacturerName": "DAEWOO",
+      "groupKey": "MUSSO",
+      "displayName": "MUSSO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4085,
+          "modelName": "MUSSO (FJ)",
+          "modelYearFrom": "1998-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 185,
+      "manufacturerName": "DAEWOO",
+      "groupKey": "NEXIA",
+      "displayName": "NEXIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1304,
+          "modelName": "NEXIA",
+          "modelYearFrom": "1995-02-01",
+          "modelYearTo": "1997-08-01"
+        },
+        {
+          "modelId": 1305,
+          "modelName": "NEXIA A trois volumes",
+          "modelYearFrom": "1995-02-01",
+          "modelYearTo": "2008-06-01"
+        },
+        {
+          "modelId": 9161,
+          "modelName": "NEXIA A trois volumes",
+          "modelYearFrom": "2008-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 185,
+      "manufacturerName": "DAEWOO",
+      "groupKey": "NUBIRA",
+      "displayName": "NUBIRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3411,
+          "modelName": "NUBIRA (J100)",
+          "modelYearFrom": "1997-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 3412,
+          "modelName": "NUBIRA Wagon (J100)",
+          "modelYearFrom": "1997-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 3513,
+          "modelName": "NUBIRA A trois volumes (J100)",
+          "modelYearFrom": "1997-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 4979,
+          "modelName": "NUBIRA A trois volumes (J200)",
+          "modelYearFrom": "2003-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 5607,
+          "modelName": "NUBIRA Wagon (J200)",
+          "modelYearFrom": "2003-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38268,
+          "modelName": "NUBIRA (J150)",
+          "modelYearFrom": "1999-06-01",
+          "modelYearTo": "2003-07-01"
+        },
+        {
+          "modelId": 38269,
+          "modelName": "NUBIRA A trois volumes (J150)",
+          "modelYearFrom": "1999-06-01",
+          "modelYearTo": "2003-10-01"
+        },
+        {
+          "modelId": 38270,
+          "modelName": "NUBIRA Break (J150)",
+          "modelYearFrom": "1999-06-01",
+          "modelYearTo": "2003-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 185,
+      "manufacturerName": "DAEWOO",
+      "groupKey": "PRINCE",
+      "displayName": "PRINCE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5831,
+          "modelName": "PRINCE (J19)",
+          "modelYearFrom": "1990-08-01",
+          "modelYearTo": "1999-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 185,
+      "manufacturerName": "DAEWOO",
+      "groupKey": "RACER",
+      "displayName": "RACER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13779,
+          "modelName": "RACER Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1986-01-01",
+          "modelYearTo": "1997-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 185,
+      "manufacturerName": "DAEWOO",
+      "groupKey": "REXTON",
+      "displayName": "REXTON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4925,
+          "modelName": "REXTON (GAB_)",
+          "modelYearFrom": "2002-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 185,
+      "manufacturerName": "DAEWOO",
+      "groupKey": "REZZO",
+      "displayName": "REZZO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4642,
+          "modelName": "REZZO (U100)",
+          "modelYearFrom": "2000-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 185,
+      "manufacturerName": "DAEWOO",
+      "groupKey": "ROYALE",
+      "displayName": "ROYALE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6128,
+          "modelName": "ROYALE",
+          "modelYearFrom": "1989-04-01",
+          "modelYearTo": "1993-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 185,
+      "manufacturerName": "DAEWOO",
+      "groupKey": "SUPER",
+      "displayName": "SUPER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6166,
+          "modelName": "SUPER SALOON",
+          "modelYearFrom": "1989-04-01",
+          "modelYearTo": "1995-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 185,
+      "manufacturerName": "DAEWOO",
+      "groupKey": "TICO",
+      "displayName": "TICO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1306,
+          "modelName": "TICO (KLY3)",
+          "modelYearFrom": "1995-02-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 6175,
+          "modelName": "TICO",
+          "modelYearFrom": "1989-05-01",
+          "modelYearTo": "1996-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 185,
+      "manufacturerName": "DAEWOO",
+      "groupKey": "TOSCA",
+      "displayName": "TOSCA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6186,
+          "modelName": "TOSCA",
+          "modelYearFrom": "2006-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 185,
+      "manufacturerName": "DAEWOO",
+      "groupKey": "VERITAS",
+      "displayName": "VERITAS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37531,
+          "modelName": "VERITAS",
+          "modelYearFrom": "2008-01-01",
+          "modelYearTo": "2011-02-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 185,
+      "manufacturerName": "DAEWOO",
+      "groupKey": "WINSTORM",
+      "displayName": "WINSTORM",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6216,
+          "modelName": "WINSTORM",
+          "modelYearFrom": "2006-12-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

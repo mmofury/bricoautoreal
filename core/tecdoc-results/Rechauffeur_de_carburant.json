@@ -1,0 +1,111 @@
+{
+  "productName": "Rechauffeur de carburant",
+  "searchText": "Rechauffeur de carburant",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:07:03.778Z",
+  "productId": 4365,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Rechauffeur de carburant": {
+          "categoryId": null,
+          "categoryName": "Rechauffeur de carburant",
+          "level": 2,
+          "children": {
+            "Rechauffeur de carburant": {
+              "categoryId": 103086,
+              "categoryName": "Fuel Preheater",
+              "level": 2,
+              "children": [],
+              "productId": 4365
+            },
+            "Relais, réchauffeur de carburant": {
+              "categoryId": 103086,
+              "categoryName": "Fuel Preheater",
+              "level": 2,
+              "children": [],
+              "productId": 5654
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Relais": {
+          "categoryId": null,
+          "categoryName": "Relais",
+          "level": 2,
+          "children": {
+            "Relais, réchauffeur de carburant": {
+              "categoryId": 100785,
+              "categoryName": "Relay",
+              "level": 2,
+              "children": [],
+              "productId": 5654
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Alimentation carburant [ID: 100214] (Niveau 1)\n│   └── Rechauffeur de carburant (Niveau 2)\n│       ├── Fuel Preheater [ID: 103086] (Niveau 2) → ProductId: 4365\n│       └── Fuel Preheater [ID: 103086] (Niveau 2) → ProductId: 5654\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Relais (Niveau 2)\n        └── Relay [ID: 100785] (Niveau 2) → ProductId: 5654",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Rechauffeur de carburant",
+        "Fuel Preheater"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        103086
+      ],
+      "finalCategoryId": 103086,
+      "productId": 4365
+    },
+    {
+      "path": [
+        "Alimentation carburant",
+        "Rechauffeur de carburant",
+        "Fuel Preheater"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        103086
+      ],
+      "finalCategoryId": 103086,
+      "productId": 5654
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Relais",
+        "Relay"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100785
+      ],
+      "finalCategoryId": 100785,
+      "productId": 5654
+    }
+  ],
+  "productIdsInArbo": [
+    4365,
+    5654
+  ],
+  "matchedProductIds": [
+    4365
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.333Z",
+  "manufacturer": "HYUNDAI (HUATAI)",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 3128,
+      "manufacturerName": "HYUNDAI (HUATAI)",
+      "groupKey": "SANTA",
+      "displayName": "SANTA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6562,
+          "modelName": "SANTA FE",
+          "modelYearFrom": "2006-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3128,
+      "manufacturerName": "HYUNDAI (HUATAI)",
+      "groupKey": "TERRACAN",
+      "displayName": "TERRACAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6563,
+          "modelName": "TERRACAN",
+          "modelYearFrom": "2003-03-01",
+          "modelYearTo": "2012-11-01"
+        }
+      ]
+    }
+  ]
+}

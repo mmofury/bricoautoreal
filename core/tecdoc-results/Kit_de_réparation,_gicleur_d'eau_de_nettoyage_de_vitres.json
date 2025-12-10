@@ -1,0 +1,54 @@
+{
+  "productName": "Kit de réparation, gicleur d'eau de nettoyage de vitres",
+  "searchText": "Kit de réparation, gicleur d'eau de nettoyage de vitres",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:05:04.291Z",
+  "productId": 768,
+  "arborescence": {
+    "Nettoyage des vitres": {
+      "categoryId": 100018,
+      "categoryName": "Nettoyage des vitres",
+      "level": 1,
+      "children": {
+        "Gicleur d'eau de lavage": {
+          "categoryId": null,
+          "categoryName": "Gicleur d'eau de lavage",
+          "level": 2,
+          "children": {
+            "Kit de réparation, gicleur d'eau de nettoyage de vitres": {
+              "categoryId": 100611,
+              "categoryName": "Washer Fluid Jet",
+              "level": 2,
+              "children": [],
+              "productId": 768
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Nettoyage des vitres [ID: 100018] (Niveau 1)\n    └── Gicleur d'eau de lavage (Niveau 2)\n        └── Washer Fluid Jet [ID: 100611] (Niveau 2) → ProductId: 768",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Nettoyage des vitres",
+        "Gicleur d'eau de lavage",
+        "Washer Fluid Jet"
+      ],
+      "categoryIds": [
+        100018,
+        null,
+        100611
+      ],
+      "finalCategoryId": 100611,
+      "productId": 768
+    }
+  ],
+  "productIdsInArbo": [
+    768
+  ],
+  "matchedProductIds": [
+    768
+  ]
+}

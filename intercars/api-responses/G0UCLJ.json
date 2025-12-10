@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G0UCLJ",
+      "index": "FE174815",
+      "tecDoc": "174815",
+      "tecDocProd": "101",
+      "articleNumber": "174815",
+      "brand": "FEBI",
+      "shortDescription": "Oils/humidity absorbent",
+      "description": "Oil/humidity absorbent (10L, container)",
+      "eans": [
+        "4054224748152"
+      ],
+      "packageWeight": "2,420",
+      "packageWidth": "29,000",
+      "packageDepth": "20,000",
+      "packageHeight": "27,000",
+      "customsCode": "27030000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_92086",
+          "primary": true,
+          "name": {
+            "en": "Oils/humidity absorbent"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_6910",
+          "primary": false,
+          "name": {
+            "en": "Binding Agent"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "productName": "Kit de roulement, différentiel",
+  "productId": 4133,
+  "searchText": "Kit de roulement, différentiel",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Entraînement des essieux": {
+          "categoryId": 200056,
+          "categoryName": "Entraînement des essieux",
+          "level": 1,
+          "children": {
+            "Différentiel / pièces de montage de différentiel": {
+              "categoryId": null,
+              "categoryName": "Différentiel / pièces de montage de différentiel",
+              "level": 2,
+              "children": {
+                "Kit de roulement, différentiel": {
+                  "categoryId": 200871,
+                  "categoryName": "Differential/ Parts",
+                  "level": 2,
+                  "children": [],
+                  "productId": 4133
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Entraînement des essieux [ID: 200056] (Niveau 1)\n    └── Différentiel / pièces de montage de différentiel (Niveau 2)\n        └── Differential/ Parts [ID: 200871] (Niveau 2) → ProductId: 4133",
+      "productIdsInArbo": [
+        4133
+      ],
+      "matchedProductIds": [
+        4133
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:45:41.958Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

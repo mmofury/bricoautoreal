@@ -1,0 +1,139 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.464Z",
+  "manufacturer": "RELIANT",
+  "countGroups": 6,
+  "groups": [
+    {
+      "manufacturerId": 773,
+      "manufacturerName": "RELIANT",
+      "groupKey": "FOX",
+      "displayName": "FOX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9988,
+          "modelName": "FOX",
+          "modelYearFrom": "1982-12-01",
+          "modelYearTo": "1990-01-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 773,
+      "manufacturerName": "RELIANT",
+      "groupKey": "KITTEN",
+      "displayName": "KITTEN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4365,
+          "modelName": "KITTEN",
+          "modelYearFrom": "1975-01-01",
+          "modelYearTo": "1983-12-01"
+        },
+        {
+          "modelId": 4366,
+          "modelName": "KITTEN Station Wagon",
+          "modelYearFrom": "1975-01-01",
+          "modelYearTo": "1983-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 773,
+      "manufacturerName": "RELIANT",
+      "groupKey": "REBEL",
+      "displayName": "REBEL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4367,
+          "modelName": "REBEL",
+          "modelYearFrom": "1968-01-01",
+          "modelYearTo": "1973-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 773,
+      "manufacturerName": "RELIANT",
+      "groupKey": "RIALTO",
+      "displayName": "RIALTO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11733,
+          "modelName": "RIALTO Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1981-01-01",
+          "modelYearTo": "1998-12-01"
+        },
+        {
+          "modelId": 38777,
+          "modelName": "RIALTO Break",
+          "modelYearFrom": "1982-01-01",
+          "modelYearTo": "1995-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 773,
+      "manufacturerName": "RELIANT",
+      "groupKey": "ROBIN",
+      "displayName": "ROBIN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11732,
+          "modelName": "ROBIN",
+          "modelYearFrom": "1973-11-01",
+          "modelYearTo": "2002-10-01"
+        },
+        {
+          "modelId": 37811,
+          "modelName": "ROBIN Pick-up",
+          "modelYearFrom": "1999-06-01",
+          "modelYearTo": "2002-12-01"
+        },
+        {
+          "modelId": 38800,
+          "modelName": "ROBIN Break",
+          "modelYearFrom": "1973-11-01",
+          "modelYearTo": "1998-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 773,
+      "manufacturerName": "RELIANT",
+      "groupKey": "SCIMITAR",
+      "displayName": "SCIMITAR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4369,
+          "modelName": "SCIMITAR SABRE Roadster",
+          "modelYearFrom": "1992-01-01",
+          "modelYearTo": "1995-12-01"
+        },
+        {
+          "modelId": 4370,
+          "modelName": "SCIMITAR Station Wagon",
+          "modelYearFrom": "1968-01-01",
+          "modelYearTo": "1986-12-01"
+        },
+        {
+          "modelId": 4371,
+          "modelName": "SCIMITAR Cabriolet",
+          "modelYearFrom": "1980-01-01",
+          "modelYearTo": "1985-12-01"
+        },
+        {
+          "modelId": 4372,
+          "modelName": "SCIMITAR Roadster",
+          "modelYearFrom": "1985-01-01",
+          "modelYearTo": "1992-12-01"
+        }
+      ]
+    }
+  ]
+}

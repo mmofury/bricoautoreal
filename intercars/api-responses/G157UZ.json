@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G157UZ",
+      "index": "HAZ 6108-1CT",
+      "tecDoc": "6108-1CT",
+      "tecDocProd": "4808",
+      "articleNumber": "6108-1CT",
+      "brand": "HAZET",
+      "shortDescription": "Torque tools",
+      "description": "Wrench torque, 1/4, torque range: 2-10 Nm, length: 19,8 cm",
+      "customsCode": "82042000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4833",
+          "primary": false,
+          "name": {
+            "en": "Torque Wrench"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91631",
+          "primary": true,
+          "name": {
+            "en": "Torque tools"
+          }
+        }
+      ]
+    }
+  ]
+}

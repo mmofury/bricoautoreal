@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.536Z",
+  "manufacturer": "WALLYS",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 8166,
+      "manufacturerName": "WALLYS",
+      "groupKey": "216",
+      "displayName": "216",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45671,
+          "modelName": "216",
+          "modelYearFrom": "2021-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 8166,
+      "manufacturerName": "WALLYS",
+      "groupKey": "619",
+      "displayName": "619",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45672,
+          "modelName": "619",
+          "modelYearFrom": "2021-02-01",
+          "modelYearTo": "2023-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 8166,
+      "manufacturerName": "WALLYS",
+      "groupKey": "719",
+      "displayName": "719",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45668,
+          "modelName": "719",
+          "modelYearFrom": "2022-12-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

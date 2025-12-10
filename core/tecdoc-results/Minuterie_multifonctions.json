@@ -1,0 +1,104 @@
+{
+  "productName": "Minuterie multifonctions",
+  "searchText": "Minuterie multifonctions",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:14:51.430Z",
+  "productId": 4967,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Minuterie multifonctions": {
+          "categoryId": null,
+          "categoryName": "Minuterie multifonctions",
+          "level": 2,
+          "children": {
+            "Minuterie multifonctions": {
+              "categoryId": 103428,
+              "categoryName": "Multifunctional Relay",
+              "level": 2,
+              "children": [],
+              "productId": 4967
+            },
+            "Relais industriel": {
+              "categoryId": 103428,
+              "categoryName": "Multifunctional Relay",
+              "level": 2,
+              "children": [],
+              "productId": 8308
+            }
+          }
+        },
+        "Relais": {
+          "categoryId": null,
+          "categoryName": "Relais",
+          "level": 2,
+          "children": {
+            "Minuterie multifonctions": {
+              "categoryId": 100785,
+              "categoryName": "Relay",
+              "level": 2,
+              "children": [],
+              "productId": 4967
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    ├── Minuterie multifonctions (Niveau 2)\n    │   ├── Multifunctional Relay [ID: 103428] (Niveau 2) → ProductId: 4967\n    │   └── Multifunctional Relay [ID: 103428] (Niveau 2) → ProductId: 8308\n    └── Relais (Niveau 2)\n        └── Relay [ID: 100785] (Niveau 2) → ProductId: 4967",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Minuterie multifonctions",
+        "Multifunctional Relay"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        103428
+      ],
+      "finalCategoryId": 103428,
+      "productId": 4967
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Minuterie multifonctions",
+        "Multifunctional Relay"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        103428
+      ],
+      "finalCategoryId": 103428,
+      "productId": 8308
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Relais",
+        "Relay"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100785
+      ],
+      "finalCategoryId": 100785,
+      "productId": 4967
+    }
+  ],
+  "productIdsInArbo": [
+    4967,
+    8308
+  ],
+  "matchedProductIds": [
+    4967
+  ]
+}

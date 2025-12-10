@@ -1,0 +1,107 @@
+{
+  "productName": "Outillage de montage, Clamp-Echappement",
+  "searchText": "Outillage de montage, Clamp-Echappement",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T21:18:04.757Z",
+  "productId": 2644,
+  "arborescence": {
+    "Échappement": {
+      "categoryId": 100004,
+      "categoryName": "Échappement",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Outillage de montage, Clamp-Echappement": {
+              "categoryId": 104269,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4576
+            }
+          }
+        }
+      }
+    },
+    "Outils spéciaux": {
+      "categoryId": 706365,
+      "categoryName": "Outils spéciaux",
+      "level": 1,
+      "children": {
+        "Outils spéciaux échappement": {
+          "categoryId": null,
+          "categoryName": "Outils spéciaux échappement",
+          "level": 2,
+          "children": {
+            "Outillage de montage, Clamp-Echappement": {
+              "categoryId": 706372,
+              "categoryName": "Exhaust System Special Tools",
+              "level": 2,
+              "children": {
+                "Fixation": {
+                  "categoryId": null,
+                  "categoryName": "Fixation",
+                  "level": 4,
+                  "children": {
+                    "Outillage de montage, Clamp-Echappement": {
+                      "categoryId": 706375,
+                      "categoryName": "Fastening",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4576
+                    }
+                  }
+                }
+              },
+              "productId": 4576
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Échappement [ID: 100004] (Niveau 1)\n│   └── Outils (Niveau 2)\n│       └── Tools [ID: 104269] (Niveau 2) → ProductId: 4576\n\n└── Outils spéciaux [ID: 706365] (Niveau 1)\n    └── Outils spéciaux échappement (Niveau 2)\n        └── Exhaust System Special Tools [ID: 706372] (Niveau 2) → ProductId: 4576\n            └── Fixation (Niveau 4)\n                └── Fastening [ID: 706375] (Niveau 3) → ProductId: 4576",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Échappement",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        104269
+      ],
+      "finalCategoryId": 104269,
+      "productId": 4576
+    },
+    {
+      "path": [
+        "Outils spéciaux",
+        "Outils spéciaux échappement",
+        "Exhaust System Special Tools"
+      ],
+      "categoryIds": [
+        706365,
+        null,
+        706372
+      ],
+      "finalCategoryId": 706372,
+      "productId": 4576
+    }
+  ],
+  "productIdsInArbo": [
+    4576
+  ],
+  "closestProductIds": [
+    {
+      "productId": 4576,
+      "productName": "Outillage de montage, Clamp-Echappement"
+    }
+  ]
+}

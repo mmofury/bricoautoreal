@@ -1,0 +1,64 @@
+{
+  "productName": "Amortisseur de vibrations, vilebrequin",
+  "productId": 8432,
+  "searchText": "Amortisseur de vibrations, vilebrequin",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Moteur": {
+          "categoryId": 200026,
+          "categoryName": "Moteur",
+          "level": 1,
+          "children": {
+            "Système bielle-manivelle": {
+              "categoryId": null,
+              "categoryName": "Système bielle-manivelle",
+              "level": 2,
+              "children": {
+                "Amortisseur de vibrations, vilebrequin": {
+                  "categoryId": 200032,
+                  "categoryName": "Crank Drive",
+                  "level": 2,
+                  "children": {
+                    "Vilebrequin / pièces de montage": {
+                      "categoryId": null,
+                      "categoryName": "Vilebrequin / pièces de montage",
+                      "level": 4,
+                      "children": {
+                        "Amortisseur de vibrations, vilebrequin": {
+                          "categoryId": 200041,
+                          "categoryName": "Crankshaft/ Parts",
+                          "level": 3,
+                          "children": [],
+                          "productId": 8432
+                        }
+                      }
+                    }
+                  },
+                  "productId": 8432
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Moteur [ID: 200026] (Niveau 1)\n    └── Système bielle-manivelle (Niveau 2)\n        └── Crank Drive [ID: 200032] (Niveau 2) → ProductId: 8432\n            └── Vilebrequin / pièces de montage (Niveau 4)\n                └── Crankshaft/ Parts [ID: 200041] (Niveau 3) → ProductId: 8432",
+      "productIdsInArbo": [
+        8432
+      ],
+      "matchedProductIds": [
+        8432
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T09:39:40.904Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

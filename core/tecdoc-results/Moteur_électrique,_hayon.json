@@ -1,0 +1,160 @@
+{
+  "productName": "Moteur électrique, hayon",
+  "searchText": "Moteur électrique, hayon",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:15:49.394Z",
+  "productId": 7413,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Moteur électrique": {
+          "categoryId": null,
+          "categoryName": "Moteur électrique",
+          "level": 2,
+          "children": {
+            "Moteur électrique, hayon": {
+              "categoryId": 105577,
+              "categoryName": "Electric Motor",
+              "level": 2,
+              "children": [],
+              "productId": 7413
+            }
+          }
+        },
+        "Ressorts pneumatiques": {
+          "categoryId": null,
+          "categoryName": "Ressorts pneumatiques",
+          "level": 2,
+          "children": {
+            "Moteur électrique, hayon": {
+              "categoryId": 100826,
+              "categoryName": "Gas Springs",
+              "level": 2,
+              "children": [],
+              "productId": 7413
+            }
+          }
+        }
+      }
+    },
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Commande du hayon": {
+          "categoryId": null,
+          "categoryName": "Commande du hayon",
+          "level": 2,
+          "children": {
+            "Moteur électrique, hayon": {
+              "categoryId": 104155,
+              "categoryName": "Tailgate Actuation",
+              "level": 2,
+              "children": [],
+              "productId": 7413
+            }
+          }
+        },
+        "Moteur / Relais": {
+          "categoryId": null,
+          "categoryName": "Moteur / Relais",
+          "level": 2,
+          "children": {
+            "Moteur électrique, hayon": {
+              "categoryId": 104156,
+              "categoryName": "Motor/Relay/Switch",
+              "level": 2,
+              "children": {
+                "Hayon": {
+                  "categoryId": null,
+                  "categoryName": "Hayon",
+                  "level": 4,
+                  "children": {
+                    "Moteur électrique, hayon": {
+                      "categoryId": 105582,
+                      "categoryName": "Tailgate",
+                      "level": 3,
+                      "children": [],
+                      "productId": 7413
+                    }
+                  }
+                }
+              },
+              "productId": 7413
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carrosserie [ID: 100001] (Niveau 1)\n│   ├── Moteur électrique (Niveau 2)\n│   │   └── Electric Motor [ID: 105577] (Niveau 2) → ProductId: 7413\n│   └── Ressorts pneumatiques (Niveau 2)\n│       └── Gas Springs [ID: 100826] (Niveau 2) → ProductId: 7413\n\n└── Systèmes de confort [ID: 100335] (Niveau 1)\n    ├── Commande du hayon (Niveau 2)\n    │   └── Tailgate Actuation [ID: 104155] (Niveau 2) → ProductId: 7413\n    └── Moteur / Relais (Niveau 2)\n        └── Motor/Relay/Switch [ID: 104156] (Niveau 2) → ProductId: 7413\n            └── Hayon (Niveau 4)\n                └── Tailgate [ID: 105582] (Niveau 3) → ProductId: 7413",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Moteur électrique",
+        "Electric Motor"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        105577
+      ],
+      "finalCategoryId": 105577,
+      "productId": 7413
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Ressorts pneumatiques",
+        "Gas Springs"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100826
+      ],
+      "finalCategoryId": 100826,
+      "productId": 7413
+    },
+    {
+      "path": [
+        "Systèmes de confort",
+        "Commande du hayon",
+        "Tailgate Actuation"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        104155
+      ],
+      "finalCategoryId": 104155,
+      "productId": 7413
+    },
+    {
+      "path": [
+        "Systèmes de confort",
+        "Moteur / Relais",
+        "Motor/Relay/Switch"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        104156
+      ],
+      "finalCategoryId": 104156,
+      "productId": 7413
+    }
+  ],
+  "productIdsInArbo": [
+    7413
+  ],
+  "matchedProductIds": [
+    7413
+  ]
+}

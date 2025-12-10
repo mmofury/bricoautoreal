@@ -1,0 +1,54 @@
+{
+  "productName": "Support de bras transversal",
+  "searchText": "Support de bras transversal",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:19:28.297Z",
+  "productId": 3228,
+  "arborescence": {
+    "Suspension d'essieu/Guidage des roues/Roues": {
+      "categoryId": 100013,
+      "categoryName": "Suspension d'essieu/Guidage des roues/Roues",
+      "level": 1,
+      "children": {
+        "Bras transversal de suspension / bras oscillant transversal": {
+          "categoryId": null,
+          "categoryName": "Bras transversal de suspension / bras oscillant transversal",
+          "level": 2,
+          "children": {
+            "Support de bras transversal": {
+              "categoryId": 100758,
+              "categoryName": "Dome-/Transverse Link Strut",
+              "level": 2,
+              "children": [],
+              "productId": 3228
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Suspension d'essieu/Guidage des roues/Roues [ID: 100013] (Niveau 1)\n    └── Bras transversal de suspension / bras oscillant transversal (Niveau 2)\n        └── Dome-/Transverse Link Strut [ID: 100758] (Niveau 2) → ProductId: 3228",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Bras transversal de suspension / bras oscillant transversal",
+        "Dome-/Transverse Link Strut"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        100758
+      ],
+      "finalCategoryId": 100758,
+      "productId": 3228
+    }
+  ],
+  "productIdsInArbo": [
+    3228
+  ],
+  "matchedProductIds": [
+    3228
+  ]
+}

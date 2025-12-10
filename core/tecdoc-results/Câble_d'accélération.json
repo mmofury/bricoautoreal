@@ -1,0 +1,273 @@
+{
+  "productName": "Câble d'accélération",
+  "searchText": "Câble d'accélération",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:29:11.887Z",
+  "productId": 618,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Carburateurs": {
+          "categoryId": null,
+          "categoryName": "Carburateurs",
+          "level": 2,
+          "children": {
+            "Câble d'accélération": {
+              "categoryId": 102903,
+              "categoryName": "Carburettor System",
+              "level": 2,
+              "children": {
+                "Commande / Amortisseurs / Boîtiers": {
+                  "categoryId": null,
+                  "categoryName": "Commande / Amortisseurs / Boîtiers",
+                  "level": 4,
+                  "children": {
+                    "Câble d'accélération": {
+                      "categoryId": 102910,
+                      "categoryName": "Control Linkage/Damper/Chambers",
+                      "level": 3,
+                      "children": [],
+                      "productId": 618
+                    }
+                  }
+                }
+              },
+              "productId": 618
+            },
+            "Gaine de protection, câble d'accélérateur": {
+              "categoryId": 102903,
+              "categoryName": "Carburettor System",
+              "level": 2,
+              "children": {
+                "Commande / Amortisseurs / Boîtiers": {
+                  "categoryId": null,
+                  "categoryName": "Commande / Amortisseurs / Boîtiers",
+                  "level": 4,
+                  "children": {
+                    "Gaine de protection, câble d'accélérateur": {
+                      "categoryId": 102910,
+                      "categoryName": "Control Linkage/Damper/Chambers",
+                      "level": 3,
+                      "children": [],
+                      "productId": 5980
+                    }
+                  }
+                }
+              },
+              "productId": 5980
+            }
+          }
+        },
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Câble d'accélération": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Câble/ tige d'accélérateur": {
+                  "categoryId": null,
+                  "categoryName": "Câble/ tige d'accélérateur",
+                  "level": 4,
+                  "children": {
+                    "Câble d'accélération": {
+                      "categoryId": 102802,
+                      "categoryName": "Accelerator Cable/Linkages",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3911
+                    }
+                  }
+                }
+              },
+              "productId": 3911
+            },
+            "Kit de réparation, câble d'accélérateur": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Câble/ tige d'accélérateur": {
+                  "categoryId": null,
+                  "categoryName": "Câble/ tige d'accélérateur",
+                  "level": 4,
+                  "children": {
+                    "Kit de réparation, câble d'accélérateur": {
+                      "categoryId": 102802,
+                      "categoryName": "Accelerator Cable/Linkages",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60866
+                    }
+                  }
+                }
+              },
+              "productId": 60866
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Alimentation en air": {
+          "categoryId": null,
+          "categoryName": "Alimentation en air",
+          "level": 2,
+          "children": {
+            "Câble d'accélération": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Câble d'accélérateur/tringlerie": {
+                  "categoryId": null,
+                  "categoryName": "Câble d'accélérateur/tringlerie",
+                  "level": 4,
+                  "children": {
+                    "Câble d'accélération": {
+                      "categoryId": 100385,
+                      "categoryName": "Accelerator Cable/Linkage",
+                      "level": 3,
+                      "children": [],
+                      "productId": 618
+                    }
+                  }
+                }
+              },
+              "productId": 618
+            },
+            "Gaine de protection, câble d'accélérateur": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Câble d'accélérateur/tringlerie": {
+                  "categoryId": null,
+                  "categoryName": "Câble d'accélérateur/tringlerie",
+                  "level": 4,
+                  "children": {
+                    "Gaine de protection, câble d'accélérateur": {
+                      "categoryId": 100385,
+                      "categoryName": "Accelerator Cable/Linkage",
+                      "level": 3,
+                      "children": [],
+                      "productId": 5980
+                    }
+                  }
+                }
+              },
+              "productId": 5980
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carburation [ID: 100254] (Niveau 1)\n│   ├── Carburateurs (Niveau 2)\n│   │   ├── Carburettor System [ID: 102903] (Niveau 2) → ProductId: 618\n│   │   │   └── Commande / Amortisseurs / Boîtiers (Niveau 4)\n│   │   │       └── Control Linkage/Damper/Chambers [ID: 102910] (Niveau 3) → ProductId: 618\n│   │   └── Carburettor System [ID: 102903] (Niveau 2) → ProductId: 5980\n│   │       └── Commande / Amortisseurs / Boîtiers (Niveau 4)\n│   │           └── Control Linkage/Damper/Chambers [ID: 102910] (Niveau 3) → ProductId: 5980\n│   └── Mélange air-carburant (Niveau 2)\n│       ├── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 3911\n│       │   └── Câble/ tige d'accélérateur (Niveau 4)\n│       │       └── Accelerator Cable/Linkages [ID: 102802] (Niveau 3) → ProductId: 3911\n│       └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 60866\n│           └── Câble/ tige d'accélérateur (Niveau 4)\n│               └── Accelerator Cable/Linkages [ID: 102802] (Niveau 3) → ProductId: 60866\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Alimentation en air (Niveau 2)\n        ├── Air Supply [ID: 100383] (Niveau 2) → ProductId: 618\n        │   └── Câble d'accélérateur/tringlerie (Niveau 4)\n        │       └── Accelerator Cable/Linkage [ID: 100385] (Niveau 3) → ProductId: 618\n        └── Air Supply [ID: 100383] (Niveau 2) → ProductId: 5980\n            └── Câble d'accélérateur/tringlerie (Niveau 4)\n                └── Accelerator Cable/Linkage [ID: 100385] (Niveau 3) → ProductId: 5980",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Carburateurs",
+        "Carburettor System"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102903
+      ],
+      "finalCategoryId": 102903,
+      "productId": 618
+    },
+    {
+      "path": [
+        "Carburation",
+        "Carburateurs",
+        "Carburettor System"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102903
+      ],
+      "finalCategoryId": 102903,
+      "productId": 5980
+    },
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 3911
+    },
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 60866
+    },
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 618
+    },
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 5980
+    }
+  ],
+  "productIdsInArbo": [
+    618,
+    3911,
+    5980,
+    60866
+  ],
+  "matchedProductIds": [
+    618
+  ]
+}

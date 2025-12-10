@@ -1,0 +1,22 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.215Z",
+  "manufacturer": "CHEVROLET (SGMW)",
+  "countGroups": 1,
+  "groups": [
+    {
+      "manufacturerId": 3651,
+      "manufacturerName": "CHEVROLET (SGMW)",
+      "groupKey": "SPARK",
+      "displayName": "SPARK",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9647,
+          "modelName": "SPARK (KSC)",
+          "modelYearFrom": "2002-11-01",
+          "modelYearTo": "2012-12-01"
+        }
+      ]
+    }
+  ]
+}

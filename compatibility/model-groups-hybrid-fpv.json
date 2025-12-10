@@ -1,0 +1,67 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.282Z",
+  "manufacturer": "FPV",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 3297,
+      "manufacturerName": "FPV",
+      "groupKey": "F6X",
+      "displayName": "F6X",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8804,
+          "modelName": "F6X SUV (SY)",
+          "modelYearFrom": "2008-05-01",
+          "modelYearTo": "2009-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3297,
+      "manufacturerName": "FPV",
+      "groupKey": "FALCON",
+      "displayName": "FALCON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8069,
+          "modelName": "FALCON A trois volumes (BA)",
+          "modelYearFrom": "2003-03-01",
+          "modelYearTo": "2006-01-01"
+        },
+        {
+          "modelId": 8070,
+          "modelName": "FALCON Pick-up (BA)",
+          "modelYearFrom": "2003-03-01",
+          "modelYearTo": "2006-01-01"
+        },
+        {
+          "modelId": 8071,
+          "modelName": "FALCON Pick-up (BF)",
+          "modelYearFrom": "2005-04-01",
+          "modelYearTo": "2008-04-01"
+        },
+        {
+          "modelId": 8799,
+          "modelName": "FALCON A trois volumes (BF)",
+          "modelYearFrom": "2005-10-01",
+          "modelYearTo": "2008-10-01"
+        },
+        {
+          "modelId": 8802,
+          "modelName": "FALCON A trois volumes (FG)",
+          "modelYearFrom": "2008-05-01",
+          "modelYearTo": "2014-12-01"
+        },
+        {
+          "modelId": 8805,
+          "modelName": "FALCON Pick-up (FG)",
+          "modelYearFrom": "2008-05-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

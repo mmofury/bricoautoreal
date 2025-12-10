@@ -1,0 +1,69 @@
+{
+  "productName": "Tube d'écoulement , vase d'expansion",
+  "searchText": "Tube d'écoulement , vase d'expansion",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:28:01.580Z",
+  "productId": 3482,
+  "arborescence": {
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Radiateur d'eau/d'huile": {
+          "categoryId": null,
+          "categoryName": "Radiateur d'eau/d'huile",
+          "level": 2,
+          "children": {
+            "Tube d'écoulement , vase d'expansion": {
+              "categoryId": 100102,
+              "categoryName": "Radiator/Oil Cooler",
+              "level": 2,
+              "children": {
+                "Vase d'expansion": {
+                  "categoryId": null,
+                  "categoryName": "Vase d'expansion",
+                  "level": 4,
+                  "children": {
+                    "Tube d'écoulement , vase d'expansion": {
+                      "categoryId": 100112,
+                      "categoryName": "Expansion Tank",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3482
+                    }
+                  }
+                }
+              },
+              "productId": 3482
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Refroidissement [ID: 100007] (Niveau 1)\n    └── Radiateur d'eau/d'huile (Niveau 2)\n        └── Radiator/Oil Cooler [ID: 100102] (Niveau 2) → ProductId: 3482\n            └── Vase d'expansion (Niveau 4)\n                └── Expansion Tank [ID: 100112] (Niveau 3) → ProductId: 3482",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Refroidissement",
+        "Radiateur d'eau/d'huile",
+        "Radiator/Oil Cooler"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100102
+      ],
+      "finalCategoryId": 100102,
+      "productId": 3482
+    }
+  ],
+  "productIdsInArbo": [
+    3482
+  ],
+  "matchedProductIds": [
+    3482
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G13DPZ",
+      "index": "OSR LEDPWL ACC 101",
+      "tecDoc": "LEDPWLACC101",
+      "tecDocProd": "67",
+      "articleNumber": "LEDPWLACC101",
+      "brand": "OSRAM",
+      "shortDescription": "Lightbars",
+      "description": "Work light, 12/24V (fitting kit)",
+      "eans": [
+        "4062172294768"
+      ],
+      "packageWeight": "0,180",
+      "packageWidth": "10,000",
+      "packageDepth": "13,000",
+      "packageHeight": "4,000",
+      "customsCode": "85122000",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_94028",
+          "primary": true,
+          "name": {
+            "en": "Lightbars"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_94127",
+          "primary": false,
+          "name": {
+            "en": "Off-road work light"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_99",
+          "primary": false,
+          "name": {
+            "en": "Base, worklight"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_2976",
+          "primary": false,
+          "name": {
+            "en": "Bracket, additional headlight"
+          }
+        }
+      ]
+    }
+  ]
+}

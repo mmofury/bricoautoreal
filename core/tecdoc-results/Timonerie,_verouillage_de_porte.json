@@ -1,0 +1,54 @@
+{
+  "productName": "Timonerie, verouillage de porte",
+  "searchText": "Timonerie, verouillage de porte",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:26:06.231Z",
+  "productId": 4389,
+  "arborescence": {
+    "Verrouillage": {
+      "categoryId": 100685,
+      "categoryName": "Verrouillage",
+      "level": 1,
+      "children": {
+        "Poignées": {
+          "categoryId": null,
+          "categoryName": "Poignées",
+          "level": 2,
+          "children": {
+            "Timonerie, verouillage de porte": {
+              "categoryId": 100691,
+              "categoryName": "Handles",
+              "level": 2,
+              "children": [],
+              "productId": 4389
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Verrouillage [ID: 100685] (Niveau 1)\n    └── Poignées (Niveau 2)\n        └── Handles [ID: 100691] (Niveau 2) → ProductId: 4389",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Verrouillage",
+        "Poignées",
+        "Handles"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100691
+      ],
+      "finalCategoryId": 100691,
+      "productId": 4389
+    }
+  ],
+  "productIdsInArbo": [
+    4389
+  ],
+  "matchedProductIds": [
+    4389
+  ]
+}

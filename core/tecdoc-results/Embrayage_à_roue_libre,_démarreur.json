@@ -1,0 +1,69 @@
+{
+  "productName": "Embrayage à roue libre, démarreur",
+  "searchText": "Embrayage à roue libre, démarreur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:36:02.062Z",
+  "productId": 2182,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Démarreur": {
+          "categoryId": null,
+          "categoryName": "Démarreur",
+          "level": 2,
+          "children": {
+            "Embrayage à roue libre, démarreur": {
+              "categoryId": 100353,
+              "categoryName": "Starter System",
+              "level": 2,
+              "children": {
+                "Composants du démarreur": {
+                  "categoryId": null,
+                  "categoryName": "Composants du démarreur",
+                  "level": 4,
+                  "children": {
+                    "Embrayage à roue libre, démarreur": {
+                      "categoryId": 100040,
+                      "categoryName": "Starter Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2182
+                    }
+                  }
+                }
+              },
+              "productId": 2182
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Démarreur (Niveau 2)\n        └── Starter System [ID: 100353] (Niveau 2) → ProductId: 2182\n            └── Composants du démarreur (Niveau 4)\n                └── Starter Parts [ID: 100040] (Niveau 3) → ProductId: 2182",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Démarreur",
+        "Starter System"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100353
+      ],
+      "finalCategoryId": 100353,
+      "productId": 2182
+    }
+  ],
+  "productIdsInArbo": [
+    2182
+  ],
+  "matchedProductIds": [
+    2182
+  ]
+}

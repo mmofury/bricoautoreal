@@ -1,0 +1,98 @@
+{
+  "productName": "Thermostat, liquide de refroidissement",
+  "searchText": "Thermostat, liquide de refroidissement",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:25:52.263Z",
+  "productId": 316,
+  "arborescence": {
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Joint/Thermostat": {
+          "categoryId": null,
+          "categoryName": "Joint/Thermostat",
+          "level": 2,
+          "children": {
+            "Thermostat, liquide de refroidissement": {
+              "categoryId": 100094,
+              "categoryName": "Thermostat/Seal",
+              "level": 2,
+              "children": {
+                "Thermostat": {
+                  "categoryId": null,
+                  "categoryName": "Thermostat",
+                  "level": 4,
+                  "children": {
+                    "Thermostat, liquide de refroidissement": {
+                      "categoryId": 100095,
+                      "categoryName": "Thermostat",
+                      "level": 3,
+                      "children": [],
+                      "productId": 316
+                    }
+                  }
+                }
+              },
+              "productId": 316
+            }
+          }
+        },
+        "Recherche d'un article par graphique": {
+          "categoryId": null,
+          "categoryName": "Recherche d'un article par graphique",
+          "level": 2,
+          "children": {
+            "Thermostat, liquide de refroidissement": {
+              "categoryId": 103509,
+              "categoryName": "Article Search via Graphic",
+              "level": 2,
+              "children": [],
+              "productId": 4665
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Refroidissement [ID: 100007] (Niveau 1)\n    ├── Joint/Thermostat (Niveau 2)\n    │   └── Thermostat/Seal [ID: 100094] (Niveau 2) → ProductId: 316\n    │       └── Thermostat (Niveau 4)\n    │           └── Thermostat [ID: 100095] (Niveau 3) → ProductId: 316\n    └── Recherche d'un article par graphique (Niveau 2)\n        └── Article Search via Graphic [ID: 103509] (Niveau 2) → ProductId: 4665",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Refroidissement",
+        "Joint/Thermostat",
+        "Thermostat/Seal"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100094
+      ],
+      "finalCategoryId": 100094,
+      "productId": 316
+    },
+    {
+      "path": [
+        "Refroidissement",
+        "Recherche d'un article par graphique",
+        "Article Search via Graphic"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        103509
+      ],
+      "finalCategoryId": 103509,
+      "productId": 4665
+    }
+  ],
+  "productIdsInArbo": [
+    316,
+    4665
+  ],
+  "matchedProductIds": [
+    316
+  ]
+}

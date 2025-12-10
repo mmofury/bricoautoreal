@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.388Z",
+  "manufacturer": "LINKTOUR",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 5181,
+      "manufacturerName": "LINKTOUR",
+      "groupKey": "BINFEN",
+      "displayName": "BINFEN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45526,
+          "modelName": "BINFEN",
+          "modelYearFrom": "2023-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5181,
+      "manufacturerName": "LINKTOUR",
+      "groupKey": "E",
+      "displayName": "E",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39630,
+          "modelName": "E XING",
+          "modelYearFrom": "2017-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5181,
+      "manufacturerName": "LINKTOUR",
+      "groupKey": "K",
+      "displayName": "K",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39220,
+          "modelName": "K-ONE",
+          "modelYearFrom": "2018-12-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

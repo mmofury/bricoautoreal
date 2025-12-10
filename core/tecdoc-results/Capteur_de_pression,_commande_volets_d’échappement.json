@@ -1,0 +1,54 @@
+{
+  "productName": "Capteur de pression, commande volets d’échappement",
+  "searchText": "Capteur de pression, commande volets d’échappement",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:14:55.480Z",
+  "productId": 9609,
+  "arborescence": {
+    "Échappement": {
+      "categoryId": 100004,
+      "categoryName": "Échappement",
+      "level": 1,
+      "children": {
+        "Clapet de gaz d'échappement": {
+          "categoryId": null,
+          "categoryName": "Clapet de gaz d'échappement",
+          "level": 2,
+          "children": {
+            "Capteur de pression, commande volets d’échappement": {
+              "categoryId": 102451,
+              "categoryName": "Exhaust Gas Door",
+              "level": 2,
+              "children": [],
+              "productId": 9609
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Échappement [ID: 100004] (Niveau 1)\n    └── Clapet de gaz d'échappement (Niveau 2)\n        └── Exhaust Gas Door [ID: 102451] (Niveau 2) → ProductId: 9609",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Échappement",
+        "Clapet de gaz d'échappement",
+        "Exhaust Gas Door"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        102451
+      ],
+      "finalCategoryId": 102451,
+      "productId": 9609
+    }
+  ],
+  "productIdsInArbo": [
+    9609
+  ],
+  "matchedProductIds": [
+    9609
+  ]
+}

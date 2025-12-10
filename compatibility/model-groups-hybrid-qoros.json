@@ -1,0 +1,64 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.457Z",
+  "manufacturer": "QOROS",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 3839,
+      "manufacturerName": "QOROS",
+      "groupKey": "3",
+      "displayName": "3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11761,
+          "modelName": "3 A trois volumes",
+          "modelYearFrom": "2013-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 12861,
+          "modelName": "3 Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2014-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14646,
+          "modelName": "3 SUV",
+          "modelYearFrom": "2015-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3839,
+      "manufacturerName": "QOROS",
+      "groupKey": "5",
+      "displayName": "5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36510,
+          "modelName": "5",
+          "modelYearFrom": "2016-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3839,
+      "manufacturerName": "QOROS",
+      "groupKey": "7",
+      "displayName": "7",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41202,
+          "modelName": "7",
+          "modelYearFrom": "2020-09-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

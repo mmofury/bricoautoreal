@@ -1,0 +1,1696 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.440Z",
+  "manufacturer": "OPEL",
+  "countGroups": 43,
+  "groups": [
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "ADAM",
+      "displayName": "ADAM",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10731,
+          "modelName": "ADAM (M13)",
+          "modelYearFrom": "2012-10-01",
+          "modelYearTo": "2019-02-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "ADMIRAL",
+      "displayName": "ADMIRAL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1438,
+          "modelName": "ADMIRAL B",
+          "modelYearFrom": "1969-03-01",
+          "modelYearTo": "1978-01-01"
+        },
+        {
+          "modelId": 3482,
+          "modelName": "ADMIRAL A",
+          "modelYearFrom": "1964-04-01",
+          "modelYearTo": "1969-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "AGILA",
+      "displayName": "AGILA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4474,
+          "modelName": "AGILA A (H00)",
+          "modelYearFrom": "2000-03-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 6440,
+          "modelName": "AGILA B (H08)",
+          "modelYearFrom": "2008-04-01",
+          "modelYearTo": "2014-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "AMPERA",
+      "displayName": "AMPERA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9204,
+          "modelName": "AMPERA (R12)",
+          "modelYearFrom": "2011-11-01",
+          "modelYearTo": "2015-03-01"
+        },
+        {
+          "modelId": 37860,
+          "modelName": "AMPERA-E (F17)",
+          "modelYearFrom": "2017-05-01",
+          "modelYearTo": "2019-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "ANTARA",
+      "displayName": "ANTARA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5548,
+          "modelName": "ANTARA A (L07)",
+          "modelYearFrom": "2006-08-01",
+          "modelYearTo": "2017-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "ARENA",
+      "displayName": "ARENA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3542,
+          "modelName": "ARENA Fourgon (TB, TF)",
+          "modelYearFrom": "1998-03-01",
+          "modelYearTo": "2001-08-01"
+        },
+        {
+          "modelId": 3544,
+          "modelName": "ARENA Combi (A97)",
+          "modelYearFrom": "1998-03-01",
+          "modelYearTo": "2001-08-01"
+        },
+        {
+          "modelId": 9704,
+          "modelName": "ARENA Autobus/Autocar (A97)",
+          "modelYearFrom": "1997-01-01",
+          "modelYearTo": "2001-12-01"
+        },
+        {
+          "modelId": 9705,
+          "modelName": "ARENA Fourgon (A97)",
+          "modelYearFrom": "1997-01-01",
+          "modelYearTo": "2001-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "ASCONA",
+      "displayName": "ASCONA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 357,
+          "modelName": "ASCONA A (81_, 86_, 87_, 88_)",
+          "modelYearFrom": "1970-10-01",
+          "modelYearTo": "1975-08-01"
+        },
+        {
+          "modelId": 362,
+          "modelName": "ASCONA B (81_, 86_, 87_, 88_)",
+          "modelYearFrom": "1975-09-01",
+          "modelYearTo": "1981-08-01"
+        },
+        {
+          "modelId": 366,
+          "modelName": "ASCONA C (J82)",
+          "modelYearFrom": "1981-09-01",
+          "modelYearTo": "1988-10-01"
+        },
+        {
+          "modelId": 371,
+          "modelName": "ASCONA C Berline bicorps trois ou cinq portes (J82)",
+          "modelYearFrom": "1981-09-01",
+          "modelYearTo": "1988-08-01"
+        },
+        {
+          "modelId": 1443,
+          "modelName": "ASCONA A Caravan (84_, 89_)",
+          "modelYearFrom": "1970-10-01",
+          "modelYearTo": "1975-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "ASTRA",
+      "displayName": "ASTRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 376,
+          "modelName": "ASTRA F A trois volumes (T92)",
+          "modelYearFrom": "1991-09-01",
+          "modelYearTo": "2001-01-01"
+        },
+        {
+          "modelId": 380,
+          "modelName": "ASTRA F Décapotable (T92)",
+          "modelYearFrom": "1993-03-01",
+          "modelYearTo": "2001-03-01"
+        },
+        {
+          "modelId": 388,
+          "modelName": "ASTRA F Berline bicorps trois ou cinq portes (T92)",
+          "modelYearFrom": "1991-09-01",
+          "modelYearTo": "2000-10-01"
+        },
+        {
+          "modelId": 3405,
+          "modelName": "ASTRA G Berline bicorps trois ou cinq portes (T98)",
+          "modelYearFrom": "1998-02-01",
+          "modelYearTo": "2009-12-01"
+        },
+        {
+          "modelId": 3406,
+          "modelName": "ASTRA G Break (T98)",
+          "modelYearFrom": "1998-02-01",
+          "modelYearTo": "2005-07-01"
+        },
+        {
+          "modelId": 3440,
+          "modelName": "ASTRA F Break (T92)",
+          "modelYearFrom": "1991-09-01",
+          "modelYearTo": "2001-01-01"
+        },
+        {
+          "modelId": 3878,
+          "modelName": "ASTRA G A trois volumes (T98)",
+          "modelYearFrom": "1998-03-01",
+          "modelYearTo": "2009-12-01"
+        },
+        {
+          "modelId": 4017,
+          "modelName": "ASTRA F Fourgon/Break (T92)",
+          "modelYearFrom": "1991-10-01",
+          "modelYearTo": "1999-01-01"
+        },
+        {
+          "modelId": 4203,
+          "modelName": "ASTRA G Coupé (T98)",
+          "modelYearFrom": "2000-03-01",
+          "modelYearTo": "2006-06-01"
+        },
+        {
+          "modelId": 4583,
+          "modelName": "ASTRA G Fourgon/Break (F70)",
+          "modelYearFrom": "1998-09-01",
+          "modelYearTo": "2005-04-01"
+        },
+        {
+          "modelId": 4702,
+          "modelName": "ASTRA F CLASSIC A trois volumes (T92)",
+          "modelYearFrom": "1998-01-01",
+          "modelYearTo": "2002-08-01"
+        },
+        {
+          "modelId": 4703,
+          "modelName": "ASTRA F CLASSIC Berline bicorps trois ou cinq portes (T92)",
+          "modelYearFrom": "1998-01-01",
+          "modelYearTo": "2002-08-01"
+        },
+        {
+          "modelId": 4704,
+          "modelName": "ASTRA F CLASSIC Break (T92)",
+          "modelYearFrom": "1998-01-01",
+          "modelYearTo": "2005-01-01"
+        },
+        {
+          "modelId": 4760,
+          "modelName": "ASTRA G Décapotable (T98)",
+          "modelYearFrom": "2001-03-01",
+          "modelYearTo": "2005-10-01"
+        },
+        {
+          "modelId": 5098,
+          "modelName": "ASTRA H (A04)",
+          "modelYearFrom": "2004-01-01",
+          "modelYearTo": "2014-05-01"
+        },
+        {
+          "modelId": 5145,
+          "modelName": "ASTRA H Break (A04)",
+          "modelYearFrom": "2004-08-01",
+          "modelYearTo": "2014-05-01"
+        },
+        {
+          "modelId": 5209,
+          "modelName": "ASTRA H GTC (A04)",
+          "modelYearFrom": "2005-03-01",
+          "modelYearTo": "2010-10-01"
+        },
+        {
+          "modelId": 5453,
+          "modelName": "ASTRA H TwinTop (A04)",
+          "modelYearFrom": "2005-09-01",
+          "modelYearTo": "2010-10-01"
+        },
+        {
+          "modelId": 7918,
+          "modelName": "ASTRA H A trois volumes (A04)",
+          "modelYearFrom": "2007-02-01",
+          "modelYearTo": "2014-05-01"
+        },
+        {
+          "modelId": 8261,
+          "modelName": "ASTRA J (P10)",
+          "modelYearFrom": "2009-09-01",
+          "modelYearTo": "2016-04-01"
+        },
+        {
+          "modelId": 9017,
+          "modelName": "ASTRA J Sports Tourer (P10)",
+          "modelYearFrom": "2010-10-01",
+          "modelYearTo": "2015-10-01"
+        },
+        {
+          "modelId": 9183,
+          "modelName": "ASTRA H Fourgon/Break (L70)",
+          "modelYearFrom": "2004-02-01",
+          "modelYearTo": "2014-10-01"
+        },
+        {
+          "modelId": 9628,
+          "modelName": "ASTRA J GTC",
+          "modelYearFrom": "2011-10-01",
+          "modelYearTo": "2018-04-01"
+        },
+        {
+          "modelId": 10351,
+          "modelName": "ASTRA J A trois volumes",
+          "modelYearFrom": "2012-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14508,
+          "modelName": "ASTRA K (B16)",
+          "modelYearFrom": "2015-06-01",
+          "modelYearTo": "2022-12-01"
+        },
+        {
+          "modelId": 14870,
+          "modelName": "ASTRA K Sports Tourer (B16)",
+          "modelYearFrom": "2015-11-01",
+          "modelYearTo": "2022-12-01"
+        },
+        {
+          "modelId": 37067,
+          "modelName": "ASTRA H FAMILY Berline bicorps trois ou cinq portes (A04)",
+          "modelYearFrom": "2009-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37099,
+          "modelName": "ASTRA H FAMILY A trois volumes (A04)",
+          "modelYearFrom": "2007-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37112,
+          "modelName": "ASTRA H FAMILY Caravan (A04)",
+          "modelYearFrom": "2006-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38278,
+          "modelName": "ASTRA G CLASSIC (T98)",
+          "modelYearFrom": "2004-03-01",
+          "modelYearTo": "2009-07-01"
+        },
+        {
+          "modelId": 38279,
+          "modelName": "ASTRA G CLASSIC A trois volumes (T98)",
+          "modelYearFrom": "2004-03-01",
+          "modelYearTo": "2009-07-01"
+        },
+        {
+          "modelId": 38280,
+          "modelName": "ASTRA G CLASSIC Caravan (F35)",
+          "modelYearFrom": "2004-03-01",
+          "modelYearTo": "2009-07-01"
+        },
+        {
+          "modelId": 38919,
+          "modelName": "ASTRA J Camionnette/Berline bicorps trois ou cinq portes (P1",
+          "modelYearFrom": "2009-09-01",
+          "modelYearTo": "2015-10-01"
+        },
+        {
+          "modelId": 38920,
+          "modelName": "ASTRA J Fourgon/Break (P10)",
+          "modelYearFrom": "2009-09-01",
+          "modelYearTo": "2015-10-01"
+        },
+        {
+          "modelId": 40158,
+          "modelName": "ASTRA K Camionnette/Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2015-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41091,
+          "modelName": "ASTRA K Fourgon/Break",
+          "modelYearFrom": "2015-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42533,
+          "modelName": "ASTRA L (OV5)",
+          "modelYearFrom": "2021-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42642,
+          "modelName": "ASTRA L Sports Tourer (OV5)",
+          "modelYearFrom": "2021-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "BLAZER",
+      "displayName": "BLAZER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41640,
+          "modelName": "BLAZER",
+          "modelYearFrom": "1996-01-01",
+          "modelYearTo": "2002-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "CALIBRA",
+      "displayName": "CALIBRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 442,
+          "modelName": "CALIBRA A (C89)",
+          "modelYearFrom": "1989-08-01",
+          "modelYearTo": "1997-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "CAMPO",
+      "displayName": "CAMPO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1881,
+          "modelName": "CAMPO (TF0, TF1)",
+          "modelYearFrom": "1987-08-01",
+          "modelYearTo": "2002-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "CASCADA",
+      "displayName": "CASCADA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11177,
+          "modelName": "CASCADA (W13)",
+          "modelYearFrom": "2013-03-01",
+          "modelYearTo": "2019-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "COMBO",
+      "displayName": "COMBO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 54,
+          "modelName": "COMBO Camionnette/Monospace (71_)",
+          "modelYearFrom": "1994-07-01",
+          "modelYearTo": "2001-10-01"
+        },
+        {
+          "modelId": 4818,
+          "modelName": "COMBO Camionnette/Monospace",
+          "modelYearFrom": "2001-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 4982,
+          "modelName": "COMBO Tour",
+          "modelYearFrom": "2001-10-01",
+          "modelYearTo": "2011-12-01"
+        },
+        {
+          "modelId": 10000,
+          "modelName": "COMBO Camionnette/Monospace (X12)",
+          "modelYearFrom": "2012-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10001,
+          "modelName": "COMBO Tour (X12)",
+          "modelYearFrom": "2012-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38760,
+          "modelName": "COMBO E Tour / Life (K9)",
+          "modelYearFrom": "2018-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39036,
+          "modelName": "COMBO Camionnette/Monospace (K9)",
+          "modelYearFrom": "2018-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "COMMODORE",
+      "displayName": "COMMODORE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 58,
+          "modelName": "COMMODORE B Coupé",
+          "modelYearFrom": "1972-01-01",
+          "modelYearTo": "1978-07-01"
+        },
+        {
+          "modelId": 62,
+          "modelName": "COMMODORE B",
+          "modelYearFrom": "1972-01-01",
+          "modelYearTo": "1978-07-01"
+        },
+        {
+          "modelId": 68,
+          "modelName": "COMMODORE C Break (61)",
+          "modelYearFrom": "1980-12-01",
+          "modelYearTo": "1982-12-01"
+        },
+        {
+          "modelId": 3436,
+          "modelName": "COMMODORE C (14_, 19_)",
+          "modelYearFrom": "1978-08-01",
+          "modelYearTo": "1982-12-01"
+        },
+        {
+          "modelId": 4036,
+          "modelName": "COMMODORE A",
+          "modelYearFrom": "1967-08-01",
+          "modelYearTo": "1972-01-01"
+        },
+        {
+          "modelId": 4037,
+          "modelName": "COMMODORE A Coupé",
+          "modelYearFrom": "1967-08-01",
+          "modelYearTo": "1972-01-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "CORSA",
+      "displayName": "CORSA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 181,
+          "modelName": "CORSA A TR (S83)",
+          "modelYearFrom": "1982-09-01",
+          "modelYearTo": "1993-03-01"
+        },
+        {
+          "modelId": 184,
+          "modelName": "CORSA A Berline bicorps trois ou cinq portes (S83)",
+          "modelYearFrom": "1982-09-01",
+          "modelYearTo": "1993-03-01"
+        },
+        {
+          "modelId": 189,
+          "modelName": "CORSA B (S93)",
+          "modelYearFrom": "1993-03-01",
+          "modelYearTo": "2009-10-01"
+        },
+        {
+          "modelId": 1806,
+          "modelName": "CORSA A Camionnette/Berline bicorps trois ou cinq portes (S8",
+          "modelYearFrom": "1986-02-01",
+          "modelYearTo": "1994-09-01"
+        },
+        {
+          "modelId": 4628,
+          "modelName": "CORSA B Camionnette/Berline bicorps trois ou cinq portes (S9",
+          "modelYearFrom": "1994-08-01",
+          "modelYearTo": "2001-12-01"
+        },
+        {
+          "modelId": 4650,
+          "modelName": "CORSA C (X01)",
+          "modelYearFrom": "2000-09-01",
+          "modelYearTo": "2009-12-01"
+        },
+        {
+          "modelId": 4820,
+          "modelName": "CORSA C Camionnette/Berline bicorps trois ou cinq portes (X0",
+          "modelYearFrom": "2000-09-01",
+          "modelYearTo": "2012-12-01"
+        },
+        {
+          "modelId": 5598,
+          "modelName": "CORSA D (S07)",
+          "modelYearFrom": "2006-07-01",
+          "modelYearTo": "2015-04-01"
+        },
+        {
+          "modelId": 7942,
+          "modelName": "CORSA CLASSIC B A trois volumes",
+          "modelYearFrom": "1994-08-01",
+          "modelYearTo": "2005-12-01"
+        },
+        {
+          "modelId": 8247,
+          "modelName": "CORSA B Caravan (S93)",
+          "modelYearFrom": "1998-04-01",
+          "modelYearTo": "2002-12-01"
+        },
+        {
+          "modelId": 9180,
+          "modelName": "CORSA D Camionnette/Berline bicorps trois ou cinq portes (S0",
+          "modelYearFrom": "2006-07-01",
+          "modelYearTo": "2014-08-01"
+        },
+        {
+          "modelId": 10506,
+          "modelName": "CORSA UTILITY C Pick-up",
+          "modelYearFrom": "2003-01-01",
+          "modelYearTo": "2012-12-01"
+        },
+        {
+          "modelId": 10507,
+          "modelName": "CORSA UTILITY B Pick-up",
+          "modelYearFrom": "1997-02-01",
+          "modelYearTo": "2004-12-01"
+        },
+        {
+          "modelId": 13137,
+          "modelName": "CORSA E (X15)",
+          "modelYearFrom": "2014-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13635,
+          "modelName": "CORSA E Camionnette/Berline bicorps trois ou cinq portes (X1",
+          "modelYearFrom": "2014-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39696,
+          "modelName": "CORSA F (P2JO)",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40192,
+          "modelName": "CORSA CLASSIC C A trois volumes (X01)",
+          "modelYearFrom": "2000-09-01",
+          "modelYearTo": "2009-12-01"
+        },
+        {
+          "modelId": 41093,
+          "modelName": "CORSA F Camionnette/Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "CROSSLAND",
+      "displayName": "CROSSLAND",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37757,
+          "modelName": "CROSSLAND X / CROSSLAND (P17, P2QO)",
+          "modelYearFrom": "2017-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41094,
+          "modelName": "CROSSLAND X Van",
+          "modelYearFrom": "2017-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "DIPLOMAT",
+      "displayName": "DIPLOMAT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1439,
+          "modelName": "DIPLOMAT A",
+          "modelYearFrom": "1964-10-01",
+          "modelYearTo": "1969-03-01"
+        },
+        {
+          "modelId": 1440,
+          "modelName": "DIPLOMAT A Coupé",
+          "modelYearFrom": "1965-03-01",
+          "modelYearTo": "1967-10-01"
+        },
+        {
+          "modelId": 1441,
+          "modelName": "DIPLOMAT B",
+          "modelYearFrom": "1969-03-01",
+          "modelYearTo": "1978-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "FRONTERA",
+      "displayName": "FRONTERA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 435,
+          "modelName": "FRONTERA A Sport (U92)",
+          "modelYearFrom": "1992-03-01",
+          "modelYearTo": "1998-10-01"
+        },
+        {
+          "modelId": 3443,
+          "modelName": "FRONTERA A (U92)",
+          "modelYearFrom": "1992-03-01",
+          "modelYearTo": "1998-10-01"
+        },
+        {
+          "modelId": 3879,
+          "modelName": "FRONTERA B (U99)",
+          "modelYearFrom": "1998-09-01",
+          "modelYearTo": "2004-07-01"
+        },
+        {
+          "modelId": 45684,
+          "modelName": "FRONTERA (OV24)",
+          "modelYearFrom": "2024-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "GRANDLAND",
+      "displayName": "GRANDLAND",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38031,
+          "modelName": "GRANDLAND / GRANDLAND X (A18, P1UO)",
+          "modelYearFrom": "2017-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41095,
+          "modelName": "GRANDLAND X Van",
+          "modelYearFrom": "2017-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45888,
+          "modelName": "GRANDLAND (OV64)",
+          "modelYearFrom": "2024-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "GT",
+      "displayName": "GT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 532,
+          "modelName": "GT",
+          "modelYearFrom": "1968-09-01",
+          "modelYearTo": "1973-08-01"
+        },
+        {
+          "modelId": 6388,
+          "modelName": "GT Décapotable (M07)",
+          "modelYearFrom": "2007-06-01",
+          "modelYearTo": "2011-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "INSIGNIA",
+      "displayName": "INSIGNIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7581,
+          "modelName": "INSIGNIA A (G09)",
+          "modelYearFrom": "2008-07-01",
+          "modelYearTo": "2017-03-01"
+        },
+        {
+          "modelId": 7582,
+          "modelName": "INSIGNIA A A trois volumes (G09)",
+          "modelYearFrom": "2008-07-01",
+          "modelYearTo": "2017-03-01"
+        },
+        {
+          "modelId": 7861,
+          "modelName": "INSIGNIA A Sports Tourer (G09)",
+          "modelYearFrom": "2008-07-01",
+          "modelYearTo": "2017-03-01"
+        },
+        {
+          "modelId": 37800,
+          "modelName": "INSIGNIA B Grand Sport (Z18)",
+          "modelYearFrom": "2017-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37807,
+          "modelName": "INSIGNIA B Sports Tourer (Z18)",
+          "modelYearFrom": "2017-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38225,
+          "modelName": "INSIGNIA A Country Tourer (G09)",
+          "modelYearFrom": "2008-07-01",
+          "modelYearTo": "2017-03-01"
+        },
+        {
+          "modelId": 38237,
+          "modelName": "INSIGNIA B Country Tourer (Z18)",
+          "modelYearFrom": "2017-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39663,
+          "modelName": "INSIGNIA B Sports Tourer Combi Van (Z18)",
+          "modelYearFrom": "2017-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "KADETT",
+      "displayName": "KADETT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33,
+          "modelName": "KADETT B Coupé",
+          "modelYearFrom": "1965-09-01",
+          "modelYearTo": "1973-08-01"
+        },
+        {
+          "modelId": 41,
+          "modelName": "KADETT C Break",
+          "modelYearFrom": "1973-08-01",
+          "modelYearTo": "1979-07-01"
+        },
+        {
+          "modelId": 45,
+          "modelName": "KADETT C City",
+          "modelYearFrom": "1973-08-01",
+          "modelYearTo": "1979-07-01"
+        },
+        {
+          "modelId": 50,
+          "modelName": "KADETT C Coupé",
+          "modelYearFrom": "1973-08-01",
+          "modelYearTo": "1979-07-01"
+        },
+        {
+          "modelId": 55,
+          "modelName": "KADETT C",
+          "modelYearFrom": "1973-08-01",
+          "modelYearTo": "1979-07-01"
+        },
+        {
+          "modelId": 63,
+          "modelName": "KADETT D (31_-34_, 41_-44_)",
+          "modelYearFrom": "1979-08-01",
+          "modelYearTo": "1984-08-01"
+        },
+        {
+          "modelId": 69,
+          "modelName": "KADETT E (T85)",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 74,
+          "modelName": "KADETT E Décapotable (T85)",
+          "modelYearFrom": "1986-10-01",
+          "modelYearTo": "1993-02-01"
+        },
+        {
+          "modelId": 80,
+          "modelName": "KADETT E Break (T85)",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1991-08-01"
+        },
+        {
+          "modelId": 85,
+          "modelName": "KADETT E Berline bicorps trois ou cinq portes (T85)",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 1436,
+          "modelName": "KADETT A",
+          "modelYearFrom": "1962-09-01",
+          "modelYearTo": "1965-08-01"
+        },
+        {
+          "modelId": 1437,
+          "modelName": "KADETT A Coupé",
+          "modelYearFrom": "1962-09-01",
+          "modelYearTo": "1965-08-01"
+        },
+        {
+          "modelId": 1442,
+          "modelName": "KADETT A Break",
+          "modelYearFrom": "1963-03-01",
+          "modelYearTo": "1968-08-01"
+        },
+        {
+          "modelId": 1830,
+          "modelName": "KADETT E Combo (T85)",
+          "modelYearFrom": "1986-01-01",
+          "modelYearTo": "1994-07-01"
+        },
+        {
+          "modelId": 3435,
+          "modelName": "KADETT B",
+          "modelYearFrom": "1965-09-01",
+          "modelYearTo": "1973-08-01"
+        },
+        {
+          "modelId": 3441,
+          "modelName": "KADETT B Break",
+          "modelYearFrom": "1965-09-01",
+          "modelYearTo": "1973-08-01"
+        },
+        {
+          "modelId": 3442,
+          "modelName": "KADETT D Break (35_, 36_, 45_, 46_)",
+          "modelYearFrom": "1979-08-01",
+          "modelYearTo": "1984-08-01"
+        },
+        {
+          "modelId": 4038,
+          "modelName": "KADETT E Fourgon/Break (T85)",
+          "modelYearFrom": "1984-08-01",
+          "modelYearTo": "1993-09-01"
+        },
+        {
+          "modelId": 5443,
+          "modelName": "KADETT D (32_,37_,39, _42)",
+          "modelYearFrom": "1979-08-01",
+          "modelYearTo": "1984-08-01"
+        },
+        {
+          "modelId": 37052,
+          "modelName": "KADETT C AERO",
+          "modelYearFrom": "1976-09-01",
+          "modelYearTo": "1979-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "KAPIT",
+      "displayName": "KAPIT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1789,
+          "modelName": "KAPITÄN P",
+          "modelYearFrom": "1958-05-01",
+          "modelYearTo": "1963-12-01"
+        },
+        {
+          "modelId": 10220,
+          "modelName": "KAPITÄN",
+          "modelYearFrom": "1955-05-01",
+          "modelYearTo": "1958-12-01"
+        },
+        {
+          "modelId": 13108,
+          "modelName": "KAPITÄN A",
+          "modelYearFrom": "1964-03-01",
+          "modelYearTo": "1968-12-01"
+        },
+        {
+          "modelId": 41186,
+          "modelName": "KAPITÄN B",
+          "modelYearFrom": "1968-08-01",
+          "modelYearTo": "1971-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "KARL",
+      "displayName": "KARL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13827,
+          "modelName": "KARL (C16)",
+          "modelYearFrom": "2015-01-01",
+          "modelYearTo": "2019-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "MANTA",
+      "displayName": "MANTA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 250,
+          "modelName": "MANTA A (58_, 59_)",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1975-08-01"
+        },
+        {
+          "modelId": 255,
+          "modelName": "MANTA B (58_, 59_)",
+          "modelYearFrom": "1975-09-01",
+          "modelYearTo": "1988-08-01"
+        },
+        {
+          "modelId": 259,
+          "modelName": "MANTA B CC (53_, 55_)",
+          "modelYearFrom": "1975-09-01",
+          "modelYearTo": "1988-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "MERIVA",
+      "displayName": "MERIVA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4926,
+          "modelName": "MERIVA A Monospace (X03)",
+          "modelYearFrom": "2003-05-01",
+          "modelYearTo": "2010-05-01"
+        },
+        {
+          "modelId": 8549,
+          "modelName": "MERIVA B Monospace (S10)",
+          "modelYearFrom": "2010-06-01",
+          "modelYearTo": "2017-03-01"
+        },
+        {
+          "modelId": 41716,
+          "modelName": "MERIVA B VAN (S10)",
+          "modelYearFrom": "2010-06-01",
+          "modelYearTo": "2017-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "MIDI",
+      "displayName": "MIDI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42804,
+          "modelName": "MIDI Fourgon",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1997-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "MOKKA",
+      "displayName": "MOKKA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10264,
+          "modelName": "MOKKA / MOKKA X (J13)",
+          "modelYearFrom": "2012-06-01",
+          "modelYearTo": "2019-12-01"
+        },
+        {
+          "modelId": 40942,
+          "modelName": "MOKKA",
+          "modelYearFrom": "2020-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41717,
+          "modelName": "MOKKA X VAN (J13)",
+          "modelYearFrom": "2012-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "MONTEREY",
+      "displayName": "MONTEREY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3683,
+          "modelName": "MONTEREY B (M98)",
+          "modelYearFrom": "1998-07-01",
+          "modelYearTo": "1999-08-01"
+        },
+        {
+          "modelId": 3684,
+          "modelName": "MONTEREY A (M92)",
+          "modelYearFrom": "1991-08-01",
+          "modelYearTo": "1998-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "MONZA",
+      "displayName": "MONZA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 314,
+          "modelName": "MONZA A (22_)",
+          "modelYearFrom": "1978-02-01",
+          "modelYearTo": "1986-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "MOVANO",
+      "displayName": "MOVANO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3903,
+          "modelName": "MOVANO A Fourgon (X70)",
+          "modelYearFrom": "1999-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 3904,
+          "modelName": "MOVANO A Camion plate-forme/Châssis (X70)",
+          "modelYearFrom": "1998-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 3995,
+          "modelName": "MOVANO A Autobus/Autocar (X70)",
+          "modelYearFrom": "1998-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 8977,
+          "modelName": "MOVANO B Fourgon (X62)",
+          "modelYearFrom": "2010-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 8978,
+          "modelName": "MOVANO B Camion plate-forme/Châssis (X62)",
+          "modelYearFrom": "2010-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 9566,
+          "modelName": "MOVANO B Autobus/Autocar (X62)",
+          "modelYearFrom": "2010-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42616,
+          "modelName": "MOVANO C Fourgon (U9)",
+          "modelYearFrom": "2021-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42617,
+          "modelName": "MOVANO C Camion plate-forme/Châssis (U9)",
+          "modelYearFrom": "2021-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "OLYMPIA",
+      "displayName": "OLYMPIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1788,
+          "modelName": "OLYMPIA REKORD",
+          "modelYearFrom": "1953-03-01",
+          "modelYearTo": "1966-08-01"
+        },
+        {
+          "modelId": 1791,
+          "modelName": "OLYMPIA REKORD Break",
+          "modelYearFrom": "1957-07-01",
+          "modelYearTo": "1960-12-01"
+        },
+        {
+          "modelId": 4040,
+          "modelName": "OLYMPIA A",
+          "modelYearFrom": "1967-08-01",
+          "modelYearTo": "1971-08-01"
+        },
+        {
+          "modelId": 4041,
+          "modelName": "OLYMPIA A Coupé",
+          "modelYearFrom": "1967-08-01",
+          "modelYearTo": "1971-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "OMEGA",
+      "displayName": "OMEGA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 350,
+          "modelName": "OMEGA A Break (V87)",
+          "modelYearFrom": "1986-09-01",
+          "modelYearTo": "1994-05-01"
+        },
+        {
+          "modelId": 354,
+          "modelName": "OMEGA A (V87)",
+          "modelYearFrom": "1986-09-01",
+          "modelYearTo": "1994-05-01"
+        },
+        {
+          "modelId": 359,
+          "modelName": "OMEGA B Break (V94)",
+          "modelYearFrom": "1994-03-01",
+          "modelYearTo": "2003-07-01"
+        },
+        {
+          "modelId": 3466,
+          "modelName": "OMEGA B (V94)",
+          "modelYearFrom": "1994-03-01",
+          "modelYearTo": "2005-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "REKORD",
+      "displayName": "REKORD",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42,
+          "modelName": "REKORD C Break",
+          "modelYearFrom": "1966-08-01",
+          "modelYearTo": "1971-12-01"
+        },
+        {
+          "modelId": 46,
+          "modelName": "REKORD C Coupé",
+          "modelYearFrom": "1966-08-01",
+          "modelYearTo": "1971-12-01"
+        },
+        {
+          "modelId": 51,
+          "modelName": "REKORD C",
+          "modelYearFrom": "1966-08-01",
+          "modelYearTo": "1971-12-01"
+        },
+        {
+          "modelId": 56,
+          "modelName": "REKORD D Break",
+          "modelYearFrom": "1972-01-01",
+          "modelYearTo": "1977-08-01"
+        },
+        {
+          "modelId": 59,
+          "modelName": "REKORD D Coupé",
+          "modelYearFrom": "1972-01-01",
+          "modelYearTo": "1977-08-01"
+        },
+        {
+          "modelId": 64,
+          "modelName": "REKORD D",
+          "modelYearFrom": "1972-01-01",
+          "modelYearTo": "1977-08-01"
+        },
+        {
+          "modelId": 70,
+          "modelName": "REKORD E Break (61_, 66_, 67_)",
+          "modelYearFrom": "1977-08-01",
+          "modelYearTo": "1986-08-01"
+        },
+        {
+          "modelId": 75,
+          "modelName": "REKORD E (17_, 11_, 14_, 16_, 18_, 19_)",
+          "modelYearFrom": "1977-08-01",
+          "modelYearTo": "1986-08-01"
+        },
+        {
+          "modelId": 1810,
+          "modelName": "REKORD A",
+          "modelYearFrom": "1963-01-01",
+          "modelYearTo": "1965-12-01"
+        },
+        {
+          "modelId": 1811,
+          "modelName": "REKORD B",
+          "modelYearFrom": "1965-01-01",
+          "modelYearTo": "1966-12-01"
+        },
+        {
+          "modelId": 4031,
+          "modelName": "REKORD P1",
+          "modelYearFrom": "1957-06-01",
+          "modelYearTo": "1961-09-01"
+        },
+        {
+          "modelId": 4032,
+          "modelName": "REKORD P2",
+          "modelYearFrom": "1960-08-01",
+          "modelYearTo": "1963-01-01"
+        },
+        {
+          "modelId": 4033,
+          "modelName": "REKORD P2 Break",
+          "modelYearFrom": "1960-08-01",
+          "modelYearTo": "1963-01-01"
+        },
+        {
+          "modelId": 4034,
+          "modelName": "REKORD P2 Coupé",
+          "modelYearFrom": "1960-08-01",
+          "modelYearTo": "1963-01-01"
+        },
+        {
+          "modelId": 4035,
+          "modelName": "REKORD A Coupé",
+          "modelYearFrom": "1963-01-01",
+          "modelYearTo": "1965-12-01"
+        },
+        {
+          "modelId": 4039,
+          "modelName": "REKORD P1 Break",
+          "modelYearFrom": "1957-07-01",
+          "modelYearTo": "1961-09-01"
+        },
+        {
+          "modelId": 4042,
+          "modelName": "REKORD B Break",
+          "modelYearFrom": "1965-08-01",
+          "modelYearTo": "1967-03-01"
+        },
+        {
+          "modelId": 4043,
+          "modelName": "REKORD B Coupé",
+          "modelYearFrom": "1965-08-01",
+          "modelYearTo": "1967-02-01"
+        },
+        {
+          "modelId": 11220,
+          "modelName": "REKORD E2 (17_, 16_)",
+          "modelYearFrom": "1986-01-01",
+          "modelYearTo": "1996-08-01"
+        },
+        {
+          "modelId": 37645,
+          "modelName": "REKORD A Break",
+          "modelYearFrom": "1963-01-01",
+          "modelYearTo": "1965-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "ROCKS",
+      "displayName": "ROCKS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42437,
+          "modelName": "ROCKS-E",
+          "modelYearFrom": "2021-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "SENATOR",
+      "displayName": "SENATOR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 232,
+          "modelName": "SENATOR A (29_)",
+          "modelYearFrom": "1978-02-01",
+          "modelYearTo": "1987-08-01"
+        },
+        {
+          "modelId": 237,
+          "modelName": "SENATOR B (V88)",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "1993-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "SIGNUM",
+      "displayName": "SIGNUM",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4956,
+          "modelName": "SIGNUM Berline bicorps trois ou cinq portes (Z03)",
+          "modelYearFrom": "2003-05-01",
+          "modelYearTo": "2008-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "SINTRA",
+      "displayName": "SINTRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1579,
+          "modelName": "SINTRA (APV)",
+          "modelYearFrom": "1996-11-01",
+          "modelYearTo": "1999-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "SPEEDSTER",
+      "displayName": "SPEEDSTER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4573,
+          "modelName": "SPEEDSTER (E01)",
+          "modelYearFrom": "2000-06-01",
+          "modelYearTo": "2006-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "TIGRA",
+      "displayName": "TIGRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3467,
+          "modelName": "TIGRA (S93)",
+          "modelYearFrom": "1994-07-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 5153,
+          "modelName": "TIGRA TwinTop (X04)",
+          "modelYearFrom": "2004-06-01",
+          "modelYearTo": "2010-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "VECTRA",
+      "displayName": "VECTRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 490,
+          "modelName": "VECTRA A (J89)",
+          "modelYearFrom": "1988-08-01",
+          "modelYearTo": "1995-12-01"
+        },
+        {
+          "modelId": 1453,
+          "modelName": "VECTRA B Berline bicorps trois ou cinq portes (J96)",
+          "modelYearFrom": "1995-09-01",
+          "modelYearTo": "2003-07-01"
+        },
+        {
+          "modelId": 1454,
+          "modelName": "VECTRA B (J96)",
+          "modelYearFrom": "1995-09-01",
+          "modelYearTo": "2004-07-01"
+        },
+        {
+          "modelId": 1578,
+          "modelName": "VECTRA B Break (J96)",
+          "modelYearFrom": "1996-11-01",
+          "modelYearTo": "2003-07-01"
+        },
+        {
+          "modelId": 3866,
+          "modelName": "VECTRA A Berline bicorps trois ou cinq portes (J89)",
+          "modelYearFrom": "1988-04-01",
+          "modelYearTo": "1995-12-01"
+        },
+        {
+          "modelId": 4865,
+          "modelName": "VECTRA C (Z02)",
+          "modelYearFrom": "2002-04-01",
+          "modelYearTo": "2009-01-01"
+        },
+        {
+          "modelId": 4871,
+          "modelName": "VECTRA C GTS (Z02)",
+          "modelYearFrom": "2002-08-01",
+          "modelYearTo": "2009-01-01"
+        },
+        {
+          "modelId": 5057,
+          "modelName": "VECTRA C Break (Z02)",
+          "modelYearFrom": "2003-10-01",
+          "modelYearTo": "2009-01-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "VIVARO",
+      "displayName": "VIVARO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4757,
+          "modelName": "VIVARO A Fourgon (X83)",
+          "modelYearFrom": "2001-08-01",
+          "modelYearTo": "2015-10-01"
+        },
+        {
+          "modelId": 4758,
+          "modelName": "VIVARO A Autobus/Autocar (X83)",
+          "modelYearFrom": "2001-08-01",
+          "modelYearTo": "2015-10-01"
+        },
+        {
+          "modelId": 6712,
+          "modelName": "VIVARO A Camion plate-forme/Châssis (X83)",
+          "modelYearFrom": "2001-02-01",
+          "modelYearTo": "2014-07-01"
+        },
+        {
+          "modelId": 12812,
+          "modelName": "VIVARO B Autobus/Autocar (X82)",
+          "modelYearFrom": "2014-06-01",
+          "modelYearTo": "2019-12-01"
+        },
+        {
+          "modelId": 12813,
+          "modelName": "VIVARO B Fourgon (X82)",
+          "modelYearFrom": "2014-06-01",
+          "modelYearTo": "2020-11-01"
+        },
+        {
+          "modelId": 14563,
+          "modelName": "VIVARO B Camion plate-forme/Châssis (X82)",
+          "modelYearFrom": "2014-06-01",
+          "modelYearTo": "2019-12-01"
+        },
+        {
+          "modelId": 39890,
+          "modelName": "VIVARO C Fourgon (K0)",
+          "modelYearFrom": "2019-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39891,
+          "modelName": "VIVARO C Autobus/Autocar (K0)",
+          "modelYearFrom": "2019-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39892,
+          "modelName": "VIVARO C Platform Cabin (K0)",
+          "modelYearFrom": "2019-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 84,
+      "manufacturerName": "OPEL",
+      "groupKey": "ZAFIRA",
+      "displayName": "ZAFIRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4044,
+          "modelName": "ZAFIRA A Monospace (T98)",
+          "modelYearFrom": "1999-04-01",
+          "modelYearTo": "2006-06-01"
+        },
+        {
+          "modelId": 5425,
+          "modelName": "ZAFIRA / ZAFIRA FAMILY B (A05)",
+          "modelYearFrom": "2005-07-01",
+          "modelYearTo": "2019-05-01"
+        },
+        {
+          "modelId": 9184,
+          "modelName": "ZAFIRA B Camionnette/Monospace (A05)",
+          "modelYearFrom": "2005-07-01",
+          "modelYearTo": "2015-04-01"
+        },
+        {
+          "modelId": 9717,
+          "modelName": "ZAFIRA TOURER C (P12)",
+          "modelYearFrom": "2011-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39813,
+          "modelName": "ZAFIRA LIFE Autobus/Autocar (K0)",
+          "modelYearFrom": "2019-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41718,
+          "modelName": "ZAFIRA TOURER C VAN (P12)",
+          "modelYearFrom": "2011-10-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

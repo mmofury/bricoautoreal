@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.158Z",
+  "manufacturer": "APOLLO",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 5136,
+      "manufacturerName": "APOLLO",
+      "groupKey": "APOLLO",
+      "displayName": "APOLLO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38986,
+          "modelName": "APOLLO N Coupé",
+          "modelYearFrom": "2016-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5136,
+      "manufacturerName": "APOLLO",
+      "groupKey": "ARROW",
+      "displayName": "ARROW",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38987,
+          "modelName": "ARROW Coupé",
+          "modelYearFrom": "2016-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5136,
+      "manufacturerName": "APOLLO",
+      "groupKey": "IE",
+      "displayName": "IE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38988,
+          "modelName": "IE Coupé",
+          "modelYearFrom": "2017-06-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

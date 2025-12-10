@@ -1,0 +1,69 @@
+{
+  "productName": "Bague d'étanchéité, mâchoire de frein",
+  "searchText": "Bague d'étanchéité, mâchoire de frein",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:04:04.400Z",
+  "productId": 1744,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Frein à tambour": {
+          "categoryId": null,
+          "categoryName": "Frein à tambour",
+          "level": 2,
+          "children": {
+            "Bague d'étanchéité, mâchoire de frein": {
+              "categoryId": 100627,
+              "categoryName": "Drum Brake",
+              "level": 2,
+              "children": {
+                "Garniture/machoire de frein": {
+                  "categoryId": null,
+                  "categoryName": "Garniture/machoire de frein",
+                  "level": 4,
+                  "children": {
+                    "Bague d'étanchéité, mâchoire de frein": {
+                      "categoryId": 100031,
+                      "categoryName": "Brake Lining/Shoe",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1744
+                    }
+                  }
+                }
+              },
+              "productId": 1744
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif de freinage [ID: 100006] (Niveau 1)\n    └── Frein à tambour (Niveau 2)\n        └── Drum Brake [ID: 100627] (Niveau 2) → ProductId: 1744\n            └── Garniture/machoire de frein (Niveau 4)\n                └── Brake Lining/Shoe [ID: 100031] (Niveau 3) → ProductId: 1744",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Frein à tambour",
+        "Drum Brake"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100627
+      ],
+      "finalCategoryId": 100627,
+      "productId": 1744
+    }
+  ],
+  "productIdsInArbo": [
+    1744
+  ],
+  "matchedProductIds": [
+    1744
+  ]
+}

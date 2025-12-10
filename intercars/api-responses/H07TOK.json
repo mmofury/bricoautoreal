@@ -1,0 +1,50 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H07TOK",
+      "index": "V10-5839",
+      "tecDoc": "V10-5839",
+      "tecDocProd": "162",
+      "articleNumber": "V10-5839",
+      "brand": "VAICO",
+      "shortDescription": "Repair Kit, wheel suspension",
+      "description": "Suspension mounting elements (Nut) bottom/front/top L/R fits: AUDI A3, A4 B6, A4 B7, Q3, TT, SEAT ALTEA, ALTEA XL, LEON, TOLEDO III, SKODA OCTAVIA II, SUPERB II, YETI, VW BEETLE 1.0-3.6 11.00-09.20",
+      "gtuCode": "GTU_07",
+      "customsCode": "73181595",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_771",
+          "primary": true,
+          "name": {
+            "en": "Repair Kit, wheel suspension"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1593",
+          "primary": false,
+          "name": {
+            "en": "Screw Kit, suspension strut/wheel bearing housing"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_5118",
+          "primary": false,
+          "name": {
+            "en": "Nut, stabiliser bar"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_6057",
+          "primary": false,
+          "name": {
+            "en": "Hexagon Nut"
+          }
+        }
+      ]
+    }
+  ]
+}

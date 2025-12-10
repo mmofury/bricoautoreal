@@ -1,0 +1,84 @@
+{
+  "productName": "Kit réparation de câble, ampoule de feux de route",
+  "searchText": "Kit réparation de câble, ampoule de feux de route",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:08:58.310Z",
+  "productId": 8788,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Phares supplémentaires/composants": {
+          "categoryId": null,
+          "categoryName": "Phares supplémentaires/composants",
+          "level": 2,
+          "children": {
+            "Kit réparation de câble, ampoule de feux de route": {
+              "categoryId": 100787,
+              "categoryName": "Additional Headlight/Parts",
+              "level": 2,
+              "children": {
+                "Projecteur longue portée / composants": {
+                  "categoryId": null,
+                  "categoryName": "Projecteur longue portée / composants",
+                  "level": 4,
+                  "children": {
+                    "Kit réparation de câble, ampoule de feux de route": {
+                      "categoryId": 100276,
+                      "categoryName": "Spotlight/Parts",
+                      "level": 3,
+                      "children": {
+                        "Projecteur longue portée / composants": {
+                          "categoryId": null,
+                          "categoryName": "Projecteur longue portée / composants",
+                          "level": 6,
+                          "children": {
+                            "Kit réparation de câble, ampoule de feux de route": {
+                              "categoryId": 100443,
+                              "categoryName": "Spotlight Parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 8788
+                            }
+                          }
+                        }
+                      },
+                      "productId": 8788
+                    }
+                  }
+                }
+              },
+              "productId": 8788
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Phares supplémentaires/composants (Niveau 2)\n        └── Additional Headlight/Parts [ID: 100787] (Niveau 2) → ProductId: 8788\n            └── Projecteur longue portée / composants (Niveau 4)\n                └── Spotlight/Parts [ID: 100276] (Niveau 3) → ProductId: 8788\n                    └── Projecteur longue portée / composants (Niveau 6)\n                        └── Spotlight Parts [ID: 100443] (Niveau 4) → ProductId: 8788",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Phares supplémentaires/composants",
+        "Additional Headlight/Parts"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100787
+      ],
+      "finalCategoryId": 100787,
+      "productId": 8788
+    }
+  ],
+  "productIdsInArbo": [
+    8788
+  ],
+  "matchedProductIds": [
+    8788
+  ]
+}

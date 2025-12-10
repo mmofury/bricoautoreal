@@ -1,0 +1,49 @@
+{
+  "productName": "Câble de connexion, système de freinage électronique",
+  "productId": 2442,
+  "searchText": "Câble de connexion, système de freinage électronique",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Dispositif de freinage": {
+          "categoryId": 200058,
+          "categoryName": "Dispositif de freinage",
+          "level": 1,
+          "children": {
+            "Réglage du comportement": {
+              "categoryId": null,
+              "categoryName": "Réglage du comportement",
+              "level": 2,
+              "children": {
+                "Câble de connexion, système de freinage électronique": {
+                  "categoryId": 200109,
+                  "categoryName": "Drive Dynamics Control",
+                  "level": 2,
+                  "children": [],
+                  "productId": 2442
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Dispositif de freinage [ID: 200058] (Niveau 1)\n    └── Réglage du comportement (Niveau 2)\n        └── Drive Dynamics Control [ID: 200109] (Niveau 2) → ProductId: 2442",
+      "productIdsInArbo": [
+        2442
+      ],
+      "matchedProductIds": [
+        2442
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:17:58.500Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

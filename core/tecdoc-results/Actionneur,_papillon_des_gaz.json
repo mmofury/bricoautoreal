@@ -1,0 +1,69 @@
+{
+  "productName": "Actionneur, papillon des gaz",
+  "searchText": "Actionneur, papillon des gaz",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T18:47:45.219Z",
+  "productId": 1928,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Carburateurs": {
+          "categoryId": null,
+          "categoryName": "Carburateurs",
+          "level": 2,
+          "children": {
+            "Actionneur, papillon des gaz": {
+              "categoryId": 102903,
+              "categoryName": "Carburettor System",
+              "level": 2,
+              "children": {
+                "Composants du carburateur": {
+                  "categoryId": null,
+                  "categoryName": "Composants du carburateur",
+                  "level": 4,
+                  "children": {
+                    "Actionneur, papillon des gaz": {
+                      "categoryId": 102906,
+                      "categoryName": "Carburettor Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1928
+                    }
+                  }
+                }
+              },
+              "productId": 1928
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carburation [ID: 100254] (Niveau 1)\n    └── Carburateurs (Niveau 2)\n        └── Carburettor System [ID: 102903] (Niveau 2) → ProductId: 1928\n            └── Composants du carburateur (Niveau 4)\n                └── Carburettor Parts [ID: 102906] (Niveau 3) → ProductId: 1928",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Carburateurs",
+        "Carburettor System"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102903
+      ],
+      "finalCategoryId": 102903,
+      "productId": 1928
+    }
+  ],
+  "productIdsInArbo": [
+    1928
+  ],
+  "matchedProductIds": [
+    1928
+  ]
+}

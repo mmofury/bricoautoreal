@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "E1D96D",
+      "index": "LIM7932",
+      "tecDoc": "7932",
+      "tecDocProd": "222",
+      "articleNumber": "7932",
+      "brand": "LIQUI MOLY",
+      "shortDescription": "Oil distribution devices",
+      "description": "Oil pump, manual, on barrels, 25-205L",
+      "eans": [
+        "4100420079320"
+      ],
+      "packageWeight": "1,200",
+      "packageWidth": "28,000",
+      "packageDepth": "51,000",
+      "packageHeight": "12,000",
+      "customsCode": "84132000",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_6455",
+          "primary": false,
+          "name": {
+            "en": "Barrel Pump"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91770",
+          "primary": true,
+          "name": {
+            "en": "Oil distribution devices"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Piston de butée, jante",
+  "searchText": "Piston de butée, jante",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:21:23.611Z",
+  "productId": 659,
+  "arborescence": {
+    "Roues/Pneus": {
+      "categoryId": 103099,
+      "categoryName": "Roues/Pneus",
+      "level": 1,
+      "children": {
+        "Jantes": {
+          "categoryId": null,
+          "categoryName": "Jantes",
+          "level": 2,
+          "children": {
+            "Piston de butée, jante": {
+              "categoryId": 103101,
+              "categoryName": "Rims",
+              "level": 2,
+              "children": [],
+              "productId": 659
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Roues/Pneus [ID: 103099] (Niveau 1)\n    └── Jantes (Niveau 2)\n        └── Rims [ID: 103101] (Niveau 2) → ProductId: 659",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Roues/Pneus",
+        "Jantes",
+        "Rims"
+      ],
+      "categoryIds": [
+        103099,
+        null,
+        103101
+      ],
+      "finalCategoryId": 103101,
+      "productId": 659
+    }
+  ],
+  "productIdsInArbo": [
+    659
+  ],
+  "matchedProductIds": [
+    659
+  ]
+}

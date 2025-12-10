@@ -1,0 +1,69 @@
+{
+  "productName": "Radiateur, moteur électrique",
+  "searchText": "Radiateur, moteur électrique",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:06:44.386Z",
+  "productId": 8555,
+  "arborescence": {
+    "Entraînement hybride/électrique": {
+      "categoryId": 706209,
+      "categoryName": "Entraînement hybride/électrique",
+      "level": 1,
+      "children": {
+        "Refroidissement": {
+          "categoryId": null,
+          "categoryName": "Refroidissement",
+          "level": 2,
+          "children": {
+            "Radiateur, moteur électrique": {
+              "categoryId": 706210,
+              "categoryName": "Cooling System",
+              "level": 2,
+              "children": {
+                "Radiateur pour moteur électrique": {
+                  "categoryId": null,
+                  "categoryName": "Radiateur pour moteur électrique",
+                  "level": 4,
+                  "children": {
+                    "Radiateur, moteur électrique": {
+                      "categoryId": 706215,
+                      "categoryName": "Radiator for electric motor",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8555
+                    }
+                  }
+                }
+              },
+              "productId": 8555
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement hybride/électrique [ID: 706209] (Niveau 1)\n    └── Refroidissement (Niveau 2)\n        └── Cooling System [ID: 706210] (Niveau 2) → ProductId: 8555\n            └── Radiateur pour moteur électrique (Niveau 4)\n                └── Radiator for electric motor [ID: 706215] (Niveau 3) → ProductId: 8555",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement hybride/électrique",
+        "Refroidissement",
+        "Cooling System"
+      ],
+      "categoryIds": [
+        706209,
+        null,
+        706210
+      ],
+      "finalCategoryId": 706210,
+      "productId": 8555
+    }
+  ],
+  "productIdsInArbo": [
+    8555
+  ],
+  "matchedProductIds": [
+    8555
+  ]
+}

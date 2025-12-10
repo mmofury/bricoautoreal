@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "9E5119",
+      "index": "BOS260-032",
+      "tecDoc": "260-032",
+      "tecDocProd": "41",
+      "articleNumber": "260-032",
+      "brand": "BOSAL",
+      "shortDescription": "Exhaust pipe",
+      "description": "Exhaust pipe (flexible hose, diameter:32mm, length:2000mm)",
+      "gtuCode": "GTU_07",
+      "eans": [
+        "3351642600323"
+      ],
+      "customsCode": "87089235",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_17",
+          "primary": true,
+          "name": {
+            "en": "Exhaust pipe"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91427",
+          "primary": false,
+          "name": {
+            "en": "Exhaust system vibration damper"
+          }
+        }
+      ]
+    }
+  ]
+}

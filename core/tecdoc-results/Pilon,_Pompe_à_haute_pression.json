@@ -1,0 +1,119 @@
+{
+  "productName": "Pilon, Pompe à haute pression",
+  "searchText": "Pilon, Pompe à haute pression",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:20:00.027Z",
+  "productId": 4662,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Pompe / accessoires": {
+          "categoryId": null,
+          "categoryName": "Pompe / accessoires",
+          "level": 2,
+          "children": {
+            "Pilon, Pompe à haute pression": {
+              "categoryId": 100251,
+              "categoryName": "Pump/Accessories",
+              "level": 2,
+              "children": {
+                "Accessoires/Composants": {
+                  "categoryId": null,
+                  "categoryName": "Accessoires/Composants",
+                  "level": 4,
+                  "children": {
+                    "Pilon, Pompe à haute pression": {
+                      "categoryId": 100718,
+                      "categoryName": "Accessories/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4662
+                    }
+                  }
+                }
+              },
+              "productId": 4662
+            }
+          }
+        }
+      }
+    },
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Pilon, Pompe à haute pression": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Pompe à injection/pompe à haute pression": {
+                  "categoryId": null,
+                  "categoryName": "Pompe à injection/pompe à haute pression",
+                  "level": 4,
+                  "children": {
+                    "Pilon, Pompe à haute pression": {
+                      "categoryId": 102803,
+                      "categoryName": "Fuel Injection Pump/High Pressure Pump",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4662
+                    }
+                  }
+                }
+              },
+              "productId": 4662
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Alimentation carburant [ID: 100214] (Niveau 1)\n│   └── Pompe / accessoires (Niveau 2)\n│       └── Pump/Accessories [ID: 100251] (Niveau 2) → ProductId: 4662\n│           └── Accessoires/Composants (Niveau 4)\n│               └── Accessories/Parts [ID: 100718] (Niveau 3) → ProductId: 4662\n\n└── Carburation [ID: 100254] (Niveau 1)\n    └── Mélange air-carburant (Niveau 2)\n        └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 4662\n            └── Pompe à injection/pompe à haute pression (Niveau 4)\n                └── Fuel Injection Pump/High Pressure Pump [ID: 102803] (Niveau 3) → ProductId: 4662",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Pompe / accessoires",
+        "Pump/Accessories"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100251
+      ],
+      "finalCategoryId": 100251,
+      "productId": 4662
+    },
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 4662
+    }
+  ],
+  "productIdsInArbo": [
+    4662
+  ],
+  "matchedProductIds": [
+    4662
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Kit rép. de câble, dispositif chauffant chauffage stationn.",
+  "searchText": "Kit rép. de câble, dispositif chauffant chauffage stationn.",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:08:40.356Z",
+  "productId": 9338,
+  "arborescence": {
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Chauffage auxiliaire": {
+          "categoryId": null,
+          "categoryName": "Chauffage auxiliaire",
+          "level": 2,
+          "children": {
+            "Kit rép. de câble, dispositif chauffant chauffage stationn.": {
+              "categoryId": 100614,
+              "categoryName": "Parking Heater",
+              "level": 2,
+              "children": [],
+              "productId": 9338
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Systèmes de confort [ID: 100335] (Niveau 1)\n    └── Chauffage auxiliaire (Niveau 2)\n        └── Parking Heater [ID: 100614] (Niveau 2) → ProductId: 9338",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Systèmes de confort",
+        "Chauffage auxiliaire",
+        "Parking Heater"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        100614
+      ],
+      "finalCategoryId": 100614,
+      "productId": 9338
+    }
+  ],
+  "productIdsInArbo": [
+    9338
+  ],
+  "matchedProductIds": [
+    9338
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "productName": "Kit de poulies, vilebrequin",
+  "searchText": "Kit de poulies, vilebrequin",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:02:17.750Z",
+  "productId": 4768,
+  "arborescence": {
+    "Commande à courroie": {
+      "categoryId": 100016,
+      "categoryName": "Commande à courroie",
+      "level": 1,
+      "children": {
+        "Poulie": {
+          "categoryId": null,
+          "categoryName": "Poulie",
+          "level": 2,
+          "children": {
+            "Kit de poulies, vilebrequin": {
+              "categoryId": 101971,
+              "categoryName": "Belt Pulley",
+              "level": 2,
+              "children": [],
+              "productId": 4768
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Commande à courroie": {
+          "categoryId": null,
+          "categoryName": "Commande à courroie",
+          "level": 2,
+          "children": {
+            "Kit de poulies, vilebrequin": {
+              "categoryId": 104302,
+              "categoryName": "Belt Drive",
+              "level": 2,
+              "children": {
+                "Poulie": {
+                  "categoryId": null,
+                  "categoryName": "Poulie",
+                  "level": 4,
+                  "children": {
+                    "Kit de poulies, vilebrequin": {
+                      "categoryId": 104329,
+                      "categoryName": "Belt Pulley",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4768
+                    }
+                  }
+                }
+              },
+              "productId": 4768
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Commande à courroie [ID: 100016] (Niveau 1)\n│   └── Poulie (Niveau 2)\n│       └── Belt Pulley [ID: 101971] (Niveau 2) → ProductId: 4768\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Commande à courroie (Niveau 2)\n        └── Belt Drive [ID: 104302] (Niveau 2) → ProductId: 4768\n            └── Poulie (Niveau 4)\n                └── Belt Pulley [ID: 104329] (Niveau 3) → ProductId: 4768",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Commande à courroie",
+        "Poulie",
+        "Belt Pulley"
+      ],
+      "categoryIds": [
+        100016,
+        null,
+        101971
+      ],
+      "finalCategoryId": 101971,
+      "productId": 4768
+    },
+    {
+      "path": [
+        "Moteur",
+        "Commande à courroie",
+        "Belt Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        104302
+      ],
+      "finalCategoryId": 104302,
+      "productId": 4768
+    }
+  ],
+  "productIdsInArbo": [
+    4768
+  ],
+  "matchedProductIds": [
+    4768
+  ]
+}

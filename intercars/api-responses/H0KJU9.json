@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H0KJU9",
+      "index": "V51-72-0326",
+      "tecDoc": "V51-72-0326",
+      "tecDocProd": "183",
+      "articleNumber": "V51-72-0326",
+      "brand": "VEMO",
+      "shortDescription": "Interior temperature sensor",
+      "description": "Intake air temperature sensor fits: BUICK ENCORE, CHEVROLET TRAX, OPEL MOKKA / MOKKA X 1.4-1.7D 06.12-",
+      "customsCode": "90268080",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_60436",
+          "primary": false,
+          "name": {
+            "en": "Sensor, evaporator temperature"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_832",
+          "primary": true,
+          "name": {
+            "en": "Interior temperature sensor"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3939",
+          "primary": false,
+          "name": {
+            "en": "Sensor, intake air temperature"
+          }
+        }
+      ]
+    }
+  ]
+}

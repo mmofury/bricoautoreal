@@ -1,0 +1,161 @@
+{
+  "productName": "Onduleur",
+  "searchText": "Onduleur",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T21:17:13.175Z",
+  "productId": 4318,
+  "arborescence": {
+    "Entraînement hybride/électrique": {
+      "categoryId": 706209,
+      "categoryName": "Entraînement hybride/électrique",
+      "level": 1,
+      "children": {
+        "Onduleur": {
+          "categoryId": null,
+          "categoryName": "Onduleur",
+          "level": 2,
+          "children": {
+            "Combinaison onduleur / convertisseur de tension continue": {
+              "categoryId": 706566,
+              "categoryName": "Inverter",
+              "level": 2,
+              "children": [],
+              "productId": 60506
+            },
+            "Convertisseur de tension continue": {
+              "categoryId": 706566,
+              "categoryName": "Inverter",
+              "level": 2,
+              "children": [],
+              "productId": 60171
+            },
+            "Joint d'étanchéité, onduleur": {
+              "categoryId": 706566,
+              "categoryName": "Inverter",
+              "level": 2,
+              "children": [],
+              "productId": 60664
+            },
+            "Onduleur": {
+              "categoryId": 706566,
+              "categoryName": "Inverter",
+              "level": 2,
+              "children": [],
+              "productId": 60170
+            },
+            "Pompe à eau, onduleur": {
+              "categoryId": 706566,
+              "categoryName": "Inverter",
+              "level": 2,
+              "children": [],
+              "productId": 60682
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement hybride/électrique [ID: 706209] (Niveau 1)\n    └── Onduleur (Niveau 2)\n        ├── Inverter [ID: 706566] (Niveau 2) → ProductId: 60506\n        ├── Inverter [ID: 706566] (Niveau 2) → ProductId: 60171\n        ├── Inverter [ID: 706566] (Niveau 2) → ProductId: 60664\n        ├── Inverter [ID: 706566] (Niveau 2) → ProductId: 60170\n        └── Inverter [ID: 706566] (Niveau 2) → ProductId: 60682",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement hybride/électrique",
+        "Onduleur",
+        "Inverter"
+      ],
+      "categoryIds": [
+        706209,
+        null,
+        706566
+      ],
+      "finalCategoryId": 706566,
+      "productId": 60506
+    },
+    {
+      "path": [
+        "Entraînement hybride/électrique",
+        "Onduleur",
+        "Inverter"
+      ],
+      "categoryIds": [
+        706209,
+        null,
+        706566
+      ],
+      "finalCategoryId": 706566,
+      "productId": 60171
+    },
+    {
+      "path": [
+        "Entraînement hybride/électrique",
+        "Onduleur",
+        "Inverter"
+      ],
+      "categoryIds": [
+        706209,
+        null,
+        706566
+      ],
+      "finalCategoryId": 706566,
+      "productId": 60664
+    },
+    {
+      "path": [
+        "Entraînement hybride/électrique",
+        "Onduleur",
+        "Inverter"
+      ],
+      "categoryIds": [
+        706209,
+        null,
+        706566
+      ],
+      "finalCategoryId": 706566,
+      "productId": 60170
+    },
+    {
+      "path": [
+        "Entraînement hybride/électrique",
+        "Onduleur",
+        "Inverter"
+      ],
+      "categoryIds": [
+        706209,
+        null,
+        706566
+      ],
+      "finalCategoryId": 706566,
+      "productId": 60682
+    }
+  ],
+  "productIdsInArbo": [
+    60170,
+    60171,
+    60506,
+    60664,
+    60682
+  ],
+  "closestProductIds": [
+    {
+      "productId": 60170,
+      "productName": "Onduleur"
+    },
+    {
+      "productId": 60171,
+      "productName": "Convertisseur de tension continue"
+    },
+    {
+      "productId": 60506,
+      "productName": "Combinaison onduleur / convertisseur de tension continue"
+    },
+    {
+      "productId": 60664,
+      "productName": "Joint d'étanchéité, onduleur"
+    },
+    {
+      "productId": 60682,
+      "productName": "Pompe à eau, onduleur"
+    }
+  ]
+}

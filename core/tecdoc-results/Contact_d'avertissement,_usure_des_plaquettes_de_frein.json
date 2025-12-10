@@ -1,0 +1,111 @@
+{
+  "productName": "Contact d'avertissement, usure des plaquettes de frein",
+  "searchText": "Contact d'avertissement, usure des plaquettes de frein",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:24:26.766Z",
+  "productId": 407,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Frein à disque": {
+          "categoryId": null,
+          "categoryName": "Frein à disque",
+          "level": 2,
+          "children": {
+            "Contact d'avertissement, usure des plaquettes de frein": {
+              "categoryId": 100626,
+              "categoryName": "Disc Brake",
+              "level": 2,
+              "children": {
+                "Accessoires / composants": {
+                  "categoryId": null,
+                  "categoryName": "Accessoires / composants",
+                  "level": 4,
+                  "children": {
+                    "Contact d'avertissement, usure des plaquettes de frein": {
+                      "categoryId": 100630,
+                      "categoryName": "Accessories/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 407
+                    }
+                  }
+                },
+                "Plaquette de frein": {
+                  "categoryId": null,
+                  "categoryName": "Plaquette de frein",
+                  "level": 4,
+                  "children": {
+                    "Contact d'avertissement, usure des plaquettes de frein": {
+                      "categoryId": 100030,
+                      "categoryName": "Brake Pad",
+                      "level": 3,
+                      "children": [],
+                      "productId": 407
+                    }
+                  }
+                }
+              },
+              "productId": 407
+            }
+          }
+        },
+        "Témoin d'usure": {
+          "categoryId": null,
+          "categoryName": "Témoin d'usure",
+          "level": 2,
+          "children": {
+            "Contact d'avertissement, usure des plaquettes de frein": {
+              "categoryId": 100631,
+              "categoryName": "Wear Indicator",
+              "level": 2,
+              "children": [],
+              "productId": 407
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif de freinage [ID: 100006] (Niveau 1)\n    ├── Frein à disque (Niveau 2)\n    │   └── Disc Brake [ID: 100626] (Niveau 2) → ProductId: 407\n    │       ├── Accessoires / composants (Niveau 4)\n    │       │   └── Accessories/Parts [ID: 100630] (Niveau 3) → ProductId: 407\n    │       └── Plaquette de frein (Niveau 4)\n    │           └── Brake Pad [ID: 100030] (Niveau 3) → ProductId: 407\n    └── Témoin d'usure (Niveau 2)\n        └── Wear Indicator [ID: 100631] (Niveau 2) → ProductId: 407",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Frein à disque",
+        "Disc Brake"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100626
+      ],
+      "finalCategoryId": 100626,
+      "productId": 407
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Témoin d'usure",
+        "Wear Indicator"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100631
+      ],
+      "finalCategoryId": 100631,
+      "productId": 407
+    }
+  ],
+  "productIdsInArbo": [
+    407
+  ],
+  "matchedProductIds": [
+    407
+  ]
+}

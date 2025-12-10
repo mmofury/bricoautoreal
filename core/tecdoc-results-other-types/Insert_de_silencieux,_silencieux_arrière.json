@@ -1,0 +1,69 @@
+{
+  "productName": "Insert de silencieux, silencieux arrière",
+  "productId": 5461,
+  "searchText": "Insert de silencieux, silencieux arrière",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 3,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Moto": {
+          "categoryId": 103671,
+          "categoryName": "Moto",
+          "level": 1,
+          "children": {
+            "Échappement": {
+              "categoryId": null,
+              "categoryName": "Échappement",
+              "level": 2,
+              "children": {
+                "Insert de silencieux, silencieux arrière": {
+                  "categoryId": 103879,
+                  "categoryName": "Exhaust System",
+                  "level": 2,
+                  "children": {
+                    "Insert de silencieux (dB Eater)": {
+                      "categoryId": null,
+                      "categoryName": "Insert de silencieux (dB Eater)",
+                      "level": 4,
+                      "children": {
+                        "Insert de silencieux, silencieux arrière": {
+                          "categoryId": 104015,
+                          "categoryName": "Exhaust Insert (dB Eater)",
+                          "level": 3,
+                          "children": [],
+                          "productId": 5461
+                        }
+                      }
+                    }
+                  },
+                  "productId": 5461
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Moto [ID: 103671] (Niveau 1)\n    └── Échappement (Niveau 2)\n        └── Exhaust System [ID: 103879] (Niveau 2) → ProductId: 5461\n            └── Insert de silencieux (dB Eater) (Niveau 4)\n                └── Exhaust Insert (dB Eater) [ID: 104015] (Niveau 3) → ProductId: 5461",
+      "productIdsInArbo": [
+        5461
+      ],
+      "matchedProductIds": [
+        5461
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:35:49.822Z",
+  "bestMatch": {
+    "typeId": 3,
+    "found": true,
+    "hasMatch": true
+  }
+}

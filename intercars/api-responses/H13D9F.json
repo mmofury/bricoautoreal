@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H13D9F",
+      "index": "6PD017 010-001",
+      "tecDoc": "6PD 017 010-001",
+      "tecDocProd": "2",
+      "articleNumber": "6PD 017 010-001",
+      "brand": "HELLA",
+      "shortDescription": "Pedal Travel Sensor, brake pedal",
+      "description": "Accelerator position sensor",
+      "customsCode": "90328900",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_2062",
+          "primary": true,
+          "name": {
+            "en": "Pedal Travel Sensor, brake pedal"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_60499",
+          "primary": false,
+          "name": {
+            "en": "Sensor, rotor position (electric motor)"
+          }
+        }
+      ]
+    }
+  ]
+}

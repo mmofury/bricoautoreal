@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "AE8017",
+      "index": "HP400 687",
+      "tecDoc": "400 687",
+      "tecDocProd": "301",
+      "articleNumber": "400 687",
+      "brand": "HANS PRIES",
+      "shortDescription": "Injector",
+      "description": "Injector tip (nozzle) fits: MERCEDES 123 (W123), 124 T-MODEL (S124), 124 (W124), 190 (W201), E (W124) 2.0D 07.76-06.95",
+      "eans": [
+        "4063926308823"
+      ],
+      "packageWeight": "0,042",
+      "packageWidth": "4,000",
+      "packageDepth": "5,500",
+      "packageHeight": "3,000",
+      "customsCode": "84099900",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3899",
+          "primary": false,
+          "name": {
+            "en": "Nozzle Body"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3901",
+          "primary": true,
+          "name": {
+            "en": "Injector"
+          }
+        }
+      ]
+    }
+  ]
+}

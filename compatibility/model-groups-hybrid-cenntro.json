@@ -1,0 +1,103 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.205Z",
+  "manufacturer": "CENNTRO",
+  "countGroups": 4,
+  "groups": [
+    {
+      "manufacturerId": 5769,
+      "manufacturerName": "CENNTRO",
+      "groupKey": "LOGISTAR",
+      "displayName": "LOGISTAR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42663,
+          "modelName": "LOGISTAR 200 Camion plate-forme/Châssis",
+          "modelYearFrom": "2021-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42664,
+          "modelName": "LOGISTAR 200 Fourgon",
+          "modelYearFrom": "2021-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42665,
+          "modelName": "LOGISTAR 400 Camion plate-forme/Châssis",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42666,
+          "modelName": "LOGISTAR 400 Fourgon",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44395,
+          "modelName": "LOGISTAR 260 Fourgon",
+          "modelYearFrom": "2023-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44442,
+          "modelName": "LOGISTAR 100 Camionnette/Berline bicorps trois ou cinq porte",
+          "modelYearFrom": "2022-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5769,
+      "manufacturerName": "CENNTRO",
+      "groupKey": "METRO",
+      "displayName": "METRO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42653,
+          "modelName": "METRO Camion plate-forme/Châssis",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42654,
+          "modelName": "METRO Fourgon",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5769,
+      "manufacturerName": "CENNTRO",
+      "groupKey": "NEIBOR",
+      "displayName": "NEIBOR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42660,
+          "modelName": "NEIBOR 200 Camionnette/Monospace",
+          "modelYearFrom": "2021-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5769,
+      "manufacturerName": "CENNTRO",
+      "groupKey": "ORV",
+      "displayName": "ORV",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42659,
+          "modelName": "ORV Camion plate-forme/Châssis",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

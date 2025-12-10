@@ -1,0 +1,64 @@
+{
+  "productName": "Bloc électrovannes, suspension pneumatique",
+  "productId": 269,
+  "searchText": "Bloc électrovannes, suspension pneumatique",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Système pneumatique": {
+          "categoryId": 200059,
+          "categoryName": "Système pneumatique",
+          "level": 1,
+          "children": {
+            "Suspension pneumatique": {
+              "categoryId": null,
+              "categoryName": "Suspension pneumatique",
+              "level": 2,
+              "children": {
+                "Bloc électrovannes, suspension pneumatique": {
+                  "categoryId": 200506,
+                  "categoryName": "Air Suspension",
+                  "level": 2,
+                  "children": {
+                    "Bloc électrovannes, suspension pneumatique": {
+                      "categoryId": null,
+                      "categoryName": "Bloc électrovannes, suspension pneumatique",
+                      "level": 4,
+                      "children": {
+                        "Bloc électrovannes, suspension pneumatique": {
+                          "categoryId": 200542,
+                          "categoryName": "Multibank Valve Assembly, air suspension",
+                          "level": 3,
+                          "children": [],
+                          "productId": 269
+                        }
+                      }
+                    }
+                  },
+                  "productId": 269
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système pneumatique [ID: 200059] (Niveau 1)\n    └── Suspension pneumatique (Niveau 2)\n        └── Air Suspension [ID: 200506] (Niveau 2) → ProductId: 269\n            └── Bloc électrovannes, suspension pneumatique (Niveau 4)\n                └── Multibank Valve Assembly, air suspension [ID: 200542] (Niveau 3) → ProductId: 269",
+      "productIdsInArbo": [
+        269
+      ],
+      "matchedProductIds": [
+        269
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T09:58:05.694Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Commutateur, sécurité pour enfants (verrouillage des portes)",
+  "searchText": "Commutateur, sécurité pour enfants (verrouillage des portes)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:23:22.757Z",
+  "productId": 2964,
+  "arborescence": {
+    "Verrouillage": {
+      "categoryId": 100685,
+      "categoryName": "Verrouillage",
+      "level": 1,
+      "children": {
+        "Composants": {
+          "categoryId": null,
+          "categoryName": "Composants",
+          "level": 2,
+          "children": {
+            "Commutateur, sécurité pour enfants (verrouillage des portes)": {
+              "categoryId": 100766,
+              "categoryName": "Parts",
+              "level": 2,
+              "children": [],
+              "productId": 2964
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Verrouillage [ID: 100685] (Niveau 1)\n    └── Composants (Niveau 2)\n        └── Parts [ID: 100766] (Niveau 2) → ProductId: 2964",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Verrouillage",
+        "Composants",
+        "Parts"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100766
+      ],
+      "finalCategoryId": 100766,
+      "productId": 2964
+    }
+  ],
+  "productIdsInArbo": [
+    2964
+  ],
+  "matchedProductIds": [
+    2964
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.482Z",
+  "manufacturer": "SHINERAY",
+  "countGroups": 4,
+  "groups": [
+    {
+      "manufacturerId": 4661,
+      "manufacturerName": "SHINERAY",
+      "groupKey": "A7",
+      "displayName": "A7",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42118,
+          "modelName": "A7 Autobus/Autocar",
+          "modelYearFrom": "2014-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4661,
+      "manufacturerName": "SHINERAY",
+      "groupKey": "A9",
+      "displayName": "A9",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37741,
+          "modelName": "A9 Autobus/Autocar",
+          "modelYearFrom": "2012-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37742,
+          "modelName": "A9 Fourgon",
+          "modelYearFrom": "2012-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4661,
+      "manufacturerName": "SHINERAY",
+      "groupKey": "T",
+      "displayName": "T",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42105,
+          "modelName": "T Series Camion plate-forme/Châssis (SY1_)",
+          "modelYearFrom": "2014-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4661,
+      "manufacturerName": "SHINERAY",
+      "groupKey": "X30",
+      "displayName": "X30",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42106,
+          "modelName": "X30 Autobus/Autocar",
+          "modelYearFrom": "2014-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44074,
+          "modelName": "X30 Fourgon",
+          "modelYearFrom": "2014-01-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "productName": "Aiguille d'injection, nettoyage des vitres",
+  "searchText": "Aiguille d'injection, nettoyage des vitres",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 3,
+      "found": true,
+      "hasMatch": false,
+      "arborescence": {
+        "Nettoyage des vitres": {
+          "categoryId": 100018,
+          "categoryName": "Nettoyage des vitres",
+          "level": 1,
+          "children": {
+            "Gicleur d'eau de lavage": {
+              "categoryId": null,
+              "categoryName": "Gicleur d'eau de lavage",
+              "level": 2,
+              "children": {
+                "Aiguille d'injection, nettoyage des vitres": {
+                  "categoryId": 100611,
+                  "categoryName": "Washer Fluid Jet",
+                  "level": 2,
+                  "children": [],
+                  "productId": 1414
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Nettoyage des vitres [ID: 100018] (Niveau 1)\n    └── Gicleur d'eau de lavage (Niveau 2)\n        └── Washer Fluid Jet [ID: 100611] (Niveau 2) → ProductId: 1414",
+      "productIdsInArbo": [
+        1414
+      ]
+    },
+    {
+      "typeId": 4,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 5,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 6,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 7,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 8,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 9,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 10,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 11,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 12,
+      "found": false,
+      "hasMatch": false
+    }
+  ],
+  "timestamp": "2025-12-03T09:38:44.148Z",
+  "bestMatch": {
+    "typeId": 3,
+    "found": true,
+    "hasMatch": false
+  }
+}

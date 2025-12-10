@@ -1,0 +1,49 @@
+{
+  "productName": "Kit de réparation, palier de l'arbre de transmission",
+  "productId": 3014,
+  "searchText": "Kit de réparation, palier de l'arbre de transmission",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Entraînement des roues": {
+          "categoryId": 200055,
+          "categoryName": "Entraînement des roues",
+          "level": 1,
+          "children": {
+            "Suspension de l'arbre de transmission": {
+              "categoryId": null,
+              "categoryName": "Suspension de l'arbre de transmission",
+              "level": 2,
+              "children": {
+                "Kit de réparation, palier de l'arbre de transmission": {
+                  "categoryId": 201807,
+                  "categoryName": "Drive Shaft Mounting",
+                  "level": 2,
+                  "children": [],
+                  "productId": 3014
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Entraînement des roues [ID: 200055] (Niveau 1)\n    └── Suspension de l'arbre de transmission (Niveau 2)\n        └── Drive Shaft Mounting [ID: 201807] (Niveau 2) → ProductId: 3014",
+      "productIdsInArbo": [
+        3014
+      ],
+      "matchedProductIds": [
+        3014
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:46:36.287Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

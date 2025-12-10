@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.476Z",
+  "manufacturer": "SAO",
+  "countGroups": 1,
+  "groups": [
+    {
+      "manufacturerId": 1545,
+      "manufacturerName": "SAO",
+      "groupKey": "PENZA",
+      "displayName": "PENZA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11710,
+          "modelName": "PENZA Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1991-06-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 11711,
+          "modelName": "PENZA A trois volumes",
+          "modelYearFrom": "1991-06-01",
+          "modelYearTo": "1993-12-01"
+        }
+      ]
+    }
+  ]
+}

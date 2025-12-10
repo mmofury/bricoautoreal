@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H16CCP",
+      "index": "FE196909",
+      "tecDoc": "196909",
+      "tecDocProd": "101",
+      "articleNumber": "196909",
+      "brand": "FEBI",
+      "shortDescription": "Solenoid Valve, air suspension",
+      "description": "Pressure adjustment valve, height regulation fits: BMW 5 (F11), 5 GRAN TURISMO (F07), 7 (F01, F02, F03, F04), X5 (F15, F85), X6 (F16, F86) 2.0-6.0 02.08-07.19",
+      "customsCode": "84812090",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_60975",
+          "primary": true,
+          "name": {
+            "en": "Solenoid Valve, air suspension"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_342",
+          "primary": false,
+          "name": {
+            "en": "Valve, compressed-air system"
+          }
+        }
+      ]
+    }
+  ]
+}

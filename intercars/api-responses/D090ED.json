@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "D090ED",
+      "index": "DVE02001",
+      "tecDoc": "DVE02001",
+      "tecDocProd": "66",
+      "articleNumber": "DVE02001",
+      "brand": "DENSO",
+      "shortDescription": "Injector Nozzle, expansion valve",
+      "description": "Air conditioning valve",
+      "customsCode": "84818059",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_183",
+          "primary": false,
+          "name": {
+            "en": "Expansion Valve, air conditioning"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_2408",
+          "primary": true,
+          "name": {
+            "en": "Injector Nozzle, expansion valve"
+          }
+        }
+      ]
+    }
+  ]
+}

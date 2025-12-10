@@ -1,0 +1,47 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "D1FDED",
+      "index": "MER 3107P1056",
+      "tecDoc": "3107P1056",
+      "tecDocProd": "349",
+      "articleNumber": "3107P1056",
+      "brand": "MERITOR",
+      "shortDescription": "Differential lock",
+      "description": "Differential lock (release sleeve VOLVO, differential type 177E)",
+      "gtuCode": "GTU_07",
+      "packageWeight": "2,068",
+      "packageWidth": "13,500",
+      "packageDepth": "13,500",
+      "packageHeight": "6,000",
+      "customsCode": "87085099",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4022",
+          "primary": true,
+          "name": {
+            "en": "Repair Kit, differential"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_9051",
+          "primary": false,
+          "name": {
+            "en": "Seal, differential housing cover"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91268",
+          "primary": true,
+          "name": {
+            "en": "Differential lock"
+          }
+        }
+      ]
+    }
+  ]
+}

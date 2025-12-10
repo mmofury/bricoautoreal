@@ -1,0 +1,54 @@
+{
+  "productName": "Chauffage, dessicateur",
+  "searchText": "Chauffage, dessicateur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:19:25.171Z",
+  "productId": 9296,
+  "arborescence": {
+    "Système pneumatique": {
+      "categoryId": 103168,
+      "categoryName": "Système pneumatique",
+      "level": 1,
+      "children": {
+        "Dessicateur d'air / cartouche": {
+          "categoryId": null,
+          "categoryName": "Dessicateur d'air / cartouche",
+          "level": 2,
+          "children": {
+            "Chauffage, dessicateur": {
+              "categoryId": 103171,
+              "categoryName": "Air Dryer/Cartridge",
+              "level": 2,
+              "children": [],
+              "productId": 9296
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système pneumatique [ID: 103168] (Niveau 1)\n    └── Dessicateur d'air / cartouche (Niveau 2)\n        └── Air Dryer/Cartridge [ID: 103171] (Niveau 2) → ProductId: 9296",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système pneumatique",
+        "Dessicateur d'air / cartouche",
+        "Air Dryer/Cartridge"
+      ],
+      "categoryIds": [
+        103168,
+        null,
+        103171
+      ],
+      "finalCategoryId": 103171,
+      "productId": 9296
+    }
+  ],
+  "productIdsInArbo": [
+    9296
+  ],
+  "matchedProductIds": [
+    9296
+  ]
+}

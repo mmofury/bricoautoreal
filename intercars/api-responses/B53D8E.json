@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "B53D8E",
+      "index": "2.44030",
+      "tecDoc": "2.44030",
+      "tecDocProd": "355",
+      "articleNumber": "2.44030",
+      "brand": "DT SPARE PARTS",
+      "shortDescription": "Check valve",
+      "description": "Control connector (M16x1,5, external, M16x1,5, external, with rubber boot)",
+      "packageWeight": "0,050",
+      "packageWidth": "4,700",
+      "packageDepth": "9,200",
+      "packageHeight": "7,700",
+      "customsCode": "73071990",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_367",
+          "primary": true,
+          "name": {
+            "en": "Check valve"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_2260",
+          "primary": false,
+          "name": {
+            "en": "Test Connection, piping"
+          }
+        }
+      ]
+    }
+  ]
+}

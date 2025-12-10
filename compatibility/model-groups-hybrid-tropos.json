@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.519Z",
+  "manufacturer": "TROPOS",
+  "countGroups": 1,
+  "groups": [
+    {
+      "manufacturerId": 6439,
+      "manufacturerName": "TROPOS",
+      "groupKey": "ABLE",
+      "displayName": "ABLE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42656,
+          "modelName": "ABLE XT Camion plate-forme/Châssis",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42657,
+          "modelName": "ABLE XT Fourgon",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

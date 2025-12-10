@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "E39DC7",
+      "index": "1 237 330 037",
+      "tecDoc": "1 237 330 037",
+      "tecDocProd": "30",
+      "articleNumber": "1 237 330 037",
+      "brand": "BOSCH",
+      "shortDescription": "Capacitor, ignition system",
+      "description": "Distributor condenser",
+      "eans": [
+        "3165142812786"
+      ],
+      "packageWeight": "0,019",
+      "packageWidth": "3,700",
+      "packageDepth": "5,700",
+      "packageHeight": "3,600",
+      "customsCode": "85322900",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_690",
+          "primary": true,
+          "name": {
+            "en": "Capacitor, ignition system"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_2293",
+          "primary": false,
+          "name": {
+            "en": "Capacitor, magneto"
+          }
+        }
+      ]
+    }
+  ]
+}

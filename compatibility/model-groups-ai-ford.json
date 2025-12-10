@@ -1,0 +1,2479 @@
+{
+  "generatedAt": "2025-12-08T18:02:36.261Z",
+  "manufacturer": "FORD",
+  "countGroups": 60,
+  "groups": [
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "A-SERIES",
+      "displayName": "A-Series",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 44813,
+          "modelName": "A-SERIES",
+          "modelYearFrom": "1973-01-01",
+          "modelYearTo": "1982-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "ACTIVA",
+      "displayName": "Activa",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 5854,
+          "modelName": "ACTIVA A trois volumes",
+          "modelYearFrom": "1995-09-01",
+          "modelYearTo": "2000-09-01"
+        },
+        {
+          "modelId": 5856,
+          "modelName": "ACTIVA A trois volumes",
+          "modelYearFrom": "2000-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 5853,
+          "modelName": "ACTIVA Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1995-09-01",
+          "modelYearTo": "2000-09-01"
+        },
+        {
+          "modelId": 5855,
+          "modelName": "ACTIVA Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2000-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "B-MAX",
+      "displayName": "B-Max",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 10257,
+          "modelName": "B-MAX (JK)",
+          "modelYearFrom": "2012-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13361,
+          "modelName": "B-MAX Van (JK)",
+          "modelYearFrom": "2012-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "BANTAM",
+      "displayName": "Bantam",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 44397,
+          "modelName": "BANTAM I Pick-up",
+          "modelYearFrom": "1982-09-01",
+          "modelYearTo": "1994-10-01"
+        },
+        {
+          "modelId": 44398,
+          "modelName": "BANTAM II Pick-up",
+          "modelYearFrom": "1994-11-01",
+          "modelYearTo": "2002-12-01"
+        },
+        {
+          "modelId": 44403,
+          "modelName": "BANTAM III Pick-up",
+          "modelYearFrom": "2002-10-01",
+          "modelYearTo": "2012-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "BELINA",
+      "displayName": "Belina",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 12783,
+          "modelName": "BELINA I",
+          "modelYearFrom": "1968-01-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 9922,
+          "modelName": "BELINA II",
+          "modelYearFrom": "1977-11-01",
+          "modelYearTo": "1991-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "C-MAX",
+      "displayName": "C-Max",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 6240,
+          "modelName": "C-MAX (DM2)",
+          "modelYearFrom": "2007-02-01",
+          "modelYearTo": "2010-09-01"
+        },
+        {
+          "modelId": 8995,
+          "modelName": "C-MAX II (DXA/CB7, DXA/CEU)",
+          "modelYearFrom": "2010-04-01",
+          "modelYearTo": "2019-06-01"
+        },
+        {
+          "modelId": 13360,
+          "modelName": "C-MAX II Van",
+          "modelYearFrom": "2010-10-01",
+          "modelYearTo": "2019-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "CAPRI",
+      "displayName": "Capri",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 45885,
+          "modelName": "CAPRI (CX740L)",
+          "modelYearFrom": "2024-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 469,
+          "modelName": "CAPRI I (ECJ)",
+          "modelYearFrom": "1968-12-01",
+          "modelYearTo": "1974-02-01"
+        },
+        {
+          "modelId": 474,
+          "modelName": "CAPRI II (GECP)",
+          "modelYearFrom": "1974-02-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 3958,
+          "modelName": "CAPRI III (GECP)",
+          "modelYearFrom": "1978-01-01",
+          "modelYearTo": "1987-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "CONSUL",
+      "displayName": "CONSUL",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 1684,
+          "modelName": "CONSUL (GGFL)",
+          "modelYearFrom": "1972-01-01",
+          "modelYearTo": "1975-12-01"
+        },
+        {
+          "modelId": 1685,
+          "modelName": "CONSUL Coupé (GGCL)",
+          "modelYearFrom": "1972-01-01",
+          "modelYearTo": "1975-12-01"
+        },
+        {
+          "modelId": 1686,
+          "modelName": "CONSUL Turnier (GGNL)",
+          "modelYearFrom": "1972-01-01",
+          "modelYearTo": "1975-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "CORCEL",
+      "displayName": "Corcel",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 11464,
+          "modelName": "CORCEL I",
+          "modelYearFrom": "1969-01-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 11465,
+          "modelName": "CORCEL I Coupé",
+          "modelYearFrom": "1969-01-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 9923,
+          "modelName": "CORCEL II",
+          "modelYearFrom": "1978-01-01",
+          "modelYearTo": "1986-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "CORSAIR",
+      "displayName": "Corsair",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 4697,
+          "modelName": "CORSAIR",
+          "modelYearFrom": "1963-10-01",
+          "modelYearTo": "1971-03-01"
+        },
+        {
+          "modelId": 4698,
+          "modelName": "CORSAIR Estate",
+          "modelYearFrom": "1965-10-01",
+          "modelYearTo": "1971-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "CORTINA",
+      "displayName": "Cortina",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 4699,
+          "modelName": "CORTINA",
+          "modelYearFrom": "1962-10-01",
+          "modelYearTo": "1972-03-01"
+        },
+        {
+          "modelId": 4700,
+          "modelName": "CORTINA Coupé",
+          "modelYearFrom": "1962-10-01",
+          "modelYearTo": "1972-03-01"
+        },
+        {
+          "modelId": 4701,
+          "modelName": "CORTINA Estate",
+          "modelYearFrom": "1962-10-01",
+          "modelYearTo": "1972-03-01"
+        },
+        {
+          "modelId": 44367,
+          "modelName": "CORTINA III Pick-up",
+          "modelYearFrom": "1971-07-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 44368,
+          "modelName": "CORTINA IV Pick-up",
+          "modelYearFrom": "1977-06-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 44369,
+          "modelName": "CORTINA V Pick-up",
+          "modelYearFrom": "1980-01-01",
+          "modelYearTo": "1986-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "COUGAR",
+      "displayName": "COUGAR",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 3556,
+          "modelName": "COUGAR (EC_)",
+          "modelYearFrom": "1998-08-01",
+          "modelYearTo": "2001-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "COURIER",
+      "displayName": "Courier",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 3449,
+          "modelName": "COURIER Camionnette/Monospace (F3L, F5L)",
+          "modelYearFrom": "1989-04-01",
+          "modelYearTo": "1996-02-01"
+        },
+        {
+          "modelId": 1517,
+          "modelName": "COURIER Camionnette/Monospace (J5_, J3_)",
+          "modelYearFrom": "1996-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 7435,
+          "modelName": "COURIER Pick-up",
+          "modelYearFrom": "1996-03-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 10535,
+          "modelName": "COURIER Pick-up",
+          "modelYearFrom": "1988-01-01",
+          "modelYearTo": "2000-10-01"
+        },
+        {
+          "modelId": 44372,
+          "modelName": "COURIER Pick-up (PC)",
+          "modelYearFrom": "1986-01-01",
+          "modelYearTo": "2000-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "DEL REY",
+      "displayName": "Del Rey",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 9925,
+          "modelName": "DEL REY",
+          "modelYearFrom": "1981-01-01",
+          "modelYearTo": "1992-08-01"
+        },
+        {
+          "modelId": 11521,
+          "modelName": "DEL REY Turnier",
+          "modelYearFrom": "1979-01-01",
+          "modelYearTo": "1992-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "ECONOVAN",
+      "displayName": "Econovan",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 1050,
+          "modelName": "ECONOVAN (KBA, KCA)",
+          "modelYearFrom": "1986-03-01",
+          "modelYearTo": "1992-03-01"
+        },
+        {
+          "modelId": 4057,
+          "modelName": "ECONOVAN Fourgon (KAA)",
+          "modelYearFrom": "1985-05-01",
+          "modelYearTo": "1992-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "ECOSPORT",
+      "displayName": "Ecosport",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 9926,
+          "modelName": "ECOSPORT",
+          "modelYearFrom": "2003-01-01",
+          "modelYearTo": "2013-10-01"
+        },
+        {
+          "modelId": 11479,
+          "modelName": "ECOSPORT",
+          "modelYearFrom": "2011-09-01",
+          "modelYearTo": "2022-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "ESCORT",
+      "displayName": "Escort",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 36404,
+          "modelName": "ESCORT Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1988-04-01",
+          "modelYearTo": "1996-11-01"
+        },
+        {
+          "modelId": 4710,
+          "modelName": "ESCORT CLASSIC (AAL, ABL)",
+          "modelYearFrom": "1998-10-01",
+          "modelYearTo": "2000-07-01"
+        },
+        {
+          "modelId": 4711,
+          "modelName": "ESCORT CLASSIC Turnier (ANL)",
+          "modelYearFrom": "1999-02-01",
+          "modelYearTo": "2000-07-01"
+        },
+        {
+          "modelId": 36406,
+          "modelName": "ESCORT Coupé",
+          "modelYearFrom": "1995-01-01",
+          "modelYearTo": "2002-10-01"
+        },
+        {
+          "modelId": 36407,
+          "modelName": "ESCORT Coupé",
+          "modelYearFrom": "1988-04-01",
+          "modelYearTo": "1996-10-01"
+        },
+        {
+          "modelId": 313,
+          "modelName": "ESCORT I (AFH, ATH)",
+          "modelYearFrom": "1968-01-01",
+          "modelYearTo": "1976-02-01"
+        },
+        {
+          "modelId": 1643,
+          "modelName": "ESCORT I Turnier (ADH)",
+          "modelYearFrom": "1968-06-01",
+          "modelYearTo": "1979-03-01"
+        },
+        {
+          "modelId": 317,
+          "modelName": "ESCORT II (ATH)",
+          "modelYearFrom": "1973-03-01",
+          "modelYearTo": "1981-07-01"
+        },
+        {
+          "modelId": 3959,
+          "modelName": "ESCORT II Turnier",
+          "modelYearFrom": "1975-04-01",
+          "modelYearTo": "1981-07-01"
+        },
+        {
+          "modelId": 322,
+          "modelName": "ESCORT III (GAA)",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1986-07-01"
+        },
+        {
+          "modelId": 326,
+          "modelName": "ESCORT III Décapotable (ALD)",
+          "modelYearFrom": "1983-09-01",
+          "modelYearTo": "1989-12-01"
+        },
+        {
+          "modelId": 1606,
+          "modelName": "ESCORT III Express (AVA)",
+          "modelYearFrom": "1981-01-01",
+          "modelYearTo": "1986-02-01"
+        },
+        {
+          "modelId": 330,
+          "modelName": "ESCORT III Turnier (AWA)",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1985-12-01"
+        },
+        {
+          "modelId": 335,
+          "modelName": "ESCORT IV (GAF, AWF, ABFT)",
+          "modelYearFrom": "1983-03-01",
+          "modelYearTo": "1994-10-01"
+        },
+        {
+          "modelId": 3444,
+          "modelName": "ESCORT IV Décapotable (ALF)",
+          "modelYearFrom": "1986-01-01",
+          "modelYearTo": "1992-11-01"
+        },
+        {
+          "modelId": 1603,
+          "modelName": "ESCORT IV Express (AVF)",
+          "modelYearFrom": "1986-02-01",
+          "modelYearTo": "1990-07-01"
+        },
+        {
+          "modelId": 344,
+          "modelName": "ESCORT IV Turnier (AWF, AVF)",
+          "modelYearFrom": "1985-10-01",
+          "modelYearTo": "1990-10-01"
+        },
+        {
+          "modelId": 349,
+          "modelName": "ESCORT V (AAL, ABL)",
+          "modelYearFrom": "1990-07-01",
+          "modelYearTo": "1996-09-01"
+        },
+        {
+          "modelId": 372,
+          "modelName": "ESCORT V A trois volumes (AFL)",
+          "modelYearFrom": "1993-08-01",
+          "modelYearTo": "1995-01-01"
+        },
+        {
+          "modelId": 3960,
+          "modelName": "ESCORT V Décapotable (ALL)",
+          "modelYearFrom": "1990-07-01",
+          "modelYearTo": "1995-01-01"
+        },
+        {
+          "modelId": 1604,
+          "modelName": "ESCORT V Express (AVF)",
+          "modelYearFrom": "1990-07-01",
+          "modelYearTo": "1994-12-01"
+        },
+        {
+          "modelId": 358,
+          "modelName": "ESCORT V Turnier (ANL)",
+          "modelYearFrom": "1990-07-01",
+          "modelYearTo": "1995-01-01"
+        },
+        {
+          "modelId": 1463,
+          "modelName": "ESCORT VI (GAL, AAL, ABL)",
+          "modelYearFrom": "1995-01-01",
+          "modelYearTo": "2002-10-01"
+        },
+        {
+          "modelId": 1464,
+          "modelName": "ESCORT VI A trois volumes (GAL, AFL)",
+          "modelYearFrom": "1995-01-01",
+          "modelYearTo": "2002-08-01"
+        },
+        {
+          "modelId": 1466,
+          "modelName": "ESCORT VI Décapotable (ALL)",
+          "modelYearFrom": "1994-03-01",
+          "modelYearTo": "2000-08-01"
+        },
+        {
+          "modelId": 1605,
+          "modelName": "ESCORT VI Fourgon/Break (AVL)",
+          "modelYearFrom": "1995-01-01",
+          "modelYearTo": "2001-06-01"
+        },
+        {
+          "modelId": 1465,
+          "modelName": "ESCORT VI Turnier (GAL, ANL)",
+          "modelYearFrom": "1995-01-01",
+          "modelYearTo": "2002-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "EVEREST",
+      "displayName": "Everest",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 40605,
+          "modelName": "EVEREST",
+          "modelYearFrom": "2016-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44490,
+          "modelName": "EVEREST I (US4)",
+          "modelYearFrom": "2009-10-01",
+          "modelYearTo": "2015-03-01"
+        },
+        {
+          "modelId": 44491,
+          "modelName": "EVEREST II (XXM)",
+          "modelYearFrom": "2015-09-01",
+          "modelYearTo": "2023-01-01"
+        },
+        {
+          "modelId": 44492,
+          "modelName": "EVEREST III",
+          "modelYearFrom": "2022-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "F-100",
+      "displayName": "F-100",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 12748,
+          "modelName": "F-100",
+          "modelYearFrom": "1960-01-01",
+          "modelYearTo": "1979-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "F-250",
+      "displayName": "F-250",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 10746,
+          "modelName": "F-250",
+          "modelYearFrom": "1991-10-01",
+          "modelYearTo": "1997-04-01"
+        },
+        {
+          "modelId": 10854,
+          "modelName": "F-250",
+          "modelYearFrom": "1986-09-01",
+          "modelYearTo": "1991-12-01"
+        },
+        {
+          "modelId": 10855,
+          "modelName": "F-250",
+          "modelYearFrom": "1980-01-01",
+          "modelYearTo": "1986-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "F1000",
+      "displayName": "F1000",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 11483,
+          "modelName": "F1000",
+          "modelYearFrom": "1979-01-01",
+          "modelYearTo": "1998-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "F4000",
+      "displayName": "F4000",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 36950,
+          "modelName": "F4000",
+          "modelYearFrom": "2014-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "FALCON",
+      "displayName": "Falcon",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 36412,
+          "modelName": "FALCON A trois volumes",
+          "modelYearFrom": "1983-02-01",
+          "modelYearTo": "1991-10-01"
+        },
+        {
+          "modelId": 10566,
+          "modelName": "FALCON Turnier",
+          "modelYearFrom": "1988-04-01",
+          "modelYearTo": "1996-09-01"
+        },
+        {
+          "modelId": 10567,
+          "modelName": "FALCON Turnier",
+          "modelYearFrom": "1996-09-01",
+          "modelYearTo": "2002-08-01"
+        },
+        {
+          "modelId": 10858,
+          "modelName": "FALCON Turnier",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": "2005-10-01"
+        },
+        {
+          "modelId": 36413,
+          "modelName": "FALCON Turnier",
+          "modelYearFrom": "1983-02-01",
+          "modelYearTo": "1991-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "FIESTA",
+      "displayName": "Fiesta",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 9928,
+          "modelName": "FIESTA A trois volumes",
+          "modelYearFrom": "2000-09-01",
+          "modelYearTo": "2014-12-01"
+        },
+        {
+          "modelId": 9929,
+          "modelName": "FIESTA A trois volumes",
+          "modelYearFrom": "2010-04-01",
+          "modelYearTo": "2017-04-01"
+        },
+        {
+          "modelId": 3388,
+          "modelName": "FIESTA Camionnette/Berline bicorps trois ou cinq portes (FVD",
+          "modelYearFrom": "1983-03-01",
+          "modelYearTo": "1995-12-01"
+        },
+        {
+          "modelId": 4051,
+          "modelName": "FIESTA Camionnette/Berline bicorps trois ou cinq portes (JV_",
+          "modelYearFrom": "1998-05-01",
+          "modelYearTo": "2003-08-01"
+        },
+        {
+          "modelId": 2056,
+          "modelName": "FIESTA Camionnette/Berline bicorps trois ou cinq portes (WFV",
+          "modelYearFrom": "1976-05-01",
+          "modelYearTo": "1986-11-01"
+        },
+        {
+          "modelId": 402,
+          "modelName": "FIESTA I (GFBT)",
+          "modelYearFrom": "1976-05-01",
+          "modelYearTo": "1983-08-01"
+        },
+        {
+          "modelId": 407,
+          "modelName": "FIESTA II (FBD)",
+          "modelYearFrom": "1983-09-01",
+          "modelYearTo": "1989-11-01"
+        },
+        {
+          "modelId": 411,
+          "modelName": "FIESTA III (GFJ)",
+          "modelYearFrom": "1989-01-01",
+          "modelYearTo": "1997-01-01"
+        },
+        {
+          "modelId": 1467,
+          "modelName": "FIESTA IV (JA_, JB_)",
+          "modelYearFrom": "1995-08-01",
+          "modelYearTo": "2006-06-01"
+        },
+        {
+          "modelId": 4802,
+          "modelName": "FIESTA V (JH_, JD_)",
+          "modelYearFrom": "2001-11-01",
+          "modelYearTo": "2014-12-01"
+        },
+        {
+          "modelId": 7384,
+          "modelName": "FIESTA V Van",
+          "modelYearFrom": "2002-05-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 7585,
+          "modelName": "FIESTA VI (CB1, CCN)",
+          "modelYearFrom": "2008-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 8611,
+          "modelName": "FIESTA VI Van",
+          "modelYearFrom": "2008-08-01",
+          "modelYearTo": "2017-04-01"
+        },
+        {
+          "modelId": 37787,
+          "modelName": "FIESTA VII (HJ, HF)",
+          "modelYearFrom": "2017-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38818,
+          "modelName": "FIESTA VII Van",
+          "modelYearFrom": "2018-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "FIGO",
+      "displayName": "Figo",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 44529,
+          "modelName": "FIGO I (JDJ)",
+          "modelYearFrom": "2010-07-01",
+          "modelYearTo": "2016-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "FOCUS",
+      "displayName": "Focus",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 5056,
+          "modelName": "FOCUS C-MAX (DM2)",
+          "modelYearFrom": "2003-10-01",
+          "modelYearTo": "2007-03-01"
+        },
+        {
+          "modelId": 3588,
+          "modelName": "FOCUS I (DAW, DBW)",
+          "modelYearFrom": "1998-09-01",
+          "modelYearTo": "2009-11-01"
+        },
+        {
+          "modelId": 3590,
+          "modelName": "FOCUS I A trois volumes (DFW)",
+          "modelYearFrom": "1999-02-01",
+          "modelYearTo": "2009-11-01"
+        },
+        {
+          "modelId": 38849,
+          "modelName": "FOCUS I Fourgon/Break (DNW)",
+          "modelYearFrom": "1998-08-01",
+          "modelYearTo": "2005-03-01"
+        },
+        {
+          "modelId": 3589,
+          "modelName": "FOCUS I Turnier (DNW)",
+          "modelYearFrom": "1999-02-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 5210,
+          "modelName": "FOCUS II (DA_, HCP, DP)",
+          "modelYearFrom": "2004-07-01",
+          "modelYearTo": "2013-09-01"
+        },
+        {
+          "modelId": 5454,
+          "modelName": "FOCUS II A trois volumes (DB_, FCH, DH)",
+          "modelYearFrom": "2005-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 5561,
+          "modelName": "FOCUS II Décapotable",
+          "modelYearFrom": "2006-10-01",
+          "modelYearTo": "2010-09-01"
+        },
+        {
+          "modelId": 39233,
+          "modelName": "FOCUS II Fourgon/Break",
+          "modelYearFrom": "2004-07-01",
+          "modelYearTo": "2011-07-01"
+        },
+        {
+          "modelId": 5397,
+          "modelName": "FOCUS II Turnier (DA_, FFS, DS)",
+          "modelYearFrom": "2004-07-01",
+          "modelYearTo": "2012-09-01"
+        },
+        {
+          "modelId": 9155,
+          "modelName": "FOCUS III",
+          "modelYearFrom": "2010-07-01",
+          "modelYearTo": "2020-02-01"
+        },
+        {
+          "modelId": 9156,
+          "modelName": "FOCUS III A trois volumes",
+          "modelYearFrom": "2010-07-01",
+          "modelYearTo": "2020-02-01"
+        },
+        {
+          "modelId": 36895,
+          "modelName": "FOCUS III Camionnette/Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": "2020-02-01"
+        },
+        {
+          "modelId": 36894,
+          "modelName": "FOCUS III Fourgon/Break",
+          "modelYearFrom": "2012-02-01",
+          "modelYearTo": "2020-02-01"
+        },
+        {
+          "modelId": 9157,
+          "modelName": "FOCUS III Turnier",
+          "modelYearFrom": "2010-07-01",
+          "modelYearTo": "2020-02-01"
+        },
+        {
+          "modelId": 38611,
+          "modelName": "FOCUS IV (HN)",
+          "modelYearFrom": "2018-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39142,
+          "modelName": "FOCUS IV A trois volumes (HM)",
+          "modelYearFrom": "2018-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38774,
+          "modelName": "FOCUS IV Turnier (HP)",
+          "modelYearFrom": "2018-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "FREESTYLE",
+      "displayName": "Freestyle",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 40674,
+          "modelName": "FREESTYLE",
+          "modelYearFrom": "2018-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "FUSION",
+      "displayName": "Fusion",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 4885,
+          "modelName": "FUSION (JU_)",
+          "modelYearFrom": "2002-08-01",
+          "modelYearTo": "2012-12-01"
+        },
+        {
+          "modelId": 9931,
+          "modelName": "FUSION A trois volumes",
+          "modelYearFrom": "2006-05-01",
+          "modelYearTo": "2012-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "GALAXIE",
+      "displayName": "Galaxie",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 11595,
+          "modelName": "GALAXIE",
+          "modelYearFrom": "1976-01-01",
+          "modelYearTo": "1983-12-01"
+        },
+        {
+          "modelId": 11950,
+          "modelName": "GALAXIE",
+          "modelYearFrom": "1967-01-01",
+          "modelYearTo": "1975-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "GALAXY",
+      "displayName": "Galaxy",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 10173,
+          "modelName": "GALAXY",
+          "modelYearFrom": "1992-05-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 1317,
+          "modelName": "GALAXY I (WGR)",
+          "modelYearFrom": "1995-03-01",
+          "modelYearTo": "2006-05-01"
+        },
+        {
+          "modelId": 5541,
+          "modelName": "GALAXY II (WA6)",
+          "modelYearFrom": "2006-05-01",
+          "modelYearTo": "2015-06-01"
+        },
+        {
+          "modelId": 13969,
+          "modelName": "GALAXY III (CK)",
+          "modelYearFrom": "2015-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41616,
+          "modelName": "GALAXY MK I VAN (WGR)",
+          "modelYearFrom": "1995-03-01",
+          "modelYearTo": "2006-05-01"
+        },
+        {
+          "modelId": 41613,
+          "modelName": "GALAXY MK II VAN (WA6)",
+          "modelYearFrom": "2006-05-01",
+          "modelYearTo": "2015-06-01"
+        },
+        {
+          "modelId": 39652,
+          "modelName": "GALAXY MK III VAN (CK)",
+          "modelYearFrom": "2019-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "GRANADA",
+      "displayName": "Granada",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 79,
+          "modelName": "GRANADA (GGTL, GGFL)",
+          "modelYearFrom": "1972-01-01",
+          "modelYearTo": "1977-08-01"
+        },
+        {
+          "modelId": 1687,
+          "modelName": "GRANADA I Coupé (GGCL)",
+          "modelYearFrom": "1972-01-01",
+          "modelYearTo": "1976-02-01"
+        },
+        {
+          "modelId": 514,
+          "modelName": "GRANADA II (GU)",
+          "modelYearFrom": "1977-08-01",
+          "modelYearTo": "1985-08-01"
+        },
+        {
+          "modelId": 1688,
+          "modelName": "GRANADA Turnier (GGNL)",
+          "modelYearFrom": "1972-01-01",
+          "modelYearTo": "1977-08-01"
+        },
+        {
+          "modelId": 518,
+          "modelName": "GRANADA Turnier (GNU)",
+          "modelYearFrom": "1977-08-01",
+          "modelYearTo": "1985-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "GRAND C-MAX",
+      "displayName": "Grand C-Max",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 8996,
+          "modelName": "GRAND C-MAX (DXA/CB7, DXA/CEU)",
+          "modelYearFrom": "2010-12-01",
+          "modelYearTo": "2019-06-01"
+        },
+        {
+          "modelId": 13359,
+          "modelName": "GRAND C-MAX Van",
+          "modelYearFrom": "2010-12-01",
+          "modelYearTo": "2019-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "GT",
+      "displayName": "GT",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 5146,
+          "modelName": "GT",
+          "modelYearFrom": "2003-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37789,
+          "modelName": "GT",
+          "modelYearFrom": "2016-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "HUSKY",
+      "displayName": "Husky",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 44604,
+          "modelName": "HUSKY Autobus/Autocar",
+          "modelYearFrom": "1985-01-01",
+          "modelYearTo": "1998-01-01"
+        },
+        {
+          "modelId": 44603,
+          "modelName": "HUSKY Fourgon",
+          "modelYearFrom": "1985-01-01",
+          "modelYearTo": "1998-01-01"
+        },
+        {
+          "modelId": 44602,
+          "modelName": "HUSKY LDV",
+          "modelYearFrom": "1985-01-01",
+          "modelYearTo": "1997-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "IKON",
+      "displayName": "Ikon",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 10531,
+          "modelName": "IKON II",
+          "modelYearFrom": "1999-10-01",
+          "modelYearTo": "2011-03-01"
+        },
+        {
+          "modelId": 44588,
+          "modelName": "IKON II A trois volumes",
+          "modelYearFrom": "2007-10-01",
+          "modelYearTo": "2016-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "KA",
+      "displayName": "Ka",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 10201,
+          "modelName": "KA",
+          "modelYearFrom": "2008-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 1572,
+          "modelName": "KA (RB_)",
+          "modelYearFrom": "1996-09-01",
+          "modelYearTo": "2008-11-01"
+        },
+        {
+          "modelId": 8000,
+          "modelName": "KA (RU8)",
+          "modelYearFrom": "2008-10-01",
+          "modelYearTo": "2016-05-01"
+        },
+        {
+          "modelId": 9830,
+          "modelName": "KA Van (RB)",
+          "modelYearFrom": "2002-05-01",
+          "modelYearTo": "2005-05-01"
+        },
+        {
+          "modelId": 13141,
+          "modelName": "KA+ III (UK, FK)",
+          "modelYearFrom": "2014-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13140,
+          "modelName": "KA+ III A trois volumes (TK, FK)",
+          "modelYearFrom": "2014-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "KUGA",
+      "displayName": "Kuga",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 7367,
+          "modelName": "KUGA I",
+          "modelYearFrom": "2008-02-01",
+          "modelYearTo": "2012-11-01"
+        },
+        {
+          "modelId": 41619,
+          "modelName": "KUGA I VAN",
+          "modelYearFrom": "2008-02-01",
+          "modelYearTo": "2012-11-01"
+        },
+        {
+          "modelId": 11097,
+          "modelName": "KUGA II (DM2)",
+          "modelYearFrom": "2012-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13357,
+          "modelName": "KUGA II VAN",
+          "modelYearFrom": "2012-05-01",
+          "modelYearTo": "2019-12-01"
+        },
+        {
+          "modelId": 39686,
+          "modelName": "KUGA III (DFK)",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "LASER",
+      "displayName": "Laser",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 10543,
+          "modelName": "LASER Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1986-05-01",
+          "modelYearTo": "1996-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "MAVERICK",
+      "displayName": "Maverick",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 4641,
+          "modelName": "MAVERICK",
+          "modelYearFrom": "2001-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 1310,
+          "modelName": "MAVERICK (UDS, UNS)",
+          "modelYearFrom": "1993-02-01",
+          "modelYearTo": "1998-04-01"
+        },
+        {
+          "modelId": 9852,
+          "modelName": "MAVERICK VAN",
+          "modelYearFrom": "1996-06-01",
+          "modelYearTo": "1998-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "METEOR",
+      "displayName": "Meteor",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 44594,
+          "modelName": "METEOR A trois volumes (KC, KE)",
+          "modelYearFrom": "1986-05-01",
+          "modelYearTo": "1996-02-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "METROSTAR",
+      "displayName": "Metrostar",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 7004,
+          "modelName": "METROSTAR",
+          "modelYearFrom": "2000-10-01",
+          "modelYearTo": "2007-02-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "MONDEO",
+      "displayName": "Mondeo",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 284,
+          "modelName": "MONDEO I (GBP)",
+          "modelYearFrom": "1993-02-01",
+          "modelYearTo": "1996-08-01"
+        },
+        {
+          "modelId": 3447,
+          "modelName": "MONDEO I A trois volumes (GBP)",
+          "modelYearFrom": "1993-01-01",
+          "modelYearTo": "1996-08-01"
+        },
+        {
+          "modelId": 292,
+          "modelName": "MONDEO I Turnier (BNP)",
+          "modelYearFrom": "1993-01-01",
+          "modelYearTo": "1996-08-01"
+        },
+        {
+          "modelId": 1573,
+          "modelName": "MONDEO II (BAP)",
+          "modelYearFrom": "1996-08-01",
+          "modelYearTo": "2000-09-01"
+        },
+        {
+          "modelId": 3487,
+          "modelName": "MONDEO II A trois volumes (BFP)",
+          "modelYearFrom": "1996-08-01",
+          "modelYearTo": "2000-09-01"
+        },
+        {
+          "modelId": 1574,
+          "modelName": "MONDEO II Turnier (BNP)",
+          "modelYearFrom": "1996-08-01",
+          "modelYearTo": "2000-09-01"
+        },
+        {
+          "modelId": 4725,
+          "modelName": "MONDEO III (B5Y)",
+          "modelYearFrom": "2000-10-01",
+          "modelYearTo": "2007-03-01"
+        },
+        {
+          "modelId": 4721,
+          "modelName": "MONDEO III A trois volumes (B4Y)",
+          "modelYearFrom": "2000-10-01",
+          "modelYearTo": "2007-09-01"
+        },
+        {
+          "modelId": 4726,
+          "modelName": "MONDEO III Turnier (BWY)",
+          "modelYearFrom": "2000-10-01",
+          "modelYearTo": "2007-03-01"
+        },
+        {
+          "modelId": 6238,
+          "modelName": "MONDEO IV (BA7)",
+          "modelYearFrom": "2007-03-01",
+          "modelYearTo": "2015-01-01"
+        },
+        {
+          "modelId": 6237,
+          "modelName": "MONDEO IV A trois volumes (BA7)",
+          "modelYearFrom": "2007-03-01",
+          "modelYearTo": "2015-01-01"
+        },
+        {
+          "modelId": 6239,
+          "modelName": "MONDEO IV Turnier (BA7)",
+          "modelYearFrom": "2007-03-01",
+          "modelYearTo": "2015-01-01"
+        },
+        {
+          "modelId": 39189,
+          "modelName": "MONDEO IV Van",
+          "modelYearFrom": "2007-03-01",
+          "modelYearTo": "2015-01-01"
+        },
+        {
+          "modelId": 13129,
+          "modelName": "MONDEO V A trois volumes (CD)",
+          "modelYearFrom": "2012-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13128,
+          "modelName": "MONDEO V Berline bicorps trois ou cinq portes (CE)",
+          "modelYearFrom": "2014-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13127,
+          "modelName": "MONDEO V Turnier (CF)",
+          "modelYearFrom": "2014-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "ORION",
+      "displayName": "Orion",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 368,
+          "modelName": "ORION I (AFD)",
+          "modelYearFrom": "1983-07-01",
+          "modelYearTo": "1986-03-01"
+        },
+        {
+          "modelId": 373,
+          "modelName": "ORION II (AFF)",
+          "modelYearFrom": "1985-12-01",
+          "modelYearTo": "1990-07-01"
+        },
+        {
+          "modelId": 378,
+          "modelName": "ORION III (GAL)",
+          "modelYearFrom": "1990-01-01",
+          "modelYearTo": "1996-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "P 100",
+      "displayName": "P 100",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 4550,
+          "modelName": "P 100 I",
+          "modelYearFrom": "1982-04-01",
+          "modelYearTo": "1987-09-01"
+        },
+        {
+          "modelId": 4549,
+          "modelName": "P 100 II",
+          "modelYearFrom": "1987-10-01",
+          "modelYearTo": "1992-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "PUMA",
+      "displayName": "PUMA",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 3961,
+          "modelName": "PUMA (EC_)",
+          "modelYearFrom": "1997-03-01",
+          "modelYearTo": "2002-06-01"
+        },
+        {
+          "modelId": 39675,
+          "modelName": "PUMA (J2K, CF7)",
+          "modelYearFrom": "2019-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "RANGER",
+      "displayName": "Ranger",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 4509,
+          "modelName": "RANGER (ER, EQ, R_)",
+          "modelYearFrom": "1997-04-01",
+          "modelYearTo": "2011-12-01"
+        },
+        {
+          "modelId": 9028,
+          "modelName": "RANGER (ET)",
+          "modelYearFrom": "2005-01-01",
+          "modelYearTo": "2012-07-01"
+        },
+        {
+          "modelId": 9853,
+          "modelName": "RANGER (TKE)",
+          "modelYearFrom": "2011-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44449,
+          "modelName": "RANGER I (2A, 2E, 2F)",
+          "modelYearFrom": "2000-02-01",
+          "modelYearTo": "2007-07-01"
+        },
+        {
+          "modelId": 44466,
+          "modelName": "RANGER II (2R, 2S, 2T)",
+          "modelYearFrom": "2007-06-01",
+          "modelYearTo": "2012-09-01"
+        },
+        {
+          "modelId": 44468,
+          "modelName": "RANGER III (2N, 2G, 2P)",
+          "modelYearFrom": "2011-12-01",
+          "modelYearTo": "2023-01-01"
+        },
+        {
+          "modelId": 44486,
+          "modelName": "RANGER IV",
+          "modelYearFrom": "2022-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "S-MAX",
+      "displayName": "S-Max",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 13884,
+          "modelName": "S-MAX (CJ, WA6)",
+          "modelYearFrom": "2015-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 5542,
+          "modelName": "S-MAX (WA6)",
+          "modelYearFrom": "2006-05-01",
+          "modelYearTo": "2014-12-01"
+        },
+        {
+          "modelId": 41688,
+          "modelName": "S-MAX VAN (WA6)",
+          "modelYearFrom": "2006-05-01",
+          "modelYearTo": "2014-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "SCORPIO",
+      "displayName": "Scorpio",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 218,
+          "modelName": "SCORPIO I (GAE, GGE)",
+          "modelYearFrom": "1985-04-01",
+          "modelYearTo": "1994-09-01"
+        },
+        {
+          "modelId": 223,
+          "modelName": "SCORPIO I A trois volumes (GGE)",
+          "modelYearFrom": "1986-01-01",
+          "modelYearTo": "1994-12-01"
+        },
+        {
+          "modelId": 3446,
+          "modelName": "SCORPIO I Turnier (GGE)",
+          "modelYearFrom": "1988-05-01",
+          "modelYearTo": "1994-09-01"
+        },
+        {
+          "modelId": 1315,
+          "modelName": "SCORPIO II (GFR, GGR)",
+          "modelYearFrom": "1994-10-01",
+          "modelYearTo": "1998-08-01"
+        },
+        {
+          "modelId": 1316,
+          "modelName": "SCORPIO II Turnier (GNR, GGR)",
+          "modelYearFrom": "1994-10-01",
+          "modelYearTo": "1998-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "SIERRA",
+      "displayName": "Sierra",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 36948,
+          "modelName": "SIERRA I Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1984-02-01",
+          "modelYearTo": "1995-10-01"
+        },
+        {
+          "modelId": 251,
+          "modelName": "SIERRA I Berline bicorps trois ou cinq portes (GBC)",
+          "modelYearFrom": "1982-08-01",
+          "modelYearTo": "1987-02-01"
+        },
+        {
+          "modelId": 246,
+          "modelName": "SIERRA II (GBG, GB4)",
+          "modelYearFrom": "1987-01-01",
+          "modelYearTo": "1993-02-01"
+        },
+        {
+          "modelId": 241,
+          "modelName": "SIERRA II Berline bicorps trois ou cinq portes (GBC, GBG)",
+          "modelYearFrom": "1987-01-01",
+          "modelYearTo": "1993-03-01"
+        },
+        {
+          "modelId": 260,
+          "modelName": "SIERRA II Turnier (BNG)",
+          "modelYearFrom": "1987-01-01",
+          "modelYearTo": "1993-02-01"
+        },
+        {
+          "modelId": 36947,
+          "modelName": "SIERRA Turnier",
+          "modelYearFrom": "1984-02-01",
+          "modelYearTo": "1995-10-01"
+        },
+        {
+          "modelId": 256,
+          "modelName": "SIERRA Turnier (BNC)",
+          "modelYearFrom": "1982-08-01",
+          "modelYearTo": "1986-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "SPECTRON",
+      "displayName": "Spectron",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 44769,
+          "modelName": "SPECTRON Autobus/Autocar",
+          "modelYearFrom": "1991-01-01",
+          "modelYearTo": "2002-10-01"
+        },
+        {
+          "modelId": 44770,
+          "modelName": "SPECTRON Fourgon",
+          "modelYearFrom": "1994-05-01",
+          "modelYearTo": "2002-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "STREET",
+      "displayName": "Street",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 4934,
+          "modelName": "STREET KA (RL2)",
+          "modelYearFrom": "2003-03-01",
+          "modelYearTo": "2005-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "TAUNUS",
+      "displayName": "Taunus",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 36402,
+          "modelName": "TAUNUS",
+          "modelYearFrom": "1983-02-01",
+          "modelYearTo": "1985-08-01"
+        },
+        {
+          "modelId": 3492,
+          "modelName": "TAUNUS (GBFK)",
+          "modelYearFrom": "1970-08-01",
+          "modelYearTo": "1976-02-01"
+        },
+        {
+          "modelId": 346,
+          "modelName": "TAUNUS (GBTK)",
+          "modelYearFrom": "1970-01-01",
+          "modelYearTo": "1976-02-01"
+        },
+        {
+          "modelId": 351,
+          "modelName": "TAUNUS (GBTS, GBFS, CBTS)",
+          "modelYearFrom": "1975-05-01",
+          "modelYearTo": "1980-07-01"
+        },
+        {
+          "modelId": 1645,
+          "modelName": "TAUNUS 12M I",
+          "modelYearFrom": "1951-12-01",
+          "modelYearTo": "1963-02-01"
+        },
+        {
+          "modelId": 1649,
+          "modelName": "TAUNUS 12M II (11G)",
+          "modelYearFrom": "1966-08-01",
+          "modelYearTo": "1971-06-01"
+        },
+        {
+          "modelId": 1650,
+          "modelName": "TAUNUS 12M II (12G)",
+          "modelYearFrom": "1966-08-01",
+          "modelYearTo": "1971-06-01"
+        },
+        {
+          "modelId": 1646,
+          "modelName": "TAUNUS 12M II (P4)",
+          "modelYearFrom": "1962-07-01",
+          "modelYearTo": "1967-04-01"
+        },
+        {
+          "modelId": 1651,
+          "modelName": "TAUNUS 12M II Coupé (13G)",
+          "modelYearFrom": "1966-08-01",
+          "modelYearTo": "1971-06-01"
+        },
+        {
+          "modelId": 1647,
+          "modelName": "TAUNUS 12M II Coupé (P4)",
+          "modelYearFrom": "1962-12-01",
+          "modelYearTo": "1967-04-01"
+        },
+        {
+          "modelId": 3583,
+          "modelName": "TAUNUS 12M II Turnier",
+          "modelYearFrom": "1953-05-01",
+          "modelYearTo": "1963-02-01"
+        },
+        {
+          "modelId": 3489,
+          "modelName": "TAUNUS 12M II Turnier (15G)",
+          "modelYearFrom": "1966-09-01",
+          "modelYearTo": "1971-06-01"
+        },
+        {
+          "modelId": 1648,
+          "modelName": "TAUNUS 12M II Turnier (P4)",
+          "modelYearFrom": "1963-04-01",
+          "modelYearTo": "1967-04-01"
+        },
+        {
+          "modelId": 1652,
+          "modelName": "TAUNUS 15M I",
+          "modelYearFrom": "1954-09-01",
+          "modelYearTo": "1958-09-01"
+        },
+        {
+          "modelId": 1653,
+          "modelName": "TAUNUS 15M II (21G)",
+          "modelYearFrom": "1966-08-01",
+          "modelYearTo": "1971-06-01"
+        },
+        {
+          "modelId": 1654,
+          "modelName": "TAUNUS 15M II (22G)",
+          "modelYearFrom": "1966-08-01",
+          "modelYearTo": "1971-06-01"
+        },
+        {
+          "modelId": 3963,
+          "modelName": "TAUNUS 15M II (28G)",
+          "modelYearFrom": "1966-08-01",
+          "modelYearTo": "1971-06-01"
+        },
+        {
+          "modelId": 1656,
+          "modelName": "TAUNUS 15M II (29G)",
+          "modelYearFrom": "1966-08-01",
+          "modelYearTo": "1971-06-01"
+        },
+        {
+          "modelId": 1655,
+          "modelName": "TAUNUS 15M II Coupé (23G)",
+          "modelYearFrom": "1966-08-01",
+          "modelYearTo": "1971-06-01"
+        },
+        {
+          "modelId": 3962,
+          "modelName": "TAUNUS 15M II Turnier (25G)",
+          "modelYearFrom": "1966-09-01",
+          "modelYearTo": "1971-07-01"
+        },
+        {
+          "modelId": 1662,
+          "modelName": "TAUNUS 17M I",
+          "modelYearFrom": "1957-08-01",
+          "modelYearTo": "1960-11-01"
+        },
+        {
+          "modelId": 1666,
+          "modelName": "TAUNUS 17M II (21)",
+          "modelYearFrom": "1964-09-01",
+          "modelYearTo": "1968-10-01"
+        },
+        {
+          "modelId": 1667,
+          "modelName": "TAUNUS 17M II (31F)",
+          "modelYearFrom": "1967-07-01",
+          "modelYearTo": "1974-04-01"
+        },
+        {
+          "modelId": 1668,
+          "modelName": "TAUNUS 17M II (32F)",
+          "modelYearFrom": "1967-07-01",
+          "modelYearTo": "1974-04-01"
+        },
+        {
+          "modelId": 1664,
+          "modelName": "TAUNUS 17M II (P3)",
+          "modelYearFrom": "1960-09-01",
+          "modelYearTo": "1965-01-01"
+        },
+        {
+          "modelId": 1669,
+          "modelName": "TAUNUS 17M II Coupé (33F)",
+          "modelYearFrom": "1967-07-01",
+          "modelYearTo": "1974-04-01"
+        },
+        {
+          "modelId": 1665,
+          "modelName": "TAUNUS 17M II Coupé (P3)",
+          "modelYearFrom": "1961-11-01",
+          "modelYearTo": "1965-01-01"
+        },
+        {
+          "modelId": 1663,
+          "modelName": "TAUNUS 17M II Turnier",
+          "modelYearFrom": "1957-08-01",
+          "modelYearTo": "1960-11-01"
+        },
+        {
+          "modelId": 3964,
+          "modelName": "TAUNUS 17M II Turnier (21)",
+          "modelYearFrom": "1964-11-01",
+          "modelYearTo": "1967-10-01"
+        },
+        {
+          "modelId": 1670,
+          "modelName": "TAUNUS 17M II Turnier (35F)",
+          "modelYearFrom": "1967-09-01",
+          "modelYearTo": "1974-04-01"
+        },
+        {
+          "modelId": 1671,
+          "modelName": "TAUNUS 17M II Turnier (36F)",
+          "modelYearFrom": "1967-09-01",
+          "modelYearTo": "1974-04-01"
+        },
+        {
+          "modelId": 3490,
+          "modelName": "TAUNUS 17M II Turnier (P3)",
+          "modelYearFrom": "1960-12-01",
+          "modelYearTo": "1965-01-01"
+        },
+        {
+          "modelId": 1672,
+          "modelName": "TAUNUS 20M II",
+          "modelYearFrom": "1964-11-01",
+          "modelYearTo": "1968-10-01"
+        },
+        {
+          "modelId": 1674,
+          "modelName": "TAUNUS 20M II (41F)",
+          "modelYearFrom": "1967-07-01",
+          "modelYearTo": "1974-04-01"
+        },
+        {
+          "modelId": 1675,
+          "modelName": "TAUNUS 20M II (42F)",
+          "modelYearFrom": "1967-07-01",
+          "modelYearTo": "1974-04-01"
+        },
+        {
+          "modelId": 1676,
+          "modelName": "TAUNUS 20M II Coupé (43F)",
+          "modelYearFrom": "1967-07-01",
+          "modelYearTo": "1974-04-01"
+        },
+        {
+          "modelId": 1673,
+          "modelName": "TAUNUS 20M II Turnier",
+          "modelYearFrom": "1964-11-01",
+          "modelYearTo": "1968-10-01"
+        },
+        {
+          "modelId": 3965,
+          "modelName": "TAUNUS 20M II Turnier (46F)",
+          "modelYearFrom": "1967-07-01",
+          "modelYearTo": "1974-04-01"
+        },
+        {
+          "modelId": 3491,
+          "modelName": "TAUNUS 20M II XL (51F)",
+          "modelYearFrom": "1967-07-01",
+          "modelYearTo": "1974-04-01"
+        },
+        {
+          "modelId": 1677,
+          "modelName": "TAUNUS 20M II XL (52F)",
+          "modelYearFrom": "1967-07-01",
+          "modelYearTo": "1974-04-01"
+        },
+        {
+          "modelId": 1678,
+          "modelName": "TAUNUS 20M II XL Coupe (53F)",
+          "modelYearFrom": "1967-07-01",
+          "modelYearTo": "1974-04-01"
+        },
+        {
+          "modelId": 1679,
+          "modelName": "TAUNUS 26M XL (52F)",
+          "modelYearFrom": "1969-10-01",
+          "modelYearTo": "1974-04-01"
+        },
+        {
+          "modelId": 1680,
+          "modelName": "TAUNUS 26M XL Coupe (53F)",
+          "modelYearFrom": "1969-10-01",
+          "modelYearTo": "1974-04-01"
+        },
+        {
+          "modelId": 37618,
+          "modelName": "TAUNUS Coupé",
+          "modelYearFrom": "1975-05-01",
+          "modelYearTo": "1985-08-01"
+        },
+        {
+          "modelId": 1681,
+          "modelName": "TAUNUS Coupé (GBCK)",
+          "modelYearFrom": "1970-08-01",
+          "modelYearTo": "1976-02-01"
+        },
+        {
+          "modelId": 1644,
+          "modelName": "TAUNUS I",
+          "modelYearFrom": "1951-01-01",
+          "modelYearTo": "1953-08-01"
+        },
+        {
+          "modelId": 360,
+          "modelName": "TAUNUS III Turnier (GBNS)",
+          "modelYearFrom": "1979-07-01",
+          "modelYearTo": "1982-12-01"
+        },
+        {
+          "modelId": 1682,
+          "modelName": "TAUNUS Turnier (GBNK)",
+          "modelYearFrom": "1970-08-01",
+          "modelYearTo": "1976-02-01"
+        },
+        {
+          "modelId": 355,
+          "modelName": "TAUNUS Turnier (GBNS)",
+          "modelYearFrom": "1975-05-01",
+          "modelYearTo": "1979-08-01"
+        },
+        {
+          "modelId": 341,
+          "modelName": "TAUNUS V (GBS, GBNS)",
+          "modelYearFrom": "1979-07-01",
+          "modelYearTo": "1984-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "TELSTAR",
+      "displayName": "Telstar",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 10774,
+          "modelName": "TELSTAR",
+          "modelYearFrom": "1993-01-01",
+          "modelYearTo": "1999-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "TERRITORY",
+      "displayName": "Territory",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 44198,
+          "modelName": "TERRITORY II",
+          "modelYearFrom": "2023-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "TOPAZ",
+      "displayName": "Topaz",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 14116,
+          "modelName": "TOPAZ",
+          "modelYearFrom": "1983-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 14117,
+          "modelName": "TOPAZ",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "1994-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "TOURNEO",
+      "displayName": "Tourneo",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 4933,
+          "modelName": "TOURNEO CONNECT",
+          "modelYearFrom": "2002-06-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 11574,
+          "modelName": "TOURNEO CONNECT / GRAND TOURNEO CONNECT V408 Monospace",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42737,
+          "modelName": "TOURNEO CONNECT / GRAND TOURNEO CONNECT V761 Monospace (SK)",
+          "modelYearFrom": "2022-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11948,
+          "modelName": "TOURNEO COURIER B460 Monospace",
+          "modelYearFrom": "2014-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44541,
+          "modelName": "TOURNEO COURIER V769 Monospace (N1P)",
+          "modelYearFrom": "2023-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11094,
+          "modelName": "TOURNEO CUSTOM V362 Autobus/Autocar (F3)",
+          "modelYearFrom": "2012-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44053,
+          "modelName": "TOURNEO CUSTOM V710 Autobus/Autocar (NXN)",
+          "modelYearFrom": "2023-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "TRACER",
+      "displayName": "Tracer",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 44601,
+          "modelName": "TRACER A trois volumes (BF)",
+          "modelYearFrom": "1995-07-01",
+          "modelYearTo": "2000-01-01"
+        },
+        {
+          "modelId": 44600,
+          "modelName": "TRACER Berline bicorps trois ou cinq portes (BF)",
+          "modelYearFrom": "1995-07-01",
+          "modelYearTo": "2002-01-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "TRANSIT",
+      "displayName": "Transit",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 1689,
+          "modelName": "TRANSIT Autobus/Autocar",
+          "modelYearFrom": "1955-04-01",
+          "modelYearTo": "1967-07-01"
+        },
+        {
+          "modelId": 432,
+          "modelName": "TRANSIT Autobus/Autocar (72E, 73E)",
+          "modelYearFrom": "1965-11-01",
+          "modelYearTo": "1978-09-01"
+        },
+        {
+          "modelId": 1483,
+          "modelName": "TRANSIT Autobus/Autocar (E_ _)",
+          "modelYearFrom": "1994-06-01",
+          "modelYearTo": "2000-07-01"
+        },
+        {
+          "modelId": 3969,
+          "modelName": "TRANSIT Autobus/Autocar (E_ _)",
+          "modelYearFrom": "1991-01-01",
+          "modelYearTo": "1994-09-01"
+        },
+        {
+          "modelId": 4620,
+          "modelName": "TRANSIT Autobus/Autocar (FD_ _, FB_ _, FS_ _, FZ_ _, FC_ _)",
+          "modelYearFrom": "2000-01-01",
+          "modelYearTo": "2006-05-01"
+        },
+        {
+          "modelId": 5571,
+          "modelName": "TRANSIT Autobus/Autocar (FD_ _, FB_ _, FS_ _, FZ_ _, FC_ _)",
+          "modelYearFrom": "2006-04-01",
+          "modelYearTo": "2014-12-01"
+        },
+        {
+          "modelId": 444,
+          "modelName": "TRANSIT Autobus/Autocar (T_ _)",
+          "modelYearFrom": "1985-10-01",
+          "modelYearTo": "1992-09-01"
+        },
+        {
+          "modelId": 1690,
+          "modelName": "TRANSIT Autobus/Autocar (V_ _)",
+          "modelYearFrom": "1977-11-01",
+          "modelYearTo": "1986-10-01"
+        },
+        {
+          "modelId": 4066,
+          "modelName": "TRANSIT Camion plate-forme/Châssis (74E)",
+          "modelYearFrom": "1968-12-01",
+          "modelYearTo": "1978-09-01"
+        },
+        {
+          "modelId": 2024,
+          "modelName": "TRANSIT Camion plate-forme/Châssis (E_ _)",
+          "modelYearFrom": "1991-04-01",
+          "modelYearTo": "1994-08-01"
+        },
+        {
+          "modelId": 2044,
+          "modelName": "TRANSIT Camion plate-forme/Châssis (E_ _)",
+          "modelYearFrom": "1994-08-01",
+          "modelYearTo": "2000-07-01"
+        },
+        {
+          "modelId": 5573,
+          "modelName": "TRANSIT Camion plate-forme/Châssis (FM_ _, FN_ _, FF_ _)",
+          "modelYearFrom": "2006-04-01",
+          "modelYearTo": "2014-12-01"
+        },
+        {
+          "modelId": 4622,
+          "modelName": "TRANSIT Camion plate-forme/Châssis (FM_ _, FN_ _)",
+          "modelYearFrom": "2000-01-01",
+          "modelYearTo": "2006-05-01"
+        },
+        {
+          "modelId": 2022,
+          "modelName": "TRANSIT Camion plate-forme/Châssis (T_ _)",
+          "modelYearFrom": "1985-10-01",
+          "modelYearTo": "1992-09-01"
+        },
+        {
+          "modelId": 2023,
+          "modelName": "TRANSIT Camion plate-forme/Châssis (V_ _)",
+          "modelYearFrom": "1977-11-01",
+          "modelYearTo": "1986-10-01"
+        },
+        {
+          "modelId": 4948,
+          "modelName": "TRANSIT CONNECT (P65_, P70_, P80_)",
+          "modelYearFrom": "2002-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11619,
+          "modelName": "TRANSIT CONNECT Monospace",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11573,
+          "modelName": "TRANSIT CONNECT V408 Camionnette/Monospace",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43881,
+          "modelName": "TRANSIT CONNECT V761 Camionnette/Monospace (SKN)",
+          "modelYearFrom": "2022-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11946,
+          "modelName": "TRANSIT COURIER B460 Camionnette/Monospace",
+          "modelYearFrom": "2014-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11947,
+          "modelName": "TRANSIT COURIER B460 Monospace",
+          "modelYearFrom": "2014-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44542,
+          "modelName": "TRANSIT COURIER V769 Camionnette/Monospace (N3P)",
+          "modelYearFrom": "2023-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11096,
+          "modelName": "TRANSIT CUSTOM V362 Autobus/Autocar (F3)",
+          "modelYearFrom": "2012-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11095,
+          "modelName": "TRANSIT CUSTOM V362 Fourgon (FY, FZ)",
+          "modelYearFrom": "2012-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44833,
+          "modelName": "TRANSIT CUSTOM V710 Autobus/Autocar (NXN)",
+          "modelYearFrom": "2024-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44052,
+          "modelName": "TRANSIT CUSTOM V710 Fourgon (NRN)",
+          "modelYearFrom": "2023-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 1752,
+          "modelName": "TRANSIT Fourgon",
+          "modelYearFrom": "1955-04-01",
+          "modelYearTo": "1967-07-01"
+        },
+        {
+          "modelId": 1747,
+          "modelName": "TRANSIT Fourgon (72E, 71E)",
+          "modelYearFrom": "1965-11-01",
+          "modelYearTo": "1978-09-01"
+        },
+        {
+          "modelId": 1748,
+          "modelName": "TRANSIT Fourgon (81E)",
+          "modelYearFrom": "1965-11-01",
+          "modelYearTo": "1973-07-01"
+        },
+        {
+          "modelId": 1751,
+          "modelName": "TRANSIT Fourgon (E_ _)",
+          "modelYearFrom": "1991-05-01",
+          "modelYearTo": "1994-06-01"
+        },
+        {
+          "modelId": 2043,
+          "modelName": "TRANSIT Fourgon (E_ _)",
+          "modelYearFrom": "1994-06-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 4621,
+          "modelName": "TRANSIT Fourgon (FA_ _)",
+          "modelYearFrom": "2000-01-01",
+          "modelYearTo": "2006-05-01"
+        },
+        {
+          "modelId": 5572,
+          "modelName": "TRANSIT Fourgon (FA_ _)",
+          "modelYearFrom": "2006-04-01",
+          "modelYearTo": "2014-12-01"
+        },
+        {
+          "modelId": 1750,
+          "modelName": "TRANSIT Fourgon (T_ _)",
+          "modelYearFrom": "1985-09-01",
+          "modelYearTo": "1992-09-01"
+        },
+        {
+          "modelId": 1776,
+          "modelName": "TRANSIT Fourgon (V_ _)",
+          "modelYearFrom": "1977-01-01",
+          "modelYearTo": "1986-10-01"
+        },
+        {
+          "modelId": 5574,
+          "modelName": "TRANSIT TOURNEO Autobus/Autocar",
+          "modelYearFrom": "2006-07-01",
+          "modelYearTo": "2014-08-01"
+        },
+        {
+          "modelId": 7590,
+          "modelName": "TRANSIT TOURNEO Autobus/Autocar",
+          "modelYearFrom": "1994-08-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 38762,
+          "modelName": "TRANSIT TOURNEO Autobus/Autocar (FC_ _)",
+          "modelYearFrom": "2000-06-01",
+          "modelYearTo": "2006-03-01"
+        },
+        {
+          "modelId": 11952,
+          "modelName": "TRANSIT V363 Autobus/Autocar (FAD, FBD)",
+          "modelYearFrom": "2013-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11954,
+          "modelName": "TRANSIT V363 Camion plate-forme/Châssis (FED, FFD)",
+          "modelYearFrom": "2013-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11953,
+          "modelName": "TRANSIT V363 Fourgon (FCD, FDD)",
+          "modelYearFrom": "2013-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "ZEPHYR",
+      "displayName": "Zephyr",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 4715,
+          "modelName": "ZEPHYR III",
+          "modelYearFrom": "1962-03-01",
+          "modelYearTo": "1968-03-01"
+        },
+        {
+          "modelId": 4716,
+          "modelName": "ZEPHYR III Station Wagon",
+          "modelYearFrom": "1962-03-01",
+          "modelYearTo": "1968-03-01"
+        },
+        {
+          "modelId": 4717,
+          "modelName": "ZEPHYR IV",
+          "modelYearFrom": "1968-03-01",
+          "modelYearTo": "1972-10-01"
+        },
+        {
+          "modelId": 4718,
+          "modelName": "ZEPHYR IV Station Wagon",
+          "modelYearFrom": "1968-03-01",
+          "modelYearTo": "1972-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 36,
+      "manufacturerName": "FORD",
+      "groupKey": "ZODIAC",
+      "displayName": "Zodiac",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 4706,
+          "modelName": "ZODIAC",
+          "modelYearFrom": "1966-03-01",
+          "modelYearTo": "1972-10-01"
+        },
+        {
+          "modelId": 4714,
+          "modelName": "ZODIAC Station Wagon",
+          "modelYearFrom": "1962-03-01",
+          "modelYearTo": "1972-10-01"
+        }
+      ]
+    }
+  ]
+}

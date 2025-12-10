@@ -1,0 +1,54 @@
+{
+  "productName": "Kit réparation de câble, pressostat (climatisation)",
+  "searchText": "Kit réparation de câble, pressostat (climatisation)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:10:32.432Z",
+  "productId": 7306,
+  "arborescence": {
+    "Climatisation": {
+      "categoryId": 100243,
+      "categoryName": "Climatisation",
+      "level": 1,
+      "children": {
+        "Interrupteur": {
+          "categoryId": null,
+          "categoryName": "Interrupteur",
+          "level": 2,
+          "children": {
+            "Kit réparation de câble, pressostat (climatisation)": {
+              "categoryId": 100366,
+              "categoryName": "Switch",
+              "level": 2,
+              "children": [],
+              "productId": 7306
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Climatisation [ID: 100243] (Niveau 1)\n    └── Interrupteur (Niveau 2)\n        └── Switch [ID: 100366] (Niveau 2) → ProductId: 7306",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Climatisation",
+        "Interrupteur",
+        "Switch"
+      ],
+      "categoryIds": [
+        100243,
+        null,
+        100366
+      ],
+      "finalCategoryId": 100366,
+      "productId": 7306
+    }
+  ],
+  "productIdsInArbo": [
+    7306
+  ],
+  "matchedProductIds": [
+    7306
+  ]
+}

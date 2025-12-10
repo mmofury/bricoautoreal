@@ -1,0 +1,185 @@
+{
+  "productName": "Baguette et bande protectrice, pare-chocs",
+  "searchText": "Baguette et bande protectrice, pare-chocs",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:05:31.333Z",
+  "productId": 1002,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Arrière de la voiture": {
+          "categoryId": null,
+          "categoryName": "Arrière de la voiture",
+          "level": 2,
+          "children": {
+            "Baguette et bande protectrice, pare-chocs": {
+              "categoryId": 101705,
+              "categoryName": "Vehicle Rear",
+              "level": 2,
+              "children": {
+                "Composants/suppléments": {
+                  "categoryId": null,
+                  "categoryName": "Composants/suppléments",
+                  "level": 4,
+                  "children": {
+                    "Baguette et bande protectrice, pare-chocs": {
+                      "categoryId": 101745,
+                      "categoryName": "Parts",
+                      "level": 3,
+                      "children": {
+                        "Enjoliveur/bande protectrice": {
+                          "categoryId": null,
+                          "categoryName": "Enjoliveur/bande protectrice",
+                          "level": 6,
+                          "children": {
+                            "Baguette et bande protectrice, pare-chocs": {
+                              "categoryId": 101750,
+                              "categoryName": "Trim/Protection Strips",
+                              "level": 4,
+                              "children": [],
+                              "productId": 1002
+                            }
+                          }
+                        }
+                      },
+                      "productId": 1002
+                    }
+                  }
+                }
+              },
+              "productId": 1002
+            }
+          }
+        },
+        "Avant du véhicule": {
+          "categoryId": null,
+          "categoryName": "Avant du véhicule",
+          "level": 2,
+          "children": {
+            "Baguette et bande protectrice, pare-chocs": {
+              "categoryId": 101648,
+              "categoryName": "Vehicle Front",
+              "level": 2,
+              "children": {
+                "Composants/suppléments": {
+                  "categoryId": null,
+                  "categoryName": "Composants/suppléments",
+                  "level": 4,
+                  "children": {
+                    "Baguette et bande protectrice, pare-chocs": {
+                      "categoryId": 101673,
+                      "categoryName": "Parts",
+                      "level": 3,
+                      "children": {
+                        "Enjoliveur/bande protectrice": {
+                          "categoryId": null,
+                          "categoryName": "Enjoliveur/bande protectrice",
+                          "level": 6,
+                          "children": {
+                            "Baguette et bande protectrice, pare-chocs": {
+                              "categoryId": 101679,
+                              "categoryName": "Trim/Protection Strips",
+                              "level": 4,
+                              "children": [],
+                              "productId": 1002
+                            }
+                          }
+                        }
+                      },
+                      "productId": 1002
+                    }
+                  }
+                }
+              },
+              "productId": 1002
+            }
+          }
+        },
+        "Grilles décoratives, logos, anti-éclaboussures": {
+          "categoryId": null,
+          "categoryName": "Grilles décoratives, logos, anti-éclaboussures",
+          "level": 2,
+          "children": {
+            "Baguette et bande protectrice, pare-chocs": {
+              "categoryId": 100219,
+              "categoryName": "Trim/Protection/Decorative Strips/Emblems",
+              "level": 2,
+              "children": {
+                "Enjoliveur/bande protectrice": {
+                  "categoryId": null,
+                  "categoryName": "Enjoliveur/bande protectrice",
+                  "level": 4,
+                  "children": {
+                    "Baguette et bande protectrice, pare-chocs": {
+                      "categoryId": 100740,
+                      "categoryName": "Trim/Protection Strips",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1002
+                    }
+                  }
+                }
+              },
+              "productId": 1002
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    ├── Arrière de la voiture (Niveau 2)\n    │   └── Vehicle Rear [ID: 101705] (Niveau 2) → ProductId: 1002\n    │       └── Composants/suppléments (Niveau 4)\n    │           └── Parts [ID: 101745] (Niveau 3) → ProductId: 1002\n    │               └── Enjoliveur/bande protectrice (Niveau 6)\n    │                   └── Trim/Protection Strips [ID: 101750] (Niveau 4) → ProductId: 1002\n    ├── Avant du véhicule (Niveau 2)\n    │   └── Vehicle Front [ID: 101648] (Niveau 2) → ProductId: 1002\n    │       └── Composants/suppléments (Niveau 4)\n    │           └── Parts [ID: 101673] (Niveau 3) → ProductId: 1002\n    │               └── Enjoliveur/bande protectrice (Niveau 6)\n    │                   └── Trim/Protection Strips [ID: 101679] (Niveau 4) → ProductId: 1002\n    └── Grilles décoratives, logos, anti-éclaboussures (Niveau 2)\n        └── Trim/Protection/Decorative Strips/Emblems [ID: 100219] (Niveau 2) → ProductId: 1002\n            └── Enjoliveur/bande protectrice (Niveau 4)\n                └── Trim/Protection Strips [ID: 100740] (Niveau 3) → ProductId: 1002",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Vehicle Rear"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101705
+      ],
+      "finalCategoryId": 101705,
+      "productId": 1002
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Avant du véhicule",
+        "Vehicle Front"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101648
+      ],
+      "finalCategoryId": 101648,
+      "productId": 1002
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Grilles décoratives, logos, anti-éclaboussures",
+        "Trim/Protection/Decorative Strips/Emblems"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100219
+      ],
+      "finalCategoryId": 100219,
+      "productId": 1002
+    }
+  ],
+  "productIdsInArbo": [
+    1002
+  ],
+  "matchedProductIds": [
+    1002
+  ]
+}

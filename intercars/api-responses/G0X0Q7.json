@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G0X0Q7",
+      "index": "HAZ 650-20",
+      "tecDoc": "650-20",
+      "tecDocProd": "4808",
+      "articleNumber": "650-20",
+      "brand": "HAZET",
+      "shortDescription": "Tools for tyre servicing",
+      "description": "Tyre crowbar, 0,5m",
+      "eans": [
+        "4000896028641"
+      ],
+      "packageWeight": "0,600",
+      "packageWidth": "3,000",
+      "packageDepth": "50,000",
+      "packageHeight": "0,700",
+      "customsCode": "82055980",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_91760",
+          "primary": true,
+          "name": {
+            "en": "Tools for tyre servicing"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_4658",
+          "primary": false,
+          "name": {
+            "en": "Lever, tyre"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "productName": "Appareil de commande, freinage",
+  "searchText": "Appareil de commande, freinage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T18:55:18.578Z",
+  "productId": 1219,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Réglage du comportement dynamique": {
+          "categoryId": null,
+          "categoryName": "Réglage du comportement dynamique",
+          "level": 2,
+          "children": {
+            "Appareil de commande, freinage": {
+              "categoryId": 100038,
+              "categoryName": "Drive Dynamics Control",
+              "level": 2,
+              "children": [],
+              "productId": 1219
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Appareils de commande": {
+          "categoryId": null,
+          "categoryName": "Appareils de commande",
+          "level": 2,
+          "children": {
+            "Appareil de commande, freinage": {
+              "categoryId": 100727,
+              "categoryName": "Control Units",
+              "level": 2,
+              "children": [],
+              "productId": 1219
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Dispositif de freinage [ID: 100006] (Niveau 1)\n│   └── Réglage du comportement dynamique (Niveau 2)\n│       └── Drive Dynamics Control [ID: 100038] (Niveau 2) → ProductId: 1219\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Appareils de commande (Niveau 2)\n        └── Control Units [ID: 100727] (Niveau 2) → ProductId: 1219",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Réglage du comportement dynamique",
+        "Drive Dynamics Control"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100038
+      ],
+      "finalCategoryId": 100038,
+      "productId": 1219
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Appareils de commande",
+        "Control Units"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100727
+      ],
+      "finalCategoryId": 100727,
+      "productId": 1219
+    }
+  ],
+  "productIdsInArbo": [
+    1219
+  ],
+  "matchedProductIds": [
+    1219
+  ]
+}

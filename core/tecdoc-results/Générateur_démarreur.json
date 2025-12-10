@@ -1,0 +1,54 @@
+{
+  "productName": "Générateur démarreur",
+  "searchText": "Générateur démarreur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:44:25.622Z",
+  "productId": 3079,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Générateur de démarrage": {
+          "categoryId": null,
+          "categoryName": "Générateur de démarrage",
+          "level": 2,
+          "children": {
+            "Générateur démarreur": {
+              "categoryId": 101826,
+              "categoryName": "Starter Generator",
+              "level": 2,
+              "children": [],
+              "productId": 3079
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Générateur de démarrage (Niveau 2)\n        └── Starter Generator [ID: 101826] (Niveau 2) → ProductId: 3079",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Générateur de démarrage",
+        "Starter Generator"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        101826
+      ],
+      "finalCategoryId": 101826,
+      "productId": 3079
+    }
+  ],
+  "productIdsInArbo": [
+    3079
+  ],
+  "matchedProductIds": [
+    3079
+  ]
+}

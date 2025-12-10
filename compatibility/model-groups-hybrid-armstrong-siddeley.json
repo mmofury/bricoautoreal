@@ -1,0 +1,64 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.160Z",
+  "manufacturer": "ARMSTRONG SIDDELEY",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 2526,
+      "manufacturerName": "ARMSTRONG SIDDELEY",
+      "groupKey": "LANCASTER",
+      "displayName": "LANCASTER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 90063,
+          "modelName": "LANCASTER A trois volumes",
+          "modelYearFrom": "1945-01-01",
+          "modelYearTo": "1952-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2526,
+      "manufacturerName": "ARMSTRONG SIDDELEY",
+      "groupKey": "SAPPHIRE",
+      "displayName": "SAPPHIRE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38016,
+          "modelName": "SAPPHIRE 346",
+          "modelYearFrom": "1952-12-01",
+          "modelYearTo": "1958-12-01"
+        },
+        {
+          "modelId": 38019,
+          "modelName": "SAPPHIRE STAR",
+          "modelYearFrom": "1958-10-01",
+          "modelYearTo": "1960-06-01"
+        },
+        {
+          "modelId": 38020,
+          "modelName": "SAPPHIRE 234 / 236",
+          "modelYearFrom": "1955-12-01",
+          "modelYearTo": "1958-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2526,
+      "manufacturerName": "ARMSTRONG SIDDELEY",
+      "groupKey": "WHITLEY",
+      "displayName": "WHITLEY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44905,
+          "modelName": "WHITLEY",
+          "modelYearFrom": "1949-01-01",
+          "modelYearTo": "1954-12-01"
+        }
+      ]
+    }
+  ]
+}

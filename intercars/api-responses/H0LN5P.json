@@ -1,0 +1,36 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H0LN5P",
+      "index": "FE194289",
+      "tecDoc": "194289",
+      "tecDocProd": "101",
+      "articleNumber": "194289",
+      "brand": "FEBI",
+      "shortDescription": "Gas Spring, gull-wing door",
+      "description": "Door electric actuator L/R fits: TESLA MODEL X Electric 09.15-",
+      "gtuCode": "GTU_07",
+      "customsCode": "87082990",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_7413",
+          "primary": false,
+          "name": {
+            "en": "Electric Motor, tailgate"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_226",
+          "primary": true,
+          "name": {
+            "en": "Gas Spring, gull-wing door"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "BBEAAF",
+      "index": "HP700 588",
+      "tecDoc": "700 588",
+      "tecDocProd": "301",
+      "articleNumber": "700 588",
+      "brand": "HANS PRIES",
+      "shortDescription": "Clip",
+      "description": "Strip mounting",
+      "eans": [
+        "4063926028790"
+      ],
+      "packageWeight": "0,001",
+      "packageWidth": "1,000",
+      "packageDepth": "1,500",
+      "packageHeight": "0,300",
+      "customsCode": "39263000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1517",
+          "primary": true,
+          "name": {
+            "en": "Clip"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_9189",
+          "primary": false,
+          "name": {
+            "en": "Retaining Clip, boot/cargo area panelling"
+          }
+        }
+      ]
+    }
+  ]
+}

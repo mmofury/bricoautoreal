@@ -1,0 +1,57 @@
+{
+  "productName": "Outillage de montage, courroie crantée",
+  "searchText": "Outillage de montage, courroie crantée",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T21:18:09.185Z",
+  "productId": 4060,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Outillage de montage, courroie crantée": {
+              "categoryId": 103129,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 7048
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Outils (Niveau 2)\n        └── Tools [ID: 103129] (Niveau 2) → ProductId: 7048",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        103129
+      ],
+      "finalCategoryId": 103129,
+      "productId": 7048
+    }
+  ],
+  "productIdsInArbo": [
+    7048
+  ],
+  "closestProductIds": [
+    {
+      "productId": 7048,
+      "productName": "Outillage de montage, courroie crantée"
+    }
+  ]
+}

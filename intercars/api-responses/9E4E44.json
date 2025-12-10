@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "9E4E44",
+      "index": "036.192-00",
+      "tecDoc": "036.192-00A",
+      "tecDocProd": "63",
+      "articleNumber": "036.192-00A",
+      "brand": "PETERS",
+      "shortDescription": "Washer",
+      "description": "PE pad bearing hub P 74x129, 5x7, 5 MAN xx.293/343/403/463/603, UEL313/353",
+      "packageWeight": "0,110",
+      "packageWidth": "13,000",
+      "packageDepth": "13,000",
+      "packageHeight": "0,500",
+      "customsCode": "73182200",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1222",
+          "primary": true,
+          "name": {
+            "en": "Washer"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_2990",
+          "primary": false,
+          "name": {
+            "en": "Cover Plate, dust-cover wheel bearing"
+          }
+        }
+      ]
+    }
+  ]
+}

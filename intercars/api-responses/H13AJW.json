@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H13AJW",
+      "index": "0102 056",
+      "tecDoc": "0102 056",
+      "tecDocProd": "6487",
+      "articleNumber": "0102 056",
+      "brand": "VADEN",
+      "shortDescription": "Support, radiator fan",
+      "description": "Radiator fan bearing fits: MAN TGA, TGS I, TGX I 05.04-",
+      "customsCode": "84828000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4832",
+          "primary": false,
+          "name": {
+            "en": "Hub, engine cooling fan wheel"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1571",
+          "primary": true,
+          "name": {
+            "en": "Support, radiator fan"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3304",
+          "primary": false,
+          "name": {
+            "en": "Bearing, radiator fan shaft"
+          }
+        }
+      ]
+    }
+  ]
+}

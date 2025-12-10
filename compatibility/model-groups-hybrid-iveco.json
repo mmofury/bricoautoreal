@@ -1,0 +1,178 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.348Z",
+  "manufacturer": "IVECO",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 55,
+      "manufacturerName": "IVECO",
+      "groupKey": "DAILY",
+      "displayName": "DAILY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9520,
+          "modelName": "DAILY I Fourgon",
+          "modelYearFrom": "1978-01-01",
+          "modelYearTo": "1998-08-01"
+        },
+        {
+          "modelId": 9522,
+          "modelName": "DAILY I Camion plate-forme/Châssis",
+          "modelYearFrom": "1978-01-01",
+          "modelYearTo": "1999-05-01"
+        },
+        {
+          "modelId": 9523,
+          "modelName": "DAILY III Fourgon",
+          "modelYearFrom": "1999-05-01",
+          "modelYearTo": "2009-10-01"
+        },
+        {
+          "modelId": 9524,
+          "modelName": "DAILY III Camion plate-forme/Châssis",
+          "modelYearFrom": "1998-03-01",
+          "modelYearTo": "2009-10-01"
+        },
+        {
+          "modelId": 9525,
+          "modelName": "DAILY IV Fourgon",
+          "modelYearFrom": "2006-05-01",
+          "modelYearTo": "2012-03-01"
+        },
+        {
+          "modelId": 9527,
+          "modelName": "DAILY IV Camion plate-forme/Châssis",
+          "modelYearFrom": "2006-05-01",
+          "modelYearTo": "2012-03-01"
+        },
+        {
+          "modelId": 9745,
+          "modelName": "DAILY IV Autobus/Autocar",
+          "modelYearFrom": "2006-05-01",
+          "modelYearTo": "2016-12-01"
+        },
+        {
+          "modelId": 10641,
+          "modelName": "DAILY II Camion plate-forme/Châssis",
+          "modelYearFrom": "1989-01-01",
+          "modelYearTo": "1999-05-01"
+        },
+        {
+          "modelId": 10642,
+          "modelName": "DAILY II Autobus/Autocar",
+          "modelYearFrom": "1989-01-01",
+          "modelYearTo": "1999-05-01"
+        },
+        {
+          "modelId": 10643,
+          "modelName": "DAILY II Fourgon",
+          "modelYearFrom": "1989-01-01",
+          "modelYearTo": "2009-08-01"
+        },
+        {
+          "modelId": 10645,
+          "modelName": "DAILY V Camion plate-forme/Châssis",
+          "modelYearFrom": "2011-09-01",
+          "modelYearTo": "2014-02-01"
+        },
+        {
+          "modelId": 10648,
+          "modelName": "DAILY V Fourgon",
+          "modelYearFrom": "2011-09-01",
+          "modelYearTo": "2014-02-01"
+        },
+        {
+          "modelId": 13059,
+          "modelName": "DAILY VI Camion plate-forme/Châssis",
+          "modelYearFrom": "2014-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13060,
+          "modelName": "DAILY VI Fourgon",
+          "modelYearFrom": "2014-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14309,
+          "modelName": "DAILY III Autobus/Autocar",
+          "modelYearFrom": "1999-05-01",
+          "modelYearTo": "2006-05-01"
+        },
+        {
+          "modelId": 14311,
+          "modelName": "DAILY VI Autobus/Autocar",
+          "modelYearFrom": "2014-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42650,
+          "modelName": "DAILY V Autobus/Autocar",
+          "modelYearFrom": "2011-09-01",
+          "modelYearTo": "2014-02-01"
+        },
+        {
+          "modelId": 44779,
+          "modelName": "DAILY I Autobus/Autocar",
+          "modelYearFrom": "1978-01-01",
+          "modelYearTo": "1989-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 55,
+      "manufacturerName": "IVECO",
+      "groupKey": "MASSIF",
+      "displayName": "MASSIF",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7972,
+          "modelName": "MASSIF Station Wagon",
+          "modelYearFrom": "2008-10-01",
+          "modelYearTo": "2011-02-01"
+        },
+        {
+          "modelId": 7973,
+          "modelName": "MASSIF Pick-up",
+          "modelYearFrom": "2008-10-01",
+          "modelYearTo": "2011-02-01"
+        },
+        {
+          "modelId": 7974,
+          "modelName": "MASSIF Single Cab",
+          "modelYearFrom": "2008-10-01",
+          "modelYearTo": "2011-02-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 55,
+      "manufacturerName": "IVECO",
+      "groupKey": "POWER",
+      "displayName": "POWER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42453,
+          "modelName": "POWER DAILY Autobus/Autocar",
+          "modelYearFrom": "2007-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42454,
+          "modelName": "POWER DAILY Fourgon",
+          "modelYearFrom": "2007-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42455,
+          "modelName": "POWER DAILY Camion plate-forme/Châssis",
+          "modelYearFrom": "2007-12-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

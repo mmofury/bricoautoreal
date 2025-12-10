@@ -1,0 +1,112 @@
+{
+  "productName": "Clip, enjoliveur",
+  "searchText": "Clip, enjoliveur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:20:50.650Z",
+  "productId": 3881,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Grilles décoratives, logos, anti-éclaboussures": {
+          "categoryId": null,
+          "categoryName": "Grilles décoratives, logos, anti-éclaboussures",
+          "level": 2,
+          "children": {
+            "Clip, enjoliveur": {
+              "categoryId": 100219,
+              "categoryName": "Trim/Protection/Decorative Strips/Emblems",
+              "level": 2,
+              "children": {
+                "Enjoliveur/bande protectrice": {
+                  "categoryId": null,
+                  "categoryName": "Enjoliveur/bande protectrice",
+                  "level": 4,
+                  "children": {
+                    "Clip, enjoliveur": {
+                      "categoryId": 100740,
+                      "categoryName": "Trim/Protection Strips",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3881
+                    }
+                  }
+                }
+              },
+              "productId": 3881
+            }
+          }
+        },
+        "Pièces de carrosserie/ailes/pares-chocs": {
+          "categoryId": null,
+          "categoryName": "Pièces de carrosserie/ailes/pares-chocs",
+          "level": 2,
+          "children": {
+            "Clip, enjoliveur": {
+              "categoryId": 100743,
+              "categoryName": "Body Parts/Wing/Bumper",
+              "level": 2,
+              "children": {
+                "Clips de fixation": {
+                  "categoryId": null,
+                  "categoryName": "Clips de fixation",
+                  "level": 4,
+                  "children": {
+                    "Clip, enjoliveur": {
+                      "categoryId": 104959,
+                      "categoryName": "Fastening Clips",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3881
+                    }
+                  }
+                }
+              },
+              "productId": 3881
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    ├── Grilles décoratives, logos, anti-éclaboussures (Niveau 2)\n    │   └── Trim/Protection/Decorative Strips/Emblems [ID: 100219] (Niveau 2) → ProductId: 3881\n    │       └── Enjoliveur/bande protectrice (Niveau 4)\n    │           └── Trim/Protection Strips [ID: 100740] (Niveau 3) → ProductId: 3881\n    └── Pièces de carrosserie/ailes/pares-chocs (Niveau 2)\n        └── Body Parts/Wing/Bumper [ID: 100743] (Niveau 2) → ProductId: 3881\n            └── Clips de fixation (Niveau 4)\n                └── Fastening Clips [ID: 104959] (Niveau 3) → ProductId: 3881",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Grilles décoratives, logos, anti-éclaboussures",
+        "Trim/Protection/Decorative Strips/Emblems"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100219
+      ],
+      "finalCategoryId": 100219,
+      "productId": 3881
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Pièces de carrosserie/ailes/pares-chocs",
+        "Body Parts/Wing/Bumper"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100743
+      ],
+      "finalCategoryId": 100743,
+      "productId": 3881
+    }
+  ],
+  "productIdsInArbo": [
+    3881
+  ],
+  "matchedProductIds": [
+    3881
+  ]
+}

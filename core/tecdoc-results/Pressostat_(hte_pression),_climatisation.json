@@ -1,0 +1,54 @@
+{
+  "productName": "Pressostat (hte pression), climatisation",
+  "searchText": "Pressostat (hte pression), climatisation",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:04:02.372Z",
+  "productId": 550,
+  "arborescence": {
+    "Climatisation": {
+      "categoryId": 100243,
+      "categoryName": "Climatisation",
+      "level": 1,
+      "children": {
+        "Interrupteur": {
+          "categoryId": null,
+          "categoryName": "Interrupteur",
+          "level": 2,
+          "children": {
+            "Pressostat (hte pression), climatisation": {
+              "categoryId": 100366,
+              "categoryName": "Switch",
+              "level": 2,
+              "children": [],
+              "productId": 550
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Climatisation [ID: 100243] (Niveau 1)\n    └── Interrupteur (Niveau 2)\n        └── Switch [ID: 100366] (Niveau 2) → ProductId: 550",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Climatisation",
+        "Interrupteur",
+        "Switch"
+      ],
+      "categoryIds": [
+        100243,
+        null,
+        100366
+      ],
+      "finalCategoryId": 100366,
+      "productId": 550
+    }
+  ],
+  "productIdsInArbo": [
+    550
+  ],
+  "matchedProductIds": [
+    550
+  ]
+}

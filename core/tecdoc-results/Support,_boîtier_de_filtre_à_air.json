@@ -1,0 +1,69 @@
+{
+  "productName": "Support, boîtier de filtre à air",
+  "searchText": "Support, boîtier de filtre à air",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:20:39.837Z",
+  "productId": 3358,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Alimentation en air": {
+          "categoryId": null,
+          "categoryName": "Alimentation en air",
+          "level": 2,
+          "children": {
+            "Support, boîtier de filtre à air": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Filtre à air / carter": {
+                  "categoryId": null,
+                  "categoryName": "Filtre à air / carter",
+                  "level": 4,
+                  "children": {
+                    "Support, boîtier de filtre à air": {
+                      "categoryId": 100384,
+                      "categoryName": "Air Filter/ Housing",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3358
+                    }
+                  }
+                }
+              },
+              "productId": 3358
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Alimentation en air (Niveau 2)\n        └── Air Supply [ID: 100383] (Niveau 2) → ProductId: 3358\n            └── Filtre à air / carter (Niveau 4)\n                └── Air Filter/ Housing [ID: 100384] (Niveau 3) → ProductId: 3358",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 3358
+    }
+  ],
+  "productIdsInArbo": [
+    3358
+  ],
+  "matchedProductIds": [
+    3358
+  ]
+}

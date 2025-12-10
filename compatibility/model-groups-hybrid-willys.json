@@ -1,0 +1,58 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.541Z",
+  "manufacturer": "WILLYS",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 2815,
+      "manufacturerName": "WILLYS",
+      "groupKey": "AERO",
+      "displayName": "AERO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42389,
+          "modelName": "AERO WILLYS",
+          "modelYearFrom": "1960-01-01",
+          "modelYearTo": "1963-12-01"
+        },
+        {
+          "modelId": 42390,
+          "modelName": "AERO WILLYS 2600",
+          "modelYearFrom": "1963-07-01",
+          "modelYearTo": "1972-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2815,
+      "manufacturerName": "WILLYS",
+      "groupKey": "CJ",
+      "displayName": "CJ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42104,
+          "modelName": "CJ Series Véhicule tout terrain à carrosserie ouverte",
+          "modelYearFrom": "1953-01-01",
+          "modelYearTo": "1971-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2815,
+      "manufacturerName": "WILLYS",
+      "groupKey": "ITAMARATY",
+      "displayName": "ITAMARATY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40944,
+          "modelName": "ITAMARATY A trois volumes",
+          "modelYearFrom": "1967-01-01",
+          "modelYearTo": "1972-12-01"
+        }
+      ]
+    }
+  ]
+}

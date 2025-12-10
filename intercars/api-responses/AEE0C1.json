@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "AEE0C1",
+      "index": "9 461 627 023",
+      "tecDoc": "9 461 627 023",
+      "tecDocProd": "30",
+      "articleNumber": "9 461 627 023",
+      "brand": "BOSCH",
+      "shortDescription": "Coolant Control Valve",
+      "description": "Valve",
+      "eans": [
+        "4047023496041"
+      ],
+      "packageWeight": "0,088",
+      "packageWidth": "3,500",
+      "packageDepth": "7,300",
+      "packageHeight": "7,300",
+      "customsCode": "84139100",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1136",
+          "primary": false,
+          "name": {
+            "en": "Valve, secondary air intake suction"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_2073",
+          "primary": true,
+          "name": {
+            "en": "Coolant Control Valve"
+          }
+        }
+      ]
+    }
+  ]
+}

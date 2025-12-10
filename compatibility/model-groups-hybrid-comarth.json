@@ -1,0 +1,58 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.223Z",
+  "manufacturer": "COMARTH",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 5482,
+      "manufacturerName": "COMARTH",
+      "groupKey": "CR",
+      "displayName": "CR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40168,
+          "modelName": "CR SPORT",
+          "modelYearFrom": "2009-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5482,
+      "manufacturerName": "COMARTH",
+      "groupKey": "CROSS",
+      "displayName": "CROSS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40169,
+          "modelName": "CROSS RIDER",
+          "modelYearFrom": "2009-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5482,
+      "manufacturerName": "COMARTH",
+      "groupKey": "T",
+      "displayName": "T",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40170,
+          "modelName": "T-TRUCK",
+          "modelYearFrom": "2014-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40171,
+          "modelName": "T-BUS",
+          "modelYearFrom": "2014-01-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

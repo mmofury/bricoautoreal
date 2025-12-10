@@ -1,0 +1,64 @@
+{
+  "productName": "Réservoir d'air, système d'air comprimé",
+  "productId": 346,
+  "searchText": "Réservoir d'air, système d'air comprimé",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Système pneumatique": {
+          "categoryId": 200059,
+          "categoryName": "Système pneumatique",
+          "level": 1,
+          "children": {
+            "Réservoir d'air / accessoires": {
+              "categoryId": null,
+              "categoryName": "Réservoir d'air / accessoires",
+              "level": 2,
+              "children": {
+                "Réservoir d'air, système d'air comprimé": {
+                  "categoryId": 200114,
+                  "categoryName": "Air Tank/Accessories",
+                  "level": 2,
+                  "children": {
+                    "Réservoir d'air": {
+                      "categoryId": null,
+                      "categoryName": "Réservoir d'air",
+                      "level": 4,
+                      "children": {
+                        "Réservoir d'air, système d'air comprimé": {
+                          "categoryId": 200452,
+                          "categoryName": "Air Tank",
+                          "level": 3,
+                          "children": [],
+                          "productId": 346
+                        }
+                      }
+                    }
+                  },
+                  "productId": 346
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système pneumatique [ID: 200059] (Niveau 1)\n    └── Réservoir d'air / accessoires (Niveau 2)\n        └── Air Tank/Accessories [ID: 200114] (Niveau 2) → ProductId: 346\n            └── Réservoir d'air (Niveau 4)\n                └── Air Tank [ID: 200452] (Niveau 3) → ProductId: 346",
+      "productIdsInArbo": [
+        346
+      ],
+      "matchedProductIds": [
+        346
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:27:58.666Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

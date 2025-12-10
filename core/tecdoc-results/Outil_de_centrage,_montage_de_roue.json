@@ -1,0 +1,57 @@
+{
+  "productName": "Outil de centrage, montage de roue",
+  "searchText": "Outil de centrage, montage de roue",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T21:17:27.356Z",
+  "productId": 7220,
+  "arborescence": {
+    "Roues/Pneus": {
+      "categoryId": 103099,
+      "categoryName": "Roues/Pneus",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Outil de centrage, montage de roue": {
+              "categoryId": 105409,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 7222
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Roues/Pneus [ID: 103099] (Niveau 1)\n    └── Outils (Niveau 2)\n        └── Tools [ID: 105409] (Niveau 2) → ProductId: 7222",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Roues/Pneus",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        103099,
+        null,
+        105409
+      ],
+      "finalCategoryId": 105409,
+      "productId": 7222
+    }
+  ],
+  "productIdsInArbo": [
+    7222
+  ],
+  "closestProductIds": [
+    {
+      "productId": 7222,
+      "productName": "Outil de centrage, montage de roue"
+    }
+  ]
+}

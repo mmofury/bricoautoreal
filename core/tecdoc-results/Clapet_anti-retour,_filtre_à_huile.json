@@ -1,0 +1,83 @@
+{
+  "productName": "Clapet anti-retour, filtre à huile",
+  "searchText": "Clapet anti-retour, filtre à huile",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:20:08.914Z",
+  "productId": 60661,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Lubrification": {
+          "categoryId": null,
+          "categoryName": "Lubrification",
+          "level": 2,
+          "children": {
+            "Clapet anti-retour, filtre à huile": {
+              "categoryId": 100245,
+              "categoryName": "Lubrication",
+              "level": 2,
+              "children": {
+                "Boîtier de filtres à huile / joint": {
+                  "categoryId": null,
+                  "categoryName": "Boîtier de filtres à huile / joint",
+                  "level": 4,
+                  "children": {
+                    "Clapet anti-retour, filtre à huile": {
+                      "categoryId": 100472,
+                      "categoryName": "Oil Filter Housing/Seal",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60661
+                    }
+                  }
+                },
+                "Filtre à huile": {
+                  "categoryId": null,
+                  "categoryName": "Filtre à huile",
+                  "level": 4,
+                  "children": {
+                    "Clapet anti-retour, filtre à huile": {
+                      "categoryId": 100470,
+                      "categoryName": "Oil Filter",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60661
+                    }
+                  }
+                }
+              },
+              "productId": 60661
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Lubrification (Niveau 2)\n        └── Lubrication [ID: 100245] (Niveau 2) → ProductId: 60661\n            ├── Boîtier de filtres à huile / joint (Niveau 4)\n            │   └── Oil Filter Housing/Seal [ID: 100472] (Niveau 3) → ProductId: 60661\n            └── Filtre à huile (Niveau 4)\n                └── Oil Filter [ID: 100470] (Niveau 3) → ProductId: 60661",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Lubrification",
+        "Lubrication"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100245
+      ],
+      "finalCategoryId": 100245,
+      "productId": 60661
+    }
+  ],
+  "productIdsInArbo": [
+    60661
+  ],
+  "matchedProductIds": [
+    60661
+  ]
+}

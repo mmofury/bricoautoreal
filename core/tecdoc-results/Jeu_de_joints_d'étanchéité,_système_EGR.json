@@ -1,0 +1,149 @@
+{
+  "productName": "Jeu de joints d'étanchéité, système EGR",
+  "searchText": "Jeu de joints d'étanchéité, système EGR",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:50:24.269Z",
+  "productId": 4634,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Épuration des gaz d'échappement": {
+          "categoryId": null,
+          "categoryName": "Épuration des gaz d'échappement",
+          "level": 2,
+          "children": {
+            "Jeu de joints d'étanchéité, système EGR": {
+              "categoryId": 100790,
+              "categoryName": "Exhaust Emission Control",
+              "level": 2,
+              "children": {
+                "Recyclage des gaz d'échappement": {
+                  "categoryId": null,
+                  "categoryName": "Recyclage des gaz d'échappement",
+                  "level": 4,
+                  "children": {
+                    "Jeu de joints d'étanchéité, système EGR": {
+                      "categoryId": 100791,
+                      "categoryName": "Exhaust Gas Recirculation",
+                      "level": 3,
+                      "children": {
+                        "Joints": {
+                          "categoryId": null,
+                          "categoryName": "Joints",
+                          "level": 6,
+                          "children": {
+                            "Jeu de joints d'étanchéité, système EGR": {
+                              "categoryId": 103239,
+                              "categoryName": "Gaskets",
+                              "level": 4,
+                              "children": [],
+                              "productId": 4634
+                            }
+                          }
+                        }
+                      },
+                      "productId": 4634
+                    }
+                  }
+                }
+              },
+              "productId": 4634
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Épuration des gaz d'échappement": {
+          "categoryId": null,
+          "categoryName": "Épuration des gaz d'échappement",
+          "level": 2,
+          "children": {
+            "Jeu de joints d'étanchéité, système EGR": {
+              "categoryId": 100541,
+              "categoryName": "Exhaust Emission Control",
+              "level": 2,
+              "children": {
+                "Recyclage des gaz d'échappement": {
+                  "categoryId": null,
+                  "categoryName": "Recyclage des gaz d'échappement",
+                  "level": 4,
+                  "children": {
+                    "Jeu de joints d'étanchéité, système EGR": {
+                      "categoryId": 100542,
+                      "categoryName": "Exhaust Gas Recirculation",
+                      "level": 3,
+                      "children": {
+                        "Joints": {
+                          "categoryId": null,
+                          "categoryName": "Joints",
+                          "level": 6,
+                          "children": {
+                            "Jeu de joints d'étanchéité, système EGR": {
+                              "categoryId": 103235,
+                              "categoryName": "Gaskets",
+                              "level": 4,
+                              "children": [],
+                              "productId": 4634
+                            }
+                          }
+                        }
+                      },
+                      "productId": 4634
+                    }
+                  }
+                }
+              },
+              "productId": 4634
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carburation [ID: 100254] (Niveau 1)\n│   └── Épuration des gaz d'échappement (Niveau 2)\n│       └── Exhaust Emission Control [ID: 100790] (Niveau 2) → ProductId: 4634\n│           └── Recyclage des gaz d'échappement (Niveau 4)\n│               └── Exhaust Gas Recirculation [ID: 100791] (Niveau 3) → ProductId: 4634\n│                   └── Joints (Niveau 6)\n│                       └── Gaskets [ID: 103239] (Niveau 4) → ProductId: 4634\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Épuration des gaz d'échappement (Niveau 2)\n        └── Exhaust Emission Control [ID: 100541] (Niveau 2) → ProductId: 4634\n            └── Recyclage des gaz d'échappement (Niveau 4)\n                └── Exhaust Gas Recirculation [ID: 100542] (Niveau 3) → ProductId: 4634\n                    └── Joints (Niveau 6)\n                        └── Gaskets [ID: 103235] (Niveau 4) → ProductId: 4634",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Épuration des gaz d'échappement",
+        "Exhaust Emission Control"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        100790
+      ],
+      "finalCategoryId": 100790,
+      "productId": 4634
+    },
+    {
+      "path": [
+        "Moteur",
+        "Épuration des gaz d'échappement",
+        "Exhaust Emission Control"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100541
+      ],
+      "finalCategoryId": 100541,
+      "productId": 4634
+    }
+  ],
+  "productIdsInArbo": [
+    4634
+  ],
+  "matchedProductIds": [
+    4634
+  ]
+}

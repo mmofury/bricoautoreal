@@ -1,0 +1,54 @@
+{
+  "productName": "Porte gobelet",
+  "searchText": "Porte gobelet",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:02:51.817Z",
+  "productId": 4395,
+  "arborescence": {
+    "Équipement intérieur": {
+      "categoryId": 100341,
+      "categoryName": "Équipement intérieur",
+      "level": 1,
+      "children": {
+        "Porte-gobelet": {
+          "categoryId": null,
+          "categoryName": "Porte-gobelet",
+          "level": 2,
+          "children": {
+            "Porte gobelet": {
+              "categoryId": 103399,
+              "categoryName": "Cupholder",
+              "level": 2,
+              "children": [],
+              "productId": 4395
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Équipement intérieur [ID: 100341] (Niveau 1)\n    └── Porte-gobelet (Niveau 2)\n        └── Cupholder [ID: 103399] (Niveau 2) → ProductId: 4395",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Équipement intérieur",
+        "Porte-gobelet",
+        "Cupholder"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        103399
+      ],
+      "finalCategoryId": 103399,
+      "productId": 4395
+    }
+  ],
+  "productIdsInArbo": [
+    4395
+  ],
+  "matchedProductIds": [
+    4395
+  ]
+}

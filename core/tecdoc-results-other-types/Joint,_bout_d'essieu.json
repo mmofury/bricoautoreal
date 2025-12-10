@@ -1,0 +1,49 @@
+{
+  "productName": "Joint, bout d'essieu",
+  "productId": 3050,
+  "searchText": "Joint, bout d'essieu",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Suspension des roues": {
+          "categoryId": 200061,
+          "categoryName": "Suspension des roues",
+          "level": 1,
+          "children": {
+            "Moyeu de roue/accessoires": {
+              "categoryId": null,
+              "categoryName": "Moyeu de roue/accessoires",
+              "level": 2,
+              "children": {
+                "Joint, bout d'essieu": {
+                  "categoryId": 200886,
+                  "categoryName": "Wheel Hub/ Parts",
+                  "level": 2,
+                  "children": [],
+                  "productId": 3050
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Suspension des roues [ID: 200061] (Niveau 1)\n    └── Moyeu de roue/accessoires (Niveau 2)\n        └── Wheel Hub/ Parts [ID: 200886] (Niveau 2) → ProductId: 3050",
+      "productIdsInArbo": [
+        3050
+      ],
+      "matchedProductIds": [
+        3050
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:39:21.372Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

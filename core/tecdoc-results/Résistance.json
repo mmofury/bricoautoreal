@@ -1,0 +1,594 @@
+{
+  "productName": "Résistance",
+  "searchText": "Résistance",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-03T07:14:41.338Z",
+  "productId": 1437,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Pompe / accessoires": {
+          "categoryId": null,
+          "categoryName": "Pompe / accessoires",
+          "level": 2,
+          "children": {
+            "Résistance de série, pompe à carburant": {
+              "categoryId": 100251,
+              "categoryName": "Pump/Accessories",
+              "level": 2,
+              "children": {
+                "Accessoires/Composants": {
+                  "categoryId": null,
+                  "categoryName": "Accessoires/Composants",
+                  "level": 4,
+                  "children": {
+                    "Résistance de série, pompe à carburant": {
+                      "categoryId": 100718,
+                      "categoryName": "Accessories/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2151
+                    }
+                  }
+                }
+              },
+              "productId": 2151
+            }
+          }
+        }
+      }
+    },
+    "Allumage / préchauffage": {
+      "categoryId": 100008,
+      "categoryName": "Allumage / préchauffage",
+      "level": 1,
+      "children": {
+        "Résistance additionnellle": {
+          "categoryId": null,
+          "categoryName": "Résistance additionnellle",
+          "level": 2,
+          "children": {
+            "Résistance additionnelle, système d'allumage": {
+              "categoryId": 100757,
+              "categoryName": "Series Resistor",
+              "level": 2,
+              "children": [],
+              "productId": 706
+            },
+            "Résistance de série, système de préchauffage": {
+              "categoryId": 100757,
+              "categoryName": "Series Resistor",
+              "level": 2,
+              "children": [],
+              "productId": 709
+            }
+          }
+        }
+      }
+    },
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Résistance de série, injecteur": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Injecteur/porte-injecteur/UPI": {
+                  "categoryId": null,
+                  "categoryName": "Injecteur/porte-injecteur/UPI",
+                  "level": 4,
+                  "children": {
+                    "Résistance de série, injecteur": {
+                      "categoryId": 102799,
+                      "categoryName": "Injector/Nozzle/Nozzle and Holder Assembly/UI",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3965
+                    }
+                  }
+                }
+              },
+              "productId": 3965
+            }
+          }
+        }
+      }
+    },
+    "Chauffage / Ventilation": {
+      "categoryId": 100241,
+      "categoryName": "Chauffage / Ventilation",
+      "level": 1,
+      "children": {
+        "Appareils de commande": {
+          "categoryId": null,
+          "categoryName": "Appareils de commande",
+          "level": 2,
+          "children": {
+            "Kit rép. de câble, résistance (ventilateur d'habitacle)": {
+              "categoryId": 100725,
+              "categoryName": "Control Units",
+              "level": 2,
+              "children": [],
+              "productId": 60728
+            },
+            "Résistance, pulseur d'air habitacle": {
+              "categoryId": 100725,
+              "categoryName": "Control Units",
+              "level": 2,
+              "children": [],
+              "productId": 2975
+            }
+          }
+        },
+        "Pulseur d'air habitacle composants": {
+          "categoryId": null,
+          "categoryName": "Pulseur d'air habitacle composants",
+          "level": 2,
+          "children": {
+            "Résistance, pulseur d'air habitacle": {
+              "categoryId": 100349,
+              "categoryName": "Blower/Parts",
+              "level": 2,
+              "children": [],
+              "productId": 2975
+            }
+          }
+        }
+      }
+    },
+    "Climatisation": {
+      "categoryId": 100243,
+      "categoryName": "Climatisation",
+      "level": 1,
+      "children": {
+        "Résistance additionnelle": {
+          "categoryId": null,
+          "categoryName": "Résistance additionnelle",
+          "level": 2,
+          "children": {
+            "Kit rép. de câble, résistance série ventilateur de clim.": {
+              "categoryId": 100865,
+              "categoryName": "Series Resistor",
+              "level": 2,
+              "children": [],
+              "productId": 9027
+            },
+            "Résistance de série, ventilateur de la climatisation": {
+              "categoryId": 100865,
+              "categoryName": "Series Resistor",
+              "level": 2,
+              "children": [],
+              "productId": 2391
+            }
+          }
+        }
+      }
+    },
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Ventilateur": {
+          "categoryId": null,
+          "categoryName": "Ventilateur",
+          "level": 2,
+          "children": {
+            "Prérésistance, moteur électrique (ventilateur de radiateur)": {
+              "categoryId": 100337,
+              "categoryName": "Radiator Fan",
+              "level": 2,
+              "children": [],
+              "productId": 4145
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Alternateur / composants": {
+          "categoryId": null,
+          "categoryName": "Alternateur / composants",
+          "level": 2,
+          "children": {
+            "Résistance, alternateur": {
+              "categoryId": 100041,
+              "categoryName": "Alternator/Parts",
+              "level": 2,
+              "children": {
+                "Composants": {
+                  "categoryId": null,
+                  "categoryName": "Composants",
+                  "level": 4,
+                  "children": {
+                    "Résistance, alternateur": {
+                      "categoryId": 100352,
+                      "categoryName": "Generator/ Alternator Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8300
+                    }
+                  }
+                }
+              },
+              "productId": 8300
+            }
+          }
+        },
+        "Appareils de commande": {
+          "categoryId": null,
+          "categoryName": "Appareils de commande",
+          "level": 2,
+          "children": {
+            "Appareil de commande, système d'éclairage": {
+              "categoryId": 100727,
+              "categoryName": "Control Units",
+              "level": 2,
+              "children": [],
+              "productId": 1387
+            },
+            "Résistance, pulseur d'air habitacle": {
+              "categoryId": 100727,
+              "categoryName": "Control Units",
+              "level": 2,
+              "children": [],
+              "productId": 2975
+            }
+          }
+        },
+        "Batterie": {
+          "categoryId": null,
+          "categoryName": "Batterie",
+          "level": 2,
+          "children": {
+            "Batterie de démarrage": {
+              "categoryId": 100042,
+              "categoryName": "Battery",
+              "level": 2,
+              "children": [],
+              "productId": 1
+            }
+          }
+        },
+        "Instruments": {
+          "categoryId": null,
+          "categoryName": "Instruments",
+          "level": 2,
+          "children": {
+            "Pré-résistance, combiné d'instruments": {
+              "categoryId": 100322,
+              "categoryName": "Instruments",
+              "level": 2,
+              "children": {
+                "Instruments indicateurs": {
+                  "categoryId": null,
+                  "categoryName": "Instruments indicateurs",
+                  "level": 4,
+                  "children": {
+                    "Pré-résistance, combiné d'instruments": {
+                      "categoryId": 100555,
+                      "categoryName": "Gauges",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1403
+                    }
+                  }
+                }
+              },
+              "productId": 1403
+            }
+          }
+        },
+        "Interrupteur/Relais/Contrôle clignotant/Appareil d.commande": {
+          "categoryId": null,
+          "categoryName": "Interrupteur/Relais/Contrôle clignotant/Appareil d.commande",
+          "level": 2,
+          "children": {
+            "Appareil de commande, système d'éclairage": {
+              "categoryId": 100307,
+              "categoryName": "Light Switches/Relays/Controls",
+              "level": 2,
+              "children": {
+                "Appareils de commande": {
+                  "categoryId": null,
+                  "categoryName": "Appareils de commande",
+                  "level": 4,
+                  "children": {
+                    "Appareil de commande, système d'éclairage": {
+                      "categoryId": 100724,
+                      "categoryName": "Controls",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1387
+                    }
+                  }
+                }
+              },
+              "productId": 1387
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Alimentation carburant [ID: 100214] (Niveau 1)\n│   └── Pompe / accessoires (Niveau 2)\n│       └── Pump/Accessories [ID: 100251] (Niveau 2) → ProductId: 2151\n│           └── Accessoires/Composants (Niveau 4)\n│               └── Accessories/Parts [ID: 100718] (Niveau 3) → ProductId: 2151\n\n├── Allumage / préchauffage [ID: 100008] (Niveau 1)\n│   └── Résistance additionnellle (Niveau 2)\n│       ├── Series Resistor [ID: 100757] (Niveau 2) → ProductId: 706\n│       └── Series Resistor [ID: 100757] (Niveau 2) → ProductId: 709\n\n├── Carburation [ID: 100254] (Niveau 1)\n│   └── Mélange air-carburant (Niveau 2)\n│       └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 3965\n│           └── Injecteur/porte-injecteur/UPI (Niveau 4)\n│               └── Injector/Nozzle/Nozzle and Holder Assembly/UI [ID: 102799] (Niveau 3) → ProductId: 3965\n\n├── Chauffage / Ventilation [ID: 100241] (Niveau 1)\n│   ├── Appareils de commande (Niveau 2)\n│   │   ├── Control Units [ID: 100725] (Niveau 2) → ProductId: 60728\n│   │   └── Control Units [ID: 100725] (Niveau 2) → ProductId: 2975\n│   └── Pulseur d'air habitacle composants (Niveau 2)\n│       └── Blower/Parts [ID: 100349] (Niveau 2) → ProductId: 2975\n\n├── Climatisation [ID: 100243] (Niveau 1)\n│   └── Résistance additionnelle (Niveau 2)\n│       ├── Series Resistor [ID: 100865] (Niveau 2) → ProductId: 9027\n│       └── Series Resistor [ID: 100865] (Niveau 2) → ProductId: 2391\n\n├── Refroidissement [ID: 100007] (Niveau 1)\n│   └── Ventilateur (Niveau 2)\n│       └── Radiator Fan [ID: 100337] (Niveau 2) → ProductId: 4145\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    ├── Alternateur / composants (Niveau 2)\n    │   └── Alternator/Parts [ID: 100041] (Niveau 2) → ProductId: 8300\n    │       └── Composants (Niveau 4)\n    │           └── Generator/ Alternator Parts [ID: 100352] (Niveau 3) → ProductId: 8300\n    ├── Appareils de commande (Niveau 2)\n    │   ├── Control Units [ID: 100727] (Niveau 2) → ProductId: 1387\n    │   └── Control Units [ID: 100727] (Niveau 2) → ProductId: 2975\n    ├── Batterie (Niveau 2)\n    │   └── Battery [ID: 100042] (Niveau 2) → ProductId: 1\n    ├── Instruments (Niveau 2)\n    │   └── Instruments [ID: 100322] (Niveau 2) → ProductId: 1403\n    │       └── Instruments indicateurs (Niveau 4)\n    │           └── Gauges [ID: 100555] (Niveau 3) → ProductId: 1403\n    └── Interrupteur/Relais/Contrôle clignotant/Appareil d.commande (Niveau 2)\n        └── Light Switches/Relays/Controls [ID: 100307] (Niveau 2) → ProductId: 1387\n            └── Appareils de commande (Niveau 4)\n                └── Controls [ID: 100724] (Niveau 3) → ProductId: 1387",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Pompe / accessoires",
+        "Pump/Accessories"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100251
+      ],
+      "finalCategoryId": 100251,
+      "productId": 2151
+    },
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Résistance additionnellle",
+        "Series Resistor"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        100757
+      ],
+      "finalCategoryId": 100757,
+      "productId": 706
+    },
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Résistance additionnellle",
+        "Series Resistor"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        100757
+      ],
+      "finalCategoryId": 100757,
+      "productId": 709
+    },
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 3965
+    },
+    {
+      "path": [
+        "Chauffage / Ventilation",
+        "Appareils de commande",
+        "Control Units"
+      ],
+      "categoryIds": [
+        100241,
+        null,
+        100725
+      ],
+      "finalCategoryId": 100725,
+      "productId": 60728
+    },
+    {
+      "path": [
+        "Chauffage / Ventilation",
+        "Appareils de commande",
+        "Control Units"
+      ],
+      "categoryIds": [
+        100241,
+        null,
+        100725
+      ],
+      "finalCategoryId": 100725,
+      "productId": 2975
+    },
+    {
+      "path": [
+        "Chauffage / Ventilation",
+        "Pulseur d'air habitacle composants",
+        "Blower/Parts"
+      ],
+      "categoryIds": [
+        100241,
+        null,
+        100349
+      ],
+      "finalCategoryId": 100349,
+      "productId": 2975
+    },
+    {
+      "path": [
+        "Climatisation",
+        "Résistance additionnelle",
+        "Series Resistor"
+      ],
+      "categoryIds": [
+        100243,
+        null,
+        100865
+      ],
+      "finalCategoryId": 100865,
+      "productId": 9027
+    },
+    {
+      "path": [
+        "Climatisation",
+        "Résistance additionnelle",
+        "Series Resistor"
+      ],
+      "categoryIds": [
+        100243,
+        null,
+        100865
+      ],
+      "finalCategoryId": 100865,
+      "productId": 2391
+    },
+    {
+      "path": [
+        "Refroidissement",
+        "Ventilateur",
+        "Radiator Fan"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100337
+      ],
+      "finalCategoryId": 100337,
+      "productId": 4145
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Alternateur / composants",
+        "Alternator/Parts"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100041
+      ],
+      "finalCategoryId": 100041,
+      "productId": 8300
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Appareils de commande",
+        "Control Units"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100727
+      ],
+      "finalCategoryId": 100727,
+      "productId": 1387
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Appareils de commande",
+        "Control Units"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100727
+      ],
+      "finalCategoryId": 100727,
+      "productId": 2975
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Batterie",
+        "Battery"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100042
+      ],
+      "finalCategoryId": 100042,
+      "productId": 1
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Instruments",
+        "Instruments"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100322
+      ],
+      "finalCategoryId": 100322,
+      "productId": 1403
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Interrupteur/Relais/Contrôle clignotant/Appareil d.commande",
+        "Light Switches/Relays/Controls"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100307
+      ],
+      "finalCategoryId": 100307,
+      "productId": 1387
+    }
+  ],
+  "productIdsInArbo": [
+    1,
+    706,
+    709,
+    1387,
+    1403,
+    2151,
+    2391,
+    2975,
+    3965,
+    4145,
+    8300,
+    9027,
+    60728
+  ],
+  "closestProductIds": [
+    {
+      "productId": 1,
+      "productName": "Batterie de démarrage"
+    },
+    {
+      "productId": 706,
+      "productName": "Résistance additionnelle, système d'allumage"
+    },
+    {
+      "productId": 709,
+      "productName": "Résistance de série, système de préchauffage"
+    },
+    {
+      "productId": 1387,
+      "productName": "Appareil de commande, système d'éclairage"
+    },
+    {
+      "productId": 1403,
+      "productName": "Pré-résistance, combiné d'instruments"
+    }
+  ]
+}

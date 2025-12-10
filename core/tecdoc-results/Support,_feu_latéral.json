@@ -1,0 +1,84 @@
+{
+  "productName": "Support, feu latéral",
+  "searchText": "Support, feu latéral",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:21:25.630Z",
+  "productId": 7995,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Feux": {
+          "categoryId": null,
+          "categoryName": "Feux",
+          "level": 2,
+          "children": {
+            "Support, feu latéral": {
+              "categoryId": 100043,
+              "categoryName": "Lights",
+              "level": 2,
+              "children": {
+                "Feu de position / d'encombrement / composants": {
+                  "categoryId": null,
+                  "categoryName": "Feu de position / d'encombrement / composants",
+                  "level": 4,
+                  "children": {
+                    "Support, feu latéral": {
+                      "categoryId": 100290,
+                      "categoryName": "Side Marker/End Outline Marker Light/Parts",
+                      "level": 3,
+                      "children": {
+                        "Composants": {
+                          "categoryId": null,
+                          "categoryName": "Composants",
+                          "level": 6,
+                          "children": {
+                            "Support, feu latéral": {
+                              "categoryId": 100495,
+                              "categoryName": "Parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 7995
+                            }
+                          }
+                        }
+                      },
+                      "productId": 7995
+                    }
+                  }
+                }
+              },
+              "productId": 7995
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Feux (Niveau 2)\n        └── Lights [ID: 100043] (Niveau 2) → ProductId: 7995\n            └── Feu de position / d'encombrement / composants (Niveau 4)\n                └── Side Marker/End Outline Marker Light/Parts [ID: 100290] (Niveau 3) → ProductId: 7995\n                    └── Composants (Niveau 6)\n                        └── Parts [ID: 100495] (Niveau 4) → ProductId: 7995",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Lights"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100043
+      ],
+      "finalCategoryId": 100043,
+      "productId": 7995
+    }
+  ],
+  "productIdsInArbo": [
+    7995
+  ],
+  "matchedProductIds": [
+    7995
+  ]
+}

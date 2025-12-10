@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G04SC8",
+      "index": "HAZ 792-1",
+      "tecDoc": "792-1",
+      "tecDocProd": "4808",
+      "articleNumber": "792-1",
+      "brand": "HAZET",
+      "shortDescription": "Engine maintenance tools",
+      "description": "",
+      "packageWeight": "1,380",
+      "packageWidth": "22,500",
+      "packageDepth": "4,000",
+      "packageHeight": "32,000",
+      "customsCode": "82041100",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4483",
+          "primary": false,
+          "name": {
+            "en": "Mounting Tool Set, intake/exhaust valve"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91778",
+          "primary": true,
+          "name": {
+            "en": "Engine maintenance tools"
+          }
+        }
+      ]
+    }
+  ]
+}

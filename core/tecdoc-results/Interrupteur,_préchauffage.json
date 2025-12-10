@@ -1,0 +1,54 @@
+{
+  "productName": "Interrupteur, préchauffage",
+  "searchText": "Interrupteur, préchauffage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:47:46.655Z",
+  "productId": 2264,
+  "arborescence": {
+    "Allumage / préchauffage": {
+      "categoryId": 100008,
+      "categoryName": "Allumage / préchauffage",
+      "level": 1,
+      "children": {
+        "Interrupteur": {
+          "categoryId": null,
+          "categoryName": "Interrupteur",
+          "level": 2,
+          "children": {
+            "Interrupteur, préchauffage": {
+              "categoryId": 100848,
+              "categoryName": "Switch",
+              "level": 2,
+              "children": [],
+              "productId": 2264
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Allumage / préchauffage [ID: 100008] (Niveau 1)\n    └── Interrupteur (Niveau 2)\n        └── Switch [ID: 100848] (Niveau 2) → ProductId: 2264",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Interrupteur",
+        "Switch"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        100848
+      ],
+      "finalCategoryId": 100848,
+      "productId": 2264
+    }
+  ],
+  "productIdsInArbo": [
+    2264
+  ],
+  "matchedProductIds": [
+    2264
+  ]
+}

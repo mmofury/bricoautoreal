@@ -1,0 +1,104 @@
+{
+  "productName": "Valve, système d'air comprimé",
+  "searchText": "Valve, système d'air comprimé",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:31:56.334Z",
+  "productId": 342,
+  "arborescence": {
+    "Suspension/Amortissement": {
+      "categoryId": 100011,
+      "categoryName": "Suspension/Amortissement",
+      "level": 1,
+      "children": {
+        "Suspension pneumatique": {
+          "categoryId": null,
+          "categoryName": "Suspension pneumatique",
+          "level": 2,
+          "children": {
+            "Valve, système d'air comprimé": {
+              "categoryId": 101884,
+              "categoryName": "Air Suspension",
+              "level": 2,
+              "children": [],
+              "productId": 342
+            }
+          }
+        }
+      }
+    },
+    "Système pneumatique": {
+      "categoryId": 103168,
+      "categoryName": "Système pneumatique",
+      "level": 1,
+      "children": {
+        "Soupapes / Système d'air comprimé": {
+          "categoryId": null,
+          "categoryName": "Soupapes / Système d'air comprimé",
+          "level": 2,
+          "children": {
+            "Valve, système d'air comprimé": {
+              "categoryId": 103198,
+              "categoryName": "Valves/compressed-air system",
+              "level": 2,
+              "children": {
+                "Soupapes diverses": {
+                  "categoryId": null,
+                  "categoryName": "Soupapes diverses",
+                  "level": 4,
+                  "children": {
+                    "Valve, système d'air comprimé": {
+                      "categoryId": 103200,
+                      "categoryName": "Other Valves",
+                      "level": 3,
+                      "children": [],
+                      "productId": 342
+                    }
+                  }
+                }
+              },
+              "productId": 342
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Suspension/Amortissement [ID: 100011] (Niveau 1)\n│   └── Suspension pneumatique (Niveau 2)\n│       └── Air Suspension [ID: 101884] (Niveau 2) → ProductId: 342\n\n└── Système pneumatique [ID: 103168] (Niveau 1)\n    └── Soupapes / Système d'air comprimé (Niveau 2)\n        └── Valves/compressed-air system [ID: 103198] (Niveau 2) → ProductId: 342\n            └── Soupapes diverses (Niveau 4)\n                └── Other Valves [ID: 103200] (Niveau 3) → ProductId: 342",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Suspension pneumatique",
+        "Air Suspension"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        101884
+      ],
+      "finalCategoryId": 101884,
+      "productId": 342
+    },
+    {
+      "path": [
+        "Système pneumatique",
+        "Soupapes / Système d'air comprimé",
+        "Valves/compressed-air system"
+      ],
+      "categoryIds": [
+        103168,
+        null,
+        103198
+      ],
+      "finalCategoryId": 103198,
+      "productId": 342
+    }
+  ],
+  "productIdsInArbo": [
+    342
+  ],
+  "matchedProductIds": [
+    342
+  ]
+}

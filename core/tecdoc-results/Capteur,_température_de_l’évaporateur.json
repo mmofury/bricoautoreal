@@ -1,0 +1,82 @@
+{
+  "productName": "Capteur, température de l’évaporateur",
+  "searchText": "Capteur, température de l’évaporateur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:16:58.958Z",
+  "productId": 60436,
+  "arborescence": {
+    "Climatisation": {
+      "categoryId": 100243,
+      "categoryName": "Climatisation",
+      "level": 1,
+      "children": {
+        "Capteurs": {
+          "categoryId": null,
+          "categoryName": "Capteurs",
+          "level": 2,
+          "children": {
+            "Capteur, température de l’évaporateur": {
+              "categoryId": 100794,
+              "categoryName": "Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 60436
+            }
+          }
+        },
+        "Évaporateur": {
+          "categoryId": null,
+          "categoryName": "Évaporateur",
+          "level": 2,
+          "children": {
+            "Capteur, température de l’évaporateur": {
+              "categoryId": 100356,
+              "categoryName": "Evaporator",
+              "level": 2,
+              "children": [],
+              "productId": 60436
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Climatisation [ID: 100243] (Niveau 1)\n    ├── Capteurs (Niveau 2)\n    │   └── Sensors [ID: 100794] (Niveau 2) → ProductId: 60436\n    └── Évaporateur (Niveau 2)\n        └── Evaporator [ID: 100356] (Niveau 2) → ProductId: 60436",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Climatisation",
+        "Capteurs",
+        "Sensors"
+      ],
+      "categoryIds": [
+        100243,
+        null,
+        100794
+      ],
+      "finalCategoryId": 100794,
+      "productId": 60436
+    },
+    {
+      "path": [
+        "Climatisation",
+        "Évaporateur",
+        "Evaporator"
+      ],
+      "categoryIds": [
+        100243,
+        null,
+        100356
+      ],
+      "finalCategoryId": 100356,
+      "productId": 60436
+    }
+  ],
+  "productIdsInArbo": [
+    60436
+  ],
+  "matchedProductIds": [
+    60436
+  ]
+}

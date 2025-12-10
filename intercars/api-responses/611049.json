@@ -1,0 +1,43 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "611049",
+      "index": "FE02582",
+      "tecDoc": "02582",
+      "tecDocProd": "101",
+      "articleNumber": "02582",
+      "brand": "FEBI",
+      "shortDescription": "Joint grease",
+      "description": "Joint grease lithium complex/molybdenum disulphide MOS2 (0,09KG), -35/+130°C, VW TL 738",
+      "gtuCode": "GTU_03",
+      "eans": [
+        "4027816025825"
+      ],
+      "packageWeight": "0,092",
+      "packageWidth": "6,000",
+      "packageDepth": "18,000",
+      "packageHeight": "2,000",
+      "customsCode": "34039900",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1814",
+          "primary": false,
+          "name": {
+            "en": "Molybdenum Grease"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_92022",
+          "primary": true,
+          "name": {
+            "en": "Joint grease"
+          }
+        }
+      ]
+    }
+  ]
+}

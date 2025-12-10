@@ -1,0 +1,54 @@
+{
+  "productName": "Huile pour boîte de vitesses",
+  "searchText": "Huile pour boîte de vitesses",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:44:46.778Z",
+  "productId": 3225,
+  "arborescence": {
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Huiles": {
+          "categoryId": null,
+          "categoryName": "Huiles",
+          "level": 2,
+          "children": {
+            "Huile pour boîte de vitesses": {
+              "categoryId": 706233,
+              "categoryName": "Oil",
+              "level": 2,
+              "children": [],
+              "productId": 3225
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Boîte de vitesses [ID: 100238] (Niveau 1)\n    └── Huiles (Niveau 2)\n        └── Oil [ID: 706233] (Niveau 2) → ProductId: 3225",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Huiles",
+        "Oil"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        706233
+      ],
+      "finalCategoryId": 706233,
+      "productId": 3225
+    }
+  ],
+  "productIdsInArbo": [
+    3225
+  ],
+  "matchedProductIds": [
+    3225
+  ]
+}

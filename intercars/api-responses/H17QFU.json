@@ -1,0 +1,36 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H17QFU",
+      "index": "K S00 004 175",
+      "tecDoc": "K S00 004 175",
+      "tecDocProd": "30",
+      "articleNumber": "K S00 004 175",
+      "brand": "BOSCH",
+      "shortDescription": "Repair Kit, tie rod",
+      "description": "Tie rod repair kit fits: VOLVO S60 I, S80 I, V70 II, XC70 I 2.0-3.0 05.98-04.10",
+      "gtuCode": "GTU_07",
+      "customsCode": "87089499",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_284",
+          "primary": false,
+          "name": {
+            "en": "Steering rod"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_770",
+          "primary": true,
+          "name": {
+            "en": "Repair Kit, tie rod"
+          }
+        }
+      ]
+    }
+  ]
+}

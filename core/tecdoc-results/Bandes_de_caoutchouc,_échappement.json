@@ -1,0 +1,84 @@
+{
+  "productName": "Bandes de caoutchouc, échappement",
+  "searchText": "Bandes de caoutchouc, échappement",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:06:22.681Z",
+  "productId": 1055,
+  "arborescence": {
+    "Échappement": {
+      "categoryId": 100004,
+      "categoryName": "Échappement",
+      "level": 1,
+      "children": {
+        "Pièces de montage": {
+          "categoryId": null,
+          "categoryName": "Pièces de montage",
+          "level": 2,
+          "children": {
+            "Bandes de caoutchouc, échappement": {
+              "categoryId": 100222,
+              "categoryName": "Assembly Parts",
+              "level": 2,
+              "children": {
+                "Pièces détachées de montage": {
+                  "categoryId": null,
+                  "categoryName": "Pièces détachées de montage",
+                  "level": 4,
+                  "children": {
+                    "Bandes de caoutchouc, échappement": {
+                      "categoryId": 100317,
+                      "categoryName": "Individual Assembly Parts",
+                      "level": 3,
+                      "children": {
+                        "Bandes en caoutchouc": {
+                          "categoryId": null,
+                          "categoryName": "Bandes en caoutchouc",
+                          "level": 6,
+                          "children": {
+                            "Bandes de caoutchouc, échappement": {
+                              "categoryId": 100326,
+                              "categoryName": "Rubber Strip",
+                              "level": 4,
+                              "children": [],
+                              "productId": 1055
+                            }
+                          }
+                        }
+                      },
+                      "productId": 1055
+                    }
+                  }
+                }
+              },
+              "productId": 1055
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Échappement [ID: 100004] (Niveau 1)\n    └── Pièces de montage (Niveau 2)\n        └── Assembly Parts [ID: 100222] (Niveau 2) → ProductId: 1055\n            └── Pièces détachées de montage (Niveau 4)\n                └── Individual Assembly Parts [ID: 100317] (Niveau 3) → ProductId: 1055\n                    └── Bandes en caoutchouc (Niveau 6)\n                        └── Rubber Strip [ID: 100326] (Niveau 4) → ProductId: 1055",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Échappement",
+        "Pièces de montage",
+        "Assembly Parts"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100222
+      ],
+      "finalCategoryId": 100222,
+      "productId": 1055
+    }
+  ],
+  "productIdsInArbo": [
+    1055
+  ],
+  "matchedProductIds": [
+    1055
+  ]
+}

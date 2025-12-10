@@ -1,0 +1,64 @@
+{
+  "productName": "Gaine, frein moteur",
+  "productId": 4046,
+  "searchText": "Gaine, frein moteur",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Dispositif de freinage": {
+          "categoryId": 200058,
+          "categoryName": "Dispositif de freinage",
+          "level": 1,
+          "children": {
+            "Système de frein continu": {
+              "categoryId": null,
+              "categoryName": "Système de frein continu",
+              "level": 2,
+              "children": {
+                "Gaine, frein moteur": {
+                  "categoryId": 200105,
+                  "categoryName": "Retarder Brake System",
+                  "level": 2,
+                  "children": {
+                    "Retardeur primaire": {
+                      "categoryId": null,
+                      "categoryName": "Retardeur primaire",
+                      "level": 4,
+                      "children": {
+                        "Gaine, frein moteur": {
+                          "categoryId": 200418,
+                          "categoryName": "Primary Exhaust Brake",
+                          "level": 3,
+                          "children": [],
+                          "productId": 4046
+                        }
+                      }
+                    }
+                  },
+                  "productId": 4046
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Dispositif de freinage [ID: 200058] (Niveau 1)\n    └── Système de frein continu (Niveau 2)\n        └── Retarder Brake System [ID: 200105] (Niveau 2) → ProductId: 4046\n            └── Retardeur primaire (Niveau 4)\n                └── Primary Exhaust Brake [ID: 200418] (Niveau 3) → ProductId: 4046",
+      "productIdsInArbo": [
+        4046
+      ],
+      "matchedProductIds": [
+        4046
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:31:30.526Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

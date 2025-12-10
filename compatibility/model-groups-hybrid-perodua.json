@@ -1,0 +1,232 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.445Z",
+  "manufacturer": "PERODUA",
+  "countGroups": 13,
+  "groups": [
+    {
+      "manufacturerId": 1533,
+      "manufacturerName": "PERODUA",
+      "groupKey": "ALZA",
+      "displayName": "ALZA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9140,
+          "modelName": "ALZA (M502)",
+          "modelYearFrom": "2009-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43074,
+          "modelName": "ALZA II (W150)",
+          "modelYearFrom": "2022-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1533,
+      "manufacturerName": "PERODUA",
+      "groupKey": "ARUZ",
+      "displayName": "ARUZ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39379,
+          "modelName": "ARUZ",
+          "modelYearFrom": "2019-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1533,
+      "manufacturerName": "PERODUA",
+      "groupKey": "ATIVA",
+      "displayName": "ATIVA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41807,
+          "modelName": "ATIVA",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1533,
+      "manufacturerName": "PERODUA",
+      "groupKey": "AXIA",
+      "displayName": "AXIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13325,
+          "modelName": "AXIA",
+          "modelYearFrom": "2014-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43945,
+          "modelName": "AXIA II (A300)",
+          "modelYearFrom": "2023-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1533,
+      "manufacturerName": "PERODUA",
+      "groupKey": "BEZZA",
+      "displayName": "BEZZA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36977,
+          "modelName": "BEZZA",
+          "modelYearFrom": "2016-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1533,
+      "manufacturerName": "PERODUA",
+      "groupKey": "KANCIL",
+      "displayName": "KANCIL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9141,
+          "modelName": "KANCIL",
+          "modelYearFrom": "1994-08-01",
+          "modelYearTo": "2009-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1533,
+      "manufacturerName": "PERODUA",
+      "groupKey": "KELISA",
+      "displayName": "KELISA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7511,
+          "modelName": "KELISA",
+          "modelYearFrom": "2002-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1533,
+      "manufacturerName": "PERODUA",
+      "groupKey": "KEMBARA",
+      "displayName": "KEMBARA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13902,
+          "modelName": "KEMBARA",
+          "modelYearFrom": "1998-01-01",
+          "modelYearTo": "2008-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1533,
+      "manufacturerName": "PERODUA",
+      "groupKey": "KENARI",
+      "displayName": "KENARI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7514,
+          "modelName": "KENARI",
+          "modelYearFrom": "2000-10-01",
+          "modelYearTo": "2009-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1533,
+      "manufacturerName": "PERODUA",
+      "groupKey": "MYVI",
+      "displayName": "MYVI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7887,
+          "modelName": "MYVI (M30_)",
+          "modelYearFrom": "2006-01-01",
+          "modelYearTo": "2011-06-01"
+        },
+        {
+          "modelId": 10968,
+          "modelName": "MYVI II (M60_)",
+          "modelYearFrom": "2011-06-01",
+          "modelYearTo": "2017-10-01"
+        },
+        {
+          "modelId": 38321,
+          "modelName": "MYVI III (M80_)",
+          "modelYearFrom": "2017-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1533,
+      "manufacturerName": "PERODUA",
+      "groupKey": "NAUTICA",
+      "displayName": "NAUTICA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37489,
+          "modelName": "NAUTICA",
+          "modelYearFrom": "2008-05-01",
+          "modelYearTo": "2009-01-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1533,
+      "manufacturerName": "PERODUA",
+      "groupKey": "RUSA",
+      "displayName": "RUSA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13903,
+          "modelName": "RUSA Autobus/Autocar",
+          "modelYearFrom": "1996-07-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 39853,
+          "modelName": "RUSA Fourgon",
+          "modelYearFrom": "2003-07-01",
+          "modelYearTo": "2008-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1533,
+      "manufacturerName": "PERODUA",
+      "groupKey": "VIVA",
+      "displayName": "VIVA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9139,
+          "modelName": "VIVA",
+          "modelYearFrom": "2007-07-01",
+          "modelYearTo": "2014-06-01"
+        }
+      ]
+    }
+  ]
+}

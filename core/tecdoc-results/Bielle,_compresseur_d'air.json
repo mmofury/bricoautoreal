@@ -1,0 +1,76 @@
+{
+  "productName": "Bielle, compresseur d'air",
+  "searchText": "Bielle, compresseur d'air",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:07:01.059Z",
+  "productId": 3880,
+  "arborescence": {
+    "Suspension/Amortissement": {
+      "categoryId": 100011,
+      "categoryName": "Suspension/Amortissement",
+      "level": 1,
+      "children": {
+        "Suspension pneumatique": {
+          "categoryId": null,
+          "categoryName": "Suspension pneumatique",
+          "level": 2,
+          "children": {
+            "Bielle, compresseur d'air": {
+              "categoryId": 101884,
+              "categoryName": "Air Suspension",
+              "level": 2,
+              "children": [],
+              "productId": 3880
+            },
+            "Palier de bielle, compresseur d'air": {
+              "categoryId": 101884,
+              "categoryName": "Air Suspension",
+              "level": 2,
+              "children": [],
+              "productId": 61335
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Suspension/Amortissement [ID: 100011] (Niveau 1)\n    └── Suspension pneumatique (Niveau 2)\n        ├── Air Suspension [ID: 101884] (Niveau 2) → ProductId: 3880\n        └── Air Suspension [ID: 101884] (Niveau 2) → ProductId: 61335",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Suspension pneumatique",
+        "Air Suspension"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        101884
+      ],
+      "finalCategoryId": 101884,
+      "productId": 3880
+    },
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Suspension pneumatique",
+        "Air Suspension"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        101884
+      ],
+      "finalCategoryId": 101884,
+      "productId": 61335
+    }
+  ],
+  "productIdsInArbo": [
+    3880,
+    61335
+  ],
+  "matchedProductIds": [
+    3880
+  ]
+}

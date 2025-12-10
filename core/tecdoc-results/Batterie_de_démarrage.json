@@ -1,0 +1,120 @@
+{
+  "productName": "Batterie de démarrage",
+  "searchText": "Batterie de démarrage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:06:51.025Z",
+  "productId": 1,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Batterie": {
+          "categoryId": null,
+          "categoryName": "Batterie",
+          "level": 2,
+          "children": {
+            "Adaptateur de batterie": {
+              "categoryId": 100042,
+              "categoryName": "Battery",
+              "level": 2,
+              "children": [],
+              "productId": 3793
+            },
+            "Batterie de démarrage": {
+              "categoryId": 100042,
+              "categoryName": "Battery",
+              "level": 2,
+              "children": [],
+              "productId": 1
+            },
+            "Élément séparateur, batterie de démarrage": {
+              "categoryId": 100042,
+              "categoryName": "Battery",
+              "level": 2,
+              "children": [],
+              "productId": 60378
+            },
+            "Tuyauterie, purge d'air batterie": {
+              "categoryId": 100042,
+              "categoryName": "Battery",
+              "level": 2,
+              "children": [],
+              "productId": 4299
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Batterie (Niveau 2)\n        ├── Battery [ID: 100042] (Niveau 2) → ProductId: 3793\n        ├── Battery [ID: 100042] (Niveau 2) → ProductId: 1\n        ├── Battery [ID: 100042] (Niveau 2) → ProductId: 60378\n        └── Battery [ID: 100042] (Niveau 2) → ProductId: 4299",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Batterie",
+        "Battery"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100042
+      ],
+      "finalCategoryId": 100042,
+      "productId": 3793
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Batterie",
+        "Battery"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100042
+      ],
+      "finalCategoryId": 100042,
+      "productId": 1
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Batterie",
+        "Battery"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100042
+      ],
+      "finalCategoryId": 100042,
+      "productId": 60378
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Batterie",
+        "Battery"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100042
+      ],
+      "finalCategoryId": 100042,
+      "productId": 4299
+    }
+  ],
+  "productIdsInArbo": [
+    1,
+    3793,
+    4299,
+    60378
+  ],
+  "matchedProductIds": [
+    1
+  ]
+}

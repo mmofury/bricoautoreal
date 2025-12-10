@@ -1,0 +1,149 @@
+{
+  "productName": "Bague d'étanchéité (radiateur EGR)",
+  "searchText": "Bague d'étanchéité (radiateur EGR)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:02:29.409Z",
+  "productId": 60789,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Épuration des gaz d'échappement": {
+          "categoryId": null,
+          "categoryName": "Épuration des gaz d'échappement",
+          "level": 2,
+          "children": {
+            "Bague d'étanchéité (radiateur EGR)": {
+              "categoryId": 100790,
+              "categoryName": "Exhaust Emission Control",
+              "level": 2,
+              "children": {
+                "Recyclage des gaz d'échappement": {
+                  "categoryId": null,
+                  "categoryName": "Recyclage des gaz d'échappement",
+                  "level": 4,
+                  "children": {
+                    "Bague d'étanchéité (radiateur EGR)": {
+                      "categoryId": 100791,
+                      "categoryName": "Exhaust Gas Recirculation",
+                      "level": 3,
+                      "children": {
+                        "Joints": {
+                          "categoryId": null,
+                          "categoryName": "Joints",
+                          "level": 6,
+                          "children": {
+                            "Bague d'étanchéité (radiateur EGR)": {
+                              "categoryId": 103239,
+                              "categoryName": "Gaskets",
+                              "level": 4,
+                              "children": [],
+                              "productId": 60789
+                            }
+                          }
+                        }
+                      },
+                      "productId": 60789
+                    }
+                  }
+                }
+              },
+              "productId": 60789
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Épuration des gaz d'échappement": {
+          "categoryId": null,
+          "categoryName": "Épuration des gaz d'échappement",
+          "level": 2,
+          "children": {
+            "Bague d'étanchéité (radiateur EGR)": {
+              "categoryId": 100541,
+              "categoryName": "Exhaust Emission Control",
+              "level": 2,
+              "children": {
+                "Recyclage des gaz d'échappement": {
+                  "categoryId": null,
+                  "categoryName": "Recyclage des gaz d'échappement",
+                  "level": 4,
+                  "children": {
+                    "Bague d'étanchéité (radiateur EGR)": {
+                      "categoryId": 100542,
+                      "categoryName": "Exhaust Gas Recirculation",
+                      "level": 3,
+                      "children": {
+                        "Joints": {
+                          "categoryId": null,
+                          "categoryName": "Joints",
+                          "level": 6,
+                          "children": {
+                            "Bague d'étanchéité (radiateur EGR)": {
+                              "categoryId": 103235,
+                              "categoryName": "Gaskets",
+                              "level": 4,
+                              "children": [],
+                              "productId": 60789
+                            }
+                          }
+                        }
+                      },
+                      "productId": 60789
+                    }
+                  }
+                }
+              },
+              "productId": 60789
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carburation [ID: 100254] (Niveau 1)\n│   └── Épuration des gaz d'échappement (Niveau 2)\n│       └── Exhaust Emission Control [ID: 100790] (Niveau 2) → ProductId: 60789\n│           └── Recyclage des gaz d'échappement (Niveau 4)\n│               └── Exhaust Gas Recirculation [ID: 100791] (Niveau 3) → ProductId: 60789\n│                   └── Joints (Niveau 6)\n│                       └── Gaskets [ID: 103239] (Niveau 4) → ProductId: 60789\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Épuration des gaz d'échappement (Niveau 2)\n        └── Exhaust Emission Control [ID: 100541] (Niveau 2) → ProductId: 60789\n            └── Recyclage des gaz d'échappement (Niveau 4)\n                └── Exhaust Gas Recirculation [ID: 100542] (Niveau 3) → ProductId: 60789\n                    └── Joints (Niveau 6)\n                        └── Gaskets [ID: 103235] (Niveau 4) → ProductId: 60789",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Épuration des gaz d'échappement",
+        "Exhaust Emission Control"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        100790
+      ],
+      "finalCategoryId": 100790,
+      "productId": 60789
+    },
+    {
+      "path": [
+        "Moteur",
+        "Épuration des gaz d'échappement",
+        "Exhaust Emission Control"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100541
+      ],
+      "finalCategoryId": 100541,
+      "productId": 60789
+    }
+  ],
+  "productIdsInArbo": [
+    60789
+  ],
+  "matchedProductIds": [
+    60789
+  ]
+}

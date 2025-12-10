@@ -1,0 +1,82 @@
+{
+  "productName": "Contôle, chauffage du siège",
+  "searchText": "Contôle, chauffage du siège",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:24:55.166Z",
+  "productId": 2457,
+  "arborescence": {
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Chauffage des sièges": {
+          "categoryId": null,
+          "categoryName": "Chauffage des sièges",
+          "level": 2,
+          "children": {
+            "Contôle, chauffage du siège": {
+              "categoryId": 100863,
+              "categoryName": "Seat Heating",
+              "level": 2,
+              "children": [],
+              "productId": 2457
+            }
+          }
+        },
+        "Contrôle": {
+          "categoryId": null,
+          "categoryName": "Contrôle",
+          "level": 2,
+          "children": {
+            "Contôle, chauffage du siège": {
+              "categoryId": 706789,
+              "categoryName": "Control Unit",
+              "level": 2,
+              "children": [],
+              "productId": 2457
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Systèmes de confort [ID: 100335] (Niveau 1)\n    ├── Chauffage des sièges (Niveau 2)\n    │   └── Seat Heating [ID: 100863] (Niveau 2) → ProductId: 2457\n    └── Contrôle (Niveau 2)\n        └── Control Unit [ID: 706789] (Niveau 2) → ProductId: 2457",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Systèmes de confort",
+        "Chauffage des sièges",
+        "Seat Heating"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        100863
+      ],
+      "finalCategoryId": 100863,
+      "productId": 2457
+    },
+    {
+      "path": [
+        "Systèmes de confort",
+        "Contrôle",
+        "Control Unit"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        706789
+      ],
+      "finalCategoryId": 706789,
+      "productId": 2457
+    }
+  ],
+  "productIdsInArbo": [
+    2457
+  ],
+  "matchedProductIds": [
+    2457
+  ]
+}

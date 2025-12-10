@@ -1,0 +1,148 @@
+{
+  "productName": "Kit de montage, rotule de suspension",
+  "searchText": "Kit de montage, rotule de suspension",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:02:03.349Z",
+  "productId": 4419,
+  "arborescence": {
+    "Outils spéciaux": {
+      "categoryId": 706365,
+      "categoryName": "Outils spéciaux",
+      "level": 1,
+      "children": {
+        "Outils spéciaux suspension d’essieu/guidage des roues/roues": {
+          "categoryId": null,
+          "categoryName": "Outils spéciaux suspension d’essieu/guidage des roues/roues",
+          "level": 2,
+          "children": {
+            "Kit de montage, Rotule de suspension": {
+              "categoryId": 706380,
+              "categoryName": "Special Tools, axle mounting/steering/wheels",
+              "level": 2,
+              "children": {
+                "Rotules": {
+                  "categoryId": null,
+                  "categoryName": "Rotules",
+                  "level": 4,
+                  "children": {
+                    "Kit de montage, Rotule de suspension": {
+                      "categoryId": 706383,
+                      "categoryName": "Joints",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4557
+                    }
+                  }
+                }
+              },
+              "productId": 4557
+            }
+          }
+        }
+      }
+    },
+    "Suspension d'essieu/Guidage des roues/Roues": {
+      "categoryId": 100013,
+      "categoryName": "Suspension d'essieu/Guidage des roues/Roues",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Kit de montage, Rotule de suspension": {
+              "categoryId": 103159,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4557
+            }
+          }
+        },
+        "Rotules": {
+          "categoryId": null,
+          "categoryName": "Rotules",
+          "level": 2,
+          "children": {
+            "Kit de montage, rotule de suspension": {
+              "categoryId": 100211,
+              "categoryName": "Joints",
+              "level": 2,
+              "children": {
+                "Rotule de suspension": {
+                  "categoryId": null,
+                  "categoryName": "Rotule de suspension",
+                  "level": 4,
+                  "children": {
+                    "Kit de montage, rotule de suspension": {
+                      "categoryId": 100581,
+                      "categoryName": "Ball Joint",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4419
+                    }
+                  }
+                }
+              },
+              "productId": 4419
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Outils spéciaux [ID: 706365] (Niveau 1)\n│   └── Outils spéciaux suspension d’essieu/guidage des roues/roues (Niveau 2)\n│       └── Special Tools, axle mounting/steering/wheels [ID: 706380] (Niveau 2) → ProductId: 4557\n│           └── Rotules (Niveau 4)\n│               └── Joints [ID: 706383] (Niveau 3) → ProductId: 4557\n\n└── Suspension d'essieu/Guidage des roues/Roues [ID: 100013] (Niveau 1)\n    ├── Outils (Niveau 2)\n    │   └── Tools [ID: 103159] (Niveau 2) → ProductId: 4557\n    └── Rotules (Niveau 2)\n        └── Joints [ID: 100211] (Niveau 2) → ProductId: 4419\n            └── Rotule de suspension (Niveau 4)\n                └── Ball Joint [ID: 100581] (Niveau 3) → ProductId: 4419",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Outils spéciaux",
+        "Outils spéciaux suspension d’essieu/guidage des roues/roues",
+        "Special Tools, axle mounting/steering/wheels"
+      ],
+      "categoryIds": [
+        706365,
+        null,
+        706380
+      ],
+      "finalCategoryId": 706380,
+      "productId": 4557
+    },
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        103159
+      ],
+      "finalCategoryId": 103159,
+      "productId": 4557
+    },
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Rotules",
+        "Joints"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        100211
+      ],
+      "finalCategoryId": 100211,
+      "productId": 4419
+    }
+  ],
+  "productIdsInArbo": [
+    4419,
+    4557
+  ],
+  "matchedProductIds": [
+    4419
+  ]
+}

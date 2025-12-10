@@ -1,0 +1,40 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "F64DEC",
+      "index": "2.44249",
+      "tecDoc": "2.44249",
+      "tecDocProd": "355",
+      "articleNumber": "2.44249",
+      "brand": "DT SPARE PARTS",
+      "shortDescription": "Water Separator, compressed-air system",
+      "description": "Pneumatics element (de-oiler Consep)",
+      "gtuCode": "GTU_07",
+      "packageWeight": "2,269",
+      "packageWidth": "17,700",
+      "packageDepth": "10,800",
+      "packageHeight": "30,200",
+      "customsCode": "87083099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_337",
+          "primary": true,
+          "name": {
+            "en": "Water Separator, compressed-air system"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_8748",
+          "primary": false,
+          "name": {
+            "en": "Oil Separator, compressed-air system"
+          }
+        }
+      ]
+    }
+  ]
+}

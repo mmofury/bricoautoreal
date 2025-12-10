@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.456Z",
+  "manufacturer": "QIYUAN",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 7094,
+      "manufacturerName": "QIYUAN",
+      "groupKey": "A05",
+      "displayName": "A05",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44870,
+          "modelName": "A05",
+          "modelYearFrom": "2023-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 7094,
+      "manufacturerName": "QIYUAN",
+      "groupKey": "A07",
+      "displayName": "A07",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44826,
+          "modelName": "A07",
+          "modelYearFrom": "2023-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 7094,
+      "manufacturerName": "QIYUAN",
+      "groupKey": "Q05",
+      "displayName": "Q05",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45034,
+          "modelName": "Q05",
+          "modelYearFrom": "2023-12-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

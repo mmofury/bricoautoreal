@@ -1,0 +1,57 @@
+{
+  "productName": "Pince, Collier de manchon d'essieu",
+  "searchText": "Pince, Collier de manchon d'essieu",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T21:20:44.772Z",
+  "productId": 4563,
+  "arborescence": {
+    "Entraînement des roues": {
+      "categoryId": 100014,
+      "categoryName": "Entraînement des roues",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Pince, Collier de manchon d'essieu": {
+              "categoryId": 103161,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4582
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement des roues [ID: 100014] (Niveau 1)\n    └── Outils (Niveau 2)\n        └── Tools [ID: 103161] (Niveau 2) → ProductId: 4582",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des roues",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100014,
+        null,
+        103161
+      ],
+      "finalCategoryId": 103161,
+      "productId": 4582
+    }
+  ],
+  "productIdsInArbo": [
+    4582
+  ],
+  "closestProductIds": [
+    {
+      "productId": 4582,
+      "productName": "Pince, Collier de manchon d'essieu"
+    }
+  ]
+}

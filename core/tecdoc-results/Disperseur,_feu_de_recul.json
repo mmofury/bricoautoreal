@@ -1,0 +1,207 @@
+{
+  "productName": "Disperseur, feu de recul",
+  "searchText": "Disperseur, feu de recul",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:31:14.329Z",
+  "productId": 96,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Arrière de la voiture": {
+          "categoryId": null,
+          "categoryName": "Arrière de la voiture",
+          "level": 2,
+          "children": {
+            "Disperseur, feu de recul": {
+              "categoryId": 101705,
+              "categoryName": "Vehicle Rear",
+              "level": 2,
+              "children": {
+                "Feu de recul / composants": {
+                  "categoryId": null,
+                  "categoryName": "Feu de recul / composants",
+                  "level": 4,
+                  "children": {
+                    "Disperseur, feu de recul": {
+                      "categoryId": 101739,
+                      "categoryName": "Reverse Light/Parts",
+                      "level": 3,
+                      "children": {
+                        "Composants de feu de recul": {
+                          "categoryId": null,
+                          "categoryName": "Composants de feu de recul",
+                          "level": 6,
+                          "children": {
+                            "Disperseur, feu de recul": {
+                              "categoryId": 101741,
+                              "categoryName": "Reverse Light Parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 96
+                            }
+                          }
+                        }
+                      },
+                      "productId": 96
+                    }
+                  }
+                }
+              },
+              "productId": 96
+            }
+          }
+        },
+        "Feux": {
+          "categoryId": null,
+          "categoryName": "Feux",
+          "level": 2,
+          "children": {
+            "Disperseur, feu de recul": {
+              "categoryId": 101407,
+              "categoryName": "Lights",
+              "level": 2,
+              "children": {
+                "Feu de recul / composants": {
+                  "categoryId": null,
+                  "categoryName": "Feu de recul / composants",
+                  "level": 4,
+                  "children": {
+                    "Disperseur, feu de recul": {
+                      "categoryId": 101432,
+                      "categoryName": "Reverse Light/Parts",
+                      "level": 3,
+                      "children": {
+                        "Composants de feu de recul": {
+                          "categoryId": null,
+                          "categoryName": "Composants de feu de recul",
+                          "level": 6,
+                          "children": {
+                            "Disperseur, feu de recul": {
+                              "categoryId": 101434,
+                              "categoryName": "Reverse Light Parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 96
+                            }
+                          }
+                        }
+                      },
+                      "productId": 96
+                    }
+                  }
+                }
+              },
+              "productId": 96
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Feux": {
+          "categoryId": null,
+          "categoryName": "Feux",
+          "level": 2,
+          "children": {
+            "Disperseur, feu de recul": {
+              "categoryId": 100043,
+              "categoryName": "Lights",
+              "level": 2,
+              "children": {
+                "Feu de recul / composants": {
+                  "categoryId": null,
+                  "categoryName": "Feu de recul / composants",
+                  "level": 4,
+                  "children": {
+                    "Disperseur, feu de recul": {
+                      "categoryId": 100287,
+                      "categoryName": "Reverse Light/Parts",
+                      "level": 3,
+                      "children": {
+                        "Composants de feu de recul": {
+                          "categoryId": null,
+                          "categoryName": "Composants de feu de recul",
+                          "level": 6,
+                          "children": {
+                            "Disperseur, feu de recul": {
+                              "categoryId": 100486,
+                              "categoryName": "Reverse Light Parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 96
+                            }
+                          }
+                        }
+                      },
+                      "productId": 96
+                    }
+                  }
+                }
+              },
+              "productId": 96
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carrosserie [ID: 100001] (Niveau 1)\n│   ├── Arrière de la voiture (Niveau 2)\n│   │   └── Vehicle Rear [ID: 101705] (Niveau 2) → ProductId: 96\n│   │       └── Feu de recul / composants (Niveau 4)\n│   │           └── Reverse Light/Parts [ID: 101739] (Niveau 3) → ProductId: 96\n│   │               └── Composants de feu de recul (Niveau 6)\n│   │                   └── Reverse Light Parts [ID: 101741] (Niveau 4) → ProductId: 96\n│   └── Feux (Niveau 2)\n│       └── Lights [ID: 101407] (Niveau 2) → ProductId: 96\n│           └── Feu de recul / composants (Niveau 4)\n│               └── Reverse Light/Parts [ID: 101432] (Niveau 3) → ProductId: 96\n│                   └── Composants de feu de recul (Niveau 6)\n│                       └── Reverse Light Parts [ID: 101434] (Niveau 4) → ProductId: 96\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Feux (Niveau 2)\n        └── Lights [ID: 100043] (Niveau 2) → ProductId: 96\n            └── Feu de recul / composants (Niveau 4)\n                └── Reverse Light/Parts [ID: 100287] (Niveau 3) → ProductId: 96\n                    └── Composants de feu de recul (Niveau 6)\n                        └── Reverse Light Parts [ID: 100486] (Niveau 4) → ProductId: 96",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Vehicle Rear"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101705
+      ],
+      "finalCategoryId": 101705,
+      "productId": 96
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Feux",
+        "Lights"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101407
+      ],
+      "finalCategoryId": 101407,
+      "productId": 96
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Lights"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100043
+      ],
+      "finalCategoryId": 100043,
+      "productId": 96
+    }
+  ],
+  "productIdsInArbo": [
+    96
+  ],
+  "matchedProductIds": [
+    96
+  ]
+}

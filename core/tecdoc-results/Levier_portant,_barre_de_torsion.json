@@ -1,0 +1,54 @@
+{
+  "productName": "Levier portant, barre de torsion",
+  "searchText": "Levier portant, barre de torsion",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:11:53.910Z",
+  "productId": 3705,
+  "arborescence": {
+    "Suspension/Amortissement": {
+      "categoryId": 100011,
+      "categoryName": "Suspension/Amortissement",
+      "level": 1,
+      "children": {
+        "Suspension": {
+          "categoryId": null,
+          "categoryName": "Suspension",
+          "level": 2,
+          "children": {
+            "Levier portant, barre de torsion": {
+              "categoryId": 100113,
+              "categoryName": "Coil Springs",
+              "level": 2,
+              "children": [],
+              "productId": 3705
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Suspension/Amortissement [ID: 100011] (Niveau 1)\n    └── Suspension (Niveau 2)\n        └── Coil Springs [ID: 100113] (Niveau 2) → ProductId: 3705",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Suspension",
+        "Coil Springs"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        100113
+      ],
+      "finalCategoryId": 100113,
+      "productId": 3705
+    }
+  ],
+  "productIdsInArbo": [
+    3705
+  ],
+  "matchedProductIds": [
+    3705
+  ]
+}

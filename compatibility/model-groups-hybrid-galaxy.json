@@ -1,0 +1,82 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.285Z",
+  "manufacturer": "GALAXY",
+  "countGroups": 5,
+  "groups": [
+    {
+      "manufacturerId": 6856,
+      "manufacturerName": "GALAXY",
+      "groupKey": "E5",
+      "displayName": "E5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45783,
+          "modelName": "E5",
+          "modelYearFrom": "2024-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6856,
+      "manufacturerName": "GALAXY",
+      "groupKey": "E8",
+      "displayName": "E8",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45073,
+          "modelName": "E8",
+          "modelYearFrom": "2024-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6856,
+      "manufacturerName": "GALAXY",
+      "groupKey": "L6",
+      "displayName": "L6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44820,
+          "modelName": "L6",
+          "modelYearFrom": "2023-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6856,
+      "manufacturerName": "GALAXY",
+      "groupKey": "L7",
+      "displayName": "L7",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44519,
+          "modelName": "L7",
+          "modelYearFrom": "2023-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6856,
+      "manufacturerName": "GALAXY",
+      "groupKey": "XINGYUAN",
+      "displayName": "XINGYUAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45961,
+          "modelName": "XINGYUAN",
+          "modelYearFrom": "2024-10-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

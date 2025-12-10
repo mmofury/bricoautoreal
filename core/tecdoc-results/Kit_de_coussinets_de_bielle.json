@@ -1,0 +1,84 @@
+{
+  "productName": "Kit de coussinets de bielle",
+  "searchText": "Kit de coussinets de bielle",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:59:30.104Z",
+  "productId": 6167,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Système bielle-manivelle": {
+          "categoryId": null,
+          "categoryName": "Système bielle-manivelle",
+          "level": 2,
+          "children": {
+            "Kit de coussinets de bielle": {
+              "categoryId": 100515,
+              "categoryName": "Crankshaft Drive",
+              "level": 2,
+              "children": {
+                "Bielle": {
+                  "categoryId": null,
+                  "categoryName": "Bielle",
+                  "level": 4,
+                  "children": {
+                    "Kit de coussinets de bielle": {
+                      "categoryId": 100519,
+                      "categoryName": "Connecting Rod",
+                      "level": 3,
+                      "children": {
+                        "Coussinet de bielle": {
+                          "categoryId": null,
+                          "categoryName": "Coussinet de bielle",
+                          "level": 6,
+                          "children": {
+                            "Kit de coussinets de bielle": {
+                              "categoryId": 100525,
+                              "categoryName": "Connecting Rod Bearing",
+                              "level": 4,
+                              "children": [],
+                              "productId": 6167
+                            }
+                          }
+                        }
+                      },
+                      "productId": 6167
+                    }
+                  }
+                }
+              },
+              "productId": 6167
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Système bielle-manivelle (Niveau 2)\n        └── Crankshaft Drive [ID: 100515] (Niveau 2) → ProductId: 6167\n            └── Bielle (Niveau 4)\n                └── Connecting Rod [ID: 100519] (Niveau 3) → ProductId: 6167\n                    └── Coussinet de bielle (Niveau 6)\n                        └── Connecting Rod Bearing [ID: 100525] (Niveau 4) → ProductId: 6167",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Crankshaft Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100515
+      ],
+      "finalCategoryId": 100515,
+      "productId": 6167
+    }
+  ],
+  "productIdsInArbo": [
+    6167
+  ],
+  "matchedProductIds": [
+    6167
+  ]
+}

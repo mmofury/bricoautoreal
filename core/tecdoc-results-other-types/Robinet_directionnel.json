@@ -1,0 +1,49 @@
+{
+  "productName": "Robinet directionnel",
+  "productId": 366,
+  "searchText": "Robinet directionnel",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Système pneumatique": {
+          "categoryId": 200059,
+          "categoryName": "Système pneumatique",
+          "level": 1,
+          "children": {
+            "Robinet d'arrêt / Robinet à plusieurs voies": {
+              "categoryId": null,
+              "categoryName": "Robinet d'arrêt / Robinet à plusieurs voies",
+              "level": 2,
+              "children": {
+                "Robinet directionnel": {
+                  "categoryId": 200920,
+                  "categoryName": "Shut-off Cock",
+                  "level": 2,
+                  "children": [],
+                  "productId": 366
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système pneumatique [ID: 200059] (Niveau 1)\n    └── Robinet d'arrêt / Robinet à plusieurs voies (Niveau 2)\n        └── Shut-off Cock [ID: 200920] (Niveau 2) → ProductId: 366",
+      "productIdsInArbo": [
+        366
+      ],
+      "matchedProductIds": [
+        366
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:26:02.404Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

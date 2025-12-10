@@ -1,0 +1,337 @@
+{
+  "productName": "Accumulateur de pression",
+  "searchText": "Accumulateur de pression",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T18:47:28.940Z",
+  "productId": 3897,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Pompe / accessoires": {
+          "categoryId": null,
+          "categoryName": "Pompe / accessoires",
+          "level": 2,
+          "children": {
+            "Accumulateur de pression, pression de carburant": {
+              "categoryId": 100251,
+              "categoryName": "Pump/Accessories",
+              "level": 2,
+              "children": {
+                "Accessoires/Composants": {
+                  "categoryId": null,
+                  "categoryName": "Accessoires/Composants",
+                  "level": 4,
+                  "children": {
+                    "Accumulateur de pression, pression de carburant": {
+                      "categoryId": 100718,
+                      "categoryName": "Accessories/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1303
+                    }
+                  }
+                }
+              },
+              "productId": 1303
+            }
+          }
+        }
+      }
+    },
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Accumulateur de pression": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Accumulateur de pression": {
+                  "categoryId": null,
+                  "categoryName": "Accumulateur de pression",
+                  "level": 4,
+                  "children": {
+                    "Accumulateur de pression": {
+                      "categoryId": 102797,
+                      "categoryName": "Pressure Accumulator",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3897
+                    }
+                  }
+                }
+              },
+              "productId": 3897
+            }
+          }
+        }
+      }
+    },
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Accumulateur de pression / pressostat": {
+          "categoryId": null,
+          "categoryName": "Accumulateur de pression / pressostat",
+          "level": 2,
+          "children": {
+            "Accumulateur de pression, freinage": {
+              "categoryId": 100382,
+              "categoryName": "Pressure Accumulator/Switch",
+              "level": 2,
+              "children": [],
+              "productId": 1064
+            },
+            "Accumulateur de pression, régulateur de contrôle dynamique": {
+              "categoryId": 100382,
+              "categoryName": "Pressure Accumulator/Switch",
+              "level": 2,
+              "children": [],
+              "productId": 1224
+            },
+            "Commutateur d'avertissement de différentiel de pression": {
+              "categoryId": 100382,
+              "categoryName": "Pressure Accumulator/Switch",
+              "level": 2,
+              "children": [],
+              "productId": 365
+            },
+            "Pressostat, hydraulique des freins": {
+              "categoryId": 100382,
+              "categoryName": "Pressure Accumulator/Switch",
+              "level": 2,
+              "children": [],
+              "productId": 2308
+            }
+          }
+        },
+        "Régulateur de freinage": {
+          "categoryId": null,
+          "categoryName": "Régulateur de freinage",
+          "level": 2,
+          "children": {
+            "Commutateur d'avertissement de différentiel de pression": {
+              "categoryId": 100037,
+              "categoryName": "Brake Force Regulator",
+              "level": 2,
+              "children": [],
+              "productId": 365
+            }
+          }
+        }
+      }
+    },
+    "Embrayage / composants": {
+      "categoryId": 100050,
+      "categoryName": "Embrayage / composants",
+      "level": 1,
+      "children": {
+        "Commande d'embrayage": {
+          "categoryId": null,
+          "categoryName": "Commande d'embrayage",
+          "level": 2,
+          "children": {
+            "Accumulateur de pression, embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Accumulateur de pression": {
+                  "categoryId": null,
+                  "categoryName": "Accumulateur de pression",
+                  "level": 4,
+                  "children": {
+                    "Accumulateur de pression, embrayage": {
+                      "categoryId": 102673,
+                      "categoryName": "Pressure Accumulator",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3686
+                    }
+                  }
+                }
+              },
+              "productId": 3686
+            }
+          }
+        }
+      }
+    },
+    "Suspension/Amortissement": {
+      "categoryId": 100011,
+      "categoryName": "Suspension/Amortissement",
+      "level": 1,
+      "children": {
+        "Correcteur d'assiette / suspension pneumatique": {
+          "categoryId": null,
+          "categoryName": "Correcteur d'assiette / suspension pneumatique",
+          "level": 2,
+          "children": {
+            "Accumulateur de pression, suspension/amortissement": {
+              "categoryId": 100340,
+              "categoryName": "Level Control/Suspension Hydraulics",
+              "level": 2,
+              "children": [],
+              "productId": 1718
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Alimentation carburant [ID: 100214] (Niveau 1)\n│   └── Pompe / accessoires (Niveau 2)\n│       └── Pump/Accessories [ID: 100251] (Niveau 2) → ProductId: 1303\n│           └── Accessoires/Composants (Niveau 4)\n│               └── Accessories/Parts [ID: 100718] (Niveau 3) → ProductId: 1303\n\n├── Carburation [ID: 100254] (Niveau 1)\n│   └── Mélange air-carburant (Niveau 2)\n│       └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 3897\n│           └── Accumulateur de pression (Niveau 4)\n│               └── Pressure Accumulator [ID: 102797] (Niveau 3) → ProductId: 3897\n\n├── Dispositif de freinage [ID: 100006] (Niveau 1)\n│   ├── Accumulateur de pression / pressostat (Niveau 2)\n│   │   ├── Pressure Accumulator/Switch [ID: 100382] (Niveau 2) → ProductId: 1064\n│   │   ├── Pressure Accumulator/Switch [ID: 100382] (Niveau 2) → ProductId: 1224\n│   │   ├── Pressure Accumulator/Switch [ID: 100382] (Niveau 2) → ProductId: 365\n│   │   └── Pressure Accumulator/Switch [ID: 100382] (Niveau 2) → ProductId: 2308\n│   └── Régulateur de freinage (Niveau 2)\n│       └── Brake Force Regulator [ID: 100037] (Niveau 2) → ProductId: 365\n\n├── Embrayage / composants [ID: 100050] (Niveau 1)\n│   └── Commande d'embrayage (Niveau 2)\n│       └── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 3686\n│           └── Accumulateur de pression (Niveau 4)\n│               └── Pressure Accumulator [ID: 102673] (Niveau 3) → ProductId: 3686\n\n└── Suspension/Amortissement [ID: 100011] (Niveau 1)\n    └── Correcteur d'assiette / suspension pneumatique (Niveau 2)\n        └── Level Control/Suspension Hydraulics [ID: 100340] (Niveau 2) → ProductId: 1718",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Pompe / accessoires",
+        "Pump/Accessories"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100251
+      ],
+      "finalCategoryId": 100251,
+      "productId": 1303
+    },
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 3897
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Accumulateur de pression / pressostat",
+        "Pressure Accumulator/Switch"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100382
+      ],
+      "finalCategoryId": 100382,
+      "productId": 1064
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Accumulateur de pression / pressostat",
+        "Pressure Accumulator/Switch"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100382
+      ],
+      "finalCategoryId": 100382,
+      "productId": 1224
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Accumulateur de pression / pressostat",
+        "Pressure Accumulator/Switch"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100382
+      ],
+      "finalCategoryId": 100382,
+      "productId": 365
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Accumulateur de pression / pressostat",
+        "Pressure Accumulator/Switch"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100382
+      ],
+      "finalCategoryId": 100382,
+      "productId": 2308
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Régulateur de freinage",
+        "Brake Force Regulator"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100037
+      ],
+      "finalCategoryId": 100037,
+      "productId": 365
+    },
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 3686
+    },
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Correcteur d'assiette / suspension pneumatique",
+        "Level Control/Suspension Hydraulics"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        100340
+      ],
+      "finalCategoryId": 100340,
+      "productId": 1718
+    }
+  ],
+  "productIdsInArbo": [
+    365,
+    1064,
+    1224,
+    1303,
+    1718,
+    2308,
+    3686,
+    3897
+  ],
+  "matchedProductIds": [
+    3897
+  ]
+}

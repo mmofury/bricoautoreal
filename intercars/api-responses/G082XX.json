@@ -1,0 +1,43 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G082XX",
+      "index": "712 2059 10",
+      "tecDoc": "712 2059 10",
+      "tecDocProd": "6",
+      "articleNumber": "712 2059 10",
+      "brand": "LUK",
+      "shortDescription": "Bearing, manual transmission",
+      "description": "Automatic transmission element (chain) fits: AUDI A4 B6, A4 B7, A6 C5, A6 C6, SEAT EXEO, EXEO ST 1.8 T/1.9 TDI/2.0/2.0 FSI/2.0 TDI/2.0 TDI 16V/2.0 TDI quattro/2.0 TFSI/2.0 TFSI 16V/2.5 TDI",
+      "gtuCode": "GTU_07",
+      "eans": [
+        "4014870552343"
+      ],
+      "packageWeight": "1,960",
+      "packageWidth": "40,000",
+      "packageDepth": "15,000",
+      "packageHeight": "6,000",
+      "customsCode": "87084099",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4099",
+          "primary": true,
+          "name": {
+            "en": "Bearing, manual transmission"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_9817",
+          "primary": false,
+          "name": {
+            "en": "Drive Chain, automatic transmission"
+          }
+        }
+      ]
+    }
+  ]
+}

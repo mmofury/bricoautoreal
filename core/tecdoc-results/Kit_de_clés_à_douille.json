@@ -1,0 +1,265 @@
+{
+  "productName": "Kit de clés à douille",
+  "searchText": "Kit de clés à douille",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T20:59:07.456Z",
+  "productId": 5840,
+  "arborescence": {
+    "Allumage / préchauffage": {
+      "categoryId": 100008,
+      "categoryName": "Allumage / préchauffage",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Kit de clés à douille, Bougie de préchauffage": {
+              "categoryId": 103139,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4528
+            }
+          }
+        }
+      }
+    },
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Kit de clés à cliquet, bride de transmission": {
+              "categoryId": 103157,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 9106
+            }
+          }
+        }
+      }
+    },
+    "Outils spéciaux": {
+      "categoryId": 706365,
+      "categoryName": "Outils spéciaux",
+      "level": 1,
+      "children": {
+        "Outils spéciaux entraînement d’essieu": {
+          "categoryId": null,
+          "categoryName": "Outils spéciaux entraînement d’essieu",
+          "level": 2,
+          "children": {
+            "Kit de clés à cliquet, bride de transmission": {
+              "categoryId": 706376,
+              "categoryName": "Special Tools, axle drive",
+              "level": 2,
+              "children": {
+                "Écrou cannelé": {
+                  "categoryId": null,
+                  "categoryName": "Écrou cannelé",
+                  "level": 4,
+                  "children": {
+                    "Kit de clés à cliquet, bride de transmission": {
+                      "categoryId": 706378,
+                      "categoryName": "Groove Nut",
+                      "level": 3,
+                      "children": [],
+                      "productId": 9106
+                    }
+                  }
+                }
+              },
+              "productId": 9106
+            }
+          }
+        },
+        "Outils spéciaux suspension/amortissement": {
+          "categoryId": null,
+          "categoryName": "Outils spéciaux suspension/amortissement",
+          "level": 2,
+          "children": {
+            "Kit de clés à douille, tige de vérin d’amortisseur": {
+              "categoryId": 706386,
+              "categoryName": "Suspension/Damping Special Tools",
+              "level": 2,
+              "children": {
+                "Amortisseurs": {
+                  "categoryId": null,
+                  "categoryName": "Amortisseurs",
+                  "level": 4,
+                  "children": {
+                    "Kit de clés à douille, tige de vérin d’amortisseur": {
+                      "categoryId": 706395,
+                      "categoryName": "Shock Absorber",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8539
+                    }
+                  }
+                }
+              },
+              "productId": 8539
+            }
+          }
+        }
+      }
+    },
+    "Suspension/Amortissement": {
+      "categoryId": 100011,
+      "categoryName": "Suspension/Amortissement",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Kit de clés à douille, tige de vérin d’amortisseur": {
+              "categoryId": 104406,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 8539
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Kit de clés à douille, Bougie de préchauffage": {
+              "categoryId": 103136,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4528
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Allumage / préchauffage [ID: 100008] (Niveau 1)\n│   └── Outils (Niveau 2)\n│       └── Tools [ID: 103139] (Niveau 2) → ProductId: 4528\n\n├── Boîte de vitesses [ID: 100238] (Niveau 1)\n│   └── Outils (Niveau 2)\n│       └── Tools [ID: 103157] (Niveau 2) → ProductId: 9106\n\n├── Outils spéciaux [ID: 706365] (Niveau 1)\n│   ├── Outils spéciaux entraînement d’essieu (Niveau 2)\n│   │   └── Special Tools, axle drive [ID: 706376] (Niveau 2) → ProductId: 9106\n│   │       └── Écrou cannelé (Niveau 4)\n│   │           └── Groove Nut [ID: 706378] (Niveau 3) → ProductId: 9106\n│   └── Outils spéciaux suspension/amortissement (Niveau 2)\n│       └── Suspension/Damping Special Tools [ID: 706386] (Niveau 2) → ProductId: 8539\n│           └── Amortisseurs (Niveau 4)\n│               └── Shock Absorber [ID: 706395] (Niveau 3) → ProductId: 8539\n\n├── Suspension/Amortissement [ID: 100011] (Niveau 1)\n│   └── Outils (Niveau 2)\n│       └── Tools [ID: 104406] (Niveau 2) → ProductId: 8539\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Outils (Niveau 2)\n        └── Tools [ID: 103136] (Niveau 2) → ProductId: 4528",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        103139
+      ],
+      "finalCategoryId": 103139,
+      "productId": 4528
+    },
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        103157
+      ],
+      "finalCategoryId": 103157,
+      "productId": 9106
+    },
+    {
+      "path": [
+        "Outils spéciaux",
+        "Outils spéciaux entraînement d’essieu",
+        "Special Tools, axle drive"
+      ],
+      "categoryIds": [
+        706365,
+        null,
+        706376
+      ],
+      "finalCategoryId": 706376,
+      "productId": 9106
+    },
+    {
+      "path": [
+        "Outils spéciaux",
+        "Outils spéciaux suspension/amortissement",
+        "Suspension/Damping Special Tools"
+      ],
+      "categoryIds": [
+        706365,
+        null,
+        706386
+      ],
+      "finalCategoryId": 706386,
+      "productId": 8539
+    },
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        104406
+      ],
+      "finalCategoryId": 104406,
+      "productId": 8539
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        103136
+      ],
+      "finalCategoryId": 103136,
+      "productId": 4528
+    }
+  ],
+  "productIdsInArbo": [
+    4528,
+    8539,
+    9106
+  ],
+  "closestProductIds": [
+    {
+      "productId": 4528,
+      "productName": "Kit de clés à douille, Bougie de préchauffage"
+    },
+    {
+      "productId": 8539,
+      "productName": "Kit de clés à douille, tige de vérin d’amortisseur"
+    },
+    {
+      "productId": 9106,
+      "productName": "Kit de clés à cliquet, bride de transmission"
+    }
+  ]
+}

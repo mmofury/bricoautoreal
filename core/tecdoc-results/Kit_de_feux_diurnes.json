@@ -1,0 +1,69 @@
+{
+  "productName": "Kit de feux diurnes",
+  "searchText": "Kit de feux diurnes",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:00:04.368Z",
+  "productId": 3232,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Feux": {
+          "categoryId": null,
+          "categoryName": "Feux",
+          "level": 2,
+          "children": {
+            "Kit de feux diurnes": {
+              "categoryId": 100043,
+              "categoryName": "Lights",
+              "level": 2,
+              "children": {
+                "Feu diurne": {
+                  "categoryId": null,
+                  "categoryName": "Feu diurne",
+                  "level": 4,
+                  "children": {
+                    "Kit de feux diurnes": {
+                      "categoryId": 100870,
+                      "categoryName": "Daytime Running Light",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3232
+                    }
+                  }
+                }
+              },
+              "productId": 3232
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Feux (Niveau 2)\n        └── Lights [ID: 100043] (Niveau 2) → ProductId: 3232\n            └── Feu diurne (Niveau 4)\n                └── Daytime Running Light [ID: 100870] (Niveau 3) → ProductId: 3232",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Lights"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100043
+      ],
+      "finalCategoryId": 100043,
+      "productId": 3232
+    }
+  ],
+  "productIdsInArbo": [
+    3232
+  ],
+  "matchedProductIds": [
+    3232
+  ]
+}

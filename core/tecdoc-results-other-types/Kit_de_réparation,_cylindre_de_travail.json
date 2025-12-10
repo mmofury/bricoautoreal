@@ -1,0 +1,64 @@
+{
+  "productName": "Kit de réparation, cylindre de travail",
+  "productId": 3486,
+  "searchText": "Kit de réparation, cylindre de travail",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Système pneumatique": {
+          "categoryId": 200059,
+          "categoryName": "Système pneumatique",
+          "level": 1,
+          "children": {
+            "Cylindres de frein/de travail": {
+              "categoryId": null,
+              "categoryName": "Cylindres de frein/de travail",
+              "level": 2,
+              "children": {
+                "Kit de réparation, cylindre de travail": {
+                  "categoryId": 200116,
+                  "categoryName": "Brake/Slave Cylinder",
+                  "level": 2,
+                  "children": {
+                    "Cylindre de travail": {
+                      "categoryId": null,
+                      "categoryName": "Cylindre de travail",
+                      "level": 4,
+                      "children": {
+                        "Kit de réparation, cylindre de travail": {
+                          "categoryId": 200503,
+                          "categoryName": "Slave Cylinder",
+                          "level": 3,
+                          "children": [],
+                          "productId": 3486
+                        }
+                      }
+                    }
+                  },
+                  "productId": 3486
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système pneumatique [ID: 200059] (Niveau 1)\n    └── Cylindres de frein/de travail (Niveau 2)\n        └── Brake/Slave Cylinder [ID: 200116] (Niveau 2) → ProductId: 3486\n            └── Cylindre de travail (Niveau 4)\n                └── Slave Cylinder [ID: 200503] (Niveau 3) → ProductId: 3486",
+      "productIdsInArbo": [
+        3486
+      ],
+      "matchedProductIds": [
+        3486
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:46:04.137Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

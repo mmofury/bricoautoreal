@@ -1,0 +1,49 @@
+{
+  "productName": "Rotules, bielle de connexion",
+  "productId": 3188,
+  "searchText": "Rotules, bielle de connexion",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Suspension des roues": {
+          "categoryId": 200061,
+          "categoryName": "Suspension des roues",
+          "level": 1,
+          "children": {
+            "Stabilisateur/accessoires": {
+              "categoryId": null,
+              "categoryName": "Stabilisateur/accessoires",
+              "level": 2,
+              "children": {
+                "Rotules, bielle de connexion": {
+                  "categoryId": 200467,
+                  "categoryName": "Stabiliser Bar/Fastening Parts",
+                  "level": 2,
+                  "children": [],
+                  "productId": 3188
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Suspension des roues [ID: 200061] (Niveau 1)\n    └── Stabilisateur/accessoires (Niveau 2)\n        └── Stabiliser Bar/Fastening Parts [ID: 200467] (Niveau 2) → ProductId: 3188",
+      "productIdsInArbo": [
+        3188
+      ],
+      "matchedProductIds": [
+        3188
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:26:43.660Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

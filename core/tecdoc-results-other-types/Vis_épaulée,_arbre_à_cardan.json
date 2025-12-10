@@ -1,0 +1,64 @@
+{
+  "productName": "Vis épaulée, arbre à cardan",
+  "productId": 3630,
+  "searchText": "Vis épaulée, arbre à cardan",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Entraînement des essieux": {
+          "categoryId": 200056,
+          "categoryName": "Entraînement des essieux",
+          "level": 1,
+          "children": {
+            "Arbre de transmission": {
+              "categoryId": null,
+              "categoryName": "Arbre de transmission",
+              "level": 2,
+              "children": {
+                "Vis épaulée, arbre à cardan": {
+                  "categoryId": 200973,
+                  "categoryName": "Propshaft",
+                  "level": 2,
+                  "children": {
+                    "Arbre de transmission": {
+                      "categoryId": null,
+                      "categoryName": "Arbre de transmission",
+                      "level": 4,
+                      "children": {
+                        "Vis épaulée, arbre à cardan": {
+                          "categoryId": 200974,
+                          "categoryName": "Propshaft",
+                          "level": 3,
+                          "children": [],
+                          "productId": 3630
+                        }
+                      }
+                    }
+                  },
+                  "productId": 3630
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Entraînement des essieux [ID: 200056] (Niveau 1)\n    └── Arbre de transmission (Niveau 2)\n        └── Propshaft [ID: 200973] (Niveau 2) → ProductId: 3630\n            └── Arbre de transmission (Niveau 4)\n                └── Propshaft [ID: 200974] (Niveau 3) → ProductId: 3630",
+      "productIdsInArbo": [
+        3630
+      ],
+      "matchedProductIds": [
+        3630
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:47:17.220Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

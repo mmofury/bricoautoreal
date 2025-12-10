@@ -1,0 +1,54 @@
+{
+  "productName": "Interrupteur, commande des freins (GRA)",
+  "searchText": "Interrupteur, commande des freins (GRA)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:47:10.387Z",
+  "productId": 9221,
+  "arborescence": {
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Régulateur de vitesse": {
+          "categoryId": null,
+          "categoryName": "Régulateur de vitesse",
+          "level": 2,
+          "children": {
+            "Interrupteur, commande des freins (GRA)": {
+              "categoryId": 100615,
+              "categoryName": "Cruise Control",
+              "level": 2,
+              "children": [],
+              "productId": 9221
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Systèmes de confort [ID: 100335] (Niveau 1)\n    └── Régulateur de vitesse (Niveau 2)\n        └── Cruise Control [ID: 100615] (Niveau 2) → ProductId: 9221",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Systèmes de confort",
+        "Régulateur de vitesse",
+        "Cruise Control"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        100615
+      ],
+      "finalCategoryId": 100615,
+      "productId": 9221
+    }
+  ],
+  "productIdsInArbo": [
+    9221
+  ],
+  "matchedProductIds": [
+    9221
+  ]
+}

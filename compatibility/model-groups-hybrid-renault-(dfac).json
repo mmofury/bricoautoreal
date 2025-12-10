@@ -1,0 +1,67 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.466Z",
+  "manufacturer": "RENAULT (DFAC)",
+  "countGroups": 4,
+  "groups": [
+    {
+      "manufacturerId": 4538,
+      "manufacturerName": "RENAULT (DFAC)",
+      "groupKey": "CAPTUR",
+      "displayName": "CAPTUR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40136,
+          "modelName": "CAPTUR",
+          "modelYearFrom": "2019-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4538,
+      "manufacturerName": "RENAULT (DFAC)",
+      "groupKey": "K",
+      "displayName": "K",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39508,
+          "modelName": "K-ZE",
+          "modelYearFrom": "2019-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4538,
+      "manufacturerName": "RENAULT (DFAC)",
+      "groupKey": "KADJAR",
+      "displayName": "KADJAR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36490,
+          "modelName": "KADJAR",
+          "modelYearFrom": "2016-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4538,
+      "manufacturerName": "RENAULT (DFAC)",
+      "groupKey": "KOLEOS",
+      "displayName": "KOLEOS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37332,
+          "modelName": "KOLEOS",
+          "modelYearFrom": "2016-11-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

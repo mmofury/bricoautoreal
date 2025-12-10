@@ -1,0 +1,221 @@
+{
+  "productName": "Ampoule, interrupteur",
+  "searchText": "Ampoule, interrupteur",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T18:50:27.454Z",
+  "productId": 3212,
+  "arborescence": {
+    "Chauffage / Ventilation": {
+      "categoryId": 100241,
+      "categoryName": "Chauffage / Ventilation",
+      "level": 1,
+      "children": {
+        "Éléments de commande": {
+          "categoryId": null,
+          "categoryName": "Éléments de commande",
+          "level": 2,
+          "children": {
+            "Ampoule, interrupteur du pulseur d'air d'habitacle": {
+              "categoryId": 100726,
+              "categoryName": "Actuators",
+              "level": 2,
+              "children": [],
+              "productId": 3000
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Feux": {
+          "categoryId": null,
+          "categoryName": "Feux",
+          "level": 2,
+          "children": {
+            "Ampoule, interrupteur du pulseur d'air d'habitacle": {
+              "categoryId": 100043,
+              "categoryName": "Lights",
+              "level": 2,
+              "children": {
+                "Éclairage intérieur": {
+                  "categoryId": null,
+                  "categoryName": "Éclairage intérieur",
+                  "level": 4,
+                  "children": {
+                    "Ampoule, interrupteur du pulseur d'air d'habitacle": {
+                      "categoryId": 100292,
+                      "categoryName": "Interior Lights",
+                      "level": 3,
+                      "children": {
+                        "Éclairage des instruments et des commandes": {
+                          "categoryId": null,
+                          "categoryName": "Éclairage des instruments et des commandes",
+                          "level": 6,
+                          "children": {
+                            "Ampoule, interrupteur du pulseur d'air d'habitacle": {
+                              "categoryId": 100508,
+                              "categoryName": "Lighting Controls",
+                              "level": 4,
+                              "children": [],
+                              "productId": 3000
+                            }
+                          }
+                        }
+                      },
+                      "productId": 3000
+                    }
+                  }
+                }
+              },
+              "productId": 3000
+            },
+            "Ampoule, interrupteur principal d'éclairage": {
+              "categoryId": 100043,
+              "categoryName": "Lights",
+              "level": 2,
+              "children": {
+                "Éclairage intérieur": {
+                  "categoryId": null,
+                  "categoryName": "Éclairage intérieur",
+                  "level": 4,
+                  "children": {
+                    "Ampoule, interrupteur principal d'éclairage": {
+                      "categoryId": 100292,
+                      "categoryName": "Interior Lights",
+                      "level": 3,
+                      "children": {
+                        "Éclairage des instruments et des commandes": {
+                          "categoryId": null,
+                          "categoryName": "Éclairage des instruments et des commandes",
+                          "level": 6,
+                          "children": {
+                            "Ampoule, interrupteur principal d'éclairage": {
+                              "categoryId": 100508,
+                              "categoryName": "Lighting Controls",
+                              "level": 4,
+                              "children": [],
+                              "productId": 2997
+                            }
+                          }
+                        }
+                      },
+                      "productId": 2997
+                    }
+                  }
+                }
+              },
+              "productId": 2997
+            }
+          }
+        },
+        "Interrupteur/Relais/Contrôle clignotant/Appareil d.commande": {
+          "categoryId": null,
+          "categoryName": "Interrupteur/Relais/Contrôle clignotant/Appareil d.commande",
+          "level": 2,
+          "children": {
+            "Ampoule, interrupteur principal d'éclairage": {
+              "categoryId": 100307,
+              "categoryName": "Light Switches/Relays/Controls",
+              "level": 2,
+              "children": {
+                "Interrupteur / régulateur": {
+                  "categoryId": null,
+                  "categoryName": "Interrupteur / régulateur",
+                  "level": 4,
+                  "children": {
+                    "Ampoule, interrupteur principal d'éclairage": {
+                      "categoryId": 100509,
+                      "categoryName": "Light Switch/ Lever",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2997
+                    }
+                  }
+                }
+              },
+              "productId": 2997
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Chauffage / Ventilation [ID: 100241] (Niveau 1)\n│   └── Éléments de commande (Niveau 2)\n│       └── Actuators [ID: 100726] (Niveau 2) → ProductId: 3000\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    ├── Feux (Niveau 2)\n    │   ├── Lights [ID: 100043] (Niveau 2) → ProductId: 3000\n    │   │   └── Éclairage intérieur (Niveau 4)\n    │   │       └── Interior Lights [ID: 100292] (Niveau 3) → ProductId: 3000\n    │   │           └── Éclairage des instruments et des commandes (Niveau 6)\n    │   │               └── Lighting Controls [ID: 100508] (Niveau 4) → ProductId: 3000\n    │   └── Lights [ID: 100043] (Niveau 2) → ProductId: 2997\n    │       └── Éclairage intérieur (Niveau 4)\n    │           └── Interior Lights [ID: 100292] (Niveau 3) → ProductId: 2997\n    │               └── Éclairage des instruments et des commandes (Niveau 6)\n    │                   └── Lighting Controls [ID: 100508] (Niveau 4) → ProductId: 2997\n    └── Interrupteur/Relais/Contrôle clignotant/Appareil d.commande (Niveau 2)\n        └── Light Switches/Relays/Controls [ID: 100307] (Niveau 2) → ProductId: 2997\n            └── Interrupteur / régulateur (Niveau 4)\n                └── Light Switch/ Lever [ID: 100509] (Niveau 3) → ProductId: 2997",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Chauffage / Ventilation",
+        "Éléments de commande",
+        "Actuators"
+      ],
+      "categoryIds": [
+        100241,
+        null,
+        100726
+      ],
+      "finalCategoryId": 100726,
+      "productId": 3000
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Lights"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100043
+      ],
+      "finalCategoryId": 100043,
+      "productId": 3000
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Feux",
+        "Lights"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100043
+      ],
+      "finalCategoryId": 100043,
+      "productId": 2997
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Interrupteur/Relais/Contrôle clignotant/Appareil d.commande",
+        "Light Switches/Relays/Controls"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100307
+      ],
+      "finalCategoryId": 100307,
+      "productId": 2997
+    }
+  ],
+  "productIdsInArbo": [
+    2997,
+    3000
+  ],
+  "closestProductIds": [
+    {
+      "productId": 2997,
+      "productName": "Ampoule, interrupteur principal d'éclairage"
+    },
+    {
+      "productId": 3000,
+      "productName": "Ampoule, interrupteur du pulseur d'air d'habitacle"
+    }
+  ]
+}

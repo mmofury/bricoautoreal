@@ -1,0 +1,184 @@
+{
+  "productName": "Interrupteur des feux de freins",
+  "searchText": "Interrupteur des feux de freins",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:46:32.946Z",
+  "productId": 806,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Interrupteur des feux de freins": {
+          "categoryId": null,
+          "categoryName": "Interrupteur des feux de freins",
+          "level": 2,
+          "children": {
+            "Adaptateur, interrupteur des feux de freins": {
+              "categoryId": 102248,
+              "categoryName": "Stop Light Switch",
+              "level": 2,
+              "children": [],
+              "productId": 5016
+            },
+            "Interrupteur des feux de freins": {
+              "categoryId": 102248,
+              "categoryName": "Stop Light Switch",
+              "level": 2,
+              "children": [],
+              "productId": 806
+            },
+            "Kit réparation de câble, commutateur feu stop": {
+              "categoryId": 102248,
+              "categoryName": "Stop Light Switch",
+              "level": 2,
+              "children": [],
+              "productId": 9381
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Interrupteur/Relais/Contrôle clignotant/Appareil d.commande": {
+          "categoryId": null,
+          "categoryName": "Interrupteur/Relais/Contrôle clignotant/Appareil d.commande",
+          "level": 2,
+          "children": {
+            "Interrupteur des feux de freins": {
+              "categoryId": 100307,
+              "categoryName": "Light Switches/Relays/Controls",
+              "level": 2,
+              "children": {
+                "Interrupteur / régulateur": {
+                  "categoryId": null,
+                  "categoryName": "Interrupteur / régulateur",
+                  "level": 4,
+                  "children": {
+                    "Interrupteur des feux de freins": {
+                      "categoryId": 100509,
+                      "categoryName": "Light Switch/ Lever",
+                      "level": 3,
+                      "children": [],
+                      "productId": 806
+                    }
+                  }
+                }
+              },
+              "productId": 806
+            },
+            "Kit réparation de câble, commutateur feu stop": {
+              "categoryId": 100307,
+              "categoryName": "Light Switches/Relays/Controls",
+              "level": 2,
+              "children": {
+                "Interrupteur / régulateur": {
+                  "categoryId": null,
+                  "categoryName": "Interrupteur / régulateur",
+                  "level": 4,
+                  "children": {
+                    "Kit réparation de câble, commutateur feu stop": {
+                      "categoryId": 100509,
+                      "categoryName": "Light Switch/ Lever",
+                      "level": 3,
+                      "children": [],
+                      "productId": 9381
+                    }
+                  }
+                }
+              },
+              "productId": 9381
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Dispositif de freinage [ID: 100006] (Niveau 1)\n│   └── Interrupteur des feux de freins (Niveau 2)\n│       ├── Stop Light Switch [ID: 102248] (Niveau 2) → ProductId: 5016\n│       ├── Stop Light Switch [ID: 102248] (Niveau 2) → ProductId: 806\n│       └── Stop Light Switch [ID: 102248] (Niveau 2) → ProductId: 9381\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Interrupteur/Relais/Contrôle clignotant/Appareil d.commande (Niveau 2)\n        ├── Light Switches/Relays/Controls [ID: 100307] (Niveau 2) → ProductId: 806\n        │   └── Interrupteur / régulateur (Niveau 4)\n        │       └── Light Switch/ Lever [ID: 100509] (Niveau 3) → ProductId: 806\n        └── Light Switches/Relays/Controls [ID: 100307] (Niveau 2) → ProductId: 9381\n            └── Interrupteur / régulateur (Niveau 4)\n                └── Light Switch/ Lever [ID: 100509] (Niveau 3) → ProductId: 9381",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Interrupteur des feux de freins",
+        "Stop Light Switch"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        102248
+      ],
+      "finalCategoryId": 102248,
+      "productId": 5016
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Interrupteur des feux de freins",
+        "Stop Light Switch"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        102248
+      ],
+      "finalCategoryId": 102248,
+      "productId": 806
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Interrupteur des feux de freins",
+        "Stop Light Switch"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        102248
+      ],
+      "finalCategoryId": 102248,
+      "productId": 9381
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Interrupteur/Relais/Contrôle clignotant/Appareil d.commande",
+        "Light Switches/Relays/Controls"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100307
+      ],
+      "finalCategoryId": 100307,
+      "productId": 806
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Interrupteur/Relais/Contrôle clignotant/Appareil d.commande",
+        "Light Switches/Relays/Controls"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100307
+      ],
+      "finalCategoryId": 100307,
+      "productId": 9381
+    }
+  ],
+  "productIdsInArbo": [
+    806,
+    5016,
+    9381
+  ],
+  "matchedProductIds": [
+    806
+  ]
+}

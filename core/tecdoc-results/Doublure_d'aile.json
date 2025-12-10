@@ -1,0 +1,169 @@
+{
+  "productName": "Doublure d'aile",
+  "searchText": "Doublure d'aile",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:32:44.350Z",
+  "productId": 421,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Arrière de la voiture": {
+          "categoryId": null,
+          "categoryName": "Arrière de la voiture",
+          "level": 2,
+          "children": {
+            "Doublure d'aile": {
+              "categoryId": 101705,
+              "categoryName": "Vehicle Rear",
+              "level": 2,
+              "children": {
+                "Aile avant/composants": {
+                  "categoryId": null,
+                  "categoryName": "Aile avant/composants",
+                  "level": 4,
+                  "children": {
+                    "Doublure d'aile": {
+                      "categoryId": 101779,
+                      "categoryName": "Wing/parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 421
+                    }
+                  }
+                }
+              },
+              "productId": 421
+            }
+          }
+        },
+        "Avant du véhicule": {
+          "categoryId": null,
+          "categoryName": "Avant du véhicule",
+          "level": 2,
+          "children": {
+            "Doublure d'aile": {
+              "categoryId": 101648,
+              "categoryName": "Vehicle Front",
+              "level": 2,
+              "children": {
+                "Aile avant/composants": {
+                  "categoryId": null,
+                  "categoryName": "Aile avant/composants",
+                  "level": 4,
+                  "children": {
+                    "Doublure d'aile": {
+                      "categoryId": 101650,
+                      "categoryName": "Wing/parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 421
+                    }
+                  }
+                }
+              },
+              "productId": 421
+            }
+          }
+        },
+        "Pièces de carrosserie/ailes/pares-chocs": {
+          "categoryId": null,
+          "categoryName": "Pièces de carrosserie/ailes/pares-chocs",
+          "level": 2,
+          "children": {
+            "Doublure d'aile": {
+              "categoryId": 100743,
+              "categoryName": "Body Parts/Wing/Bumper",
+              "level": 2,
+              "children": {
+                "Aile avant/composants": {
+                  "categoryId": null,
+                  "categoryName": "Aile avant/composants",
+                  "level": 4,
+                  "children": {
+                    "Doublure d'aile": {
+                      "categoryId": 100185,
+                      "categoryName": "Wing/parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 421
+                    }
+                  }
+                },
+                "Passage de roue": {
+                  "categoryId": null,
+                  "categoryName": "Passage de roue",
+                  "level": 4,
+                  "children": {
+                    "Doublure d'aile": {
+                      "categoryId": 100165,
+                      "categoryName": "Wheelhouse",
+                      "level": 3,
+                      "children": [],
+                      "productId": 421
+                    }
+                  }
+                }
+              },
+              "productId": 421
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    ├── Arrière de la voiture (Niveau 2)\n    │   └── Vehicle Rear [ID: 101705] (Niveau 2) → ProductId: 421\n    │       └── Aile avant/composants (Niveau 4)\n    │           └── Wing/parts [ID: 101779] (Niveau 3) → ProductId: 421\n    ├── Avant du véhicule (Niveau 2)\n    │   └── Vehicle Front [ID: 101648] (Niveau 2) → ProductId: 421\n    │       └── Aile avant/composants (Niveau 4)\n    │           └── Wing/parts [ID: 101650] (Niveau 3) → ProductId: 421\n    └── Pièces de carrosserie/ailes/pares-chocs (Niveau 2)\n        └── Body Parts/Wing/Bumper [ID: 100743] (Niveau 2) → ProductId: 421\n            ├── Aile avant/composants (Niveau 4)\n            │   └── Wing/parts [ID: 100185] (Niveau 3) → ProductId: 421\n            └── Passage de roue (Niveau 4)\n                └── Wheelhouse [ID: 100165] (Niveau 3) → ProductId: 421",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Vehicle Rear"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101705
+      ],
+      "finalCategoryId": 101705,
+      "productId": 421
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Avant du véhicule",
+        "Vehicle Front"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101648
+      ],
+      "finalCategoryId": 101648,
+      "productId": 421
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Pièces de carrosserie/ailes/pares-chocs",
+        "Body Parts/Wing/Bumper"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100743
+      ],
+      "finalCategoryId": 100743,
+      "productId": 421
+    }
+  ],
+  "productIdsInArbo": [
+    421
+  ],
+  "matchedProductIds": [
+    421
+  ]
+}

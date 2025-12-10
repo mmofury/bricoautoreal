@@ -1,0 +1,69 @@
+{
+  "productName": "Thermostat, enrichissemt démarrage à froid",
+  "searchText": "Thermostat, enrichissemt démarrage à froid",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:25:49.679Z",
+  "productId": 4635,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Thermostat, enrichissemt démarrage à froid": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Réglage du ralenti/réglage de mise en température": {
+                  "categoryId": null,
+                  "categoryName": "Réglage du ralenti/réglage de mise en température",
+                  "level": 4,
+                  "children": {
+                    "Thermostat, enrichissemt démarrage à froid": {
+                      "categoryId": 102805,
+                      "categoryName": "Idle Control",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4635
+                    }
+                  }
+                }
+              },
+              "productId": 4635
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carburation [ID: 100254] (Niveau 1)\n    └── Mélange air-carburant (Niveau 2)\n        └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 4635\n            └── Réglage du ralenti/réglage de mise en température (Niveau 4)\n                └── Idle Control [ID: 102805] (Niveau 3) → ProductId: 4635",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 4635
+    }
+  ],
+  "productIdsInArbo": [
+    4635
+  ],
+  "matchedProductIds": [
+    4635
+  ]
+}

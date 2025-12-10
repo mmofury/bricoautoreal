@@ -1,0 +1,568 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.378Z",
+  "manufacturer": "LANCIA",
+  "countGroups": 25,
+  "groups": [
+    {
+      "manufacturerId": 64,
+      "manufacturerName": "LANCIA",
+      "groupKey": "A",
+      "displayName": "A",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 248,
+          "modelName": "A 112",
+          "modelYearFrom": "1978-03-01",
+          "modelYearTo": "1986-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 64,
+      "manufacturerName": "LANCIA",
+      "groupKey": "APPIA",
+      "displayName": "APPIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7569,
+          "modelName": "APPIA Berlina",
+          "modelYearFrom": "1959-03-01",
+          "modelYearTo": "1961-12-01"
+        },
+        {
+          "modelId": 7570,
+          "modelName": "APPIA Break",
+          "modelYearFrom": "1959-03-01",
+          "modelYearTo": "1961-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 64,
+      "manufacturerName": "LANCIA",
+      "groupKey": "ARDEA",
+      "displayName": "ARDEA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10058,
+          "modelName": "ARDEA Berlina",
+          "modelYearFrom": "1939-12-01",
+          "modelYearTo": "1952-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 64,
+      "manufacturerName": "LANCIA",
+      "groupKey": "AURELIA",
+      "displayName": "AURELIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7955,
+          "modelName": "AURELIA Berlina",
+          "modelYearFrom": "1950-01-01",
+          "modelYearTo": "1955-12-01"
+        },
+        {
+          "modelId": 7956,
+          "modelName": "AURELIA Coupé",
+          "modelYearFrom": "1951-01-01",
+          "modelYearTo": "1958-12-01"
+        },
+        {
+          "modelId": 7957,
+          "modelName": "AURELIA Spider",
+          "modelYearFrom": "1954-01-01",
+          "modelYearTo": "1955-12-01"
+        },
+        {
+          "modelId": 7958,
+          "modelName": "AURELIA Décapotable",
+          "modelYearFrom": "1956-01-01",
+          "modelYearTo": "1958-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 64,
+      "manufacturerName": "LANCIA",
+      "groupKey": "BETA",
+      "displayName": "BETA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 397,
+          "modelName": "BETA H.P.E. (828_)",
+          "modelYearFrom": "1976-05-01",
+          "modelYearTo": "1984-09-01"
+        },
+        {
+          "modelId": 1872,
+          "modelName": "BETA Coupé (828_)",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1984-12-01"
+        },
+        {
+          "modelId": 1873,
+          "modelName": "BETA MONTE CARLO (137_)",
+          "modelYearFrom": "1975-09-01",
+          "modelYearTo": "1983-10-01"
+        },
+        {
+          "modelId": 1876,
+          "modelName": "BETA Spider (828_)",
+          "modelYearFrom": "1975-05-01",
+          "modelYearTo": "1986-10-01"
+        },
+        {
+          "modelId": 4692,
+          "modelName": "BETA (828_)",
+          "modelYearFrom": "1973-08-01",
+          "modelYearTo": "1982-07-01"
+        },
+        {
+          "modelId": 32337,
+          "modelName": "BETA A trois volumes (828_)",
+          "modelYearFrom": "1975-09-01",
+          "modelYearTo": "1986-10-01"
+        },
+        {
+          "modelId": 32338,
+          "modelName": "BETA Break",
+          "modelYearFrom": "1975-09-01",
+          "modelYearTo": "1979-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 64,
+      "manufacturerName": "LANCIA",
+      "groupKey": "DEDRA",
+      "displayName": "DEDRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 254,
+          "modelName": "DEDRA (835_)",
+          "modelYearFrom": "1989-01-01",
+          "modelYearTo": "1999-07-01"
+        },
+        {
+          "modelId": 3465,
+          "modelName": "DEDRA SW (835_)",
+          "modelYearFrom": "1994-07-01",
+          "modelYearTo": "1999-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 64,
+      "manufacturerName": "LANCIA",
+      "groupKey": "DELTA",
+      "displayName": "DELTA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 261,
+          "modelName": "DELTA I (831_)",
+          "modelYearFrom": "1979-09-01",
+          "modelYearTo": "1994-01-01"
+        },
+        {
+          "modelId": 266,
+          "modelName": "DELTA II (836_)",
+          "modelYearFrom": "1993-06-01",
+          "modelYearTo": "1999-09-01"
+        },
+        {
+          "modelId": 7568,
+          "modelName": "DELTA III (844_)",
+          "modelYearFrom": "2008-08-01",
+          "modelYearTo": "2014-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 64,
+      "manufacturerName": "LANCIA",
+      "groupKey": "FLAMINIA",
+      "displayName": "FLAMINIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7959,
+          "modelName": "FLAMINIA Berlina",
+          "modelYearFrom": "1957-01-01",
+          "modelYearTo": "1970-12-01"
+        },
+        {
+          "modelId": 7960,
+          "modelName": "FLAMINIA Coupé",
+          "modelYearFrom": "1959-01-01",
+          "modelYearTo": "1969-12-01"
+        },
+        {
+          "modelId": 7961,
+          "modelName": "FLAMINIA GT",
+          "modelYearFrom": "1959-01-01",
+          "modelYearTo": "1969-12-01"
+        },
+        {
+          "modelId": 41033,
+          "modelName": "FLAMINIA Décapotable",
+          "modelYearFrom": "1963-01-01",
+          "modelYearTo": "1969-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 64,
+      "manufacturerName": "LANCIA",
+      "groupKey": "FLAVIA",
+      "displayName": "FLAVIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7962,
+          "modelName": "FLAVIA Berlina",
+          "modelYearFrom": "1960-11-01",
+          "modelYearTo": "1966-12-01"
+        },
+        {
+          "modelId": 7963,
+          "modelName": "FLAVIA Coupé",
+          "modelYearFrom": "1961-01-01",
+          "modelYearTo": "1971-12-01"
+        },
+        {
+          "modelId": 7964,
+          "modelName": "FLAVIA Berlina",
+          "modelYearFrom": "1967-05-01",
+          "modelYearTo": "1970-12-01"
+        },
+        {
+          "modelId": 7965,
+          "modelName": "FLAVIA Berlina",
+          "modelYearFrom": "1971-05-01",
+          "modelYearTo": "1974-12-01"
+        },
+        {
+          "modelId": 7966,
+          "modelName": "FLAVIA Coupé",
+          "modelYearFrom": "1971-05-01",
+          "modelYearTo": "1973-12-01"
+        },
+        {
+          "modelId": 10309,
+          "modelName": "FLAVIA Décapotable (JS_)",
+          "modelYearFrom": "2012-03-01",
+          "modelYearTo": "2014-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 64,
+      "manufacturerName": "LANCIA",
+      "groupKey": "FULVIA",
+      "displayName": "FULVIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1878,
+          "modelName": "FULVIA Coupé (818_)",
+          "modelYearFrom": "1965-01-01",
+          "modelYearTo": "1976-12-01"
+        },
+        {
+          "modelId": 7970,
+          "modelName": "FULVIA Berlina",
+          "modelYearFrom": "1964-11-01",
+          "modelYearTo": "1969-12-01"
+        },
+        {
+          "modelId": 7971,
+          "modelName": "FULVIA Berlina (818_)",
+          "modelYearFrom": "1969-12-01",
+          "modelYearTo": "1975-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 64,
+      "manufacturerName": "LANCIA",
+      "groupKey": "GAMMA",
+      "displayName": "GAMMA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1877,
+          "modelName": "GAMMA (830_)",
+          "modelYearFrom": "1978-03-01",
+          "modelYearTo": "1986-10-01"
+        },
+        {
+          "modelId": 1879,
+          "modelName": "GAMMA Coupé (830_)",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1986-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 64,
+      "manufacturerName": "LANCIA",
+      "groupKey": "KAPPA",
+      "displayName": "KAPPA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 190,
+          "modelName": "KAPPA (838_)",
+          "modelYearFrom": "1994-08-01",
+          "modelYearTo": "2001-10-01"
+        },
+        {
+          "modelId": 1893,
+          "modelName": "KAPPA SW (838_)",
+          "modelYearFrom": "1996-07-01",
+          "modelYearTo": "2001-10-01"
+        },
+        {
+          "modelId": 1894,
+          "modelName": "KAPPA Coupé (838_)",
+          "modelYearFrom": "1996-07-01",
+          "modelYearTo": "2001-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 64,
+      "manufacturerName": "LANCIA",
+      "groupKey": "LYBRA",
+      "displayName": "LYBRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4135,
+          "modelName": "LYBRA (839_)",
+          "modelYearFrom": "1999-07-01",
+          "modelYearTo": "2005-10-01"
+        },
+        {
+          "modelId": 4136,
+          "modelName": "LYBRA SW (839_)",
+          "modelYearFrom": "1999-07-01",
+          "modelYearTo": "2005-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 64,
+      "manufacturerName": "LANCIA",
+      "groupKey": "MUSA",
+      "displayName": "MUSA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5163,
+          "modelName": "MUSA (350_)",
+          "modelYearFrom": "2004-10-01",
+          "modelYearTo": "2012-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 64,
+      "manufacturerName": "LANCIA",
+      "groupKey": "PHEDRA",
+      "displayName": "PHEDRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4918,
+          "modelName": "PHEDRA (179_)",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": "2010-11-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 64,
+      "manufacturerName": "LANCIA",
+      "groupKey": "PRISMA",
+      "displayName": "PRISMA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 451,
+          "modelName": "PRISMA (831_)",
+          "modelYearFrom": "1983-01-01",
+          "modelYearTo": "1992-02-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 64,
+      "manufacturerName": "LANCIA",
+      "groupKey": "THEMA",
+      "displayName": "THEMA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 391,
+          "modelName": "THEMA (834_)",
+          "modelYearFrom": "1984-11-01",
+          "modelYearTo": "1994-07-01"
+        },
+        {
+          "modelId": 395,
+          "modelName": "THEMA SW (834_)",
+          "modelYearFrom": "1987-03-01",
+          "modelYearTo": "1994-07-01"
+        },
+        {
+          "modelId": 9732,
+          "modelName": "THEMA (LX_)",
+          "modelYearFrom": "2011-09-01",
+          "modelYearTo": "2014-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 64,
+      "manufacturerName": "LANCIA",
+      "groupKey": "THESIS",
+      "displayName": "THESIS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4788,
+          "modelName": "THESIS (841_)",
+          "modelYearFrom": "2002-07-01",
+          "modelYearTo": "2009-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 64,
+      "manufacturerName": "LANCIA",
+      "groupKey": "TREVI",
+      "displayName": "TREVI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 401,
+          "modelName": "TREVI (828_)",
+          "modelYearFrom": "1980-05-01",
+          "modelYearTo": "1987-01-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 64,
+      "manufacturerName": "LANCIA",
+      "groupKey": "VOYAGER",
+      "displayName": "VOYAGER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9733,
+          "modelName": "VOYAGER Monospace (404_)",
+          "modelYearFrom": "2011-09-01",
+          "modelYearTo": "2014-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 64,
+      "manufacturerName": "LANCIA",
+      "groupKey": "Y",
+      "displayName": "Y",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4050,
+          "modelName": "Y (840_)",
+          "modelYearFrom": "1995-11-01",
+          "modelYearTo": "2003-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 64,
+      "manufacturerName": "LANCIA",
+      "groupKey": "Y10",
+      "displayName": "Y10",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3991,
+          "modelName": "Y10 (156_)",
+          "modelYearFrom": "1985-03-01",
+          "modelYearTo": "1995-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 64,
+      "manufacturerName": "LANCIA",
+      "groupKey": "YPSILON",
+      "displayName": "YPSILON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5022,
+          "modelName": "YPSILON (843_)",
+          "modelYearFrom": "2003-10-01",
+          "modelYearTo": "2011-12-01"
+        },
+        {
+          "modelId": 9612,
+          "modelName": "YPSILON (312_)",
+          "modelYearFrom": "2011-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45206,
+          "modelName": "YPSILON (L21)",
+          "modelYearFrom": "2024-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 64,
+      "manufacturerName": "LANCIA",
+      "groupKey": "ZAGATO",
+      "displayName": "ZAGATO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32339,
+          "modelName": "ZAGATO Décapotable",
+          "modelYearFrom": "1978-09-01",
+          "modelYearTo": "1982-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 64,
+      "manufacturerName": "LANCIA",
+      "groupKey": "ZETA",
+      "displayName": "ZETA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1462,
+          "modelName": "ZETA (22_)",
+          "modelYearFrom": "1995-05-01",
+          "modelYearTo": "2003-10-01"
+        }
+      ]
+    }
+  ]
+}

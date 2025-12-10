@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "A95265",
+      "index": "99 583 05,00 92",
+      "tecDoc": "99583050092",
+      "tecDocProd": "264",
+      "articleNumber": "99583050092",
+      "brand": "BERAL",
+      "shortDescription": "Other air-operated tools",
+      "description": "BERAL basis riveting pneumatic rivet 5mm",
+      "customsCode": "68138100",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_60561",
+          "primary": false,
+          "name": {
+            "en": "Riveting machine"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91711",
+          "primary": true,
+          "name": {
+            "en": "Other air-operated tools"
+          }
+        }
+      ]
+    }
+  ]
+}

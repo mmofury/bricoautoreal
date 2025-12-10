@@ -1,0 +1,54 @@
+{
+  "productName": "Support, conduite de frein",
+  "searchText": "Support, conduite de frein",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:21:08.987Z",
+  "productId": 1101,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Conduites de frein": {
+          "categoryId": null,
+          "categoryName": "Conduites de frein",
+          "level": 2,
+          "children": {
+            "Support, conduite de frein": {
+              "categoryId": 100036,
+              "categoryName": "Brake Lines",
+              "level": 2,
+              "children": [],
+              "productId": 1101
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif de freinage [ID: 100006] (Niveau 1)\n    └── Conduites de frein (Niveau 2)\n        └── Brake Lines [ID: 100036] (Niveau 2) → ProductId: 1101",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Conduites de frein",
+        "Brake Lines"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100036
+      ],
+      "finalCategoryId": 100036,
+      "productId": 1101
+    }
+  ],
+  "productIdsInArbo": [
+    1101
+  ],
+  "matchedProductIds": [
+    1101
+  ]
+}

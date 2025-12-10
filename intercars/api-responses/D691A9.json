@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "D691A9",
+      "index": "3.60161",
+      "tecDoc": "3.60161",
+      "tecDocProd": "355",
+      "articleNumber": "3.60161",
+      "brand": "DT SPARE PARTS",
+      "shortDescription": "Washer",
+      "description": "Washer flexible (6)",
+      "eans": [
+        "4057795253841"
+      ],
+      "packageWeight": "0,002",
+      "packageWidth": "1,000",
+      "packageDepth": "1,000",
+      "packageHeight": "0,500",
+      "customsCode": "84828000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1222",
+          "primary": true,
+          "name": {
+            "en": "Washer"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_2304",
+          "primary": false,
+          "name": {
+            "en": "Springwasher"
+          }
+        }
+      ]
+    }
+  ]
+}

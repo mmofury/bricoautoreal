@@ -1,0 +1,139 @@
+{
+  "productName": "Capteur, température des gaz",
+  "searchText": "Capteur, température des gaz",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:17:01.223Z",
+  "productId": 3938,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Capteur, température des gaz": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Capteur/sonde lambda": {
+                  "categoryId": null,
+                  "categoryName": "Capteur/sonde lambda",
+                  "level": 4,
+                  "children": {
+                    "Capteur, température des gaz": {
+                      "categoryId": 102809,
+                      "categoryName": "Sensor/Probe",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3938
+                    }
+                  }
+                }
+              },
+              "productId": 3938
+            }
+          }
+        }
+      }
+    },
+    "Échappement": {
+      "categoryId": 100004,
+      "categoryName": "Échappement",
+      "level": 1,
+      "children": {
+        "Capteur/sonde lambda": {
+          "categoryId": null,
+          "categoryName": "Capteur/sonde lambda",
+          "level": 2,
+          "children": {
+            "Capteur, température des gaz": {
+              "categoryId": 103414,
+              "categoryName": "Sensor/Probe",
+              "level": 2,
+              "children": [],
+              "productId": 3938
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Capteurs": {
+          "categoryId": null,
+          "categoryName": "Capteurs",
+          "level": 2,
+          "children": {
+            "Capteur, température des gaz": {
+              "categoryId": 102747,
+              "categoryName": "Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 3938
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carburation [ID: 100254] (Niveau 1)\n│   └── Mélange air-carburant (Niveau 2)\n│       └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 3938\n│           └── Capteur/sonde lambda (Niveau 4)\n│               └── Sensor/Probe [ID: 102809] (Niveau 3) → ProductId: 3938\n\n├── Échappement [ID: 100004] (Niveau 1)\n│   └── Capteur/sonde lambda (Niveau 2)\n│       └── Sensor/Probe [ID: 103414] (Niveau 2) → ProductId: 3938\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Capteurs (Niveau 2)\n        └── Sensors [ID: 102747] (Niveau 2) → ProductId: 3938",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 3938
+    },
+    {
+      "path": [
+        "Échappement",
+        "Capteur/sonde lambda",
+        "Sensor/Probe"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        103414
+      ],
+      "finalCategoryId": 103414,
+      "productId": 3938
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Capteurs",
+        "Sensors"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        102747
+      ],
+      "finalCategoryId": 102747,
+      "productId": 3938
+    }
+  ],
+  "productIdsInArbo": [
+    3938
+  ],
+  "matchedProductIds": [
+    3938
+  ]
+}

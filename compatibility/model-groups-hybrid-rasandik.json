@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.461Z",
+  "manufacturer": "RASANDIK",
+  "countGroups": 1,
+  "groups": [
+    {
+      "manufacturerId": 5426,
+      "manufacturerName": "RASANDIK",
+      "groupKey": "CHIEF",
+      "displayName": "CHIEF",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40036,
+          "modelName": "CHIEF Threewheeler Convertible",
+          "modelYearFrom": "2008-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40457,
+          "modelName": "CHIEF Threewheeler Platform/Chassis",
+          "modelYearFrom": "2008-05-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

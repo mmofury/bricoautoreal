@@ -1,0 +1,100 @@
+{
+  "productName": "Rotule, barre de traction-capteur de course",
+  "productId": 3022,
+  "searchText": "Rotule, barre de traction-capteur de course",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Suspension/Amortissement": {
+          "categoryId": 200060,
+          "categoryName": "Suspension/Amortissement",
+          "level": 1,
+          "children": {
+            "Suspension sur ressorts à lames": {
+              "categoryId": null,
+              "categoryName": "Suspension sur ressorts à lames",
+              "level": 2,
+              "children": {
+                "Rotule, barre de traction-capteur de course": {
+                  "categoryId": 200424,
+                  "categoryName": "Leaf Spring Suspension",
+                  "level": 2,
+                  "children": {
+                    "Suspension de ressort / accessoires": {
+                      "categoryId": null,
+                      "categoryName": "Suspension de ressort / accessoires",
+                      "level": 4,
+                      "children": {
+                        "Rotule, barre de traction-capteur de course": {
+                          "categoryId": 200882,
+                          "categoryName": "Spring Mounting/ Parts",
+                          "level": 3,
+                          "children": [],
+                          "productId": 3022
+                        }
+                      }
+                    }
+                  },
+                  "productId": 3022
+                }
+              }
+            }
+          }
+        },
+        "Système pneumatique": {
+          "categoryId": 200059,
+          "categoryName": "Système pneumatique",
+          "level": 1,
+          "children": {
+            "Suspension pneumatique": {
+              "categoryId": null,
+              "categoryName": "Suspension pneumatique",
+              "level": 2,
+              "children": {
+                "Rotule, barre de traction-capteur de course": {
+                  "categoryId": 200506,
+                  "categoryName": "Air Suspension",
+                  "level": 2,
+                  "children": {
+                    "Soupape de ressort pneumatique": {
+                      "categoryId": null,
+                      "categoryName": "Soupape de ressort pneumatique",
+                      "level": 4,
+                      "children": {
+                        "Rotule, barre de traction-capteur de course": {
+                          "categoryId": 200554,
+                          "categoryName": "Air Spring Valve",
+                          "level": 3,
+                          "children": [],
+                          "productId": 3022
+                        }
+                      }
+                    }
+                  },
+                  "productId": 3022
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "├── Suspension/Amortissement [ID: 200060] (Niveau 1)\n│   └── Suspension sur ressorts à lames (Niveau 2)\n│       └── Leaf Spring Suspension [ID: 200424] (Niveau 2) → ProductId: 3022\n│           └── Suspension de ressort / accessoires (Niveau 4)\n│               └── Spring Mounting/ Parts [ID: 200882] (Niveau 3) → ProductId: 3022\n\n└── Système pneumatique [ID: 200059] (Niveau 1)\n    └── Suspension pneumatique (Niveau 2)\n        └── Air Suspension [ID: 200506] (Niveau 2) → ProductId: 3022\n            └── Soupape de ressort pneumatique (Niveau 4)\n                └── Air Spring Valve [ID: 200554] (Niveau 3) → ProductId: 3022",
+      "productIdsInArbo": [
+        3022
+      ],
+      "matchedProductIds": [
+        3022
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:26:40.323Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

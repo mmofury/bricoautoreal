@@ -1,0 +1,69 @@
+{
+  "productName": "Clip de fixation, insonorisation du capot",
+  "searchText": "Clip de fixation, insonorisation du capot",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:20:23.951Z",
+  "productId": 9190,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Trappes/capots/portes/toit coul./toit panoram./toit pliant": {
+          "categoryId": null,
+          "categoryName": "Trappes/capots/portes/toit coul./toit panoram./toit pliant",
+          "level": 2,
+          "children": {
+            "Clip de fixation, insonorisation du capot": {
+              "categoryId": 100746,
+              "categoryName": "Hatches/Bonnets/Doors/Sunroof/Panoramic Roof",
+              "level": 2,
+              "children": {
+                "Capot avant / composants / insonorisation": {
+                  "categoryId": null,
+                  "categoryName": "Capot avant / composants / insonorisation",
+                  "level": 4,
+                  "children": {
+                    "Clip de fixation, insonorisation du capot": {
+                      "categoryId": 100184,
+                      "categoryName": "Bonnet/Parts/Noise Insulation",
+                      "level": 3,
+                      "children": [],
+                      "productId": 9190
+                    }
+                  }
+                }
+              },
+              "productId": 9190
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    └── Trappes/capots/portes/toit coul./toit panoram./toit pliant (Niveau 2)\n        └── Hatches/Bonnets/Doors/Sunroof/Panoramic Roof [ID: 100746] (Niveau 2) → ProductId: 9190\n            └── Capot avant / composants / insonorisation (Niveau 4)\n                └── Bonnet/Parts/Noise Insulation [ID: 100184] (Niveau 3) → ProductId: 9190",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Trappes/capots/portes/toit coul./toit panoram./toit pliant",
+        "Hatches/Bonnets/Doors/Sunroof/Panoramic Roof"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100746
+      ],
+      "finalCategoryId": 100746,
+      "productId": 9190
+    }
+  ],
+  "productIdsInArbo": [
+    9190
+  ],
+  "matchedProductIds": [
+    9190
+  ]
+}

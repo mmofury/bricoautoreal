@@ -1,0 +1,43 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.508Z",
+  "manufacturer": "TEJA",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 5425,
+      "manufacturerName": "TEJA",
+      "groupKey": "HANDY",
+      "displayName": "HANDY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40037,
+          "modelName": "HANDY CARGO Camion plate-forme/Châssis",
+          "modelYearFrom": "2015-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40660,
+          "modelName": "HANDY PASSENGER Threewheeler Convertible",
+          "modelYearFrom": "2018-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5425,
+      "manufacturerName": "TEJA",
+      "groupKey": "SUPER",
+      "displayName": "SUPER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40661,
+          "modelName": "SUPER PASSENGER Threewheeler Convertible",
+          "modelYearFrom": "2018-01-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

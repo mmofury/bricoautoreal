@@ -1,0 +1,50 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "C0359D",
+      "index": "1.31342",
+      "tecDoc": "1.31342",
+      "tecDocProd": "355",
+      "articleNumber": "1.31342",
+      "brand": "DT SPARE PARTS",
+      "shortDescription": "Repair Kit, clutch release bearing",
+      "description": "Clutch release fork repair kit (for fork 1.13139) fits: SCANIA 4, G I, P I, R I, T 05.95-05.19",
+      "gtuCode": "GTU_07",
+      "eans": [
+        "4047755255817"
+      ],
+      "packageWeight": "1,140",
+      "packageWidth": "9,500",
+      "packageDepth": "3,500",
+      "packageHeight": "19,000",
+      "customsCode": "87089390",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3419",
+          "primary": false,
+          "name": {
+            "en": "Release Fork, clutch"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_60883",
+          "primary": false,
+          "name": {
+            "en": "Accessory kit, release fork"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_619",
+          "primary": true,
+          "name": {
+            "en": "Repair Kit, clutch release bearing"
+          }
+        }
+      ]
+    }
+  ]
+}

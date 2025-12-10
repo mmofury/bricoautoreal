@@ -1,0 +1,54 @@
+{
+  "productName": "Calculateur, transmission intégrale",
+  "searchText": "Calculateur, transmission intégrale",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:14:05.770Z",
+  "productId": 60558,
+  "arborescence": {
+    "Entraînement des essieux": {
+      "categoryId": 100400,
+      "categoryName": "Entraînement des essieux",
+      "level": 1,
+      "children": {
+        "Contrôle": {
+          "categoryId": null,
+          "categoryName": "Contrôle",
+          "level": 2,
+          "children": {
+            "Calculateur, transmission intégrale": {
+              "categoryId": 706520,
+              "categoryName": "Control Unit",
+              "level": 2,
+              "children": [],
+              "productId": 60558
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement des essieux [ID: 100400] (Niveau 1)\n    └── Contrôle (Niveau 2)\n        └── Control Unit [ID: 706520] (Niveau 2) → ProductId: 60558",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des essieux",
+        "Contrôle",
+        "Control Unit"
+      ],
+      "categoryIds": [
+        100400,
+        null,
+        706520
+      ],
+      "finalCategoryId": 706520,
+      "productId": 60558
+    }
+  ],
+  "productIdsInArbo": [
+    60558
+  ],
+  "matchedProductIds": [
+    60558
+  ]
+}

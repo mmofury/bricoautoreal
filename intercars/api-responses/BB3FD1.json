@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "BB3FD1",
+      "index": "V20-72-0412",
+      "tecDoc": "V20-72-0412",
+      "tecDocProd": "183",
+      "articleNumber": "V20-72-0412",
+      "brand": "VEMO",
+      "shortDescription": "Sensor, camshaft position",
+      "description": "Camshaft position sensor fits: BMW 3 (E36), 5 (E34), 7 (E32), 7 (E38), 8 (E31), Z3 (E36) 1.6-4.0 01.92-11.01",
+      "customsCode": "90328900",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_834",
+          "primary": false,
+          "name": {
+            "en": "Sensor, ignition pulse"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1402",
+          "primary": false,
+          "name": {
+            "en": "Sensor, engine speed"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3946",
+          "primary": true,
+          "name": {
+            "en": "Sensor, camshaft position"
+          }
+        }
+      ]
+    }
+  ]
+}

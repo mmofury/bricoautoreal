@@ -1,0 +1,83 @@
+{
+  "productName": "Conduite de radiateur d’huile, boîte automatique",
+  "searchText": "Conduite de radiateur d’huile, boîte automatique",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:23:53.912Z",
+  "productId": 8466,
+  "arborescence": {
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Boîte de vitesse automatique": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesse automatique",
+          "level": 2,
+          "children": {
+            "Conduite de radiateur d’huile, boîte automatique": {
+              "categoryId": 100240,
+              "categoryName": "Automatic Transmission",
+              "level": 2,
+              "children": {
+                "Contrôle / hydraulique": {
+                  "categoryId": null,
+                  "categoryName": "Contrôle / hydraulique",
+                  "level": 4,
+                  "children": {
+                    "Conduite de radiateur d’huile, boîte automatique": {
+                      "categoryId": 100776,
+                      "categoryName": "Transmission Control/Hydraulics",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8466
+                    }
+                  }
+                },
+                "Radiateur": {
+                  "categoryId": null,
+                  "categoryName": "Radiateur",
+                  "level": 4,
+                  "children": {
+                    "Conduite de radiateur d’huile, boîte automatique": {
+                      "categoryId": 103109,
+                      "categoryName": "Cooler",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8466
+                    }
+                  }
+                }
+              },
+              "productId": 8466
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Boîte de vitesses [ID: 100238] (Niveau 1)\n    └── Boîte de vitesse automatique (Niveau 2)\n        └── Automatic Transmission [ID: 100240] (Niveau 2) → ProductId: 8466\n            ├── Contrôle / hydraulique (Niveau 4)\n            │   └── Transmission Control/Hydraulics [ID: 100776] (Niveau 3) → ProductId: 8466\n            └── Radiateur (Niveau 4)\n                └── Cooler [ID: 103109] (Niveau 3) → ProductId: 8466",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesse automatique",
+        "Automatic Transmission"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        100240
+      ],
+      "finalCategoryId": 100240,
+      "productId": 8466
+    }
+  ],
+  "productIdsInArbo": [
+    8466
+  ],
+  "matchedProductIds": [
+    8466
+  ]
+}

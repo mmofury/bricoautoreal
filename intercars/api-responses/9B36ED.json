@@ -1,0 +1,40 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "9B36ED",
+      "index": "446 301 019 0",
+      "tecDoc": "4463010190",
+      "tecDocProd": "22",
+      "articleNumber": "4463010190",
+      "brand": "WABCO",
+      "shortDescription": "Diagnoscope and tester accessories",
+      "description": "WABCO ddatek device diagnostyczngo",
+      "gtuCode": "GTU_07",
+      "eans": [
+        "4057875192664"
+      ],
+      "packageWeight": "2,800",
+      "customsCode": "87083099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4268",
+          "primary": false,
+          "name": {
+            "en": "Storage Case, self-diagnosis unit"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91580",
+          "primary": true,
+          "name": {
+            "en": "Diagnoscope and tester accessories"
+          }
+        }
+      ]
+    }
+  ]
+}

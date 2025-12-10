@@ -1,0 +1,69 @@
+{
+  "productName": "Capteur, position neutre (boîte automatique)",
+  "searchText": "Capteur, position neutre (boîte automatique)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:16:15.409Z",
+  "productId": 60606,
+  "arborescence": {
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Boîte de vitesse automatique": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesse automatique",
+          "level": 2,
+          "children": {
+            "Capteur, position neutre (boîte automatique)": {
+              "categoryId": 100240,
+              "categoryName": "Automatic Transmission",
+              "level": 2,
+              "children": {
+                "Capteur": {
+                  "categoryId": null,
+                  "categoryName": "Capteur",
+                  "level": 4,
+                  "children": {
+                    "Capteur, position neutre (boîte automatique)": {
+                      "categoryId": 102931,
+                      "categoryName": "Sensor",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60606
+                    }
+                  }
+                }
+              },
+              "productId": 60606
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Boîte de vitesses [ID: 100238] (Niveau 1)\n    └── Boîte de vitesse automatique (Niveau 2)\n        └── Automatic Transmission [ID: 100240] (Niveau 2) → ProductId: 60606\n            └── Capteur (Niveau 4)\n                └── Sensor [ID: 102931] (Niveau 3) → ProductId: 60606",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesse automatique",
+        "Automatic Transmission"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        100240
+      ],
+      "finalCategoryId": 100240,
+      "productId": 60606
+    }
+  ],
+  "productIdsInArbo": [
+    60606
+  ],
+  "matchedProductIds": [
+    60606
+  ]
+}

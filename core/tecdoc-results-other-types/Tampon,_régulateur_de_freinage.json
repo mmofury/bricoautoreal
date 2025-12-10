@@ -1,0 +1,49 @@
+{
+  "productName": "Tampon, régulateur de freinage",
+  "productId": 2734,
+  "searchText": "Tampon, régulateur de freinage",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Dispositif de freinage": {
+          "categoryId": 200058,
+          "categoryName": "Dispositif de freinage",
+          "level": 1,
+          "children": {
+            "Régulateur de freinage": {
+              "categoryId": null,
+              "categoryName": "Régulateur de freinage",
+              "level": 2,
+              "children": {
+                "Tampon, régulateur de freinage": {
+                  "categoryId": 200107,
+                  "categoryName": "Brake Force Regulator/Acessories",
+                  "level": 2,
+                  "children": [],
+                  "productId": 2734
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Dispositif de freinage [ID: 200058] (Niveau 1)\n    └── Régulateur de freinage (Niveau 2)\n        └── Brake Force Regulator/Acessories [ID: 200107] (Niveau 2) → ProductId: 2734",
+      "productIdsInArbo": [
+        2734
+      ],
+      "matchedProductIds": [
+        2734
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:38:52.043Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.414Z",
+  "manufacturer": "MG (NANJING)",
+  "countGroups": 4,
+  "groups": [
+    {
+      "manufacturerId": 3133,
+      "manufacturerName": "MG (NANJING)",
+      "groupKey": "MG3",
+      "displayName": "MG3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38745,
+          "modelName": "MG3 SW",
+          "modelYearFrom": "2007-01-01",
+          "modelYearTo": "2012-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3133,
+      "manufacturerName": "MG (NANJING)",
+      "groupKey": "MG7",
+      "displayName": "MG7",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7832,
+          "modelName": "MG7",
+          "modelYearFrom": "2007-07-01",
+          "modelYearTo": "2014-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3133,
+      "manufacturerName": "MG (NANJING)",
+      "groupKey": "MG7L",
+      "displayName": "MG7L",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38841,
+          "modelName": "MG7L",
+          "modelYearFrom": "2009-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3133,
+      "manufacturerName": "MG (NANJING)",
+      "groupKey": "MGTF",
+      "displayName": "MGTF",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7835,
+          "modelName": "MGTF",
+          "modelYearFrom": "2007-01-01",
+          "modelYearTo": "2013-12-01"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "productName": "Diode",
+  "searchText": "Diode",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T20:30:52.806Z",
+  "productId": 3450,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Réglage du comportement dynamique": {
+          "categoryId": null,
+          "categoryName": "Réglage du comportement dynamique",
+          "level": 2,
+          "children": {
+            "Diode protectrice, ABS": {
+              "categoryId": 100038,
+              "categoryName": "Drive Dynamics Control",
+              "level": 2,
+              "children": [],
+              "productId": 3368
+            }
+          }
+        }
+      }
+    },
+    "Système d'information et de communication": {
+      "categoryId": 100339,
+      "categoryName": "Système d'information et de communication",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Kit d'outils de montage / démontage, radio": {
+              "categoryId": 105407,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 7130
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Alternateur / composants": {
+          "categoryId": null,
+          "categoryName": "Alternateur / composants",
+          "level": 2,
+          "children": {
+            "Diode protectrice, alternateur": {
+              "categoryId": 100041,
+              "categoryName": "Alternator/Parts",
+              "level": 2,
+              "children": {
+                "Composants": {
+                  "categoryId": null,
+                  "categoryName": "Composants",
+                  "level": 4,
+                  "children": {
+                    "Diode protectrice, alternateur": {
+                      "categoryId": 100352,
+                      "categoryName": "Generator/ Alternator Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1232
+                    }
+                  }
+                }
+              },
+              "productId": 1232
+            },
+            "Pont de diodes, alternateur": {
+              "categoryId": 100041,
+              "categoryName": "Alternator/Parts",
+              "level": 2,
+              "children": {
+                "Composants": {
+                  "categoryId": null,
+                  "categoryName": "Composants",
+                  "level": 4,
+                  "children": {
+                    "Pont de diodes, alternateur": {
+                      "categoryId": 100352,
+                      "categoryName": "Generator/ Alternator Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1529
+                    }
+                  }
+                }
+              },
+              "productId": 1529
+            },
+            "Support de diodes auxiliaire, alternateur": {
+              "categoryId": 100041,
+              "categoryName": "Alternator/Parts",
+              "level": 2,
+              "children": {
+                "Composants": {
+                  "categoryId": null,
+                  "categoryName": "Composants",
+                  "level": 4,
+                  "children": {
+                    "Support de diodes auxiliaire, alternateur": {
+                      "categoryId": 100352,
+                      "categoryName": "Generator/ Alternator Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2194
+                    }
+                  }
+                }
+              },
+              "productId": 2194
+            }
+          }
+        },
+        "Appareils de commande": {
+          "categoryId": null,
+          "categoryName": "Appareils de commande",
+          "level": 2,
+          "children": {
+            "Dispositif de protection contre les surtensions, câblage": {
+              "categoryId": 100727,
+              "categoryName": "Control Units",
+              "level": 2,
+              "children": [],
+              "productId": 5169
+            }
+          }
+        },
+        "Relais": {
+          "categoryId": null,
+          "categoryName": "Relais",
+          "level": 2,
+          "children": {
+            "Diode protectrice, ABS": {
+              "categoryId": 100785,
+              "categoryName": "Relay",
+              "level": 2,
+              "children": [],
+              "productId": 3368
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Dispositif de freinage [ID: 100006] (Niveau 1)\n│   └── Réglage du comportement dynamique (Niveau 2)\n│       └── Drive Dynamics Control [ID: 100038] (Niveau 2) → ProductId: 3368\n\n├── Système d'information et de communication [ID: 100339] (Niveau 1)\n│   └── Outils (Niveau 2)\n│       └── Tools [ID: 105407] (Niveau 2) → ProductId: 7130\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    ├── Alternateur / composants (Niveau 2)\n    │   ├── Alternator/Parts [ID: 100041] (Niveau 2) → ProductId: 1232\n    │   │   └── Composants (Niveau 4)\n    │   │       └── Generator/ Alternator Parts [ID: 100352] (Niveau 3) → ProductId: 1232\n    │   ├── Alternator/Parts [ID: 100041] (Niveau 2) → ProductId: 1529\n    │   │   └── Composants (Niveau 4)\n    │   │       └── Generator/ Alternator Parts [ID: 100352] (Niveau 3) → ProductId: 1529\n    │   └── Alternator/Parts [ID: 100041] (Niveau 2) → ProductId: 2194\n    │       └── Composants (Niveau 4)\n    │           └── Generator/ Alternator Parts [ID: 100352] (Niveau 3) → ProductId: 2194\n    ├── Appareils de commande (Niveau 2)\n    │   └── Control Units [ID: 100727] (Niveau 2) → ProductId: 5169\n    └── Relais (Niveau 2)\n        └── Relay [ID: 100785] (Niveau 2) → ProductId: 3368",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Réglage du comportement dynamique",
+        "Drive Dynamics Control"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100038
+      ],
+      "finalCategoryId": 100038,
+      "productId": 3368
+    },
+    {
+      "path": [
+        "Système d'information et de communication",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100339,
+        null,
+        105407
+      ],
+      "finalCategoryId": 105407,
+      "productId": 7130
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Alternateur / composants",
+        "Alternator/Parts"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100041
+      ],
+      "finalCategoryId": 100041,
+      "productId": 1232
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Alternateur / composants",
+        "Alternator/Parts"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100041
+      ],
+      "finalCategoryId": 100041,
+      "productId": 1529
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Alternateur / composants",
+        "Alternator/Parts"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100041
+      ],
+      "finalCategoryId": 100041,
+      "productId": 2194
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Appareils de commande",
+        "Control Units"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100727
+      ],
+      "finalCategoryId": 100727,
+      "productId": 5169
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Relais",
+        "Relay"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100785
+      ],
+      "finalCategoryId": 100785,
+      "productId": 3368
+    }
+  ],
+  "productIdsInArbo": [
+    1232,
+    1529,
+    2194,
+    3368,
+    5169,
+    7130
+  ],
+  "closestProductIds": [
+    {
+      "productId": 1232,
+      "productName": "Diode protectrice, alternateur"
+    },
+    {
+      "productId": 1529,
+      "productName": "Pont de diodes, alternateur"
+    },
+    {
+      "productId": 2194,
+      "productName": "Support de diodes auxiliaire, alternateur"
+    },
+    {
+      "productId": 3368,
+      "productName": "Diode protectrice, ABS"
+    },
+    {
+      "productId": 5169,
+      "productName": "Dispositif de protection contre les surtensions, câblage"
+    }
+  ]
+}

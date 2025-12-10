@@ -1,0 +1,69 @@
+{
+  "productName": "Synchronisateur, boîte de vitesse manuelle",
+  "searchText": "Synchronisateur, boîte de vitesse manuelle",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:23:44.856Z",
+  "productId": 3708,
+  "arborescence": {
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Boîte de vitesses manuelle": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesses manuelle",
+          "level": 2,
+          "children": {
+            "Synchronisateur, boîte de vitesse manuelle": {
+              "categoryId": 100239,
+              "categoryName": "Manual Transmission",
+              "level": 2,
+              "children": {
+                "Synchronisateurs": {
+                  "categoryId": null,
+                  "categoryName": "Synchronisateurs",
+                  "level": 4,
+                  "children": {
+                    "Synchronisateur, boîte de vitesse manuelle": {
+                      "categoryId": 102685,
+                      "categoryName": "Synchronizer Ring",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3708
+                    }
+                  }
+                }
+              },
+              "productId": 3708
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Boîte de vitesses [ID: 100238] (Niveau 1)\n    └── Boîte de vitesses manuelle (Niveau 2)\n        └── Manual Transmission [ID: 100239] (Niveau 2) → ProductId: 3708\n            └── Synchronisateurs (Niveau 4)\n                └── Synchronizer Ring [ID: 102685] (Niveau 3) → ProductId: 3708",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesses manuelle",
+        "Manual Transmission"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        100239
+      ],
+      "finalCategoryId": 100239,
+      "productId": 3708
+    }
+  ],
+  "productIdsInArbo": [
+    3708
+  ],
+  "matchedProductIds": [
+    3708
+  ]
+}

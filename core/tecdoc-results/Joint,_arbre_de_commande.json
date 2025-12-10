@@ -1,0 +1,54 @@
+{
+  "productName": "Joint, arbre de commande",
+  "searchText": "Joint, arbre de commande",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:54:17.925Z",
+  "productId": 236,
+  "arborescence": {
+    "Entraînement des roues": {
+      "categoryId": 100014,
+      "categoryName": "Entraînement des roues",
+      "level": 1,
+      "children": {
+        "Rotules/ jeu": {
+          "categoryId": null,
+          "categoryName": "Rotules/ jeu",
+          "level": 2,
+          "children": {
+            "Joint, arbre de commande": {
+              "categoryId": 100071,
+              "categoryName": "Joint/Set",
+              "level": 2,
+              "children": [],
+              "productId": 236
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement des roues [ID: 100014] (Niveau 1)\n    └── Rotules/ jeu (Niveau 2)\n        └── Joint/Set [ID: 100071] (Niveau 2) → ProductId: 236",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des roues",
+        "Rotules/ jeu",
+        "Joint/Set"
+      ],
+      "categoryIds": [
+        100014,
+        null,
+        100071
+      ],
+      "finalCategoryId": 100071,
+      "productId": 236
+    }
+  ],
+  "productIdsInArbo": [
+    236
+  ],
+  "matchedProductIds": [
+    236
+  ]
+}

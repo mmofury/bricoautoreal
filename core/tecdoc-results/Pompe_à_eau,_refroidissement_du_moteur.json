@@ -1,0 +1,83 @@
+{
+  "productName": "Pompe à eau, refroidissement du moteur",
+  "searchText": "Pompe à eau, refroidissement du moteur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:01:52.646Z",
+  "productId": 1260,
+  "arborescence": {
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Pompe à eau / joint": {
+          "categoryId": null,
+          "categoryName": "Pompe à eau / joint",
+          "level": 2,
+          "children": {
+            "Pompe à eau, refroidissement du moteur": {
+              "categoryId": 100088,
+              "categoryName": "Water Pump/Gasket",
+              "level": 2,
+              "children": {
+                "Module de gestion thermique": {
+                  "categoryId": null,
+                  "categoryName": "Module de gestion thermique",
+                  "level": 4,
+                  "children": {
+                    "Pompe à eau, refroidissement du moteur": {
+                      "categoryId": 104956,
+                      "categoryName": "Thermal Management Module",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1260
+                    }
+                  }
+                },
+                "Pompe à eau": {
+                  "categoryId": null,
+                  "categoryName": "Pompe à eau",
+                  "level": 4,
+                  "children": {
+                    "Pompe à eau, refroidissement du moteur": {
+                      "categoryId": 100091,
+                      "categoryName": "Water Pump",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1260
+                    }
+                  }
+                }
+              },
+              "productId": 1260
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Refroidissement [ID: 100007] (Niveau 1)\n    └── Pompe à eau / joint (Niveau 2)\n        └── Water Pump/Gasket [ID: 100088] (Niveau 2) → ProductId: 1260\n            ├── Module de gestion thermique (Niveau 4)\n            │   └── Thermal Management Module [ID: 104956] (Niveau 3) → ProductId: 1260\n            └── Pompe à eau (Niveau 4)\n                └── Water Pump [ID: 100091] (Niveau 3) → ProductId: 1260",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Refroidissement",
+        "Pompe à eau / joint",
+        "Water Pump/Gasket"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100088
+      ],
+      "finalCategoryId": 100088,
+      "productId": 1260
+    }
+  ],
+  "productIdsInArbo": [
+    1260
+  ],
+  "matchedProductIds": [
+    1260
+  ]
+}

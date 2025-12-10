@@ -1,0 +1,103 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.289Z",
+  "manufacturer": "GEOMETRY",
+  "countGroups": 6,
+  "groups": [
+    {
+      "manufacturerId": 5244,
+      "manufacturerName": "GEOMETRY",
+      "groupKey": "A",
+      "displayName": "A",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39504,
+          "modelName": "A",
+          "modelYearFrom": "2019-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41918,
+          "modelName": "A PRO",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5244,
+      "manufacturerName": "GEOMETRY",
+      "groupKey": "C",
+      "displayName": "C",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41020,
+          "modelName": "C",
+          "modelYearFrom": "2020-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5244,
+      "manufacturerName": "GEOMETRY",
+      "groupKey": "E",
+      "displayName": "E",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43047,
+          "modelName": "E",
+          "modelYearFrom": "2022-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5244,
+      "manufacturerName": "GEOMETRY",
+      "groupKey": "EX3",
+      "displayName": "EX3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42538,
+          "modelName": "EX3",
+          "modelYearFrom": "2021-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5244,
+      "manufacturerName": "GEOMETRY",
+      "groupKey": "G6",
+      "displayName": "G6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43747,
+          "modelName": "G6",
+          "modelYearFrom": "2022-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5244,
+      "manufacturerName": "GEOMETRY",
+      "groupKey": "M6",
+      "displayName": "M6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43750,
+          "modelName": "M6",
+          "modelYearFrom": "2022-11-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

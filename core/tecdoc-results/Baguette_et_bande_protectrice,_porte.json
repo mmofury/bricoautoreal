@@ -1,0 +1,127 @@
+{
+  "productName": "Baguette et bande protectrice, porte",
+  "searchText": "Baguette et bande protectrice, porte",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:05:33.578Z",
+  "productId": 1005,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Grilles décoratives, logos, anti-éclaboussures": {
+          "categoryId": null,
+          "categoryName": "Grilles décoratives, logos, anti-éclaboussures",
+          "level": 2,
+          "children": {
+            "Baguette et bande protectrice, porte": {
+              "categoryId": 100219,
+              "categoryName": "Trim/Protection/Decorative Strips/Emblems",
+              "level": 2,
+              "children": {
+                "Enjoliveur/bande protectrice": {
+                  "categoryId": null,
+                  "categoryName": "Enjoliveur/bande protectrice",
+                  "level": 4,
+                  "children": {
+                    "Baguette et bande protectrice, porte": {
+                      "categoryId": 100740,
+                      "categoryName": "Trim/Protection Strips",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1005
+                    }
+                  }
+                }
+              },
+              "productId": 1005
+            }
+          }
+        },
+        "Habitacle": {
+          "categoryId": null,
+          "categoryName": "Habitacle",
+          "level": 2,
+          "children": {
+            "Baguette et bande protectrice, porte": {
+              "categoryId": 101690,
+              "categoryName": "Passenger Cabin",
+              "level": 2,
+              "children": {
+                "Composants/suppléments": {
+                  "categoryId": null,
+                  "categoryName": "Composants/suppléments",
+                  "level": 4,
+                  "children": {
+                    "Baguette et bande protectrice, porte": {
+                      "categoryId": 101700,
+                      "categoryName": "Parts",
+                      "level": 3,
+                      "children": {
+                        "Enjoliveur/bande protectrice": {
+                          "categoryId": null,
+                          "categoryName": "Enjoliveur/bande protectrice",
+                          "level": 6,
+                          "children": {
+                            "Baguette et bande protectrice, porte": {
+                              "categoryId": 101702,
+                              "categoryName": "Trim/Protection Strips",
+                              "level": 4,
+                              "children": [],
+                              "productId": 1005
+                            }
+                          }
+                        }
+                      },
+                      "productId": 1005
+                    }
+                  }
+                }
+              },
+              "productId": 1005
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    ├── Grilles décoratives, logos, anti-éclaboussures (Niveau 2)\n    │   └── Trim/Protection/Decorative Strips/Emblems [ID: 100219] (Niveau 2) → ProductId: 1005\n    │       └── Enjoliveur/bande protectrice (Niveau 4)\n    │           └── Trim/Protection Strips [ID: 100740] (Niveau 3) → ProductId: 1005\n    └── Habitacle (Niveau 2)\n        └── Passenger Cabin [ID: 101690] (Niveau 2) → ProductId: 1005\n            └── Composants/suppléments (Niveau 4)\n                └── Parts [ID: 101700] (Niveau 3) → ProductId: 1005\n                    └── Enjoliveur/bande protectrice (Niveau 6)\n                        └── Trim/Protection Strips [ID: 101702] (Niveau 4) → ProductId: 1005",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Grilles décoratives, logos, anti-éclaboussures",
+        "Trim/Protection/Decorative Strips/Emblems"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100219
+      ],
+      "finalCategoryId": 100219,
+      "productId": 1005
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Habitacle",
+        "Passenger Cabin"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101690
+      ],
+      "finalCategoryId": 101690,
+      "productId": 1005
+    }
+  ],
+  "productIdsInArbo": [
+    1005
+  ],
+  "matchedProductIds": [
+    1005
+  ]
+}

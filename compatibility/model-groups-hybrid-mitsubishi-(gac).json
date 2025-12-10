@@ -1,0 +1,109 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.421Z",
+  "manufacturer": "MITSUBISHI (GAC)",
+  "countGroups": 6,
+  "groups": [
+    {
+      "manufacturerId": 3837,
+      "manufacturerName": "MITSUBISHI (GAC)",
+      "groupKey": "AIRTREK",
+      "displayName": "AIRTREK",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42834,
+          "modelName": "AIRTREK",
+          "modelYearFrom": "2022-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3837,
+      "manufacturerName": "MITSUBISHI (GAC)",
+      "groupKey": "ASX",
+      "displayName": "ASX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11144,
+          "modelName": "ASX",
+          "modelYearFrom": "2012-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3837,
+      "manufacturerName": "MITSUBISHI (GAC)",
+      "groupKey": "ECLIPSE",
+      "displayName": "ECLIPSE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39118,
+          "modelName": "ECLIPSE CROSS",
+          "modelYearFrom": "2018-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3837,
+      "manufacturerName": "MITSUBISHI (GAC)",
+      "groupKey": "OUTLANDER",
+      "displayName": "OUTLANDER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37136,
+          "modelName": "OUTLANDER",
+          "modelYearFrom": "2016-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3837,
+      "manufacturerName": "MITSUBISHI (GAC)",
+      "groupKey": "PAJERO",
+      "displayName": "PAJERO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11719,
+          "modelName": "PAJERO SPORT",
+          "modelYearFrom": "2013-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39125,
+          "modelName": "PAJERO",
+          "modelYearFrom": "2004-01-01",
+          "modelYearTo": "2014-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3837,
+      "manufacturerName": "MITSUBISHI (GAC)",
+      "groupKey": "QIZHI",
+      "displayName": "QIZHI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39587,
+          "modelName": "QIZHI",
+          "modelYearFrom": "2017-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39626,
+          "modelName": "QIZHI",
+          "modelYearFrom": "2018-10-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

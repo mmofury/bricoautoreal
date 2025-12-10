@@ -1,0 +1,184 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.489Z",
+  "manufacturer": "SMART",
+  "countGroups": 9,
+  "groups": [
+    {
+      "manufacturerId": 1138,
+      "manufacturerName": "SMART",
+      "groupKey": "#1",
+      "displayName": "#1",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 43125,
+          "modelName": "#1",
+          "modelYearFrom": "2022-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1138,
+      "manufacturerName": "SMART",
+      "groupKey": "#3",
+      "displayName": "#3",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 44523,
+          "modelName": "#3",
+          "modelYearFrom": "2023-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1138,
+      "manufacturerName": "SMART",
+      "groupKey": "#5",
+      "displayName": "#5",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 45998,
+          "modelName": "#5",
+          "modelYearFrom": "2024-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1138,
+      "manufacturerName": "SMART",
+      "groupKey": "CABRIO",
+      "displayName": "CABRIO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 872,
+          "modelName": "CABRIO (450)",
+          "modelYearFrom": "2000-03-01",
+          "modelYearTo": "2004-01-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1138,
+      "manufacturerName": "SMART",
+      "groupKey": "CITY",
+      "displayName": "CITY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3401,
+          "modelName": "CITY-COUPE (450)",
+          "modelYearFrom": "1998-07-01",
+          "modelYearTo": "2004-01-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1138,
+      "manufacturerName": "SMART",
+      "groupKey": "CROSSBLADE",
+      "displayName": "CROSSBLADE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4883,
+          "modelName": "CROSSBLADE (450)",
+          "modelYearFrom": "2002-06-01",
+          "modelYearTo": "2003-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1138,
+      "manufacturerName": "SMART",
+      "groupKey": "FORFOUR",
+      "displayName": "FORFOUR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5075,
+          "modelName": "FORFOUR (454)",
+          "modelYearFrom": "2004-01-01",
+          "modelYearTo": "2006-06-01"
+        },
+        {
+          "modelId": 13050,
+          "modelName": "FORFOUR Berline bicorps trois ou cinq portes (453)",
+          "modelYearFrom": "2014-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1138,
+      "manufacturerName": "SMART",
+      "groupKey": "FORTWO",
+      "displayName": "FORTWO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5149,
+          "modelName": "FORTWO Coupé (450)",
+          "modelYearFrom": "2004-01-01",
+          "modelYearTo": "2007-02-01"
+        },
+        {
+          "modelId": 5150,
+          "modelName": "FORTWO Cabrio (450)",
+          "modelYearFrom": "2004-01-01",
+          "modelYearTo": "2007-01-01"
+        },
+        {
+          "modelId": 6227,
+          "modelName": "FORTWO Coupé (451)",
+          "modelYearFrom": "2007-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 6228,
+          "modelName": "FORTWO Cabrio (451)",
+          "modelYearFrom": "2007-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13049,
+          "modelName": "FORTWO Coupé (453)",
+          "modelYearFrom": "2014-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14632,
+          "modelName": "FORTWO Décapotable (453)",
+          "modelYearFrom": "2015-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1138,
+      "manufacturerName": "SMART",
+      "groupKey": "ROADSTER",
+      "displayName": "ROADSTER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4959,
+          "modelName": "ROADSTER (452)",
+          "modelYearFrom": "2003-04-01",
+          "modelYearTo": "2005-11-01"
+        },
+        {
+          "modelId": 4960,
+          "modelName": "ROADSTER Coupé (452)",
+          "modelYearFrom": "2003-04-01",
+          "modelYearTo": "2005-11-01"
+        }
+      ]
+    }
+  ]
+}

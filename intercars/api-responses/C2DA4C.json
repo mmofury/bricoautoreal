@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "C2DA4C",
+      "index": "2.15621",
+      "tecDoc": "2.15621",
+      "tecDocProd": "355",
+      "articleNumber": "2.15621",
+      "brand": "DT SPARE PARTS",
+      "shortDescription": "Housing, water pump",
+      "description": "Water pump housing fits: RVI MAGNUM, VOLVO B12, FH12, FM12, NH12 D12C340-DXi12 08.98-",
+      "eans": [
+        "4047755703837"
+      ],
+      "packageWeight": "8,920",
+      "packageWidth": "18,000",
+      "packageDepth": "22,000",
+      "packageHeight": "15,500",
+      "customsCode": "84139100",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_91274",
+          "primary": false,
+          "name": {
+            "en": "Water pump casing"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3879",
+          "primary": true,
+          "name": {
+            "en": "Housing, water pump"
+          }
+        }
+      ]
+    }
+  ]
+}

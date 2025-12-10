@@ -1,0 +1,87 @@
+{
+  "productName": "Colle pour vitres",
+  "searchText": "Colle pour vitres",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T20:22:14.862Z",
+  "productId": 1819,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Vitrages/Miroirs": {
+          "categoryId": null,
+          "categoryName": "Vitrages/Miroirs",
+          "level": 2,
+          "children": {
+            "Colle pour vitres": {
+              "categoryId": 100744,
+              "categoryName": "Glazing/Mirrors",
+              "level": 2,
+              "children": {
+                "Vitrage": {
+                  "categoryId": null,
+                  "categoryName": "Vitrage",
+                  "level": 4,
+                  "children": {
+                    "Colle pour vitres": {
+                      "categoryId": 100745,
+                      "categoryName": "Glazing",
+                      "level": 3,
+                      "children": {
+                        "Vitrage collé": {
+                          "categoryId": null,
+                          "categoryName": "Vitrage collé",
+                          "level": 6,
+                          "children": {
+                            "Colle pour vitres": {
+                              "categoryId": 102346,
+                              "categoryName": "Bonded Windows",
+                              "level": 4,
+                              "children": [],
+                              "productId": 60660
+                            }
+                          }
+                        }
+                      },
+                      "productId": 60660
+                    }
+                  }
+                }
+              },
+              "productId": 60660
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    └── Vitrages/Miroirs (Niveau 2)\n        └── Glazing/Mirrors [ID: 100744] (Niveau 2) → ProductId: 60660\n            └── Vitrage (Niveau 4)\n                └── Glazing [ID: 100745] (Niveau 3) → ProductId: 60660\n                    └── Vitrage collé (Niveau 6)\n                        └── Bonded Windows [ID: 102346] (Niveau 4) → ProductId: 60660",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Vitrages/Miroirs",
+        "Glazing/Mirrors"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100744
+      ],
+      "finalCategoryId": 100744,
+      "productId": 60660
+    }
+  ],
+  "productIdsInArbo": [
+    60660
+  ],
+  "closestProductIds": [
+    {
+      "productId": 60660,
+      "productName": "Colle pour vitres"
+    }
+  ]
+}

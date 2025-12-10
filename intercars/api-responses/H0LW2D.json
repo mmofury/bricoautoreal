@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H0LW2D",
+      "index": "CRTX 15 000S",
+      "tecDoc": "CRTX 15 000S",
+      "tecDocProd": "287",
+      "articleNumber": "CRTX 15 000S",
+      "brand": "MAHLE",
+      "shortDescription": "Sensor, coolant temperature",
+      "description": "Coolant level sensor fits: MAN TGA, TGS I, TGX I, TGX II D0836LF41-D3876LF16 04.00-",
+      "eans": [
+        "4057635237864"
+      ],
+      "packageWeight": "0,004",
+      "packageWidth": "5,000",
+      "packageDepth": "13,000",
+      "packageHeight": "2,000",
+      "customsCode": "90268080",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1412",
+          "primary": false,
+          "name": {
+            "en": "Level Control Switch, coolant level indicator"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_2394",
+          "primary": true,
+          "name": {
+            "en": "Sensor, coolant temperature"
+          }
+        }
+      ]
+    }
+  ]
+}

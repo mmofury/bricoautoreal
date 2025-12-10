@@ -1,0 +1,43 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "F4FAEC",
+      "index": "03.9311-0074.2",
+      "tecDoc": "03.9311-0074.2",
+      "tecDocProd": "3",
+      "articleNumber": "03.9311-0074.2",
+      "brand": "ATE",
+      "shortDescription": "Devices for working fluids and fuels",
+      "description": "Printer, application: brake fluid ATE",
+      "gtuCode": "GTU_06",
+      "eans": [
+        "4006633433143"
+      ],
+      "packageWeight": "0,320",
+      "packageWidth": "15,500",
+      "packageDepth": "15,000",
+      "packageHeight": "11,000",
+      "customsCode": "84433210",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4672",
+          "primary": false,
+          "name": {
+            "en": "Printer, brake fluid testing unit"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91773",
+          "primary": true,
+          "name": {
+            "en": "Devices for working fluids and fuels"
+          }
+        }
+      ]
+    }
+  ]
+}

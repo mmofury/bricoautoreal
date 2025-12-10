@@ -1,0 +1,84 @@
+{
+  "productName": "Chicane d'huile, vilebrequin",
+  "searchText": "Chicane d'huile, vilebrequin",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:19:49.983Z",
+  "productId": 2730,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Système bielle-manivelle": {
+          "categoryId": null,
+          "categoryName": "Système bielle-manivelle",
+          "level": 2,
+          "children": {
+            "Chicane d'huile, vilebrequin": {
+              "categoryId": 100515,
+              "categoryName": "Crankshaft Drive",
+              "level": 2,
+              "children": {
+                "Vilebrequin": {
+                  "categoryId": null,
+                  "categoryName": "Vilebrequin",
+                  "level": 4,
+                  "children": {
+                    "Chicane d'huile, vilebrequin": {
+                      "categoryId": 100517,
+                      "categoryName": "Crankshaft",
+                      "level": 3,
+                      "children": {
+                        "Chicane d'huile": {
+                          "categoryId": null,
+                          "categoryName": "Chicane d'huile",
+                          "level": 6,
+                          "children": {
+                            "Chicane d'huile, vilebrequin": {
+                              "categoryId": 100886,
+                              "categoryName": "Oil baffle",
+                              "level": 4,
+                              "children": [],
+                              "productId": 2730
+                            }
+                          }
+                        }
+                      },
+                      "productId": 2730
+                    }
+                  }
+                }
+              },
+              "productId": 2730
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Système bielle-manivelle (Niveau 2)\n        └── Crankshaft Drive [ID: 100515] (Niveau 2) → ProductId: 2730\n            └── Vilebrequin (Niveau 4)\n                └── Crankshaft [ID: 100517] (Niveau 3) → ProductId: 2730\n                    └── Chicane d'huile (Niveau 6)\n                        └── Oil baffle [ID: 100886] (Niveau 4) → ProductId: 2730",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Crankshaft Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100515
+      ],
+      "finalCategoryId": 100515,
+      "productId": 2730
+    }
+  ],
+  "productIdsInArbo": [
+    2730
+  ],
+  "matchedProductIds": [
+    2730
+  ]
+}

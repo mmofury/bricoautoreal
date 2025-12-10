@@ -1,0 +1,57 @@
+{
+  "productName": "Pince, Collier de tuyau",
+  "searchText": "Pince, Collier de tuyau",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T21:20:47.393Z",
+  "productId": 4504,
+  "arborescence": {
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Pince, Collier de tuyau": {
+              "categoryId": 103131,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4577
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Refroidissement [ID: 100007] (Niveau 1)\n    └── Outils (Niveau 2)\n        └── Tools [ID: 103131] (Niveau 2) → ProductId: 4577",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Refroidissement",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        103131
+      ],
+      "finalCategoryId": 103131,
+      "productId": 4577
+    }
+  ],
+  "productIdsInArbo": [
+    4577
+  ],
+  "closestProductIds": [
+    {
+      "productId": 4577,
+      "productName": "Pince, Collier de tuyau"
+    }
+  ]
+}

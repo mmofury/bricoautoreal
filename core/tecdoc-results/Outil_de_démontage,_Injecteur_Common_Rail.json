@@ -1,0 +1,69 @@
+{
+  "productName": "Outil de démontage, Injecteur Common Rail",
+  "searchText": "Outil de démontage, Injecteur Common Rail",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:17:36.453Z",
+  "productId": 4517,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Outil de démontage, Injecteur Common Rail": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Outils": {
+                  "categoryId": null,
+                  "categoryName": "Outils",
+                  "level": 4,
+                  "children": {
+                    "Outil de démontage, Injecteur Common Rail": {
+                      "categoryId": 103150,
+                      "categoryName": "Tools",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4517
+                    }
+                  }
+                }
+              },
+              "productId": 4517
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carburation [ID: 100254] (Niveau 1)\n    └── Mélange air-carburant (Niveau 2)\n        └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 4517\n            └── Outils (Niveau 4)\n                └── Tools [ID: 103150] (Niveau 3) → ProductId: 4517",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 4517
+    }
+  ],
+  "productIdsInArbo": [
+    4517
+  ],
+  "matchedProductIds": [
+    4517
+  ]
+}

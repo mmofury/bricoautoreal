@@ -1,0 +1,152 @@
+{
+  "productName": "Arbre d'entraînement, boîte manuelle",
+  "searchText": "Arbre d'entraînement, boîte manuelle",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": false,
+      "arborescence": {
+        "Boîte de vitesses": {
+          "categoryId": 200054,
+          "categoryName": "Boîte de vitesses",
+          "level": 1,
+          "children": {
+            "Boîte de vitesse manuelle / pièces de montage": {
+              "categoryId": null,
+              "categoryName": "Boîte de vitesse manuelle / pièces de montage",
+              "level": 2,
+              "children": {
+                "Arbre d'entraînement, boîte manuelle": {
+                  "categoryId": 200095,
+                  "categoryName": "Manual Transmission/ Parts",
+                  "level": 2,
+                  "children": {
+                    "Carter/composants": {
+                      "categoryId": null,
+                      "categoryName": "Carter/composants",
+                      "level": 4,
+                      "children": {
+                        "Arbre d'entraînement, boîte manuelle": {
+                          "categoryId": 706663,
+                          "categoryName": "Transmission Housing/Parts",
+                          "level": 3,
+                          "children": [],
+                          "productId": 4098
+                        }
+                      }
+                    }
+                  },
+                  "productId": 4098
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Boîte de vitesses [ID: 200054] (Niveau 1)\n    └── Boîte de vitesse manuelle / pièces de montage (Niveau 2)\n        └── Manual Transmission/ Parts [ID: 200095] (Niveau 2) → ProductId: 4098\n            └── Carter/composants (Niveau 4)\n                └── Transmission Housing/Parts [ID: 706663] (Niveau 3) → ProductId: 4098",
+      "productIdsInArbo": [
+        4098
+      ]
+    },
+    {
+      "typeId": 3,
+      "found": true,
+      "hasMatch": false,
+      "arborescence": {
+        "Boîte de vitesses": {
+          "categoryId": 100238,
+          "categoryName": "Boîte de vitesses",
+          "level": 1,
+          "children": {
+            "Boîte de vitesses manuelle": {
+              "categoryId": null,
+              "categoryName": "Boîte de vitesses manuelle",
+              "level": 2,
+              "children": {
+                "Arbre d'entraînement, boîte manuelle": {
+                  "categoryId": 100239,
+                  "categoryName": "Manual Transmission",
+                  "level": 2,
+                  "children": {
+                    "Carter/composants": {
+                      "categoryId": null,
+                      "categoryName": "Carter/composants",
+                      "level": 4,
+                      "children": {
+                        "Arbre d'entraînement, boîte manuelle": {
+                          "categoryId": 100774,
+                          "categoryName": "Transmission Housing/Parts",
+                          "level": 3,
+                          "children": [],
+                          "productId": 4098
+                        }
+                      }
+                    }
+                  },
+                  "productId": 4098
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Boîte de vitesses [ID: 100238] (Niveau 1)\n    └── Boîte de vitesses manuelle (Niveau 2)\n        └── Manual Transmission [ID: 100239] (Niveau 2) → ProductId: 4098\n            └── Carter/composants (Niveau 4)\n                └── Transmission Housing/Parts [ID: 100774] (Niveau 3) → ProductId: 4098",
+      "productIdsInArbo": [
+        4098
+      ]
+    },
+    {
+      "typeId": 4,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 5,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 6,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 7,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 8,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 9,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 10,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 11,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 12,
+      "found": false,
+      "hasMatch": false
+    }
+  ],
+  "timestamp": "2025-12-03T09:46:09.884Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": false
+  }
+}

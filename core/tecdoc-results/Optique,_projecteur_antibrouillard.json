@@ -1,0 +1,207 @@
+{
+  "productName": "Optique, projecteur antibrouillard",
+  "searchText": "Optique, projecteur antibrouillard",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:17:15.373Z",
+  "productId": 89,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Avant du véhicule": {
+          "categoryId": null,
+          "categoryName": "Avant du véhicule",
+          "level": 2,
+          "children": {
+            "Optique, projecteur antibrouillard": {
+              "categoryId": 101648,
+              "categoryName": "Vehicle Front",
+              "level": 2,
+              "children": {
+                "Projecteur antibrouillard/ composants": {
+                  "categoryId": null,
+                  "categoryName": "Projecteur antibrouillard/ composants",
+                  "level": 4,
+                  "children": {
+                    "Optique, projecteur antibrouillard": {
+                      "categoryId": 101661,
+                      "categoryName": "Front Fog Light/Parts",
+                      "level": 3,
+                      "children": {
+                        "Projecteur antibrouillard / Optique": {
+                          "categoryId": null,
+                          "categoryName": "Projecteur antibrouillard / Optique",
+                          "level": 6,
+                          "children": {
+                            "Optique, projecteur antibrouillard": {
+                              "categoryId": 101662,
+                              "categoryName": "Front Fog Light/Insert",
+                              "level": 4,
+                              "children": [],
+                              "productId": 89
+                            }
+                          }
+                        }
+                      },
+                      "productId": 89
+                    }
+                  }
+                }
+              },
+              "productId": 89
+            }
+          }
+        },
+        "Phares supplémentaires/composants": {
+          "categoryId": null,
+          "categoryName": "Phares supplémentaires/composants",
+          "level": 2,
+          "children": {
+            "Optique, projecteur antibrouillard": {
+              "categoryId": 101340,
+              "categoryName": "Additional Headlight/Parts",
+              "level": 2,
+              "children": {
+                "Projecteur antibrouillard/ composants": {
+                  "categoryId": null,
+                  "categoryName": "Projecteur antibrouillard/ composants",
+                  "level": 4,
+                  "children": {
+                    "Optique, projecteur antibrouillard": {
+                      "categoryId": 101341,
+                      "categoryName": "Front Fog Light/Parts",
+                      "level": 3,
+                      "children": {
+                        "Projecteur antibrouillard / Optique": {
+                          "categoryId": null,
+                          "categoryName": "Projecteur antibrouillard / Optique",
+                          "level": 6,
+                          "children": {
+                            "Optique, projecteur antibrouillard": {
+                              "categoryId": 101342,
+                              "categoryName": "Front Fog Light/Insert",
+                              "level": 4,
+                              "children": [],
+                              "productId": 89
+                            }
+                          }
+                        }
+                      },
+                      "productId": 89
+                    }
+                  }
+                }
+              },
+              "productId": 89
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Phares supplémentaires/composants": {
+          "categoryId": null,
+          "categoryName": "Phares supplémentaires/composants",
+          "level": 2,
+          "children": {
+            "Optique, projecteur antibrouillard": {
+              "categoryId": 100787,
+              "categoryName": "Additional Headlight/Parts",
+              "level": 2,
+              "children": {
+                "Projecteur antibrouillard/ composants": {
+                  "categoryId": null,
+                  "categoryName": "Projecteur antibrouillard/ composants",
+                  "level": 4,
+                  "children": {
+                    "Optique, projecteur antibrouillard": {
+                      "categoryId": 100277,
+                      "categoryName": "Front Fog Light/Parts",
+                      "level": 3,
+                      "children": {
+                        "Projecteur antibrouillard / Optique": {
+                          "categoryId": null,
+                          "categoryName": "Projecteur antibrouillard / Optique",
+                          "level": 6,
+                          "children": {
+                            "Optique, projecteur antibrouillard": {
+                              "categoryId": 100440,
+                              "categoryName": "Front Fog Light/Insert",
+                              "level": 4,
+                              "children": [],
+                              "productId": 89
+                            }
+                          }
+                        }
+                      },
+                      "productId": 89
+                    }
+                  }
+                }
+              },
+              "productId": 89
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carrosserie [ID: 100001] (Niveau 1)\n│   ├── Avant du véhicule (Niveau 2)\n│   │   └── Vehicle Front [ID: 101648] (Niveau 2) → ProductId: 89\n│   │       └── Projecteur antibrouillard/ composants (Niveau 4)\n│   │           └── Front Fog Light/Parts [ID: 101661] (Niveau 3) → ProductId: 89\n│   │               └── Projecteur antibrouillard / Optique (Niveau 6)\n│   │                   └── Front Fog Light/Insert [ID: 101662] (Niveau 4) → ProductId: 89\n│   └── Phares supplémentaires/composants (Niveau 2)\n│       └── Additional Headlight/Parts [ID: 101340] (Niveau 2) → ProductId: 89\n│           └── Projecteur antibrouillard/ composants (Niveau 4)\n│               └── Front Fog Light/Parts [ID: 101341] (Niveau 3) → ProductId: 89\n│                   └── Projecteur antibrouillard / Optique (Niveau 6)\n│                       └── Front Fog Light/Insert [ID: 101342] (Niveau 4) → ProductId: 89\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Phares supplémentaires/composants (Niveau 2)\n        └── Additional Headlight/Parts [ID: 100787] (Niveau 2) → ProductId: 89\n            └── Projecteur antibrouillard/ composants (Niveau 4)\n                └── Front Fog Light/Parts [ID: 100277] (Niveau 3) → ProductId: 89\n                    └── Projecteur antibrouillard / Optique (Niveau 6)\n                        └── Front Fog Light/Insert [ID: 100440] (Niveau 4) → ProductId: 89",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Avant du véhicule",
+        "Vehicle Front"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101648
+      ],
+      "finalCategoryId": 101648,
+      "productId": 89
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Phares supplémentaires/composants",
+        "Additional Headlight/Parts"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101340
+      ],
+      "finalCategoryId": 101340,
+      "productId": 89
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Phares supplémentaires/composants",
+        "Additional Headlight/Parts"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100787
+      ],
+      "finalCategoryId": 100787,
+      "productId": 89
+    }
+  ],
+  "productIdsInArbo": [
+    89
+  ],
+  "matchedProductIds": [
+    89
+  ]
+}

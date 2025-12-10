@@ -1,0 +1,82 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.370Z",
+  "manufacturer": "KAWEI AUTO",
+  "countGroups": 5,
+  "groups": [
+    {
+      "manufacturerId": 4181,
+      "manufacturerName": "KAWEI AUTO",
+      "groupKey": "K1",
+      "displayName": "K1",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13260,
+          "modelName": "K1 Pick-up",
+          "modelYearFrom": "2014-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4181,
+      "manufacturerName": "KAWEI AUTO",
+      "groupKey": "K150",
+      "displayName": "K150",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38286,
+          "modelName": "K150",
+          "modelYearFrom": "2017-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4181,
+      "manufacturerName": "KAWEI AUTO",
+      "groupKey": "K150GT",
+      "displayName": "K150GT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40969,
+          "modelName": "K150GT",
+          "modelYearFrom": "2017-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4181,
+      "manufacturerName": "KAWEI AUTO",
+      "groupKey": "LOUIS",
+      "displayName": "LOUIS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38896,
+          "modelName": "LOUIS",
+          "modelYearFrom": "2017-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4181,
+      "manufacturerName": "KAWEI AUTO",
+      "groupKey": "W1",
+      "displayName": "W1",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13257,
+          "modelName": "W1 SUV",
+          "modelYearFrom": "2014-01-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

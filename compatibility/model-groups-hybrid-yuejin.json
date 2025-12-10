@@ -1,0 +1,58 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.549Z",
+  "manufacturer": "YUEJIN",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 3193,
+      "manufacturerName": "YUEJIN",
+      "groupKey": "JUNDA",
+      "displayName": "JUNDA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8501,
+          "modelName": "JUNDA",
+          "modelYearFrom": "2004-01-01",
+          "modelYearTo": "2007-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3193,
+      "manufacturerName": "YUEJIN",
+      "groupKey": "UNIQUE",
+      "displayName": "UNIQUE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7080,
+          "modelName": "UNIQUE",
+          "modelYearFrom": "1988-04-01",
+          "modelYearTo": "2004-08-01"
+        },
+        {
+          "modelId": 37438,
+          "modelName": "UNIQUE",
+          "modelYearFrom": "2005-01-01",
+          "modelYearTo": "2007-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3193,
+      "manufacturerName": "YUEJIN",
+      "groupKey": "XK",
+      "displayName": "XK",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37761,
+          "modelName": "XK",
+          "modelYearFrom": "2008-01-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

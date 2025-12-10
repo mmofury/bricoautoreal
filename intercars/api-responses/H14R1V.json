@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H14R1V",
+      "index": "51277476",
+      "tecDoc": "51277476",
+      "tecDocProd": "72",
+      "articleNumber": "51277476",
+      "brand": "HERTH+BUSS ELPARTS",
+      "shortDescription": "Cable Repair Set, engine oil level sensor",
+      "description": "Harness wire for oil level sensor, to coolant level sensor in expansion tank, universal (200mm, number of pins: 4) fits: ALFA ROMEO 159, BRERA, SPIDER 1.8-3.2 04.03-12.12",
+      "customsCode": "85443000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_9590",
+          "primary": true,
+          "name": {
+            "en": "Cable Repair Set, engine oil level sensor"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_60380",
+          "primary": false,
+          "name": {
+            "en": "Cable repair set, coolant level sensor"
+          }
+        }
+      ]
+    }
+  ]
+}

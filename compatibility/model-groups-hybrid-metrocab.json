@@ -1,0 +1,22 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.413Z",
+  "manufacturer": "METROCAB",
+  "countGroups": 1,
+  "groups": [
+    {
+      "manufacturerId": 1520,
+      "manufacturerName": "METROCAB",
+      "groupKey": "TAXI",
+      "displayName": "TAXI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5428,
+          "modelName": "TAXI",
+          "modelYearFrom": "1991-01-01",
+          "modelYearTo": "2006-05-01"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "AEE228",
+      "index": "F 026 T03 004",
+      "tecDoc": "F 026 T03 004",
+      "tecDocProd": "30",
+      "articleNumber": "F 026 T03 004",
+      "brand": "BOSCH",
+      "shortDescription": "Electric motor",
+      "description": "Multipoint fuel injection elements",
+      "eans": [
+        "4047023567642"
+      ],
+      "packageWeight": "0,229",
+      "packageWidth": "5,200",
+      "packageDepth": "9,400",
+      "packageHeight": "5,100",
+      "customsCode": "84811099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_2273",
+          "primary": true,
+          "name": {
+            "en": "Electric motor"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_60415",
+          "primary": false,
+          "name": {
+            "en": "Adapter Kit, fuel pressure regulator"
+          }
+        }
+      ]
+    }
+  ]
+}

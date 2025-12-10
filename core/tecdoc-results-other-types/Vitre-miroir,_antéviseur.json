@@ -1,0 +1,70 @@
+{
+  "productName": "Vitre-miroir, antéviseur",
+  "productId": 4210,
+  "searchText": "Vitre-miroir, antéviseur",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Cabine du conducteur/carrosserie": {
+          "categoryId": 200022,
+          "categoryName": "Cabine du conducteur/carrosserie",
+          "level": 1,
+          "children": {
+            "Miroirs/accessoires": {
+              "categoryId": null,
+              "categoryName": "Miroirs/accessoires",
+              "level": 2,
+              "children": {
+                "Vitre-miroir, antéviseur": {
+                  "categoryId": 200024,
+                  "categoryName": "Mirror/ Accessories",
+                  "level": 2,
+                  "children": [],
+                  "productId": 4210
+                }
+              }
+            }
+          }
+        },
+        "Équipement / accessoires": {
+          "categoryId": 200067,
+          "categoryName": "Équipement / accessoires",
+          "level": 1,
+          "children": {
+            "Mirroir/ accessoires": {
+              "categoryId": null,
+              "categoryName": "Mirroir/ accessoires",
+              "level": 2,
+              "children": {
+                "Vitre-miroir, antéviseur": {
+                  "categoryId": 200838,
+                  "categoryName": "Mirror/ Parts",
+                  "level": 2,
+                  "children": [],
+                  "productId": 4210
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "├── Cabine du conducteur/carrosserie [ID: 200022] (Niveau 1)\n│   └── Miroirs/accessoires (Niveau 2)\n│       └── Mirror/ Accessories [ID: 200024] (Niveau 2) → ProductId: 4210\n\n└── Équipement / accessoires [ID: 200067] (Niveau 1)\n    └── Mirroir/ accessoires (Niveau 2)\n        └── Mirror/ Parts [ID: 200838] (Niveau 2) → ProductId: 4210",
+      "productIdsInArbo": [
+        4210
+      ],
+      "matchedProductIds": [
+        4210
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:47:18.870Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "D96187",
+      "index": "E40-15-021-02-11",
+      "tecDoc": "E40-15-021-02-11",
+      "tecDocProd": "112",
+      "articleNumber": "E40-15-021-02-11",
+      "brand": "EIBACH",
+      "shortDescription": "Stabilizer",
+      "description": "Stabilizer, front/rear",
+      "gtuCode": "GTU_07",
+      "packageWeight": "9,340",
+      "packageWidth": "38,000",
+      "packageDepth": "119,000",
+      "packageHeight": "17,000",
+      "customsCode": "87088055",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1097",
+          "primary": false,
+          "name": {
+            "en": "Repair Kit, stabiliser bush"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_92621",
+          "primary": true,
+          "name": {
+            "en": "Stabilizer"
+          }
+        }
+      ]
+    }
+  ]
+}

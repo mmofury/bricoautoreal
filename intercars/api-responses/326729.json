@@ -1,0 +1,43 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "326729",
+      "index": "HP107 504",
+      "tecDoc": "107 504",
+      "tecDocProd": "301",
+      "articleNumber": "107 504",
+      "brand": "HANS PRIES",
+      "shortDescription": "Breather Screw/Valve",
+      "description": "Brake vent (M10x1mm) fits: MERCEDES C T-MODEL (S204), C T-MODEL (S205), C (W204), C (W205), E T-MODEL (S211), E T-MODEL (S212), E (W211), E (W212), GL (X164), GL (X166) 1.0-Electric 08.82-",
+      "gtuCode": "GTU_07",
+      "eans": [
+        "6152730001001"
+      ],
+      "packageWeight": "0,010",
+      "packageWidth": "1,000",
+      "packageDepth": "1,000",
+      "packageHeight": "3,500",
+      "customsCode": "87083099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_5214",
+          "primary": false,
+          "name": {
+            "en": "Bleeder Screw/Valve, wheel brake cylinder"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_2314",
+          "primary": true,
+          "name": {
+            "en": "Breather Screw/Valve"
+          }
+        }
+      ]
+    }
+  ]
+}

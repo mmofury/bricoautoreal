@@ -1,0 +1,40 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "281841",
+      "index": "090.604-10",
+      "tecDoc": "090.604-10A",
+      "tecDocProd": "63",
+      "articleNumber": "090.604-10A",
+      "brand": "PETERS",
+      "shortDescription": "Tow Cable",
+      "description": "Stiff towline (2400mm 32 t, 40)",
+      "gtuCode": "GTU_07",
+      "packageWeight": "25,000",
+      "packageWidth": "10,000",
+      "packageDepth": "249,500",
+      "packageHeight": "6,500",
+      "customsCode": "87082990",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_6085",
+          "primary": false,
+          "name": {
+            "en": "Tow Bar"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1548",
+          "primary": true,
+          "name": {
+            "en": "Tow Cable"
+          }
+        }
+      ]
+    }
+  ]
+}

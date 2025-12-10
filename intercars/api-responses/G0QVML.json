@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G0QVML",
+      "index": "851 250",
+      "tecDoc": "851 250",
+      "tecDocProd": "6487",
+      "articleNumber": "851 250",
+      "brand": "VADEN",
+      "shortDescription": "Mounting, air compressor",
+      "description": "Compressor repair kit",
+      "eans": [
+        "8699031026572"
+      ],
+      "packageWeight": "1,038",
+      "packageWidth": "14,000",
+      "packageDepth": "19,000",
+      "packageHeight": "12,500",
+      "customsCode": "84149000",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3313",
+          "primary": false,
+          "name": {
+            "en": "Cylinder Liner, air compressor"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_5498",
+          "primary": true,
+          "name": {
+            "en": "Mounting, air compressor"
+          }
+        }
+      ]
+    }
+  ]
+}

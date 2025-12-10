@@ -1,0 +1,85 @@
+{
+  "productName": "Courroie trapézoïdale composite",
+  "productId": 2648,
+  "searchText": "Courroie trapézoïdale composite",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Commande à courroie/courroie crantées": {
+          "categoryId": 200048,
+          "categoryName": "Commande à courroie/courroie crantées",
+          "level": 1,
+          "children": {
+            "Courroie trapézoïdale composite": {
+              "categoryId": null,
+              "categoryName": "Courroie trapézoïdale composite",
+              "level": 2,
+              "children": {
+                "Courroie trapézoïdale composite": {
+                  "categoryId": 201102,
+                  "categoryName": "Banded V-Belts",
+                  "level": 2,
+                  "children": [],
+                  "productId": 2648
+                }
+              }
+            }
+          }
+        },
+        "Moteur": {
+          "categoryId": 200026,
+          "categoryName": "Moteur",
+          "level": 1,
+          "children": {
+            "Commande à courroie/courroie crantées": {
+              "categoryId": null,
+              "categoryName": "Commande à courroie/courroie crantées",
+              "level": 2,
+              "children": {
+                "Courroie trapézoïdale composite": {
+                  "categoryId": 204333,
+                  "categoryName": "Belt Drive/ Timing Belts",
+                  "level": 2,
+                  "children": {
+                    "Courroie trapézoïdale composite": {
+                      "categoryId": null,
+                      "categoryName": "Courroie trapézoïdale composite",
+                      "level": 4,
+                      "children": {
+                        "Courroie trapézoïdale composite": {
+                          "categoryId": 204357,
+                          "categoryName": "Banded V-Belts",
+                          "level": 3,
+                          "children": [],
+                          "productId": 2648
+                        }
+                      }
+                    }
+                  },
+                  "productId": 2648
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "├── Commande à courroie/courroie crantées [ID: 200048] (Niveau 1)\n│   └── Courroie trapézoïdale composite (Niveau 2)\n│       └── Banded V-Belts [ID: 201102] (Niveau 2) → ProductId: 2648\n\n└── Moteur [ID: 200026] (Niveau 1)\n    └── Commande à courroie/courroie crantées (Niveau 2)\n        └── Belt Drive/ Timing Belts [ID: 204333] (Niveau 2) → ProductId: 2648\n            └── Courroie trapézoïdale composite (Niveau 4)\n                └── Banded V-Belts [ID: 204357] (Niveau 3) → ProductId: 2648",
+      "productIdsInArbo": [
+        2648
+      ],
+      "matchedProductIds": [
+        2648
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:12:57.759Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

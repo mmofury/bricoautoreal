@@ -1,0 +1,54 @@
+{
+  "productName": "Bouchon, réservoir du liquide de frein",
+  "searchText": "Bouchon, réservoir du liquide de frein",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:08:51.769Z",
+  "productId": 55,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Liquide de frein/Filtre déshydratant": {
+          "categoryId": null,
+          "categoryName": "Liquide de frein/Filtre déshydratant",
+          "level": 2,
+          "children": {
+            "Bouchon, réservoir du liquide de frein": {
+              "categoryId": 100029,
+              "categoryName": "Brake Fluid Reservoir/parts",
+              "level": 2,
+              "children": [],
+              "productId": 55
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif de freinage [ID: 100006] (Niveau 1)\n    └── Liquide de frein/Filtre déshydratant (Niveau 2)\n        └── Brake Fluid Reservoir/parts [ID: 100029] (Niveau 2) → ProductId: 55",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Liquide de frein/Filtre déshydratant",
+        "Brake Fluid Reservoir/parts"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100029
+      ],
+      "finalCategoryId": 100029,
+      "productId": 55
+    }
+  ],
+  "productIdsInArbo": [
+    55
+  ],
+  "matchedProductIds": [
+    55
+  ]
+}

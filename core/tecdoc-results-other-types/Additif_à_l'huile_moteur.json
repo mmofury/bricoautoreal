@@ -1,0 +1,110 @@
+{
+  "productName": "Additif à l'huile moteur",
+  "searchText": "Additif à l'huile moteur",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 3,
+      "found": true,
+      "hasMatch": false,
+      "arborescence": {
+        "Moteur": {
+          "categoryId": 100002,
+          "categoryName": "Moteur",
+          "level": 1,
+          "children": {
+            "Lubrification": {
+              "categoryId": null,
+              "categoryName": "Lubrification",
+              "level": 2,
+              "children": {
+                "Additif à l'huile moteur": {
+                  "categoryId": 100245,
+                  "categoryName": "Lubrication",
+                  "level": 2,
+                  "children": {
+                    "Huiles": {
+                      "categoryId": null,
+                      "categoryName": "Huiles",
+                      "level": 4,
+                      "children": {
+                        "Additif à l'huile moteur": {
+                          "categoryId": 101994,
+                          "categoryName": "Oil",
+                          "level": 3,
+                          "children": [],
+                          "productId": 60113
+                        }
+                      }
+                    }
+                  },
+                  "productId": 60113
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Lubrification (Niveau 2)\n        └── Lubrication [ID: 100245] (Niveau 2) → ProductId: 60113\n            └── Huiles (Niveau 4)\n                └── Oil [ID: 101994] (Niveau 3) → ProductId: 60113",
+      "productIdsInArbo": [
+        60113
+      ]
+    },
+    {
+      "typeId": 4,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 5,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 6,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 7,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 8,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 9,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 10,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 11,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 12,
+      "found": false,
+      "hasMatch": false
+    }
+  ],
+  "timestamp": "2025-12-03T09:38:01.263Z",
+  "bestMatch": {
+    "typeId": 3,
+    "found": true,
+    "hasMatch": false
+  }
+}

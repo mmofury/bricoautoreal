@@ -1,0 +1,106 @@
+{
+  "productName": "Kit de réparation, alternateur",
+  "searchText": "Kit de réparation, alternateur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:03:22.582Z",
+  "productId": 2269,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Alternateur / composants": {
+          "categoryId": null,
+          "categoryName": "Alternateur / composants",
+          "level": 2,
+          "children": {
+            "Kit de réparation, alternateur": {
+              "categoryId": 100041,
+              "categoryName": "Alternator/Parts",
+              "level": 2,
+              "children": {
+                "Alternateur": {
+                  "categoryId": null,
+                  "categoryName": "Alternateur",
+                  "level": 4,
+                  "children": {
+                    "Kit de réparation, alternateur": {
+                      "categoryId": 100350,
+                      "categoryName": "Alternator",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2269
+                    }
+                  }
+                }
+              },
+              "productId": 2269
+            },
+            "Kit de réparation, alternateur stator": {
+              "categoryId": 100041,
+              "categoryName": "Alternator/Parts",
+              "level": 2,
+              "children": {
+                "Composants": {
+                  "categoryId": null,
+                  "categoryName": "Composants",
+                  "level": 4,
+                  "children": {
+                    "Kit de réparation, alternateur stator": {
+                      "categoryId": 100352,
+                      "categoryName": "Generator/ Alternator Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4971
+                    }
+                  }
+                }
+              },
+              "productId": 4971
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Alternateur / composants (Niveau 2)\n        ├── Alternator/Parts [ID: 100041] (Niveau 2) → ProductId: 2269\n        │   └── Alternateur (Niveau 4)\n        │       └── Alternator [ID: 100350] (Niveau 3) → ProductId: 2269\n        └── Alternator/Parts [ID: 100041] (Niveau 2) → ProductId: 4971\n            └── Composants (Niveau 4)\n                └── Generator/ Alternator Parts [ID: 100352] (Niveau 3) → ProductId: 4971",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Alternateur / composants",
+        "Alternator/Parts"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100041
+      ],
+      "finalCategoryId": 100041,
+      "productId": 2269
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Alternateur / composants",
+        "Alternator/Parts"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100041
+      ],
+      "finalCategoryId": 100041,
+      "productId": 4971
+    }
+  ],
+  "productIdsInArbo": [
+    2269,
+    4971
+  ],
+  "matchedProductIds": [
+    2269
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "productName": "Carte de circuit imprimé, mécatronique (BVR)",
+  "searchText": "Carte de circuit imprimé, mécatronique (BVR)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:18:02.966Z",
+  "productId": 60505,
+  "arborescence": {
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Boîte de vitesses manuelle robotisée (BVR)": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesses manuelle robotisée (BVR)",
+          "level": 2,
+          "children": {
+            "Carte de circuit imprimé, mécatronique (BVR)": {
+              "categoryId": 706584,
+              "categoryName": "Automated manual transmission (AMT)",
+              "level": 2,
+              "children": {
+                "Contrôle / hydraulique": {
+                  "categoryId": null,
+                  "categoryName": "Contrôle / hydraulique",
+                  "level": 4,
+                  "children": {
+                    "Carte de circuit imprimé, mécatronique (BVR)": {
+                      "categoryId": 706621,
+                      "categoryName": "Transmission Control/Hydraulics",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60505
+                    }
+                  }
+                }
+              },
+              "productId": 60505
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Boîte de vitesses [ID: 100238] (Niveau 1)\n    └── Boîte de vitesses manuelle robotisée (BVR) (Niveau 2)\n        └── Automated manual transmission (AMT) [ID: 706584] (Niveau 2) → ProductId: 60505\n            └── Contrôle / hydraulique (Niveau 4)\n                └── Transmission Control/Hydraulics [ID: 706621] (Niveau 3) → ProductId: 60505",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesses manuelle robotisée (BVR)",
+        "Automated manual transmission (AMT)"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        706584
+      ],
+      "finalCategoryId": 706584,
+      "productId": 60505
+    }
+  ],
+  "productIdsInArbo": [
+    60505
+  ],
+  "matchedProductIds": [
+    60505
+  ]
+}

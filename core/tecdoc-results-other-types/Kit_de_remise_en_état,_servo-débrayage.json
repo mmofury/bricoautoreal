@@ -1,0 +1,49 @@
+{
+  "productName": "Kit de remise en état, servo-débrayage",
+  "productId": 2395,
+  "searchText": "Kit de remise en état, servo-débrayage",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Embrayage": {
+          "categoryId": 200053,
+          "categoryName": "Embrayage",
+          "level": 1,
+          "children": {
+            "Servo-débrayeur": {
+              "categoryId": null,
+              "categoryName": "Servo-débrayeur",
+              "level": 2,
+              "children": {
+                "Kit de remise en état, servo-débrayage": {
+                  "categoryId": 200292,
+                  "categoryName": "Clutch Booster",
+                  "level": 2,
+                  "children": [],
+                  "productId": 2395
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Embrayage [ID: 200053] (Niveau 1)\n    └── Servo-débrayeur (Niveau 2)\n        └── Clutch Booster [ID: 200292] (Niveau 2) → ProductId: 2395",
+      "productIdsInArbo": [
+        2395
+      ],
+      "matchedProductIds": [
+        2395
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:45:21.516Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

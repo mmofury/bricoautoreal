@@ -1,0 +1,64 @@
+{
+  "productName": "Plaque d'arrêt, étrier de frein",
+  "productId": 5151,
+  "searchText": "Plaque d'arrêt, étrier de frein",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Dispositif de freinage": {
+          "categoryId": 200058,
+          "categoryName": "Dispositif de freinage",
+          "level": 1,
+          "children": {
+            "Étrier de frein": {
+              "categoryId": null,
+              "categoryName": "Étrier de frein",
+              "level": 2,
+              "children": {
+                "Plaque d'arrêt, étrier de frein": {
+                  "categoryId": 201084,
+                  "categoryName": "Brake Caliper",
+                  "level": 2,
+                  "children": {
+                    "Composants": {
+                      "categoryId": null,
+                      "categoryName": "Composants",
+                      "level": 4,
+                      "children": {
+                        "Plaque d'arrêt, étrier de frein": {
+                          "categoryId": 201085,
+                          "categoryName": "Parts",
+                          "level": 3,
+                          "children": [],
+                          "productId": 5151
+                        }
+                      }
+                    }
+                  },
+                  "productId": 5151
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Dispositif de freinage [ID: 200058] (Niveau 1)\n    └── Étrier de frein (Niveau 2)\n        └── Brake Caliper [ID: 201084] (Niveau 2) → ProductId: 5151\n            └── Composants (Niveau 4)\n                └── Parts [ID: 201085] (Niveau 3) → ProductId: 5151",
+      "productIdsInArbo": [
+        5151
+      ],
+      "matchedProductIds": [
+        5151
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:11:38.959Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

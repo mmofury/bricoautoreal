@@ -1,0 +1,69 @@
+{
+  "productName": "Porte, Cabine chauffeur",
+  "searchText": "Porte, Cabine chauffeur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:02:56.831Z",
+  "productId": 1259,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Trappes/capots/portes/toit coul./toit panoram./toit pliant": {
+          "categoryId": null,
+          "categoryName": "Trappes/capots/portes/toit coul./toit panoram./toit pliant",
+          "level": 2,
+          "children": {
+            "Porte, Cabine chauffeur": {
+              "categoryId": 100746,
+              "categoryName": "Hatches/Bonnets/Doors/Sunroof/Panoramic Roof",
+              "level": 2,
+              "children": {
+                "Portière avant/composants": {
+                  "categoryId": null,
+                  "categoryName": "Portière avant/composants",
+                  "level": 4,
+                  "children": {
+                    "Porte, Cabine chauffeur": {
+                      "categoryId": 100189,
+                      "categoryName": "Doors/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1259
+                    }
+                  }
+                }
+              },
+              "productId": 1259
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    └── Trappes/capots/portes/toit coul./toit panoram./toit pliant (Niveau 2)\n        └── Hatches/Bonnets/Doors/Sunroof/Panoramic Roof [ID: 100746] (Niveau 2) → ProductId: 1259\n            └── Portière avant/composants (Niveau 4)\n                └── Doors/Parts [ID: 100189] (Niveau 3) → ProductId: 1259",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Trappes/capots/portes/toit coul./toit panoram./toit pliant",
+        "Hatches/Bonnets/Doors/Sunroof/Panoramic Roof"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100746
+      ],
+      "finalCategoryId": 100746,
+      "productId": 1259
+    }
+  ],
+  "productIdsInArbo": [
+    1259
+  ],
+  "matchedProductIds": [
+    1259
+  ]
+}

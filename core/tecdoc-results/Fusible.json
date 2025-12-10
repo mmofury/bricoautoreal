@@ -1,0 +1,254 @@
+{
+  "productName": "Fusible",
+  "searchText": "Fusible",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T20:41:46.808Z",
+  "productId": 818,
+  "arborescence": {
+    "Entraînement hybride/électrique": {
+      "categoryId": 706209,
+      "categoryName": "Entraînement hybride/électrique",
+      "level": 1,
+      "children": {
+        "Boîte à fusibles": {
+          "categoryId": null,
+          "categoryName": "Boîte à fusibles",
+          "level": 2,
+          "children": {
+            "câble de raccord., boîte à fusibles (batterie entraînement)": {
+              "categoryId": 706731,
+              "categoryName": "Security Box",
+              "level": 2,
+              "children": [],
+              "productId": 60641
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Cylindre et piston": {
+          "categoryId": null,
+          "categoryName": "Cylindre et piston",
+          "level": 2,
+          "children": {
+            "Fusible, axe de piston": {
+              "categoryId": 104377,
+              "categoryName": "Cylinders/Pistons",
+              "level": 2,
+              "children": [],
+              "productId": 588
+            }
+          }
+        },
+        "Système bielle-manivelle": {
+          "categoryId": null,
+          "categoryName": "Système bielle-manivelle",
+          "level": 2,
+          "children": {
+            "Fusible, axe de piston": {
+              "categoryId": 100515,
+              "categoryName": "Crankshaft Drive",
+              "level": 2,
+              "children": {
+                "Piston": {
+                  "categoryId": null,
+                  "categoryName": "Piston",
+                  "level": 4,
+                  "children": {
+                    "Fusible, axe de piston": {
+                      "categoryId": 100520,
+                      "categoryName": "Piston",
+                      "level": 3,
+                      "children": {
+                        "Axe de piston / fixation": {
+                          "categoryId": null,
+                          "categoryName": "Axe de piston / fixation",
+                          "level": 6,
+                          "children": {
+                            "Fusible, axe de piston": {
+                              "categoryId": 100532,
+                              "categoryName": "Piston Pin/Circlip",
+                              "level": 4,
+                              "children": [],
+                              "productId": 588
+                            }
+                          }
+                        }
+                      },
+                      "productId": 588
+                    }
+                  }
+                }
+              },
+              "productId": 588
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Boîte à fusibles / support": {
+          "categoryId": null,
+          "categoryName": "Boîte à fusibles / support",
+          "level": 2,
+          "children": {
+            "Boîte à fusibles": {
+              "categoryId": 102336,
+              "categoryName": "Fuse Box/Holder",
+              "level": 2,
+              "children": [],
+              "productId": 3420
+            },
+            "Porte-fusibles": {
+              "categoryId": 102336,
+              "categoryName": "Fuse Box/Holder",
+              "level": 2,
+              "children": [],
+              "productId": 5026
+            }
+          }
+        },
+        "Plombs": {
+          "categoryId": null,
+          "categoryName": "Plombs",
+          "level": 2,
+          "children": {
+            "Fusible": {
+              "categoryId": 706659,
+              "categoryName": "Fuses",
+              "level": 2,
+              "children": [],
+              "productId": 60475
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Entraînement hybride/électrique [ID: 706209] (Niveau 1)\n│   └── Boîte à fusibles (Niveau 2)\n│       └── Security Box [ID: 706731] (Niveau 2) → ProductId: 60641\n\n├── Moteur [ID: 100002] (Niveau 1)\n│   ├── Cylindre et piston (Niveau 2)\n│   │   └── Cylinders/Pistons [ID: 104377] (Niveau 2) → ProductId: 588\n│   └── Système bielle-manivelle (Niveau 2)\n│       └── Crankshaft Drive [ID: 100515] (Niveau 2) → ProductId: 588\n│           └── Piston (Niveau 4)\n│               └── Piston [ID: 100520] (Niveau 3) → ProductId: 588\n│                   └── Axe de piston / fixation (Niveau 6)\n│                       └── Piston Pin/Circlip [ID: 100532] (Niveau 4) → ProductId: 588\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    ├── Boîte à fusibles / support (Niveau 2)\n    │   ├── Fuse Box/Holder [ID: 102336] (Niveau 2) → ProductId: 3420\n    │   └── Fuse Box/Holder [ID: 102336] (Niveau 2) → ProductId: 5026\n    └── Plombs (Niveau 2)\n        └── Fuses [ID: 706659] (Niveau 2) → ProductId: 60475",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement hybride/électrique",
+        "Boîte à fusibles",
+        "Security Box"
+      ],
+      "categoryIds": [
+        706209,
+        null,
+        706731
+      ],
+      "finalCategoryId": 706731,
+      "productId": 60641
+    },
+    {
+      "path": [
+        "Moteur",
+        "Cylindre et piston",
+        "Cylinders/Pistons"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        104377
+      ],
+      "finalCategoryId": 104377,
+      "productId": 588
+    },
+    {
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Crankshaft Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100515
+      ],
+      "finalCategoryId": 100515,
+      "productId": 588
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Boîte à fusibles / support",
+        "Fuse Box/Holder"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        102336
+      ],
+      "finalCategoryId": 102336,
+      "productId": 3420
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Boîte à fusibles / support",
+        "Fuse Box/Holder"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        102336
+      ],
+      "finalCategoryId": 102336,
+      "productId": 5026
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Plombs",
+        "Fuses"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        706659
+      ],
+      "finalCategoryId": 706659,
+      "productId": 60475
+    }
+  ],
+  "productIdsInArbo": [
+    588,
+    3420,
+    5026,
+    60475,
+    60641
+  ],
+  "closestProductIds": [
+    {
+      "productId": 588,
+      "productName": "Fusible, axe de piston"
+    },
+    {
+      "productId": 3420,
+      "productName": "Boîte à fusibles"
+    },
+    {
+      "productId": 5026,
+      "productName": "Porte-fusibles"
+    },
+    {
+      "productId": 60475,
+      "productName": "Fusible"
+    },
+    {
+      "productId": 60641,
+      "productName": "câble de raccord., boîte à fusibles (batterie entraînement)"
+    }
+  ]
+}

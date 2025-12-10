@@ -1,0 +1,104 @@
+{
+  "productName": "Vis, poulie de tension",
+  "searchText": "Vis, poulie de tension",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:35:02.819Z",
+  "productId": 2922,
+  "arborescence": {
+    "Commande à courroie": {
+      "categoryId": 100016,
+      "categoryName": "Commande à courroie",
+      "level": 1,
+      "children": {
+        "Accessoires": {
+          "categoryId": null,
+          "categoryName": "Accessoires",
+          "level": 2,
+          "children": {
+            "Vis, poulie de tension": {
+              "categoryId": 101482,
+              "categoryName": "Accessories/Small Parts",
+              "level": 2,
+              "children": [],
+              "productId": 2922
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Commande à courroie": {
+          "categoryId": null,
+          "categoryName": "Commande à courroie",
+          "level": 2,
+          "children": {
+            "Vis, poulie de tension": {
+              "categoryId": 104302,
+              "categoryName": "Belt Drive",
+              "level": 2,
+              "children": {
+                "Accessoires": {
+                  "categoryId": null,
+                  "categoryName": "Accessoires",
+                  "level": 4,
+                  "children": {
+                    "Vis, poulie de tension": {
+                      "categoryId": 104328,
+                      "categoryName": "Accessories/Small Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2922
+                    }
+                  }
+                }
+              },
+              "productId": 2922
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Commande à courroie [ID: 100016] (Niveau 1)\n│   └── Accessoires (Niveau 2)\n│       └── Accessories/Small Parts [ID: 101482] (Niveau 2) → ProductId: 2922\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Commande à courroie (Niveau 2)\n        └── Belt Drive [ID: 104302] (Niveau 2) → ProductId: 2922\n            └── Accessoires (Niveau 4)\n                └── Accessories/Small Parts [ID: 104328] (Niveau 3) → ProductId: 2922",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Commande à courroie",
+        "Accessoires",
+        "Accessories/Small Parts"
+      ],
+      "categoryIds": [
+        100016,
+        null,
+        101482
+      ],
+      "finalCategoryId": 101482,
+      "productId": 2922
+    },
+    {
+      "path": [
+        "Moteur",
+        "Commande à courroie",
+        "Belt Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        104302
+      ],
+      "finalCategoryId": 104302,
+      "productId": 2922
+    }
+  ],
+  "productIdsInArbo": [
+    2922
+  ],
+  "matchedProductIds": [
+    2922
+  ]
+}

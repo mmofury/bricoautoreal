@@ -1,0 +1,89 @@
+{
+  "productName": "Appareil de commande, détection d’angle mort",
+  "searchText": "Appareil de commande, détection d’angle mort",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T18:55:14.114Z",
+  "productId": 8201,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Appareils de commande": {
+          "categoryId": null,
+          "categoryName": "Appareils de commande",
+          "level": 2,
+          "children": {
+            "Appareil de commande, détection d’angle mort": {
+              "categoryId": 100727,
+              "categoryName": "Control Units",
+              "level": 2,
+              "children": [],
+              "productId": 8201
+            }
+          }
+        }
+      }
+    },
+    "Systèmes de sécurité": {
+      "categoryId": 100417,
+      "categoryName": "Systèmes de sécurité",
+      "level": 1,
+      "children": {
+        "Assistant-changement de voie": {
+          "categoryId": null,
+          "categoryName": "Assistant-changement de voie",
+          "level": 2,
+          "children": {
+            "Appareil de commande, détection d’angle mort": {
+              "categoryId": 104739,
+              "categoryName": "Lane Changing Assist",
+              "level": 2,
+              "children": [],
+              "productId": 8201
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Système électrique [ID: 100010] (Niveau 1)\n│   └── Appareils de commande (Niveau 2)\n│       └── Control Units [ID: 100727] (Niveau 2) → ProductId: 8201\n\n└── Systèmes de sécurité [ID: 100417] (Niveau 1)\n    └── Assistant-changement de voie (Niveau 2)\n        └── Lane Changing Assist [ID: 104739] (Niveau 2) → ProductId: 8201",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Appareils de commande",
+        "Control Units"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100727
+      ],
+      "finalCategoryId": 100727,
+      "productId": 8201
+    },
+    {
+      "path": [
+        "Systèmes de sécurité",
+        "Assistant-changement de voie",
+        "Lane Changing Assist"
+      ],
+      "categoryIds": [
+        100417,
+        null,
+        104739
+      ],
+      "finalCategoryId": 104739,
+      "productId": 8201
+    }
+  ],
+  "productIdsInArbo": [
+    8201
+  ],
+  "matchedProductIds": [
+    8201
+  ]
+}

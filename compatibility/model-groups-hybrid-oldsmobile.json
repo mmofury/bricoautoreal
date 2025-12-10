@@ -1,0 +1,694 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.438Z",
+  "manufacturer": "OLDSMOBILE",
+  "countGroups": 19,
+  "groups": [
+    {
+      "manufacturerId": 1141,
+      "manufacturerName": "OLDSMOBILE",
+      "groupKey": "88",
+      "displayName": "88",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33021,
+          "modelName": "88 A trois volumes",
+          "modelYearFrom": "1990-09-01",
+          "modelYearTo": "1999-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1141,
+      "manufacturerName": "OLDSMOBILE",
+      "groupKey": "ACHIEVA",
+      "displayName": "ACHIEVA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11891,
+          "modelName": "ACHIEVA A trois volumes",
+          "modelYearFrom": "1991-09-01",
+          "modelYearTo": "1998-12-01"
+        },
+        {
+          "modelId": 33023,
+          "modelName": "ACHIEVA Coupé",
+          "modelYearFrom": "1991-09-01",
+          "modelYearTo": "1997-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1141,
+      "manufacturerName": "OLDSMOBILE",
+      "groupKey": "ALERO",
+      "displayName": "ALERO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33025,
+          "modelName": "ALERO Coupé",
+          "modelYearFrom": "1998-09-01",
+          "modelYearTo": "2004-12-01"
+        },
+        {
+          "modelId": 33026,
+          "modelName": "ALERO A trois volumes",
+          "modelYearFrom": "1998-09-01",
+          "modelYearTo": "2004-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1141,
+      "manufacturerName": "OLDSMOBILE",
+      "groupKey": "AURORA",
+      "displayName": "AURORA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33027,
+          "modelName": "AURORA A trois volumes",
+          "modelYearFrom": "2000-09-01",
+          "modelYearTo": "2003-12-01"
+        },
+        {
+          "modelId": 38411,
+          "modelName": "AURORA A trois volumes",
+          "modelYearFrom": "1994-09-01",
+          "modelYearTo": "1999-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1141,
+      "manufacturerName": "OLDSMOBILE",
+      "groupKey": "BRAVADA",
+      "displayName": "BRAVADA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33029,
+          "modelName": "BRAVADA SUV",
+          "modelYearFrom": "1990-09-01",
+          "modelYearTo": "1994-12-01"
+        },
+        {
+          "modelId": 35351,
+          "modelName": "BRAVADA SUV",
+          "modelYearFrom": "1995-09-01",
+          "modelYearTo": "2001-12-01"
+        },
+        {
+          "modelId": 35352,
+          "modelName": "BRAVADA SUV",
+          "modelYearFrom": "2001-09-01",
+          "modelYearTo": "2004-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1141,
+      "manufacturerName": "OLDSMOBILE",
+      "groupKey": "CALAIS",
+      "displayName": "CALAIS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33030,
+          "modelName": "CALAIS Décapotable",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1985-12-01"
+        },
+        {
+          "modelId": 33031,
+          "modelName": "CALAIS Coupé",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 33032,
+          "modelName": "CALAIS A trois volumes",
+          "modelYearFrom": "1985-09-01",
+          "modelYearTo": "1987-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1141,
+      "manufacturerName": "OLDSMOBILE",
+      "groupKey": "CUSTOM",
+      "displayName": "CUSTOM",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14666,
+          "modelName": "CUSTOM CRUISER Break",
+          "modelYearFrom": "1990-09-01",
+          "modelYearTo": "1992-12-01"
+        },
+        {
+          "modelId": 33034,
+          "modelName": "CUSTOM CRUISER Break",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1976-12-01"
+        },
+        {
+          "modelId": 35353,
+          "modelName": "CUSTOM CRUISER Break",
+          "modelYearFrom": "1976-09-01",
+          "modelYearTo": "1990-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1141,
+      "manufacturerName": "OLDSMOBILE",
+      "groupKey": "CUTLASS",
+      "displayName": "CUTLASS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3525,
+          "modelName": "CUTLASS SUPREME Coupé",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "1997-12-01"
+        },
+        {
+          "modelId": 6877,
+          "modelName": "CUTLASS CIERA",
+          "modelYearFrom": "1989-01-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 10408,
+          "modelName": "CUTLASS A trois volumes",
+          "modelYearFrom": "1963-09-01",
+          "modelYearTo": "1967-12-01"
+        },
+        {
+          "modelId": 10409,
+          "modelName": "CUTLASS A trois volumes",
+          "modelYearFrom": "1968-09-01",
+          "modelYearTo": "1972-12-01"
+        },
+        {
+          "modelId": 10410,
+          "modelName": "CUTLASS A trois volumes",
+          "modelYearFrom": "1995-09-01",
+          "modelYearTo": "1999-12-01"
+        },
+        {
+          "modelId": 10932,
+          "modelName": "CUTLASS SUPREME A trois volumes",
+          "modelYearFrom": "1988-10-01",
+          "modelYearTo": "1997-09-01"
+        },
+        {
+          "modelId": 10944,
+          "modelName": "CUTLASS SUPREME A trois volumes",
+          "modelYearFrom": "1977-01-01",
+          "modelYearTo": "1988-12-01"
+        },
+        {
+          "modelId": 11824,
+          "modelName": "CUTLASS CIERA Coupé",
+          "modelYearFrom": "1988-09-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 11826,
+          "modelName": "CUTLASS CIERA Break",
+          "modelYearFrom": "1988-09-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 11827,
+          "modelName": "CUTLASS CRUISER Break",
+          "modelYearFrom": "1983-09-01",
+          "modelYearTo": "1994-12-01"
+        },
+        {
+          "modelId": 14775,
+          "modelName": "CUTLASS Coupé",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "1997-12-01"
+        },
+        {
+          "modelId": 33035,
+          "modelName": "CUTLASS A trois volumes",
+          "modelYearFrom": "1961-09-01",
+          "modelYearTo": "1963-12-01"
+        },
+        {
+          "modelId": 33036,
+          "modelName": "CUTLASS Coupé",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 33037,
+          "modelName": "CUTLASS A trois volumes",
+          "modelYearFrom": "1973-09-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 33038,
+          "modelName": "CUTLASS Break",
+          "modelYearFrom": "1975-09-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 33039,
+          "modelName": "CUTLASS CALAIS Coupé",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1984-12-01"
+        },
+        {
+          "modelId": 33040,
+          "modelName": "CUTLASS CALAIS A trois volumes",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "1991-12-01"
+        },
+        {
+          "modelId": 33042,
+          "modelName": "CUTLASS CIERA Coupé",
+          "modelYearFrom": "1981-09-01",
+          "modelYearTo": "1988-12-01"
+        },
+        {
+          "modelId": 33043,
+          "modelName": "CUTLASS CIERA",
+          "modelYearFrom": "1981-09-01",
+          "modelYearTo": "1988-12-01"
+        },
+        {
+          "modelId": 33044,
+          "modelName": "CUTLASS CIERA Break",
+          "modelYearFrom": "1983-09-01",
+          "modelYearTo": "1988-12-01"
+        },
+        {
+          "modelId": 33046,
+          "modelName": "CUTLASS CRUISER Break",
+          "modelYearFrom": "1979-09-01",
+          "modelYearTo": "1983-12-01"
+        },
+        {
+          "modelId": 33047,
+          "modelName": "CUTLASS SALON Coupé",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 33048,
+          "modelName": "CUTLASS SALON A trois volumes",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1975-12-01"
+        },
+        {
+          "modelId": 33050,
+          "modelName": "CUTLASS SUPREME Décapotable",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "1997-12-01"
+        },
+        {
+          "modelId": 33051,
+          "modelName": "CUTLASS SUPREME Coupé",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 33052,
+          "modelName": "CUTLASS SUPREME A trois volumes",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 33053,
+          "modelName": "CUTLASS SUPREME Break",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 33054,
+          "modelName": "CUTLASS TIARA Coupé",
+          "modelYearFrom": "1975-09-01",
+          "modelYearTo": "1976-12-01"
+        },
+        {
+          "modelId": 35354,
+          "modelName": "CUTLASS SUPREME Coupé",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1988-12-01"
+        },
+        {
+          "modelId": 35358,
+          "modelName": "CUTLASS SALON Coupé",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 35359,
+          "modelName": "CUTLASS SALON A trois volumes",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1981-12-01"
+        },
+        {
+          "modelId": 35360,
+          "modelName": "CUTLASS Break",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1979-12-01"
+        },
+        {
+          "modelId": 35361,
+          "modelName": "CUTLASS A trois volumes",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1981-12-01"
+        },
+        {
+          "modelId": 35362,
+          "modelName": "CUTLASS Coupé",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1988-12-01"
+        },
+        {
+          "modelId": 35363,
+          "modelName": "CUTLASS CALAIS Coupé",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1991-12-01"
+        },
+        {
+          "modelId": 35908,
+          "modelName": "CUTLASS Coupé",
+          "modelYearFrom": "1994-09-01",
+          "modelYearTo": "1996-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1141,
+      "manufacturerName": "OLDSMOBILE",
+      "groupKey": "DELTA",
+      "displayName": "DELTA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11376,
+          "modelName": "DELTA 88",
+          "modelYearFrom": "1986-01-01",
+          "modelYearTo": "1991-12-01"
+        },
+        {
+          "modelId": 33057,
+          "modelName": "DELTA 88 A trois volumes",
+          "modelYearFrom": "1966-09-01",
+          "modelYearTo": "1974-12-01"
+        },
+        {
+          "modelId": 33058,
+          "modelName": "DELTA 88 Décapotable",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1975-12-01"
+        },
+        {
+          "modelId": 33059,
+          "modelName": "DELTA 88 Coupé",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1976-12-01"
+        },
+        {
+          "modelId": 33060,
+          "modelName": "DELTA 88 A trois volumes",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1976-12-01"
+        },
+        {
+          "modelId": 35364,
+          "modelName": "DELTA 88 A trois volumes",
+          "modelYearFrom": "1976-09-01",
+          "modelYearTo": "1985-12-01"
+        },
+        {
+          "modelId": 35366,
+          "modelName": "DELTA 88 Coupé",
+          "modelYearFrom": "1976-09-01",
+          "modelYearTo": "1986-12-01"
+        },
+        {
+          "modelId": 35367,
+          "modelName": "DELTA 88 Coupé",
+          "modelYearFrom": "1985-09-01",
+          "modelYearTo": "1991-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1141,
+      "manufacturerName": "OLDSMOBILE",
+      "groupKey": "FIRENZA",
+      "displayName": "FIRENZA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33069,
+          "modelName": "FIRENZA A trois volumes",
+          "modelYearFrom": "1981-09-01",
+          "modelYearTo": "1988-12-01"
+        },
+        {
+          "modelId": 33070,
+          "modelName": "FIRENZA Coupé",
+          "modelYearFrom": "1985-09-01",
+          "modelYearTo": "1988-12-01"
+        },
+        {
+          "modelId": 33071,
+          "modelName": "FIRENZA Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1981-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 33073,
+          "modelName": "FIRENZA Break",
+          "modelYearFrom": "1982-09-01",
+          "modelYearTo": "1988-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1141,
+      "manufacturerName": "OLDSMOBILE",
+      "groupKey": "INTRIGUE",
+      "displayName": "INTRIGUE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33075,
+          "modelName": "INTRIGUE A trois volumes",
+          "modelYearFrom": "1997-09-01",
+          "modelYearTo": "2002-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1141,
+      "manufacturerName": "OLDSMOBILE",
+      "groupKey": "LSS",
+      "displayName": "LSS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33084,
+          "modelName": "LSS A trois volumes",
+          "modelYearFrom": "1995-09-01",
+          "modelYearTo": "1999-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1141,
+      "manufacturerName": "OLDSMOBILE",
+      "groupKey": "NINETY",
+      "displayName": "NINETY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14662,
+          "modelName": "NINETY-EIGHT A trois volumes",
+          "modelYearFrom": "1990-09-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 14663,
+          "modelName": "NINETY-EIGHT A trois volumes",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1990-12-01"
+        },
+        {
+          "modelId": 33130,
+          "modelName": "NINETY EIGHT Coupé",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1976-12-01"
+        },
+        {
+          "modelId": 33131,
+          "modelName": "NINETY EIGHT A trois volumes",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1976-12-01"
+        },
+        {
+          "modelId": 33132,
+          "modelName": "NINETY-EIGHT Coupé",
+          "modelYearFrom": "1976-09-01",
+          "modelYearTo": "1984-12-01"
+        },
+        {
+          "modelId": 33133,
+          "modelName": "NINETY-EIGHT A trois volumes",
+          "modelYearFrom": "1976-09-01",
+          "modelYearTo": "1984-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1141,
+      "manufacturerName": "OLDSMOBILE",
+      "groupKey": "OMEGA",
+      "displayName": "OMEGA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33135,
+          "modelName": "OMEGA Coupé",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1979-12-01"
+        },
+        {
+          "modelId": 33136,
+          "modelName": "OMEGA Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1979-12-01"
+        },
+        {
+          "modelId": 33137,
+          "modelName": "OMEGA A trois volumes",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1979-12-01"
+        },
+        {
+          "modelId": 35370,
+          "modelName": "OMEGA A trois volumes",
+          "modelYearFrom": "1979-09-01",
+          "modelYearTo": "1984-12-01"
+        },
+        {
+          "modelId": 35371,
+          "modelName": "OMEGA Coupé",
+          "modelYearFrom": "1979-09-01",
+          "modelYearTo": "1984-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1141,
+      "manufacturerName": "OLDSMOBILE",
+      "groupKey": "REGENCY",
+      "displayName": "REGENCY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33138,
+          "modelName": "REGENCY A trois volumes",
+          "modelYearFrom": "1996-09-01",
+          "modelYearTo": "1998-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1141,
+      "manufacturerName": "OLDSMOBILE",
+      "groupKey": "SILHOUETTE",
+      "displayName": "SILHOUETTE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10960,
+          "modelName": "SILHOUETTE",
+          "modelYearFrom": "1989-09-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 35372,
+          "modelName": "SILHOUETTE",
+          "modelYearFrom": "1995-09-01",
+          "modelYearTo": "2004-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1141,
+      "manufacturerName": "OLDSMOBILE",
+      "groupKey": "STARFIRE",
+      "displayName": "STARFIRE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33151,
+          "modelName": "STARFIRE Coupé",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1979-12-01"
+        },
+        {
+          "modelId": 33152,
+          "modelName": "STARFIRE Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1975-09-01",
+          "modelYearTo": "1980-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1141,
+      "manufacturerName": "OLDSMOBILE",
+      "groupKey": "TORONADO",
+      "displayName": "TORONADO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33155,
+          "modelName": "TORONADO Coupé",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1978-12-01"
+        },
+        {
+          "modelId": 35373,
+          "modelName": "TORONADO Coupé",
+          "modelYearFrom": "1978-09-01",
+          "modelYearTo": "1985-12-01"
+        },
+        {
+          "modelId": 35374,
+          "modelName": "TORONADO Coupé",
+          "modelYearFrom": "1985-09-01",
+          "modelYearTo": "1992-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1141,
+      "manufacturerName": "OLDSMOBILE",
+      "groupKey": "VISTA",
+      "displayName": "VISTA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33158,
+          "modelName": "VISTA CRUISER Break",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1975-12-01"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Clé filtre à huile, embrayage multidisque (4 roues motr.)",
+  "searchText": "Clé filtre à huile, embrayage multidisque (4 roues motr.)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:21:17.978Z",
+  "productId": 60976,
+  "arborescence": {
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Clé filtre à huile, embrayage multidisque (4 roues motr.)": {
+              "categoryId": 103157,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 60976
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Boîte de vitesses [ID: 100238] (Niveau 1)\n    └── Outils (Niveau 2)\n        └── Tools [ID: 103157] (Niveau 2) → ProductId: 60976",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        103157
+      ],
+      "finalCategoryId": 103157,
+      "productId": 60976
+    }
+  ],
+  "productIdsInArbo": [
+    60976
+  ],
+  "matchedProductIds": [
+    60976
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G0SSAE",
+      "index": "V10-3671",
+      "tecDoc": "V10-3671",
+      "tecDocProd": "162",
+      "articleNumber": "V10-3671",
+      "brand": "VAICO",
+      "shortDescription": "Vacuum Control Valve, exhaust gas recirculation",
+      "description": "Exhaust gas recirculation control element fits: AUDI A4 B8, A5, A6 ALLROAD C7, A6 C7, A7, A8 D4, Q5, Q7, VW TOUAREG 3.0/3.0H 11.08-09.18",
+      "customsCode": "84818099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_758",
+          "primary": true,
+          "name": {
+            "en": "Vacuum Control Valve, exhaust gas recirculation"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1411",
+          "primary": false,
+          "name": {
+            "en": "Breather Valve, fuel tank"
+          }
+        }
+      ]
+    }
+  ]
+}

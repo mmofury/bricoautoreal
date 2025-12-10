@@ -1,0 +1,43 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "DE277D",
+      "index": "FE49591",
+      "tecDoc": "49591",
+      "tecDocProd": "101",
+      "articleNumber": "49591",
+      "brand": "FEBI",
+      "shortDescription": "Bushing, stabiliser bar",
+      "description": "Rubber ring for stabilizing bar L/R (14/45,5mm) fits: LAND ROVER RANGE ROVER III 3.0D-5.0 03.02-08.12",
+      "gtuCode": "GTU_07",
+      "eans": [
+        "4027816495918"
+      ],
+      "packageWeight": "0,200",
+      "packageWidth": "8,000",
+      "packageDepth": "8,000",
+      "packageHeight": "6,000",
+      "customsCode": "87088099",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_2068",
+          "primary": false,
+          "name": {
+            "en": "Bushing, stabiliser coupling rod"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_331",
+          "primary": true,
+          "name": {
+            "en": "Bushing, stabiliser bar"
+          }
+        }
+      ]
+    }
+  ]
+}

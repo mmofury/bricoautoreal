@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "C6B04B",
+      "index": "HUCO138102",
+      "tecDoc": "138102",
+      "tecDocProd": "449",
+      "articleNumber": "138102",
+      "brand": "HUCO",
+      "shortDescription": "Sensor, crankshaft pulse",
+      "description": "Camshaft position sensor fits: INFINITI FX, NISSAN ALMERA II, ALMERA TINO, CUBE, MICRA C+C III, MICRA II, MICRA III, MURANO I, NOTE, PRIMERA 1.0-4.5 08.92-06.12",
+      "customsCode": "90328900",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3946",
+          "primary": false,
+          "name": {
+            "en": "Sensor, camshaft position"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_833",
+          "primary": true,
+          "name": {
+            "en": "Sensor, crankshaft pulse"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "productName": "Kit de répar., séparateur d’huile (ventilation du carter)",
+  "productId": 60546,
+  "searchText": "Kit de répar., séparateur d’huile (ventilation du carter)",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Moteur": {
+          "categoryId": 200026,
+          "categoryName": "Moteur",
+          "level": 1,
+          "children": {
+            "Carter de vilebrequin": {
+              "categoryId": null,
+              "categoryName": "Carter de vilebrequin",
+              "level": 2,
+              "children": {
+                "Kit de répar., séparateur d’huile (ventilation du carter)": {
+                  "categoryId": 201045,
+                  "categoryName": "Crankcase",
+                  "level": 2,
+                  "children": {
+                    "Ventilation": {
+                      "categoryId": null,
+                      "categoryName": "Ventilation",
+                      "level": 4,
+                      "children": {
+                        "Kit de répar., séparateur d’huile (ventilation du carter)": {
+                          "categoryId": 205865,
+                          "categoryName": "Breather",
+                          "level": 3,
+                          "children": [],
+                          "productId": 60546
+                        }
+                      }
+                    }
+                  },
+                  "productId": 60546
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Moteur [ID: 200026] (Niveau 1)\n    └── Carter de vilebrequin (Niveau 2)\n        └── Crankcase [ID: 201045] (Niveau 2) → ProductId: 60546\n            └── Ventilation (Niveau 4)\n                └── Breather [ID: 205865] (Niveau 3) → ProductId: 60546",
+      "productIdsInArbo": [
+        60546
+      ],
+      "matchedProductIds": [
+        60546
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:45:43.708Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

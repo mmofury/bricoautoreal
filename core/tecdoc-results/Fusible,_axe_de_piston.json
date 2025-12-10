@@ -1,0 +1,112 @@
+{
+  "productName": "Fusible, axe de piston",
+  "searchText": "Fusible, axe de piston",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:41:49.448Z",
+  "productId": 588,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Cylindre et piston": {
+          "categoryId": null,
+          "categoryName": "Cylindre et piston",
+          "level": 2,
+          "children": {
+            "Fusible, axe de piston": {
+              "categoryId": 104377,
+              "categoryName": "Cylinders/Pistons",
+              "level": 2,
+              "children": [],
+              "productId": 588
+            }
+          }
+        },
+        "Système bielle-manivelle": {
+          "categoryId": null,
+          "categoryName": "Système bielle-manivelle",
+          "level": 2,
+          "children": {
+            "Fusible, axe de piston": {
+              "categoryId": 100515,
+              "categoryName": "Crankshaft Drive",
+              "level": 2,
+              "children": {
+                "Piston": {
+                  "categoryId": null,
+                  "categoryName": "Piston",
+                  "level": 4,
+                  "children": {
+                    "Fusible, axe de piston": {
+                      "categoryId": 100520,
+                      "categoryName": "Piston",
+                      "level": 3,
+                      "children": {
+                        "Axe de piston / fixation": {
+                          "categoryId": null,
+                          "categoryName": "Axe de piston / fixation",
+                          "level": 6,
+                          "children": {
+                            "Fusible, axe de piston": {
+                              "categoryId": 100532,
+                              "categoryName": "Piston Pin/Circlip",
+                              "level": 4,
+                              "children": [],
+                              "productId": 588
+                            }
+                          }
+                        }
+                      },
+                      "productId": 588
+                    }
+                  }
+                }
+              },
+              "productId": 588
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    ├── Cylindre et piston (Niveau 2)\n    │   └── Cylinders/Pistons [ID: 104377] (Niveau 2) → ProductId: 588\n    └── Système bielle-manivelle (Niveau 2)\n        └── Crankshaft Drive [ID: 100515] (Niveau 2) → ProductId: 588\n            └── Piston (Niveau 4)\n                └── Piston [ID: 100520] (Niveau 3) → ProductId: 588\n                    └── Axe de piston / fixation (Niveau 6)\n                        └── Piston Pin/Circlip [ID: 100532] (Niveau 4) → ProductId: 588",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Cylindre et piston",
+        "Cylinders/Pistons"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        104377
+      ],
+      "finalCategoryId": 104377,
+      "productId": 588
+    },
+    {
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Crankshaft Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100515
+      ],
+      "finalCategoryId": 100515,
+      "productId": 588
+    }
+  ],
+  "productIdsInArbo": [
+    588
+  ],
+  "matchedProductIds": [
+    588
+  ]
+}

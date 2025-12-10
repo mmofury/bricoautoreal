@@ -1,0 +1,104 @@
+{
+  "productName": "Joint d'étanchéité, tige de bougie",
+  "searchText": "Joint d'étanchéité, tige de bougie",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:53:38.233Z",
+  "productId": 1539,
+  "arborescence": {
+    "Allumage / préchauffage": {
+      "categoryId": 100008,
+      "categoryName": "Allumage / préchauffage",
+      "level": 1,
+      "children": {
+        "Raccords de câble d'allumage": {
+          "categoryId": null,
+          "categoryName": "Raccords de câble d'allumage",
+          "level": 2,
+          "children": {
+            "Joint d'étanchéité, tige de bougie": {
+              "categoryId": 100153,
+              "categoryName": "Ignition Cable/Connecting Parts",
+              "level": 2,
+              "children": [],
+              "productId": 1539
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Culasse / pieces de montage": {
+          "categoryId": null,
+          "categoryName": "Culasse / pieces de montage",
+          "level": 2,
+          "children": {
+            "Joint d'étanchéité, tige de bougie": {
+              "categoryId": 100373,
+              "categoryName": "Cylinder Head/Attachment Parts",
+              "level": 2,
+              "children": {
+                "Cache-soupape": {
+                  "categoryId": null,
+                  "categoryName": "Cache-soupape",
+                  "level": 4,
+                  "children": {
+                    "Joint d'étanchéité, tige de bougie": {
+                      "categoryId": 100375,
+                      "categoryName": "Cylinder Head Cover/-Gasket",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1539
+                    }
+                  }
+                }
+              },
+              "productId": 1539
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Allumage / préchauffage [ID: 100008] (Niveau 1)\n│   └── Raccords de câble d'allumage (Niveau 2)\n│       └── Ignition Cable/Connecting Parts [ID: 100153] (Niveau 2) → ProductId: 1539\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Culasse / pieces de montage (Niveau 2)\n        └── Cylinder Head/Attachment Parts [ID: 100373] (Niveau 2) → ProductId: 1539\n            └── Cache-soupape (Niveau 4)\n                └── Cylinder Head Cover/-Gasket [ID: 100375] (Niveau 3) → ProductId: 1539",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Raccords de câble d'allumage",
+        "Ignition Cable/Connecting Parts"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        100153
+      ],
+      "finalCategoryId": 100153,
+      "productId": 1539
+    },
+    {
+      "path": [
+        "Moteur",
+        "Culasse / pieces de montage",
+        "Cylinder Head/Attachment Parts"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100373
+      ],
+      "finalCategoryId": 100373,
+      "productId": 1539
+    }
+  ],
+  "productIdsInArbo": [
+    1539
+  ],
+  "matchedProductIds": [
+    1539
+  ]
+}

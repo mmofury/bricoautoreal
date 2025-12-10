@@ -1,0 +1,69 @@
+{
+  "productName": "Kit de réparation, injecteur",
+  "searchText": "Kit de réparation, injecteur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:05:11.344Z",
+  "productId": 3933,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Kit de réparation, injecteur": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Kit de réparation/Kit complet": {
+                  "categoryId": null,
+                  "categoryName": "Kit de réparation/Kit complet",
+                  "level": 4,
+                  "children": {
+                    "Kit de réparation, injecteur": {
+                      "categoryId": 102807,
+                      "categoryName": "Repair Kit",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3933
+                    }
+                  }
+                }
+              },
+              "productId": 3933
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carburation [ID: 100254] (Niveau 1)\n    └── Mélange air-carburant (Niveau 2)\n        └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 3933\n            └── Kit de réparation/Kit complet (Niveau 4)\n                └── Repair Kit [ID: 102807] (Niveau 3) → ProductId: 3933",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 3933
+    }
+  ],
+  "productIdsInArbo": [
+    3933
+  ],
+  "matchedProductIds": [
+    3933
+  ]
+}

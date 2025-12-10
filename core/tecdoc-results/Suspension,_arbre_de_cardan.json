@@ -1,0 +1,69 @@
+{
+  "productName": "Suspension, arbre de cardan",
+  "searchText": "Suspension, arbre de cardan",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:22:43.186Z",
+  "productId": 1420,
+  "arborescence": {
+    "Entraînement des essieux": {
+      "categoryId": 100400,
+      "categoryName": "Entraînement des essieux",
+      "level": 1,
+      "children": {
+        "Arbre de transmission": {
+          "categoryId": null,
+          "categoryName": "Arbre de transmission",
+          "level": 2,
+          "children": {
+            "Suspension, arbre de cardan": {
+              "categoryId": 100703,
+              "categoryName": "Propshaft",
+              "level": 2,
+              "children": {
+                "Paliers/suspension": {
+                  "categoryId": null,
+                  "categoryName": "Paliers/suspension",
+                  "level": 4,
+                  "children": {
+                    "Suspension, arbre de cardan": {
+                      "categoryId": 100839,
+                      "categoryName": "Bearing/Mounting",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1420
+                    }
+                  }
+                }
+              },
+              "productId": 1420
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement des essieux [ID: 100400] (Niveau 1)\n    └── Arbre de transmission (Niveau 2)\n        └── Propshaft [ID: 100703] (Niveau 2) → ProductId: 1420\n            └── Paliers/suspension (Niveau 4)\n                └── Bearing/Mounting [ID: 100839] (Niveau 3) → ProductId: 1420",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des essieux",
+        "Arbre de transmission",
+        "Propshaft"
+      ],
+      "categoryIds": [
+        100400,
+        null,
+        100703
+      ],
+      "finalCategoryId": 100703,
+      "productId": 1420
+    }
+  ],
+  "productIdsInArbo": [
+    1420
+  ],
+  "matchedProductIds": [
+    1420
+  ]
+}

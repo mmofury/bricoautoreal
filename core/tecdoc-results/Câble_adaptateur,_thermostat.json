@@ -1,0 +1,69 @@
+{
+  "productName": "Câble adaptateur, thermostat",
+  "searchText": "Câble adaptateur, thermostat",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:29:05.269Z",
+  "productId": 60189,
+  "arborescence": {
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Joint/Thermostat": {
+          "categoryId": null,
+          "categoryName": "Joint/Thermostat",
+          "level": 2,
+          "children": {
+            "Câble adaptateur, thermostat": {
+              "categoryId": 100094,
+              "categoryName": "Thermostat/Seal",
+              "level": 2,
+              "children": {
+                "Thermostat": {
+                  "categoryId": null,
+                  "categoryName": "Thermostat",
+                  "level": 4,
+                  "children": {
+                    "Câble adaptateur, thermostat": {
+                      "categoryId": 100095,
+                      "categoryName": "Thermostat",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60189
+                    }
+                  }
+                }
+              },
+              "productId": 60189
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Refroidissement [ID: 100007] (Niveau 1)\n    └── Joint/Thermostat (Niveau 2)\n        └── Thermostat/Seal [ID: 100094] (Niveau 2) → ProductId: 60189\n            └── Thermostat (Niveau 4)\n                └── Thermostat [ID: 100095] (Niveau 3) → ProductId: 60189",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Refroidissement",
+        "Joint/Thermostat",
+        "Thermostat/Seal"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100094
+      ],
+      "finalCategoryId": 100094,
+      "productId": 60189
+    }
+  ],
+  "productIdsInArbo": [
+    60189
+  ],
+  "matchedProductIds": [
+    60189
+  ]
+}

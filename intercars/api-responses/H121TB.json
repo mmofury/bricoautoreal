@@ -1,0 +1,49 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H121TB",
+      "index": "HAZ 2730A",
+      "tecDoc": "2730A",
+      "tecDocProd": "4808",
+      "articleNumber": "2730A",
+      "brand": "HAZET",
+      "shortDescription": "Brake system handling tools",
+      "description": "Device for support spring of handbrake shoes, intended use: handbrake",
+      "eans": [
+        "4000896249510"
+      ],
+      "packageWeight": "0,116",
+      "packageWidth": "13,000",
+      "packageDepth": "10,000",
+      "packageHeight": "3,000",
+      "customsCode": "82055980",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_7049",
+          "primary": false,
+          "name": {
+            "en": "Mounting Tools, brake spring"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91783",
+          "primary": true,
+          "name": {
+            "en": "Brake system handling tools"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_4574",
+          "primary": false,
+          "name": {
+            "en": "Mounting Tool, brake shoe holding spring"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H0FSAU",
+      "index": "20.10000",
+      "tecDoc": "20.10000",
+      "tecDocProd": "355",
+      "articleNumber": "20.10000",
+      "brand": "DT SPARE PARTS",
+      "shortDescription": "Cable Repair Set, central electrics",
+      "description": "Harness wire fits: CATERPILLAR 300, 900, AD",
+      "packageWeight": "1,695",
+      "customsCode": "85443000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3491",
+          "primary": false,
+          "name": {
+            "en": "Electric Cable"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_6348",
+          "primary": true,
+          "name": {
+            "en": "Cable Repair Set, central electrics"
+          }
+        }
+      ]
+    }
+  ]
+}

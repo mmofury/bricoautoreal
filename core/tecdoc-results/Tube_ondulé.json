@@ -1,0 +1,57 @@
+{
+  "productName": "Tube ondulé",
+  "searchText": "Tube ondulé",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-03T07:28:11.711Z",
+  "productId": 2742,
+  "arborescence": {
+    "Échappement": {
+      "categoryId": 100004,
+      "categoryName": "Échappement",
+      "level": 1,
+      "children": {
+        "Tuyaux": {
+          "categoryId": null,
+          "categoryName": "Tuyaux",
+          "level": 2,
+          "children": {
+            "Tube ondulé, système d'échappement": {
+              "categoryId": 100315,
+              "categoryName": "Exhaust Pipes",
+              "level": 2,
+              "children": [],
+              "productId": 1049
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Échappement [ID: 100004] (Niveau 1)\n    └── Tuyaux (Niveau 2)\n        └── Exhaust Pipes [ID: 100315] (Niveau 2) → ProductId: 1049",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Échappement",
+        "Tuyaux",
+        "Exhaust Pipes"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100315
+      ],
+      "finalCategoryId": 100315,
+      "productId": 1049
+    }
+  ],
+  "productIdsInArbo": [
+    1049
+  ],
+  "closestProductIds": [
+    {
+      "productId": 1049,
+      "productName": "Tube ondulé, système d'échappement"
+    }
+  ]
+}

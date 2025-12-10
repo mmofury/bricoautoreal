@@ -1,0 +1,54 @@
+{
+  "productName": "Bobine, embrayage magnétique (compresseur)",
+  "searchText": "Bobine, embrayage magnétique (compresseur)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:07:28.264Z",
+  "productId": 2914,
+  "arborescence": {
+    "Climatisation": {
+      "categoryId": 100243,
+      "categoryName": "Climatisation",
+      "level": 1,
+      "children": {
+        "Compresseur / composants": {
+          "categoryId": null,
+          "categoryName": "Compresseur / composants",
+          "level": 2,
+          "children": {
+            "Bobine, embrayage magnétique (compresseur)": {
+              "categoryId": 100354,
+              "categoryName": "Compressor/Parts",
+              "level": 2,
+              "children": [],
+              "productId": 2914
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Climatisation [ID: 100243] (Niveau 1)\n    └── Compresseur / composants (Niveau 2)\n        └── Compressor/Parts [ID: 100354] (Niveau 2) → ProductId: 2914",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Climatisation",
+        "Compresseur / composants",
+        "Compressor/Parts"
+      ],
+      "categoryIds": [
+        100243,
+        null,
+        100354
+      ],
+      "finalCategoryId": 100354,
+      "productId": 2914
+    }
+  ],
+  "productIdsInArbo": [
+    2914
+  ],
+  "matchedProductIds": [
+    2914
+  ]
+}

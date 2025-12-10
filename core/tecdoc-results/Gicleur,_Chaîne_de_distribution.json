@@ -1,0 +1,84 @@
+{
+  "productName": "Gicleur, Chaîne de distribution",
+  "searchText": "Gicleur, Chaîne de distribution",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:43:00.248Z",
+  "productId": 4828,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Distribution moteur": {
+          "categoryId": null,
+          "categoryName": "Distribution moteur",
+          "level": 2,
+          "children": {
+            "Gicleur, Chaîne de distribution": {
+              "categoryId": 100003,
+              "categoryName": "Engine Timing",
+              "level": 2,
+              "children": {
+                "Chaîne de distribution/tension/guidage": {
+                  "categoryId": null,
+                  "categoryName": "Chaîne de distribution/tension/guidage",
+                  "level": 4,
+                  "children": {
+                    "Gicleur, Chaîne de distribution": {
+                      "categoryId": 100403,
+                      "categoryName": "Timing Chain/Tensioner/Guide",
+                      "level": 3,
+                      "children": {
+                        "Chaîne de distribution": {
+                          "categoryId": null,
+                          "categoryName": "Chaîne de distribution",
+                          "level": 6,
+                          "children": {
+                            "Gicleur, Chaîne de distribution": {
+                              "categoryId": 100411,
+                              "categoryName": "Timing Chain",
+                              "level": 4,
+                              "children": [],
+                              "productId": 4828
+                            }
+                          }
+                        }
+                      },
+                      "productId": 4828
+                    }
+                  }
+                }
+              },
+              "productId": 4828
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Distribution moteur (Niveau 2)\n        └── Engine Timing [ID: 100003] (Niveau 2) → ProductId: 4828\n            └── Chaîne de distribution/tension/guidage (Niveau 4)\n                └── Timing Chain/Tensioner/Guide [ID: 100403] (Niveau 3) → ProductId: 4828\n                    └── Chaîne de distribution (Niveau 6)\n                        └── Timing Chain [ID: 100411] (Niveau 4) → ProductId: 4828",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Engine Timing"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100003
+      ],
+      "finalCategoryId": 100003,
+      "productId": 4828
+    }
+  ],
+  "productIdsInArbo": [
+    4828
+  ],
+  "matchedProductIds": [
+    4828
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "F73D03",
+      "index": "V30-83-0005",
+      "tecDoc": "V30-83-0005",
+      "tecDocProd": "183",
+      "articleNumber": "V30-83-0005",
+      "brand": "VEMO",
+      "shortDescription": "Repair Kit, cable set",
+      "description": "Harness wire (200mm, number of pins: 3) fits: MERCEDES C (CL203), C (W202), C (W203), C T-MODEL (S202), C T-MODEL (S203), CLK (A208), CLK (A209), CLK (C208), CLK (C209) 1.0-Electric 02.95-",
+      "customsCode": "85443000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4321",
+          "primary": true,
+          "name": {
+            "en": "Repair Kit, cable set"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_7308",
+          "primary": false,
+          "name": {
+            "en": "Cable Repair Set, park distance control sensor"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_8029",
+          "primary": false,
+          "name": {
+            "en": "Cable Repair Set, exhaust gas pressure sensor"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_9590",
+          "primary": false,
+          "name": {
+            "en": "Cable Repair Set, engine oil level sensor"
+          }
+        }
+      ]
+    }
+  ]
+}

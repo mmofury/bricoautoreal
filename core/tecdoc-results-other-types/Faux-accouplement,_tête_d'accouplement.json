@@ -1,0 +1,49 @@
+{
+  "productName": "Faux-accouplement, tête d'accouplement",
+  "productId": 3433,
+  "searchText": "Faux-accouplement, tête d'accouplement",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Système pneumatique": {
+          "categoryId": 200059,
+          "categoryName": "Système pneumatique",
+          "level": 1,
+          "children": {
+            "Faux-accouplement": {
+              "categoryId": null,
+              "categoryName": "Faux-accouplement",
+              "level": 2,
+              "children": {
+                "Faux-accouplement, tête d'accouplement": {
+                  "categoryId": 202350,
+                  "categoryName": "Dummy Coupling",
+                  "level": 2,
+                  "children": [],
+                  "productId": 3433
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système pneumatique [ID: 200059] (Niveau 1)\n    └── Faux-accouplement (Niveau 2)\n        └── Dummy Coupling [ID: 202350] (Niveau 2) → ProductId: 3433",
+      "productIdsInArbo": [
+        3433
+      ],
+      "matchedProductIds": [
+        3433
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:28:10.762Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

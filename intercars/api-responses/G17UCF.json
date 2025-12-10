@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G17UCF",
+      "index": "V25-83-0014",
+      "tecDoc": "V25-83-0014",
+      "tecDocProd": "183",
+      "articleNumber": "V25-83-0014",
+      "brand": "VEMO",
+      "shortDescription": "Cable Repair Set, injector valve",
+      "description": "Harness wire fits: FORD C-MAX II, FORD USA EDGE, EXPLORER, F-150, FLEX, MUSTANG, LINCOLN MKC, MKS 2.0H-6.2 08.06-",
+      "customsCode": "85443000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_6350",
+          "primary": true,
+          "name": {
+            "en": "Cable Repair Set, injector valve"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_7288",
+          "primary": false,
+          "name": {
+            "en": "Cable Repair Set, ignition coil"
+          }
+        }
+      ]
+    }
+  ]
+}

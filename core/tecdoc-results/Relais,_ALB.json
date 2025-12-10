@@ -1,0 +1,54 @@
+{
+  "productName": "Relais, ALB",
+  "searchText": "Relais, ALB",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:07:27.760Z",
+  "productId": 1342,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Relais": {
+          "categoryId": null,
+          "categoryName": "Relais",
+          "level": 2,
+          "children": {
+            "Relais, ALB": {
+              "categoryId": 100785,
+              "categoryName": "Relay",
+              "level": 2,
+              "children": [],
+              "productId": 1342
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Relais (Niveau 2)\n        └── Relay [ID: 100785] (Niveau 2) → ProductId: 1342",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Relais",
+        "Relay"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100785
+      ],
+      "finalCategoryId": 100785,
+      "productId": 1342
+    }
+  ],
+  "productIdsInArbo": [
+    1342
+  ],
+  "matchedProductIds": [
+    1342
+  ]
+}

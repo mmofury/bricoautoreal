@@ -1,0 +1,54 @@
+{
+  "productName": "Support, conduite de carburant",
+  "searchText": "Support, conduite de carburant",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:21:06.621Z",
+  "productId": 1153,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Tuyauterie": {
+          "categoryId": null,
+          "categoryName": "Tuyauterie",
+          "level": 2,
+          "children": {
+            "Support, conduite de carburant": {
+              "categoryId": 100258,
+              "categoryName": "Fuel Lines",
+              "level": 2,
+              "children": [],
+              "productId": 1153
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Alimentation carburant [ID: 100214] (Niveau 1)\n    └── Tuyauterie (Niveau 2)\n        └── Fuel Lines [ID: 100258] (Niveau 2) → ProductId: 1153",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Tuyauterie",
+        "Fuel Lines"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100258
+      ],
+      "finalCategoryId": 100258,
+      "productId": 1153
+    }
+  ],
+  "productIdsInArbo": [
+    1153
+  ],
+  "matchedProductIds": [
+    1153
+  ]
+}

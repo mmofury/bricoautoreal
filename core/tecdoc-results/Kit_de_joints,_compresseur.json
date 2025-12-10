@@ -1,0 +1,212 @@
+{
+  "productName": "Kit de joints, compresseur",
+  "searchText": "Kit de joints, compresseur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:00:53.837Z",
+  "productId": 152,
+  "arborescence": {
+    "Échappement": {
+      "categoryId": 100004,
+      "categoryName": "Échappement",
+      "level": 1,
+      "children": {
+        "Turbocompresseur": {
+          "categoryId": null,
+          "categoryName": "Turbocompresseur",
+          "level": 2,
+          "children": {
+            "Kit de joints, compresseur": {
+              "categoryId": 100872,
+              "categoryName": "Charger",
+              "level": 2,
+              "children": [],
+              "productId": 152
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Alimentation en air": {
+          "categoryId": null,
+          "categoryName": "Alimentation en air",
+          "level": 2,
+          "children": {
+            "Kit de joints, compresseur": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Suralimentation": {
+                  "categoryId": null,
+                  "categoryName": "Suralimentation",
+                  "level": 4,
+                  "children": {
+                    "Kit de joints, compresseur": {
+                      "categoryId": 100390,
+                      "categoryName": "Charging (supercharged/turbocharged)",
+                      "level": 3,
+                      "children": {
+                        "Compresseur/composants": {
+                          "categoryId": null,
+                          "categoryName": "Compresseur/composants",
+                          "level": 6,
+                          "children": {
+                            "Kit de joints, compresseur": {
+                              "categoryId": 100391,
+                              "categoryName": "Charger/-parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 152
+                            }
+                          }
+                        },
+                        "Joint de turbocompresseur": {
+                          "categoryId": null,
+                          "categoryName": "Joint de turbocompresseur",
+                          "level": 6,
+                          "children": {
+                            "Kit de joints, compresseur": {
+                              "categoryId": 100392,
+                              "categoryName": "Charger Gasket",
+                              "level": 4,
+                              "children": [],
+                              "productId": 152
+                            }
+                          }
+                        }
+                      },
+                      "productId": 152
+                    }
+                  }
+                }
+              },
+              "productId": 152
+            }
+          }
+        },
+        "Joints": {
+          "categoryId": null,
+          "categoryName": "Joints",
+          "level": 2,
+          "children": {
+            "Kit de joints, compresseur": {
+              "categoryId": 100223,
+              "categoryName": "Gaskets",
+              "level": 2,
+              "children": {
+                "Joint de turbocompresseur": {
+                  "categoryId": null,
+                  "categoryName": "Joint de turbocompresseur",
+                  "level": 4,
+                  "children": {
+                    "Kit de joints, compresseur": {
+                      "categoryId": 100244,
+                      "categoryName": "Turbocharger Gasket",
+                      "level": 3,
+                      "children": [],
+                      "productId": 152
+                    }
+                  }
+                }
+              },
+              "productId": 152
+            }
+          }
+        }
+      }
+    },
+    "Suspension/Amortissement": {
+      "categoryId": 100011,
+      "categoryName": "Suspension/Amortissement",
+      "level": 1,
+      "children": {
+        "Suspension pneumatique": {
+          "categoryId": null,
+          "categoryName": "Suspension pneumatique",
+          "level": 2,
+          "children": {
+            "Kit de joints, compresseur d'air": {
+              "categoryId": 101884,
+              "categoryName": "Air Suspension",
+              "level": 2,
+              "children": [],
+              "productId": 60971
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Échappement [ID: 100004] (Niveau 1)\n│   └── Turbocompresseur (Niveau 2)\n│       └── Charger [ID: 100872] (Niveau 2) → ProductId: 152\n\n├── Moteur [ID: 100002] (Niveau 1)\n│   ├── Alimentation en air (Niveau 2)\n│   │   └── Air Supply [ID: 100383] (Niveau 2) → ProductId: 152\n│   │       └── Suralimentation (Niveau 4)\n│   │           └── Charging (supercharged/turbocharged) [ID: 100390] (Niveau 3) → ProductId: 152\n│   │               ├── Compresseur/composants (Niveau 6)\n│   │               │   └── Charger/-parts [ID: 100391] (Niveau 4) → ProductId: 152\n│   │               └── Joint de turbocompresseur (Niveau 6)\n│   │                   └── Charger Gasket [ID: 100392] (Niveau 4) → ProductId: 152\n│   └── Joints (Niveau 2)\n│       └── Gaskets [ID: 100223] (Niveau 2) → ProductId: 152\n│           └── Joint de turbocompresseur (Niveau 4)\n│               └── Turbocharger Gasket [ID: 100244] (Niveau 3) → ProductId: 152\n\n└── Suspension/Amortissement [ID: 100011] (Niveau 1)\n    └── Suspension pneumatique (Niveau 2)\n        └── Air Suspension [ID: 101884] (Niveau 2) → ProductId: 60971",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Échappement",
+        "Turbocompresseur",
+        "Charger"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100872
+      ],
+      "finalCategoryId": 100872,
+      "productId": 152
+    },
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 152
+    },
+    {
+      "path": [
+        "Moteur",
+        "Joints",
+        "Gaskets"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100223
+      ],
+      "finalCategoryId": 100223,
+      "productId": 152
+    },
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Suspension pneumatique",
+        "Air Suspension"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        101884
+      ],
+      "finalCategoryId": 101884,
+      "productId": 60971
+    }
+  ],
+  "productIdsInArbo": [
+    152,
+    60971
+  ],
+  "matchedProductIds": [
+    152
+  ]
+}

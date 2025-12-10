@@ -1,0 +1,409 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.378Z",
+  "manufacturer": "LAND ROVER",
+  "countGroups": 10,
+  "groups": [
+    {
+      "manufacturerId": 1820,
+      "manufacturerName": "LAND ROVER",
+      "groupKey": "110/127",
+      "displayName": "110/127",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4674,
+          "modelName": "110/127 (LDH)",
+          "modelYearFrom": "1983-09-01",
+          "modelYearTo": "1990-12-01"
+        },
+        {
+          "modelId": 43639,
+          "modelName": "110/127 Pick-up (LDH)",
+          "modelYearFrom": "1984-06-01",
+          "modelYearTo": "1990-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1820,
+      "manufacturerName": "LAND ROVER",
+      "groupKey": "80",
+      "displayName": "80",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40998,
+          "modelName": "80 MK I Véhicule tout terrain fermé",
+          "modelYearFrom": "1948-01-01",
+          "modelYearTo": "1953-12-01"
+        },
+        {
+          "modelId": 41015,
+          "modelName": "80 MK I Véhicule tout terrain à carrosserie ouverte",
+          "modelYearFrom": "1948-01-01",
+          "modelYearTo": "1953-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1820,
+      "manufacturerName": "LAND ROVER",
+      "groupKey": "86/107",
+      "displayName": "86/107",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41000,
+          "modelName": "86/107 MK I Véhicule tout terrain fermé",
+          "modelYearFrom": "1954-01-01",
+          "modelYearTo": "1958-12-01"
+        },
+        {
+          "modelId": 41014,
+          "modelName": "86/107 MK I Véhicule tout terrain à carrosserie ouverte",
+          "modelYearFrom": "1954-01-01",
+          "modelYearTo": "1958-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1820,
+      "manufacturerName": "LAND ROVER",
+      "groupKey": "88/109",
+      "displayName": "88/109",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41001,
+          "modelName": "88/109 MK I Véhicule tout terrain fermé",
+          "modelYearFrom": "1956-07-01",
+          "modelYearTo": "1958-08-01"
+        },
+        {
+          "modelId": 41002,
+          "modelName": "88/109 MK II Véhicule tout terrain fermé",
+          "modelYearFrom": "1958-09-01",
+          "modelYearTo": "1961-11-01"
+        },
+        {
+          "modelId": 41003,
+          "modelName": "88/109 MK IIA Véhicule tout terrain fermé",
+          "modelYearFrom": "1961-12-01",
+          "modelYearTo": "1971-10-01"
+        },
+        {
+          "modelId": 41004,
+          "modelName": "88/109 MK III Véhicule tout terrain fermé",
+          "modelYearFrom": "1971-11-01",
+          "modelYearTo": "1986-12-01"
+        },
+        {
+          "modelId": 41009,
+          "modelName": "88/109 MK I Véhicule tout terrain à carrosserie ouverte",
+          "modelYearFrom": "1956-07-01",
+          "modelYearTo": "1958-08-01"
+        },
+        {
+          "modelId": 41010,
+          "modelName": "88/109 MK II Véhicule tout terrain à carrosserie ouverte",
+          "modelYearFrom": "1958-09-01",
+          "modelYearTo": "1961-11-01"
+        },
+        {
+          "modelId": 41011,
+          "modelName": "88/109 MK IIA Véhicule tout terrain à carrosserie ouverte",
+          "modelYearFrom": "1961-12-01",
+          "modelYearTo": "1971-10-01"
+        },
+        {
+          "modelId": 41012,
+          "modelName": "88/109 MK III Véhicule tout terrain à carrosserie ouverte",
+          "modelYearFrom": "1971-11-01",
+          "modelYearTo": "1986-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1820,
+      "manufacturerName": "LAND ROVER",
+      "groupKey": "90",
+      "displayName": "90",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38852,
+          "modelName": "90 I (LDV)",
+          "modelYearFrom": "1984-01-01",
+          "modelYearTo": "1990-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1820,
+      "manufacturerName": "LAND ROVER",
+      "groupKey": "DEFENDER",
+      "displayName": "DEFENDER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4672,
+          "modelName": "DEFENDER Cabrio (L316)",
+          "modelYearFrom": "1990-08-01",
+          "modelYearTo": "2016-02-01"
+        },
+        {
+          "modelId": 4673,
+          "modelName": "DEFENDER Station Wagon (L316, L315)",
+          "modelYearFrom": "1990-05-01",
+          "modelYearTo": "2017-10-01"
+        },
+        {
+          "modelId": 5034,
+          "modelName": "DEFENDER Pick Up (L316)",
+          "modelYearFrom": "1994-01-01",
+          "modelYearTo": "2017-10-01"
+        },
+        {
+          "modelId": 10595,
+          "modelName": "DEFENDER Camion plate-forme/Châssis (L316)",
+          "modelYearFrom": "1990-09-01",
+          "modelYearTo": "2016-02-01"
+        },
+        {
+          "modelId": 40000,
+          "modelName": "DEFENDER Station Wagon (L663)",
+          "modelYearFrom": "2019-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40590,
+          "modelName": "DEFENDER Van (L663)",
+          "modelYearFrom": "2020-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1820,
+      "manufacturerName": "LAND ROVER",
+      "groupKey": "DISCOVERY",
+      "displayName": "DISCOVERY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4670,
+          "modelName": "DISCOVERY II (L318)",
+          "modelYearFrom": "1998-10-01",
+          "modelYearTo": "2004-08-01"
+        },
+        {
+          "modelId": 4671,
+          "modelName": "DISCOVERY I (LJ)",
+          "modelYearFrom": "1989-06-01",
+          "modelYearTo": "1998-12-01"
+        },
+        {
+          "modelId": 5160,
+          "modelName": "DISCOVERY III (L319)",
+          "modelYearFrom": "2004-07-01",
+          "modelYearTo": "2009-09-01"
+        },
+        {
+          "modelId": 9015,
+          "modelName": "DISCOVERY IV (L319)",
+          "modelYearFrom": "2009-09-01",
+          "modelYearTo": "2018-12-01"
+        },
+        {
+          "modelId": 13104,
+          "modelName": "DISCOVERY SPORT (L550)",
+          "modelYearFrom": "2014-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37152,
+          "modelName": "DISCOVERY V (L462)",
+          "modelYearFrom": "2016-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38732,
+          "modelName": "DISCOVERY III VAN (L319)",
+          "modelYearFrom": "2007-01-01",
+          "modelYearTo": "2009-07-01"
+        },
+        {
+          "modelId": 38785,
+          "modelName": "DISCOVERY IV VAN (L319)",
+          "modelYearFrom": "2009-09-01",
+          "modelYearTo": "2017-12-01"
+        },
+        {
+          "modelId": 41615,
+          "modelName": "DISCOVERY V VAN (L462)",
+          "modelYearFrom": "2016-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41655,
+          "modelName": "DISCOVERY SPORT VAN (L550)",
+          "modelYearFrom": "2014-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1820,
+      "manufacturerName": "LAND ROVER",
+      "groupKey": "FREELANDER",
+      "displayName": "FREELANDER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4677,
+          "modelName": "FREELANDER I Soft Top (L314)",
+          "modelYearFrom": "1998-02-01",
+          "modelYearTo": "2006-10-01"
+        },
+        {
+          "modelId": 4678,
+          "modelName": "FREELANDER I (L314)",
+          "modelYearFrom": "1998-02-01",
+          "modelYearTo": "2006-10-01"
+        },
+        {
+          "modelId": 5603,
+          "modelName": "FREELANDER 2 (L359)",
+          "modelYearFrom": "2006-10-01",
+          "modelYearTo": "2015-12-01"
+        },
+        {
+          "modelId": 38786,
+          "modelName": "FREELANDER 2 VAN (L359)",
+          "modelYearFrom": "2006-10-01",
+          "modelYearTo": "2014-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1820,
+      "manufacturerName": "LAND ROVER",
+      "groupKey": "PERENTIE",
+      "displayName": "PERENTIE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44433,
+          "modelName": "PERENTIE Véhicule tout terrain fermé (LD_)",
+          "modelYearFrom": "1987-08-01",
+          "modelYearTo": "1998-09-01"
+        },
+        {
+          "modelId": 44434,
+          "modelName": "PERENTIE Véhicule tout terrain à carrosserie ouverte (LD_)",
+          "modelYearFrom": "1987-08-01",
+          "modelYearTo": "1998-09-01"
+        },
+        {
+          "modelId": 44435,
+          "modelName": "PERENTIE Pick-up (LD_)",
+          "modelYearFrom": "1987-08-01",
+          "modelYearTo": "1998-09-01"
+        },
+        {
+          "modelId": 44436,
+          "modelName": "PERENTIE Camion plate-forme/Châssis (LD_)",
+          "modelYearFrom": "1987-08-01",
+          "modelYearTo": "1998-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1820,
+      "manufacturerName": "LAND ROVER",
+      "groupKey": "RANGE",
+      "displayName": "RANGE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4668,
+          "modelName": "RANGE ROVER II (P38A)",
+          "modelYearFrom": "1994-07-01",
+          "modelYearTo": "2002-03-01"
+        },
+        {
+          "modelId": 4669,
+          "modelName": "RANGE ROVER I",
+          "modelYearFrom": "1969-10-01",
+          "modelYearTo": "1996-04-01"
+        },
+        {
+          "modelId": 4869,
+          "modelName": "RANGE ROVER III (L322)",
+          "modelYearFrom": "2002-03-01",
+          "modelYearTo": "2012-12-01"
+        },
+        {
+          "modelId": 5437,
+          "modelName": "RANGE ROVER SPORT I (L320)",
+          "modelYearFrom": "2005-02-01",
+          "modelYearTo": "2013-03-01"
+        },
+        {
+          "modelId": 9576,
+          "modelName": "RANGE ROVER EVOQUE (L538)",
+          "modelYearFrom": "2011-06-01",
+          "modelYearTo": "2019-12-01"
+        },
+        {
+          "modelId": 10810,
+          "modelName": "RANGE ROVER IV (L405)",
+          "modelYearFrom": "2012-08-01",
+          "modelYearTo": "2021-09-01"
+        },
+        {
+          "modelId": 11229,
+          "modelName": "RANGE ROVER SPORT II (L494)",
+          "modelYearFrom": "2013-04-01",
+          "modelYearTo": "2022-03-01"
+        },
+        {
+          "modelId": 14820,
+          "modelName": "RANGE ROVER EVOQUE Décapotable (L538)",
+          "modelYearFrom": "2015-11-01",
+          "modelYearTo": "2019-12-01"
+        },
+        {
+          "modelId": 37713,
+          "modelName": "RANGE ROVER VELAR (L560)",
+          "modelYearFrom": "2017-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39216,
+          "modelName": "RANGE ROVER EVOQUE (L551)",
+          "modelYearFrom": "2018-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41657,
+          "modelName": "RANGE ROVER EVOQUE VAN (L538)",
+          "modelYearFrom": "2011-06-01",
+          "modelYearTo": "2019-12-01"
+        },
+        {
+          "modelId": 42537,
+          "modelName": "RANGE ROVER V (L460)",
+          "modelYearFrom": "2021-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42925,
+          "modelName": "RANGE ROVER SPORT III (L461)",
+          "modelYearFrom": "2022-04-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

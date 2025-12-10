@@ -1,0 +1,50 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "E614BB",
+      "index": "LIM20463 75W80 1L",
+      "tecDoc": "P000234",
+      "tecDocProd": "222",
+      "articleNumber": "P000234",
+      "brand": "LIQUI MOLY",
+      "shortDescription": "Manual Transmission Oil",
+      "description": "MTF oil Getrieboil (1L) 75W80 , CITROEN B71 2330, MIL L-2105C, PEUGEOT B71 2330",
+      "gtuCode": "GTU_03",
+      "eans": [
+        "4100420204630"
+      ],
+      "packageWeight": "0,941",
+      "packageWidth": "8,500",
+      "packageDepth": "8,500",
+      "packageHeight": "26,000",
+      "customsCode": "27101987",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3225",
+          "primary": true,
+          "name": {
+            "en": "Manual Transmission Oil"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3421",
+          "primary": false,
+          "name": {
+            "en": "Transfer Case Oil"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_60269",
+          "primary": false,
+          "name": {
+            "en": "Oil, automated manual transmission (AMT)"
+          }
+        }
+      ]
+    }
+  ]
+}

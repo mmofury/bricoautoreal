@@ -1,0 +1,56 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "BAB505",
+      "index": "00840535",
+      "tecDoc": "00840535",
+      "tecDocProd": "4593",
+      "articleNumber": "00840535",
+      "brand": "TEDGUM",
+      "shortDescription": "Spring washer",
+      "description": "Coil spring washer front/rear fits: VW GOLF II, GOLF III 08.83-04.99",
+      "eans": [
+        "5908229917176"
+      ],
+      "packageWeight": "0,360",
+      "packageWidth": "14,500",
+      "packageDepth": "14,500",
+      "packageHeight": "4,500",
+      "customsCode": "40169957",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_92530",
+          "primary": true,
+          "name": {
+            "en": "Spring washer"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1182",
+          "primary": false,
+          "name": {
+            "en": "Rubber Buffer, suspension"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_60176",
+          "primary": false,
+          "name": {
+            "en": "Spring Travel Limiter, suspension spring"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91340",
+          "primary": false,
+          "name": {
+            "en": "Inter-coil spring shaft"
+          }
+        }
+      ]
+    }
+  ]
+}

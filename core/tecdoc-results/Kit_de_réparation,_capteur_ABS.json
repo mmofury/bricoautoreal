@@ -1,0 +1,132 @@
+{
+  "productName": "Kit de réparation, capteur ABS",
+  "searchText": "Kit de réparation, capteur ABS",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:03:57.832Z",
+  "productId": 9310,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Frein à disque": {
+          "categoryId": null,
+          "categoryName": "Frein à disque",
+          "level": 2,
+          "children": {
+            "Kit de réparation, capteur ABS": {
+              "categoryId": 100626,
+              "categoryName": "Disc Brake",
+              "level": 2,
+              "children": {
+                "Accessoires / composants": {
+                  "categoryId": null,
+                  "categoryName": "Accessoires / composants",
+                  "level": 4,
+                  "children": {
+                    "Kit de réparation, capteur ABS": {
+                      "categoryId": 100630,
+                      "categoryName": "Accessories/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 9310
+                    }
+                  }
+                }
+              },
+              "productId": 9310
+            }
+          }
+        },
+        "Réglage du comportement dynamique": {
+          "categoryId": null,
+          "categoryName": "Réglage du comportement dynamique",
+          "level": 2,
+          "children": {
+            "Kit de réparation, capteur ABS": {
+              "categoryId": 100038,
+              "categoryName": "Drive Dynamics Control",
+              "level": 2,
+              "children": [],
+              "productId": 9310
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Capteurs": {
+          "categoryId": null,
+          "categoryName": "Capteurs",
+          "level": 2,
+          "children": {
+            "Kit de réparation, capteur ABS": {
+              "categoryId": 102747,
+              "categoryName": "Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 9310
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Dispositif de freinage [ID: 100006] (Niveau 1)\n│   ├── Frein à disque (Niveau 2)\n│   │   └── Disc Brake [ID: 100626] (Niveau 2) → ProductId: 9310\n│   │       └── Accessoires / composants (Niveau 4)\n│   │           └── Accessories/Parts [ID: 100630] (Niveau 3) → ProductId: 9310\n│   └── Réglage du comportement dynamique (Niveau 2)\n│       └── Drive Dynamics Control [ID: 100038] (Niveau 2) → ProductId: 9310\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Capteurs (Niveau 2)\n        └── Sensors [ID: 102747] (Niveau 2) → ProductId: 9310",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Frein à disque",
+        "Disc Brake"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100626
+      ],
+      "finalCategoryId": 100626,
+      "productId": 9310
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Réglage du comportement dynamique",
+        "Drive Dynamics Control"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100038
+      ],
+      "finalCategoryId": 100038,
+      "productId": 9310
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Capteurs",
+        "Sensors"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        102747
+      ],
+      "finalCategoryId": 102747,
+      "productId": 9310
+    }
+  ],
+  "productIdsInArbo": [
+    9310
+  ],
+  "matchedProductIds": [
+    9310
+  ]
+}

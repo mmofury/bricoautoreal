@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G04HMZ",
+      "index": "HAZ 4937-85",
+      "tecDoc": "4937-85",
+      "tecDocProd": "4808",
+      "articleNumber": "4937-85",
+      "brand": "HAZET",
+      "shortDescription": "Sockets",
+      "description": "Socket Hexagonal, socket, for vehicle axles, socket size: 85 mm",
+      "customsCode": "82042000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4744",
+          "primary": true,
+          "name": {
+            "en": "Sockets"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91757",
+          "primary": false,
+          "name": {
+            "en": "Wheel wrenches"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.409Z",
+  "manufacturer": "MEGA",
+  "countGroups": 5,
+  "groups": [
+    {
+      "manufacturerId": 845,
+      "manufacturerName": "MEGA",
+      "groupKey": "CLUB",
+      "displayName": "CLUB",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4386,
+          "modelName": "CLUB",
+          "modelYearFrom": "1992-01-01",
+          "modelYearTo": "1999-06-01"
+        },
+        {
+          "modelId": 4387,
+          "modelName": "CLUB II",
+          "modelYearFrom": "1999-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 845,
+      "manufacturerName": "MEGA",
+      "groupKey": "D",
+      "displayName": "D",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13942,
+          "modelName": "D-TRUCK",
+          "modelYearFrom": "2012-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 845,
+      "manufacturerName": "MEGA",
+      "groupKey": "E",
+      "displayName": "E",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13940,
+          "modelName": "e-Worker",
+          "modelYearFrom": "2012-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 845,
+      "manufacturerName": "MEGA",
+      "groupKey": "MONTE",
+      "displayName": "MONTE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4388,
+          "modelName": "MONTE CARLO",
+          "modelYearFrom": "1998-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 845,
+      "manufacturerName": "MEGA",
+      "groupKey": "TRACK",
+      "displayName": "TRACK",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4389,
+          "modelName": "TRACK",
+          "modelYearFrom": "1992-01-01",
+          "modelYearTo": "1997-10-01"
+        }
+      ]
+    }
+  ]
+}

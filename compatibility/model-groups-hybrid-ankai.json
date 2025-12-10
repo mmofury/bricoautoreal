@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.158Z",
+  "manufacturer": "ANKAI",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 5479,
+      "manufacturerName": "ANKAI",
+      "groupKey": "KUAILEYUN",
+      "displayName": "KUAILEYUN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43042,
+          "modelName": "KUAILEYUN",
+          "modelYearFrom": "2022-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5479,
+      "manufacturerName": "ANKAI",
+      "groupKey": "Q5",
+      "displayName": "Q5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43062,
+          "modelName": "Q5",
+          "modelYearFrom": "2022-07-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

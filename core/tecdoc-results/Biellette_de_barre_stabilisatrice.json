@@ -1,0 +1,97 @@
+{
+  "productName": "Biellette de barre stabilisatrice",
+  "searchText": "Biellette de barre stabilisatrice",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:07:03.198Z",
+  "productId": 3230,
+  "arborescence": {
+    "Suspension d'essieu/Guidage des roues/Roues": {
+      "categoryId": 100013,
+      "categoryName": "Suspension d'essieu/Guidage des roues/Roues",
+      "level": 1,
+      "children": {
+        "Jambes de force / barres": {
+          "categoryId": null,
+          "categoryName": "Jambes de force / barres",
+          "level": 2,
+          "children": {
+            "Biellette de barre stabilisatrice": {
+              "categoryId": 100209,
+              "categoryName": "Struts/Rods",
+              "level": 2,
+              "children": [],
+              "productId": 3230
+            }
+          }
+        },
+        "Pièce de stabilisateur / pièces de fixation": {
+          "categoryId": null,
+          "categoryName": "Pièce de stabilisateur / pièces de fixation",
+          "level": 2,
+          "children": {
+            "Biellette de barre stabilisatrice": {
+              "categoryId": 100210,
+              "categoryName": "Stabiliser Bar/Fastening Parts",
+              "level": 2,
+              "children": {
+                "Barre de suspension": {
+                  "categoryId": null,
+                  "categoryName": "Barre de suspension",
+                  "level": 4,
+                  "children": {
+                    "Biellette de barre stabilisatrice": {
+                      "categoryId": 100577,
+                      "categoryName": "Coupling Rod",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3230
+                    }
+                  }
+                }
+              },
+              "productId": 3230
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Suspension d'essieu/Guidage des roues/Roues [ID: 100013] (Niveau 1)\n    ├── Jambes de force / barres (Niveau 2)\n    │   └── Struts/Rods [ID: 100209] (Niveau 2) → ProductId: 3230\n    └── Pièce de stabilisateur / pièces de fixation (Niveau 2)\n        └── Stabiliser Bar/Fastening Parts [ID: 100210] (Niveau 2) → ProductId: 3230\n            └── Barre de suspension (Niveau 4)\n                └── Coupling Rod [ID: 100577] (Niveau 3) → ProductId: 3230",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Jambes de force / barres",
+        "Struts/Rods"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        100209
+      ],
+      "finalCategoryId": 100209,
+      "productId": 3230
+    },
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Pièce de stabilisateur / pièces de fixation",
+        "Stabiliser Bar/Fastening Parts"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        100210
+      ],
+      "finalCategoryId": 100210,
+      "productId": 3230
+    }
+  ],
+  "productIdsInArbo": [
+    3230
+  ],
+  "matchedProductIds": [
+    3230
+  ]
+}

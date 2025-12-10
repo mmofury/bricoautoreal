@@ -1,0 +1,93 @@
+{
+  "productName": "Valve de tiroir rotatif, système d'air comprimé",
+  "productId": 852,
+  "searchText": "Valve de tiroir rotatif, système d'air comprimé",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Système pneumatique": {
+          "categoryId": 200059,
+          "categoryName": "Système pneumatique",
+          "level": 1,
+          "children": {
+            "Correcteur d'assiette / système hydraulique": {
+              "categoryId": null,
+              "categoryName": "Correcteur d'assiette / système hydraulique",
+              "level": 2,
+              "children": {
+                "Valve de tiroir rotatif, système d'air comprimé": {
+                  "categoryId": 200507,
+                  "categoryName": "Level Control/Lifting System",
+                  "level": 2,
+                  "children": {
+                    "Soupape de tiroir rotatif, correcteur d'assiette": {
+                      "categoryId": null,
+                      "categoryName": "Soupape de tiroir rotatif, correcteur d'assiette",
+                      "level": 4,
+                      "children": {
+                        "Valve de tiroir rotatif, système d'air comprimé": {
+                          "categoryId": 200565,
+                          "categoryName": "Rotary Sleeve Valve, level control",
+                          "level": 3,
+                          "children": [],
+                          "productId": 852
+                        }
+                      }
+                    }
+                  },
+                  "productId": 852
+                }
+              }
+            },
+            "Soupapes / Système d'air comprimé": {
+              "categoryId": null,
+              "categoryName": "Soupapes / Système d'air comprimé",
+              "level": 2,
+              "children": {
+                "Valve de tiroir rotatif, système d'air comprimé": {
+                  "categoryId": 200115,
+                  "categoryName": "Valves/compressed-air system",
+                  "level": 2,
+                  "children": {
+                    "Soupapes diverses": {
+                      "categoryId": null,
+                      "categoryName": "Soupapes diverses",
+                      "level": 4,
+                      "children": {
+                        "Valve de tiroir rotatif, système d'air comprimé": {
+                          "categoryId": 200916,
+                          "categoryName": "Other Valves",
+                          "level": 3,
+                          "children": [],
+                          "productId": 852
+                        }
+                      }
+                    }
+                  },
+                  "productId": 852
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système pneumatique [ID: 200059] (Niveau 1)\n    ├── Correcteur d'assiette / système hydraulique (Niveau 2)\n    │   └── Level Control/Lifting System [ID: 200507] (Niveau 2) → ProductId: 852\n    │       └── Soupape de tiroir rotatif, correcteur d'assiette (Niveau 4)\n    │           └── Rotary Sleeve Valve, level control [ID: 200565] (Niveau 3) → ProductId: 852\n    └── Soupapes / Système d'air comprimé (Niveau 2)\n        └── Valves/compressed-air system [ID: 200115] (Niveau 2) → ProductId: 852\n            └── Soupapes diverses (Niveau 4)\n                └── Other Valves [ID: 200916] (Niveau 3) → ProductId: 852",
+      "productIdsInArbo": [
+        852
+      ],
+      "matchedProductIds": [
+        852
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:45:10.516Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

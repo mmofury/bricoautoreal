@@ -1,0 +1,69 @@
+{
+  "productName": "Module de dosage, injection d'urée",
+  "searchText": "Module de dosage, injection d'urée",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:15:09.813Z",
+  "productId": 4255,
+  "arborescence": {
+    "Échappement": {
+      "categoryId": 100004,
+      "categoryName": "Échappement",
+      "level": 1,
+      "children": {
+        "Injection d'urée": {
+          "categoryId": null,
+          "categoryName": "Injection d'urée",
+          "level": 2,
+          "children": {
+            "Module de dosage, injection d'urée": {
+              "categoryId": 103019,
+              "categoryName": "Urea Injection",
+              "level": 2,
+              "children": {
+                "Module de dosage": {
+                  "categoryId": null,
+                  "categoryName": "Module de dosage",
+                  "level": 4,
+                  "children": {
+                    "Module de dosage, injection d'urée": {
+                      "categoryId": 103020,
+                      "categoryName": "Dosage Module",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4255
+                    }
+                  }
+                }
+              },
+              "productId": 4255
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Échappement [ID: 100004] (Niveau 1)\n    └── Injection d'urée (Niveau 2)\n        └── Urea Injection [ID: 103019] (Niveau 2) → ProductId: 4255\n            └── Module de dosage (Niveau 4)\n                └── Dosage Module [ID: 103020] (Niveau 3) → ProductId: 4255",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Échappement",
+        "Injection d'urée",
+        "Urea Injection"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        103019
+      ],
+      "finalCategoryId": 103019,
+      "productId": 4255
+    }
+  ],
+  "productIdsInArbo": [
+    4255
+  ],
+  "matchedProductIds": [
+    4255
+  ]
+}

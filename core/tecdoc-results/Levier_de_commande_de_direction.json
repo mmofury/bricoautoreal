@@ -1,0 +1,149 @@
+{
+  "productName": "Levier de commande de direction",
+  "searchText": "Levier de commande de direction",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:11:25.231Z",
+  "productId": 503,
+  "arborescence": {
+    "Direction": {
+      "categoryId": 100012,
+      "categoryName": "Direction",
+      "level": 1,
+      "children": {
+        "Levier de direction": {
+          "categoryId": null,
+          "categoryName": "Levier de direction",
+          "level": 2,
+          "children": {
+            "Levier de commande de direction": {
+              "categoryId": 100203,
+              "categoryName": "Control Arm",
+              "level": 2,
+              "children": [],
+              "productId": 505
+            }
+          }
+        },
+        "Pièces de transmission de direction": {
+          "categoryId": null,
+          "categoryName": "Pièces de transmission de direction",
+          "level": 2,
+          "children": {
+            "Douille, Levier de commande de direction": {
+              "categoryId": 100594,
+              "categoryName": "Steering Linkage",
+              "level": 2,
+              "children": [],
+              "productId": 4827
+            },
+            "Joint, levier de direction": {
+              "categoryId": 100594,
+              "categoryName": "Steering Linkage",
+              "level": 2,
+              "children": [],
+              "productId": 8266
+            },
+            "Kit de joints, levier de direction": {
+              "categoryId": 100594,
+              "categoryName": "Steering Linkage",
+              "level": 2,
+              "children": [],
+              "productId": 8234
+            },
+            "Levier de commande de direction": {
+              "categoryId": 100594,
+              "categoryName": "Steering Linkage",
+              "level": 2,
+              "children": [],
+              "productId": 503
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Direction [ID: 100012] (Niveau 1)\n    ├── Levier de direction (Niveau 2)\n    │   └── Control Arm [ID: 100203] (Niveau 2) → ProductId: 505\n    └── Pièces de transmission de direction (Niveau 2)\n        ├── Steering Linkage [ID: 100594] (Niveau 2) → ProductId: 4827\n        ├── Steering Linkage [ID: 100594] (Niveau 2) → ProductId: 8266\n        ├── Steering Linkage [ID: 100594] (Niveau 2) → ProductId: 8234\n        └── Steering Linkage [ID: 100594] (Niveau 2) → ProductId: 503",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Direction",
+        "Levier de direction",
+        "Control Arm"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        100203
+      ],
+      "finalCategoryId": 100203,
+      "productId": 505
+    },
+    {
+      "path": [
+        "Direction",
+        "Pièces de transmission de direction",
+        "Steering Linkage"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        100594
+      ],
+      "finalCategoryId": 100594,
+      "productId": 4827
+    },
+    {
+      "path": [
+        "Direction",
+        "Pièces de transmission de direction",
+        "Steering Linkage"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        100594
+      ],
+      "finalCategoryId": 100594,
+      "productId": 8266
+    },
+    {
+      "path": [
+        "Direction",
+        "Pièces de transmission de direction",
+        "Steering Linkage"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        100594
+      ],
+      "finalCategoryId": 100594,
+      "productId": 8234
+    },
+    {
+      "path": [
+        "Direction",
+        "Pièces de transmission de direction",
+        "Steering Linkage"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        100594
+      ],
+      "finalCategoryId": 100594,
+      "productId": 503
+    }
+  ],
+  "productIdsInArbo": [
+    503,
+    505,
+    4827,
+    8234,
+    8266
+  ],
+  "matchedProductIds": [
+    503
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "productName": "Vase d'expansion, liquide de frein",
+  "searchText": "Vase d'expansion, liquide de frein",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:32:27.899Z",
+  "productId": 396,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Liquide de frein/Filtre déshydratant": {
+          "categoryId": null,
+          "categoryName": "Liquide de frein/Filtre déshydratant",
+          "level": 2,
+          "children": {
+            "Vase d'expansion, liquide de frein": {
+              "categoryId": 100029,
+              "categoryName": "Brake Fluid Reservoir/parts",
+              "level": 2,
+              "children": [],
+              "productId": 396
+            }
+          }
+        },
+        "Réglage du comportement dynamique": {
+          "categoryId": null,
+          "categoryName": "Réglage du comportement dynamique",
+          "level": 2,
+          "children": {
+            "Vase d'expansion, liquide de frein": {
+              "categoryId": 100038,
+              "categoryName": "Drive Dynamics Control",
+              "level": 2,
+              "children": [],
+              "productId": 396
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif de freinage [ID: 100006] (Niveau 1)\n    ├── Liquide de frein/Filtre déshydratant (Niveau 2)\n    │   └── Brake Fluid Reservoir/parts [ID: 100029] (Niveau 2) → ProductId: 396\n    └── Réglage du comportement dynamique (Niveau 2)\n        └── Drive Dynamics Control [ID: 100038] (Niveau 2) → ProductId: 396",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Liquide de frein/Filtre déshydratant",
+        "Brake Fluid Reservoir/parts"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100029
+      ],
+      "finalCategoryId": 100029,
+      "productId": 396
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Réglage du comportement dynamique",
+        "Drive Dynamics Control"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100038
+      ],
+      "finalCategoryId": 100038,
+      "productId": 396
+    }
+  ],
+  "productIdsInArbo": [
+    396
+  ],
+  "matchedProductIds": [
+    396
+  ]
+}

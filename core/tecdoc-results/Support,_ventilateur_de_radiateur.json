@@ -1,0 +1,54 @@
+{
+  "productName": "Support, ventilateur de radiateur",
+  "searchText": "Support, ventilateur de radiateur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:22:18.014Z",
+  "productId": 1571,
+  "arborescence": {
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Ventilateur": {
+          "categoryId": null,
+          "categoryName": "Ventilateur",
+          "level": 2,
+          "children": {
+            "Support, ventilateur de radiateur": {
+              "categoryId": 100337,
+              "categoryName": "Radiator Fan",
+              "level": 2,
+              "children": [],
+              "productId": 1571
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Refroidissement [ID: 100007] (Niveau 1)\n    └── Ventilateur (Niveau 2)\n        └── Radiator Fan [ID: 100337] (Niveau 2) → ProductId: 1571",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Refroidissement",
+        "Ventilateur",
+        "Radiator Fan"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100337
+      ],
+      "finalCategoryId": 100337,
+      "productId": 1571
+    }
+  ],
+  "productIdsInArbo": [
+    1571
+  ],
+  "matchedProductIds": [
+    1571
+  ]
+}

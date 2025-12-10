@@ -1,0 +1,64 @@
+{
+  "productName": "Raccord pour le gonflage de pneus",
+  "productId": 374,
+  "searchText": "Raccord pour le gonflage de pneus",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Système pneumatique": {
+          "categoryId": 200059,
+          "categoryName": "Système pneumatique",
+          "level": 1,
+          "children": {
+            "Régulateur de pression / accessoires": {
+              "categoryId": null,
+              "categoryName": "Régulateur de pression / accessoires",
+              "level": 2,
+              "children": {
+                "Raccord pour le gonflage de pneus": {
+                  "categoryId": 200113,
+                  "categoryName": "Pressure Regulator/Parts",
+                  "level": 2,
+                  "children": {
+                    "Raccord pour le gonflage de pneus": {
+                      "categoryId": null,
+                      "categoryName": "Raccord pour le gonflage de pneus",
+                      "level": 4,
+                      "children": {
+                        "Raccord pour le gonflage de pneus": {
+                          "categoryId": 200451,
+                          "categoryName": "Tyre Inflation Connector",
+                          "level": 3,
+                          "children": [],
+                          "productId": 374
+                        }
+                      }
+                    }
+                  },
+                  "productId": 374
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système pneumatique [ID: 200059] (Niveau 1)\n    └── Régulateur de pression / accessoires (Niveau 2)\n        └── Pressure Regulator/Parts [ID: 200113] (Niveau 2) → ProductId: 374\n            └── Raccord pour le gonflage de pneus (Niveau 4)\n                └── Tyre Inflation Connector [ID: 200451] (Niveau 3) → ProductId: 374",
+      "productIdsInArbo": [
+        374
+      ],
+      "matchedProductIds": [
+        374
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:23:23.389Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

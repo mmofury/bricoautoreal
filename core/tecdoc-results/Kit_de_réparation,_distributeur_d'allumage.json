@@ -1,0 +1,54 @@
+{
+  "productName": "Kit de réparation, distributeur d'allumage",
+  "searchText": "Kit de réparation, distributeur d'allumage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:04:45.883Z",
+  "productId": 2283,
+  "arborescence": {
+    "Allumage / préchauffage": {
+      "categoryId": 100008,
+      "categoryName": "Allumage / préchauffage",
+      "level": 1,
+      "children": {
+        "Distributeur d'allumage/Composants": {
+          "categoryId": null,
+          "categoryName": "Distributeur d'allumage/Composants",
+          "level": 2,
+          "children": {
+            "Kit de réparation, distributeur d'allumage": {
+              "categoryId": 100148,
+              "categoryName": "Ignition Distributor/Parts",
+              "level": 2,
+              "children": [],
+              "productId": 2283
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Allumage / préchauffage [ID: 100008] (Niveau 1)\n    └── Distributeur d'allumage/Composants (Niveau 2)\n        └── Ignition Distributor/Parts [ID: 100148] (Niveau 2) → ProductId: 2283",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Distributeur d'allumage/Composants",
+        "Ignition Distributor/Parts"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        100148
+      ],
+      "finalCategoryId": 100148,
+      "productId": 2283
+    }
+  ],
+  "productIdsInArbo": [
+    2283
+  ],
+  "matchedProductIds": [
+    2283
+  ]
+}

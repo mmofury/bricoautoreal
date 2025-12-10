@@ -1,0 +1,49 @@
+{
+  "productName": "Tête de fourche, servo-débrayeur (barre de force)",
+  "productId": 3983,
+  "searchText": "Tête de fourche, servo-débrayeur (barre de force)",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Embrayage": {
+          "categoryId": 200053,
+          "categoryName": "Embrayage",
+          "level": 1,
+          "children": {
+            "Servo-débrayeur": {
+              "categoryId": null,
+              "categoryName": "Servo-débrayeur",
+              "level": 2,
+              "children": {
+                "Tête de fourche, servo-débrayeur (barre de force)": {
+                  "categoryId": 200292,
+                  "categoryName": "Clutch Booster",
+                  "level": 2,
+                  "children": [],
+                  "productId": 3983
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Embrayage [ID: 200053] (Niveau 1)\n    └── Servo-débrayeur (Niveau 2)\n        └── Clutch Booster [ID: 200292] (Niveau 2) → ProductId: 3983",
+      "productIdsInArbo": [
+        3983
+      ],
+      "matchedProductIds": [
+        3983
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:44:00.445Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

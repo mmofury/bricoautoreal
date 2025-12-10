@@ -1,0 +1,54 @@
+{
+  "productName": "Outil de desserrage, bouchon de radiateur",
+  "searchText": "Outil de desserrage, bouchon de radiateur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:17:31.791Z",
+  "productId": 9274,
+  "arborescence": {
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Outil de desserrage, bouchon de radiateur": {
+              "categoryId": 103131,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 9274
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Refroidissement [ID: 100007] (Niveau 1)\n    └── Outils (Niveau 2)\n        └── Tools [ID: 103131] (Niveau 2) → ProductId: 9274",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Refroidissement",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        103131
+      ],
+      "finalCategoryId": 103131,
+      "productId": 9274
+    }
+  ],
+  "productIdsInArbo": [
+    9274
+  ],
+  "matchedProductIds": [
+    9274
+  ]
+}

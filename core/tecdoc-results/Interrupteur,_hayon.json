@@ -1,0 +1,54 @@
+{
+  "productName": "Interrupteur, hayon",
+  "searchText": "Interrupteur, hayon",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:47:26.798Z",
+  "productId": 6164,
+  "arborescence": {
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Commande du hayon": {
+          "categoryId": null,
+          "categoryName": "Commande du hayon",
+          "level": 2,
+          "children": {
+            "Interrupteur, hayon": {
+              "categoryId": 104155,
+              "categoryName": "Tailgate Actuation",
+              "level": 2,
+              "children": [],
+              "productId": 6164
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Systèmes de confort [ID: 100335] (Niveau 1)\n    └── Commande du hayon (Niveau 2)\n        └── Tailgate Actuation [ID: 104155] (Niveau 2) → ProductId: 6164",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Systèmes de confort",
+        "Commande du hayon",
+        "Tailgate Actuation"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        104155
+      ],
+      "finalCategoryId": 104155,
+      "productId": 6164
+    }
+  ],
+  "productIdsInArbo": [
+    6164
+  ],
+  "matchedProductIds": [
+    6164
+  ]
+}

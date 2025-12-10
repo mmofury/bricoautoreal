@@ -1,0 +1,229 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.201Z",
+  "manufacturer": "CADILLAC (SGM)",
+  "countGroups": 14,
+  "groups": [
+    {
+      "manufacturerId": 3528,
+      "manufacturerName": "CADILLAC (SGM)",
+      "groupKey": "ATS",
+      "displayName": "ATS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13120,
+          "modelName": "ATS-L (SA1)",
+          "modelYearFrom": "2014-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3528,
+      "manufacturerName": "CADILLAC (SGM)",
+      "groupKey": "CT4",
+      "displayName": "CT4",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40643,
+          "modelName": "CT4 (SD1)",
+          "modelYearFrom": "2020-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3528,
+      "manufacturerName": "CADILLAC (SGM)",
+      "groupKey": "CT5",
+      "displayName": "CT5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40164,
+          "modelName": "CT5 (SD2)",
+          "modelYearFrom": "2019-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3528,
+      "manufacturerName": "CADILLAC (SGM)",
+      "groupKey": "CT6",
+      "displayName": "CT6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36275,
+          "modelName": "CT6 (CK1)",
+          "modelYearFrom": "2016-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44512,
+          "modelName": "CT6 (CK2)",
+          "modelYearFrom": "2023-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3528,
+      "manufacturerName": "CADILLAC (SGM)",
+      "groupKey": "CTS",
+      "displayName": "CTS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37245,
+          "modelName": "CTS (CD3)",
+          "modelYearFrom": "2005-01-01",
+          "modelYearTo": "2006-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3528,
+      "manufacturerName": "CADILLAC (SGM)",
+      "groupKey": "GT4",
+      "displayName": "GT4",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44516,
+          "modelName": "GT4 (E11)",
+          "modelYearFrom": "2023-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3528,
+      "manufacturerName": "CADILLAC (SGM)",
+      "groupKey": "LYRIQ",
+      "displayName": "LYRIQ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42922,
+          "modelName": "LYRIQ (MC1)",
+          "modelYearFrom": "2022-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3528,
+      "manufacturerName": "CADILLAC (SGM)",
+      "groupKey": "OPTIQ",
+      "displayName": "OPTIQ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45498,
+          "modelName": "OPTIQ",
+          "modelYearFrom": "2024-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3528,
+      "manufacturerName": "CADILLAC (SGM)",
+      "groupKey": "SLS",
+      "displayName": "SLS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8710,
+          "modelName": "SLS (S6D)",
+          "modelYearFrom": "2005-03-01",
+          "modelYearTo": "2013-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3528,
+      "manufacturerName": "CADILLAC (SGM)",
+      "groupKey": "SRX",
+      "displayName": "SRX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39491,
+          "modelName": "SRX (CE2)",
+          "modelYearFrom": "2005-01-01",
+          "modelYearTo": "2006-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3528,
+      "manufacturerName": "CADILLAC (SGM)",
+      "groupKey": "XT4",
+      "displayName": "XT4",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38886,
+          "modelName": "XT4 (EG8)",
+          "modelYearFrom": "2018-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3528,
+      "manufacturerName": "CADILLAC (SGM)",
+      "groupKey": "XT5",
+      "displayName": "XT5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36726,
+          "modelName": "XT5 (SN1)",
+          "modelYearFrom": "2016-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45939,
+          "modelName": "XT5",
+          "modelYearFrom": "2024-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3528,
+      "manufacturerName": "CADILLAC (SGM)",
+      "groupKey": "XT6",
+      "displayName": "XT6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39788,
+          "modelName": "XT6 (SN2)",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3528,
+      "manufacturerName": "CADILLAC (SGM)",
+      "groupKey": "XTS",
+      "displayName": "XTS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11205,
+          "modelName": "XTS (EG4)",
+          "modelYearFrom": "2013-03-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

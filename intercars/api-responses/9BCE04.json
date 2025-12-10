@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "9BCE04",
+      "index": "03.9314-5900.3",
+      "tecDoc": "03.9314-5900.3",
+      "tecDocProd": "3",
+      "articleNumber": "03.9314-5900.3",
+      "brand": "ATE",
+      "shortDescription": "Devices for working fluids and fuels",
+      "description": "Collection bottle, application: brake fluid ATE",
+      "eans": [
+        "4006633231619"
+      ],
+      "packageWeight": "0,103",
+      "packageWidth": "7,000",
+      "packageDepth": "25,000",
+      "packageHeight": "7,000",
+      "customsCode": "90319000",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_2340",
+          "primary": false,
+          "name": {
+            "en": "Suction Balloon, brake fluid"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91773",
+          "primary": true,
+          "name": {
+            "en": "Devices for working fluids and fuels"
+          }
+        }
+      ]
+    }
+  ]
+}

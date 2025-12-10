@@ -1,0 +1,54 @@
+{
+  "productName": "Joint, filtre à carburant",
+  "searchText": "Joint, filtre à carburant",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:55:47.838Z",
+  "productId": 144,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Boîtier/filtre à carburant": {
+          "categoryId": null,
+          "categoryName": "Boîtier/filtre à carburant",
+          "level": 2,
+          "children": {
+            "Joint, filtre à carburant": {
+              "categoryId": 100253,
+              "categoryName": "Fuel Filter/Housing",
+              "level": 2,
+              "children": [],
+              "productId": 144
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Alimentation carburant [ID: 100214] (Niveau 1)\n    └── Boîtier/filtre à carburant (Niveau 2)\n        └── Fuel Filter/Housing [ID: 100253] (Niveau 2) → ProductId: 144",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Boîtier/filtre à carburant",
+        "Fuel Filter/Housing"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100253
+      ],
+      "finalCategoryId": 100253,
+      "productId": 144
+    }
+  ],
+  "productIdsInArbo": [
+    144
+  ],
+  "matchedProductIds": [
+    144
+  ]
+}

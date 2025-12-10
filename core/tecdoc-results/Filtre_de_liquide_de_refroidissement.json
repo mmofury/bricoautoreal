@@ -1,0 +1,54 @@
+{
+  "productName": "Filtre de liquide de refroidissement",
+  "searchText": "Filtre de liquide de refroidissement",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:39:17.749Z",
+  "productId": 1388,
+  "arborescence": {
+    "Filtre": {
+      "categoryId": 100005,
+      "categoryName": "Filtre",
+      "level": 1,
+      "children": {
+        "Filtre de liquide de refroidissement": {
+          "categoryId": null,
+          "categoryName": "Filtre de liquide de refroidissement",
+          "level": 2,
+          "children": {
+            "Filtre de liquide de refroidissement": {
+              "categoryId": 100713,
+              "categoryName": "Coolant Filter",
+              "level": 2,
+              "children": [],
+              "productId": 1388
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Filtre [ID: 100005] (Niveau 1)\n    └── Filtre de liquide de refroidissement (Niveau 2)\n        └── Coolant Filter [ID: 100713] (Niveau 2) → ProductId: 1388",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Filtre",
+        "Filtre de liquide de refroidissement",
+        "Coolant Filter"
+      ],
+      "categoryIds": [
+        100005,
+        null,
+        100713
+      ],
+      "finalCategoryId": 100713,
+      "productId": 1388
+    }
+  ],
+  "productIdsInArbo": [
+    1388
+  ],
+  "matchedProductIds": [
+    1388
+  ]
+}

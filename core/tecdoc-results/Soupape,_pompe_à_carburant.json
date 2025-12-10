@@ -1,0 +1,54 @@
+{
+  "productName": "Soupape, pompe à carburant",
+  "searchText": "Soupape, pompe à carburant",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:18:00.192Z",
+  "productId": 862,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Soupapes": {
+          "categoryId": null,
+          "categoryName": "Soupapes",
+          "level": 2,
+          "children": {
+            "Soupape, pompe à carburant": {
+              "categoryId": 100252,
+              "categoryName": "Valves",
+              "level": 2,
+              "children": [],
+              "productId": 862
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Alimentation carburant [ID: 100214] (Niveau 1)\n    └── Soupapes (Niveau 2)\n        └── Valves [ID: 100252] (Niveau 2) → ProductId: 862",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Soupapes",
+        "Valves"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100252
+      ],
+      "finalCategoryId": 100252,
+      "productId": 862
+    }
+  ],
+  "productIdsInArbo": [
+    862
+  ],
+  "matchedProductIds": [
+    862
+  ]
+}

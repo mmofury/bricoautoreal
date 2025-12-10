@@ -1,0 +1,112 @@
+{
+  "productName": "Joint d'étanchéité, culasse",
+  "searchText": "Joint d'étanchéité, culasse",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:52:52.271Z",
+  "productId": 318,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Culasse / pieces de montage": {
+          "categoryId": null,
+          "categoryName": "Culasse / pieces de montage",
+          "level": 2,
+          "children": {
+            "Joint d'étanchéité, culasse": {
+              "categoryId": 100373,
+              "categoryName": "Cylinder Head/Attachment Parts",
+              "level": 2,
+              "children": {
+                "Joint de culasse": {
+                  "categoryId": null,
+                  "categoryName": "Joint de culasse",
+                  "level": 4,
+                  "children": {
+                    "Joint d'étanchéité, culasse": {
+                      "categoryId": 100374,
+                      "categoryName": "Cylinder Head Gasket",
+                      "level": 3,
+                      "children": [],
+                      "productId": 318
+                    }
+                  }
+                }
+              },
+              "productId": 318
+            }
+          }
+        },
+        "Joints": {
+          "categoryId": null,
+          "categoryName": "Joints",
+          "level": 2,
+          "children": {
+            "Joint d'étanchéité, culasse": {
+              "categoryId": 100223,
+              "categoryName": "Gaskets",
+              "level": 2,
+              "children": {
+                "Joint de culasse": {
+                  "categoryId": null,
+                  "categoryName": "Joint de culasse",
+                  "level": 4,
+                  "children": {
+                    "Joint d'étanchéité, culasse": {
+                      "categoryId": 100225,
+                      "categoryName": "Cylinder Head Gasket",
+                      "level": 3,
+                      "children": [],
+                      "productId": 318
+                    }
+                  }
+                }
+              },
+              "productId": 318
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    ├── Culasse / pieces de montage (Niveau 2)\n    │   └── Cylinder Head/Attachment Parts [ID: 100373] (Niveau 2) → ProductId: 318\n    │       └── Joint de culasse (Niveau 4)\n    │           └── Cylinder Head Gasket [ID: 100374] (Niveau 3) → ProductId: 318\n    └── Joints (Niveau 2)\n        └── Gaskets [ID: 100223] (Niveau 2) → ProductId: 318\n            └── Joint de culasse (Niveau 4)\n                └── Cylinder Head Gasket [ID: 100225] (Niveau 3) → ProductId: 318",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Culasse / pieces de montage",
+        "Cylinder Head/Attachment Parts"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100373
+      ],
+      "finalCategoryId": 100373,
+      "productId": 318
+    },
+    {
+      "path": [
+        "Moteur",
+        "Joints",
+        "Gaskets"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100223
+      ],
+      "finalCategoryId": 100223,
+      "productId": 318
+    }
+  ],
+  "productIdsInArbo": [
+    318
+  ],
+  "matchedProductIds": [
+    318
+  ]
+}

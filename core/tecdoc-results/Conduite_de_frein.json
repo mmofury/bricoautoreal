@@ -1,0 +1,98 @@
+{
+  "productName": "Conduite de frein",
+  "searchText": "Conduite de frein",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:23:48.945Z",
+  "productId": 515,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Conduites de frein": {
+          "categoryId": null,
+          "categoryName": "Conduites de frein",
+          "level": 2,
+          "children": {
+            "Adaptateur, conduite de frein": {
+              "categoryId": 100036,
+              "categoryName": "Brake Lines",
+              "level": 2,
+              "children": [],
+              "productId": 3192
+            },
+            "Conduite de frein": {
+              "categoryId": 100036,
+              "categoryName": "Brake Lines",
+              "level": 2,
+              "children": [],
+              "productId": 515
+            },
+            "Support, conduite de frein": {
+              "categoryId": 100036,
+              "categoryName": "Brake Lines",
+              "level": 2,
+              "children": [],
+              "productId": 1101
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif de freinage [ID: 100006] (Niveau 1)\n    └── Conduites de frein (Niveau 2)\n        ├── Brake Lines [ID: 100036] (Niveau 2) → ProductId: 3192\n        ├── Brake Lines [ID: 100036] (Niveau 2) → ProductId: 515\n        └── Brake Lines [ID: 100036] (Niveau 2) → ProductId: 1101",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Conduites de frein",
+        "Brake Lines"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100036
+      ],
+      "finalCategoryId": 100036,
+      "productId": 3192
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Conduites de frein",
+        "Brake Lines"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100036
+      ],
+      "finalCategoryId": 100036,
+      "productId": 515
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Conduites de frein",
+        "Brake Lines"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100036
+      ],
+      "finalCategoryId": 100036,
+      "productId": 1101
+    }
+  ],
+  "productIdsInArbo": [
+    515,
+    1101,
+    3192
+  ],
+  "matchedProductIds": [
+    515
+  ]
+}

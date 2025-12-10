@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "D47872",
+      "index": "03.9302-9022.2",
+      "tecDoc": "03.9302-9022.2",
+      "tecDocProd": "3",
+      "articleNumber": "03.9302-9022.2",
+      "brand": "ATE",
+      "shortDescription": "Devices for working fluids and fuels",
+      "description": "Pressure gauge, application: brake fluid ATE",
+      "eans": [
+        "4006633124546"
+      ],
+      "packageWeight": "0,120",
+      "packageWidth": "7,100",
+      "packageDepth": "6,000",
+      "packageHeight": "9,200",
+      "customsCode": "90319000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3669",
+          "primary": false,
+          "name": {
+            "en": "Manometer, filling/bleeding unit (brake hydraulics)"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91773",
+          "primary": true,
+          "name": {
+            "en": "Devices for working fluids and fuels"
+          }
+        }
+      ]
+    }
+  ]
+}

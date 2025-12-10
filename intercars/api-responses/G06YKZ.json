@@ -1,0 +1,36 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G06YKZ",
+      "index": "080.954-00",
+      "tecDoc": "080.954-00A",
+      "tecDocProd": "63",
+      "articleNumber": "080.954-00A",
+      "brand": "PETERS",
+      "shortDescription": "Sensor, coolant level",
+      "description": "Coolant level sensor fits: RVI C, KERAX, MIDLUM, PREMIUM, PREMIUM 2, VOLVO FE, FE II D7E240-MIDR06.23.56B/41 04.96-",
+      "packageWeight": "0,060",
+      "customsCode": "90261029",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1288",
+          "primary": true,
+          "name": {
+            "en": "Sensor, coolant level"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1412",
+          "primary": false,
+          "name": {
+            "en": "Level Control Switch, coolant level indicator"
+          }
+        }
+      ]
+    }
+  ]
+}

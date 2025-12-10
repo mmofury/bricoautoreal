@@ -1,0 +1,64 @@
+{
+  "productName": "Cylindre de changement de vitesses (boîte manuelle)",
+  "productId": 9218,
+  "searchText": "Cylindre de changement de vitesses (boîte manuelle)",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Boîte de vitesses": {
+          "categoryId": 200054,
+          "categoryName": "Boîte de vitesses",
+          "level": 1,
+          "children": {
+            "Boîte de vitesse manuelle / pièces de montage": {
+              "categoryId": null,
+              "categoryName": "Boîte de vitesse manuelle / pièces de montage",
+              "level": 2,
+              "children": {
+                "Cylindre de changement de vitesses (boîte manuelle)": {
+                  "categoryId": 200095,
+                  "categoryName": "Manual Transmission/ Parts",
+                  "level": 2,
+                  "children": {
+                    "Cylindre de commande": {
+                      "categoryId": null,
+                      "categoryName": "Cylindre de commande",
+                      "level": 4,
+                      "children": {
+                        "Cylindre de changement de vitesses (boîte manuelle)": {
+                          "categoryId": 706679,
+                          "categoryName": "Shift Cylinder",
+                          "level": 3,
+                          "children": [],
+                          "productId": 9218
+                        }
+                      }
+                    }
+                  },
+                  "productId": 9218
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Boîte de vitesses [ID: 200054] (Niveau 1)\n    └── Boîte de vitesse manuelle / pièces de montage (Niveau 2)\n        └── Manual Transmission/ Parts [ID: 200095] (Niveau 2) → ProductId: 9218\n            └── Cylindre de commande (Niveau 4)\n                └── Shift Cylinder [ID: 706679] (Niveau 3) → ProductId: 9218",
+      "productIdsInArbo": [
+        9218
+      ],
+      "matchedProductIds": [
+        9218
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:15:51.906Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

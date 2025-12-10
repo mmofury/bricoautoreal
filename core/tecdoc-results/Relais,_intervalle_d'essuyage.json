@@ -1,0 +1,89 @@
+{
+  "productName": "Relais, intervalle d'essuyage",
+  "searchText": "Relais, intervalle d'essuyage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:07:54.058Z",
+  "productId": 796,
+  "arborescence": {
+    "Nettoyage des vitres": {
+      "categoryId": 100018,
+      "categoryName": "Nettoyage des vitres",
+      "level": 1,
+      "children": {
+        "Interrupteur / relais": {
+          "categoryId": null,
+          "categoryName": "Interrupteur / relais",
+          "level": 2,
+          "children": {
+            "Relais, intervalle d'essuyage": {
+              "categoryId": 100613,
+              "categoryName": "Switch/ Relay",
+              "level": 2,
+              "children": [],
+              "productId": 796
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Relais": {
+          "categoryId": null,
+          "categoryName": "Relais",
+          "level": 2,
+          "children": {
+            "Relais, intervalle d'essuyage": {
+              "categoryId": 100785,
+              "categoryName": "Relay",
+              "level": 2,
+              "children": [],
+              "productId": 796
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Nettoyage des vitres [ID: 100018] (Niveau 1)\n│   └── Interrupteur / relais (Niveau 2)\n│       └── Switch/ Relay [ID: 100613] (Niveau 2) → ProductId: 796\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Relais (Niveau 2)\n        └── Relay [ID: 100785] (Niveau 2) → ProductId: 796",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Nettoyage des vitres",
+        "Interrupteur / relais",
+        "Switch/ Relay"
+      ],
+      "categoryIds": [
+        100018,
+        null,
+        100613
+      ],
+      "finalCategoryId": 100613,
+      "productId": 796
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Relais",
+        "Relay"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100785
+      ],
+      "finalCategoryId": 100785,
+      "productId": 796
+    }
+  ],
+  "productIdsInArbo": [
+    796
+  ],
+  "matchedProductIds": [
+    796
+  ]
+}

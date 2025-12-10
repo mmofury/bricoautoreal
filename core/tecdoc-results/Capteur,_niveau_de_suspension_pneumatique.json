@@ -1,0 +1,54 @@
+{
+  "productName": "Capteur, niveau de suspension pneumatique",
+  "searchText": "Capteur, niveau de suspension pneumatique",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:16:03.817Z",
+  "productId": 268,
+  "arborescence": {
+    "Suspension/Amortissement": {
+      "categoryId": 100011,
+      "categoryName": "Suspension/Amortissement",
+      "level": 1,
+      "children": {
+        "Suspension pneumatique": {
+          "categoryId": null,
+          "categoryName": "Suspension pneumatique",
+          "level": 2,
+          "children": {
+            "Capteur, niveau de suspension pneumatique": {
+              "categoryId": 101884,
+              "categoryName": "Air Suspension",
+              "level": 2,
+              "children": [],
+              "productId": 268
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Suspension/Amortissement [ID: 100011] (Niveau 1)\n    └── Suspension pneumatique (Niveau 2)\n        └── Air Suspension [ID: 101884] (Niveau 2) → ProductId: 268",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Suspension pneumatique",
+        "Air Suspension"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        101884
+      ],
+      "finalCategoryId": 101884,
+      "productId": 268
+    }
+  ],
+  "productIdsInArbo": [
+    268
+  ],
+  "matchedProductIds": [
+    268
+  ]
+}

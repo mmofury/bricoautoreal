@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "D34596",
+      "index": "FE39482",
+      "tecDoc": "39482",
+      "tecDocProd": "101",
+      "articleNumber": "39482",
+      "brand": "FEBI",
+      "shortDescription": "Control Unit, automatic transmission",
+      "description": "Controller fits: CHRYSLER 300C, CROSSFIRE, DODGE CHALLENGER, DURANGO, NITRO, JEEP CHEROKEE, GRAND CHEROKEE III 2.8D-6.1 07.03-",
+      "customsCode": "90328900",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1278",
+          "primary": true,
+          "name": {
+            "en": "Control Unit, automatic transmission"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3072",
+          "primary": false,
+          "name": {
+            "en": "Mechatronics, automatic transmission"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "productName": "Rondelle de calage, vis de culasse de cylindre",
+  "searchText": "Rondelle de calage, vis de culasse de cylindre",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:10:57.697Z",
+  "productId": 1534,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Culasse / pieces de montage": {
+          "categoryId": null,
+          "categoryName": "Culasse / pieces de montage",
+          "level": 2,
+          "children": {
+            "Rondelle de calage, vis de culasse de cylindre": {
+              "categoryId": 100373,
+              "categoryName": "Cylinder Head/Attachment Parts",
+              "level": 2,
+              "children": {
+                "Vis de culasse": {
+                  "categoryId": null,
+                  "categoryName": "Vis de culasse",
+                  "level": 4,
+                  "children": {
+                    "Rondelle de calage, vis de culasse de cylindre": {
+                      "categoryId": 100378,
+                      "categoryName": "Cylinder Head Bolts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1534
+                    }
+                  }
+                }
+              },
+              "productId": 1534
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Culasse / pieces de montage (Niveau 2)\n        └── Cylinder Head/Attachment Parts [ID: 100373] (Niveau 2) → ProductId: 1534\n            └── Vis de culasse (Niveau 4)\n                └── Cylinder Head Bolts [ID: 100378] (Niveau 3) → ProductId: 1534",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Culasse / pieces de montage",
+        "Cylinder Head/Attachment Parts"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100373
+      ],
+      "finalCategoryId": 100373,
+      "productId": 1534
+    }
+  ],
+  "productIdsInArbo": [
+    1534
+  ],
+  "matchedProductIds": [
+    1534
+  ]
+}

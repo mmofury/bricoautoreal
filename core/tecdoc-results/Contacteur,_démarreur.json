@@ -1,0 +1,69 @@
+{
+  "productName": "Contacteur, démarreur",
+  "searchText": "Contacteur, démarreur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:24:33.740Z",
+  "productId": 682,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Démarreur": {
+          "categoryId": null,
+          "categoryName": "Démarreur",
+          "level": 2,
+          "children": {
+            "Contacteur, démarreur": {
+              "categoryId": 100353,
+              "categoryName": "Starter System",
+              "level": 2,
+              "children": {
+                "Contacteur": {
+                  "categoryId": null,
+                  "categoryName": "Contacteur",
+                  "level": 4,
+                  "children": {
+                    "Contacteur, démarreur": {
+                      "categoryId": 100362,
+                      "categoryName": "Solenoid Switch",
+                      "level": 3,
+                      "children": [],
+                      "productId": 682
+                    }
+                  }
+                }
+              },
+              "productId": 682
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Démarreur (Niveau 2)\n        └── Starter System [ID: 100353] (Niveau 2) → ProductId: 682\n            └── Contacteur (Niveau 4)\n                └── Solenoid Switch [ID: 100362] (Niveau 3) → ProductId: 682",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Démarreur",
+        "Starter System"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100353
+      ],
+      "finalCategoryId": 100353,
+      "productId": 682
+    }
+  ],
+  "productIdsInArbo": [
+    682
+  ],
+  "matchedProductIds": [
+    682
+  ]
+}

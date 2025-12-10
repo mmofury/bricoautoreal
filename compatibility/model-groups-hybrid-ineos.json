@@ -1,0 +1,40 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.338Z",
+  "manufacturer": "INEOS",
+  "countGroups": 1,
+  "groups": [
+    {
+      "manufacturerId": 6576,
+      "manufacturerName": "INEOS",
+      "groupKey": "GRENADIER",
+      "displayName": "GRENADIER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43757,
+          "modelName": "GRENADIER Véhicule tout terrain fermé",
+          "modelYearFrom": "2022-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43929,
+          "modelName": "GRENADIER Camionnette/Véhicule tout terrain fermé",
+          "modelYearFrom": "2022-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44530,
+          "modelName": "GRENADIER Quartermaster",
+          "modelYearFrom": "2023-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45297,
+          "modelName": "GRENADIER Quartermaster",
+          "modelYearFrom": "2024-03-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "productName": "Cache, système de rétroviseurs",
+  "productId": 3386,
+  "searchText": "Cache, système de rétroviseurs",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Cabine du conducteur/carrosserie": {
+          "categoryId": 200022,
+          "categoryName": "Cabine du conducteur/carrosserie",
+          "level": 1,
+          "children": {
+            "Miroirs/accessoires": {
+              "categoryId": null,
+              "categoryName": "Miroirs/accessoires",
+              "level": 2,
+              "children": {
+                "Cache, système de rétroviseurs": {
+                  "categoryId": 200024,
+                  "categoryName": "Mirror/ Accessories",
+                  "level": 2,
+                  "children": [],
+                  "productId": 3386
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Cabine du conducteur/carrosserie [ID: 200022] (Niveau 1)\n    └── Miroirs/accessoires (Niveau 2)\n        └── Mirror/ Accessories [ID: 200024] (Niveau 2) → ProductId: 3386",
+      "productIdsInArbo": [
+        3386
+      ],
+      "matchedProductIds": [
+        3386
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:01:10.374Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

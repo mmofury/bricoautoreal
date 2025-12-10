@@ -1,0 +1,2050 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.318Z",
+  "manufacturer": "HONDA",
+  "countGroups": 71,
+  "groups": [
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "ACCORD",
+      "displayName": "ACCORD",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1246,
+          "modelName": "ACCORD IV (CB)",
+          "modelYearFrom": "1989-11-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 1247,
+          "modelName": "ACCORD III (CA)",
+          "modelYearFrom": "1985-11-01",
+          "modelYearTo": "1989-12-01"
+        },
+        {
+          "modelId": 1248,
+          "modelName": "ACCORD IV Coupé (CB, CC)",
+          "modelYearFrom": "1989-05-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 1251,
+          "modelName": "ACCORD I Hatchback (SJ, SY)",
+          "modelYearFrom": "1979-01-01",
+          "modelYearTo": "1983-09-01"
+        },
+        {
+          "modelId": 1252,
+          "modelName": "ACCORD II Hatchback (AC, AD)",
+          "modelYearFrom": "1983-09-01",
+          "modelYearTo": "1985-10-01"
+        },
+        {
+          "modelId": 1253,
+          "modelName": "ACCORD II (AC, AD)",
+          "modelYearFrom": "1983-09-01",
+          "modelYearTo": "1985-10-01"
+        },
+        {
+          "modelId": 1263,
+          "modelName": "ACCORD V (CC, CD)",
+          "modelYearFrom": "1992-06-01",
+          "modelYearTo": "1997-12-01"
+        },
+        {
+          "modelId": 1265,
+          "modelName": "ACCORD I (SJ, SY, SM)",
+          "modelYearFrom": "1976-05-01",
+          "modelYearTo": "1983-09-01"
+        },
+        {
+          "modelId": 1272,
+          "modelName": "ACCORD V Aerodeck (CE)",
+          "modelYearFrom": "1993-04-01",
+          "modelYearTo": "1998-02-01"
+        },
+        {
+          "modelId": 1273,
+          "modelName": "ACCORD V Coupé (CD)",
+          "modelYearFrom": "1993-04-01",
+          "modelYearTo": "1998-12-01"
+        },
+        {
+          "modelId": 1276,
+          "modelName": "ACCORD IV Aerodeck (CB)",
+          "modelYearFrom": "1989-09-01",
+          "modelYearTo": "1994-02-01"
+        },
+        {
+          "modelId": 1490,
+          "modelName": "ACCORD V (CE, CF_, CD)",
+          "modelYearFrom": "1995-09-01",
+          "modelYearTo": "1998-12-01"
+        },
+        {
+          "modelId": 3471,
+          "modelName": "ACCORD III Aerodeck (CA)",
+          "modelYearFrom": "1985-11-01",
+          "modelYearTo": "1989-12-01"
+        },
+        {
+          "modelId": 3896,
+          "modelName": "ACCORD VI (CK, CG, CH, CF, CL)",
+          "modelYearFrom": "1997-03-01",
+          "modelYearTo": "2003-12-01"
+        },
+        {
+          "modelId": 3950,
+          "modelName": "ACCORD VI Coupé (CG)",
+          "modelYearFrom": "1997-12-01",
+          "modelYearTo": "2003-06-01"
+        },
+        {
+          "modelId": 4181,
+          "modelName": "ACCORD VI Aerodeck (CF)",
+          "modelYearFrom": "1997-07-01",
+          "modelYearTo": "2005-09-01"
+        },
+        {
+          "modelId": 4576,
+          "modelName": "ACCORD VI Hatchback (CH, CL)",
+          "modelYearFrom": "1999-12-01",
+          "modelYearTo": "2002-12-01"
+        },
+        {
+          "modelId": 4963,
+          "modelName": "ACCORD VII (CL, CN)",
+          "modelYearFrom": "2003-01-01",
+          "modelYearTo": "2012-09-01"
+        },
+        {
+          "modelId": 4985,
+          "modelName": "ACCORD VII Tourer (CM, CN)",
+          "modelYearFrom": "2002-11-01",
+          "modelYearTo": "2008-05-01"
+        },
+        {
+          "modelId": 7468,
+          "modelName": "ACCORD Coupé (CM)",
+          "modelYearFrom": "2003-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 7803,
+          "modelName": "ACCORD VIII (CU)",
+          "modelYearFrom": "2008-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 7804,
+          "modelName": "ACCORD VIII Tourer (CW)",
+          "modelYearFrom": "2008-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 8809,
+          "modelName": "ACCORD VIII (CP)",
+          "modelYearFrom": "2007-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10998,
+          "modelName": "ACCORD IX Coupé",
+          "modelYearFrom": "2012-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10999,
+          "modelName": "ACCORD IX A trois volumes (CR)",
+          "modelYearFrom": "2012-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11333,
+          "modelName": "ACCORD Berline bicorps trois ou cinq portes (TF)",
+          "modelYearFrom": "2009-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11373,
+          "modelName": "ACCORD III Coupé",
+          "modelYearFrom": "1985-03-01",
+          "modelYearTo": "1989-12-01"
+        },
+        {
+          "modelId": 11444,
+          "modelName": "ACCORD VII (CM)",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": "2008-05-01"
+        },
+        {
+          "modelId": 31964,
+          "modelName": "ACCORD Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1975-09-01",
+          "modelYearTo": "1981-12-01"
+        },
+        {
+          "modelId": 38541,
+          "modelName": "ACCORD X A trois volumes (CV)",
+          "modelYearFrom": "2017-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44164,
+          "modelName": "ACCORD XI A trois volumes (CY)",
+          "modelYearFrom": "2022-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44791,
+          "modelName": "ACCORD VIII Coupé (CS_)",
+          "modelYearFrom": "2008-01-01",
+          "modelYearTo": "2012-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "ACTY",
+      "displayName": "ACTY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4502,
+          "modelName": "ACTY (TN)",
+          "modelYearFrom": "1979-08-01",
+          "modelYearTo": "1986-09-01"
+        },
+        {
+          "modelId": 37000,
+          "modelName": "ACTY Autobus/Autocar (HA, HH)",
+          "modelYearFrom": "1999-09-01",
+          "modelYearTo": "2012-03-01"
+        },
+        {
+          "modelId": 37001,
+          "modelName": "ACTY Fourgon (HH_)",
+          "modelYearFrom": "1999-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37191,
+          "modelName": "ACTY Camion plate-forme/Châssis (HA8, HA9)",
+          "modelYearFrom": "2009-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38945,
+          "modelName": "ACTY Camion plate-forme/Châssis (TN)",
+          "modelYearFrom": "1978-10-01",
+          "modelYearTo": "1987-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "AIRWAVE",
+      "displayName": "AIRWAVE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5859,
+          "modelName": "AIRWAVE (GJ)",
+          "modelYearFrom": "2004-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "AMAZE",
+      "displayName": "AMAZE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11411,
+          "modelName": "AMAZE MK I (DF1, DF2)",
+          "modelYearFrom": "2013-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38825,
+          "modelName": "AMAZE MK II (DF_)",
+          "modelYearFrom": "2018-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "ASCOT",
+      "displayName": "ASCOT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5873,
+          "modelName": "ASCOT Break (CB, CE)",
+          "modelYearFrom": "1990-11-01",
+          "modelYearTo": "1997-10-01"
+        },
+        {
+          "modelId": 38681,
+          "modelName": "ASCOT A trois volumes (CB)",
+          "modelYearFrom": "1989-09-01",
+          "modelYearTo": "1997-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "AVANCIER",
+      "displayName": "AVANCIER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5895,
+          "modelName": "AVANCIER (TA)",
+          "modelYearFrom": "1999-09-01",
+          "modelYearTo": "2003-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "BEAT",
+      "displayName": "BEAT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5902,
+          "modelName": "BEAT (PP_)",
+          "modelYearFrom": "1991-01-01",
+          "modelYearTo": "1996-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "BR",
+      "displayName": "BR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36238,
+          "modelName": "BR-V (DG_)",
+          "modelYearFrom": "2016-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43535,
+          "modelName": "BR-V II (DG_)",
+          "modelYearFrom": "2021-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "BRIO",
+      "displayName": "BRIO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10005,
+          "modelName": "BRIO (DD_)",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37002,
+          "modelName": "BRIO AMAZE (DF)",
+          "modelYearFrom": "2013-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42651,
+          "modelName": "BRIO II (DD_)",
+          "modelYearFrom": "2018-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "CAPA",
+      "displayName": "CAPA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3552,
+          "modelName": "CAPA (GA)",
+          "modelYearFrom": "1998-01-01",
+          "modelYearTo": "2002-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "CITY",
+      "displayName": "CITY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5946,
+          "modelName": "CITY I Berline bicorps trois ou cinq portes (AA)",
+          "modelYearFrom": "1980-11-01",
+          "modelYearTo": "1984-08-01"
+        },
+        {
+          "modelId": 5947,
+          "modelName": "CITY III A trois volumes (3A_, SX8)",
+          "modelYearFrom": "1997-02-01",
+          "modelYearTo": "1999-11-01"
+        },
+        {
+          "modelId": 5948,
+          "modelName": "CITY A trois volumes",
+          "modelYearFrom": "1999-12-01",
+          "modelYearTo": "2003-09-01"
+        },
+        {
+          "modelId": 5949,
+          "modelName": "CITY IV A trois volumes (GE4)",
+          "modelYearFrom": "2002-11-01",
+          "modelYearTo": "2009-03-01"
+        },
+        {
+          "modelId": 6310,
+          "modelName": "CITY IV A trois volumes (GD_)",
+          "modelYearFrom": "2002-12-01",
+          "modelYearTo": "2008-07-01"
+        },
+        {
+          "modelId": 8131,
+          "modelName": "CITY V A trois volumes (GM2, GM3)",
+          "modelYearFrom": "2008-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 8581,
+          "modelName": "CITY I Fourgon (VF)",
+          "modelYearFrom": "1982-01-01",
+          "modelYearTo": "1986-10-01"
+        },
+        {
+          "modelId": 11762,
+          "modelName": "CITY VI A trois volumes (GM4, GM5, GM6, GM9, GM7)",
+          "modelYearFrom": "2013-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40537,
+          "modelName": "CITY VII A trois volumes (GN1, GN2, GN3)",
+          "modelYearFrom": "2019-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41552,
+          "modelName": "CITY VII Berline bicorps trois ou cinq portes (GN6, GN2)",
+          "modelYearFrom": "2020-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "CIVIC",
+      "displayName": "CIVIC",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 873,
+          "modelName": "CIVIC III A trois volumes (AM, AK, AU)",
+          "modelYearFrom": "1983-10-01",
+          "modelYearTo": "1988-12-01"
+        },
+        {
+          "modelId": 1249,
+          "modelName": "CIVIC III Shuttle (AN, AR)",
+          "modelYearFrom": "1983-08-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 1250,
+          "modelName": "CIVIC IV A trois volumes (ED, EF)",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "1993-10-01"
+        },
+        {
+          "modelId": 1256,
+          "modelName": "CIVIC IV Hatchback (EC, ED, EE, EF)",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "1993-10-01"
+        },
+        {
+          "modelId": 1264,
+          "modelName": "CIVIC V A trois volumes (EG, EH)",
+          "modelYearFrom": "1991-10-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 1269,
+          "modelName": "CIVIC I Hatchback (SB)",
+          "modelYearFrom": "1972-07-01",
+          "modelYearTo": "1983-09-01"
+        },
+        {
+          "modelId": 1270,
+          "modelName": "CIVIC III Hatchback (AL, AJ, AG, AH)",
+          "modelYearFrom": "1983-10-01",
+          "modelYearTo": "1987-10-01"
+        },
+        {
+          "modelId": 1274,
+          "modelName": "CIVIC V Coupé (EJ)",
+          "modelYearFrom": "1993-08-01",
+          "modelYearTo": "1996-03-01"
+        },
+        {
+          "modelId": 1275,
+          "modelName": "CIVIC VI Fastback (MA, MB)",
+          "modelYearFrom": "1994-09-01",
+          "modelYearTo": "2001-02-01"
+        },
+        {
+          "modelId": 1278,
+          "modelName": "CIVIC IV Shuttle (EE, EF)",
+          "modelYearFrom": "1988-01-01",
+          "modelYearTo": "1995-02-01"
+        },
+        {
+          "modelId": 1468,
+          "modelName": "CIVIC VI Hatchback (EJ, EK)",
+          "modelYearFrom": "1995-10-01",
+          "modelYearTo": "2001-03-01"
+        },
+        {
+          "modelId": 1469,
+          "modelName": "CIVIC VI A trois volumes (EJ, EK, SO)",
+          "modelYearFrom": "1995-06-01",
+          "modelYearTo": "2001-03-01"
+        },
+        {
+          "modelId": 3562,
+          "modelName": "CIVIC VI Aerodeck (MB, MC)",
+          "modelYearFrom": "1998-04-01",
+          "modelYearTo": "2001-02-01"
+        },
+        {
+          "modelId": 3576,
+          "modelName": "CIVIC I A trois volumes (SF)",
+          "modelYearFrom": "1979-10-01",
+          "modelYearTo": "1985-12-01"
+        },
+        {
+          "modelId": 3920,
+          "modelName": "CIVIC V Hatchback (EG, EH)",
+          "modelYearFrom": "1991-10-01",
+          "modelYearTo": "1995-11-01"
+        },
+        {
+          "modelId": 4733,
+          "modelName": "CIVIC VII Hatchback (EU, EP, EV)",
+          "modelYearFrom": "2000-01-01",
+          "modelYearTo": "2006-02-01"
+        },
+        {
+          "modelId": 4734,
+          "modelName": "CIVIC VII Coupé (EM2)",
+          "modelYearFrom": "2001-02-01",
+          "modelYearTo": "2005-12-01"
+        },
+        {
+          "modelId": 4803,
+          "modelName": "CIVIC VII A trois volumes (ES, ET)",
+          "modelYearFrom": "2000-10-01",
+          "modelYearTo": "2006-04-01"
+        },
+        {
+          "modelId": 5039,
+          "modelName": "CIVIC VI Coupé (EJ, EM1)",
+          "modelYearFrom": "1996-03-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 5498,
+          "modelName": "CIVIC VIII Hatchback (FN, FK)",
+          "modelYearFrom": "2005-09-01",
+          "modelYearTo": "2012-12-01"
+        },
+        {
+          "modelId": 5517,
+          "modelName": "CIVIC VIII A trois volumes (FD, FA)",
+          "modelYearFrom": "2005-09-01",
+          "modelYearTo": "2013-05-01"
+        },
+        {
+          "modelId": 8989,
+          "modelName": "CIVIC II Berline bicorps trois ou cinq portes (SS, SL)",
+          "modelYearFrom": "1978-01-01",
+          "modelYearTo": "1983-12-01"
+        },
+        {
+          "modelId": 8990,
+          "modelName": "CIVIC II Break (WC)",
+          "modelYearFrom": "1979-01-01",
+          "modelYearTo": "1983-12-01"
+        },
+        {
+          "modelId": 9999,
+          "modelName": "CIVIC IX (FK)",
+          "modelYearFrom": "2012-02-01",
+          "modelYearTo": "2017-07-01"
+        },
+        {
+          "modelId": 10301,
+          "modelName": "CIVIC IX Coupé",
+          "modelYearFrom": "2012-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10590,
+          "modelName": "CIVIC Coupé",
+          "modelYearFrom": "2005-09-01",
+          "modelYearTo": "2011-12-01"
+        },
+        {
+          "modelId": 10873,
+          "modelName": "CIVIC IX A trois volumes (FB)",
+          "modelYearFrom": "2011-09-01",
+          "modelYearTo": "2016-12-01"
+        },
+        {
+          "modelId": 11755,
+          "modelName": "CIVIC IX Tourer (FK)",
+          "modelYearFrom": "2014-01-01",
+          "modelYearTo": "2016-12-01"
+        },
+        {
+          "modelId": 14943,
+          "modelName": "CIVIC X A trois volumes (FC_)",
+          "modelYearFrom": "2015-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 31967,
+          "modelName": "CIVIC A trois volumes",
+          "modelYearFrom": "1971-09-01",
+          "modelYearTo": "1979-12-01"
+        },
+        {
+          "modelId": 31971,
+          "modelName": "CIVIC Break",
+          "modelYearFrom": "1971-09-01",
+          "modelYearTo": "1979-12-01"
+        },
+        {
+          "modelId": 36529,
+          "modelName": "CIVIC X Coupé",
+          "modelYearFrom": "2016-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37515,
+          "modelName": "CIVIC X Berline bicorps trois ou cinq portes (FC_, FK_)",
+          "modelYearFrom": "2016-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42479,
+          "modelName": "CIVIC XI A trois volumes (FE)",
+          "modelYearFrom": "2021-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42646,
+          "modelName": "CIVIC XI Berline bicorps trois ou cinq portes (FL)",
+          "modelYearFrom": "2021-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "CLARITY",
+      "displayName": "CLARITY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37147,
+          "modelName": "CLARITY A trois volumes (ZC_)",
+          "modelYearFrom": "2016-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "CONCERTO",
+      "displayName": "CONCERTO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1271,
+          "modelName": "CONCERTO (HW, MA)",
+          "modelYearFrom": "1989-08-01",
+          "modelYearTo": "1996-10-01"
+        },
+        {
+          "modelId": 4501,
+          "modelName": "CONCERTO A trois volumes (HWW)",
+          "modelYearFrom": "1989-08-01",
+          "modelYearTo": "1995-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "CR",
+      "displayName": "CR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1978,
+          "modelName": "CR-V I (RD)",
+          "modelYearFrom": "1995-10-01",
+          "modelYearTo": "2002-07-01"
+        },
+        {
+          "modelId": 4880,
+          "modelName": "CR-V II (RD_)",
+          "modelYearFrom": "2001-09-01",
+          "modelYearTo": "2007-07-01"
+        },
+        {
+          "modelId": 6247,
+          "modelName": "CR-V III (RE_)",
+          "modelYearFrom": "2006-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 8766,
+          "modelName": "CR-Z (ZF)",
+          "modelYearFrom": "2010-06-01",
+          "modelYearTo": "2016-12-01"
+        },
+        {
+          "modelId": 10180,
+          "modelName": "CR-V IV (RM_)",
+          "modelYearFrom": "2012-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37513,
+          "modelName": "CR-V V (RW_, RT_)",
+          "modelYearFrom": "2016-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44424,
+          "modelName": "CR-V VI (RS_, RY_)",
+          "modelYearFrom": "2022-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "CROSSROAD",
+      "displayName": "CROSSROAD",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10344,
+          "modelName": "CROSSROAD (RT_)",
+          "modelYearFrom": "2007-02-01",
+          "modelYearTo": "2010-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "CROSSTOUR",
+      "displayName": "CROSSTOUR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10303,
+          "modelName": "CROSSTOUR I",
+          "modelYearFrom": "2009-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "CRX",
+      "displayName": "CRX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1259,
+          "modelName": "CRX I (AF, AS)",
+          "modelYearFrom": "1983-10-01",
+          "modelYearTo": "1987-10-01"
+        },
+        {
+          "modelId": 1260,
+          "modelName": "CRX II (ED, EE)",
+          "modelYearFrom": "1987-10-01",
+          "modelYearTo": "1992-02-01"
+        },
+        {
+          "modelId": 1279,
+          "modelName": "CRX III (EH, EG)",
+          "modelYearFrom": "1992-03-01",
+          "modelYearTo": "1998-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "DOMANI",
+      "displayName": "DOMANI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5985,
+          "modelName": "DOMANI (MA_)",
+          "modelYearFrom": "1992-10-01",
+          "modelYearTo": "1997-12-01"
+        },
+        {
+          "modelId": 38354,
+          "modelName": "DOMANI (MB_)",
+          "modelYearFrom": "1995-10-01",
+          "modelYearTo": "1999-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "E",
+      "displayName": "E",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39873,
+          "modelName": "e (ZC7_)",
+          "modelYearFrom": "2019-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44448,
+          "modelName": "e:Ny1",
+          "modelYearFrom": "2023-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45327,
+          "modelName": "e:N1",
+          "modelYearFrom": "2024-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "ELEMENT",
+      "displayName": "ELEMENT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5997,
+          "modelName": "ELEMENT (YH)",
+          "modelYearFrom": "2002-07-01",
+          "modelYearTo": "2011-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "ELEVATE",
+      "displayName": "ELEVATE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45302,
+          "modelName": "ELEVATE (DG5)",
+          "modelYearFrom": "2023-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "ELYSION",
+      "displayName": "ELYSION",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10345,
+          "modelName": "ELYSION (RR)",
+          "modelYearFrom": "2004-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "EV",
+      "displayName": "EV",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31977,
+          "modelName": "EV PLUS Berline bicorps trois ou cinq portes (ZA_)",
+          "modelYearFrom": "1997-09-01",
+          "modelYearTo": "1999-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "FR",
+      "displayName": "FR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5158,
+          "modelName": "FR-V (BE)",
+          "modelYearFrom": "2004-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "FREED",
+      "displayName": "FREED",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11274,
+          "modelName": "FREED I (GB3, GB4, GP3)",
+          "modelYearFrom": "2008-05-01",
+          "modelYearTo": "2016-08-01"
+        },
+        {
+          "modelId": 37381,
+          "modelName": "FREED II (GB5, GB6, GB7, GB8)",
+          "modelYearFrom": "2016-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37382,
+          "modelName": "FREED SPIKE (GB3, GB4, GP3)",
+          "modelYearFrom": "2010-07-01",
+          "modelYearTo": "2015-05-01"
+        },
+        {
+          "modelId": 90054,
+          "modelName": "FREED III (GT_)",
+          "modelYearFrom": "2024-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "HORIZON",
+      "displayName": "HORIZON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13908,
+          "modelName": "HORIZON Véhicule tout terrain fermé (UBS)",
+          "modelYearFrom": "1993-10-01",
+          "modelYearTo": "1998-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "HR",
+      "displayName": "HR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4060,
+          "modelName": "HR-V (GH_)",
+          "modelYearFrom": "1999-03-01",
+          "modelYearTo": "2006-12-01"
+        },
+        {
+          "modelId": 13606,
+          "modelName": "HR-V (RU)",
+          "modelYearFrom": "2014-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42684,
+          "modelName": "HR-V (RV)",
+          "modelYearFrom": "2021-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "INSIGHT",
+      "displayName": "INSIGHT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4577,
+          "modelName": "INSIGHT (ZE)",
+          "modelYearFrom": "2000-04-01",
+          "modelYearTo": "2006-12-01"
+        },
+        {
+          "modelId": 8040,
+          "modelName": "INSIGHT (ZE_)",
+          "modelYearFrom": "2009-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39371,
+          "modelName": "INSIGHT A trois volumes (ZE4)",
+          "modelYearFrom": "2018-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "INSPIRE",
+      "displayName": "INSPIRE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6318,
+          "modelName": "INSPIRE (UA1, UA3)",
+          "modelYearFrom": "1995-06-01",
+          "modelYearTo": "1998-08-01"
+        },
+        {
+          "modelId": 6319,
+          "modelName": "INSPIRE (UA4, UA5)",
+          "modelYearFrom": "1995-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37397,
+          "modelName": "INSPIRE (CB5, CC2, CC3)",
+          "modelYearFrom": "1989-09-01",
+          "modelYearTo": "1995-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "INTEGRA",
+      "displayName": "INTEGRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4052,
+          "modelName": "INTEGRA Coupé (DC)",
+          "modelYearFrom": "1993-07-01",
+          "modelYearTo": "2001-11-01"
+        },
+        {
+          "modelId": 4881,
+          "modelName": "INTEGRA Coupé (DC5)",
+          "modelYearFrom": "2001-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 5095,
+          "modelName": "INTEGRA Berline bicorps trois ou cinq portes (DA)",
+          "modelYearFrom": "1985-10-01",
+          "modelYearTo": "1993-08-01"
+        },
+        {
+          "modelId": 6321,
+          "modelName": "INTEGRA A trois volumes (DA5, DA6, DA7, DA8, DA9, DB1, DB2)",
+          "modelYearFrom": "1989-06-01",
+          "modelYearTo": "1993-08-01"
+        },
+        {
+          "modelId": 37307,
+          "modelName": "INTEGRA A trois volumes (DB6, DB7, DB8, DB9)",
+          "modelYearFrom": "1993-09-01",
+          "modelYearTo": "2001-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "JADE",
+      "displayName": "JADE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37004,
+          "modelName": "JADE (FR_)",
+          "modelYearFrom": "2015-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "JAZZ",
+      "displayName": "JAZZ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1267,
+          "modelName": "JAZZ I (AA)",
+          "modelYearFrom": "1983-10-01",
+          "modelYearTo": "1986-10-01"
+        },
+        {
+          "modelId": 4838,
+          "modelName": "JAZZ II (GD_, GE3, GE2)",
+          "modelYearFrom": "2001-06-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 7889,
+          "modelName": "JAZZ III (GE_, GG_, GP_, ZA_)",
+          "modelYearFrom": "2007-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13101,
+          "modelName": "JAZZ IV (GK_)",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37408,
+          "modelName": "JAZZ SHUTTLE (GG8, GG7, GP2)",
+          "modelYearFrom": "2011-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40435,
+          "modelName": "JAZZ V (GR_, GS_)",
+          "modelYearFrom": "2020-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "LAGREAT",
+      "displayName": "LAGREAT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6068,
+          "modelName": "LAGREAT",
+          "modelYearFrom": "1998-11-01",
+          "modelYearTo": "2002-06-01"
+        },
+        {
+          "modelId": 6069,
+          "modelName": "LAGREAT",
+          "modelYearFrom": "2001-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "LEGEND",
+      "displayName": "LEGEND",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1254,
+          "modelName": "LEGEND I Coupé (KA_)",
+          "modelYearFrom": "1987-10-01",
+          "modelYearTo": "1991-03-01"
+        },
+        {
+          "modelId": 1255,
+          "modelName": "LEGEND I (HS, KA)",
+          "modelYearFrom": "1986-01-01",
+          "modelYearTo": "1991-03-01"
+        },
+        {
+          "modelId": 1266,
+          "modelName": "LEGEND II Coupé (KA)",
+          "modelYearFrom": "1991-01-01",
+          "modelYearTo": "1996-03-01"
+        },
+        {
+          "modelId": 1544,
+          "modelName": "LEGEND III (KA)",
+          "modelYearFrom": "1996-02-01",
+          "modelYearTo": "2004-09-01"
+        },
+        {
+          "modelId": 3897,
+          "modelName": "LEGEND II (KA)",
+          "modelYearFrom": "1991-01-01",
+          "modelYearTo": "1996-03-01"
+        },
+        {
+          "modelId": 8564,
+          "modelName": "LEGEND IV (KB_)",
+          "modelYearFrom": "2004-10-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 14949,
+          "modelName": "LEGEND V (KC_)",
+          "modelYearFrom": "2014-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "LIFE",
+      "displayName": "LIFE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6076,
+          "modelName": "LIFE (JA)",
+          "modelYearFrom": "1997-05-01",
+          "modelYearTo": "2001-08-01"
+        },
+        {
+          "modelId": 6077,
+          "modelName": "LIFE (JB)",
+          "modelYearFrom": "2001-09-01",
+          "modelYearTo": "2003-08-01"
+        },
+        {
+          "modelId": 6078,
+          "modelName": "LIFE (JB_)",
+          "modelYearFrom": "2003-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37197,
+          "modelName": "LIFE (JC_)",
+          "modelYearFrom": "2008-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "LOGO",
+      "displayName": "LOGO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4091,
+          "modelName": "LOGO (GA)",
+          "modelYearFrom": "1996-10-01",
+          "modelYearTo": "2002-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "MDX",
+      "displayName": "MDX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8584,
+          "modelName": "MDX (YD)",
+          "modelYearFrom": "2003-04-01",
+          "modelYearTo": "2007-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "MOBILIO",
+      "displayName": "MOBILIO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11612,
+          "modelName": "MOBILIO (GB_)",
+          "modelYearFrom": "2001-12-01",
+          "modelYearTo": "2008-10-01"
+        },
+        {
+          "modelId": 13221,
+          "modelName": "MOBILIO (DD_)",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39100,
+          "modelName": "MOBILIO SPIKE (GK_)",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": "2008-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "N",
+      "displayName": "N",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10871,
+          "modelName": "N-BOX / CUSTOM (JF1, JF2)",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13793,
+          "modelName": "N-ONE (JG)",
+          "modelYearFrom": "2012-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13796,
+          "modelName": "N-BOX SLASH (JF)",
+          "modelYearFrom": "2014-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13799,
+          "modelName": "N-WGN I (JH)",
+          "modelYearFrom": "2013-11-01",
+          "modelYearTo": "2019-07-01"
+        },
+        {
+          "modelId": 38220,
+          "modelName": "N-BOX / CUSTOM Berline bicorps trois ou cinq portes (JF3, JF",
+          "modelYearFrom": "2017-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39678,
+          "modelName": "N-WGN II (JH)",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39679,
+          "modelName": "N-WGN CUSTOM II (JH)",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41827,
+          "modelName": "N-VAN",
+          "modelYearFrom": "2018-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "N600",
+      "displayName": "N600",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1857,
+          "modelName": "N600 III",
+          "modelYearFrom": "1966-06-01",
+          "modelYearTo": "1974-08-01"
+        },
+        {
+          "modelId": 31961,
+          "modelName": "N600 A trois volumes",
+          "modelYearFrom": "1969-09-01",
+          "modelYearTo": "1972-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "NSX",
+      "displayName": "NSX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1262,
+          "modelName": "NSX I Coupé (NA)",
+          "modelYearFrom": "1990-06-01",
+          "modelYearTo": "2005-09-01"
+        },
+        {
+          "modelId": 3479,
+          "modelName": "NSX I Décapotable (NA)",
+          "modelYearFrom": "1995-03-01",
+          "modelYearTo": "2005-09-01"
+        },
+        {
+          "modelId": 36927,
+          "modelName": "NSX II Coupé (NC_)",
+          "modelYearFrom": "2016-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "ODYSSEY",
+      "displayName": "ODYSSEY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6384,
+          "modelName": "ODYSSEY (RL1, RA6, RA_)",
+          "modelYearFrom": "1998-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 6910,
+          "modelName": "ODYSSEY (RA_)",
+          "modelYearFrom": "1995-10-01",
+          "modelYearTo": "2000-10-01"
+        },
+        {
+          "modelId": 10304,
+          "modelName": "ODYSSEY (RL5)",
+          "modelYearFrom": "2010-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13326,
+          "modelName": "ODYSSEY (RC1, RC2, RC4)",
+          "modelYearFrom": "2013-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 35239,
+          "modelName": "ODYSSEY (RL3, RL4, RB)",
+          "modelYearFrom": "2004-09-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 38175,
+          "modelName": "ODYSSEY (RL6)",
+          "modelYearFrom": "2017-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "ORTHIA",
+      "displayName": "ORTHIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14368,
+          "modelName": "ORTHIA / PARTNER (EL_, EY_)",
+          "modelYearFrom": "1995-10-01",
+          "modelYearTo": "2002-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "PARTNER",
+      "displayName": "PARTNER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45400,
+          "modelName": "PARTNER Break (GJ)",
+          "modelYearFrom": "2006-03-01",
+          "modelYearTo": "2010-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "PASSPORT",
+      "displayName": "PASSPORT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31982,
+          "modelName": "PASSPORT SUV",
+          "modelYearFrom": "1993-09-01",
+          "modelYearTo": "1997-12-01"
+        },
+        {
+          "modelId": 35240,
+          "modelName": "PASSPORT SUV",
+          "modelYearFrom": "1997-09-01",
+          "modelYearTo": "2002-12-01"
+        },
+        {
+          "modelId": 40591,
+          "modelName": "PASSPORT Véhicule tout terrain fermé (YF_)",
+          "modelYearFrom": "2019-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "PILOT",
+      "displayName": "PILOT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7933,
+          "modelName": "PILOT",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": "2008-07-01"
+        },
+        {
+          "modelId": 10021,
+          "modelName": "PILOT",
+          "modelYearFrom": "2008-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14356,
+          "modelName": "PILOT",
+          "modelYearFrom": "2015-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44045,
+          "modelName": "PILOT (YG_)",
+          "modelYearFrom": "2022-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "PRELUDE",
+      "displayName": "PRELUDE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1257,
+          "modelName": "PRELUDE I Coupé (SN)",
+          "modelYearFrom": "1978-11-01",
+          "modelYearTo": "1983-04-01"
+        },
+        {
+          "modelId": 1258,
+          "modelName": "PRELUDE II (AB)",
+          "modelYearFrom": "1983-01-01",
+          "modelYearTo": "1987-09-01"
+        },
+        {
+          "modelId": 1261,
+          "modelName": "PRELUDE III (BA)",
+          "modelYearFrom": "1986-04-01",
+          "modelYearTo": "1996-11-01"
+        },
+        {
+          "modelId": 1277,
+          "modelName": "PRELUDE IV (BB_)",
+          "modelYearFrom": "1991-12-01",
+          "modelYearTo": "1997-02-01"
+        },
+        {
+          "modelId": 3500,
+          "modelName": "PRELUDE V (BB_)",
+          "modelYearFrom": "1996-10-01",
+          "modelYearTo": "2001-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "PROLOGUE",
+      "displayName": "PROLOGUE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45667,
+          "modelName": "PROLOGUE",
+          "modelYearFrom": "2024-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "QUINTET",
+      "displayName": "QUINTET",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1268,
+          "modelName": "QUINTET (SU)",
+          "modelYearFrom": "1980-02-01",
+          "modelYearTo": "1985-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "RAFAGA",
+      "displayName": "RAFAGA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14013,
+          "modelName": "RAFAGA A trois volumes (CE_)",
+          "modelYearFrom": "1993-05-01",
+          "modelYearTo": "1997-11-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "RIDGELINE",
+      "displayName": "RIDGELINE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6849,
+          "modelName": "RIDGELINE (YK)",
+          "modelYearFrom": "2005-03-01",
+          "modelYearTo": "2014-12-01"
+        },
+        {
+          "modelId": 36875,
+          "modelName": "RIDGELINE",
+          "modelYearFrom": "2016-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "S2000",
+      "displayName": "S2000",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3997,
+          "modelName": "S2000 (AP)",
+          "modelYearFrom": "1999-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "S600",
+      "displayName": "S600",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37861,
+          "modelName": "S600 Décapotable (AS258)",
+          "modelYearFrom": "1964-03-01",
+          "modelYearTo": "1966-12-01"
+        },
+        {
+          "modelId": 37879,
+          "modelName": "S600 Coupé (AS285)",
+          "modelYearFrom": "1964-03-01",
+          "modelYearTo": "1965-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "S660",
+      "displayName": "S660",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14944,
+          "modelName": "S660 (JW5)",
+          "modelYearFrom": "2015-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "S800",
+      "displayName": "S800",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37862,
+          "modelName": "S800 Décapotable (AS800)",
+          "modelYearFrom": "1966-01-01",
+          "modelYearTo": "1970-05-01"
+        },
+        {
+          "modelId": 37880,
+          "modelName": "S800 Coupé (AS8800C)",
+          "modelYearFrom": "1966-01-01",
+          "modelYearTo": "1970-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "SHUTTLE",
+      "displayName": "SHUTTLE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1323,
+          "modelName": "SHUTTLE (RA)",
+          "modelYearFrom": "1994-06-01",
+          "modelYearTo": "2004-06-01"
+        },
+        {
+          "modelId": 14946,
+          "modelName": "SHUTTLE Monospace (GP7, GP8, GK8, GK9)",
+          "modelYearFrom": "2015-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "SMX",
+      "displayName": "SMX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6337,
+          "modelName": "SMX (RH)",
+          "modelYearFrom": "1996-01-01",
+          "modelYearTo": "2002-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "STEPWAGON",
+      "displayName": "STEPWAGON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44559,
+          "modelName": "STEPWAGON (DBA-RP_)",
+          "modelYearFrom": "2022-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "STEPWGN",
+      "displayName": "STEPWGN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6338,
+          "modelName": "STEPWGN (LA-RF_, UA-RF_)",
+          "modelYearFrom": "2000-10-01",
+          "modelYearTo": "2005-09-01"
+        },
+        {
+          "modelId": 6339,
+          "modelName": "STEPWGN (DBA-RG_)",
+          "modelYearFrom": "2005-10-01",
+          "modelYearTo": "2009-09-01"
+        },
+        {
+          "modelId": 36203,
+          "modelName": "STEPWGN (E-RF_, GF-RF_)",
+          "modelYearFrom": "1996-05-01",
+          "modelYearTo": "2000-09-01"
+        },
+        {
+          "modelId": 36205,
+          "modelName": "STEPWGN (DBA-RK_)",
+          "modelYearFrom": "2009-10-01",
+          "modelYearTo": "2015-12-01"
+        },
+        {
+          "modelId": 36206,
+          "modelName": "STEPWGN (DBA-RP_)",
+          "modelYearFrom": "2015-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "STREAM",
+      "displayName": "STREAM",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4783,
+          "modelName": "STREAM (RN)",
+          "modelYearFrom": "2001-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 7469,
+          "modelName": "STREAM (RN)",
+          "modelYearFrom": "2005-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "THATS",
+      "displayName": "THATS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6173,
+          "modelName": "THATS (JD)",
+          "modelYearFrom": "2001-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 6174,
+          "modelName": "THATS (JD)",
+          "modelYearFrom": "2003-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "TODAY",
+      "displayName": "TODAY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6386,
+          "modelName": "TODAY (JA)",
+          "modelYearFrom": "1993-07-01",
+          "modelYearTo": "1999-09-01"
+        },
+        {
+          "modelId": 6387,
+          "modelName": "TODAY (JA)",
+          "modelYearFrom": "1985-09-01",
+          "modelYearTo": "1993-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "TORNEO",
+      "displayName": "TORNEO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6183,
+          "modelName": "TORNEO A trois volumes",
+          "modelYearFrom": "1994-04-01",
+          "modelYearTo": "1997-12-01"
+        },
+        {
+          "modelId": 6184,
+          "modelName": "TORNEO A trois volumes (CF)",
+          "modelYearFrom": "1998-01-01",
+          "modelYearTo": "2003-09-01"
+        },
+        {
+          "modelId": 6185,
+          "modelName": "TORNEO Break",
+          "modelYearFrom": "1999-10-01",
+          "modelYearTo": "2003-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "TOURMASTER",
+      "displayName": "TOURMASTER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14736,
+          "modelName": "TOURMASTER Pick-up",
+          "modelYearFrom": "1996-01-01",
+          "modelYearTo": "1998-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "VAMOS",
+      "displayName": "VAMOS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6385,
+          "modelName": "VAMOS (HM_, HJ_)",
+          "modelYearFrom": "1999-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "VEZEL",
+      "displayName": "VEZEL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13018,
+          "modelName": "VEZEL SUV (RU)",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "WR",
+      "displayName": "WR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38513,
+          "modelName": "WR-V",
+          "modelYearFrom": "2017-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43687,
+          "modelName": "WR-V II (DG4)",
+          "modelYearFrom": "2022-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "Z",
+      "displayName": "Z",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6219,
+          "modelName": "Z (PA)",
+          "modelYearFrom": "1998-01-01",
+          "modelYearTo": "2002-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "ZEST",
+      "displayName": "ZEST",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37180,
+          "modelName": "ZEST Berline bicorps trois ou cinq portes (JE1, JE2)",
+          "modelYearFrom": "2005-09-01",
+          "modelYearTo": "2012-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 45,
+      "manufacturerName": "HONDA",
+      "groupKey": "ZR",
+      "displayName": "ZR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44399,
+          "modelName": "ZR-V",
+          "modelYearFrom": "2023-04-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

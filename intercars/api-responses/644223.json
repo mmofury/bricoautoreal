@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "644223",
+      "index": "FE15121",
+      "tecDoc": "15121",
+      "tecDocProd": "101",
+      "articleNumber": "15121",
+      "brand": "FEBI",
+      "shortDescription": "Spacer",
+      "description": "Air bellows washer fits: BPW O",
+      "eans": [
+        "4027816151210"
+      ],
+      "packageWeight": "0,040",
+      "packageWidth": "5,500",
+      "packageDepth": "5,500",
+      "packageHeight": "0,400",
+      "customsCode": "73182200",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3026",
+          "primary": false,
+          "name": {
+            "en": "Spacer Ring, spring link console"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3272",
+          "primary": true,
+          "name": {
+            "en": "Spacer"
+          }
+        }
+      ]
+    }
+  ]
+}

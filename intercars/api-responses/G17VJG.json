@@ -1,0 +1,36 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G17VJG",
+      "index": "V10-7881",
+      "tecDoc": "V10-7881",
+      "tecDocProd": "162",
+      "articleNumber": "V10-7881",
+      "brand": "VAICO",
+      "shortDescription": "Repair Kit, differential",
+      "description": "Differential assembly repair kit fits: AUDI Q3, SEAT ALHAMBRA, SKODA SUPERB II, VW CC B7, PASSAT ALLTRACK B7, PASSAT B6, PASSAT B7, PASSAT B7/KOMBI, SHARAN 1.8-3.6 02.08-10.18",
+      "gtuCode": "GTU_07",
+      "customsCode": "87084099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4022",
+          "primary": true,
+          "name": {
+            "en": "Repair Kit, differential"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_60067",
+          "primary": false,
+          "name": {
+            "en": "Control Valve, multi-plate clutch (all-wheel drive)"
+          }
+        }
+      ]
+    }
+  ]
+}

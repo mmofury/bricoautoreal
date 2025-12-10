@@ -1,0 +1,57 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "C34781",
+      "index": "370 0056 10",
+      "tecDoc": "370 0056 10",
+      "tecDocProd": "6",
+      "articleNumber": "370 0056 10",
+      "brand": "LUK",
+      "shortDescription": "Torsional Damper, flywheel",
+      "description": "Torsion damper (diameter: 64mm, number of teeth: 8 pcs 31,5x35) fits: JOHN DEERE 6010, 6010 SE, 6020, 6020 SE, 6110, 6110 L, 6110 SE, 6120, 6120 L, 6120 SE, 6130, 6210, 6210 L, 6210 SE, 6215",
+      "gtuCode": "GTU_07",
+      "eans": [
+        "4005108325792"
+      ],
+      "packageWeight": "0,900",
+      "packageWidth": "14,500",
+      "packageDepth": "11,000",
+      "packageHeight": "14,500",
+      "customsCode": "87089390",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_262",
+          "primary": false,
+          "name": {
+            "en": "Clutch disc"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3463",
+          "primary": false,
+          "name": {
+            "en": "Torsion Damper, clutch"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_4920",
+          "primary": true,
+          "name": {
+            "en": "Torsional Damper, flywheel"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_60376",
+          "primary": false,
+          "name": {
+            "en": "Torsional damper, power take-off"
+          }
+        }
+      ]
+    }
+  ]
+}

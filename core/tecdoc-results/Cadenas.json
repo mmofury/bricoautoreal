@@ -1,0 +1,127 @@
+{
+  "productName": "Cadenas",
+  "searchText": "Cadenas",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T20:13:34.984Z",
+  "productId": 7615,
+  "arborescence": {
+    "Accessoires": {
+      "categoryId": 100733,
+      "categoryName": "Accessoires",
+      "level": 1,
+      "children": {
+        "Chaîne à neige": {
+          "categoryId": null,
+          "categoryName": "Chaîne à neige",
+          "level": 2,
+          "children": {
+            "Chaîne à neige": {
+              "categoryId": 103485,
+              "categoryName": "Snow Chains",
+              "level": 2,
+              "children": [],
+              "productId": 5171
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Lubrification": {
+          "categoryId": null,
+          "categoryName": "Lubrification",
+          "level": 2,
+          "children": {
+            "Kit de chaînes, commade de pompe à huile": {
+              "categoryId": 100245,
+              "categoryName": "Lubrication",
+              "level": 2,
+              "children": {
+                "Pompe à huile et pièces de montage": {
+                  "categoryId": null,
+                  "categoryName": "Pompe à huile et pièces de montage",
+                  "level": 4,
+                  "children": {
+                    "Kit de chaînes, commade de pompe à huile": {
+                      "categoryId": 100476,
+                      "categoryName": "Oil Pump/Attachment Parts",
+                      "level": 3,
+                      "children": {
+                        "Chaîne de commande": {
+                          "categoryId": null,
+                          "categoryName": "Chaîne de commande",
+                          "level": 6,
+                          "children": {
+                            "Kit de chaînes, commade de pompe à huile": {
+                              "categoryId": 100885,
+                              "categoryName": "Drive Chain",
+                              "level": 4,
+                              "children": [],
+                              "productId": 6138
+                            }
+                          }
+                        }
+                      },
+                      "productId": 6138
+                    }
+                  }
+                }
+              },
+              "productId": 6138
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Accessoires [ID: 100733] (Niveau 1)\n│   └── Chaîne à neige (Niveau 2)\n│       └── Snow Chains [ID: 103485] (Niveau 2) → ProductId: 5171\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Lubrification (Niveau 2)\n        └── Lubrication [ID: 100245] (Niveau 2) → ProductId: 6138\n            └── Pompe à huile et pièces de montage (Niveau 4)\n                └── Oil Pump/Attachment Parts [ID: 100476] (Niveau 3) → ProductId: 6138\n                    └── Chaîne de commande (Niveau 6)\n                        └── Drive Chain [ID: 100885] (Niveau 4) → ProductId: 6138",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Accessoires",
+        "Chaîne à neige",
+        "Snow Chains"
+      ],
+      "categoryIds": [
+        100733,
+        null,
+        103485
+      ],
+      "finalCategoryId": 103485,
+      "productId": 5171
+    },
+    {
+      "path": [
+        "Moteur",
+        "Lubrification",
+        "Lubrication"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100245
+      ],
+      "finalCategoryId": 100245,
+      "productId": 6138
+    }
+  ],
+  "productIdsInArbo": [
+    5171,
+    6138
+  ],
+  "closestProductIds": [
+    {
+      "productId": 5171,
+      "productName": "Chaîne à neige"
+    },
+    {
+      "productId": 6138,
+      "productName": "Kit de chaînes, commade de pompe à huile"
+    }
+  ]
+}

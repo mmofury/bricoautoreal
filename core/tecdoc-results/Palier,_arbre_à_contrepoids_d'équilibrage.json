@@ -1,0 +1,112 @@
+{
+  "productName": "Palier, arbre à contrepoids d'équilibrage",
+  "searchText": "Palier, arbre à contrepoids d'équilibrage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:18:36.053Z",
+  "productId": 4430,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Carter de vilebrequin": {
+          "categoryId": null,
+          "categoryName": "Carter de vilebrequin",
+          "level": 2,
+          "children": {
+            "Palier, arbre à contrepoids d'équilibrage": {
+              "categoryId": 100514,
+              "categoryName": "Crankcase",
+              "level": 2,
+              "children": {
+                "Arbre intermédiaire/arbre à contrepoids d'équilibrage": {
+                  "categoryId": null,
+                  "categoryName": "Arbre intermédiaire/arbre à contrepoids d'équilibrage",
+                  "level": 4,
+                  "children": {
+                    "Palier, arbre à contrepoids d'équilibrage": {
+                      "categoryId": 105860,
+                      "categoryName": "Intermediate/Balance Shaft",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4430
+                    }
+                  }
+                }
+              },
+              "productId": 4430
+            }
+          }
+        },
+        "Système bielle-manivelle": {
+          "categoryId": null,
+          "categoryName": "Système bielle-manivelle",
+          "level": 2,
+          "children": {
+            "Palier, arbre à contrepoids d'équilibrage": {
+              "categoryId": 100515,
+              "categoryName": "Crankshaft Drive",
+              "level": 2,
+              "children": {
+                "Arbre intermédiaire/arbre à contrepoids d'équilibrage": {
+                  "categoryId": null,
+                  "categoryName": "Arbre intermédiaire/arbre à contrepoids d'équilibrage",
+                  "level": 4,
+                  "children": {
+                    "Palier, arbre à contrepoids d'équilibrage": {
+                      "categoryId": 103120,
+                      "categoryName": "Intermediate/Balance Shaft",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4430
+                    }
+                  }
+                }
+              },
+              "productId": 4430
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    ├── Carter de vilebrequin (Niveau 2)\n    │   └── Crankcase [ID: 100514] (Niveau 2) → ProductId: 4430\n    │       └── Arbre intermédiaire/arbre à contrepoids d'équilibrage (Niveau 4)\n    │           └── Intermediate/Balance Shaft [ID: 105860] (Niveau 3) → ProductId: 4430\n    └── Système bielle-manivelle (Niveau 2)\n        └── Crankshaft Drive [ID: 100515] (Niveau 2) → ProductId: 4430\n            └── Arbre intermédiaire/arbre à contrepoids d'équilibrage (Niveau 4)\n                └── Intermediate/Balance Shaft [ID: 103120] (Niveau 3) → ProductId: 4430",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Carter de vilebrequin",
+        "Crankcase"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100514
+      ],
+      "finalCategoryId": 100514,
+      "productId": 4430
+    },
+    {
+      "path": [
+        "Moteur",
+        "Système bielle-manivelle",
+        "Crankshaft Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100515
+      ],
+      "finalCategoryId": 100515,
+      "productId": 4430
+    }
+  ],
+  "productIdsInArbo": [
+    4430
+  ],
+  "matchedProductIds": [
+    4430
+  ]
+}

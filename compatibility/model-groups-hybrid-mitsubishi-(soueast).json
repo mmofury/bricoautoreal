@@ -1,0 +1,79 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.422Z",
+  "manufacturer": "MITSUBISHI (SOUEAST)",
+  "countGroups": 4,
+  "groups": [
+    {
+      "manufacturerId": 3658,
+      "manufacturerName": "MITSUBISHI (SOUEAST)",
+      "groupKey": "GALANT",
+      "displayName": "GALANT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9960,
+          "modelName": "GALANT",
+          "modelYearFrom": "2006-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3658,
+      "manufacturerName": "MITSUBISHI (SOUEAST)",
+      "groupKey": "LANCER",
+      "displayName": "LANCER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9959,
+          "modelName": "LANCER EX",
+          "modelYearFrom": "2009-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11722,
+          "modelName": "LANCER FORTIS",
+          "modelYearFrom": "2013-08-01",
+          "modelYearTo": "2017-12-01"
+        },
+        {
+          "modelId": 39586,
+          "modelName": "LANCER",
+          "modelYearFrom": "2006-05-01",
+          "modelYearTo": "2017-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3658,
+      "manufacturerName": "MITSUBISHI (SOUEAST)",
+      "groupKey": "SOVERAN",
+      "displayName": "SOVERAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40247,
+          "modelName": "SOVERAN",
+          "modelYearFrom": "2004-05-01",
+          "modelYearTo": "2009-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3658,
+      "manufacturerName": "MITSUBISHI (SOUEAST)",
+      "groupKey": "ZINGER",
+      "displayName": "ZINGER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40248,
+          "modelName": "ZINGER",
+          "modelYearFrom": "2008-12-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

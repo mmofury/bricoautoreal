@@ -1,0 +1,69 @@
+{
+  "productName": "Roue dentée, arbre principal",
+  "searchText": "Roue dentée, arbre principal",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:12:18.766Z",
+  "productId": 4905,
+  "arborescence": {
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Boîte de vitesses manuelle": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesses manuelle",
+          "level": 2,
+          "children": {
+            "Roue dentée, arbre principal": {
+              "categoryId": 100239,
+              "categoryName": "Manual Transmission",
+              "level": 2,
+              "children": {
+                "Carter/composants": {
+                  "categoryId": null,
+                  "categoryName": "Carter/composants",
+                  "level": 4,
+                  "children": {
+                    "Roue dentée, arbre principal": {
+                      "categoryId": 100774,
+                      "categoryName": "Transmission Housing/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4905
+                    }
+                  }
+                }
+              },
+              "productId": 4905
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Boîte de vitesses [ID: 100238] (Niveau 1)\n    └── Boîte de vitesses manuelle (Niveau 2)\n        └── Manual Transmission [ID: 100239] (Niveau 2) → ProductId: 4905\n            └── Carter/composants (Niveau 4)\n                └── Transmission Housing/Parts [ID: 100774] (Niveau 3) → ProductId: 4905",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesses manuelle",
+        "Manual Transmission"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        100239
+      ],
+      "finalCategoryId": 100239,
+      "productId": 4905
+    }
+  ],
+  "productIdsInArbo": [
+    4905
+  ],
+  "matchedProductIds": [
+    4905
+  ]
+}

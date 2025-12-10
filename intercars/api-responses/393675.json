@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "393675",
+      "index": "HAZ 795-3",
+      "tecDoc": "795-3",
+      "tecDocProd": "4808",
+      "articleNumber": "795-3",
+      "brand": "HAZET",
+      "shortDescription": "Engine maintenance tools",
+      "description": "",
+      "eans": [
+        "4000896031795"
+      ],
+      "packageWeight": "0,070",
+      "packageWidth": "3,000",
+      "packageDepth": "27,000",
+      "packageHeight": "3,000",
+      "customsCode": "82041100",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_91778",
+          "primary": true,
+          "name": {
+            "en": "Engine maintenance tools"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_7095",
+          "primary": false,
+          "name": {
+            "en": "Grinding Tool, valve seat"
+          }
+        }
+      ]
+    }
+  ]
+}

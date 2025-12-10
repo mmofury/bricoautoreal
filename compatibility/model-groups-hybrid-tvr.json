@@ -1,0 +1,394 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.519Z",
+  "manufacturer": "TVR",
+  "countGroups": 23,
+  "groups": [
+    {
+      "manufacturerId": 861,
+      "manufacturerName": "TVR",
+      "groupKey": "1300",
+      "displayName": "1300",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4504,
+          "modelName": "1300",
+          "modelYearFrom": "1971-01-01",
+          "modelYearTo": "1973-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 861,
+      "manufacturerName": "TVR",
+      "groupKey": "1600",
+      "displayName": "1600",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4505,
+          "modelName": "1600",
+          "modelYearFrom": "1972-01-01",
+          "modelYearTo": "1975-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 861,
+      "manufacturerName": "TVR",
+      "groupKey": "2500",
+      "displayName": "2500",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4506,
+          "modelName": "2500",
+          "modelYearFrom": "1972-01-01",
+          "modelYearTo": "1977-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 861,
+      "manufacturerName": "TVR",
+      "groupKey": "280",
+      "displayName": "280",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4519,
+          "modelName": "280 Coupé",
+          "modelYearFrom": "1983-01-01",
+          "modelYearTo": "1986-12-01"
+        },
+        {
+          "modelId": 4520,
+          "modelName": "280 Décapotable",
+          "modelYearFrom": "1983-01-01",
+          "modelYearTo": "1986-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 861,
+      "manufacturerName": "TVR",
+      "groupKey": "3000",
+      "displayName": "3000",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4507,
+          "modelName": "3000 Coupé",
+          "modelYearFrom": "1972-01-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 7859,
+          "modelName": "3000 Décapotable",
+          "modelYearFrom": "1978-06-01",
+          "modelYearTo": "1980-01-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 861,
+      "manufacturerName": "TVR",
+      "groupKey": "350",
+      "displayName": "350",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4521,
+          "modelName": "350 Coupé",
+          "modelYearFrom": "1983-01-01",
+          "modelYearTo": "1989-12-01"
+        },
+        {
+          "modelId": 4522,
+          "modelName": "350 Décapotable",
+          "modelYearFrom": "1983-01-01",
+          "modelYearTo": "1989-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 861,
+      "manufacturerName": "TVR",
+      "groupKey": "390",
+      "displayName": "390",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4523,
+          "modelName": "390",
+          "modelYearFrom": "1984-01-01",
+          "modelYearTo": "1989-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 861,
+      "manufacturerName": "TVR",
+      "groupKey": "400",
+      "displayName": "400",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4524,
+          "modelName": "400",
+          "modelYearFrom": "1989-01-01",
+          "modelYearTo": "1993-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 861,
+      "manufacturerName": "TVR",
+      "groupKey": "420",
+      "displayName": "420",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4525,
+          "modelName": "420 Décapotable",
+          "modelYearFrom": "1985-01-01",
+          "modelYearTo": "1989-12-01"
+        },
+        {
+          "modelId": 4526,
+          "modelName": "420 Sports Saloon",
+          "modelYearFrom": "1985-01-01",
+          "modelYearTo": "1989-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 861,
+      "manufacturerName": "TVR",
+      "groupKey": "450",
+      "displayName": "450",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4527,
+          "modelName": "450",
+          "modelYearFrom": "1989-01-01",
+          "modelYearTo": "1993-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 861,
+      "manufacturerName": "TVR",
+      "groupKey": "CERBERA",
+      "displayName": "CERBERA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4510,
+          "modelName": "CERBERA",
+          "modelYearFrom": "1996-01-01",
+          "modelYearTo": "2003-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 861,
+      "manufacturerName": "TVR",
+      "groupKey": "CHIMAERA",
+      "displayName": "CHIMAERA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4511,
+          "modelName": "CHIMAERA",
+          "modelYearFrom": "1992-11-01",
+          "modelYearTo": "2003-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 861,
+      "manufacturerName": "TVR",
+      "groupKey": "GRIFFITH",
+      "displayName": "GRIFFITH",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4512,
+          "modelName": "GRIFFITH (TCT)",
+          "modelYearFrom": "1990-01-01",
+          "modelYearTo": "2002-03-01"
+        },
+        {
+          "modelId": 39161,
+          "modelName": "GRIFFITH",
+          "modelYearFrom": "2019-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 861,
+      "manufacturerName": "TVR",
+      "groupKey": "S",
+      "displayName": "S",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4529,
+          "modelName": "S",
+          "modelYearFrom": "1986-01-01",
+          "modelYearTo": "1996-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 861,
+      "manufacturerName": "TVR",
+      "groupKey": "SAGARIS",
+      "displayName": "SAGARIS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9636,
+          "modelName": "SAGARIS",
+          "modelYearFrom": "2004-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 861,
+      "manufacturerName": "TVR",
+      "groupKey": "SPEED",
+      "displayName": "SPEED",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4513,
+          "modelName": "SPEED EIGHT",
+          "modelYearFrom": "1989-01-01",
+          "modelYearTo": "1992-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 861,
+      "manufacturerName": "TVR",
+      "groupKey": "T350",
+      "displayName": "T350",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36954,
+          "modelName": "T350 C",
+          "modelYearFrom": "2002-10-01",
+          "modelYearTo": "2006-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 861,
+      "manufacturerName": "TVR",
+      "groupKey": "TAIMAR",
+      "displayName": "TAIMAR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4514,
+          "modelName": "TAIMAR",
+          "modelYearFrom": "1976-01-01",
+          "modelYearTo": "1980-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 861,
+      "manufacturerName": "TVR",
+      "groupKey": "TAMORA",
+      "displayName": "TAMORA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9637,
+          "modelName": "TAMORA",
+          "modelYearFrom": "2002-04-01",
+          "modelYearTo": "2007-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 861,
+      "manufacturerName": "TVR",
+      "groupKey": "TASMIN",
+      "displayName": "TASMIN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4515,
+          "modelName": "TASMIN Coupé",
+          "modelYearFrom": "1980-01-01",
+          "modelYearTo": "1984-12-01"
+        },
+        {
+          "modelId": 7860,
+          "modelName": "TASMIN Décapotable",
+          "modelYearFrom": "1981-08-01",
+          "modelYearTo": "1984-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 861,
+      "manufacturerName": "TVR",
+      "groupKey": "TUSCAN",
+      "displayName": "TUSCAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4516,
+          "modelName": "TUSCAN I Coupé",
+          "modelYearFrom": "1969-01-01",
+          "modelYearTo": "1971-12-01"
+        },
+        {
+          "modelId": 4517,
+          "modelName": "TUSCAN II Roadster",
+          "modelYearFrom": "1998-01-01",
+          "modelYearTo": "2006-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 861,
+      "manufacturerName": "TVR",
+      "groupKey": "TYPHON",
+      "displayName": "TYPHON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11865,
+          "modelName": "TYPHON",
+          "modelYearFrom": "2005-07-01",
+          "modelYearTo": "2005-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 861,
+      "manufacturerName": "TVR",
+      "groupKey": "VIXEN",
+      "displayName": "VIXEN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4530,
+          "modelName": "VIXEN",
+          "modelYearFrom": "1967-01-01",
+          "modelYearTo": "1971-12-01"
+        }
+      ]
+    }
+  ]
+}

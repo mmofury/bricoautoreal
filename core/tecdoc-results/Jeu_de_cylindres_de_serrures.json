@@ -1,0 +1,54 @@
+{
+  "productName": "Jeu de cylindres de serrures",
+  "searchText": "Jeu de cylindres de serrures",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:49:14.770Z",
+  "productId": 1379,
+  "arborescence": {
+    "Verrouillage": {
+      "categoryId": 100685,
+      "categoryName": "Verrouillage",
+      "level": 1,
+      "children": {
+        "Cylindre de serrure / jeu": {
+          "categoryId": null,
+          "categoryName": "Cylindre de serrure / jeu",
+          "level": 2,
+          "children": {
+            "Jeu de cylindres de serrures": {
+              "categoryId": 100690,
+              "categoryName": "Lock Barrel/Set",
+              "level": 2,
+              "children": [],
+              "productId": 1379
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Verrouillage [ID: 100685] (Niveau 1)\n    └── Cylindre de serrure / jeu (Niveau 2)\n        └── Lock Barrel/Set [ID: 100690] (Niveau 2) → ProductId: 1379",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Verrouillage",
+        "Cylindre de serrure / jeu",
+        "Lock Barrel/Set"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100690
+      ],
+      "finalCategoryId": 100690,
+      "productId": 1379
+    }
+  ],
+  "productIdsInArbo": [
+    1379
+  ],
+  "matchedProductIds": [
+    1379
+  ]
+}

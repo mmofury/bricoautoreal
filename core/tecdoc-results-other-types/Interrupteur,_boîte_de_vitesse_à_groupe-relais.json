@@ -1,0 +1,64 @@
+{
+  "productName": "Interrupteur, boîte de vitesse à groupe-relais",
+  "productId": 1763,
+  "searchText": "Interrupteur, boîte de vitesse à groupe-relais",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Boîte de vitesses": {
+          "categoryId": 200054,
+          "categoryName": "Boîte de vitesses",
+          "level": 1,
+          "children": {
+            "Boîte de vitesse manuelle / pièces de montage": {
+              "categoryId": null,
+              "categoryName": "Boîte de vitesse manuelle / pièces de montage",
+              "level": 2,
+              "children": {
+                "Interrupteur, boîte de vitesse à groupe-relais": {
+                  "categoryId": 200095,
+                  "categoryName": "Manual Transmission/ Parts",
+                  "level": 2,
+                  "children": {
+                    "Interrupteur": {
+                      "categoryId": null,
+                      "categoryName": "Interrupteur",
+                      "level": 4,
+                      "children": {
+                        "Interrupteur, boîte de vitesse à groupe-relais": {
+                          "categoryId": 706678,
+                          "categoryName": "Switch",
+                          "level": 3,
+                          "children": [],
+                          "productId": 1763
+                        }
+                      }
+                    }
+                  },
+                  "productId": 1763
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Boîte de vitesses [ID: 200054] (Niveau 1)\n    └── Boîte de vitesse manuelle / pièces de montage (Niveau 2)\n        └── Manual Transmission/ Parts [ID: 200095] (Niveau 2) → ProductId: 1763\n            └── Interrupteur (Niveau 4)\n                └── Switch [ID: 706678] (Niveau 3) → ProductId: 1763",
+      "productIdsInArbo": [
+        1763
+      ],
+      "matchedProductIds": [
+        1763
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:36:35.996Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

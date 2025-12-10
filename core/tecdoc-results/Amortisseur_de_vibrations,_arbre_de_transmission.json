@@ -1,0 +1,82 @@
+{
+  "productName": "Amortisseur de vibrations, arbre de transmission",
+  "searchText": "Amortisseur de vibrations, arbre de transmission",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T18:49:49.867Z",
+  "productId": 1786,
+  "arborescence": {
+    "Entraînement des roues": {
+      "categoryId": 100014,
+      "categoryName": "Entraînement des roues",
+      "level": 1,
+      "children": {
+        "Arbre de transmission": {
+          "categoryId": null,
+          "categoryName": "Arbre de transmission",
+          "level": 2,
+          "children": {
+            "Amortisseur de vibrations, arbre de transmission": {
+              "categoryId": 100062,
+              "categoryName": "Drive Shaft",
+              "level": 2,
+              "children": [],
+              "productId": 1786
+            }
+          }
+        },
+        "Pièces de fixation / accessoires": {
+          "categoryId": null,
+          "categoryName": "Pièces de fixation / accessoires",
+          "level": 2,
+          "children": {
+            "Amortisseur de vibrations, arbre de transmission": {
+              "categoryId": 100066,
+              "categoryName": "Assembly Parts",
+              "level": 2,
+              "children": [],
+              "productId": 1786
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement des roues [ID: 100014] (Niveau 1)\n    ├── Arbre de transmission (Niveau 2)\n    │   └── Drive Shaft [ID: 100062] (Niveau 2) → ProductId: 1786\n    └── Pièces de fixation / accessoires (Niveau 2)\n        └── Assembly Parts [ID: 100066] (Niveau 2) → ProductId: 1786",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des roues",
+        "Arbre de transmission",
+        "Drive Shaft"
+      ],
+      "categoryIds": [
+        100014,
+        null,
+        100062
+      ],
+      "finalCategoryId": 100062,
+      "productId": 1786
+    },
+    {
+      "path": [
+        "Entraînement des roues",
+        "Pièces de fixation / accessoires",
+        "Assembly Parts"
+      ],
+      "categoryIds": [
+        100014,
+        null,
+        100066
+      ],
+      "finalCategoryId": 100066,
+      "productId": 1786
+    }
+  ],
+  "productIdsInArbo": [
+    1786
+  ],
+  "matchedProductIds": [
+    1786
+  ]
+}

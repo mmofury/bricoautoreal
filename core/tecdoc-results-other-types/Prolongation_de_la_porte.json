@@ -1,0 +1,64 @@
+{
+  "productName": "Prolongation de la porte",
+  "productId": 4089,
+  "searchText": "Prolongation de la porte",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Cabine du conducteur/carrosserie": {
+          "categoryId": 200022,
+          "categoryName": "Cabine du conducteur/carrosserie",
+          "level": 1,
+          "children": {
+            "Hayons/Capots/Portes/Toits ouvrants": {
+              "categoryId": null,
+              "categoryName": "Hayons/Capots/Portes/Toits ouvrants",
+              "level": 2,
+              "children": {
+                "Prolongation de la porte": {
+                  "categoryId": 201076,
+                  "categoryName": "Hatches/ Bonnets/ Doors/ Sunroof",
+                  "level": 2,
+                  "children": {
+                    "Portière avant/composants": {
+                      "categoryId": null,
+                      "categoryName": "Portière avant/composants",
+                      "level": 4,
+                      "children": {
+                        "Prolongation de la porte": {
+                          "categoryId": 201078,
+                          "categoryName": "Doors/Parts",
+                          "level": 3,
+                          "children": [],
+                          "productId": 4089
+                        }
+                      }
+                    }
+                  },
+                  "productId": 4089
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Cabine du conducteur/carrosserie [ID: 200022] (Niveau 1)\n    └── Hayons/Capots/Portes/Toits ouvrants (Niveau 2)\n        └── Hatches/ Bonnets/ Doors/ Sunroof [ID: 201076] (Niveau 2) → ProductId: 4089\n            └── Portière avant/composants (Niveau 4)\n                └── Doors/Parts [ID: 201078] (Niveau 3) → ProductId: 4089",
+      "productIdsInArbo": [
+        4089
+      ],
+      "matchedProductIds": [
+        4089
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:19:44.432Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

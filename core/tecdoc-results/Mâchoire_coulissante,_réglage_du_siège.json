@@ -1,0 +1,54 @@
+{
+  "productName": "Mâchoire coulissante, réglage du siège",
+  "searchText": "Mâchoire coulissante, réglage du siège",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:16:18.953Z",
+  "productId": 60062,
+  "arborescence": {
+    "Équipement intérieur": {
+      "categoryId": 100341,
+      "categoryName": "Équipement intérieur",
+      "level": 1,
+      "children": {
+        "Sièges": {
+          "categoryId": null,
+          "categoryName": "Sièges",
+          "level": 2,
+          "children": {
+            "Mâchoire coulissante, réglage du siège": {
+              "categoryId": 100673,
+              "categoryName": "Seats",
+              "level": 2,
+              "children": [],
+              "productId": 60062
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Équipement intérieur [ID: 100341] (Niveau 1)\n    └── Sièges (Niveau 2)\n        └── Seats [ID: 100673] (Niveau 2) → ProductId: 60062",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Équipement intérieur",
+        "Sièges",
+        "Seats"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        100673
+      ],
+      "finalCategoryId": 100673,
+      "productId": 60062
+    }
+  ],
+  "productIdsInArbo": [
+    60062
+  ],
+  "matchedProductIds": [
+    60062
+  ]
+}

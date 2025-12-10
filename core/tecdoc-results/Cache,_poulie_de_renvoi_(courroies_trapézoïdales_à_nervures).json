@@ -1,0 +1,134 @@
+{
+  "productName": "Cache, poulie de renvoi (courroies trapézoïdales à nervures)",
+  "searchText": "Cache, poulie de renvoi (courroies trapézoïdales à nervures)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:13:27.879Z",
+  "productId": 3631,
+  "arborescence": {
+    "Commande à courroie": {
+      "categoryId": 100016,
+      "categoryName": "Commande à courroie",
+      "level": 1,
+      "children": {
+        "Jeu/ courroies trapézoïdales à nervures": {
+          "categoryId": null,
+          "categoryName": "Jeu/ courroies trapézoïdales à nervures",
+          "level": 2,
+          "children": {
+            "Cache, poulie de renvoi (courroies trapézoïdales à nervures)": {
+              "categoryId": 100082,
+              "categoryName": "V-Ribbed Belt/Set",
+              "level": 2,
+              "children": {
+                "Poulie de renvoi/poulie de guidage": {
+                  "categoryId": null,
+                  "categoryName": "Poulie de renvoi/poulie de guidage",
+                  "level": 4,
+                  "children": {
+                    "Cache, poulie de renvoi (courroies trapézoïdales à nervures)": {
+                      "categoryId": 100435,
+                      "categoryName": "Deflection Pulley/Guide Pulley",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3631
+                    }
+                  }
+                }
+              },
+              "productId": 3631
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Commande à courroie": {
+          "categoryId": null,
+          "categoryName": "Commande à courroie",
+          "level": 2,
+          "children": {
+            "Cache, poulie de renvoi (courroies trapézoïdales à nervures)": {
+              "categoryId": 104302,
+              "categoryName": "Belt Drive",
+              "level": 2,
+              "children": {
+                "Jeu/ courroies trapézoïdales à nervures": {
+                  "categoryId": null,
+                  "categoryName": "Jeu/ courroies trapézoïdales à nervures",
+                  "level": 4,
+                  "children": {
+                    "Cache, poulie de renvoi (courroies trapézoïdales à nervures)": {
+                      "categoryId": 104308,
+                      "categoryName": "V-Ribbed Belt/Set",
+                      "level": 3,
+                      "children": {
+                        "Poulie de renvoi/poulie de guidage": {
+                          "categoryId": null,
+                          "categoryName": "Poulie de renvoi/poulie de guidage",
+                          "level": 6,
+                          "children": {
+                            "Cache, poulie de renvoi (courroies trapézoïdales à nervures)": {
+                              "categoryId": 104312,
+                              "categoryName": "Deflection Pulley/Guide Pulley",
+                              "level": 4,
+                              "children": [],
+                              "productId": 3631
+                            }
+                          }
+                        }
+                      },
+                      "productId": 3631
+                    }
+                  }
+                }
+              },
+              "productId": 3631
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Commande à courroie [ID: 100016] (Niveau 1)\n│   └── Jeu/ courroies trapézoïdales à nervures (Niveau 2)\n│       └── V-Ribbed Belt/Set [ID: 100082] (Niveau 2) → ProductId: 3631\n│           └── Poulie de renvoi/poulie de guidage (Niveau 4)\n│               └── Deflection Pulley/Guide Pulley [ID: 100435] (Niveau 3) → ProductId: 3631\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Commande à courroie (Niveau 2)\n        └── Belt Drive [ID: 104302] (Niveau 2) → ProductId: 3631\n            └── Jeu/ courroies trapézoïdales à nervures (Niveau 4)\n                └── V-Ribbed Belt/Set [ID: 104308] (Niveau 3) → ProductId: 3631\n                    └── Poulie de renvoi/poulie de guidage (Niveau 6)\n                        └── Deflection Pulley/Guide Pulley [ID: 104312] (Niveau 4) → ProductId: 3631",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Commande à courroie",
+        "Jeu/ courroies trapézoïdales à nervures",
+        "V-Ribbed Belt/Set"
+      ],
+      "categoryIds": [
+        100016,
+        null,
+        100082
+      ],
+      "finalCategoryId": 100082,
+      "productId": 3631
+    },
+    {
+      "path": [
+        "Moteur",
+        "Commande à courroie",
+        "Belt Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        104302
+      ],
+      "finalCategoryId": 104302,
+      "productId": 3631
+    }
+  ],
+  "productIdsInArbo": [
+    3631
+  ],
+  "matchedProductIds": [
+    3631
+  ]
+}

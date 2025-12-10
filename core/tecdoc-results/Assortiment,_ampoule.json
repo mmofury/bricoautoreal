@@ -1,0 +1,57 @@
+{
+  "productName": "Assortiment, ampoule",
+  "searchText": "Assortiment, ampoule",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T20:00:07.458Z",
+  "productId": 3326,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Assortiments d'ampoules": {
+          "categoryId": null,
+          "categoryName": "Assortiments d'ampoules",
+          "level": 2,
+          "children": {
+            "Assortiment, ampoule": {
+              "categoryId": 105798,
+              "categoryName": "Bulb Set",
+              "level": 2,
+              "children": [],
+              "productId": 7624
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Assortiments d'ampoules (Niveau 2)\n        └── Bulb Set [ID: 105798] (Niveau 2) → ProductId: 7624",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Assortiments d'ampoules",
+        "Bulb Set"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        105798
+      ],
+      "finalCategoryId": 105798,
+      "productId": 7624
+    }
+  ],
+  "productIdsInArbo": [
+    7624
+  ],
+  "closestProductIds": [
+    {
+      "productId": 7624,
+      "productName": "Assortiment, ampoule"
+    }
+  ]
+}

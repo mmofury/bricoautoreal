@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "D8C4E8",
+      "index": "FE46739",
+      "tecDoc": "46739",
+      "tecDocProd": "101",
+      "articleNumber": "46739",
+      "brand": "FEBI",
+      "shortDescription": "Hose, crankcase ventilation",
+      "description": "Crankcase breather hose fits: MERCEDES 190 (W201), SL (R107) 2.6/2.9 09.85-08.93",
+      "customsCode": "40093200",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3402",
+          "primary": false,
+          "name": {
+            "en": "Hose, cylinder head cover ventilation"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1600",
+          "primary": true,
+          "name": {
+            "en": "Hose, crankcase ventilation"
+          }
+        }
+      ]
+    }
+  ]
+}

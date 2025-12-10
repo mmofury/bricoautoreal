@@ -1,0 +1,1714 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.406Z",
+  "manufacturer": "MAZDA",
+  "countGroups": 51,
+  "groups": [
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "1000",
+      "displayName": "1000",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4026,
+          "modelName": "1000 (FA3)",
+          "modelYearFrom": "1975-01-01",
+          "modelYearTo": "1977-01-01"
+        },
+        {
+          "modelId": 41945,
+          "modelName": "1000 Pick-up",
+          "modelYearFrom": "1970-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "1200",
+      "displayName": "1200",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32481,
+          "modelName": "1200 A trois volumes (FA3)",
+          "modelYearFrom": "1966-09-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 40570,
+          "modelName": "1200 Coupé (FA3)",
+          "modelYearFrom": "1966-09-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 40571,
+          "modelName": "1200 Break (FA3)",
+          "modelYearFrom": "1966-09-01",
+          "modelYearTo": "1977-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "121",
+      "displayName": "121",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 88,
+          "modelName": "121 I (DA)",
+          "modelYearFrom": "1987-03-01",
+          "modelYearTo": "1991-06-01"
+        },
+        {
+          "modelId": 92,
+          "modelName": "121 II (DB)",
+          "modelYearFrom": "1990-11-01",
+          "modelYearTo": "1997-05-01"
+        },
+        {
+          "modelId": 1510,
+          "modelName": "121 III (JASM, JBSM)",
+          "modelYearFrom": "1996-03-01",
+          "modelYearTo": "2003-04-01"
+        },
+        {
+          "modelId": 40568,
+          "modelName": "121 Coupé (CD)",
+          "modelYearFrom": "1975-01-01",
+          "modelYearTo": "1981-12-01"
+        },
+        {
+          "modelId": 43061,
+          "modelName": "121 III Camionnette/Berline bicorps trois ou cinq portes (JA",
+          "modelYearFrom": "1996-01-01",
+          "modelYearTo": "2002-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "1300",
+      "displayName": "1300",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4027,
+          "modelName": "1300 (FA3)",
+          "modelYearFrom": "1971-02-01",
+          "modelYearTo": "1977-01-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "1800",
+      "displayName": "1800",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43751,
+          "modelName": "1800 A trois volumes (SV)",
+          "modelYearFrom": "1966-01-01",
+          "modelYearTo": "1973-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "2",
+      "displayName": "2",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4958,
+          "modelName": "2 (DY)",
+          "modelYearFrom": "2003-02-01",
+          "modelYearTo": "2007-06-01"
+        },
+        {
+          "modelId": 6436,
+          "modelName": "2 (DE_, DH_)",
+          "modelYearFrom": "2007-07-01",
+          "modelYearTo": "2015-06-01"
+        },
+        {
+          "modelId": 9579,
+          "modelName": "2 A trois volumes (DE_)",
+          "modelYearFrom": "2010-05-01",
+          "modelYearTo": "2015-06-01"
+        },
+        {
+          "modelId": 13240,
+          "modelName": "2 Berline bicorps trois ou cinq portes (DL, DJ)",
+          "modelYearFrom": "2014-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13907,
+          "modelName": "2 A trois volumes (DL)",
+          "modelYearFrom": "2015-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42729,
+          "modelName": "2 Berline bicorps trois ou cinq portes (KB)",
+          "modelYearFrom": "2022-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "3",
+      "displayName": "3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5062,
+          "modelName": "3 (BK)",
+          "modelYearFrom": "2003-10-01",
+          "modelYearTo": "2009-12-01"
+        },
+        {
+          "modelId": 5063,
+          "modelName": "3 A trois volumes (BK)",
+          "modelYearFrom": "1999-09-01",
+          "modelYearTo": "2009-12-01"
+        },
+        {
+          "modelId": 8036,
+          "modelName": "3 (BL)",
+          "modelYearFrom": "2008-12-01",
+          "modelYearTo": "2014-09-01"
+        },
+        {
+          "modelId": 8037,
+          "modelName": "3 A trois volumes (BL)",
+          "modelYearFrom": "2008-12-01",
+          "modelYearTo": "2014-12-01"
+        },
+        {
+          "modelId": 11526,
+          "modelName": "3 (BM, BN)",
+          "modelYearFrom": "2013-07-01",
+          "modelYearTo": "2019-05-01"
+        },
+        {
+          "modelId": 11527,
+          "modelName": "3 A trois volumes (BM_, BN_)",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": "2019-12-01"
+        },
+        {
+          "modelId": 39001,
+          "modelName": "3 Camionnette/Berline bicorps trois ou cinq portes (BM)",
+          "modelYearFrom": "2015-04-01",
+          "modelYearTo": "2016-05-01"
+        },
+        {
+          "modelId": 39275,
+          "modelName": "3 Berline bicorps trois ou cinq portes (BP)",
+          "modelYearFrom": "2018-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39276,
+          "modelName": "3 A trois volumes (BP_)",
+          "modelYearFrom": "2018-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "323",
+      "displayName": "323",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 311,
+          "modelName": "323 C V (BA)",
+          "modelYearFrom": "1994-08-01",
+          "modelYearTo": "2001-01-01"
+        },
+        {
+          "modelId": 315,
+          "modelName": "323 F V (BA)",
+          "modelYearFrom": "1994-07-01",
+          "modelYearTo": "2000-02-01"
+        },
+        {
+          "modelId": 320,
+          "modelName": "323 I (FA)",
+          "modelYearFrom": "1977-01-01",
+          "modelYearTo": "1982-11-01"
+        },
+        {
+          "modelId": 324,
+          "modelName": "323 I Station Wagon (FA)",
+          "modelYearFrom": "1978-05-01",
+          "modelYearTo": "1986-05-01"
+        },
+        {
+          "modelId": 333,
+          "modelName": "323 II A trois volumes (BD)",
+          "modelYearFrom": "1980-10-01",
+          "modelYearTo": "1989-10-01"
+        },
+        {
+          "modelId": 338,
+          "modelName": "323 III Hatchback (BF)",
+          "modelYearFrom": "1985-08-01",
+          "modelYearTo": "2004-07-01"
+        },
+        {
+          "modelId": 342,
+          "modelName": "323 III Station Wagon (BW)",
+          "modelYearFrom": "1986-01-01",
+          "modelYearTo": "1998-10-01"
+        },
+        {
+          "modelId": 347,
+          "modelName": "323 III A trois volumes (BF)",
+          "modelYearFrom": "1985-08-01",
+          "modelYearTo": "2004-07-01"
+        },
+        {
+          "modelId": 352,
+          "modelName": "323 F IV (BG)",
+          "modelYearFrom": "1987-04-01",
+          "modelYearTo": "1994-10-01"
+        },
+        {
+          "modelId": 356,
+          "modelName": "323 C IV (BG)",
+          "modelYearFrom": "1989-06-01",
+          "modelYearTo": "2000-09-01"
+        },
+        {
+          "modelId": 361,
+          "modelName": "323 S IV (BG)",
+          "modelYearFrom": "1989-06-01",
+          "modelYearTo": "1996-10-01"
+        },
+        {
+          "modelId": 365,
+          "modelName": "323 S V (BA)",
+          "modelYearFrom": "1992-09-01",
+          "modelYearTo": "2003-12-01"
+        },
+        {
+          "modelId": 3461,
+          "modelName": "323 II Hatchback (BD)",
+          "modelYearFrom": "1980-06-01",
+          "modelYearTo": "1989-10-01"
+        },
+        {
+          "modelId": 3852,
+          "modelName": "323 S VI A trois volumes (BJ)",
+          "modelYearFrom": "1998-05-01",
+          "modelYearTo": "2004-07-01"
+        },
+        {
+          "modelId": 3853,
+          "modelName": "323 F VI Berline bicorps trois ou cinq portes (BJ)",
+          "modelYearFrom": "1998-09-01",
+          "modelYearTo": "2004-07-01"
+        },
+        {
+          "modelId": 3855,
+          "modelName": "323 P V (BA)",
+          "modelYearFrom": "1996-10-01",
+          "modelYearTo": "1998-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "5",
+      "displayName": "5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5410,
+          "modelName": "5 (CR)",
+          "modelYearFrom": "2005-02-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 9571,
+          "modelName": "5 (CW)",
+          "modelYearFrom": "2010-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "6",
+      "displayName": "6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4886,
+          "modelName": "6 A trois volumes (GG)",
+          "modelYearFrom": "2002-06-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 4887,
+          "modelName": "6 Hatchback (GG)",
+          "modelYearFrom": "2002-08-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 4888,
+          "modelName": "6 Station Wagon (GY)",
+          "modelYearFrom": "2002-01-01",
+          "modelYearTo": "2008-02-01"
+        },
+        {
+          "modelId": 6986,
+          "modelName": "6 Sport (GH)",
+          "modelYearFrom": "2007-08-01",
+          "modelYearTo": "2013-07-01"
+        },
+        {
+          "modelId": 6987,
+          "modelName": "6 A trois volumes (GH)",
+          "modelYearFrom": "2007-08-01",
+          "modelYearTo": "2013-12-01"
+        },
+        {
+          "modelId": 7571,
+          "modelName": "6 Sport Kombi (GH)",
+          "modelYearFrom": "2007-12-01",
+          "modelYearTo": "2013-07-01"
+        },
+        {
+          "modelId": 10884,
+          "modelName": "6 A trois volumes (GJ, GL)",
+          "modelYearFrom": "2012-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10888,
+          "modelName": "6 Break (GJ, GL)",
+          "modelYearFrom": "2012-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38998,
+          "modelName": "6 Fourgon/Break (GJ)",
+          "modelYearFrom": "2013-01-01",
+          "modelYearTo": "2016-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "616",
+      "displayName": "616",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4028,
+          "modelName": "616 (SNA)",
+          "modelYearFrom": "1969-09-01",
+          "modelYearTo": "1978-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "626",
+      "displayName": "626",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 491,
+          "modelName": "626 IV (GE)",
+          "modelYearFrom": "1991-08-01",
+          "modelYearTo": "1998-08-01"
+        },
+        {
+          "modelId": 495,
+          "modelName": "626 I (CB)",
+          "modelYearFrom": "1978-09-01",
+          "modelYearTo": "1982-10-01"
+        },
+        {
+          "modelId": 503,
+          "modelName": "626 II (GC)",
+          "modelYearFrom": "1982-11-01",
+          "modelYearTo": "1993-05-01"
+        },
+        {
+          "modelId": 508,
+          "modelName": "626 III Coupé (GD)",
+          "modelYearFrom": "1987-06-01",
+          "modelYearTo": "1992-05-01"
+        },
+        {
+          "modelId": 516,
+          "modelName": "626 III Station Wagon (GV)",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "1998-10-01"
+        },
+        {
+          "modelId": 521,
+          "modelName": "626 III (GD)",
+          "modelYearFrom": "1987-06-01",
+          "modelYearTo": "1992-05-01"
+        },
+        {
+          "modelId": 525,
+          "modelName": "626 IV Hatchback (GE)",
+          "modelYearFrom": "1991-08-01",
+          "modelYearTo": "1998-08-01"
+        },
+        {
+          "modelId": 1979,
+          "modelName": "626 V (GF)",
+          "modelYearFrom": "1997-05-01",
+          "modelYearTo": "2006-05-01"
+        },
+        {
+          "modelId": 1980,
+          "modelName": "626 V Hatchback (GF)",
+          "modelYearFrom": "1997-05-01",
+          "modelYearTo": "2002-12-01"
+        },
+        {
+          "modelId": 3400,
+          "modelName": "626 V Station Wagon (GW)",
+          "modelYearFrom": "1998-01-01",
+          "modelYearTo": "2003-05-01"
+        },
+        {
+          "modelId": 3462,
+          "modelName": "626 II Hatchback (GC)",
+          "modelYearFrom": "1982-11-01",
+          "modelYearTo": "1993-05-01"
+        },
+        {
+          "modelId": 3931,
+          "modelName": "626 III Hatchback (GD)",
+          "modelYearFrom": "1987-06-01",
+          "modelYearTo": "1992-05-01"
+        },
+        {
+          "modelId": 8375,
+          "modelName": "626 II Coupé (GC)",
+          "modelYearFrom": "1982-09-01",
+          "modelYearTo": "1987-10-01"
+        },
+        {
+          "modelId": 37341,
+          "modelName": "626 I Coupé",
+          "modelYearFrom": "1978-09-01",
+          "modelYearTo": "1982-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "808",
+      "displayName": "808",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32498,
+          "modelName": "808 A trois volumes",
+          "modelYearFrom": "1971-09-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 32499,
+          "modelName": "808 Coupé",
+          "modelYearFrom": "1972-03-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 37629,
+          "modelName": "808 Break",
+          "modelYearFrom": "1971-09-01",
+          "modelYearTo": "1977-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "818",
+      "displayName": "818",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4029,
+          "modelName": "818 Break",
+          "modelYearFrom": "1971-09-01",
+          "modelYearTo": "1978-10-01"
+        },
+        {
+          "modelId": 37627,
+          "modelName": "818 Coupé",
+          "modelYearFrom": "1971-09-01",
+          "modelYearTo": "1978-12-01"
+        },
+        {
+          "modelId": 40580,
+          "modelName": "818 A trois volumes",
+          "modelYearFrom": "1971-09-01",
+          "modelYearTo": "1978-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "929",
+      "displayName": "929",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 173,
+          "modelName": "929 I (LA)",
+          "modelYearFrom": "1977-10-01",
+          "modelYearTo": "1986-07-01"
+        },
+        {
+          "modelId": 177,
+          "modelName": "929 II Coupé (HB)",
+          "modelYearFrom": "1981-12-01",
+          "modelYearTo": "1987-09-01"
+        },
+        {
+          "modelId": 180,
+          "modelName": "929 II (HB)",
+          "modelYearFrom": "1981-12-01",
+          "modelYearTo": "1987-09-01"
+        },
+        {
+          "modelId": 183,
+          "modelName": "929 II Break (HV)",
+          "modelYearFrom": "1983-01-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 188,
+          "modelName": "929 III (HC)",
+          "modelYearFrom": "1987-05-01",
+          "modelYearTo": "1991-08-01"
+        },
+        {
+          "modelId": 7822,
+          "modelName": "929 V (HE)",
+          "modelYearFrom": "1994-06-01",
+          "modelYearTo": "1999-10-01"
+        },
+        {
+          "modelId": 8608,
+          "modelName": "929 IV (HD)",
+          "modelYearFrom": "1990-01-01",
+          "modelYearTo": "1996-03-01"
+        },
+        {
+          "modelId": 37342,
+          "modelName": "929 I Break (LA)",
+          "modelYearFrom": "1977-10-01",
+          "modelYearTo": "1988-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "AZ",
+      "displayName": "AZ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13509,
+          "modelName": "AZ OFFROAD (JB, JM)",
+          "modelYearFrom": "1998-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37192,
+          "modelName": "AZ WAGON (MJ23_)",
+          "modelYearFrom": "2008-07-01",
+          "modelYearTo": "2012-12-01"
+        },
+        {
+          "modelId": 37207,
+          "modelName": "AZ WAGON (MJ21_, MJ22_)",
+          "modelYearFrom": "2003-10-01",
+          "modelYearTo": "2008-06-01"
+        },
+        {
+          "modelId": 37359,
+          "modelName": "AZ WAGON (CY_, CZ_)",
+          "modelYearFrom": "1994-01-01",
+          "modelYearTo": "1998-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "AZ1",
+      "displayName": "AZ1",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37399,
+          "modelName": "AZ1",
+          "modelYearFrom": "1992-10-01",
+          "modelYearTo": "1995-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "B",
+      "displayName": "B",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4200,
+          "modelName": "B-SERIE (UN)",
+          "modelYearFrom": "1998-11-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 4581,
+          "modelName": "B-SERIE (UF)",
+          "modelYearFrom": "1985-01-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 4913,
+          "modelName": "B-SERIE (PE)",
+          "modelYearFrom": "1977-02-01",
+          "modelYearTo": "1982-01-01"
+        },
+        {
+          "modelId": 4914,
+          "modelName": "B-SERIE (UD)",
+          "modelYearFrom": "1981-01-01",
+          "modelYearTo": "1986-06-01"
+        },
+        {
+          "modelId": 8634,
+          "modelName": "B-SERIE Camion plate-forme/Châssis (UF)",
+          "modelYearFrom": "1985-05-01",
+          "modelYearTo": "2001-10-01"
+        },
+        {
+          "modelId": 8635,
+          "modelName": "B-SERIE Camion plate-forme/Châssis (UN)",
+          "modelYearFrom": "1999-02-01",
+          "modelYearTo": "2006-11-01"
+        },
+        {
+          "modelId": 8637,
+          "modelName": "B-SERIE (MJ)",
+          "modelYearFrom": "2005-11-01",
+          "modelYearTo": "2006-11-01"
+        },
+        {
+          "modelId": 8638,
+          "modelName": "B-SERIE Camion plate-forme/Châssis (MJ)",
+          "modelYearFrom": "2005-11-01",
+          "modelYearTo": "2006-11-01"
+        },
+        {
+          "modelId": 35570,
+          "modelName": "B Pick-up",
+          "modelYearFrom": "1964-09-01",
+          "modelYearTo": "1978-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "BIANTE",
+      "displayName": "BIANTE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13241,
+          "modelName": "BIANTE (CC_)",
+          "modelYearFrom": "2008-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "BONGO",
+      "displayName": "BONGO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13895,
+          "modelName": "BONGO VAN Autobus/Autocar (SK_)",
+          "modelYearFrom": "1999-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13896,
+          "modelName": "BONGO TRUCK Camion plate-forme/Châssis (SKF_)",
+          "modelYearFrom": "1999-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37343,
+          "modelName": "BONGO VAN Fourgon (SK_)",
+          "modelYearFrom": "1999-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "BT",
+      "displayName": "BT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6246,
+          "modelName": "BT-50 Pick-up (CD, UN)",
+          "modelYearFrom": "2006-08-01",
+          "modelYearTo": "2015-12-01"
+        },
+        {
+          "modelId": 8639,
+          "modelName": "BT-50 Camion plate-forme/Châssis (CD, UN)",
+          "modelYearFrom": "2006-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10542,
+          "modelName": "BT-50 II Pick-up (B22, B32, UP, UR)",
+          "modelYearFrom": "2011-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11265,
+          "modelName": "BT-50 Camion plate-forme/Châssis (B22, B32, UP, UR)",
+          "modelYearFrom": "2011-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41269,
+          "modelName": "BT-50 III Pick-up",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41341,
+          "modelName": "BT-50 III",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "CAPELLA",
+      "displayName": "CAPELLA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40573,
+          "modelName": "CAPELLA A trois volumes",
+          "modelYearFrom": "1970-05-01",
+          "modelYearTo": "1978-12-01"
+        },
+        {
+          "modelId": 40574,
+          "modelName": "CAPELLA Coupé",
+          "modelYearFrom": "1970-05-01",
+          "modelYearTo": "1978-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "CAROL",
+      "displayName": "CAROL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13249,
+          "modelName": "CAROL (HB25_, HB35_)",
+          "modelYearFrom": "2010-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13893,
+          "modelName": "CAROL (HB36_)",
+          "modelYearFrom": "2015-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37195,
+          "modelName": "CAROL (HB24)",
+          "modelYearFrom": "2004-04-01",
+          "modelYearTo": "2010-04-01"
+        },
+        {
+          "modelId": 37225,
+          "modelName": "CAROL (AC6_)",
+          "modelYearFrom": "1989-10-01",
+          "modelYearTo": "1998-10-01"
+        },
+        {
+          "modelId": 37226,
+          "modelName": "CAROL (HB12_, HB22_, HB23_)",
+          "modelYearFrom": "1998-11-01",
+          "modelYearTo": "2004-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "COSMO",
+      "displayName": "COSMO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39821,
+          "modelName": "COSMO Coupé (JC_)",
+          "modelYearFrom": "1990-02-01",
+          "modelYearTo": "1995-09-01"
+        },
+        {
+          "modelId": 41691,
+          "modelName": "COSMO Coupé (FC_, FD_)",
+          "modelYearFrom": "1989-06-01",
+          "modelYearTo": "1996-02-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "CX",
+      "displayName": "CX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6435,
+          "modelName": "CX-7 (ER)",
+          "modelYearFrom": "2006-06-01",
+          "modelYearTo": "2014-12-01"
+        },
+        {
+          "modelId": 8556,
+          "modelName": "CX-9 (TB)",
+          "modelYearFrom": "2006-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10207,
+          "modelName": "CX-5 (KE, GH)",
+          "modelYearFrom": "2011-11-01",
+          "modelYearTo": "2017-02-01"
+        },
+        {
+          "modelId": 13892,
+          "modelName": "CX-3 (DK)",
+          "modelYearFrom": "2015-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 36349,
+          "modelName": "CX-9 (TC)",
+          "modelYearFrom": "2016-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37884,
+          "modelName": "CX-5 (KF)",
+          "modelYearFrom": "2016-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38207,
+          "modelName": "CX-8 (KG)",
+          "modelYearFrom": "2017-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39795,
+          "modelName": "CX-30 (DM)",
+          "modelYearFrom": "2019-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41562,
+          "modelName": "CX-5 Van (KE_)",
+          "modelYearFrom": "2011-11-01",
+          "modelYearTo": "2017-02-01"
+        },
+        {
+          "modelId": 42677,
+          "modelName": "CX-60 (KH_)",
+          "modelYearFrom": "2022-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42967,
+          "modelName": "CX-50",
+          "modelYearFrom": "2022-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44510,
+          "modelName": "CX-90 (KK)",
+          "modelYearFrom": "2023-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45415,
+          "modelName": "CX-80 (KL_)",
+          "modelYearFrom": "2024-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 46005,
+          "modelName": "CX-70 (KJ)",
+          "modelYearFrom": "2024-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "DEMIO",
+      "displayName": "DEMIO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3883,
+          "modelName": "DEMIO (DW)",
+          "modelYearFrom": "1996-01-01",
+          "modelYearTo": "2003-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "E",
+      "displayName": "E",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 301,
+          "modelName": "E Autobus/Autocar (SR1)",
+          "modelYearFrom": "1984-01-01",
+          "modelYearTo": "2004-07-01"
+        },
+        {
+          "modelId": 2058,
+          "modelName": "E Fourgon (SR2)",
+          "modelYearFrom": "1983-10-01",
+          "modelYearTo": "2004-07-01"
+        },
+        {
+          "modelId": 4495,
+          "modelName": "E Fourgon",
+          "modelYearFrom": "1978-04-01",
+          "modelYearTo": "1984-06-01"
+        },
+        {
+          "modelId": 6911,
+          "modelName": "E Autobus/Autocar (SG)",
+          "modelYearFrom": "1999-02-01",
+          "modelYearTo": "2001-10-01"
+        },
+        {
+          "modelId": 8507,
+          "modelName": "E Camion plate-forme/Châssis (SD1)",
+          "modelYearFrom": "1983-01-01",
+          "modelYearTo": "1999-07-01"
+        },
+        {
+          "modelId": 8511,
+          "modelName": "E Camion plate-forme/Châssis (SD1, SL)",
+          "modelYearFrom": "1999-08-01",
+          "modelYearTo": "2006-02-01"
+        },
+        {
+          "modelId": 8512,
+          "modelName": "E Fourgon (SG)",
+          "modelYearFrom": "1999-01-01",
+          "modelYearTo": "2006-12-01"
+        },
+        {
+          "modelId": 8633,
+          "modelName": "E Autobus/Autocar (SG)",
+          "modelYearFrom": "1995-06-01",
+          "modelYearTo": "1999-09-01"
+        },
+        {
+          "modelId": 8641,
+          "modelName": "E Camion plate-forme/Châssis",
+          "modelYearFrom": "1977-01-01",
+          "modelYearTo": "1984-02-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "FAMILIA",
+      "displayName": "FAMILIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39315,
+          "modelName": "FAMILIA VAN (NCP_M)",
+          "modelYearFrom": "2018-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39888,
+          "modelName": "FAMILIA VAN (Y12)",
+          "modelYearFrom": "2007-01-01",
+          "modelYearTo": "2018-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "FESTIVA",
+      "displayName": "FESTIVA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6427,
+          "modelName": "FESTIVA",
+          "modelYearFrom": "1989-04-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 10744,
+          "modelName": "FESTIVA",
+          "modelYearFrom": "1993-01-01",
+          "modelYearTo": "2000-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "FIGHTER",
+      "displayName": "FIGHTER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6309,
+          "modelName": "FIGHTER Pick-up",
+          "modelYearFrom": "1999-06-01",
+          "modelYearTo": "2006-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "FLAIR",
+      "displayName": "FLAIR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13244,
+          "modelName": "FLAIR (MJ34S_, MJ44S_, MJ33S_)",
+          "modelYearFrom": "2012-07-01",
+          "modelYearTo": "2017-03-01"
+        },
+        {
+          "modelId": 13245,
+          "modelName": "FLAIR WAGON",
+          "modelYearFrom": "2013-04-01",
+          "modelYearTo": "2017-03-01"
+        },
+        {
+          "modelId": 13248,
+          "modelName": "FLAIR CROSSOVER (MS31S_)",
+          "modelYearFrom": "2014-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38224,
+          "modelName": "FLAIR (MJ55S_, MJ95S_)",
+          "modelYearFrom": "2017-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "J80",
+      "displayName": "J80",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6322,
+          "modelName": "J80 Autobus/Autocar",
+          "modelYearFrom": "1982-10-01",
+          "modelYearTo": "1989-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "LAPUTA",
+      "displayName": "LAPUTA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37379,
+          "modelName": "LAPUTA",
+          "modelYearFrom": "1998-06-01",
+          "modelYearTo": "2006-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "MIZER",
+      "displayName": "MIZER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32528,
+          "modelName": "MIZER Coupé",
+          "modelYearFrom": "1975-09-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 32529,
+          "modelName": "MIZER A trois volumes",
+          "modelYearFrom": "1975-09-01",
+          "modelYearTo": "1977-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "MPV",
+      "displayName": "MPV",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1582,
+          "modelName": "MPV I (LV)",
+          "modelYearFrom": "1988-09-01",
+          "modelYearTo": "1999-09-01"
+        },
+        {
+          "modelId": 4417,
+          "modelName": "MPV II (LW)",
+          "modelYearFrom": "1999-08-01",
+          "modelYearTo": "2006-12-01"
+        },
+        {
+          "modelId": 10263,
+          "modelName": "MPV III (LY)",
+          "modelYearFrom": "2006-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 32532,
+          "modelName": "MPV Fourgon",
+          "modelYearFrom": "1988-09-01",
+          "modelYearTo": "1999-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "MX",
+      "displayName": "MX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 331,
+          "modelName": "MX-3 (EC)",
+          "modelYearFrom": "1991-05-01",
+          "modelYearTo": "1998-09-01"
+        },
+        {
+          "modelId": 336,
+          "modelName": "MX-5 I (NA)",
+          "modelYearFrom": "1989-09-01",
+          "modelYearTo": "1998-04-01"
+        },
+        {
+          "modelId": 340,
+          "modelName": "MX-6 (GE)",
+          "modelYearFrom": "1991-07-01",
+          "modelYearTo": "1997-09-01"
+        },
+        {
+          "modelId": 3553,
+          "modelName": "MX-5 II (NB)",
+          "modelYearFrom": "1998-01-01",
+          "modelYearTo": "2005-10-01"
+        },
+        {
+          "modelId": 5448,
+          "modelName": "MX-5 III (NC)",
+          "modelYearFrom": "2005-03-01",
+          "modelYearTo": "2014-12-01"
+        },
+        {
+          "modelId": 8642,
+          "modelName": "MX-6 (GD)",
+          "modelYearFrom": "1987-10-01",
+          "modelYearTo": "1997-01-01"
+        },
+        {
+          "modelId": 14059,
+          "modelName": "MX-5 IV (ND__)",
+          "modelYearFrom": "2015-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37466,
+          "modelName": "MX-5 RF Targa (ND)",
+          "modelYearFrom": "2016-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40050,
+          "modelName": "MX-30 (DR)",
+          "modelYearFrom": "2020-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "NAVAJO",
+      "displayName": "NAVAJO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 32538,
+          "modelName": "NAVAJO Véhicule tout terrain fermé",
+          "modelYearFrom": "1990-09-01",
+          "modelYearTo": "1994-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "PARKWAY",
+      "displayName": "PARKWAY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40588,
+          "modelName": "PARKWAY Autobus/Autocar",
+          "modelYearFrom": "1980-01-01",
+          "modelYearTo": "1989-12-01"
+        },
+        {
+          "modelId": 40589,
+          "modelName": "PARKWAY Autobus/Autocar",
+          "modelYearFrom": "1989-01-01",
+          "modelYearTo": "2000-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "PREMACY",
+      "displayName": "PREMACY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4233,
+          "modelName": "PREMACY (CP)",
+          "modelYearFrom": "1999-01-01",
+          "modelYearTo": "2005-03-01"
+        },
+        {
+          "modelId": 41608,
+          "modelName": "PREMACY Van (CP_)",
+          "modelYearFrom": "1999-01-01",
+          "modelYearTo": "2005-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "R100",
+      "displayName": "R100",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40569,
+          "modelName": "R100 Coupé",
+          "modelYearFrom": "1968-07-01",
+          "modelYearTo": "1972-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "ROTARY",
+      "displayName": "ROTARY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41696,
+          "modelName": "ROTARY Pick-up (XP822)",
+          "modelYearFrom": "1975-01-01",
+          "modelYearTo": "1977-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "RUSTLER",
+      "displayName": "RUSTLER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10510,
+          "modelName": "RUSTLER",
+          "modelYearFrom": "1993-06-01",
+          "modelYearTo": "2004-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "RX",
+      "displayName": "RX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 175,
+          "modelName": "RX-7 I (SA)",
+          "modelYearFrom": "1978-03-01",
+          "modelYearTo": "1986-03-01"
+        },
+        {
+          "modelId": 179,
+          "modelName": "RX-7 II (FC)",
+          "modelYearFrom": "1985-11-01",
+          "modelYearTo": "1991-12-01"
+        },
+        {
+          "modelId": 182,
+          "modelName": "RX-7 III (FD)",
+          "modelYearFrom": "1992-07-01",
+          "modelYearTo": "2002-08-01"
+        },
+        {
+          "modelId": 4922,
+          "modelName": "RX-5",
+          "modelYearFrom": "1975-06-01",
+          "modelYearTo": "1981-12-01"
+        },
+        {
+          "modelId": 4980,
+          "modelName": "RX-8 (SE, FE)",
+          "modelYearFrom": "2003-10-01",
+          "modelYearTo": "2012-07-01"
+        },
+        {
+          "modelId": 7895,
+          "modelName": "RX-7 II Décapotable",
+          "modelYearFrom": "1988-01-01",
+          "modelYearTo": "1992-06-01"
+        },
+        {
+          "modelId": 32546,
+          "modelName": "RX-3 A trois volumes",
+          "modelYearFrom": "1971-09-01",
+          "modelYearTo": "1975-12-01"
+        },
+        {
+          "modelId": 32547,
+          "modelName": "RX-3 Coupé",
+          "modelYearFrom": "1971-09-01",
+          "modelYearTo": "1978-12-01"
+        },
+        {
+          "modelId": 32548,
+          "modelName": "RX-3 Break",
+          "modelYearFrom": "1971-09-01",
+          "modelYearTo": "1976-12-01"
+        },
+        {
+          "modelId": 32549,
+          "modelName": "RX-4 A trois volumes",
+          "modelYearFrom": "1973-09-01",
+          "modelYearTo": "1978-12-01"
+        },
+        {
+          "modelId": 32550,
+          "modelName": "RX-4 Coupé",
+          "modelYearFrom": "1973-09-01",
+          "modelYearTo": "1978-12-01"
+        },
+        {
+          "modelId": 32551,
+          "modelName": "RX-4 Hardtop",
+          "modelYearFrom": "1975-09-01",
+          "modelYearTo": "1976-12-01"
+        },
+        {
+          "modelId": 32553,
+          "modelName": "RX-4 Break",
+          "modelYearFrom": "1973-09-01",
+          "modelYearTo": "1978-12-01"
+        },
+        {
+          "modelId": 38038,
+          "modelName": "RX-2 Coupé",
+          "modelYearFrom": "1970-05-01",
+          "modelYearTo": "1976-05-01"
+        },
+        {
+          "modelId": 40575,
+          "modelName": "RX-2 A trois volumes",
+          "modelYearFrom": "1970-05-01",
+          "modelYearTo": "1976-05-01"
+        },
+        {
+          "modelId": 41695,
+          "modelName": "RX-9 (LA_)",
+          "modelYearFrom": "1978-01-01",
+          "modelYearTo": "1981-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "SCRUM",
+      "displayName": "SCRUM",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13253,
+          "modelName": "SCRUM Van (DG6_V)",
+          "modelYearFrom": "2003-07-01",
+          "modelYearTo": "2015-02-01"
+        },
+        {
+          "modelId": 13254,
+          "modelName": "SCRUM Truck (DG1_T)",
+          "modelYearFrom": "2014-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13894,
+          "modelName": "SCRUM Van (DG1_V)",
+          "modelYearFrom": "2015-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37246,
+          "modelName": "SCRUM Truck (DG6_T)",
+          "modelYearFrom": "2009-05-01",
+          "modelYearTo": "2015-02-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "SPECTRON",
+      "displayName": "SPECTRON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6426,
+          "modelName": "SPECTRON",
+          "modelYearFrom": "1982-10-01",
+          "modelYearTo": "1995-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "SPIANO",
+      "displayName": "SPIANO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37333,
+          "modelName": "SPIANO (HF21)",
+          "modelYearFrom": "2002-01-01",
+          "modelYearTo": "2008-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "TITAN",
+      "displayName": "TITAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37251,
+          "modelName": "TITAN 1,75 t - 4,6 t",
+          "modelYearFrom": "2007-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37252,
+          "modelName": "TITAN 1,15 t - 1,5 t",
+          "modelYearFrom": "2007-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40132,
+          "modelName": "TITAN DASH 1,0 t - 1,5 t",
+          "modelYearFrom": "2000-10-01",
+          "modelYearTo": "2010-08-01"
+        },
+        {
+          "modelId": 40585,
+          "modelName": "TITAN Camion plate-forme/Châssis",
+          "modelYearFrom": "1980-01-01",
+          "modelYearTo": "1989-12-01"
+        },
+        {
+          "modelId": 40586,
+          "modelName": "TITAN Camion plate-forme/Châssis (WG)",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "2000-07-01"
+        },
+        {
+          "modelId": 40587,
+          "modelName": "TITAN Camion plate-forme/Châssis (WH)",
+          "modelYearFrom": "2000-05-01",
+          "modelYearTo": "2004-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "TRIBUTE",
+      "displayName": "TRIBUTE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4615,
+          "modelName": "TRIBUTE (EP)",
+          "modelYearFrom": "2000-03-01",
+          "modelYearTo": "2008-05-01"
+        },
+        {
+          "modelId": 35964,
+          "modelName": "TRIBUTE",
+          "modelYearFrom": "2007-09-01",
+          "modelYearTo": "2011-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "VERISA",
+      "displayName": "VERISA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10475,
+          "modelName": "VERISA (DC)",
+          "modelYearFrom": "2004-07-01",
+          "modelYearTo": "2015-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "VX",
+      "displayName": "VX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13594,
+          "modelName": "VX-1",
+          "modelYearFrom": "2012-04-01",
+          "modelYearTo": "2017-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 72,
+      "manufacturerName": "MAZDA",
+      "groupKey": "XEDOS",
+      "displayName": "XEDOS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 82,
+          "modelName": "XEDOS 6 (CA)",
+          "modelYearFrom": "1992-01-01",
+          "modelYearTo": "1999-10-01"
+        },
+        {
+          "modelId": 87,
+          "modelName": "XEDOS 9 (TA)",
+          "modelYearFrom": "1993-07-01",
+          "modelYearTo": "2002-09-01"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "productName": "Cadre de pare-brise",
+  "searchText": "Cadre de pare-brise",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:13:39.993Z",
+  "productId": 203,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Habitacle": {
+          "categoryId": null,
+          "categoryName": "Habitacle",
+          "level": 2,
+          "children": {
+            "Cadre de pare-brise": {
+              "categoryId": 101690,
+              "categoryName": "Passenger Cabin",
+              "level": 2,
+              "children": {
+                "Cadre de montant de toit / Cadre de montant de porte": {
+                  "categoryId": null,
+                  "categoryName": "Cadre de montant de toit / Cadre de montant de porte",
+                  "level": 4,
+                  "children": {
+                    "Cadre de pare-brise": {
+                      "categoryId": 101691,
+                      "categoryName": "Roof/Door Pillars/Frames",
+                      "level": 3,
+                      "children": [],
+                      "productId": 203
+                    }
+                  }
+                }
+              },
+              "productId": 203
+            },
+            "Kit de cadre de pare-brise": {
+              "categoryId": 101690,
+              "categoryName": "Passenger Cabin",
+              "level": 2,
+              "children": {
+                "Cadre de montant de toit / Cadre de montant de porte": {
+                  "categoryId": null,
+                  "categoryName": "Cadre de montant de toit / Cadre de montant de porte",
+                  "level": 4,
+                  "children": {
+                    "Kit de cadre de pare-brise": {
+                      "categoryId": 101691,
+                      "categoryName": "Roof/Door Pillars/Frames",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4818
+                    }
+                  }
+                }
+              },
+              "productId": 4818
+            }
+          }
+        },
+        "Pièces de carrosserie/ailes/pares-chocs": {
+          "categoryId": null,
+          "categoryName": "Pièces de carrosserie/ailes/pares-chocs",
+          "level": 2,
+          "children": {
+            "Cadre de pare-brise": {
+              "categoryId": 100743,
+              "categoryName": "Body Parts/Wing/Bumper",
+              "level": 2,
+              "children": {
+                "Cadre de montant de toit / Cadre de montant de porte": {
+                  "categoryId": null,
+                  "categoryName": "Cadre de montant de toit / Cadre de montant de porte",
+                  "level": 4,
+                  "children": {
+                    "Cadre de pare-brise": {
+                      "categoryId": 100737,
+                      "categoryName": "Roof/Door Pillars/Frames",
+                      "level": 3,
+                      "children": [],
+                      "productId": 203
+                    }
+                  }
+                }
+              },
+              "productId": 203
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    ├── Habitacle (Niveau 2)\n    │   ├── Passenger Cabin [ID: 101690] (Niveau 2) → ProductId: 203\n    │   │   └── Cadre de montant de toit / Cadre de montant de porte (Niveau 4)\n    │   │       └── Roof/Door Pillars/Frames [ID: 101691] (Niveau 3) → ProductId: 203\n    │   └── Passenger Cabin [ID: 101690] (Niveau 2) → ProductId: 4818\n    │       └── Cadre de montant de toit / Cadre de montant de porte (Niveau 4)\n    │           └── Roof/Door Pillars/Frames [ID: 101691] (Niveau 3) → ProductId: 4818\n    └── Pièces de carrosserie/ailes/pares-chocs (Niveau 2)\n        └── Body Parts/Wing/Bumper [ID: 100743] (Niveau 2) → ProductId: 203\n            └── Cadre de montant de toit / Cadre de montant de porte (Niveau 4)\n                └── Roof/Door Pillars/Frames [ID: 100737] (Niveau 3) → ProductId: 203",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Habitacle",
+        "Passenger Cabin"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101690
+      ],
+      "finalCategoryId": 101690,
+      "productId": 203
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Habitacle",
+        "Passenger Cabin"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101690
+      ],
+      "finalCategoryId": 101690,
+      "productId": 4818
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Pièces de carrosserie/ailes/pares-chocs",
+        "Body Parts/Wing/Bumper"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100743
+      ],
+      "finalCategoryId": 100743,
+      "productId": 203
+    }
+  ],
+  "productIdsInArbo": [
+    203,
+    4818
+  ],
+  "matchedProductIds": [
+    203
+  ]
+}

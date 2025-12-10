@@ -1,0 +1,69 @@
+{
+  "productName": "Adaptateur, cylindre émetteur",
+  "searchText": "Adaptateur, cylindre émetteur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T18:48:14.804Z",
+  "productId": 2743,
+  "arborescence": {
+    "Embrayage / composants": {
+      "categoryId": 100050,
+      "categoryName": "Embrayage / composants",
+      "level": 1,
+      "children": {
+        "Commande d'embrayage": {
+          "categoryId": null,
+          "categoryName": "Commande d'embrayage",
+          "level": 2,
+          "children": {
+            "Adaptateur, cylindre émetteur": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Cylindre émetteur": {
+                  "categoryId": null,
+                  "categoryName": "Cylindre émetteur",
+                  "level": 4,
+                  "children": {
+                    "Adaptateur, cylindre émetteur": {
+                      "categoryId": 100061,
+                      "categoryName": "Master Cylinder",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2743
+                    }
+                  }
+                }
+              },
+              "productId": 2743
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Embrayage / composants [ID: 100050] (Niveau 1)\n    └── Commande d'embrayage (Niveau 2)\n        └── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 2743\n            └── Cylindre émetteur (Niveau 4)\n                └── Master Cylinder [ID: 100061] (Niveau 3) → ProductId: 2743",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 2743
+    }
+  ],
+  "productIdsInArbo": [
+    2743
+  ],
+  "matchedProductIds": [
+    2743
+  ]
+}

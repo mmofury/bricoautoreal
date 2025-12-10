@@ -1,0 +1,234 @@
+{
+  "productName": "Cadre, projecteur principal",
+  "searchText": "Cadre, projecteur principal",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:13:53.936Z",
+  "productId": 703,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Avant du véhicule": {
+          "categoryId": null,
+          "categoryName": "Avant du véhicule",
+          "level": 2,
+          "children": {
+            "Cadre, projecteur principal": {
+              "categoryId": 101648,
+              "categoryName": "Vehicle Front",
+              "level": 2,
+              "children": {
+                "Composants/suppléments": {
+                  "categoryId": null,
+                  "categoryName": "Composants/suppléments",
+                  "level": 4,
+                  "children": {
+                    "Cadre, projecteur principal": {
+                      "categoryId": 101673,
+                      "categoryName": "Parts",
+                      "level": 3,
+                      "children": {
+                        "Fixation/Support/collerette": {
+                          "categoryId": null,
+                          "categoryName": "Fixation/Support/collerette",
+                          "level": 6,
+                          "children": {
+                            "Cadre, projecteur principal": {
+                              "categoryId": 101773,
+                              "categoryName": "Racks/Carriers/Frames",
+                              "level": 4,
+                              "children": [],
+                              "productId": 703
+                            }
+                          }
+                        }
+                      },
+                      "productId": 703
+                    }
+                  }
+                },
+                "Projecteurs principaux / composants": {
+                  "categoryId": null,
+                  "categoryName": "Projecteurs principaux / composants",
+                  "level": 4,
+                  "children": {
+                    "Cadre, projecteur principal": {
+                      "categoryId": 101656,
+                      "categoryName": "Headlight/Parts",
+                      "level": 3,
+                      "children": {
+                        "Composants des projecteurs principaux": {
+                          "categoryId": null,
+                          "categoryName": "Composants des projecteurs principaux",
+                          "level": 6,
+                          "children": {
+                            "Cadre, projecteur principal": {
+                              "categoryId": 101659,
+                              "categoryName": "Headlight Parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 703
+                            }
+                          }
+                        }
+                      },
+                      "productId": 703
+                    }
+                  }
+                }
+              },
+              "productId": 703
+            }
+          }
+        },
+        "Fixation/Support/collerette": {
+          "categoryId": null,
+          "categoryName": "Fixation/Support/collerette",
+          "level": 2,
+          "children": {
+            "Cadre, projecteur principal": {
+              "categoryId": 101454,
+              "categoryName": "Racks/Carriers/Frames",
+              "level": 2,
+              "children": [],
+              "productId": 703
+            }
+          }
+        },
+        "Projecteurs principaux / composants": {
+          "categoryId": null,
+          "categoryName": "Projecteurs principaux / composants",
+          "level": 2,
+          "children": {
+            "Cadre, projecteur principal": {
+              "categoryId": 101465,
+              "categoryName": "Headlight/Parts",
+              "level": 2,
+              "children": {
+                "Composants des projecteurs principaux": {
+                  "categoryId": null,
+                  "categoryName": "Composants des projecteurs principaux",
+                  "level": 4,
+                  "children": {
+                    "Cadre, projecteur principal": {
+                      "categoryId": 101468,
+                      "categoryName": "Headlight Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 703
+                    }
+                  }
+                }
+              },
+              "productId": 703
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Projecteurs principaux / composants": {
+          "categoryId": null,
+          "categoryName": "Projecteurs principaux / composants",
+          "level": 2,
+          "children": {
+            "Cadre, projecteur principal": {
+              "categoryId": 100143,
+              "categoryName": "Headlight/Parts",
+              "level": 2,
+              "children": {
+                "Composants des projecteurs principaux": {
+                  "categoryId": null,
+                  "categoryName": "Composants des projecteurs principaux",
+                  "level": 4,
+                  "children": {
+                    "Cadre, projecteur principal": {
+                      "categoryId": 100430,
+                      "categoryName": "Headlight Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 703
+                    }
+                  }
+                }
+              },
+              "productId": 703
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carrosserie [ID: 100001] (Niveau 1)\n│   ├── Avant du véhicule (Niveau 2)\n│   │   └── Vehicle Front [ID: 101648] (Niveau 2) → ProductId: 703\n│   │       ├── Composants/suppléments (Niveau 4)\n│   │       │   └── Parts [ID: 101673] (Niveau 3) → ProductId: 703\n│   │       │       └── Fixation/Support/collerette (Niveau 6)\n│   │       │           └── Racks/Carriers/Frames [ID: 101773] (Niveau 4) → ProductId: 703\n│   │       └── Projecteurs principaux / composants (Niveau 4)\n│   │           └── Headlight/Parts [ID: 101656] (Niveau 3) → ProductId: 703\n│   │               └── Composants des projecteurs principaux (Niveau 6)\n│   │                   └── Headlight Parts [ID: 101659] (Niveau 4) → ProductId: 703\n│   ├── Fixation/Support/collerette (Niveau 2)\n│   │   └── Racks/Carriers/Frames [ID: 101454] (Niveau 2) → ProductId: 703\n│   └── Projecteurs principaux / composants (Niveau 2)\n│       └── Headlight/Parts [ID: 101465] (Niveau 2) → ProductId: 703\n│           └── Composants des projecteurs principaux (Niveau 4)\n│               └── Headlight Parts [ID: 101468] (Niveau 3) → ProductId: 703\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Projecteurs principaux / composants (Niveau 2)\n        └── Headlight/Parts [ID: 100143] (Niveau 2) → ProductId: 703\n            └── Composants des projecteurs principaux (Niveau 4)\n                └── Headlight Parts [ID: 100430] (Niveau 3) → ProductId: 703",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Avant du véhicule",
+        "Vehicle Front"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101648
+      ],
+      "finalCategoryId": 101648,
+      "productId": 703
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Fixation/Support/collerette",
+        "Racks/Carriers/Frames"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101454
+      ],
+      "finalCategoryId": 101454,
+      "productId": 703
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Projecteurs principaux / composants",
+        "Headlight/Parts"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101465
+      ],
+      "finalCategoryId": 101465,
+      "productId": 703
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Projecteurs principaux / composants",
+        "Headlight/Parts"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100143
+      ],
+      "finalCategoryId": 100143,
+      "productId": 703
+    }
+  ],
+  "productIdsInArbo": [
+    703
+  ],
+  "matchedProductIds": [
+    703
+  ]
+}

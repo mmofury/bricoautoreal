@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.262Z",
+  "manufacturer": "eπ",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 7789,
+      "manufacturerName": "eπ",
+      "groupKey": "007",
+      "displayName": "007",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45203,
+          "modelName": "007",
+          "modelYearFrom": "2024-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 7789,
+      "manufacturerName": "eπ",
+      "groupKey": "008",
+      "displayName": "008",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 90015,
+          "modelName": "008",
+          "modelYearFrom": "2024-06-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

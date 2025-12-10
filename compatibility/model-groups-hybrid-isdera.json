@@ -1,0 +1,43 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.343Z",
+  "manufacturer": "ISDERA",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 1509,
+      "manufacturerName": "ISDERA",
+      "groupKey": "COMMENDATORE",
+      "displayName": "COMMENDATORE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4272,
+          "modelName": "COMMENDATORE",
+          "modelYearFrom": "1993-01-01",
+          "modelYearTo": "2001-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1509,
+      "manufacturerName": "ISDERA",
+      "groupKey": "IMPERATOR",
+      "displayName": "IMPERATOR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4273,
+          "modelName": "IMPERATOR",
+          "modelYearFrom": "1991-05-01",
+          "modelYearTo": "2001-06-01"
+        },
+        {
+          "modelId": 38527,
+          "modelName": "IMPERATOR",
+          "modelYearFrom": "1984-05-01",
+          "modelYearTo": "1991-04-01"
+        }
+      ]
+    }
+  ]
+}

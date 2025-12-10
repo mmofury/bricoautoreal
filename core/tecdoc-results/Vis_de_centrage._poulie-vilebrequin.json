@@ -1,0 +1,104 @@
+{
+  "productName": "Vis de centrage. poulie-vilebrequin",
+  "searchText": "Vis de centrage. poulie-vilebrequin",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:33:31.054Z",
+  "productId": 4247,
+  "arborescence": {
+    "Commande à courroie": {
+      "categoryId": 100016,
+      "categoryName": "Commande à courroie",
+      "level": 1,
+      "children": {
+        "Accessoires": {
+          "categoryId": null,
+          "categoryName": "Accessoires",
+          "level": 2,
+          "children": {
+            "Vis de centrage. poulie-vilebrequin": {
+              "categoryId": 101482,
+              "categoryName": "Accessories/Small Parts",
+              "level": 2,
+              "children": [],
+              "productId": 4247
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Commande à courroie": {
+          "categoryId": null,
+          "categoryName": "Commande à courroie",
+          "level": 2,
+          "children": {
+            "Vis de centrage. poulie-vilebrequin": {
+              "categoryId": 104302,
+              "categoryName": "Belt Drive",
+              "level": 2,
+              "children": {
+                "Accessoires": {
+                  "categoryId": null,
+                  "categoryName": "Accessoires",
+                  "level": 4,
+                  "children": {
+                    "Vis de centrage. poulie-vilebrequin": {
+                      "categoryId": 104328,
+                      "categoryName": "Accessories/Small Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4247
+                    }
+                  }
+                }
+              },
+              "productId": 4247
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Commande à courroie [ID: 100016] (Niveau 1)\n│   └── Accessoires (Niveau 2)\n│       └── Accessories/Small Parts [ID: 101482] (Niveau 2) → ProductId: 4247\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Commande à courroie (Niveau 2)\n        └── Belt Drive [ID: 104302] (Niveau 2) → ProductId: 4247\n            └── Accessoires (Niveau 4)\n                └── Accessories/Small Parts [ID: 104328] (Niveau 3) → ProductId: 4247",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Commande à courroie",
+        "Accessoires",
+        "Accessories/Small Parts"
+      ],
+      "categoryIds": [
+        100016,
+        null,
+        101482
+      ],
+      "finalCategoryId": 101482,
+      "productId": 4247
+    },
+    {
+      "path": [
+        "Moteur",
+        "Commande à courroie",
+        "Belt Drive"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        104302
+      ],
+      "finalCategoryId": 104302,
+      "productId": 4247
+    }
+  ],
+  "productIdsInArbo": [
+    4247
+  ],
+  "matchedProductIds": [
+    4247
+  ]
+}

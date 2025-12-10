@@ -1,0 +1,241 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.167Z",
+  "manufacturer": "AUDI (FAW)",
+  "countGroups": 12,
+  "groups": [
+    {
+      "manufacturerId": 2858,
+      "manufacturerName": "AUDI (FAW)",
+      "groupKey": "A3",
+      "displayName": "A3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13183,
+          "modelName": "A3 Limousine (85S, 85M)",
+          "modelYearFrom": "2014-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13643,
+          "modelName": "A3 Sportback (85A, 85F)",
+          "modelYearFrom": "2014-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41838,
+          "modelName": "A3 Sportback (88A)",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2858,
+      "manufacturerName": "AUDI (FAW)",
+      "groupKey": "A3L",
+      "displayName": "A3L",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41839,
+          "modelName": "A3L Limousine (888)",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2858,
+      "manufacturerName": "AUDI (FAW)",
+      "groupKey": "A4",
+      "displayName": "A4",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6525,
+          "modelName": "A4 B6 (8E2)",
+          "modelYearFrom": "2002-08-01",
+          "modelYearTo": "2005-07-01"
+        },
+        {
+          "modelId": 6596,
+          "modelName": "A4 B7 (8YC)",
+          "modelYearFrom": "2003-04-01",
+          "modelYearTo": "2008-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2858,
+      "manufacturerName": "AUDI (FAW)",
+      "groupKey": "A4L",
+      "displayName": "A4L",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8135,
+          "modelName": "A4L B8 (828)",
+          "modelYearFrom": "2008-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37043,
+          "modelName": "A4L B9 (868, 86L)",
+          "modelYearFrom": "2016-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2858,
+      "manufacturerName": "AUDI (FAW)",
+      "groupKey": "A6",
+      "displayName": "A6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6526,
+          "modelName": "A6 C5 (4Y8)",
+          "modelYearFrom": "1999-09-01",
+          "modelYearTo": "2006-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2858,
+      "manufacturerName": "AUDI (FAW)",
+      "groupKey": "A6L",
+      "displayName": "A6L",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6438,
+          "modelName": "A6L C6 (4Z8)",
+          "modelYearFrom": "2005-03-01",
+          "modelYearTo": "2012-12-01"
+        },
+        {
+          "modelId": 10594,
+          "modelName": "A6L C7 (4X8, 4XL)",
+          "modelYearFrom": "2012-01-01",
+          "modelYearTo": "2018-12-01"
+        },
+        {
+          "modelId": 39298,
+          "modelName": "A6L C8 (488)",
+          "modelYearFrom": "2019-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2858,
+      "manufacturerName": "AUDI (FAW)",
+      "groupKey": "E",
+      "displayName": "E",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41890,
+          "modelName": "E-TRON (GEB)",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2858,
+      "manufacturerName": "AUDI (FAW)",
+      "groupKey": "Q2L",
+      "displayName": "Q2L",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39052,
+          "modelName": "Q2L (G1I, G1U)",
+          "modelYearFrom": "2018-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2858,
+      "manufacturerName": "AUDI (FAW)",
+      "groupKey": "Q3",
+      "displayName": "Q3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11536,
+          "modelName": "Q3 (84B, 84G)",
+          "modelYearFrom": "2013-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39513,
+          "modelName": "Q3 (G2B, G2G)",
+          "modelYearFrom": "2019-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40849,
+          "modelName": "Q3 Sportback (G2N, G2T)",
+          "modelYearFrom": "2020-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2858,
+      "manufacturerName": "AUDI (FAW)",
+      "groupKey": "Q4",
+      "displayName": "Q4",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42941,
+          "modelName": "Q4 (G3B)",
+          "modelYearFrom": "2022-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2858,
+      "manufacturerName": "AUDI (FAW)",
+      "groupKey": "Q5",
+      "displayName": "Q5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8689,
+          "modelName": "Q5 B8 (83B)",
+          "modelYearFrom": "2009-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2858,
+      "manufacturerName": "AUDI (FAW)",
+      "groupKey": "Q5L",
+      "displayName": "Q5L",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38805,
+          "modelName": "Q5L B9 (87I, 87U)",
+          "modelYearFrom": "2018-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41567,
+          "modelName": "Q5L Sportback (87F)",
+          "modelYearFrom": "2020-11-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

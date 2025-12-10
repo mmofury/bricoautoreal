@@ -1,0 +1,97 @@
+{
+  "productName": "Kit d'assemblage, tuyau d'échappement",
+  "searchText": "Kit d'assemblage, tuyau d'échappement",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:58:34.284Z",
+  "productId": 1395,
+  "arborescence": {
+    "Échappement": {
+      "categoryId": 100004,
+      "categoryName": "Échappement",
+      "level": 1,
+      "children": {
+        "Pièces de montage": {
+          "categoryId": null,
+          "categoryName": "Pièces de montage",
+          "level": 2,
+          "children": {
+            "Kit d'assemblage, tuyau d'échappement": {
+              "categoryId": 100222,
+              "categoryName": "Assembly Parts",
+              "level": 2,
+              "children": {
+                "Assortiment de montage": {
+                  "categoryId": null,
+                  "categoryName": "Assortiment de montage",
+                  "level": 4,
+                  "children": {
+                    "Kit d'assemblage, tuyau d'échappement": {
+                      "categoryId": 100316,
+                      "categoryName": "Assembly Kit",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1395
+                    }
+                  }
+                }
+              },
+              "productId": 1395
+            }
+          }
+        },
+        "Tuyaux": {
+          "categoryId": null,
+          "categoryName": "Tuyaux",
+          "level": 2,
+          "children": {
+            "Kit d'assemblage, tuyau d'échappement": {
+              "categoryId": 100315,
+              "categoryName": "Exhaust Pipes",
+              "level": 2,
+              "children": [],
+              "productId": 1395
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Échappement [ID: 100004] (Niveau 1)\n    ├── Pièces de montage (Niveau 2)\n    │   └── Assembly Parts [ID: 100222] (Niveau 2) → ProductId: 1395\n    │       └── Assortiment de montage (Niveau 4)\n    │           └── Assembly Kit [ID: 100316] (Niveau 3) → ProductId: 1395\n    └── Tuyaux (Niveau 2)\n        └── Exhaust Pipes [ID: 100315] (Niveau 2) → ProductId: 1395",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Échappement",
+        "Pièces de montage",
+        "Assembly Parts"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100222
+      ],
+      "finalCategoryId": 100222,
+      "productId": 1395
+    },
+    {
+      "path": [
+        "Échappement",
+        "Tuyaux",
+        "Exhaust Pipes"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100315
+      ],
+      "finalCategoryId": 100315,
+      "productId": 1395
+    }
+  ],
+  "productIdsInArbo": [
+    1395
+  ],
+  "matchedProductIds": [
+    1395
+  ]
+}

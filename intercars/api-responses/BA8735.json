@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "BA8735",
+      "index": "03.9302-9212.3",
+      "tecDoc": "03.9302-9212.3",
+      "tecDocProd": "3",
+      "articleNumber": "03.9302-9212.3",
+      "brand": "ATE",
+      "shortDescription": "Devices for working fluids and fuels",
+      "description": "Switch, application: brake fluid, for FB30 ATE",
+      "eans": [
+        "4006633305129"
+      ],
+      "packageWeight": "0,070",
+      "packageWidth": "7,100",
+      "packageDepth": "6,000",
+      "packageHeight": "9,200",
+      "customsCode": "90319000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3657",
+          "primary": false,
+          "name": {
+            "en": "Main Switch, filling/bleeding unit (brake hydraulics)"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91773",
+          "primary": true,
+          "name": {
+            "en": "Devices for working fluids and fuels"
+          }
+        }
+      ]
+    }
+  ]
+}

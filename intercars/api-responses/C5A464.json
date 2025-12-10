@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "C5A464",
+      "index": "03.9302-9260.3",
+      "tecDoc": "03.9302-9260.3",
+      "tecDocProd": "3",
+      "articleNumber": "03.9302-9260.3",
+      "brand": "ATE",
+      "shortDescription": "Devices for working fluids and fuels",
+      "description": "Pump, application: brake fluid ATE",
+      "eans": [
+        "4006633423236"
+      ],
+      "packageWeight": "0,680",
+      "packageWidth": "15,000",
+      "packageDepth": "29,000",
+      "packageHeight": "12,500",
+      "customsCode": "84138100",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4330",
+          "primary": false,
+          "name": {
+            "en": "Suction Pump, filling/bleeding unit (brake hydraulics)"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91773",
+          "primary": true,
+          "name": {
+            "en": "Devices for working fluids and fuels"
+          }
+        }
+      ]
+    }
+  ]
+}

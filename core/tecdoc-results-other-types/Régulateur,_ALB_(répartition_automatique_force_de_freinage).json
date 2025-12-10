@@ -1,0 +1,49 @@
+{
+  "productName": "Régulateur, ALB (répartition automatique force de freinage)",
+  "productId": 1341,
+  "searchText": "Régulateur, ALB (répartition automatique force de freinage)",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Système pneumatique": {
+          "categoryId": 200059,
+          "categoryName": "Système pneumatique",
+          "level": 1,
+          "children": {
+            "Régulation/Limitation de la force de freinage": {
+              "categoryId": null,
+              "categoryName": "Régulation/Limitation de la force de freinage",
+              "level": 2,
+              "children": {
+                "Régulateur, ALB (répartition automatique force de freinage)": {
+                  "categoryId": 200921,
+                  "categoryName": "Brake Power Control/ Limiter",
+                  "level": 2,
+                  "children": [],
+                  "productId": 1341
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système pneumatique [ID: 200059] (Niveau 1)\n    └── Régulation/Limitation de la force de freinage (Niveau 2)\n        └── Brake Power Control/ Limiter [ID: 200921] (Niveau 2) → ProductId: 1341",
+      "productIdsInArbo": [
+        1341
+      ],
+      "matchedProductIds": [
+        1341
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:27:41.627Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

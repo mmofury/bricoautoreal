@@ -1,0 +1,130 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.287Z",
+  "manufacturer": "GENESIS",
+  "countGroups": 7,
+  "groups": [
+    {
+      "manufacturerId": 4473,
+      "manufacturerName": "GENESIS",
+      "groupKey": "G70",
+      "displayName": "G70",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38226,
+          "modelName": "G70 (IK)",
+          "modelYearFrom": "2017-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42374,
+          "modelName": "G70 Shooting Brake (IK)",
+          "modelYearFrom": "2021-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4473,
+      "manufacturerName": "GENESIS",
+      "groupKey": "G80",
+      "displayName": "G80",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37266,
+          "modelName": "G80 (DH)",
+          "modelYearFrom": "2016-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42637,
+          "modelName": "G80 (RG)",
+          "modelYearFrom": "2020-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4473,
+      "manufacturerName": "GENESIS",
+      "groupKey": "G90",
+      "displayName": "G90",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43538,
+          "modelName": "G90 (RS4)",
+          "modelYearFrom": "2021-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4473,
+      "manufacturerName": "GENESIS",
+      "groupKey": "G90/G90L",
+      "displayName": "G90/G90L",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37156,
+          "modelName": "G90/G90L (HI)",
+          "modelYearFrom": "2015-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4473,
+      "manufacturerName": "GENESIS",
+      "groupKey": "GV60",
+      "displayName": "GV60",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42436,
+          "modelName": "GV60 (JW)",
+          "modelYearFrom": "2021-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4473,
+      "manufacturerName": "GENESIS",
+      "groupKey": "GV70",
+      "displayName": "GV70",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42129,
+          "modelName": "GV70 (JK1)",
+          "modelYearFrom": "2020-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4473,
+      "manufacturerName": "GENESIS",
+      "groupKey": "GV80",
+      "displayName": "GV80",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41242,
+          "modelName": "GV80 SUV (JX1)",
+          "modelYearFrom": "2020-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45235,
+          "modelName": "GV80 Coupé",
+          "modelYearFrom": "2023-10-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

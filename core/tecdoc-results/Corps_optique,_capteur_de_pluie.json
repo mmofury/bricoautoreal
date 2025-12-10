@@ -1,0 +1,154 @@
+{
+  "productName": "Corps optique, capteur de pluie",
+  "searchText": "Corps optique, capteur de pluie",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:25:14.801Z",
+  "productId": 4855,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Vitrages/Miroirs": {
+          "categoryId": null,
+          "categoryName": "Vitrages/Miroirs",
+          "level": 2,
+          "children": {
+            "Corps optique, capteur de pluie": {
+              "categoryId": 100744,
+              "categoryName": "Glazing/Mirrors",
+              "level": 2,
+              "children": {
+                "Vitrage": {
+                  "categoryId": null,
+                  "categoryName": "Vitrage",
+                  "level": 4,
+                  "children": {
+                    "Corps optique, capteur de pluie": {
+                      "categoryId": 100745,
+                      "categoryName": "Glazing",
+                      "level": 3,
+                      "children": {
+                        "Pièces de montage": {
+                          "categoryId": null,
+                          "categoryName": "Pièces de montage",
+                          "level": 6,
+                          "children": {
+                            "Corps optique, capteur de pluie": {
+                              "categoryId": 100569,
+                              "categoryName": "Assembly Parts",
+                              "level": 4,
+                              "children": [],
+                              "productId": 4855
+                            }
+                          }
+                        }
+                      },
+                      "productId": 4855
+                    }
+                  }
+                }
+              },
+              "productId": 4855
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Capteurs": {
+          "categoryId": null,
+          "categoryName": "Capteurs",
+          "level": 2,
+          "children": {
+            "Corps optique, capteur de pluie": {
+              "categoryId": 102747,
+              "categoryName": "Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 4855
+            }
+          }
+        }
+      }
+    },
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Capteur de pluie": {
+          "categoryId": null,
+          "categoryName": "Capteur de pluie",
+          "level": 2,
+          "children": {
+            "Corps optique, capteur de pluie": {
+              "categoryId": 100850,
+              "categoryName": "Rain Sensor",
+              "level": 2,
+              "children": [],
+              "productId": 4855
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carrosserie [ID: 100001] (Niveau 1)\n│   └── Vitrages/Miroirs (Niveau 2)\n│       └── Glazing/Mirrors [ID: 100744] (Niveau 2) → ProductId: 4855\n│           └── Vitrage (Niveau 4)\n│               └── Glazing [ID: 100745] (Niveau 3) → ProductId: 4855\n│                   └── Pièces de montage (Niveau 6)\n│                       └── Assembly Parts [ID: 100569] (Niveau 4) → ProductId: 4855\n\n├── Système électrique [ID: 100010] (Niveau 1)\n│   └── Capteurs (Niveau 2)\n│       └── Sensors [ID: 102747] (Niveau 2) → ProductId: 4855\n\n└── Systèmes de confort [ID: 100335] (Niveau 1)\n    └── Capteur de pluie (Niveau 2)\n        └── Rain Sensor [ID: 100850] (Niveau 2) → ProductId: 4855",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Vitrages/Miroirs",
+        "Glazing/Mirrors"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100744
+      ],
+      "finalCategoryId": 100744,
+      "productId": 4855
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Capteurs",
+        "Sensors"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        102747
+      ],
+      "finalCategoryId": 102747,
+      "productId": 4855
+    },
+    {
+      "path": [
+        "Systèmes de confort",
+        "Capteur de pluie",
+        "Rain Sensor"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        100850
+      ],
+      "finalCategoryId": 100850,
+      "productId": 4855
+    }
+  ],
+  "productIdsInArbo": [
+    4855
+  ],
+  "matchedProductIds": [
+    4855
+  ]
+}

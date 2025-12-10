@@ -1,0 +1,89 @@
+{
+  "productName": "Kit rép. de câble, chauff. habitacle (système préch. moteur)",
+  "searchText": "Kit rép. de câble, chauff. habitacle (système préch. moteur)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:08:37.891Z",
+  "productId": 7302,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Kit/pièces de câble": {
+          "categoryId": null,
+          "categoryName": "Kit/pièces de câble",
+          "level": 2,
+          "children": {
+            "Kit rép. de câble, chauff. habitacle (système préch. moteur)": {
+              "categoryId": 103066,
+              "categoryName": "Cable Set/individual parts",
+              "level": 2,
+              "children": [],
+              "productId": 7302
+            }
+          }
+        }
+      }
+    },
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Préchauffage du moteur (électrique)": {
+          "categoryId": null,
+          "categoryName": "Préchauffage du moteur (électrique)",
+          "level": 2,
+          "children": {
+            "Kit rép. de câble, chauff. habitacle (système préch. moteur)": {
+              "categoryId": 102736,
+              "categoryName": "Engine Preheater System (electric)",
+              "level": 2,
+              "children": [],
+              "productId": 7302
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Système électrique [ID: 100010] (Niveau 1)\n│   └── Kit/pièces de câble (Niveau 2)\n│       └── Cable Set/individual parts [ID: 103066] (Niveau 2) → ProductId: 7302\n\n└── Systèmes de confort [ID: 100335] (Niveau 1)\n    └── Préchauffage du moteur (électrique) (Niveau 2)\n        └── Engine Preheater System (electric) [ID: 102736] (Niveau 2) → ProductId: 7302",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Kit/pièces de câble",
+        "Cable Set/individual parts"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        103066
+      ],
+      "finalCategoryId": 103066,
+      "productId": 7302
+    },
+    {
+      "path": [
+        "Systèmes de confort",
+        "Préchauffage du moteur (électrique)",
+        "Engine Preheater System (electric)"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        102736
+      ],
+      "finalCategoryId": 102736,
+      "productId": 7302
+    }
+  ],
+  "productIdsInArbo": [
+    7302
+  ],
+  "matchedProductIds": [
+    7302
+  ]
+}

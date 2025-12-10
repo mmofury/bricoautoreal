@@ -1,0 +1,69 @@
+{
+  "productName": "Kit de fixation, radiateur d’huile",
+  "searchText": "Kit de fixation, radiateur d’huile",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:00:21.937Z",
+  "productId": 8225,
+  "arborescence": {
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Radiateur d'eau/d'huile": {
+          "categoryId": null,
+          "categoryName": "Radiateur d'eau/d'huile",
+          "level": 2,
+          "children": {
+            "Kit de fixation, radiateur d’huile": {
+              "categoryId": 100102,
+              "categoryName": "Radiator/Oil Cooler",
+              "level": 2,
+              "children": {
+                "Pièces de fixation du radiateur": {
+                  "categoryId": null,
+                  "categoryName": "Pièces de fixation du radiateur",
+                  "level": 4,
+                  "children": {
+                    "Kit de fixation, radiateur d’huile": {
+                      "categoryId": 100105,
+                      "categoryName": "Radiator Mounting Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8225
+                    }
+                  }
+                }
+              },
+              "productId": 8225
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Refroidissement [ID: 100007] (Niveau 1)\n    └── Radiateur d'eau/d'huile (Niveau 2)\n        └── Radiator/Oil Cooler [ID: 100102] (Niveau 2) → ProductId: 8225\n            └── Pièces de fixation du radiateur (Niveau 4)\n                └── Radiator Mounting Parts [ID: 100105] (Niveau 3) → ProductId: 8225",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Refroidissement",
+        "Radiateur d'eau/d'huile",
+        "Radiator/Oil Cooler"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100102
+      ],
+      "finalCategoryId": 100102,
+      "productId": 8225
+    }
+  ],
+  "productIdsInArbo": [
+    8225
+  ],
+  "matchedProductIds": [
+    8225
+  ]
+}

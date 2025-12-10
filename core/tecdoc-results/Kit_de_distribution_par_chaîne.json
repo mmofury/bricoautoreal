@@ -1,0 +1,84 @@
+{
+  "productName": "Kit de distribution par chaîne",
+  "searchText": "Kit de distribution par chaîne",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:59:54.769Z",
+  "productId": 1389,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Distribution moteur": {
+          "categoryId": null,
+          "categoryName": "Distribution moteur",
+          "level": 2,
+          "children": {
+            "Kit de distribution par chaîne": {
+              "categoryId": 100003,
+              "categoryName": "Engine Timing",
+              "level": 2,
+              "children": {
+                "Chaîne de distribution/tension/guidage": {
+                  "categoryId": null,
+                  "categoryName": "Chaîne de distribution/tension/guidage",
+                  "level": 4,
+                  "children": {
+                    "Kit de distribution par chaîne": {
+                      "categoryId": 100403,
+                      "categoryName": "Timing Chain/Tensioner/Guide",
+                      "level": 3,
+                      "children": {
+                        "Kit de distribution par chaîne": {
+                          "categoryId": null,
+                          "categoryName": "Kit de distribution par chaîne",
+                          "level": 6,
+                          "children": {
+                            "Kit de distribution par chaîne": {
+                              "categoryId": 103278,
+                              "categoryName": "Timing Chain Kit",
+                              "level": 4,
+                              "children": [],
+                              "productId": 1389
+                            }
+                          }
+                        }
+                      },
+                      "productId": 1389
+                    }
+                  }
+                }
+              },
+              "productId": 1389
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Distribution moteur (Niveau 2)\n        └── Engine Timing [ID: 100003] (Niveau 2) → ProductId: 1389\n            └── Chaîne de distribution/tension/guidage (Niveau 4)\n                └── Timing Chain/Tensioner/Guide [ID: 100403] (Niveau 3) → ProductId: 1389\n                    └── Kit de distribution par chaîne (Niveau 6)\n                        └── Timing Chain Kit [ID: 103278] (Niveau 4) → ProductId: 1389",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Engine Timing"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100003
+      ],
+      "finalCategoryId": 100003,
+      "productId": 1389
+    }
+  ],
+  "productIdsInArbo": [
+    1389
+  ],
+  "matchedProductIds": [
+    1389
+  ]
+}

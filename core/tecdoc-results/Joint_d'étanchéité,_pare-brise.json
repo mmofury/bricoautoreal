@@ -1,0 +1,127 @@
+{
+  "productName": "Joint d'étanchéité, pare-brise",
+  "searchText": "Joint d'étanchéité, pare-brise",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:53:07.947Z",
+  "productId": 1245,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Avant du véhicule": {
+          "categoryId": null,
+          "categoryName": "Avant du véhicule",
+          "level": 2,
+          "children": {
+            "Joint d'étanchéité, pare-brise": {
+              "categoryId": 101648,
+              "categoryName": "Vehicle Front",
+              "level": 2,
+              "children": {
+                "Pare-brise": {
+                  "categoryId": null,
+                  "categoryName": "Pare-brise",
+                  "level": 4,
+                  "children": {
+                    "Joint d'étanchéité, pare-brise": {
+                      "categoryId": 101655,
+                      "categoryName": "Windscreen",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1245
+                    }
+                  }
+                }
+              },
+              "productId": 1245
+            }
+          }
+        },
+        "Vitrages/Miroirs": {
+          "categoryId": null,
+          "categoryName": "Vitrages/Miroirs",
+          "level": 2,
+          "children": {
+            "Joint d'étanchéité, pare-brise": {
+              "categoryId": 100744,
+              "categoryName": "Glazing/Mirrors",
+              "level": 2,
+              "children": {
+                "Vitrage": {
+                  "categoryId": null,
+                  "categoryName": "Vitrage",
+                  "level": 4,
+                  "children": {
+                    "Joint d'étanchéité, pare-brise": {
+                      "categoryId": 100745,
+                      "categoryName": "Glazing",
+                      "level": 3,
+                      "children": {
+                        "Joints": {
+                          "categoryId": null,
+                          "categoryName": "Joints",
+                          "level": 6,
+                          "children": {
+                            "Joint d'étanchéité, pare-brise": {
+                              "categoryId": 100568,
+                              "categoryName": "Window Seals",
+                              "level": 4,
+                              "children": [],
+                              "productId": 1245
+                            }
+                          }
+                        }
+                      },
+                      "productId": 1245
+                    }
+                  }
+                }
+              },
+              "productId": 1245
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    ├── Avant du véhicule (Niveau 2)\n    │   └── Vehicle Front [ID: 101648] (Niveau 2) → ProductId: 1245\n    │       └── Pare-brise (Niveau 4)\n    │           └── Windscreen [ID: 101655] (Niveau 3) → ProductId: 1245\n    └── Vitrages/Miroirs (Niveau 2)\n        └── Glazing/Mirrors [ID: 100744] (Niveau 2) → ProductId: 1245\n            └── Vitrage (Niveau 4)\n                └── Glazing [ID: 100745] (Niveau 3) → ProductId: 1245\n                    └── Joints (Niveau 6)\n                        └── Window Seals [ID: 100568] (Niveau 4) → ProductId: 1245",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Avant du véhicule",
+        "Vehicle Front"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101648
+      ],
+      "finalCategoryId": 101648,
+      "productId": 1245
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Vitrages/Miroirs",
+        "Glazing/Mirrors"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100744
+      ],
+      "finalCategoryId": 100744,
+      "productId": 1245
+    }
+  ],
+  "productIdsInArbo": [
+    1245
+  ],
+  "matchedProductIds": [
+    1245
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.354Z",
+  "manufacturer": "JEEP (BJC)",
+  "countGroups": 5,
+  "groups": [
+    {
+      "manufacturerId": 2851,
+      "manufacturerName": "JEEP (BJC)",
+      "groupKey": "BJ2020",
+      "displayName": "BJ2020",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6465,
+          "modelName": "BJ2020",
+          "modelYearFrom": "1997-01-01",
+          "modelYearTo": "2005-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2851,
+      "manufacturerName": "JEEP (BJC)",
+      "groupKey": "CHEROKEE",
+      "displayName": "CHEROKEE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36817,
+          "modelName": "CHEROKEE",
+          "modelYearFrom": "1992-01-01",
+          "modelYearTo": "1998-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2851,
+      "manufacturerName": "JEEP (BJC)",
+      "groupKey": "GRAND",
+      "displayName": "GRAND",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5675,
+          "modelName": "GRAND CHEROKEE",
+          "modelYearFrom": "1999-02-01",
+          "modelYearTo": "2005-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2851,
+      "manufacturerName": "JEEP (BJC)",
+      "groupKey": "JEEP",
+      "displayName": "JEEP",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5676,
+          "modelName": "JEEP 2500",
+          "modelYearFrom": "2003-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 6467,
+          "modelName": "JEEP 2700",
+          "modelYearFrom": "2005-05-01",
+          "modelYearTo": "2006-12-01"
+        },
+        {
+          "modelId": 42005,
+          "modelName": "JEEP 4000",
+          "modelYearFrom": "2003-10-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 42006,
+          "modelName": "JEEP 4700",
+          "modelYearFrom": "2003-10-01",
+          "modelYearTo": "2007-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2851,
+      "manufacturerName": "JEEP (BJC)",
+      "groupKey": "SUPER",
+      "displayName": "SUPER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5677,
+          "modelName": "SUPER CHEROKEE",
+          "modelYearFrom": "1997-01-01",
+          "modelYearTo": "2005-12-01"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "productName": "Kit d'assemblage, cylindre émetteur d'embrayage",
+  "searchText": "Kit d'assemblage, cylindre émetteur d'embrayage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:58:07.488Z",
+  "productId": 621,
+  "arborescence": {
+    "Embrayage / composants": {
+      "categoryId": 100050,
+      "categoryName": "Embrayage / composants",
+      "level": 1,
+      "children": {
+        "Commande d'embrayage": {
+          "categoryId": null,
+          "categoryName": "Commande d'embrayage",
+          "level": 2,
+          "children": {
+            "Kit d'assemblage, cylindre émetteur d'embrayage": {
+              "categoryId": 100079,
+              "categoryName": "Clutch Control",
+              "level": 2,
+              "children": {
+                "Cylindre émetteur": {
+                  "categoryId": null,
+                  "categoryName": "Cylindre émetteur",
+                  "level": 4,
+                  "children": {
+                    "Kit d'assemblage, cylindre émetteur d'embrayage": {
+                      "categoryId": 100061,
+                      "categoryName": "Master Cylinder",
+                      "level": 3,
+                      "children": [],
+                      "productId": 621
+                    }
+                  }
+                }
+              },
+              "productId": 621
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Embrayage / composants [ID: 100050] (Niveau 1)\n    └── Commande d'embrayage (Niveau 2)\n        └── Clutch Control [ID: 100079] (Niveau 2) → ProductId: 621\n            └── Cylindre émetteur (Niveau 4)\n                └── Master Cylinder [ID: 100061] (Niveau 3) → ProductId: 621",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Embrayage / composants",
+        "Commande d'embrayage",
+        "Clutch Control"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100079
+      ],
+      "finalCategoryId": 100079,
+      "productId": 621
+    }
+  ],
+  "productIdsInArbo": [
+    621
+  ],
+  "matchedProductIds": [
+    621
+  ]
+}

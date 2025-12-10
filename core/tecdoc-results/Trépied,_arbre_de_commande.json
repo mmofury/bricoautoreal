@@ -1,0 +1,54 @@
+{
+  "productName": "Trépied, arbre de commande",
+  "searchText": "Trépied, arbre de commande",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:27:36.436Z",
+  "productId": 1147,
+  "arborescence": {
+    "Entraînement des roues": {
+      "categoryId": 100014,
+      "categoryName": "Entraînement des roues",
+      "level": 1,
+      "children": {
+        "Tripode": {
+          "categoryId": null,
+          "categoryName": "Tripode",
+          "level": 2,
+          "children": {
+            "Trépied, arbre de commande": {
+              "categoryId": 100070,
+              "categoryName": "Spider Assembly",
+              "level": 2,
+              "children": [],
+              "productId": 1147
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement des roues [ID: 100014] (Niveau 1)\n    └── Tripode (Niveau 2)\n        └── Spider Assembly [ID: 100070] (Niveau 2) → ProductId: 1147",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des roues",
+        "Tripode",
+        "Spider Assembly"
+      ],
+      "categoryIds": [
+        100014,
+        null,
+        100070
+      ],
+      "finalCategoryId": 100070,
+      "productId": 1147
+    }
+  ],
+  "productIdsInArbo": [
+    1147
+  ],
+  "matchedProductIds": [
+    1147
+  ]
+}

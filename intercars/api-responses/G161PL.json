@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G161PL",
+      "index": "50391157",
+      "tecDoc": "50391157",
+      "tecDocProd": "72",
+      "articleNumber": "50391157",
+      "brand": "HERTH+BUSS ELPARTS",
+      "shortDescription": "Plug",
+      "description": "Wire plug (number of pins: 7, plug shape: rectangular, HDSCS, voltage to 60V, no pins/seals)",
+      "customsCode": "85366990",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_824",
+          "primary": true,
+          "name": {
+            "en": "Plug"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3167",
+          "primary": false,
+          "name": {
+            "en": "Plug housing"
+          }
+        }
+      ]
+    }
+  ]
+}

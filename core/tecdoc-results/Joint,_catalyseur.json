@@ -1,0 +1,54 @@
+{
+  "productName": "Joint, catalyseur",
+  "searchText": "Joint, catalyseur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:55:05.208Z",
+  "productId": 8253,
+  "arborescence": {
+    "Échappement": {
+      "categoryId": 100004,
+      "categoryName": "Échappement",
+      "level": 1,
+      "children": {
+        "Catalyseur": {
+          "categoryId": null,
+          "categoryName": "Catalyseur",
+          "level": 2,
+          "children": {
+            "Joint, catalyseur": {
+              "categoryId": 100047,
+              "categoryName": "Catalytic Converter",
+              "level": 2,
+              "children": [],
+              "productId": 8253
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Échappement [ID: 100004] (Niveau 1)\n    └── Catalyseur (Niveau 2)\n        └── Catalytic Converter [ID: 100047] (Niveau 2) → ProductId: 8253",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Échappement",
+        "Catalyseur",
+        "Catalytic Converter"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100047
+      ],
+      "finalCategoryId": 100047,
+      "productId": 8253
+    }
+  ],
+  "productIdsInArbo": [
+    8253
+  ],
+  "matchedProductIds": [
+    8253
+  ]
+}

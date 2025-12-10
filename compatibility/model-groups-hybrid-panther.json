@@ -1,0 +1,67 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.445Z",
+  "manufacturer": "PANTHER",
+  "countGroups": 4,
+  "groups": [
+    {
+      "manufacturerId": 1531,
+      "manufacturerName": "PANTHER",
+      "groupKey": "J72",
+      "displayName": "J72",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43646,
+          "modelName": "J72 (72)",
+          "modelYearFrom": "1972-01-01",
+          "modelYearTo": "1981-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1531,
+      "manufacturerName": "PANTHER",
+      "groupKey": "KALLISTA",
+      "displayName": "KALLISTA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4317,
+          "modelName": "KALLISTA",
+          "modelYearFrom": "1982-01-01",
+          "modelYearTo": "1993-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1531,
+      "manufacturerName": "PANTHER",
+      "groupKey": "LIMA",
+      "displayName": "LIMA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4318,
+          "modelName": "LIMA",
+          "modelYearFrom": "1976-01-01",
+          "modelYearTo": "1982-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1531,
+      "manufacturerName": "PANTHER",
+      "groupKey": "SOLO",
+      "displayName": "SOLO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4319,
+          "modelName": "SOLO Coupé",
+          "modelYearFrom": "1990-01-01",
+          "modelYearTo": "1990-12-01"
+        }
+      ]
+    }
+  ]
+}

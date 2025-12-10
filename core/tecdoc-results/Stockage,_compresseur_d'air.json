@@ -1,0 +1,54 @@
+{
+  "productName": "Stockage, compresseur d'air",
+  "searchText": "Stockage, compresseur d'air",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:19:02.707Z",
+  "productId": 5498,
+  "arborescence": {
+    "Suspension/Amortissement": {
+      "categoryId": 100011,
+      "categoryName": "Suspension/Amortissement",
+      "level": 1,
+      "children": {
+        "Suspension pneumatique": {
+          "categoryId": null,
+          "categoryName": "Suspension pneumatique",
+          "level": 2,
+          "children": {
+            "Stockage, compresseur d'air": {
+              "categoryId": 101884,
+              "categoryName": "Air Suspension",
+              "level": 2,
+              "children": [],
+              "productId": 5498
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Suspension/Amortissement [ID: 100011] (Niveau 1)\n    └── Suspension pneumatique (Niveau 2)\n        └── Air Suspension [ID: 101884] (Niveau 2) → ProductId: 5498",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Suspension pneumatique",
+        "Air Suspension"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        101884
+      ],
+      "finalCategoryId": 101884,
+      "productId": 5498
+    }
+  ],
+  "productIdsInArbo": [
+    5498
+  ],
+  "matchedProductIds": [
+    5498
+  ]
+}

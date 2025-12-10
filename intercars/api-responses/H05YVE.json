@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H05YVE",
+      "index": "HAZ 1953N-035",
+      "tecDoc": "1953N-035",
+      "tecDocProd": "4808",
+      "articleNumber": "1953N-035",
+      "brand": "HAZET",
+      "shortDescription": "Hammer",
+      "description": "Spanner head, round, width: 35mm, diameter: 35mm, weight: 50g, 2 pcs",
+      "customsCode": "82052000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_5551",
+          "primary": false,
+          "name": {
+            "en": "Hammer Head"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_4705",
+          "primary": true,
+          "name": {
+            "en": "Hammer"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "productName": "Butée hydraulique, embrayage",
+  "searchText": "Butée hydraulique, embrayage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:12:35.636Z",
+  "productId": 47,
+  "arborescence": {
+    "Embrayage / composants": {
+      "categoryId": 100050,
+      "categoryName": "Embrayage / composants",
+      "level": 1,
+      "children": {
+        "Butée d’embrayage/butée hydraulique": {
+          "categoryId": null,
+          "categoryName": "Butée d’embrayage/butée hydraulique",
+          "level": 2,
+          "children": {
+            "Butée hydraulique, embrayage": {
+              "categoryId": 100054,
+              "categoryName": "Clutch Release Bearing/Central Slave Cylinder",
+              "level": 2,
+              "children": {
+                "Débrayage central": {
+                  "categoryId": null,
+                  "categoryName": "Débrayage central",
+                  "level": 4,
+                  "children": {
+                    "Butée hydraulique, embrayage": {
+                      "categoryId": 100237,
+                      "categoryName": "Central Slave Cylinder",
+                      "level": 3,
+                      "children": [],
+                      "productId": 47
+                    }
+                  }
+                }
+              },
+              "productId": 47
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Embrayage / composants [ID: 100050] (Niveau 1)\n    └── Butée d’embrayage/butée hydraulique (Niveau 2)\n        └── Clutch Release Bearing/Central Slave Cylinder [ID: 100054] (Niveau 2) → ProductId: 47\n            └── Débrayage central (Niveau 4)\n                └── Central Slave Cylinder [ID: 100237] (Niveau 3) → ProductId: 47",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Embrayage / composants",
+        "Butée d’embrayage/butée hydraulique",
+        "Clutch Release Bearing/Central Slave Cylinder"
+      ],
+      "categoryIds": [
+        100050,
+        null,
+        100054
+      ],
+      "finalCategoryId": 100054,
+      "productId": 47
+    }
+  ],
+  "productIdsInArbo": [
+    47
+  ],
+  "matchedProductIds": [
+    47
+  ]
+}

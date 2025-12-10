@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "C0EB43",
+      "index": "461 513 001 0",
+      "tecDoc": "4615130010",
+      "tecDocProd": "22",
+      "articleNumber": "4615130010",
+      "brand": "WABCO",
+      "shortDescription": "Multi-way valve",
+      "description": "",
+      "eans": [
+        "00976372340290"
+      ],
+      "packageWeight": "1,460",
+      "packageWidth": "18,500",
+      "packageDepth": "13,000",
+      "packageHeight": "24,000",
+      "customsCode": "84819000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1319",
+          "primary": true,
+          "name": {
+            "en": "Multi-way valve"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_60653",
+          "primary": false,
+          "name": {
+            "en": "Expansion module, pneumatic suspension"
+          }
+        }
+      ]
+    }
+  ]
+}

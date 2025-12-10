@@ -1,0 +1,54 @@
+{
+  "productName": "Transmetteur manuel, verouillage central",
+  "searchText": "Transmetteur manuel, verouillage central",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:27:11.607Z",
+  "productId": 2701,
+  "arborescence": {
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Verrouillage central": {
+          "categoryId": null,
+          "categoryName": "Verrouillage central",
+          "level": 2,
+          "children": {
+            "Transmetteur manuel, verouillage central": {
+              "categoryId": 100617,
+              "categoryName": "Central Locking",
+              "level": 2,
+              "children": [],
+              "productId": 2701
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Systèmes de confort [ID: 100335] (Niveau 1)\n    └── Verrouillage central (Niveau 2)\n        └── Central Locking [ID: 100617] (Niveau 2) → ProductId: 2701",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Systèmes de confort",
+        "Verrouillage central",
+        "Central Locking"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        100617
+      ],
+      "finalCategoryId": 100617,
+      "productId": 2701
+    }
+  ],
+  "productIdsInArbo": [
+    2701
+  ],
+  "matchedProductIds": [
+    2701
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Commutateur de niveau, ind. de niveau du liquide de refroid.",
+  "searchText": "Commutateur de niveau, ind. de niveau du liquide de refroid.",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:23:10.495Z",
+  "productId": 1412,
+  "arborescence": {
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Interrupteur / capteur": {
+          "categoryId": null,
+          "categoryName": "Interrupteur / capteur",
+          "level": 2,
+          "children": {
+            "Commutateur de niveau, ind. de niveau du liquide de refroid.": {
+              "categoryId": 100334,
+              "categoryName": "Switch/Sensor",
+              "level": 2,
+              "children": [],
+              "productId": 1412
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Refroidissement [ID: 100007] (Niveau 1)\n    └── Interrupteur / capteur (Niveau 2)\n        └── Switch/Sensor [ID: 100334] (Niveau 2) → ProductId: 1412",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Refroidissement",
+        "Interrupteur / capteur",
+        "Switch/Sensor"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100334
+      ],
+      "finalCategoryId": 100334,
+      "productId": 1412
+    }
+  ],
+  "productIdsInArbo": [
+    1412
+  ],
+  "matchedProductIds": [
+    1412
+  ]
+}

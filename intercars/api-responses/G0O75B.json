@@ -1,0 +1,43 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G0O75B",
+      "index": "FE171027",
+      "tecDoc": "171027",
+      "tecDocProd": "101",
+      "articleNumber": "171027",
+      "brand": "FEBI",
+      "shortDescription": "Repair Set, propshaft centre bearing",
+      "description": "Propeller shaft support (47mmx73mm, with a bearing) fits: MERCEDES SPRINTER 3,5-T (B906), SPRINTER 3,5-T (B909), SPRINTER 3-T (B906), SPRINTER 4,6-T (B906), SPRINTER 4,6-T (B909) 1.8-3.5 04.06-",
+      "gtuCode": "GTU_07",
+      "customsCode": "87085099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1420",
+          "primary": false,
+          "name": {
+            "en": "Suspension, propshaft"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_2109",
+          "primary": false,
+          "name": {
+            "en": "Bearing, propshaft centre bearing"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_4838",
+          "primary": true,
+          "name": {
+            "en": "Repair Set, propshaft centre bearing"
+          }
+        }
+      ]
+    }
+  ]
+}

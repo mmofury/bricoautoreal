@@ -1,0 +1,69 @@
+{
+  "productName": "Diaphragme, cylindre de frein",
+  "searchText": "Diaphragme, cylindre de frein",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:30:32.961Z",
+  "productId": 1736,
+  "arborescence": {
+    "Système pneumatique": {
+      "categoryId": 103168,
+      "categoryName": "Système pneumatique",
+      "level": 1,
+      "children": {
+        "Cylindres de frein/de travail": {
+          "categoryId": null,
+          "categoryName": "Cylindres de frein/de travail",
+          "level": 2,
+          "children": {
+            "Diaphragme, cylindre de frein": {
+              "categoryId": 103193,
+              "categoryName": "Brake/Slave Cylinder",
+              "level": 2,
+              "children": {
+                "Cylindre de frein à diaphragme": {
+                  "categoryId": null,
+                  "categoryName": "Cylindre de frein à diaphragme",
+                  "level": 4,
+                  "children": {
+                    "Diaphragme, cylindre de frein": {
+                      "categoryId": 103195,
+                      "categoryName": "Diaphragm Brake Cylinder",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1736
+                    }
+                  }
+                }
+              },
+              "productId": 1736
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système pneumatique [ID: 103168] (Niveau 1)\n    └── Cylindres de frein/de travail (Niveau 2)\n        └── Brake/Slave Cylinder [ID: 103193] (Niveau 2) → ProductId: 1736\n            └── Cylindre de frein à diaphragme (Niveau 4)\n                └── Diaphragm Brake Cylinder [ID: 103195] (Niveau 3) → ProductId: 1736",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système pneumatique",
+        "Cylindres de frein/de travail",
+        "Brake/Slave Cylinder"
+      ],
+      "categoryIds": [
+        103168,
+        null,
+        103193
+      ],
+      "finalCategoryId": 103193,
+      "productId": 1736
+    }
+  ],
+  "productIdsInArbo": [
+    1736
+  ],
+  "matchedProductIds": [
+    1736
+  ]
+}

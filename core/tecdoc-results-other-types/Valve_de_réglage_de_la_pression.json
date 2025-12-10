@@ -1,0 +1,87 @@
+{
+  "productName": "Valve de réglage de la pression",
+  "productId": 1314,
+  "searchText": "Valve de réglage de la pression",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Système pneumatique": {
+          "categoryId": 200059,
+          "categoryName": "Système pneumatique",
+          "level": 1,
+          "children": {
+            "Soupapes / Système d'air comprimé": {
+              "categoryId": null,
+              "categoryName": "Soupapes / Système d'air comprimé",
+              "level": 2,
+              "children": {
+                "Kit de réparation, valve de commande de la pression": {
+                  "categoryId": 200115,
+                  "categoryName": "Valves/compressed-air system",
+                  "level": 2,
+                  "children": {
+                    "Kits de réparation": {
+                      "categoryId": null,
+                      "categoryName": "Kits de réparation",
+                      "level": 4,
+                      "children": {
+                        "Kit de réparation, valve de commande de la pression": {
+                          "categoryId": 202883,
+                          "categoryName": "Repair Kits",
+                          "level": 3,
+                          "children": [],
+                          "productId": 4026
+                        }
+                      }
+                    }
+                  },
+                  "productId": 4026
+                },
+                "Valve de réglage de la pression": {
+                  "categoryId": 200115,
+                  "categoryName": "Valves/compressed-air system",
+                  "level": 2,
+                  "children": {
+                    "Soupapes diverses": {
+                      "categoryId": null,
+                      "categoryName": "Soupapes diverses",
+                      "level": 4,
+                      "children": {
+                        "Valve de réglage de la pression": {
+                          "categoryId": 200916,
+                          "categoryName": "Other Valves",
+                          "level": 3,
+                          "children": [],
+                          "productId": 1314
+                        }
+                      }
+                    }
+                  },
+                  "productId": 1314
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système pneumatique [ID: 200059] (Niveau 1)\n    └── Soupapes / Système d'air comprimé (Niveau 2)\n        ├── Valves/compressed-air system [ID: 200115] (Niveau 2) → ProductId: 4026\n        │   └── Kits de réparation (Niveau 4)\n        │       └── Repair Kits [ID: 202883] (Niveau 3) → ProductId: 4026\n        └── Valves/compressed-air system [ID: 200115] (Niveau 2) → ProductId: 1314\n            └── Soupapes diverses (Niveau 4)\n                └── Other Valves [ID: 200916] (Niveau 3) → ProductId: 1314",
+      "productIdsInArbo": [
+        1314,
+        4026
+      ],
+      "matchedProductIds": [
+        1314
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:45:08.857Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

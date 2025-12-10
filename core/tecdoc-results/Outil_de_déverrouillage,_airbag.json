@@ -1,0 +1,54 @@
+{
+  "productName": "Outil de déverrouillage, airbag",
+  "searchText": "Outil de déverrouillage, airbag",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:17:41.463Z",
+  "productId": 4495,
+  "arborescence": {
+    "Systèmes de sécurité": {
+      "categoryId": 100417,
+      "categoryName": "Systèmes de sécurité",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Outil de déverrouillage, airbag": {
+              "categoryId": 103141,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4495
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Systèmes de sécurité [ID: 100417] (Niveau 1)\n    └── Outils (Niveau 2)\n        └── Tools [ID: 103141] (Niveau 2) → ProductId: 4495",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Systèmes de sécurité",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100417,
+        null,
+        103141
+      ],
+      "finalCategoryId": 103141,
+      "productId": 4495
+    }
+  ],
+  "productIdsInArbo": [
+    4495
+  ],
+  "matchedProductIds": [
+    4495
+  ]
+}

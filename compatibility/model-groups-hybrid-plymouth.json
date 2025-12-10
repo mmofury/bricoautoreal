@@ -1,0 +1,883 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.449Z",
+  "manufacturer": "PLYMOUTH",
+  "countGroups": 40,
+  "groups": [
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "ACCLAIM",
+      "displayName": "ACCLAIM",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6674,
+          "modelName": "ACCLAIM",
+          "modelYearFrom": "1988-09-01",
+          "modelYearTo": "1995-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "ARROW",
+      "displayName": "ARROW",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33397,
+          "modelName": "ARROW Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1975-09-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 33398,
+          "modelName": "ARROW Standard Cab Pickup",
+          "modelYearFrom": "1978-09-01",
+          "modelYearTo": "1982-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "BARRACUDA",
+      "displayName": "BARRACUDA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33399,
+          "modelName": "BARRACUDA Coupé",
+          "modelYearFrom": "1963-09-01",
+          "modelYearTo": "1974-12-01"
+        },
+        {
+          "modelId": 37682,
+          "modelName": "BARRACUDA Décapotable",
+          "modelYearFrom": "1963-09-01",
+          "modelYearTo": "1974-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "BELVEDERE",
+      "displayName": "BELVEDERE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33400,
+          "modelName": "BELVEDERE A trois volumes",
+          "modelYearFrom": "1952-09-01",
+          "modelYearTo": "1970-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "BREEZE",
+      "displayName": "BREEZE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4858,
+          "modelName": "BREEZE",
+          "modelYearFrom": "1995-12-01",
+          "modelYearTo": "2001-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "CARAVELLE",
+      "displayName": "CARAVELLE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10411,
+          "modelName": "CARAVELLE A trois volumes",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1984-12-01"
+        },
+        {
+          "modelId": 14106,
+          "modelName": "CARAVELLE A trois volumes",
+          "modelYearFrom": "1982-09-01",
+          "modelYearTo": "1989-12-01"
+        },
+        {
+          "modelId": 35907,
+          "modelName": "CARAVELLE Coupé",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1981-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "CHAMP",
+      "displayName": "CHAMP",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33405,
+          "modelName": "CHAMP Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1978-09-01",
+          "modelYearTo": "1982-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "COLT",
+      "displayName": "COLT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10412,
+          "modelName": "COLT A trois volumes",
+          "modelYearFrom": "1988-09-01",
+          "modelYearTo": "1992-12-01"
+        },
+        {
+          "modelId": 11833,
+          "modelName": "COLT Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1988-09-01",
+          "modelYearTo": "1992-12-01"
+        },
+        {
+          "modelId": 33406,
+          "modelName": "COLT A trois volumes",
+          "modelYearFrom": "1975-09-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 33407,
+          "modelName": "COLT Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1984-12-01"
+        },
+        {
+          "modelId": 33409,
+          "modelName": "COLT Break",
+          "modelYearFrom": "1983-09-01",
+          "modelYearTo": "1988-12-01"
+        },
+        {
+          "modelId": 35375,
+          "modelName": "COLT Break",
+          "modelYearFrom": "1992-09-01",
+          "modelYearTo": "1994-12-01"
+        },
+        {
+          "modelId": 35376,
+          "modelName": "COLT Break",
+          "modelYearFrom": "1988-09-01",
+          "modelYearTo": "1992-12-01"
+        },
+        {
+          "modelId": 35377,
+          "modelName": "COLT A trois volumes",
+          "modelYearFrom": "1976-09-01",
+          "modelYearTo": "1979-12-01"
+        },
+        {
+          "modelId": 35378,
+          "modelName": "COLT A trois volumes",
+          "modelYearFrom": "1978-09-01",
+          "modelYearTo": "1984-12-01"
+        },
+        {
+          "modelId": 35379,
+          "modelName": "COLT A trois volumes",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1988-12-01"
+        },
+        {
+          "modelId": 35381,
+          "modelName": "COLT A trois volumes",
+          "modelYearFrom": "1992-09-01",
+          "modelYearTo": "1994-12-01"
+        },
+        {
+          "modelId": 35382,
+          "modelName": "COLT Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1988-12-01"
+        },
+        {
+          "modelId": 35909,
+          "modelName": "COLT Coupé",
+          "modelYearFrom": "1994-09-01",
+          "modelYearTo": "1995-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "CONQUEST",
+      "displayName": "CONQUEST",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33411,
+          "modelName": "CONQUEST Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1983-09-01",
+          "modelYearTo": "1986-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "CUSTOM",
+      "displayName": "CUSTOM",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33415,
+          "modelName": "CUSTOM A trois volumes",
+          "modelYearFrom": "1957-09-01",
+          "modelYearTo": "1961-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "DELUXE",
+      "displayName": "DELUXE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33416,
+          "modelName": "DELUXE A trois volumes",
+          "modelYearFrom": "1936-09-01",
+          "modelYearTo": "1950-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "DUSTER",
+      "displayName": "DUSTER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33420,
+          "modelName": "DUSTER Coupé",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1976-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "EXPO",
+      "displayName": "EXPO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36516,
+          "modelName": "EXPO",
+          "modelYearFrom": "1986-09-01",
+          "modelYearTo": "1989-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "FURY",
+      "displayName": "FURY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33423,
+          "modelName": "FURY A trois volumes",
+          "modelYearFrom": "1955-09-01",
+          "modelYearTo": "1974-12-01"
+        },
+        {
+          "modelId": 33424,
+          "modelName": "FURY Coupé",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1975-12-01"
+        },
+        {
+          "modelId": 33425,
+          "modelName": "FURY Hardtop",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1978-12-01"
+        },
+        {
+          "modelId": 33426,
+          "modelName": "FURY A trois volumes",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1978-12-01"
+        },
+        {
+          "modelId": 33427,
+          "modelName": "FURY Break",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1978-12-01"
+        },
+        {
+          "modelId": 33428,
+          "modelName": "FURY I A trois volumes",
+          "modelYearFrom": "1967-09-01",
+          "modelYearTo": "1974-12-01"
+        },
+        {
+          "modelId": 33429,
+          "modelName": "FURY II A trois volumes",
+          "modelYearFrom": "1967-09-01",
+          "modelYearTo": "1974-12-01"
+        },
+        {
+          "modelId": 33430,
+          "modelName": "FURY III A trois volumes",
+          "modelYearFrom": "1967-09-01",
+          "modelYearTo": "1974-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "GRAN",
+      "displayName": "GRAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33431,
+          "modelName": "GRAN FURY A trois volumes",
+          "modelYearFrom": "1971-09-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 33432,
+          "modelName": "GRAN FURY Coupé",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1976-12-01"
+        },
+        {
+          "modelId": 33433,
+          "modelName": "GRAN FURY Hardtop",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 33434,
+          "modelName": "GRAN FURY A trois volumes",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1981-12-01"
+        },
+        {
+          "modelId": 33435,
+          "modelName": "GRAN FURY Break",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 35383,
+          "modelName": "GRAN FURY A trois volumes",
+          "modelYearFrom": "1982-09-01",
+          "modelYearTo": "1989-12-01"
+        },
+        {
+          "modelId": 35384,
+          "modelName": "GRAN FURY Hardtop",
+          "modelYearFrom": "1979-09-01",
+          "modelYearTo": "1982-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "HORIZON",
+      "displayName": "HORIZON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33438,
+          "modelName": "HORIZON Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1990-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "LASER",
+      "displayName": "LASER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33439,
+          "modelName": "LASER Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1989-09-01",
+          "modelYearTo": "1994-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "NEON",
+      "displayName": "NEON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4850,
+          "modelName": "NEON A trois volumes",
+          "modelYearFrom": "1994-05-01",
+          "modelYearTo": "1999-08-01"
+        },
+        {
+          "modelId": 4856,
+          "modelName": "NEON II A trois volumes",
+          "modelYearFrom": "1999-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 6675,
+          "modelName": "NEON Coupé",
+          "modelYearFrom": "1994-10-01",
+          "modelYearTo": "1999-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "PB100",
+      "displayName": "PB100",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 35812,
+          "modelName": "PB100 Standard Passenger Van",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1980-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "PB150",
+      "displayName": "PB150",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33464,
+          "modelName": "PB150 Standard Passenger Van",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1983-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "PB200",
+      "displayName": "PB200",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33466,
+          "modelName": "PB200 Standard Passenger Van",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 35388,
+          "modelName": "PB200 Extended Passenger Van",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 35389,
+          "modelName": "PB200 Standard Passenger Van",
+          "modelYearFrom": "1978-09-01",
+          "modelYearTo": "1980-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "PB250",
+      "displayName": "PB250",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33468,
+          "modelName": "PB250 Extended Passenger Van",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1983-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "PB300",
+      "displayName": "PB300",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 35390,
+          "modelName": "PB300 Extended Passenger Van",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 35391,
+          "modelName": "PB300 Standard Passenger Van",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1980-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "PB350",
+      "displayName": "PB350",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33473,
+          "modelName": "PB350 Extended Passenger Van",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1983-12-01"
+        },
+        {
+          "modelId": 36514,
+          "modelName": "PB350 Standard Passenger Van",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1983-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "PLAZA",
+      "displayName": "PLAZA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33475,
+          "modelName": "PLAZA A trois volumes",
+          "modelYearFrom": "1953-09-01",
+          "modelYearTo": "1958-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "PROWLER",
+      "displayName": "PROWLER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33476,
+          "modelName": "PROWLER Décapotable",
+          "modelYearFrom": "1996-09-01",
+          "modelYearTo": "2001-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "RELIANT",
+      "displayName": "RELIANT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33477,
+          "modelName": "RELIANT A trois volumes",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1989-12-01"
+        },
+        {
+          "modelId": 33478,
+          "modelName": "RELIANT Break",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1989-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "ROADRUNNER",
+      "displayName": "ROADRUNNER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33481,
+          "modelName": "ROADRUNNER Hardtop",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1975-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "SAPPORO",
+      "displayName": "SAPPORO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33482,
+          "modelName": "SAPPORO Coupé",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1983-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "SATELLITE",
+      "displayName": "SATELLITE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33483,
+          "modelName": "SATELLITE A trois volumes",
+          "modelYearFrom": "1964-09-01",
+          "modelYearTo": "1974-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "SAVOY",
+      "displayName": "SAVOY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33484,
+          "modelName": "SAVOY A trois volumes",
+          "modelYearFrom": "1952-09-01",
+          "modelYearTo": "1964-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "SCAMP",
+      "displayName": "SCAMP",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33485,
+          "modelName": "SCAMP A trois volumes",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1974-12-01"
+        },
+        {
+          "modelId": 33486,
+          "modelName": "SCAMP Hardtop",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1976-12-01"
+        },
+        {
+          "modelId": 33487,
+          "modelName": "SCAMP Standard Cab Pickup",
+          "modelYearFrom": "1982-09-01",
+          "modelYearTo": "1983-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "SUBURBAN",
+      "displayName": "SUBURBAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33491,
+          "modelName": "SUBURBAN A trois volumes",
+          "modelYearFrom": "1948-09-01",
+          "modelYearTo": "1961-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "SUNDANCE",
+      "displayName": "SUNDANCE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6676,
+          "modelName": "SUNDANCE Coupé",
+          "modelYearFrom": "1986-03-01",
+          "modelYearTo": "1994-09-01"
+        },
+        {
+          "modelId": 6677,
+          "modelName": "SUNDANCE A trois volumes",
+          "modelYearFrom": "1986-03-01",
+          "modelYearTo": "1994-09-01"
+        },
+        {
+          "modelId": 33493,
+          "modelName": "SUNDANCE Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1986-09-01",
+          "modelYearTo": "1994-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "TC3",
+      "displayName": "TC3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14681,
+          "modelName": "TC3",
+          "modelYearFrom": "1978-09-01",
+          "modelYearTo": "1982-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "TRAILDUSTER",
+      "displayName": "TRAILDUSTER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33496,
+          "modelName": "TRAILDUSTER Véhicule tout terrain fermé",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1981-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "TURISMO",
+      "displayName": "TURISMO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36139,
+          "modelName": "TURISMO Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1982-09-01",
+          "modelYearTo": "1987-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "VALIANT",
+      "displayName": "VALIANT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33498,
+          "modelName": "VALIANT A trois volumes",
+          "modelYearFrom": "1959-09-01",
+          "modelYearTo": "1974-12-01"
+        },
+        {
+          "modelId": 33499,
+          "modelName": "VALIANT Coupé",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1975-12-01"
+        },
+        {
+          "modelId": 33500,
+          "modelName": "VALIANT A trois volumes",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1976-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "VOLARE",
+      "displayName": "VOLARE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33502,
+          "modelName": "VOLARE Coupé",
+          "modelYearFrom": "1975-09-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 33503,
+          "modelName": "VOLARE A trois volumes",
+          "modelYearFrom": "1975-09-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 33504,
+          "modelName": "VOLARE Break",
+          "modelYearFrom": "1975-09-01",
+          "modelYearTo": "1980-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 850,
+      "manufacturerName": "PLYMOUTH",
+      "groupKey": "VOYAGER",
+      "displayName": "VOYAGER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4863,
+          "modelName": "VOYAGER / GRAND VOYAGER",
+          "modelYearFrom": "1995-01-01",
+          "modelYearTo": "2001-03-01"
+        },
+        {
+          "modelId": 6678,
+          "modelName": "VOYAGER / GRAND VOYAGER",
+          "modelYearFrom": "1983-09-01",
+          "modelYearTo": "1990-09-01"
+        },
+        {
+          "modelId": 35385,
+          "modelName": "VOYAGER / GRAND VOYAGER",
+          "modelYearFrom": "1989-09-01",
+          "modelYearTo": "1995-12-01"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "productName": "Régulateur d'alternateur",
+  "searchText": "Régulateur d'alternateur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:13:40.560Z",
+  "productId": 288,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Alternateur / composants": {
+          "categoryId": null,
+          "categoryName": "Alternateur / composants",
+          "level": 2,
+          "children": {
+            "Jeu de boulons/vis, Régulateur d'alternateur": {
+              "categoryId": 100041,
+              "categoryName": "Alternator/Parts",
+              "level": 2,
+              "children": {
+                "Régulateur": {
+                  "categoryId": null,
+                  "categoryName": "Régulateur",
+                  "level": 4,
+                  "children": {
+                    "Jeu de boulons/vis, Régulateur d'alternateur": {
+                      "categoryId": 100351,
+                      "categoryName": "Regulator",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4969
+                    }
+                  }
+                }
+              },
+              "productId": 4969
+            },
+            "Kit réparation de câble, régulateur d’alternateur": {
+              "categoryId": 100041,
+              "categoryName": "Alternator/Parts",
+              "level": 2,
+              "children": {
+                "Régulateur": {
+                  "categoryId": null,
+                  "categoryName": "Régulateur",
+                  "level": 4,
+                  "children": {
+                    "Kit réparation de câble, régulateur d’alternateur": {
+                      "categoryId": 100351,
+                      "categoryName": "Regulator",
+                      "level": 3,
+                      "children": [],
+                      "productId": 9033
+                    }
+                  }
+                }
+              },
+              "productId": 9033
+            },
+            "Régulateur d'alternateur": {
+              "categoryId": 100041,
+              "categoryName": "Alternator/Parts",
+              "level": 2,
+              "children": {
+                "Régulateur": {
+                  "categoryId": null,
+                  "categoryName": "Régulateur",
+                  "level": 4,
+                  "children": {
+                    "Régulateur d'alternateur": {
+                      "categoryId": 100351,
+                      "categoryName": "Regulator",
+                      "level": 3,
+                      "children": [],
+                      "productId": 288
+                    }
+                  }
+                }
+              },
+              "productId": 288
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Alternateur / composants (Niveau 2)\n        ├── Alternator/Parts [ID: 100041] (Niveau 2) → ProductId: 4969\n        │   └── Régulateur (Niveau 4)\n        │       └── Regulator [ID: 100351] (Niveau 3) → ProductId: 4969\n        ├── Alternator/Parts [ID: 100041] (Niveau 2) → ProductId: 9033\n        │   └── Régulateur (Niveau 4)\n        │       └── Regulator [ID: 100351] (Niveau 3) → ProductId: 9033\n        └── Alternator/Parts [ID: 100041] (Niveau 2) → ProductId: 288\n            └── Régulateur (Niveau 4)\n                └── Regulator [ID: 100351] (Niveau 3) → ProductId: 288",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Alternateur / composants",
+        "Alternator/Parts"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100041
+      ],
+      "finalCategoryId": 100041,
+      "productId": 4969
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Alternateur / composants",
+        "Alternator/Parts"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100041
+      ],
+      "finalCategoryId": 100041,
+      "productId": 9033
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Alternateur / composants",
+        "Alternator/Parts"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100041
+      ],
+      "finalCategoryId": 100041,
+      "productId": 288
+    }
+  ],
+  "productIdsInArbo": [
+    288,
+    4969,
+    9033
+  ],
+  "matchedProductIds": [
+    288
+  ]
+}

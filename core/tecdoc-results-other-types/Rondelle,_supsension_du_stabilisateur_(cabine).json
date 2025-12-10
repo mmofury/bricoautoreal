@@ -1,0 +1,49 @@
+{
+  "productName": "Rondelle, supsension du stabilisateur (cabine)",
+  "productId": 3629,
+  "searchText": "Rondelle, supsension du stabilisateur (cabine)",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Cabine du conducteur/carrosserie": {
+          "categoryId": 200022,
+          "categoryName": "Cabine du conducteur/carrosserie",
+          "level": 1,
+          "children": {
+            "Suspension / Amortissement de la cabine": {
+              "categoryId": null,
+              "categoryName": "Suspension / Amortissement de la cabine",
+              "level": 2,
+              "children": {
+                "Rondelle, supsension du stabilisateur (cabine)": {
+                  "categoryId": 200826,
+                  "categoryName": "Driver Cab Suspension",
+                  "level": 2,
+                  "children": [],
+                  "productId": 3629
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Cabine du conducteur/carrosserie [ID: 200022] (Niveau 1)\n    └── Suspension / Amortissement de la cabine (Niveau 2)\n        └── Driver Cab Suspension [ID: 200826] (Niveau 2) → ProductId: 3629",
+      "productIdsInArbo": [
+        3629
+      ],
+      "matchedProductIds": [
+        3629
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:26:04.104Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

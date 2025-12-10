@@ -1,0 +1,103 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.228Z",
+  "manufacturer": "CUPRA",
+  "countGroups": 6,
+  "groups": [
+    {
+      "manufacturerId": 4896,
+      "manufacturerName": "CUPRA",
+      "groupKey": "ATECA",
+      "displayName": "ATECA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39032,
+          "modelName": "ATECA (KH7, KHP, KBP)",
+          "modelYearFrom": "2018-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4896,
+      "manufacturerName": "CUPRA",
+      "groupKey": "BORN",
+      "displayName": "BORN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42143,
+          "modelName": "BORN (K11)",
+          "modelYearFrom": "2021-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4896,
+      "manufacturerName": "CUPRA",
+      "groupKey": "FORMENTOR",
+      "displayName": "FORMENTOR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41283,
+          "modelName": "FORMENTOR (KM7, KMP)",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4896,
+      "manufacturerName": "CUPRA",
+      "groupKey": "LEON",
+      "displayName": "LEON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41359,
+          "modelName": "LEON (KL1, KU1, KUG)",
+          "modelYearFrom": "2020-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41360,
+          "modelName": "LEON Sportstourer (KL8, KU8, KUD)",
+          "modelYearFrom": "2020-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4896,
+      "manufacturerName": "CUPRA",
+      "groupKey": "TAVASCAN",
+      "displayName": "TAVASCAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44880,
+          "modelName": "TAVASCAN (KR1)",
+          "modelYearFrom": "2024-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4896,
+      "manufacturerName": "CUPRA",
+      "groupKey": "TERRAMAR",
+      "displayName": "TERRAMAR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 90066,
+          "modelName": "TERRAMAR (KP1)",
+          "modelYearFrom": "2024-11-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

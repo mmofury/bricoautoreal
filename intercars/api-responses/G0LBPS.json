@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G0LBPS",
+      "index": "7.78135",
+      "tecDoc": "7.78135",
+      "tecDocProd": "355",
+      "articleNumber": "7.78135",
+      "brand": "DT SPARE PARTS",
+      "shortDescription": "Switch, fog light",
+      "description": "Light switch fog fits: IVECO DAILY III 05.99-07.07",
+      "eans": [
+        "4047755185664"
+      ],
+      "packageWeight": "0,021",
+      "packageWidth": "5,200",
+      "packageDepth": "5,200",
+      "packageHeight": "7,200",
+      "customsCode": "85365019",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_810",
+          "primary": true,
+          "name": {
+            "en": "Switch, fog light"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3430",
+          "primary": false,
+          "name": {
+            "en": "Switch, rear fog light"
+          }
+        }
+      ]
+    }
+  ]
+}

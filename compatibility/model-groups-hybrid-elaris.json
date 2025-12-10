@@ -1,0 +1,97 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.251Z",
+  "manufacturer": "ELARIS",
+  "countGroups": 6,
+  "groups": [
+    {
+      "manufacturerId": 6177,
+      "manufacturerName": "ELARIS",
+      "groupKey": "BEO",
+      "displayName": "BEO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42499,
+          "modelName": "BEO",
+          "modelYearFrom": "2021-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6177,
+      "manufacturerName": "ELARIS",
+      "groupKey": "CARO",
+      "displayName": "CARO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45134,
+          "modelName": "CARO Fourgon",
+          "modelYearFrom": "2022-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6177,
+      "manufacturerName": "ELARIS",
+      "groupKey": "DYO",
+      "displayName": "DYO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44081,
+          "modelName": "DYO",
+          "modelYearFrom": "2023-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6177,
+      "manufacturerName": "ELARIS",
+      "groupKey": "FINN",
+      "displayName": "FINN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41901,
+          "modelName": "FINN",
+          "modelYearFrom": "2020-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6177,
+      "manufacturerName": "ELARIS",
+      "groupKey": "LEO",
+      "displayName": "LEO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41906,
+          "modelName": "LEO",
+          "modelYearFrom": "2020-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6177,
+      "manufacturerName": "ELARIS",
+      "groupKey": "PIO",
+      "displayName": "PIO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42655,
+          "modelName": "PIO",
+          "modelYearFrom": "2021-07-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

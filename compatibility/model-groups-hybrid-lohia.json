@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.392Z",
+  "manufacturer": "LOHIA",
+  "countGroups": 1,
+  "groups": [
+    {
+      "manufacturerId": 5550,
+      "manufacturerName": "LOHIA",
+      "groupKey": "HUMSAFAR",
+      "displayName": "HUMSAFAR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40620,
+          "modelName": "HUMSAFAR Threewheeler Convertible",
+          "modelYearFrom": "2017-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40621,
+          "modelName": "HUMSAFAR Threewheeler Platform chassis",
+          "modelYearFrom": "2017-01-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H000QC",
+      "index": "FE184981",
+      "tecDoc": "184981",
+      "tecDocProd": "101",
+      "articleNumber": "184981",
+      "brand": "FEBI",
+      "shortDescription": "Cable Repair Set, auxiliary water pump",
+      "description": "Harness wire (320mm) fits: SEAT ALHAMBRA, SKODA OCTAVIA II, SUPERB II, YETI, VW CADDY ALLTRACK IV, CADDY ALLTRACK IV/MINIVAN, CADDY III, CADDY III/MINIVAN, CADDY IV 1.0-3.6 02.03-04.24",
+      "customsCode": "85443000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4321",
+          "primary": false,
+          "name": {
+            "en": "Repair Kit, cable set"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_9300",
+          "primary": true,
+          "name": {
+            "en": "Cable Repair Set, auxiliary water pump"
+          }
+        }
+      ]
+    }
+  ]
+}

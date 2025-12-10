@@ -1,0 +1,209 @@
+{
+  "productName": "Écrou d'essieu",
+  "searchText": "Écrou d'essieu",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-03T07:37:42.018Z",
+  "productId": 3290,
+  "arborescence": {
+    "Entraînement des essieux": {
+      "categoryId": 100400,
+      "categoryName": "Entraînement des essieux",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Douille pour écrou d'essieu": {
+              "categoryId": 104405,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 5790
+            },
+            "Kit de douilles pour écrou d'essieu": {
+              "categoryId": 104405,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 7330
+            }
+          }
+        }
+      }
+    },
+    "Entraînement des roues": {
+      "categoryId": 100014,
+      "categoryName": "Entraînement des roues",
+      "level": 1,
+      "children": {
+        "Pièces de fixation / accessoires": {
+          "categoryId": null,
+          "categoryName": "Pièces de fixation / accessoires",
+          "level": 2,
+          "children": {
+            "Écrou d'essieu, arbre d'essieu": {
+              "categoryId": 100066,
+              "categoryName": "Assembly Parts",
+              "level": 2,
+              "children": [],
+              "productId": 1590
+            }
+          }
+        }
+      }
+    },
+    "Outils spéciaux": {
+      "categoryId": 706365,
+      "categoryName": "Outils spéciaux",
+      "level": 1,
+      "children": {
+        "Outils spéciaux entraînement d’essieu": {
+          "categoryId": null,
+          "categoryName": "Outils spéciaux entraînement d’essieu",
+          "level": 2,
+          "children": {
+            "Douille pour écrou d'essieu": {
+              "categoryId": 706376,
+              "categoryName": "Special Tools, axle drive",
+              "level": 2,
+              "children": {
+                "Écrou d’essieu": {
+                  "categoryId": null,
+                  "categoryName": "Écrou d’essieu",
+                  "level": 4,
+                  "children": {
+                    "Douille pour écrou d'essieu": {
+                      "categoryId": 706377,
+                      "categoryName": "Axle Nut",
+                      "level": 3,
+                      "children": [],
+                      "productId": 5790
+                    }
+                  }
+                }
+              },
+              "productId": 5790
+            },
+            "Kit de douilles pour écrou d'essieu": {
+              "categoryId": 706376,
+              "categoryName": "Special Tools, axle drive",
+              "level": 2,
+              "children": {
+                "Écrou d’essieu": {
+                  "categoryId": null,
+                  "categoryName": "Écrou d’essieu",
+                  "level": 4,
+                  "children": {
+                    "Kit de douilles pour écrou d'essieu": {
+                      "categoryId": 706377,
+                      "categoryName": "Axle Nut",
+                      "level": 3,
+                      "children": [],
+                      "productId": 7330
+                    }
+                  }
+                }
+              },
+              "productId": 7330
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Entraînement des essieux [ID: 100400] (Niveau 1)\n│   └── Outils (Niveau 2)\n│       ├── Tools [ID: 104405] (Niveau 2) → ProductId: 5790\n│       └── Tools [ID: 104405] (Niveau 2) → ProductId: 7330\n\n├── Entraînement des roues [ID: 100014] (Niveau 1)\n│   └── Pièces de fixation / accessoires (Niveau 2)\n│       └── Assembly Parts [ID: 100066] (Niveau 2) → ProductId: 1590\n\n└── Outils spéciaux [ID: 706365] (Niveau 1)\n    └── Outils spéciaux entraînement d’essieu (Niveau 2)\n        ├── Special Tools, axle drive [ID: 706376] (Niveau 2) → ProductId: 5790\n        │   └── Écrou d’essieu (Niveau 4)\n        │       └── Axle Nut [ID: 706377] (Niveau 3) → ProductId: 5790\n        └── Special Tools, axle drive [ID: 706376] (Niveau 2) → ProductId: 7330\n            └── Écrou d’essieu (Niveau 4)\n                └── Axle Nut [ID: 706377] (Niveau 3) → ProductId: 7330",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des essieux",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100400,
+        null,
+        104405
+      ],
+      "finalCategoryId": 104405,
+      "productId": 5790
+    },
+    {
+      "path": [
+        "Entraînement des essieux",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100400,
+        null,
+        104405
+      ],
+      "finalCategoryId": 104405,
+      "productId": 7330
+    },
+    {
+      "path": [
+        "Entraînement des roues",
+        "Pièces de fixation / accessoires",
+        "Assembly Parts"
+      ],
+      "categoryIds": [
+        100014,
+        null,
+        100066
+      ],
+      "finalCategoryId": 100066,
+      "productId": 1590
+    },
+    {
+      "path": [
+        "Outils spéciaux",
+        "Outils spéciaux entraînement d’essieu",
+        "Special Tools, axle drive"
+      ],
+      "categoryIds": [
+        706365,
+        null,
+        706376
+      ],
+      "finalCategoryId": 706376,
+      "productId": 5790
+    },
+    {
+      "path": [
+        "Outils spéciaux",
+        "Outils spéciaux entraînement d’essieu",
+        "Special Tools, axle drive"
+      ],
+      "categoryIds": [
+        706365,
+        null,
+        706376
+      ],
+      "finalCategoryId": 706376,
+      "productId": 7330
+    }
+  ],
+  "productIdsInArbo": [
+    1590,
+    5790,
+    7330
+  ],
+  "closestProductIds": [
+    {
+      "productId": 1590,
+      "productName": "Écrou d'essieu, arbre d'essieu"
+    },
+    {
+      "productId": 5790,
+      "productName": "Douille pour écrou d'essieu"
+    },
+    {
+      "productId": 7330,
+      "productName": "Kit de douilles pour écrou d'essieu"
+    }
+  ]
+}

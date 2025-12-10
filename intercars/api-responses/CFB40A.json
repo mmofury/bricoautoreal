@@ -1,0 +1,43 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "CFB40A",
+      "index": "FE39957",
+      "tecDoc": "39957",
+      "tecDocProd": "101",
+      "articleNumber": "39957",
+      "brand": "FEBI",
+      "shortDescription": "Change-Over Valve, differential lock",
+      "description": "Gear shifting, outer fits: VOLVO FH, FH II, FH III, FH12, FH16, FH16 II, FM, FM II, FM III, FM12, FM9, FMX, FMX II, FMX III, NH12 08.93-",
+      "gtuCode": "GTU_07",
+      "eans": [
+        "4027816399575"
+      ],
+      "packageWeight": "0,280",
+      "packageWidth": "9,000",
+      "packageDepth": "9,000",
+      "packageHeight": "6,000",
+      "customsCode": "87084099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3556",
+          "primary": true,
+          "name": {
+            "en": "Change-Over Valve, differential lock"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3635",
+          "primary": false,
+          "name": {
+            "en": "Solenoid Valve, shift cylinder"
+          }
+        }
+      ]
+    }
+  ]
+}

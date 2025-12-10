@@ -1,0 +1,139 @@
+{
+  "productName": "Kit de filtres à air",
+  "searchText": "Kit de filtres à air",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:00:11.936Z",
+  "productId": 8174,
+  "arborescence": {
+    "Filtre": {
+      "categoryId": 100005,
+      "categoryName": "Filtre",
+      "level": 1,
+      "children": {
+        "Filtre à air": {
+          "categoryId": null,
+          "categoryName": "Filtre à air",
+          "level": 2,
+          "children": {
+            "Kit de filtres à air": {
+              "categoryId": 100260,
+              "categoryName": "Air Filter",
+              "level": 2,
+              "children": [],
+              "productId": 8174
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Alimentation en air": {
+          "categoryId": null,
+          "categoryName": "Alimentation en air",
+          "level": 2,
+          "children": {
+            "Kit de filtres à air": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Filtre à air / carter": {
+                  "categoryId": null,
+                  "categoryName": "Filtre à air / carter",
+                  "level": 4,
+                  "children": {
+                    "Kit de filtres à air": {
+                      "categoryId": 100384,
+                      "categoryName": "Air Filter/ Housing",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8174
+                    }
+                  }
+                }
+              },
+              "productId": 8174
+            }
+          }
+        }
+      }
+    },
+    "Pièces de maintenance": {
+      "categoryId": 100019,
+      "categoryName": "Pièces de maintenance",
+      "level": 1,
+      "children": {
+        "Intervalle": {
+          "categoryId": null,
+          "categoryName": "Intervalle",
+          "level": 2,
+          "children": {
+            "Kit de filtres à air": {
+              "categoryId": 100597,
+              "categoryName": "Service Intervals",
+              "level": 2,
+              "children": [],
+              "productId": 8174
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Filtre [ID: 100005] (Niveau 1)\n│   └── Filtre à air (Niveau 2)\n│       └── Air Filter [ID: 100260] (Niveau 2) → ProductId: 8174\n\n├── Moteur [ID: 100002] (Niveau 1)\n│   └── Alimentation en air (Niveau 2)\n│       └── Air Supply [ID: 100383] (Niveau 2) → ProductId: 8174\n│           └── Filtre à air / carter (Niveau 4)\n│               └── Air Filter/ Housing [ID: 100384] (Niveau 3) → ProductId: 8174\n\n└── Pièces de maintenance [ID: 100019] (Niveau 1)\n    └── Intervalle (Niveau 2)\n        └── Service Intervals [ID: 100597] (Niveau 2) → ProductId: 8174",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Filtre",
+        "Filtre à air",
+        "Air Filter"
+      ],
+      "categoryIds": [
+        100005,
+        null,
+        100260
+      ],
+      "finalCategoryId": 100260,
+      "productId": 8174
+    },
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 8174
+    },
+    {
+      "path": [
+        "Pièces de maintenance",
+        "Intervalle",
+        "Service Intervals"
+      ],
+      "categoryIds": [
+        100019,
+        null,
+        100597
+      ],
+      "finalCategoryId": 100597,
+      "productId": 8174
+    }
+  ],
+  "productIdsInArbo": [
+    8174
+  ],
+  "matchedProductIds": [
+    8174
+  ]
+}

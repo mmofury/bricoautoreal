@@ -1,0 +1,1438 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.523Z",
+  "manufacturer": "VAUXHALL",
+  "countGroups": 51,
+  "groups": [
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "ADAM",
+      "displayName": "ADAM",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10640,
+          "modelName": "ADAM (M13)",
+          "modelYearFrom": "2012-10-01",
+          "modelYearTo": "2019-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "AGILA",
+      "displayName": "AGILA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4633,
+          "modelName": "AGILA Mk I (A) (H00)",
+          "modelYearFrom": "2000-02-01",
+          "modelYearTo": "2008-03-01"
+        },
+        {
+          "modelId": 7542,
+          "modelName": "AGILA Mk II (B) (H08)",
+          "modelYearFrom": "2008-01-01",
+          "modelYearTo": "2014-11-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "AMPERA",
+      "displayName": "AMPERA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9551,
+          "modelName": "AMPERA (R12)",
+          "modelYearFrom": "2012-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "ANTARA",
+      "displayName": "ANTARA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5624,
+          "modelName": "ANTARA A (L07)",
+          "modelYearFrom": "2006-08-01",
+          "modelYearTo": "2015-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "ARENA",
+      "displayName": "ARENA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3415,
+          "modelName": "ARENA Van (A97)",
+          "modelYearFrom": "1997-01-01",
+          "modelYearTo": "2001-08-01"
+        },
+        {
+          "modelId": 4763,
+          "modelName": "ARENA Combi (A97)",
+          "modelYearFrom": "1997-01-01",
+          "modelYearTo": "2001-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "ASTRA",
+      "displayName": "ASTRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1518,
+          "modelName": "ASTRA Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1979-09-01",
+          "modelYearTo": "1986-08-01"
+        },
+        {
+          "modelId": 1519,
+          "modelName": "ASTRA Break",
+          "modelYearFrom": "1979-09-01",
+          "modelYearTo": "1986-08-01"
+        },
+        {
+          "modelId": 1520,
+          "modelName": "ASTRA Mk II Berline bicorps trois ou cinq portes (T85)",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1991-08-01"
+        },
+        {
+          "modelId": 1521,
+          "modelName": "ASTRA Mk III (F) Berline bicorps trois ou cinq portes (T92)",
+          "modelYearFrom": "1991-09-01",
+          "modelYearTo": "1998-02-01"
+        },
+        {
+          "modelId": 1522,
+          "modelName": "ASTRA Mk III (F) Break (T92)",
+          "modelYearFrom": "1991-03-01",
+          "modelYearTo": "1998-12-01"
+        },
+        {
+          "modelId": 1523,
+          "modelName": "ASTRA Mk II Belmont (T85)",
+          "modelYearFrom": "1985-09-01",
+          "modelYearTo": "1991-12-01"
+        },
+        {
+          "modelId": 3486,
+          "modelName": "ASTRA Mk II Break (T85)",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1991-08-01"
+        },
+        {
+          "modelId": 3976,
+          "modelName": "ASTRA Mk IV (G) Berline bicorps trois ou cinq portes (T98)",
+          "modelYearFrom": "1998-02-01",
+          "modelYearTo": "2005-05-01"
+        },
+        {
+          "modelId": 3977,
+          "modelName": "ASTRA Mk IV (G) A trois volumes (T98)",
+          "modelYearFrom": "1998-02-01",
+          "modelYearTo": "2005-05-01"
+        },
+        {
+          "modelId": 3978,
+          "modelName": "ASTRA Mk IV (G) Break (T98)",
+          "modelYearFrom": "1998-02-01",
+          "modelYearTo": "2005-05-01"
+        },
+        {
+          "modelId": 3979,
+          "modelName": "ASTRA Mk III (F) A trois volumes (T92)",
+          "modelYearFrom": "1991-09-01",
+          "modelYearTo": "1998-09-01"
+        },
+        {
+          "modelId": 3980,
+          "modelName": "ASTRA Mk III (F) Décapotable (T92)",
+          "modelYearFrom": "1991-09-01",
+          "modelYearTo": "2001-03-01"
+        },
+        {
+          "modelId": 4204,
+          "modelName": "ASTRA Mk IV (G) Coupé (T98)",
+          "modelYearFrom": "2000-03-01",
+          "modelYearTo": "2005-08-01"
+        },
+        {
+          "modelId": 4400,
+          "modelName": "ASTRA Mk II Décapotable (T85)",
+          "modelYearFrom": "1987-01-01",
+          "modelYearTo": "1993-09-01"
+        },
+        {
+          "modelId": 4798,
+          "modelName": "ASTRA Mk IV (G) Décapotable (T98)",
+          "modelYearFrom": "2001-03-01",
+          "modelYearTo": "2005-10-01"
+        },
+        {
+          "modelId": 5148,
+          "modelName": "ASTRA Mk V (H) (A04)",
+          "modelYearFrom": "2004-01-01",
+          "modelYearTo": "2011-03-01"
+        },
+        {
+          "modelId": 5475,
+          "modelName": "ASTRA Mk V (H) Break (A04)",
+          "modelYearFrom": "2004-08-01",
+          "modelYearTo": "2012-10-01"
+        },
+        {
+          "modelId": 5519,
+          "modelName": "ASTRA Mk V (H) TwinTop (A04)",
+          "modelYearFrom": "2005-09-01",
+          "modelYearTo": "2011-08-01"
+        },
+        {
+          "modelId": 5531,
+          "modelName": "ASTRA Mk V (H) Sport Hatch (A04)",
+          "modelYearFrom": "2005-02-01",
+          "modelYearTo": "2010-11-01"
+        },
+        {
+          "modelId": 7668,
+          "modelName": "ASTRA",
+          "modelYearFrom": "1979-10-01",
+          "modelYearTo": "1984-08-01"
+        },
+        {
+          "modelId": 8301,
+          "modelName": "ASTRA Mk VI (J) (P10)",
+          "modelYearFrom": "2009-12-01",
+          "modelYearTo": "2015-10-01"
+        },
+        {
+          "modelId": 9036,
+          "modelName": "ASTRA Mk VI (J) Break (P10)",
+          "modelYearFrom": "2010-10-01",
+          "modelYearTo": "2015-10-01"
+        },
+        {
+          "modelId": 9709,
+          "modelName": "ASTRA Mk VI (J) GTC (P10)",
+          "modelYearFrom": "2011-10-01",
+          "modelYearTo": "2018-10-01"
+        },
+        {
+          "modelId": 14526,
+          "modelName": "ASTRA Mk VII (K) (B16)",
+          "modelYearFrom": "2015-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14895,
+          "modelName": "ASTRA Mk VII (K) Break (B16)",
+          "modelYearFrom": "2015-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42685,
+          "modelName": "ASTRA Mk VIII (L)",
+          "modelYearFrom": "2021-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42686,
+          "modelName": "ASTRA Mk VIII (L) Sports Tourer",
+          "modelYearFrom": "2021-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "ASTRAMAX",
+      "displayName": "ASTRAMAX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4439,
+          "modelName": "ASTRAMAX (T85)",
+          "modelYearFrom": "1985-08-01",
+          "modelYearTo": "1994-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "ASTRAVAN",
+      "displayName": "ASTRAVAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4440,
+          "modelName": "ASTRAVAN Mk III (F) Fourgon/Break (T92)",
+          "modelYearFrom": "1991-01-01",
+          "modelYearTo": "1998-08-01"
+        },
+        {
+          "modelId": 4441,
+          "modelName": "ASTRAVAN Mk IV (G) Fourgon/Break (T98)",
+          "modelYearFrom": "1993-01-01",
+          "modelYearTo": "2006-08-01"
+        },
+        {
+          "modelId": 7600,
+          "modelName": "ASTRAVAN Mk V (H) Fourgon/Break (A04)",
+          "modelYearFrom": "2005-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "BRAVA",
+      "displayName": "BRAVA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1524,
+          "modelName": "BRAVA Pick-up (TF0, TF1)",
+          "modelYearFrom": "1988-12-01",
+          "modelYearTo": "2002-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "CALIBRA",
+      "displayName": "CALIBRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1525,
+          "modelName": "CALIBRA (C89)",
+          "modelYearFrom": "1990-06-01",
+          "modelYearTo": "1997-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "CARLTON",
+      "displayName": "CARLTON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1526,
+          "modelName": "CARLTON Mk II A trois volumes",
+          "modelYearFrom": "1978-10-01",
+          "modelYearTo": "1986-08-01"
+        },
+        {
+          "modelId": 1527,
+          "modelName": "CARLTON Mk II Break",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1986-08-01"
+        },
+        {
+          "modelId": 1528,
+          "modelName": "CARLTON Mk III A trois volumes (V87)",
+          "modelYearFrom": "1986-09-01",
+          "modelYearTo": "1994-03-01"
+        },
+        {
+          "modelId": 1529,
+          "modelName": "CARLTON Mk III Break (V87)",
+          "modelYearFrom": "1986-09-01",
+          "modelYearTo": "1994-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "CASCADA",
+      "displayName": "CASCADA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10971,
+          "modelName": "CASCADA Décapotable (W13)",
+          "modelYearFrom": "2013-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "CAVALIER",
+      "displayName": "CAVALIER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1530,
+          "modelName": "CAVALIER",
+          "modelYearFrom": "1975-03-01",
+          "modelYearTo": "1981-08-01"
+        },
+        {
+          "modelId": 1531,
+          "modelName": "CAVALIER Mk II A trois volumes (J82)",
+          "modelYearFrom": "1981-09-01",
+          "modelYearTo": "1988-08-01"
+        },
+        {
+          "modelId": 1532,
+          "modelName": "CAVALIER Mk III A trois volumes (J89)",
+          "modelYearFrom": "1988-08-01",
+          "modelYearTo": "1995-11-01"
+        },
+        {
+          "modelId": 1533,
+          "modelName": "CAVALIER Coupé",
+          "modelYearFrom": "1975-08-01",
+          "modelYearTo": "1981-08-01"
+        },
+        {
+          "modelId": 1534,
+          "modelName": "CAVALIER Mk II Break (J82)",
+          "modelYearFrom": "1981-09-01",
+          "modelYearTo": "1988-08-01"
+        },
+        {
+          "modelId": 2030,
+          "modelName": "CAVALIER Mk II Berline bicorps trois ou cinq portes (J82)",
+          "modelYearFrom": "1981-09-01",
+          "modelYearTo": "1988-08-01"
+        },
+        {
+          "modelId": 2031,
+          "modelName": "CAVALIER Mk III Berline bicorps trois ou cinq portes (J89)",
+          "modelYearFrom": "1988-09-01",
+          "modelYearTo": "1995-11-01"
+        },
+        {
+          "modelId": 4412,
+          "modelName": "CAVALIER CC",
+          "modelYearFrom": "1975-03-01",
+          "modelYearTo": "1981-08-01"
+        },
+        {
+          "modelId": 4426,
+          "modelName": "CAVALIER Mk II Décapotable (J82)",
+          "modelYearFrom": "1984-08-01",
+          "modelYearTo": "1988-10-01"
+        },
+        {
+          "modelId": 7545,
+          "modelName": "CAVALIER A trois volumes",
+          "modelYearFrom": "1975-08-01",
+          "modelYearTo": "1981-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "CHEVETTE",
+      "displayName": "CHEVETTE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1535,
+          "modelName": "CHEVETTE Break",
+          "modelYearFrom": "1975-03-01",
+          "modelYearTo": "1985-12-01"
+        },
+        {
+          "modelId": 1942,
+          "modelName": "CHEVETTE Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1975-03-01",
+          "modelYearTo": "1985-12-01"
+        },
+        {
+          "modelId": 3949,
+          "modelName": "CHEVETTE A trois volumes",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1985-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "COMBO",
+      "displayName": "COMBO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1938,
+          "modelName": "COMBO Mk I (B) (S93)",
+          "modelYearFrom": "1994-07-01",
+          "modelYearTo": "2001-10-01"
+        },
+        {
+          "modelId": 4819,
+          "modelName": "COMBO Mk II (C) Camionnette/Monospace (F25)",
+          "modelYearFrom": "2001-09-01",
+          "modelYearTo": "2012-02-01"
+        },
+        {
+          "modelId": 9743,
+          "modelName": "COMBO Mk III (D) Camionnette/Monospace (X12)",
+          "modelYearFrom": "2011-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10202,
+          "modelName": "COMBO TOUR Mk II (C) (F25)",
+          "modelYearFrom": "2001-09-01",
+          "modelYearTo": "2012-02-01"
+        },
+        {
+          "modelId": 38891,
+          "modelName": "COMBO Mk IV (E) Life (K9)",
+          "modelYearFrom": "2018-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39441,
+          "modelName": "COMBO Mk IV (E) Camionnette/Monospace (K9)",
+          "modelYearFrom": "2018-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "CORSA",
+      "displayName": "CORSA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1929,
+          "modelName": "CORSA Mk I (B) (S93)",
+          "modelYearFrom": "1992-12-01",
+          "modelYearTo": "2000-09-01"
+        },
+        {
+          "modelId": 4658,
+          "modelName": "CORSA Mk II (C) (X01)",
+          "modelYearFrom": "2000-08-01",
+          "modelYearTo": "2007-04-01"
+        },
+        {
+          "modelId": 6413,
+          "modelName": "CORSA Mk III (D) (S07)",
+          "modelYearFrom": "2006-07-01",
+          "modelYearTo": "2014-08-01"
+        },
+        {
+          "modelId": 13083,
+          "modelName": "CORSA Mk IV (E) (X15)",
+          "modelYearFrom": "2014-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40189,
+          "modelName": "CORSA Mk V (F)",
+          "modelYearFrom": "2019-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "CORSAVAN",
+      "displayName": "CORSAVAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4445,
+          "modelName": "CORSAVAN Mk I (B) Camionnette/Berline bicorps trois ou cinq",
+          "modelYearFrom": "1994-01-01",
+          "modelYearTo": "2000-09-01"
+        },
+        {
+          "modelId": 4815,
+          "modelName": "CORSAVAN Mk II (C) Camionnette/Berline bicorps trois ou cinq",
+          "modelYearFrom": "2000-09-01",
+          "modelYearTo": "2006-11-01"
+        },
+        {
+          "modelId": 8759,
+          "modelName": "CORSAVAN Mk III (D) Camionnette/Berline bicorps trois ou cin",
+          "modelYearFrom": "2006-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13559,
+          "modelName": "CORSAVAN Mk IV (E) Camionnette/Berline bicorps trois ou cinq",
+          "modelYearFrom": "2014-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "CRESTA",
+      "displayName": "CRESTA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4427,
+          "modelName": "CRESTA A trois volumes",
+          "modelYearFrom": "1964-01-01",
+          "modelYearTo": "1972-10-01"
+        },
+        {
+          "modelId": 4428,
+          "modelName": "CRESTA Break",
+          "modelYearFrom": "1964-01-01",
+          "modelYearTo": "1972-10-01"
+        },
+        {
+          "modelId": 37716,
+          "modelName": "CRESTA A trois volumes (PB)",
+          "modelYearFrom": "1962-08-01",
+          "modelYearTo": "1965-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "CROSSLAND",
+      "displayName": "CROSSLAND",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37779,
+          "modelName": "CROSSLAND X / CROSSLAND (P17)",
+          "modelYearFrom": "2017-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "FIRENZA",
+      "displayName": "FIRENZA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4420,
+          "modelName": "FIRENZA Coupé",
+          "modelYearFrom": "1971-01-01",
+          "modelYearTo": "1978-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "FRONTERA",
+      "displayName": "FRONTERA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1935,
+          "modelName": "FRONTERA Mk I (A) Sport (U92)",
+          "modelYearFrom": "1992-03-01",
+          "modelYearTo": "1998-10-01"
+        },
+        {
+          "modelId": 1936,
+          "modelName": "FRONTERA Mk I (A) (U92)",
+          "modelYearFrom": "1991-09-01",
+          "modelYearTo": "1998-10-01"
+        },
+        {
+          "modelId": 3947,
+          "modelName": "FRONTERA Mk II (B) (U99)",
+          "modelYearFrom": "1998-10-01",
+          "modelYearTo": "2004-10-01"
+        },
+        {
+          "modelId": 46199,
+          "modelName": "FRONTERA (OV24)",
+          "modelYearFrom": "2024-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "GRANDLAND",
+      "displayName": "GRANDLAND",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38108,
+          "modelName": "GRANDLAND X / GRANDLAND (A18)",
+          "modelYearFrom": "2017-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 46051,
+          "modelName": "GRANDLAND (OV64)",
+          "modelYearFrom": "2024-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "INSIGNIA",
+      "displayName": "INSIGNIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7599,
+          "modelName": "INSIGNIA Mk I (A) A trois volumes (G09)",
+          "modelYearFrom": "2008-07-01",
+          "modelYearTo": "2017-05-01"
+        },
+        {
+          "modelId": 7862,
+          "modelName": "INSIGNIA Mk I (A) Berline bicorps trois ou cinq portes (G09)",
+          "modelYearFrom": "2008-07-01",
+          "modelYearTo": "2017-05-01"
+        },
+        {
+          "modelId": 7863,
+          "modelName": "INSIGNIA Mk I (A) Sports Tourer (G09)",
+          "modelYearFrom": "2008-07-01",
+          "modelYearTo": "2017-05-01"
+        },
+        {
+          "modelId": 37812,
+          "modelName": "INSIGNIA Mk II (B) Berline bicorps trois ou cinq portes (Z18",
+          "modelYearFrom": "2017-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37813,
+          "modelName": "INSIGNIA Mk II (B) Sports Tourer (Z18)",
+          "modelYearFrom": "2017-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38230,
+          "modelName": "INSIGNIA Mk I (A) Country Tourer (G09)",
+          "modelYearFrom": "2008-07-01",
+          "modelYearTo": "2017-05-01"
+        },
+        {
+          "modelId": 38231,
+          "modelName": "INSIGNIA Mk II (B) Country Tourer (Z18)",
+          "modelYearFrom": "2017-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "MAGNUM",
+      "displayName": "MAGNUM",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1537,
+          "modelName": "MAGNUM A trois volumes",
+          "modelYearFrom": "1973-01-01",
+          "modelYearTo": "1981-01-01"
+        },
+        {
+          "modelId": 1538,
+          "modelName": "MAGNUM Break",
+          "modelYearFrom": "1973-01-01",
+          "modelYearTo": "1981-01-01"
+        },
+        {
+          "modelId": 4429,
+          "modelName": "MAGNUM Coupé",
+          "modelYearFrom": "1973-01-01",
+          "modelYearTo": "1978-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "MERIVA",
+      "displayName": "MERIVA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5008,
+          "modelName": "MERIVA A (X03)",
+          "modelYearFrom": "2003-01-01",
+          "modelYearTo": "2010-06-01"
+        },
+        {
+          "modelId": 8754,
+          "modelName": "MERIVA Mk II (B) (S10)",
+          "modelYearFrom": "2010-06-01",
+          "modelYearTo": "2017-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "MIDI",
+      "displayName": "MIDI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5155,
+          "modelName": "MIDI Autobus/Autocar (MID)",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1988-06-01"
+        },
+        {
+          "modelId": 5156,
+          "modelName": "MIDI II Autobus/Autocar (MID)",
+          "modelYearFrom": "1988-06-01",
+          "modelYearTo": "1997-08-01"
+        },
+        {
+          "modelId": 13595,
+          "modelName": "MIDI Fourgon (MID)",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1997-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "MOKKA",
+      "displayName": "MOKKA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10325,
+          "modelName": "MOKKA / MOKKA X (J13)",
+          "modelYearFrom": "2012-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40943,
+          "modelName": "MOKKA",
+          "modelYearFrom": "2020-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "MONARO",
+      "displayName": "MONARO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7543,
+          "modelName": "MONARO (VY, VZ)",
+          "modelYearFrom": "2004-01-01",
+          "modelYearTo": "2007-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "MONTEREY",
+      "displayName": "MONTEREY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1937,
+          "modelName": "MONTEREY (M92)",
+          "modelYearFrom": "1991-09-01",
+          "modelYearTo": "1998-07-01"
+        },
+        {
+          "modelId": 3948,
+          "modelName": "MONTEREY Mk II (M98)",
+          "modelYearFrom": "1998-07-01",
+          "modelYearTo": "1999-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "MOVANO",
+      "displayName": "MOVANO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4442,
+          "modelName": "MOVANO Mk I (A) Van (X70)",
+          "modelYearFrom": "1998-10-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 4592,
+          "modelName": "MOVANO Mk I (A) Combi (X70)",
+          "modelYearFrom": "1998-10-01",
+          "modelYearTo": "2010-05-01"
+        },
+        {
+          "modelId": 4593,
+          "modelName": "MOVANO Mk I (A) Chassis/Cab (X70)",
+          "modelYearFrom": "1998-10-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 8760,
+          "modelName": "MOVANO Mk II (B) VAN (X62)",
+          "modelYearFrom": "2010-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 8976,
+          "modelName": "MOVANO Mk II (B) Chassis/Cab (X62)",
+          "modelYearFrom": "2010-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 9597,
+          "modelName": "MOVANO Mk II (B) Combi (X62)",
+          "modelYearFrom": "2010-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42630,
+          "modelName": "MOVANO Mk III (C) VAN (U9)",
+          "modelYearFrom": "2021-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42631,
+          "modelName": "MOVANO Mk III (C) Chassis/Cab (U9)",
+          "modelYearFrom": "2021-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "NOVA",
+      "displayName": "NOVA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1536,
+          "modelName": "NOVA Berline bicorps trois ou cinq portes (S83)",
+          "modelYearFrom": "1983-05-01",
+          "modelYearTo": "1993-03-01"
+        },
+        {
+          "modelId": 1928,
+          "modelName": "NOVA A trois volumes (S83)",
+          "modelYearFrom": "1982-09-01",
+          "modelYearTo": "1993-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "NOVAVAN",
+      "displayName": "NOVAVAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4444,
+          "modelName": "NOVAVAN Camionnette/Berline bicorps trois ou cinq portes (S8",
+          "modelYearFrom": "1990-01-01",
+          "modelYearTo": "1994-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "OMEGA",
+      "displayName": "OMEGA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1930,
+          "modelName": "OMEGA (B) A trois volumes (V94)",
+          "modelYearFrom": "1993-12-01",
+          "modelYearTo": "2003-07-01"
+        },
+        {
+          "modelId": 1931,
+          "modelName": "OMEGA (B) Break (V94)",
+          "modelYearFrom": "1993-12-01",
+          "modelYearTo": "2003-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "RASCAL",
+      "displayName": "RASCAL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7642,
+          "modelName": "RASCAL Autobus/Autocar (RAS)",
+          "modelYearFrom": "1986-07-01",
+          "modelYearTo": "1993-08-01"
+        },
+        {
+          "modelId": 7886,
+          "modelName": "RASCAL Camion plate-forme/Châssis (RAS)",
+          "modelYearFrom": "1986-07-01",
+          "modelYearTo": "1993-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "ROYALE",
+      "displayName": "ROYALE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1933,
+          "modelName": "ROYALE",
+          "modelYearFrom": "1978-02-01",
+          "modelYearTo": "1987-08-01"
+        },
+        {
+          "modelId": 2032,
+          "modelName": "ROYALE Coupé",
+          "modelYearFrom": "1978-02-01",
+          "modelYearTo": "1986-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "SENATOR",
+      "displayName": "SENATOR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1932,
+          "modelName": "SENATOR Mk II (B) (V88)",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "1993-09-01"
+        },
+        {
+          "modelId": 4411,
+          "modelName": "SENATOR",
+          "modelYearFrom": "1978-02-01",
+          "modelYearTo": "1987-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "SIGNUM",
+      "displayName": "SIGNUM",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5006,
+          "modelName": "SIGNUM (Z03)",
+          "modelYearFrom": "2003-03-01",
+          "modelYearTo": "2008-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "SINTRA",
+      "displayName": "SINTRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3384,
+          "modelName": "SINTRA (APV)",
+          "modelYearFrom": "1996-09-01",
+          "modelYearTo": "1999-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "TIGRA",
+      "displayName": "TIGRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1934,
+          "modelName": "TIGRA Mk I (S93)",
+          "modelYearFrom": "1994-07-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 5154,
+          "modelName": "TIGRA TwinTop (X04)",
+          "modelYearFrom": "2004-06-01",
+          "modelYearTo": "2009-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "VECTRA",
+      "displayName": "VECTRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3381,
+          "modelName": "VECTRA (B) A trois volumes (J96)",
+          "modelYearFrom": "1995-08-01",
+          "modelYearTo": "2002-03-01"
+        },
+        {
+          "modelId": 3382,
+          "modelName": "VECTRA (B) Berline bicorps trois ou cinq portes (J96)",
+          "modelYearFrom": "1995-08-01",
+          "modelYearTo": "2003-07-01"
+        },
+        {
+          "modelId": 3383,
+          "modelName": "VECTRA (B) Break (J96)",
+          "modelYearFrom": "1995-08-01",
+          "modelYearTo": "2002-03-01"
+        },
+        {
+          "modelId": 4872,
+          "modelName": "VECTRA Mk II (C) (Z02)",
+          "modelYearFrom": "2000-01-01",
+          "modelYearTo": "2008-10-01"
+        },
+        {
+          "modelId": 4873,
+          "modelName": "VECTRA Mk II (C) GTS (Z02)",
+          "modelYearFrom": "2002-08-01",
+          "modelYearTo": "2009-05-01"
+        },
+        {
+          "modelId": 5152,
+          "modelName": "VECTRA Mk II (C) Break (Z02)",
+          "modelYearFrom": "2003-10-01",
+          "modelYearTo": "2009-05-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "VELOX",
+      "displayName": "VELOX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4430,
+          "modelName": "VELOX A trois volumes (PB)",
+          "modelYearFrom": "1964-03-01",
+          "modelYearTo": "1972-10-01"
+        },
+        {
+          "modelId": 4431,
+          "modelName": "VELOX Break (PB)",
+          "modelYearFrom": "1964-03-01",
+          "modelYearTo": "1972-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "VENTORA",
+      "displayName": "VENTORA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4432,
+          "modelName": "VENTORA A trois volumes",
+          "modelYearFrom": "1968-03-01",
+          "modelYearTo": "1976-10-01"
+        },
+        {
+          "modelId": 37717,
+          "modelName": "VENTORA Break",
+          "modelYearFrom": "1971-07-01",
+          "modelYearTo": "1976-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "VICEROY",
+      "displayName": "VICEROY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4433,
+          "modelName": "VICEROY A trois volumes",
+          "modelYearFrom": "1980-01-01",
+          "modelYearTo": "1982-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "VICTOR",
+      "displayName": "VICTOR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4434,
+          "modelName": "VICTOR",
+          "modelYearFrom": "1967-01-01",
+          "modelYearTo": "1976-10-01"
+        },
+        {
+          "modelId": 4435,
+          "modelName": "VICTOR Break",
+          "modelYearFrom": "1968-03-01",
+          "modelYearTo": "1976-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "VISCOUNT",
+      "displayName": "VISCOUNT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4436,
+          "modelName": "VISCOUNT",
+          "modelYearFrom": "1966-01-01",
+          "modelYearTo": "1972-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "VIVA",
+      "displayName": "VIVA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4421,
+          "modelName": "VIVA",
+          "modelYearFrom": "1963-01-01",
+          "modelYearTo": "1979-10-01"
+        },
+        {
+          "modelId": 4422,
+          "modelName": "VIVA Break",
+          "modelYearFrom": "1965-01-01",
+          "modelYearTo": "1979-10-01"
+        },
+        {
+          "modelId": 4423,
+          "modelName": "VIVA Coupé",
+          "modelYearFrom": "1966-09-01",
+          "modelYearTo": "1975-10-01"
+        },
+        {
+          "modelId": 13820,
+          "modelName": "VIVA (C16)",
+          "modelYearFrom": "2015-01-01",
+          "modelYearTo": "2019-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "VIVARO",
+      "displayName": "VIVARO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4761,
+          "modelName": "VIVARO A Autobus/Autocar (X83)",
+          "modelYearFrom": "2001-08-01",
+          "modelYearTo": "2014-07-01"
+        },
+        {
+          "modelId": 4762,
+          "modelName": "VIVARO A Fourgon (X83)",
+          "modelYearFrom": "2001-08-01",
+          "modelYearTo": "2014-07-01"
+        },
+        {
+          "modelId": 7526,
+          "modelName": "VIVARO A Camion plate-forme/Châssis (X83)",
+          "modelYearFrom": "2003-04-01",
+          "modelYearTo": "2014-07-01"
+        },
+        {
+          "modelId": 12809,
+          "modelName": "VIVARO B Fourgon (X82)",
+          "modelYearFrom": "2014-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 12810,
+          "modelName": "VIVARO B Autobus/Autocar (X82)",
+          "modelYearFrom": "2014-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 12811,
+          "modelName": "VIVARO B Camion plate-forme/Châssis (X82)",
+          "modelYearFrom": "2014-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39825,
+          "modelName": "VIVARO LIFE Autobus/Autocar (K0)",
+          "modelYearFrom": "2019-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39893,
+          "modelName": "VIVARO C Fourgon (K0)",
+          "modelYearFrom": "2019-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39895,
+          "modelName": "VIVARO C Platform Cabin (K0)",
+          "modelYearFrom": "2019-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "VX",
+      "displayName": "VX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4424,
+          "modelName": "VX A trois volumes",
+          "modelYearFrom": "1969-01-01",
+          "modelYearTo": "1978-10-01"
+        },
+        {
+          "modelId": 4425,
+          "modelName": "VX Break",
+          "modelYearFrom": "1976-01-01",
+          "modelYearTo": "1978-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "VX220",
+      "displayName": "VX220",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4679,
+          "modelName": "VX220 Décapotable (E01)",
+          "modelYearFrom": "2000-09-01",
+          "modelYearTo": "2005-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "VXR8",
+      "displayName": "VXR8",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7544,
+          "modelName": "VXR8 A trois volumes (E)",
+          "modelYearFrom": "2007-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10525,
+          "modelName": "VXR8 MALOO (E)",
+          "modelYearFrom": "2008-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 117,
+      "manufacturerName": "VAUXHALL",
+      "groupKey": "ZAFIRA",
+      "displayName": "ZAFIRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4192,
+          "modelName": "ZAFIRA A (T98)",
+          "modelYearFrom": "1998-11-01",
+          "modelYearTo": "2005-08-01"
+        },
+        {
+          "modelId": 5518,
+          "modelName": "ZAFIRA Mk II (B) (A05)",
+          "modelYearFrom": "2005-04-01",
+          "modelYearTo": "2014-11-01"
+        },
+        {
+          "modelId": 9738,
+          "modelName": "ZAFIRA Mk III (P12)",
+          "modelYearFrom": "2011-10-01",
+          "modelYearTo": "2018-08-01"
+        }
+      ]
+    }
+  ]
+}

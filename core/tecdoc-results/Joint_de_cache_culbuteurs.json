@@ -1,0 +1,112 @@
+{
+  "productName": "Joint de cache culbuteurs",
+  "searchText": "Joint de cache culbuteurs",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:51:50.323Z",
+  "productId": 321,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Culasse / pieces de montage": {
+          "categoryId": null,
+          "categoryName": "Culasse / pieces de montage",
+          "level": 2,
+          "children": {
+            "Joint de cache culbuteurs": {
+              "categoryId": 100373,
+              "categoryName": "Cylinder Head/Attachment Parts",
+              "level": 2,
+              "children": {
+                "Cache-soupape": {
+                  "categoryId": null,
+                  "categoryName": "Cache-soupape",
+                  "level": 4,
+                  "children": {
+                    "Joint de cache culbuteurs": {
+                      "categoryId": 100375,
+                      "categoryName": "Cylinder Head Cover/-Gasket",
+                      "level": 3,
+                      "children": [],
+                      "productId": 321
+                    }
+                  }
+                }
+              },
+              "productId": 321
+            }
+          }
+        },
+        "Joints": {
+          "categoryId": null,
+          "categoryName": "Joints",
+          "level": 2,
+          "children": {
+            "Joint de cache culbuteurs": {
+              "categoryId": 100223,
+              "categoryName": "Gaskets",
+              "level": 2,
+              "children": {
+                "Cache-soupape": {
+                  "categoryId": null,
+                  "categoryName": "Cache-soupape",
+                  "level": 4,
+                  "children": {
+                    "Joint de cache culbuteurs": {
+                      "categoryId": 100227,
+                      "categoryName": "Valve Cover Gasket",
+                      "level": 3,
+                      "children": [],
+                      "productId": 321
+                    }
+                  }
+                }
+              },
+              "productId": 321
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    ├── Culasse / pieces de montage (Niveau 2)\n    │   └── Cylinder Head/Attachment Parts [ID: 100373] (Niveau 2) → ProductId: 321\n    │       └── Cache-soupape (Niveau 4)\n    │           └── Cylinder Head Cover/-Gasket [ID: 100375] (Niveau 3) → ProductId: 321\n    └── Joints (Niveau 2)\n        └── Gaskets [ID: 100223] (Niveau 2) → ProductId: 321\n            └── Cache-soupape (Niveau 4)\n                └── Valve Cover Gasket [ID: 100227] (Niveau 3) → ProductId: 321",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Culasse / pieces de montage",
+        "Cylinder Head/Attachment Parts"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100373
+      ],
+      "finalCategoryId": 100373,
+      "productId": 321
+    },
+    {
+      "path": [
+        "Moteur",
+        "Joints",
+        "Gaskets"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100223
+      ],
+      "finalCategoryId": 100223,
+      "productId": 321
+    }
+  ],
+  "productIdsInArbo": [
+    321
+  ],
+  "matchedProductIds": [
+    321
+  ]
+}

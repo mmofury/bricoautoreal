@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.196Z",
+  "manufacturer": "BRILLIANCE XINRI",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 6541,
+      "manufacturerName": "BRILLIANCE XINRI",
+      "groupKey": "I03",
+      "displayName": "I03",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42909,
+          "modelName": "i03",
+          "modelYearFrom": "2021-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6541,
+      "manufacturerName": "BRILLIANCE XINRI",
+      "groupKey": "I03A",
+      "displayName": "I03A",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42908,
+          "modelName": "i03A",
+          "modelYearFrom": "2021-06-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

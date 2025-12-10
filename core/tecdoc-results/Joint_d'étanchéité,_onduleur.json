@@ -1,0 +1,54 @@
+{
+  "productName": "Joint d'étanchéité, onduleur",
+  "searchText": "Joint d'étanchéité, onduleur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:53:03.274Z",
+  "productId": 60664,
+  "arborescence": {
+    "Entraînement hybride/électrique": {
+      "categoryId": 706209,
+      "categoryName": "Entraînement hybride/électrique",
+      "level": 1,
+      "children": {
+        "Onduleur": {
+          "categoryId": null,
+          "categoryName": "Onduleur",
+          "level": 2,
+          "children": {
+            "Joint d'étanchéité, onduleur": {
+              "categoryId": 706566,
+              "categoryName": "Inverter",
+              "level": 2,
+              "children": [],
+              "productId": 60664
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement hybride/électrique [ID: 706209] (Niveau 1)\n    └── Onduleur (Niveau 2)\n        └── Inverter [ID: 706566] (Niveau 2) → ProductId: 60664",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement hybride/électrique",
+        "Onduleur",
+        "Inverter"
+      ],
+      "categoryIds": [
+        706209,
+        null,
+        706566
+      ],
+      "finalCategoryId": 706566,
+      "productId": 60664
+    }
+  ],
+  "productIdsInArbo": [
+    60664
+  ],
+  "matchedProductIds": [
+    60664
+  ]
+}

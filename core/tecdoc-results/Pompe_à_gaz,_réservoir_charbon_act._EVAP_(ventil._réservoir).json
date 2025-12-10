@@ -1,0 +1,54 @@
+{
+  "productName": "Pompe à gaz, réservoir charbon act. EVAP (ventil. réservoir)",
+  "searchText": "Pompe à gaz, réservoir charbon act. EVAP (ventil. réservoir)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:01:55.201Z",
+  "productId": 60134,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Système AKF": {
+          "categoryId": null,
+          "categoryName": "Système AKF",
+          "level": 2,
+          "children": {
+            "Pompe à gaz, réservoir charbon act. EVAP (ventil. réservoir)": {
+              "categoryId": 706089,
+              "categoryName": "AKF System",
+              "level": 2,
+              "children": [],
+              "productId": 60134
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Alimentation carburant [ID: 100214] (Niveau 1)\n    └── Système AKF (Niveau 2)\n        └── AKF System [ID: 706089] (Niveau 2) → ProductId: 60134",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Système AKF",
+        "AKF System"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        706089
+      ],
+      "finalCategoryId": 706089,
+      "productId": 60134
+    }
+  ],
+  "productIdsInArbo": [
+    60134
+  ],
+  "matchedProductIds": [
+    60134
+  ]
+}

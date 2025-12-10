@@ -1,0 +1,54 @@
+{
+  "productName": "Douille entretoise, arbre de transmission à cardans",
+  "searchText": "Douille entretoise, arbre de transmission à cardans",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:33:41.937Z",
+  "productId": 5037,
+  "arborescence": {
+    "Entraînement des roues": {
+      "categoryId": 100014,
+      "categoryName": "Entraînement des roues",
+      "level": 1,
+      "children": {
+        "Arbre de transmission": {
+          "categoryId": null,
+          "categoryName": "Arbre de transmission",
+          "level": 2,
+          "children": {
+            "Douille entretoise, arbre de transmission à cardans": {
+              "categoryId": 100062,
+              "categoryName": "Drive Shaft",
+              "level": 2,
+              "children": [],
+              "productId": 5037
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement des roues [ID: 100014] (Niveau 1)\n    └── Arbre de transmission (Niveau 2)\n        └── Drive Shaft [ID: 100062] (Niveau 2) → ProductId: 5037",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des roues",
+        "Arbre de transmission",
+        "Drive Shaft"
+      ],
+      "categoryIds": [
+        100014,
+        null,
+        100062
+      ],
+      "finalCategoryId": 100062,
+      "productId": 5037
+    }
+  ],
+  "productIdsInArbo": [
+    5037
+  ],
+  "matchedProductIds": [
+    5037
+  ]
+}

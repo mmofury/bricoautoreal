@@ -1,0 +1,64 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.527Z",
+  "manufacturer": "VGV",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 5506,
+      "manufacturerName": "VGV",
+      "groupKey": "U70",
+      "displayName": "U70",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40215,
+          "modelName": "U70",
+          "modelYearFrom": "2019-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42943,
+          "modelName": "U70 PRO",
+          "modelYearFrom": "2021-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5506,
+      "manufacturerName": "VGV",
+      "groupKey": "U75",
+      "displayName": "U75",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42125,
+          "modelName": "U75 PLUS",
+          "modelYearFrom": "2021-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42593,
+          "modelName": "U75",
+          "modelYearFrom": "2021-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5506,
+      "manufacturerName": "VGV",
+      "groupKey": "VX7",
+      "displayName": "VX7",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42669,
+          "modelName": "VX7",
+          "modelYearFrom": "2022-01-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "productName": "Élément de commande, climatisation",
+  "searchText": "Élément de commande, climatisation",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:39:12.319Z",
+  "productId": 1668,
+  "arborescence": {
+    "Chauffage / Ventilation": {
+      "categoryId": 100241,
+      "categoryName": "Chauffage / Ventilation",
+      "level": 1,
+      "children": {
+        "Éléments de commande": {
+          "categoryId": null,
+          "categoryName": "Éléments de commande",
+          "level": 2,
+          "children": {
+            "Élément de commande, climatisation": {
+              "categoryId": 100726,
+              "categoryName": "Actuators",
+              "level": 2,
+              "children": [],
+              "productId": 1668
+            }
+          }
+        }
+      }
+    },
+    "Climatisation": {
+      "categoryId": 100243,
+      "categoryName": "Climatisation",
+      "level": 1,
+      "children": {
+        "Contrôle/Réglage": {
+          "categoryId": null,
+          "categoryName": "Contrôle/Réglage",
+          "level": 2,
+          "children": {
+            "Élément de commande, climatisation": {
+              "categoryId": 100779,
+              "categoryName": "Controls/Regulation",
+              "level": 2,
+              "children": [],
+              "productId": 1668
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Chauffage / Ventilation [ID: 100241] (Niveau 1)\n│   └── Éléments de commande (Niveau 2)\n│       └── Actuators [ID: 100726] (Niveau 2) → ProductId: 1668\n\n└── Climatisation [ID: 100243] (Niveau 1)\n    └── Contrôle/Réglage (Niveau 2)\n        └── Controls/Regulation [ID: 100779] (Niveau 2) → ProductId: 1668",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Chauffage / Ventilation",
+        "Éléments de commande",
+        "Actuators"
+      ],
+      "categoryIds": [
+        100241,
+        null,
+        100726
+      ],
+      "finalCategoryId": 100726,
+      "productId": 1668
+    },
+    {
+      "path": [
+        "Climatisation",
+        "Contrôle/Réglage",
+        "Controls/Regulation"
+      ],
+      "categoryIds": [
+        100243,
+        null,
+        100779
+      ],
+      "finalCategoryId": 100779,
+      "productId": 1668
+    }
+  ],
+  "productIdsInArbo": [
+    1668
+  ],
+  "matchedProductIds": [
+    1668
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "DEC31B",
+      "index": "3.60526",
+      "tecDoc": "3.60526",
+      "tecDocProd": "355",
+      "articleNumber": "3.60526",
+      "brand": "DT SPARE PARTS",
+      "shortDescription": "Flange, differential",
+      "description": "Differential element",
+      "gtuCode": "GTU_07",
+      "eans": [
+        "4057795058668"
+      ],
+      "packageWeight": "0,760",
+      "packageWidth": "14,000",
+      "packageDepth": "2,000",
+      "packageHeight": "14,500",
+      "customsCode": "87085099",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3700",
+          "primary": true,
+          "name": {
+            "en": "Flange, differential"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_5085",
+          "primary": false,
+          "name": {
+            "en": "Pressure Plate, external planetary gearbox"
+          }
+        }
+      ]
+    }
+  ]
+}

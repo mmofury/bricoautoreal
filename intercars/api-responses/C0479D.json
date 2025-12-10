@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "C0479D",
+      "index": "03.9311-0072.1",
+      "tecDoc": "03.9311-0072.1",
+      "tecDocProd": "3",
+      "articleNumber": "03.9311-0072.1",
+      "brand": "ATE",
+      "shortDescription": "Devices for working fluids and fuels",
+      "description": "Measuring sensor, application: brake fluid ATE",
+      "eans": [
+        "4006633299138"
+      ],
+      "packageWeight": "0,011",
+      "packageWidth": "2,000",
+      "packageDepth": "2,000",
+      "packageHeight": "4,000",
+      "customsCode": "90319000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3343",
+          "primary": false,
+          "name": {
+            "en": "Sensor Head, brake fluid tester"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91773",
+          "primary": true,
+          "name": {
+            "en": "Devices for working fluids and fuels"
+          }
+        }
+      ]
+    }
+  ]
+}

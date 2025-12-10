@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G16U02",
+      "index": "ADBP210162",
+      "tecDoc": "ADBP210162",
+      "tecDocProd": "350",
+      "articleNumber": "ADBP210162",
+      "brand": "BLUE PRINT",
+      "shortDescription": "Hydraulic Filter, automatic transmission",
+      "description": "Gearbox hydraulic filter fits: AUDI A4 ALLROAD B8, A4 B8, A5, A6 ALLROAD C7, A6 C7, A7, Q5, PORSCHE MACAN 1.8-4.2 06.07-",
+      "customsCode": "84212300",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_416",
+          "primary": true,
+          "name": {
+            "en": "Hydraulic Filter, automatic transmission"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_4922",
+          "primary": false,
+          "name": {
+            "en": "Housing, automatic transmission hydraulic filter"
+          }
+        }
+      ]
+    }
+  ]
+}

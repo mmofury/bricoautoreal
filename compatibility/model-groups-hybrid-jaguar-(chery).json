@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.352Z",
+  "manufacturer": "JAGUAR (CHERY)",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 4614,
+      "manufacturerName": "JAGUAR (CHERY)",
+      "groupKey": "E",
+      "displayName": "E",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38894,
+          "modelName": "E-PACE",
+          "modelYearFrom": "2018-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4614,
+      "manufacturerName": "JAGUAR (CHERY)",
+      "groupKey": "XEL",
+      "displayName": "XEL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38352,
+          "modelName": "XEL",
+          "modelYearFrom": "2017-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4614,
+      "manufacturerName": "JAGUAR (CHERY)",
+      "groupKey": "XFL",
+      "displayName": "XFL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37198,
+          "modelName": "XFL",
+          "modelYearFrom": "2016-08-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

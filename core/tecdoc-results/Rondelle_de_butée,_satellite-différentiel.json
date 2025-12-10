@@ -1,0 +1,54 @@
+{
+  "productName": "Rondelle de butée, satellite-différentiel",
+  "searchText": "Rondelle de butée, satellite-différentiel",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:10:50.300Z",
+  "productId": 4002,
+  "arborescence": {
+    "Entraînement des essieux": {
+      "categoryId": 100400,
+      "categoryName": "Entraînement des essieux",
+      "level": 1,
+      "children": {
+        "Différentiel": {
+          "categoryId": null,
+          "categoryName": "Différentiel",
+          "level": 2,
+          "children": {
+            "Rondelle de butée, satellite-différentiel": {
+              "categoryId": 100415,
+              "categoryName": "Differential",
+              "level": 2,
+              "children": [],
+              "productId": 4002
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement des essieux [ID: 100400] (Niveau 1)\n    └── Différentiel (Niveau 2)\n        └── Differential [ID: 100415] (Niveau 2) → ProductId: 4002",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des essieux",
+        "Différentiel",
+        "Differential"
+      ],
+      "categoryIds": [
+        100400,
+        null,
+        100415
+      ],
+      "finalCategoryId": 100415,
+      "productId": 4002
+    }
+  ],
+  "productIdsInArbo": [
+    4002
+  ],
+  "matchedProductIds": [
+    4002
+  ]
+}

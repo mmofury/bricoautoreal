@@ -1,0 +1,84 @@
+{
+  "productName": "Coussinet de palier, pompe à huile",
+  "searchText": "Coussinet de palier, pompe à huile",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:26:10.737Z",
+  "productId": 4065,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Lubrification": {
+          "categoryId": null,
+          "categoryName": "Lubrification",
+          "level": 2,
+          "children": {
+            "Coussinet de palier, pompe à huile": {
+              "categoryId": 100245,
+              "categoryName": "Lubrication",
+              "level": 2,
+              "children": {
+                "Pompe à huile et pièces de montage": {
+                  "categoryId": null,
+                  "categoryName": "Pompe à huile et pièces de montage",
+                  "level": 4,
+                  "children": {
+                    "Coussinet de palier, pompe à huile": {
+                      "categoryId": 100476,
+                      "categoryName": "Oil Pump/Attachment Parts",
+                      "level": 3,
+                      "children": {
+                        "Pompe à huile": {
+                          "categoryId": null,
+                          "categoryName": "Pompe à huile",
+                          "level": 6,
+                          "children": {
+                            "Coussinet de palier, pompe à huile": {
+                              "categoryId": 100492,
+                              "categoryName": "Oil Pump",
+                              "level": 4,
+                              "children": [],
+                              "productId": 4065
+                            }
+                          }
+                        }
+                      },
+                      "productId": 4065
+                    }
+                  }
+                }
+              },
+              "productId": 4065
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Lubrification (Niveau 2)\n        └── Lubrication [ID: 100245] (Niveau 2) → ProductId: 4065\n            └── Pompe à huile et pièces de montage (Niveau 4)\n                └── Oil Pump/Attachment Parts [ID: 100476] (Niveau 3) → ProductId: 4065\n                    └── Pompe à huile (Niveau 6)\n                        └── Oil Pump [ID: 100492] (Niveau 4) → ProductId: 4065",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Lubrification",
+        "Lubrication"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100245
+      ],
+      "finalCategoryId": 100245,
+      "productId": 4065
+    }
+  ],
+  "productIdsInArbo": [
+    4065
+  ],
+  "matchedProductIds": [
+    4065
+  ]
+}

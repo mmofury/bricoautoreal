@@ -1,0 +1,83 @@
+{
+  "productName": "Soupape, élément d'ajustage (papillon des gaz)",
+  "searchText": "Soupape, élément d'ajustage (papillon des gaz)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:18:30.165Z",
+  "productId": 5138,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Soupape, élément d'ajustage (papillon des gaz)": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Papillon des gaz / tubulure / tuyau de dépression": {
+                  "categoryId": null,
+                  "categoryName": "Papillon des gaz / tubulure / tuyau de dépression",
+                  "level": 4,
+                  "children": {
+                    "Soupape, élément d'ajustage (papillon des gaz)": {
+                      "categoryId": 102796,
+                      "categoryName": "Throttle Valve/Throttle Body/Vacuum Pipe",
+                      "level": 3,
+                      "children": [],
+                      "productId": 5138
+                    }
+                  }
+                },
+                "Soupapes/Bloc de soupapes": {
+                  "categoryId": null,
+                  "categoryName": "Soupapes/Bloc de soupapes",
+                  "level": 4,
+                  "children": {
+                    "Soupape, élément d'ajustage (papillon des gaz)": {
+                      "categoryId": 102811,
+                      "categoryName": "Valves/Valve Unit",
+                      "level": 3,
+                      "children": [],
+                      "productId": 5138
+                    }
+                  }
+                }
+              },
+              "productId": 5138
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carburation [ID: 100254] (Niveau 1)\n    └── Mélange air-carburant (Niveau 2)\n        └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 5138\n            ├── Papillon des gaz / tubulure / tuyau de dépression (Niveau 4)\n            │   └── Throttle Valve/Throttle Body/Vacuum Pipe [ID: 102796] (Niveau 3) → ProductId: 5138\n            └── Soupapes/Bloc de soupapes (Niveau 4)\n                └── Valves/Valve Unit [ID: 102811] (Niveau 3) → ProductId: 5138",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 5138
+    }
+  ],
+  "productIdsInArbo": [
+    5138
+  ],
+  "matchedProductIds": [
+    5138
+  ]
+}

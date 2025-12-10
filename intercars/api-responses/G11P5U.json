@@ -1,0 +1,36 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G11P5U",
+      "index": "HP120 065",
+      "tecDoc": "120 065",
+      "tecDocProd": "301",
+      "articleNumber": "120 065",
+      "brand": "HANS PRIES",
+      "shortDescription": "Sensor, keyless system",
+      "description": "Door handle element door handle sensor fits: AUDI A6 C8, A7, A8 D5, E-TRON, Q8 06.17-",
+      "gtuCode": "GTU_07",
+      "customsCode": "87082990",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_60063",
+          "primary": false,
+          "name": {
+            "en": "Sensor, exterior door handle"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_60334",
+          "primary": true,
+          "name": {
+            "en": "Sensor, keyless system"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "productName": "Plaque d'arrêt, rotule de suspension",
+  "searchText": "Plaque d'arrêt, rotule de suspension",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:21:58.469Z",
+  "productId": 2524,
+  "arborescence": {
+    "Suspension d'essieu/Guidage des roues/Roues": {
+      "categoryId": 100013,
+      "categoryName": "Suspension d'essieu/Guidage des roues/Roues",
+      "level": 1,
+      "children": {
+        "Rotules": {
+          "categoryId": null,
+          "categoryName": "Rotules",
+          "level": 2,
+          "children": {
+            "Plaque d'arrêt, rotule de suspension": {
+              "categoryId": 100211,
+              "categoryName": "Joints",
+              "level": 2,
+              "children": {
+                "Rotule de suspension": {
+                  "categoryId": null,
+                  "categoryName": "Rotule de suspension",
+                  "level": 4,
+                  "children": {
+                    "Plaque d'arrêt, rotule de suspension": {
+                      "categoryId": 100581,
+                      "categoryName": "Ball Joint",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2524
+                    }
+                  }
+                }
+              },
+              "productId": 2524
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Suspension d'essieu/Guidage des roues/Roues [ID: 100013] (Niveau 1)\n    └── Rotules (Niveau 2)\n        └── Joints [ID: 100211] (Niveau 2) → ProductId: 2524\n            └── Rotule de suspension (Niveau 4)\n                └── Ball Joint [ID: 100581] (Niveau 3) → ProductId: 2524",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Rotules",
+        "Joints"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        100211
+      ],
+      "finalCategoryId": 100211,
+      "productId": 2524
+    }
+  ],
+  "productIdsInArbo": [
+    2524
+  ],
+  "matchedProductIds": [
+    2524
+  ]
+}

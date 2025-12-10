@@ -1,0 +1,69 @@
+{
+  "productName": "Régulateur de pression, système d'air comprimé",
+  "searchText": "Régulateur de pression, système d'air comprimé",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:13:56.668Z",
+  "productId": 335,
+  "arborescence": {
+    "Système pneumatique": {
+      "categoryId": 103168,
+      "categoryName": "Système pneumatique",
+      "level": 1,
+      "children": {
+        "Régulateur de pression / accessoires": {
+          "categoryId": null,
+          "categoryName": "Régulateur de pression / accessoires",
+          "level": 2,
+          "children": {
+            "Régulateur de pression, système d'air comprimé": {
+              "categoryId": 103169,
+              "categoryName": "Pressure Regulator/Parts",
+              "level": 2,
+              "children": {
+                "Régulateur de pression": {
+                  "categoryId": null,
+                  "categoryName": "Régulateur de pression",
+                  "level": 4,
+                  "children": {
+                    "Régulateur de pression, système d'air comprimé": {
+                      "categoryId": 103170,
+                      "categoryName": "Pressure Regulator",
+                      "level": 3,
+                      "children": [],
+                      "productId": 335
+                    }
+                  }
+                }
+              },
+              "productId": 335
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système pneumatique [ID: 103168] (Niveau 1)\n    └── Régulateur de pression / accessoires (Niveau 2)\n        └── Pressure Regulator/Parts [ID: 103169] (Niveau 2) → ProductId: 335\n            └── Régulateur de pression (Niveau 4)\n                └── Pressure Regulator [ID: 103170] (Niveau 3) → ProductId: 335",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système pneumatique",
+        "Régulateur de pression / accessoires",
+        "Pressure Regulator/Parts"
+      ],
+      "categoryIds": [
+        103168,
+        null,
+        103169
+      ],
+      "finalCategoryId": 103169,
+      "productId": 335
+    }
+  ],
+  "productIdsInArbo": [
+    335
+  ],
+  "matchedProductIds": [
+    335
+  ]
+}

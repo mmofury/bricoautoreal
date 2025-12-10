@@ -1,0 +1,57 @@
+{
+  "productName": "Levier de démontage, garniture de porte",
+  "searchText": "Levier de démontage, garniture de porte",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T21:11:29.680Z",
+  "productId": 5810,
+  "arborescence": {
+    "Équipement intérieur": {
+      "categoryId": 100341,
+      "categoryName": "Équipement intérieur",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Levier de démontage, garniture de porte": {
+              "categoryId": 105405,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 7056
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Équipement intérieur [ID: 100341] (Niveau 1)\n    └── Outils (Niveau 2)\n        └── Tools [ID: 105405] (Niveau 2) → ProductId: 7056",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Équipement intérieur",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        105405
+      ],
+      "finalCategoryId": 105405,
+      "productId": 7056
+    }
+  ],
+  "productIdsInArbo": [
+    7056
+  ],
+  "closestProductIds": [
+    {
+      "productId": 7056,
+      "productName": "Levier de démontage, garniture de porte"
+    }
+  ]
+}

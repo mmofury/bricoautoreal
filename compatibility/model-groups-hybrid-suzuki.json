@@ -1,0 +1,1498 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.500Z",
+  "manufacturer": "SUZUKI",
+  "countGroups": 61,
+  "groups": [
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "ACROSS",
+      "displayName": "ACROSS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41372,
+          "modelName": "ACROSS (A5Z_)",
+          "modelYearFrom": "2020-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "ALTO",
+      "displayName": "ALTO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1233,
+          "modelName": "ALTO II",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1988-12-01"
+        },
+        {
+          "modelId": 1234,
+          "modelName": "ALTO I (0S)",
+          "modelYearFrom": "1979-03-01",
+          "modelYearTo": "1984-08-01"
+        },
+        {
+          "modelId": 1244,
+          "modelName": "ALTO IV (EF, SH410_)",
+          "modelYearFrom": "1993-10-01",
+          "modelYearTo": "2002-06-01"
+        },
+        {
+          "modelId": 4900,
+          "modelName": "ALTO VI (FF, HA24_)",
+          "modelYearFrom": "2002-06-01",
+          "modelYearTo": "2009-12-01"
+        },
+        {
+          "modelId": 8024,
+          "modelName": "ALTO VII (GF, HA25_, HA35_)",
+          "modelYearFrom": "2009-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14098,
+          "modelName": "ALTO V (HA12_, HA23_, HA22_)",
+          "modelYearFrom": "1997-10-01",
+          "modelYearTo": "2014-09-01"
+        },
+        {
+          "modelId": 14099,
+          "modelName": "ALTO III (EC)",
+          "modelYearFrom": "1988-12-01",
+          "modelYearTo": "1994-08-01"
+        },
+        {
+          "modelId": 14948,
+          "modelName": "ALTO VIII (HA36_)",
+          "modelYearFrom": "2014-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38842,
+          "modelName": "ALTO 800",
+          "modelYearFrom": "2012-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38845,
+          "modelName": "ALTO K10",
+          "modelYearFrom": "2015-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38846,
+          "modelName": "ALTO K10",
+          "modelYearFrom": "2010-08-01",
+          "modelYearTo": "2015-03-01"
+        },
+        {
+          "modelId": 38847,
+          "modelName": "ALTO",
+          "modelYearFrom": "2000-09-01",
+          "modelYearTo": "2014-10-01"
+        },
+        {
+          "modelId": 39670,
+          "modelName": "ALTO Camionnette/Berline bicorps trois ou cinq portes (EC)",
+          "modelYearFrom": "1986-01-01",
+          "modelYearTo": "1993-10-01"
+        },
+        {
+          "modelId": 40163,
+          "modelName": "ALTO Camionnette/Berline bicorps trois ou cinq portes (HA36)",
+          "modelYearFrom": "2014-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "APV",
+      "displayName": "APV",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8823,
+          "modelName": "APV Fourgon (GD, GC)",
+          "modelYearFrom": "2003-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37069,
+          "modelName": "APV Autobus/Autocar",
+          "modelYearFrom": "2003-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37105,
+          "modelName": "APV Camion plate-forme/Châssis",
+          "modelYearFrom": "2010-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40864,
+          "modelName": "APV (GC)",
+          "modelYearFrom": "2003-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "BALENO",
+      "displayName": "BALENO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1324,
+          "modelName": "BALENO Berline bicorps trois ou cinq portes (EG)",
+          "modelYearFrom": "1995-03-01",
+          "modelYearTo": "2002-05-01"
+        },
+        {
+          "modelId": 1325,
+          "modelName": "BALENO (EG)",
+          "modelYearFrom": "1995-03-01",
+          "modelYearTo": "2009-12-01"
+        },
+        {
+          "modelId": 1565,
+          "modelName": "BALENO Break (EG)",
+          "modelYearFrom": "1995-04-01",
+          "modelYearTo": "2005-04-01"
+        },
+        {
+          "modelId": 36212,
+          "modelName": "BALENO (FW, EW)",
+          "modelYearFrom": "2016-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43084,
+          "modelName": "BALENO",
+          "modelYearFrom": "2022-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "CAPPUCCINO",
+      "displayName": "CAPPUCCINO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4302,
+          "modelName": "CAPPUCCINO (EE)",
+          "modelYearFrom": "1992-02-01",
+          "modelYearTo": "1998-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "CARA",
+      "displayName": "CARA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13291,
+          "modelName": "CARA",
+          "modelYearFrom": "1992-03-01",
+          "modelYearTo": "1995-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "CARRY",
+      "displayName": "CARRY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1235,
+          "modelName": "CARRY Fourgon (0S)",
+          "modelYearFrom": "1979-10-01",
+          "modelYearTo": "1985-10-01"
+        },
+        {
+          "modelId": 4582,
+          "modelName": "CARRY Fourgon (FD)",
+          "modelYearFrom": "1999-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 8813,
+          "modelName": "CARRY Camion plate-forme/Châssis",
+          "modelYearFrom": "1985-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 8869,
+          "modelName": "CARRY Camion plate-forme/Châssis (FD, DA5_T, DA6_T)",
+          "modelYearFrom": "1999-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 9037,
+          "modelName": "CARRY Fourgon (ED)",
+          "modelYearFrom": "1985-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 12778,
+          "modelName": "CARRY Fourgon",
+          "modelYearFrom": "1995-10-01",
+          "modelYearTo": "1999-03-01"
+        },
+        {
+          "modelId": 14034,
+          "modelName": "CARRY Autobus/Autocar",
+          "modelYearFrom": "1997-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14896,
+          "modelName": "CARRY Autobus/Autocar",
+          "modelYearFrom": "1999-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14912,
+          "modelName": "CARRY Camion plate-forme/Châssis (0S)",
+          "modelYearFrom": "1979-10-01",
+          "modelYearTo": "1985-03-01"
+        },
+        {
+          "modelId": 37108,
+          "modelName": "CARRY Camion plate-forme/Châssis",
+          "modelYearFrom": "1991-01-01",
+          "modelYearTo": "1999-01-01"
+        },
+        {
+          "modelId": 37109,
+          "modelName": "CARRY Autobus/Autocar (0S)",
+          "modelYearFrom": "1979-10-01",
+          "modelYearTo": "1985-10-01"
+        },
+        {
+          "modelId": 39854,
+          "modelName": "CARRY Camion plate-forme/Châssis (DA1_T, _DC61_)",
+          "modelYearFrom": "2013-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "CELERIO",
+      "displayName": "CELERIO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13151,
+          "modelName": "CELERIO (LF)",
+          "modelYearFrom": "2014-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 43071,
+          "modelName": "CELERIO (YL7)",
+          "modelYearFrom": "2022-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "CERVO",
+      "displayName": "CERVO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13286,
+          "modelName": "CERVO (HG21)",
+          "modelYearFrom": "2006-11-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 37221,
+          "modelName": "CERVO MODE (C_21, C_22, C_31, C_32)",
+          "modelYearFrom": "1990-07-01",
+          "modelYearTo": "1998-10-01"
+        },
+        {
+          "modelId": 37940,
+          "modelName": "CERVO",
+          "modelYearFrom": "1982-06-01",
+          "modelYearTo": "1998-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "CIAZ",
+      "displayName": "CIAZ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14109,
+          "modelName": "CIAZ",
+          "modelYearFrom": "2015-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "CULTUS",
+      "displayName": "CULTUS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10218,
+          "modelName": "CULTUS",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "DZIRE",
+      "displayName": "DZIRE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13258,
+          "modelName": "DZIRE",
+          "modelYearFrom": "2013-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38730,
+          "modelName": "DZIRE",
+          "modelYearFrom": "2018-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "EECO",
+      "displayName": "EECO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44328,
+          "modelName": "EECO Fourgon",
+          "modelYearFrom": "2023-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "EQUATOR",
+      "displayName": "EQUATOR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 35870,
+          "modelName": "EQUATOR Pick-up",
+          "modelYearFrom": "2004-09-01",
+          "modelYearTo": "2012-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "ERTIGA",
+      "displayName": "ERTIGA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13251,
+          "modelName": "ERTIGA (AVI_)",
+          "modelYearFrom": "2012-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38646,
+          "modelName": "ERTIGA (NC)",
+          "modelYearFrom": "2018-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "EVERY",
+      "displayName": "EVERY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10874,
+          "modelName": "EVERY (DA64_)",
+          "modelYearFrom": "2004-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37072,
+          "modelName": "EVERY",
+          "modelYearFrom": "2015-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37272,
+          "modelName": "EVERY Autobus/Autocar (DA52_, DB52_)",
+          "modelYearFrom": "1999-02-01",
+          "modelYearTo": "2005-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "FARMWORKER",
+      "displayName": "FARMWORKER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13255,
+          "modelName": "FARMWORKER Camion plate-forme/Châssis",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13256,
+          "modelName": "FARMWORKER Pick-up",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "FORENZA",
+      "displayName": "FORENZA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33973,
+          "modelName": "FORENZA A trois volumes",
+          "modelYearFrom": "2003-09-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 33974,
+          "modelName": "FORENZA Break",
+          "modelYearFrom": "2004-09-01",
+          "modelYearTo": "2008-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "FORSA",
+      "displayName": "FORSA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 35872,
+          "modelName": "FORSA Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1988-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "FRONTE",
+      "displayName": "FRONTE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37392,
+          "modelName": "FRONTE",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1989-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "FRONX",
+      "displayName": "FRONX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44695,
+          "modelName": "FRONX",
+          "modelYearFrom": "2023-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "FUN",
+      "displayName": "FUN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9913,
+          "modelName": "FUN",
+          "modelYearFrom": "2003-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "GRAND",
+      "displayName": "GRAND",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4097,
+          "modelName": "GRAND VITARA I (FT, HT)",
+          "modelYearFrom": "1998-03-01",
+          "modelYearTo": "2008-08-01"
+        },
+        {
+          "modelId": 5489,
+          "modelName": "GRAND VITARA II (JT, TE, TD)",
+          "modelYearFrom": "2005-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14518,
+          "modelName": "GRAND VITARA I Véhicule tout terrain à carrosserie ouverte (",
+          "modelYearFrom": "1998-03-01",
+          "modelYearTo": "2005-09-01"
+        },
+        {
+          "modelId": 44039,
+          "modelName": "GRAND VITARA (YM)",
+          "modelYearFrom": "2023-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "HATCH",
+      "displayName": "HATCH",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8808,
+          "modelName": "HATCH (SS)",
+          "modelYearFrom": "1980-02-01",
+          "modelYearTo": "1985-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "HUSTLER",
+      "displayName": "HUSTLER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37178,
+          "modelName": "HUSTLER (MR31_, MR41_)",
+          "modelYearFrom": "2014-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 40273,
+          "modelName": "HUSTLER (MR52_, MR92_)",
+          "modelYearFrom": "2020-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "IGNIS",
+      "displayName": "IGNIS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4732,
+          "modelName": "IGNIS I (FH)",
+          "modelYearFrom": "2000-10-01",
+          "modelYearTo": "2005-12-01"
+        },
+        {
+          "modelId": 5064,
+          "modelName": "IGNIS II (MH)",
+          "modelYearFrom": "2003-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37088,
+          "modelName": "IGNIS III (MF, FF)",
+          "modelYearFrom": "2016-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "JIMNY",
+      "displayName": "JIMNY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3972,
+          "modelName": "JIMNY Véhicule tout terrain fermé (SN)",
+          "modelYearFrom": "1998-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11344,
+          "modelName": "JIMNY Véhicule tout terrain fermé (SJ, JA, JB)",
+          "modelYearFrom": "1981-01-01",
+          "modelYearTo": "1998-12-01"
+        },
+        {
+          "modelId": 38290,
+          "modelName": "JIMNY Véhicule tout terrain à carrosserie ouverte (SN)",
+          "modelYearFrom": "1998-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39049,
+          "modelName": "JIMNY Véhicule tout terrain à carrosserie ouverte (SJ)",
+          "modelYearFrom": "1988-11-01",
+          "modelYearTo": "1998-03-01"
+        },
+        {
+          "modelId": 39057,
+          "modelName": "JIMNY Véhicule tout terrain fermé (A6G)",
+          "modelYearFrom": "2018-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "KARIMUN",
+      "displayName": "KARIMUN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13250,
+          "modelName": "KARIMUN WAGON R",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "KEI",
+      "displayName": "KEI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7943,
+          "modelName": "KEI Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1998-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "KIZASHI",
+      "displayName": "KIZASHI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8992,
+          "modelName": "KIZASHI (FR)",
+          "modelYearFrom": "2010-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "LANDY",
+      "displayName": "LANDY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10019,
+          "modelName": "LANDY (SC25)",
+          "modelYearFrom": "2007-01-01",
+          "modelYearTo": "2009-12-01"
+        },
+        {
+          "modelId": 10020,
+          "modelName": "LANDY (SC26)",
+          "modelYearFrom": "2010-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38195,
+          "modelName": "LANDY (SC27)",
+          "modelYearFrom": "2016-12-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44875,
+          "modelName": "LANDY (R90)",
+          "modelYearFrom": "2022-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "LAPIN",
+      "displayName": "LAPIN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13290,
+          "modelName": "LAPIN I (HE21)",
+          "modelYearFrom": "2002-01-01",
+          "modelYearTo": "2009-12-01"
+        },
+        {
+          "modelId": 14092,
+          "modelName": "LAPIN II (HE22)",
+          "modelYearFrom": "2009-09-01",
+          "modelYearTo": "2015-05-01"
+        },
+        {
+          "modelId": 38406,
+          "modelName": "LAPIN III (HE33)",
+          "modelYearFrom": "2015-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "LIANA",
+      "displayName": "LIANA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4890,
+          "modelName": "LIANA (ER, RH_)",
+          "modelYearFrom": "2001-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37901,
+          "modelName": "LIANA Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2001-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "LJ50",
+      "displayName": "LJ50",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40519,
+          "modelName": "LJ50 Véhicule tout terrain fermé",
+          "modelYearFrom": "1974-07-01",
+          "modelYearTo": "1978-06-01"
+        },
+        {
+          "modelId": 40520,
+          "modelName": "LJ50 Véhicule tout terrain à carrosserie ouverte",
+          "modelYearFrom": "1974-07-01",
+          "modelYearTo": "1978-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "LJ80",
+      "displayName": "LJ80",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1236,
+          "modelName": "LJ80 (OL)",
+          "modelYearFrom": "1977-11-01",
+          "modelYearTo": "1984-01-01"
+        },
+        {
+          "modelId": 8806,
+          "modelName": "LJ80 Véhicule tout terrain fermé",
+          "modelYearFrom": "1977-11-01",
+          "modelYearTo": "1981-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "LJ81",
+      "displayName": "LJ81",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8807,
+          "modelName": "LJ81 Pick-up",
+          "modelYearFrom": "1977-11-01",
+          "modelYearTo": "1981-12-01"
+        },
+        {
+          "modelId": 35873,
+          "modelName": "LJ81 Véhicule tout terrain fermé",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1981-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "MARUTI",
+      "displayName": "MARUTI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13780,
+          "modelName": "MARUTI",
+          "modelYearFrom": "1983-02-01",
+          "modelYearTo": "2013-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "MIGHTY",
+      "displayName": "MIGHTY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8803,
+          "modelName": "MIGHTY BOY",
+          "modelYearFrom": "1985-07-01",
+          "modelYearTo": "1988-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "MR",
+      "displayName": "MR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10875,
+          "modelName": "MR WAGON (MF22)",
+          "modelYearFrom": "2006-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14094,
+          "modelName": "MR WAGON (MF33)",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37104,
+          "modelName": "MR WAGON (MF21)",
+          "modelYearFrom": "2001-04-01",
+          "modelYearTo": "2006-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "PALETTE",
+      "displayName": "PALETTE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10876,
+          "modelName": "PALETTE (MK21_)",
+          "modelYearFrom": "2008-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "RENO",
+      "displayName": "RENO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33978,
+          "modelName": "RENO Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2004-09-01",
+          "modelYearTo": "2008-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "S",
+      "displayName": "S",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40679,
+          "modelName": "S-PRESSO (FL)",
+          "modelYearFrom": "2019-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42605,
+          "modelName": "S-CROSS",
+          "modelYearFrom": "2022-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "SAMURAI",
+      "displayName": "SAMURAI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1241,
+          "modelName": "SAMURAI Véhicule tout terrain fermé (SJ_)",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "2004-12-01"
+        },
+        {
+          "modelId": 38283,
+          "modelName": "SAMURAI Véhicule tout terrain à carrosserie ouverte (SJ_)",
+          "modelYearFrom": "1988-04-01",
+          "modelYearTo": "2004-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "SC100",
+      "displayName": "SC100",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14897,
+          "modelName": "SC100 Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1977-03-01",
+          "modelYearTo": "1982-12-01"
+        },
+        {
+          "modelId": 38409,
+          "modelName": "SC100 Coupé",
+          "modelYearFrom": "1979-08-01",
+          "modelYearTo": "1982-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "SIERRA",
+      "displayName": "SIERRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 8800,
+          "modelName": "SIERRA Véhicule tout terrain à carrosserie ouverte (SJ)",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1999-07-01"
+        },
+        {
+          "modelId": 8801,
+          "modelName": "SIERRA Véhicule tout terrain à carrosserie ouverte (SJ)",
+          "modelYearFrom": "1981-09-01",
+          "modelYearTo": "1990-03-01"
+        },
+        {
+          "modelId": 8871,
+          "modelName": "SIERRA II Véhicule tout terrain à carrosserie ouverte (SJ)",
+          "modelYearFrom": "1988-12-01",
+          "modelYearTo": "2000-02-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "SJ410",
+      "displayName": "SJ410",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1238,
+          "modelName": "SJ410 Cabrio (OS)",
+          "modelYearFrom": "1981-09-01",
+          "modelYearTo": "1991-07-01"
+        },
+        {
+          "modelId": 3574,
+          "modelName": "SJ410",
+          "modelYearFrom": "1979-09-01",
+          "modelYearTo": "1991-07-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "SJ413",
+      "displayName": "SJ413",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1242,
+          "modelName": "SJ413 (OS)",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1991-03-01"
+        },
+        {
+          "modelId": 38531,
+          "modelName": "SJ413 Véhicule tout terrain à carrosserie ouverte (OS)",
+          "modelYearFrom": "1983-08-01",
+          "modelYearTo": "1988-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "SOLIO",
+      "displayName": "SOLIO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10877,
+          "modelName": "SOLIO (MA15_)",
+          "modelYearFrom": "2010-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14942,
+          "modelName": "SOLIO (MA_)",
+          "modelYearFrom": "2015-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37306,
+          "modelName": "SOLIO (MA34_)",
+          "modelYearFrom": "2000-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "SPACIA",
+      "displayName": "SPACIA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13288,
+          "modelName": "SPACIA (MK)",
+          "modelYearFrom": "2013-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38511,
+          "modelName": "SPACIA (MK)",
+          "modelYearFrom": "2017-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "SPLASH",
+      "displayName": "SPLASH",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7527,
+          "modelName": "SPLASH (EX)",
+          "modelYearFrom": "2008-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "SUPER",
+      "displayName": "SUPER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1243,
+          "modelName": "SUPER CARRY Autobus/Autocar (ED)",
+          "modelYearFrom": "1985-07-01",
+          "modelYearTo": "1999-03-01"
+        },
+        {
+          "modelId": 37106,
+          "modelName": "SUPER CARRY Fourgon (ED)",
+          "modelYearFrom": "1985-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 90026,
+          "modelName": "SUPER CARRY",
+          "modelYearFrom": "2016-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "SWACE",
+      "displayName": "SWACE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41745,
+          "modelName": "SWACE (AMZ_)",
+          "modelYearFrom": "2020-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "SWIFT",
+      "displayName": "SWIFT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1232,
+          "modelName": "SWIFT II Berline bicorps trois ou cinq portes (EA, MA)",
+          "modelYearFrom": "1989-03-01",
+          "modelYearTo": "2005-12-01"
+        },
+        {
+          "modelId": 1239,
+          "modelName": "SWIFT II A trois volumes (AH, AJ)",
+          "modelYearFrom": "1989-03-01",
+          "modelYearTo": "2001-05-01"
+        },
+        {
+          "modelId": 1240,
+          "modelName": "SWIFT Décapotable (SF413)",
+          "modelYearFrom": "1991-09-01",
+          "modelYearTo": "1996-10-01"
+        },
+        {
+          "modelId": 3973,
+          "modelName": "SWIFT I (AA)",
+          "modelYearFrom": "1983-10-01",
+          "modelYearTo": "1989-12-01"
+        },
+        {
+          "modelId": 5474,
+          "modelName": "SWIFT III (MZ, EZ)",
+          "modelYearFrom": "2005-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 8994,
+          "modelName": "SWIFT IV (FZ, NZ)",
+          "modelYearFrom": "2010-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 34716,
+          "modelName": "SWIFT+ Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2003-09-01",
+          "modelYearTo": "2009-12-01"
+        },
+        {
+          "modelId": 37855,
+          "modelName": "SWIFT V (AZ)",
+          "modelYearFrom": "2017-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45065,
+          "modelName": "SWIFT VI (ZD_, ZC_)",
+          "modelYearFrom": "2023-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "SX4",
+      "displayName": "SX4",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5566,
+          "modelName": "SX4 / SX4 CLASSIC (EY, GY)",
+          "modelYearFrom": "2006-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 8005,
+          "modelName": "SX4 A trois volumes (GY, RW)",
+          "modelYearFrom": "2007-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11477,
+          "modelName": "SX4 S-CROSS (JY)",
+          "modelYearFrom": "2013-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "TWIN",
+      "displayName": "TWIN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10489,
+          "modelName": "TWIN",
+          "modelYearFrom": "2003-01-01",
+          "modelYearTo": "2005-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "VERONA",
+      "displayName": "VERONA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 33990,
+          "modelName": "VERONA A trois volumes",
+          "modelYearFrom": "2003-09-01",
+          "modelYearTo": "2006-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "VITARA",
+      "displayName": "VITARA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1237,
+          "modelName": "VITARA (ET, TA, TD)",
+          "modelYearFrom": "1988-07-01",
+          "modelYearTo": "2002-12-01"
+        },
+        {
+          "modelId": 1880,
+          "modelName": "VITARA Cabrio (ET, TA)",
+          "modelYearFrom": "1988-07-01",
+          "modelYearTo": "2002-10-01"
+        },
+        {
+          "modelId": 10222,
+          "modelName": "VITARA (ET)",
+          "modelYearFrom": "2003-12-01",
+          "modelYearTo": "2005-12-01"
+        },
+        {
+          "modelId": 10223,
+          "modelName": "VITARA Cabrio (ET)",
+          "modelYearFrom": "2002-01-01",
+          "modelYearTo": "2005-12-01"
+        },
+        {
+          "modelId": 13638,
+          "modelName": "VITARA (LY)",
+          "modelYearFrom": "2015-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42852,
+          "modelName": "VITARA BREZZA (YF)",
+          "modelYearFrom": "2021-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "WAGON",
+      "displayName": "WAGON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 3403,
+          "modelName": "WAGON R+ Berline bicorps trois ou cinq portes (EM)",
+          "modelYearFrom": "1997-10-01",
+          "modelYearTo": "2000-10-01"
+        },
+        {
+          "modelId": 4666,
+          "modelName": "WAGON R+ (MA)",
+          "modelYearFrom": "1999-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 7507,
+          "modelName": "WAGON R (CT, CV)",
+          "modelYearFrom": "1992-06-01",
+          "modelYearTo": "1997-06-01"
+        },
+        {
+          "modelId": 7512,
+          "modelName": "WAGON R (MH21, MH22)",
+          "modelYearFrom": "2002-03-01",
+          "modelYearTo": "2012-12-01"
+        },
+        {
+          "modelId": 14095,
+          "modelName": "WAGON R (MH34S, MH44S)",
+          "modelYearFrom": "2012-09-01",
+          "modelYearTo": "2017-01-01"
+        },
+        {
+          "modelId": 37155,
+          "modelName": "WAGON R (MH23)",
+          "modelYearFrom": "2008-09-01",
+          "modelYearTo": "2012-08-01"
+        },
+        {
+          "modelId": 37284,
+          "modelName": "WAGON R (MC_)",
+          "modelYearFrom": "1997-07-01",
+          "modelYearTo": "2003-06-01"
+        },
+        {
+          "modelId": 38464,
+          "modelName": "WAGON R (MH35S, MH55S)",
+          "modelYearFrom": "2017-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "X",
+      "displayName": "X",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1481,
+          "modelName": "X-90 (EL)",
+          "modelYearFrom": "1995-09-01",
+          "modelYearTo": "1997-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "XBEE",
+      "displayName": "XBEE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39313,
+          "modelName": "XBEE (MN71_)",
+          "modelYearFrom": "2017-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerName": "SUZUKI",
+      "groupKey": "XL7",
+      "displayName": "XL7",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14543,
+          "modelName": "XL7 (DA, DB)",
+          "modelYearFrom": "2006-09-01",
+          "modelYearTo": "2009-12-01"
+        },
+        {
+          "modelId": 40439,
+          "modelName": "XL7 (NC)",
+          "modelYearFrom": "2019-08-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

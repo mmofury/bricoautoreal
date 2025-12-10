@@ -1,0 +1,180 @@
+{
+  "productName": "Lampe de seuil",
+  "searchText": "Lampe de seuil",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:11:13.650Z",
+  "productId": 178,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Feux": {
+          "categoryId": null,
+          "categoryName": "Feux",
+          "level": 2,
+          "children": {
+            "Ampoule, feu d'accès": {
+              "categoryId": 101407,
+              "categoryName": "Lights",
+              "level": 2,
+              "children": {
+                "Éclairage de porte": {
+                  "categoryId": null,
+                  "categoryName": "Éclairage de porte",
+                  "level": 4,
+                  "children": {
+                    "Ampoule, feu d'accès": {
+                      "categoryId": 101452,
+                      "categoryName": "Door Light",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3005
+                    }
+                  }
+                }
+              },
+              "productId": 3005
+            },
+            "Joint d'étanchéité (feu d'accès)": {
+              "categoryId": 101407,
+              "categoryName": "Lights",
+              "level": 2,
+              "children": {
+                "Éclairage de porte": {
+                  "categoryId": null,
+                  "categoryName": "Éclairage de porte",
+                  "level": 4,
+                  "children": {
+                    "Joint d'étanchéité (feu d'accès)": {
+                      "categoryId": 101452,
+                      "categoryName": "Door Light",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3109
+                    }
+                  }
+                }
+              },
+              "productId": 3109
+            },
+            "Kit réparation de câble, feu d'accès": {
+              "categoryId": 101407,
+              "categoryName": "Lights",
+              "level": 2,
+              "children": {
+                "Éclairage de porte": {
+                  "categoryId": null,
+                  "categoryName": "Éclairage de porte",
+                  "level": 4,
+                  "children": {
+                    "Kit réparation de câble, feu d'accès": {
+                      "categoryId": 101452,
+                      "categoryName": "Door Light",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60393
+                    }
+                  }
+                }
+              },
+              "productId": 60393
+            },
+            "Lampe de seuil": {
+              "categoryId": 101407,
+              "categoryName": "Lights",
+              "level": 2,
+              "children": {
+                "Éclairage de porte": {
+                  "categoryId": null,
+                  "categoryName": "Éclairage de porte",
+                  "level": 4,
+                  "children": {
+                    "Lampe de seuil": {
+                      "categoryId": 101452,
+                      "categoryName": "Door Light",
+                      "level": 3,
+                      "children": [],
+                      "productId": 178
+                    }
+                  }
+                }
+              },
+              "productId": 178
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    └── Feux (Niveau 2)\n        ├── Lights [ID: 101407] (Niveau 2) → ProductId: 3005\n        │   └── Éclairage de porte (Niveau 4)\n        │       └── Door Light [ID: 101452] (Niveau 3) → ProductId: 3005\n        ├── Lights [ID: 101407] (Niveau 2) → ProductId: 3109\n        │   └── Éclairage de porte (Niveau 4)\n        │       └── Door Light [ID: 101452] (Niveau 3) → ProductId: 3109\n        ├── Lights [ID: 101407] (Niveau 2) → ProductId: 60393\n        │   └── Éclairage de porte (Niveau 4)\n        │       └── Door Light [ID: 101452] (Niveau 3) → ProductId: 60393\n        └── Lights [ID: 101407] (Niveau 2) → ProductId: 178\n            └── Éclairage de porte (Niveau 4)\n                └── Door Light [ID: 101452] (Niveau 3) → ProductId: 178",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Feux",
+        "Lights"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101407
+      ],
+      "finalCategoryId": 101407,
+      "productId": 3005
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Feux",
+        "Lights"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101407
+      ],
+      "finalCategoryId": 101407,
+      "productId": 3109
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Feux",
+        "Lights"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101407
+      ],
+      "finalCategoryId": 101407,
+      "productId": 60393
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Feux",
+        "Lights"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101407
+      ],
+      "finalCategoryId": 101407,
+      "productId": 178
+    }
+  ],
+  "productIdsInArbo": [
+    178,
+    3005,
+    3109,
+    60393
+  ],
+  "matchedProductIds": [
+    178
+  ]
+}

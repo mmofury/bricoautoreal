@@ -1,0 +1,83 @@
+{
+  "productName": "Clip, pare-chocs",
+  "searchText": "Clip, pare-chocs",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:20:52.824Z",
+  "productId": 254,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Pièces de carrosserie/ailes/pares-chocs": {
+          "categoryId": null,
+          "categoryName": "Pièces de carrosserie/ailes/pares-chocs",
+          "level": 2,
+          "children": {
+            "Clip, pare-chocs": {
+              "categoryId": 100743,
+              "categoryName": "Body Parts/Wing/Bumper",
+              "level": 2,
+              "children": {
+                "Clips de fixation": {
+                  "categoryId": null,
+                  "categoryName": "Clips de fixation",
+                  "level": 4,
+                  "children": {
+                    "Clip, pare-chocs": {
+                      "categoryId": 104959,
+                      "categoryName": "Fastening Clips",
+                      "level": 3,
+                      "children": [],
+                      "productId": 254
+                    }
+                  }
+                },
+                "Pare-chocs/composants": {
+                  "categoryId": null,
+                  "categoryName": "Pare-chocs/composants",
+                  "level": 4,
+                  "children": {
+                    "Clip, pare-chocs": {
+                      "categoryId": 100187,
+                      "categoryName": "Bumper/Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 254
+                    }
+                  }
+                }
+              },
+              "productId": 254
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    └── Pièces de carrosserie/ailes/pares-chocs (Niveau 2)\n        └── Body Parts/Wing/Bumper [ID: 100743] (Niveau 2) → ProductId: 254\n            ├── Clips de fixation (Niveau 4)\n            │   └── Fastening Clips [ID: 104959] (Niveau 3) → ProductId: 254\n            └── Pare-chocs/composants (Niveau 4)\n                └── Bumper/Parts [ID: 100187] (Niveau 3) → ProductId: 254",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Pièces de carrosserie/ailes/pares-chocs",
+        "Body Parts/Wing/Bumper"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100743
+      ],
+      "finalCategoryId": 100743,
+      "productId": 254
+    }
+  ],
+  "productIdsInArbo": [
+    254
+  ],
+  "matchedProductIds": [
+    254
+  ]
+}

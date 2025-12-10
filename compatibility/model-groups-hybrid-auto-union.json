@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.169Z",
+  "manufacturer": "AUTO UNION",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 3,
+      "manufacturerName": "AUTO UNION",
+      "groupKey": "AU",
+      "displayName": "AU",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1740,
+          "modelName": "AU 1000",
+          "modelYearFrom": "1958-04-01",
+          "modelYearTo": "1965-06-01"
+        },
+        {
+          "modelId": 1745,
+          "modelName": "AU 1000 Coupé",
+          "modelYearFrom": "1958-06-01",
+          "modelYearTo": "1965-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3,
+      "manufacturerName": "AUTO UNION",
+      "groupKey": "DKW",
+      "displayName": "DKW",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1726,
+          "modelName": "DKW F10",
+          "modelYearFrom": "1950-04-01",
+          "modelYearTo": "1953-06-01"
+        },
+        {
+          "modelId": 1727,
+          "modelName": "DKW F11",
+          "modelYearFrom": "1959-02-01",
+          "modelYearTo": "1966-08-01"
+        },
+        {
+          "modelId": 1728,
+          "modelName": "DKW F12",
+          "modelYearFrom": "1962-11-01",
+          "modelYearTo": "1966-08-01"
+        },
+        {
+          "modelId": 1729,
+          "modelName": "DKW F102",
+          "modelYearFrom": "1964-03-01",
+          "modelYearTo": "1966-08-01"
+        },
+        {
+          "modelId": 1730,
+          "modelName": "DKW MEISTERKLASSE F",
+          "modelYearFrom": "1950-08-01",
+          "modelYearTo": "1955-02-01"
+        },
+        {
+          "modelId": 1731,
+          "modelName": "DKW MEISTERKLASSE Universal",
+          "modelYearFrom": "1951-12-01",
+          "modelYearTo": "1955-02-01"
+        },
+        {
+          "modelId": 1732,
+          "modelName": "DKW SONDERKLASSE",
+          "modelYearFrom": "1953-04-01",
+          "modelYearTo": "1957-02-01"
+        },
+        {
+          "modelId": 1733,
+          "modelName": "DKW SONDERKLASSE Universal",
+          "modelYearFrom": "1953-04-01",
+          "modelYearTo": "1957-02-01"
+        },
+        {
+          "modelId": 1734,
+          "modelName": "DKW SONDERKLASSE F Universal",
+          "modelYearFrom": "1956-05-01",
+          "modelYearTo": "1960-02-01"
+        },
+        {
+          "modelId": 3496,
+          "modelName": "DKW SONDERKLASSE F",
+          "modelYearFrom": "1955-09-01",
+          "modelYearTo": "1960-02-01"
+        },
+        {
+          "modelId": 3584,
+          "modelName": "DKW F12 Décapotable",
+          "modelYearFrom": "1962-11-01",
+          "modelYearTo": "1966-08-01"
+        },
+        {
+          "modelId": 36537,
+          "modelName": "DKW VEMAGUET",
+          "modelYearFrom": "1960-01-01",
+          "modelYearTo": "1968-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3,
+      "manufacturerName": "AUTO UNION",
+      "groupKey": "MUNGA",
+      "displayName": "MUNGA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 1725,
+          "modelName": "MUNGA",
+          "modelYearFrom": "1956-11-01",
+          "modelYearTo": "1969-06-01"
+        }
+      ]
+    }
+  ]
+}

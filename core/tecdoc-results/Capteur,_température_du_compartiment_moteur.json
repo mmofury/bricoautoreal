@@ -1,0 +1,89 @@
+{
+  "productName": "Capteur, température du compartiment moteur",
+  "searchText": "Capteur, température du compartiment moteur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:17:05.848Z",
+  "productId": 1295,
+  "arborescence": {
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Interrupteur / capteur": {
+          "categoryId": null,
+          "categoryName": "Interrupteur / capteur",
+          "level": 2,
+          "children": {
+            "Capteur, température du compartiment moteur": {
+              "categoryId": 100334,
+              "categoryName": "Switch/Sensor",
+              "level": 2,
+              "children": [],
+              "productId": 1295
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Capteurs": {
+          "categoryId": null,
+          "categoryName": "Capteurs",
+          "level": 2,
+          "children": {
+            "Capteur, température du compartiment moteur": {
+              "categoryId": 102747,
+              "categoryName": "Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 1295
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Refroidissement [ID: 100007] (Niveau 1)\n│   └── Interrupteur / capteur (Niveau 2)\n│       └── Switch/Sensor [ID: 100334] (Niveau 2) → ProductId: 1295\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Capteurs (Niveau 2)\n        └── Sensors [ID: 102747] (Niveau 2) → ProductId: 1295",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Refroidissement",
+        "Interrupteur / capteur",
+        "Switch/Sensor"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100334
+      ],
+      "finalCategoryId": 100334,
+      "productId": 1295
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Capteurs",
+        "Sensors"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        102747
+      ],
+      "finalCategoryId": 102747,
+      "productId": 1295
+    }
+  ],
+  "productIdsInArbo": [
+    1295
+  ],
+  "matchedProductIds": [
+    1295
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "productName": "Kit réparation de câble, système Common-Rail",
+  "searchText": "Kit réparation de câble, système Common-Rail",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:10:42.262Z",
+  "productId": 7310,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Kit réparation de câble, système Common-Rail": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Kit de réparation/Kit complet": {
+                  "categoryId": null,
+                  "categoryName": "Kit de réparation/Kit complet",
+                  "level": 4,
+                  "children": {
+                    "Kit réparation de câble, système Common-Rail": {
+                      "categoryId": 102807,
+                      "categoryName": "Repair Kit",
+                      "level": 3,
+                      "children": [],
+                      "productId": 7310
+                    }
+                  }
+                }
+              },
+              "productId": 7310
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carburation [ID: 100254] (Niveau 1)\n    └── Mélange air-carburant (Niveau 2)\n        └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 7310\n            └── Kit de réparation/Kit complet (Niveau 4)\n                └── Repair Kit [ID: 102807] (Niveau 3) → ProductId: 7310",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 7310
+    }
+  ],
+  "productIdsInArbo": [
+    7310
+  ],
+  "matchedProductIds": [
+    7310
+  ]
+}

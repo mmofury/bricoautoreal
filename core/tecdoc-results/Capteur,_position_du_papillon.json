@@ -1,0 +1,241 @@
+{
+  "productName": "Capteur, position du papillon",
+  "searchText": "Capteur, position du papillon",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:16:13.176Z",
+  "productId": 1926,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Carburateurs": {
+          "categoryId": null,
+          "categoryName": "Carburateurs",
+          "level": 2,
+          "children": {
+            "Capteur, position du papillon": {
+              "categoryId": 102903,
+              "categoryName": "Carburettor System",
+              "level": 2,
+              "children": {
+                "Composants du carburateur": {
+                  "categoryId": null,
+                  "categoryName": "Composants du carburateur",
+                  "level": 4,
+                  "children": {
+                    "Capteur, position du papillon": {
+                      "categoryId": 102906,
+                      "categoryName": "Carburettor Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1926
+                    }
+                  }
+                }
+              },
+              "productId": 1926
+            }
+          }
+        },
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Capteur, position du papillon": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Capteur/sonde lambda": {
+                  "categoryId": null,
+                  "categoryName": "Capteur/sonde lambda",
+                  "level": 4,
+                  "children": {
+                    "Capteur, position du papillon": {
+                      "categoryId": 102809,
+                      "categoryName": "Sensor/Probe",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3940
+                    }
+                  }
+                }
+              },
+              "productId": 3940
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Alimentation en air": {
+          "categoryId": null,
+          "categoryName": "Alimentation en air",
+          "level": 2,
+          "children": {
+            "Capteur, position du papillon": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Papillon des gaz /-capteur": {
+                  "categoryId": null,
+                  "categoryName": "Papillon des gaz /-capteur",
+                  "level": 4,
+                  "children": {
+                    "Capteur, position du papillon": {
+                      "categoryId": 100704,
+                      "categoryName": "Throttle Valve/Sensor",
+                      "level": 3,
+                      "children": {
+                        "Capteur des papillons de gaz": {
+                          "categoryId": null,
+                          "categoryName": "Capteur des papillons de gaz",
+                          "level": 6,
+                          "children": {
+                            "Capteur, position du papillon": {
+                              "categoryId": 100706,
+                              "categoryName": "Throttle Sensor",
+                              "level": 4,
+                              "children": [],
+                              "productId": 3940
+                            }
+                          }
+                        }
+                      },
+                      "productId": 3940
+                    }
+                  }
+                }
+              },
+              "productId": 3940
+            }
+          }
+        },
+        "Circuit électrique du moteur": {
+          "categoryId": null,
+          "categoryName": "Circuit électrique du moteur",
+          "level": 2,
+          "children": {
+            "Capteur, position du papillon": {
+              "categoryId": 100754,
+              "categoryName": "Engine Electrics",
+              "level": 2,
+              "children": [],
+              "productId": 3940
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Capteurs": {
+          "categoryId": null,
+          "categoryName": "Capteurs",
+          "level": 2,
+          "children": {
+            "Capteur, position du papillon": {
+              "categoryId": 102747,
+              "categoryName": "Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 3940
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carburation [ID: 100254] (Niveau 1)\n│   ├── Carburateurs (Niveau 2)\n│   │   └── Carburettor System [ID: 102903] (Niveau 2) → ProductId: 1926\n│   │       └── Composants du carburateur (Niveau 4)\n│   │           └── Carburettor Parts [ID: 102906] (Niveau 3) → ProductId: 1926\n│   └── Mélange air-carburant (Niveau 2)\n│       └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 3940\n│           └── Capteur/sonde lambda (Niveau 4)\n│               └── Sensor/Probe [ID: 102809] (Niveau 3) → ProductId: 3940\n\n├── Moteur [ID: 100002] (Niveau 1)\n│   ├── Alimentation en air (Niveau 2)\n│   │   └── Air Supply [ID: 100383] (Niveau 2) → ProductId: 3940\n│   │       └── Papillon des gaz /-capteur (Niveau 4)\n│   │           └── Throttle Valve/Sensor [ID: 100704] (Niveau 3) → ProductId: 3940\n│   │               └── Capteur des papillons de gaz (Niveau 6)\n│   │                   └── Throttle Sensor [ID: 100706] (Niveau 4) → ProductId: 3940\n│   └── Circuit électrique du moteur (Niveau 2)\n│       └── Engine Electrics [ID: 100754] (Niveau 2) → ProductId: 3940\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Capteurs (Niveau 2)\n        └── Sensors [ID: 102747] (Niveau 2) → ProductId: 3940",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Carburateurs",
+        "Carburettor System"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102903
+      ],
+      "finalCategoryId": 102903,
+      "productId": 1926
+    },
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 3940
+    },
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 3940
+    },
+    {
+      "path": [
+        "Moteur",
+        "Circuit électrique du moteur",
+        "Engine Electrics"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100754
+      ],
+      "finalCategoryId": 100754,
+      "productId": 3940
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Capteurs",
+        "Sensors"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        102747
+      ],
+      "finalCategoryId": 102747,
+      "productId": 3940
+    }
+  ],
+  "productIdsInArbo": [
+    1926,
+    3940
+  ],
+  "matchedProductIds": [
+    1926
+  ]
+}

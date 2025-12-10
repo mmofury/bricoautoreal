@@ -1,0 +1,306 @@
+{
+  "productName": "Ressort de suspension",
+  "searchText": "Ressort de suspension",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:08:36.466Z",
+  "productId": 188,
+  "arborescence": {
+    "Outils spéciaux": {
+      "categoryId": 706365,
+      "categoryName": "Outils spéciaux",
+      "level": 1,
+      "children": {
+        "Outils spéciaux suspension/amortissement": {
+          "categoryId": null,
+          "categoryName": "Outils spéciaux suspension/amortissement",
+          "level": 2,
+          "children": {
+            "Compresseur de ressort hélicoïdal, ressort de suspension": {
+              "categoryId": 706386,
+              "categoryName": "Suspension/Damping Special Tools",
+              "level": 2,
+              "children": {
+                "Compresseur de ressort hélicoïdal": {
+                  "categoryId": null,
+                  "categoryName": "Compresseur de ressort hélicoïdal",
+                  "level": 4,
+                  "children": {
+                    "Compresseur de ressort hélicoïdal, ressort de suspension": {
+                      "categoryId": 706387,
+                      "categoryName": "Spring Compressor",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4879
+                    }
+                  }
+                }
+              },
+              "productId": 4879
+            },
+            "Compresseur de ressort, ressort de suspension": {
+              "categoryId": 706386,
+              "categoryName": "Suspension/Damping Special Tools",
+              "level": 2,
+              "children": {
+                "Compresseur de ressort hélicoïdal": {
+                  "categoryId": null,
+                  "categoryName": "Compresseur de ressort hélicoïdal",
+                  "level": 4,
+                  "children": {
+                    "Compresseur de ressort, ressort de suspension": {
+                      "categoryId": 706387,
+                      "categoryName": "Spring Compressor",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8469
+                    }
+                  }
+                }
+              },
+              "productId": 8469
+            },
+            "Kit de compresseurs de ressort": {
+              "categoryId": 706386,
+              "categoryName": "Suspension/Damping Special Tools",
+              "level": 2,
+              "children": {
+                "Compresseur de ressort hélicoïdal": {
+                  "categoryId": null,
+                  "categoryName": "Compresseur de ressort hélicoïdal",
+                  "level": 4,
+                  "children": {
+                    "Kit de compresseurs de ressort": {
+                      "categoryId": 706387,
+                      "categoryName": "Spring Compressor",
+                      "level": 3,
+                      "children": [],
+                      "productId": 7986
+                    }
+                  }
+                }
+              },
+              "productId": 7986
+            }
+          }
+        }
+      }
+    },
+    "Suspension d'essieu/Guidage des roues/Roues": {
+      "categoryId": 100013,
+      "categoryName": "Suspension d'essieu/Guidage des roues/Roues",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Compresseur de ressort hélicoïdal, ressort de suspension": {
+              "categoryId": 103159,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4879
+            }
+          }
+        }
+      }
+    },
+    "Suspension/Amortissement": {
+      "categoryId": 100011,
+      "categoryName": "Suspension/Amortissement",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Compresseur de ressort hélicoïdal, ressort de suspension": {
+              "categoryId": 104406,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 4879
+            },
+            "Compresseur de ressort, ressort de suspension": {
+              "categoryId": 104406,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 8469
+            },
+            "Kit de compresseurs de ressort": {
+              "categoryId": 104406,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 7986
+            }
+          }
+        },
+        "Suspension": {
+          "categoryId": null,
+          "categoryName": "Suspension",
+          "level": 2,
+          "children": {
+            "Ressort de suspension": {
+              "categoryId": 100113,
+              "categoryName": "Coil Springs",
+              "level": 2,
+              "children": [],
+              "productId": 188
+            },
+            "Tuyau de protection, ressort de suspension": {
+              "categoryId": 100113,
+              "categoryName": "Coil Springs",
+              "level": 2,
+              "children": [],
+              "productId": 9421
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Outils spéciaux [ID: 706365] (Niveau 1)\n│   └── Outils spéciaux suspension/amortissement (Niveau 2)\n│       ├── Suspension/Damping Special Tools [ID: 706386] (Niveau 2) → ProductId: 4879\n│       │   └── Compresseur de ressort hélicoïdal (Niveau 4)\n│       │       └── Spring Compressor [ID: 706387] (Niveau 3) → ProductId: 4879\n│       ├── Suspension/Damping Special Tools [ID: 706386] (Niveau 2) → ProductId: 8469\n│       │   └── Compresseur de ressort hélicoïdal (Niveau 4)\n│       │       └── Spring Compressor [ID: 706387] (Niveau 3) → ProductId: 8469\n│       └── Suspension/Damping Special Tools [ID: 706386] (Niveau 2) → ProductId: 7986\n│           └── Compresseur de ressort hélicoïdal (Niveau 4)\n│               └── Spring Compressor [ID: 706387] (Niveau 3) → ProductId: 7986\n\n├── Suspension d'essieu/Guidage des roues/Roues [ID: 100013] (Niveau 1)\n│   └── Outils (Niveau 2)\n│       └── Tools [ID: 103159] (Niveau 2) → ProductId: 4879\n\n└── Suspension/Amortissement [ID: 100011] (Niveau 1)\n    ├── Outils (Niveau 2)\n    │   ├── Tools [ID: 104406] (Niveau 2) → ProductId: 4879\n    │   ├── Tools [ID: 104406] (Niveau 2) → ProductId: 8469\n    │   └── Tools [ID: 104406] (Niveau 2) → ProductId: 7986\n    └── Suspension (Niveau 2)\n        ├── Coil Springs [ID: 100113] (Niveau 2) → ProductId: 188\n        └── Coil Springs [ID: 100113] (Niveau 2) → ProductId: 9421",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Outils spéciaux",
+        "Outils spéciaux suspension/amortissement",
+        "Suspension/Damping Special Tools"
+      ],
+      "categoryIds": [
+        706365,
+        null,
+        706386
+      ],
+      "finalCategoryId": 706386,
+      "productId": 4879
+    },
+    {
+      "path": [
+        "Outils spéciaux",
+        "Outils spéciaux suspension/amortissement",
+        "Suspension/Damping Special Tools"
+      ],
+      "categoryIds": [
+        706365,
+        null,
+        706386
+      ],
+      "finalCategoryId": 706386,
+      "productId": 8469
+    },
+    {
+      "path": [
+        "Outils spéciaux",
+        "Outils spéciaux suspension/amortissement",
+        "Suspension/Damping Special Tools"
+      ],
+      "categoryIds": [
+        706365,
+        null,
+        706386
+      ],
+      "finalCategoryId": 706386,
+      "productId": 7986
+    },
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        103159
+      ],
+      "finalCategoryId": 103159,
+      "productId": 4879
+    },
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        104406
+      ],
+      "finalCategoryId": 104406,
+      "productId": 4879
+    },
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        104406
+      ],
+      "finalCategoryId": 104406,
+      "productId": 8469
+    },
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        104406
+      ],
+      "finalCategoryId": 104406,
+      "productId": 7986
+    },
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Suspension",
+        "Coil Springs"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        100113
+      ],
+      "finalCategoryId": 100113,
+      "productId": 188
+    },
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Suspension",
+        "Coil Springs"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        100113
+      ],
+      "finalCategoryId": 100113,
+      "productId": 9421
+    }
+  ],
+  "productIdsInArbo": [
+    188,
+    4879,
+    7986,
+    8469,
+    9421
+  ],
+  "matchedProductIds": [
+    188
+  ]
+}

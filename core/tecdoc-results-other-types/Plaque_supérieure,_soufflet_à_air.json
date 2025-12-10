@@ -1,0 +1,64 @@
+{
+  "productName": "Plaque supérieure, soufflet à air",
+  "productId": 5102,
+  "searchText": "Plaque supérieure, soufflet à air",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Suspension/Amortissement": {
+          "categoryId": 200060,
+          "categoryName": "Suspension/Amortissement",
+          "level": 1,
+          "children": {
+            "Suspension pneumatique": {
+              "categoryId": null,
+              "categoryName": "Suspension pneumatique",
+              "level": 2,
+              "children": {
+                "Plaque supérieure, soufflet à air": {
+                  "categoryId": 200883,
+                  "categoryName": "Air Suspension",
+                  "level": 2,
+                  "children": {
+                    "Suspension pneumatique, pièces de montage": {
+                      "categoryId": null,
+                      "categoryName": "Suspension pneumatique, pièces de montage",
+                      "level": 4,
+                      "children": {
+                        "Plaque supérieure, soufflet à air": {
+                          "categoryId": 200933,
+                          "categoryName": "Air Suspension, parts",
+                          "level": 3,
+                          "children": [],
+                          "productId": 5102
+                        }
+                      }
+                    }
+                  },
+                  "productId": 5102
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Suspension/Amortissement [ID: 200060] (Niveau 1)\n    └── Suspension pneumatique (Niveau 2)\n        └── Air Suspension [ID: 200883] (Niveau 2) → ProductId: 5102\n            └── Suspension pneumatique, pièces de montage (Niveau 4)\n                └── Air Suspension, parts [ID: 200933] (Niveau 3) → ProductId: 5102",
+      "productIdsInArbo": [
+        5102
+      ],
+      "matchedProductIds": [
+        5102
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:11:55.859Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

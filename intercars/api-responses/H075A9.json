@@ -1,0 +1,36 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H075A9",
+      "index": "303.11.0095",
+      "tecDoc": "303.11.0095",
+      "tecDocProd": "6487",
+      "articleNumber": "303.11.0095",
+      "brand": "VADEN",
+      "shortDescription": "Solenoid valve",
+      "description": "Gear shifting, outer Gear Shifter Cylinder G 211, G 231-16, G 260 fits: MERCEDES",
+      "gtuCode": "GTU_07",
+      "customsCode": "87084099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1323",
+          "primary": true,
+          "name": {
+            "en": "Solenoid valve"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3635",
+          "primary": false,
+          "name": {
+            "en": "Solenoid Valve, shift cylinder"
+          }
+        }
+      ]
+    }
+  ]
+}

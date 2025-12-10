@@ -1,0 +1,64 @@
+{
+  "productName": "Filtre à air, ralentisseur",
+  "productId": 5072,
+  "searchText": "Filtre à air, ralentisseur",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Dispositif de freinage": {
+          "categoryId": 200058,
+          "categoryName": "Dispositif de freinage",
+          "level": 1,
+          "children": {
+            "Système de frein continu": {
+              "categoryId": null,
+              "categoryName": "Système de frein continu",
+              "level": 2,
+              "children": {
+                "Filtre à air, ralentisseur": {
+                  "categoryId": 200105,
+                  "categoryName": "Retarder Brake System",
+                  "level": 2,
+                  "children": {
+                    "Retardeur secondaire": {
+                      "categoryId": null,
+                      "categoryName": "Retardeur secondaire",
+                      "level": 4,
+                      "children": {
+                        "Filtre à air, ralentisseur": {
+                          "categoryId": 200419,
+                          "categoryName": "Secondary Exhaust Brake",
+                          "level": 3,
+                          "children": [],
+                          "productId": 5072
+                        }
+                      }
+                    }
+                  },
+                  "productId": 5072
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Dispositif de freinage [ID: 200058] (Niveau 1)\n    └── Système de frein continu (Niveau 2)\n        └── Retarder Brake System [ID: 200105] (Niveau 2) → ProductId: 5072\n            └── Retardeur secondaire (Niveau 4)\n                └── Secondary Exhaust Brake [ID: 200419] (Niveau 3) → ProductId: 5072",
+      "productIdsInArbo": [
+        5072
+      ],
+      "matchedProductIds": [
+        5072
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:29:46.549Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

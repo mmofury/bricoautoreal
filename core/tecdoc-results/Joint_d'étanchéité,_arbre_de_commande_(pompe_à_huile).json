@@ -1,0 +1,84 @@
+{
+  "productName": "Joint d'étanchéité, arbre de commande (pompe à huile)",
+  "searchText": "Joint d'étanchéité, arbre de commande (pompe à huile)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:52:06.801Z",
+  "productId": 3806,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Lubrification": {
+          "categoryId": null,
+          "categoryName": "Lubrification",
+          "level": 2,
+          "children": {
+            "Joint d'étanchéité, arbre de commande (pompe à huile)": {
+              "categoryId": 100245,
+              "categoryName": "Lubrication",
+              "level": 2,
+              "children": {
+                "Pompe à huile et pièces de montage": {
+                  "categoryId": null,
+                  "categoryName": "Pompe à huile et pièces de montage",
+                  "level": 4,
+                  "children": {
+                    "Joint d'étanchéité, arbre de commande (pompe à huile)": {
+                      "categoryId": 100476,
+                      "categoryName": "Oil Pump/Attachment Parts",
+                      "level": 3,
+                      "children": {
+                        "Joint": {
+                          "categoryId": null,
+                          "categoryName": "Joint",
+                          "level": 6,
+                          "children": {
+                            "Joint d'étanchéité, arbre de commande (pompe à huile)": {
+                              "categoryId": 100493,
+                              "categoryName": "Seal",
+                              "level": 4,
+                              "children": [],
+                              "productId": 3806
+                            }
+                          }
+                        }
+                      },
+                      "productId": 3806
+                    }
+                  }
+                }
+              },
+              "productId": 3806
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Lubrification (Niveau 2)\n        └── Lubrication [ID: 100245] (Niveau 2) → ProductId: 3806\n            └── Pompe à huile et pièces de montage (Niveau 4)\n                └── Oil Pump/Attachment Parts [ID: 100476] (Niveau 3) → ProductId: 3806\n                    └── Joint (Niveau 6)\n                        └── Seal [ID: 100493] (Niveau 4) → ProductId: 3806",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Lubrification",
+        "Lubrication"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100245
+      ],
+      "finalCategoryId": 100245,
+      "productId": 3806
+    }
+  ],
+  "productIdsInArbo": [
+    3806
+  ],
+  "matchedProductIds": [
+    3806
+  ]
+}

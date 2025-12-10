@@ -1,0 +1,82 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.364Z",
+  "manufacturer": "JONWAY",
+  "countGroups": 5,
+  "groups": [
+    {
+      "manufacturerId": 3993,
+      "manufacturerName": "JONWAY",
+      "groupKey": "A380",
+      "displayName": "A380",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11658,
+          "modelName": "A380",
+          "modelYearFrom": "2009-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3993,
+      "manufacturerName": "JONWAY",
+      "groupKey": "FALCON",
+      "displayName": "FALCON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11657,
+          "modelName": "FALCON",
+          "modelYearFrom": "2013-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3993,
+      "manufacturerName": "JONWAY",
+      "groupKey": "PAISAJE",
+      "displayName": "PAISAJE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36878,
+          "modelName": "PAISAJE",
+          "modelYearFrom": "2007-01-01",
+          "modelYearTo": "2013-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3993,
+      "manufacturerName": "JONWAY",
+      "groupKey": "WUXING",
+      "displayName": "WUXING",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36938,
+          "modelName": "WUXING",
+          "modelYearFrom": "2012-05-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3993,
+      "manufacturerName": "JONWAY",
+      "groupKey": "ZHUANGWEI",
+      "displayName": "ZHUANGWEI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36880,
+          "modelName": "ZHUANGWEI",
+          "modelYearFrom": "2008-01-01",
+          "modelYearTo": "2013-12-01"
+        }
+      ]
+    }
+  ]
+}

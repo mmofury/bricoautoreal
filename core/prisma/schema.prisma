@@ -1,0 +1,376 @@
+// Prisma Schema pour Pièces Auto
+// Compatible avec PostgreSQL, MySQL, SQLite
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite" // SQLite pour le développement, changez en "postgresql" pour la production
+  url      = env("DATABASE_URL")
+}
+
+model Manufacturer {
+  id        Int      @id @default(autoincrement())
+  name      String   @unique
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  vehicleModels VehicleModel[]
+  modelGroups   ModelGroup[]
+
+  @@index([name])
+  @@map("manufacturers")
+}
+
+model VehicleModel {
+  id             Int      @id @default(autoincrement())
+  modelId        Int      @unique @map("model_id")
+  modelName      String   @map("model_name")
+  manufacturerId Int      @map("manufacturer_id")
+  createdAt      DateTime @default(now()) @map("created_at")
+  updatedAt      DateTime @updatedAt @map("updated_at")
+
+  manufacturer Manufacturer      @relation(fields: [manufacturerId], references: [id], onDelete: Cascade)
+  vehicles     Vehicle[]
+  modelGroups  ModelGroupModel[]
+
+  @@index([modelId])
+  @@index([manufacturerId])
+  @@map("vehicle_models")
+}
+
+// Groupes de modèles (ex: "307" regroupe "307 3/5 portes", "307 Berline", etc.)
+model ModelGroup {
+  id             Int      @id @default(autoincrement())
+  manufacturerId Int      @map("manufacturer_id")
+  groupKey       String   @map("group_key") // Clé normalisée (ex: "307")
+  displayName    String   @map("display_name") // Nom d'affichage (ex: "307")
+  confidence     String   @default("rule") // "rule" ou "ai"
+  createdAt      DateTime @default(now()) @map("created_at")
+  updatedAt      DateTime @updatedAt @map("updated_at")
+
+  manufacturer Manufacturer      @relation(fields: [manufacturerId], references: [id], onDelete: Cascade)
+  models       ModelGroupModel[]
+
+  @@unique([manufacturerId, groupKey])
+  @@index([manufacturerId])
+  @@index([groupKey])
+  @@map("model_groups")
+}
+
+// Relation many-to-many : ModelGroup <-> VehicleModel
+model ModelGroupModel {
+  id             Int      @id @default(autoincrement())
+  modelGroupId   Int      @map("model_group_id")
+  vehicleModelId Int      @map("vehicle_model_id")
+  createdAt      DateTime @default(now()) @map("created_at")
+
+  modelGroup   ModelGroup   @relation(fields: [modelGroupId], references: [id], onDelete: Cascade)
+  vehicleModel VehicleModel @relation(fields: [vehicleModelId], references: [id], onDelete: Cascade)
+
+  @@unique([modelGroupId, vehicleModelId])
+  @@index([modelGroupId])
+  @@index([vehicleModelId])
+  @@map("model_group_models")
+}
+
+model Vehicle {
+  id                        Int      @id @default(autoincrement())
+  vehicleId                 Int      @unique @map("vehicle_id")
+  modelId                   Int      @map("model_id")
+  typeEngineName            String?  @map("type_engine_name")
+  constructionIntervalStart String?  @map("construction_interval_start")
+  constructionIntervalEnd   String?  @map("construction_interval_end")
+  createdAt                 DateTime @default(now()) @map("created_at")
+  updatedAt                 DateTime @updatedAt @map("updated_at")
+
+  model           VehicleModel                  @relation(fields: [modelId], references: [id], onDelete: Cascade)
+  compatibilities ProductVehicleCompatibility[]
+
+  @@index([vehicleId])
+  @@index([modelId])
+  @@index([constructionIntervalStart, constructionIntervalEnd])
+  @@map("vehicles")
+}
+
+model Product {
+  id                   Int      @id @default(autoincrement())
+  articleNo            String   @unique @map("article_no")
+  csvId                String?  @map("csv_id")
+  supplierName         String?  @map("supplier_name")
+  productName          String?  @map("product_name")
+  eanNumber            String?  @map("ean_number")
+  description          String?
+  packageWeight        Float?   @map("package_weight")
+  packageHeight        Float?   @map("package_height")
+  packageWidth         Float?   @map("package_width")
+  packageLength        Float?   @map("package_length")
+  bigcommerceProductId Int?     @map("bigcommerce_product_id")
+  createdAt            DateTime @default(now()) @map("created_at")
+  updatedAt            DateTime @updatedAt @map("updated_at")
+
+  specifications      ProductSpecification[]
+  oemNumbers          ProductOemNumber[]
+  compatibilities     ProductVehicleCompatibility[]
+  images              ProductImage[]
+  productGroupId      Int?                          @map("product_group_id")
+  productGroup        ProductGroup?                 @relation(fields: [productGroupId], references: [id], onDelete: SetNull)
+  interCarsCategories ProductInterCarsCategory[]
+  tecDocCategories    ProductTecDocCategory[]
+
+  @@index([articleNo])
+  @@index([bigcommerceProductId])
+  @@index([supplierName])
+  @@index([eanNumber])
+  @@map("products")
+}
+
+model ProductSpecification {
+  id            Int      @id @default(autoincrement())
+  productId     Int      @map("product_id")
+  criteriaName  String   @map("criteria_name")
+  criteriaValue String?  @map("criteria_value")
+  createdAt     DateTime @default(now()) @map("created_at")
+
+  product Product @relation(fields: [productId], references: [id], onDelete: Cascade)
+
+  @@index([productId])
+  @@index([criteriaName])
+  @@map("product_specifications")
+}
+
+model ProductOemNumber {
+  id           Int      @id @default(autoincrement())
+  productId    Int      @map("product_id")
+  oemBrand     String   @map("oem_brand")
+  oemDisplayNo String   @map("oem_display_no")
+  createdAt    DateTime @default(now()) @map("created_at")
+
+  product Product @relation(fields: [productId], references: [id], onDelete: Cascade)
+
+  @@index([productId])
+  @@index([oemBrand])
+  @@index([oemDisplayNo])
+  @@map("product_oem_numbers")
+}
+
+model ProductVehicleCompatibility {
+  id        Int      @id @default(autoincrement())
+  productId Int      @map("product_id")
+  vehicleId Int      @map("vehicle_id")
+  createdAt DateTime @default(now()) @map("created_at")
+
+  product Product @relation(fields: [productId], references: [id], onDelete: Cascade)
+  vehicle Vehicle @relation(fields: [vehicleId], references: [id], onDelete: Cascade)
+
+  @@unique([productId, vehicleId])
+  @@index([productId])
+  @@index([vehicleId])
+  @@map("product_vehicle_compatibility")
+}
+
+model ProductImage {
+  id            Int      @id @default(autoincrement())
+  productId     Int      @map("product_id")
+  imageUrl      String?  @map("image_url")
+  imageFilename String?  @map("image_filename")
+  createdAt     DateTime @default(now()) @map("created_at")
+
+  product Product @relation(fields: [productId], references: [id], onDelete: Cascade)
+
+  @@index([productId])
+  @@map("product_images")
+}
+
+// Groupes de produits (productName) avec URLs propres
+model ProductGroup {
+  id              Int      @id @default(autoincrement())
+  productName     String   @unique @map("product_name")
+  slug            String   @unique
+  displayId       String   @unique @map("display_id")
+  tecdocProductId Int?     @map("tecdoc_product_id")
+  url             String   @unique
+  createdAt       DateTime @default(now()) @map("created_at")
+  updatedAt       DateTime @updatedAt @map("updated_at")
+
+  categories ProductGroupCategory[]
+  products   Product[]
+
+  @@index([slug])
+  @@index([displayId])
+  @@index([tecdocProductId])
+  @@map("product_groups")
+}
+
+// Catégories TecDoc (arborescence)
+model TecDocCategory {
+  id               Int      @id @default(autoincrement())
+  name             String   @map("name")
+  slug             String   @unique
+  displayId        String   @unique @map("display_id") // ID pour l'URL (ex: "123")
+  tecdocCategoryId Int?     @unique @map("tecdoc_category_id")
+  level            Int
+  parentId         Int?     @map("parent_id")
+  url              String   @unique // URL complète (ex: "/categorie/epuration-des-gaz-d-echappement-123")
+  createdAt        DateTime @default(now()) @map("created_at")
+  updatedAt        DateTime @updatedAt @map("updated_at")
+
+  parent                  TecDocCategory?         @relation("CategoryHierarchy", fields: [parentId], references: [id], onDelete: Cascade)
+  children                TecDocCategory[]        @relation("CategoryHierarchy")
+  productGroups           ProductGroupCategory[]
+  productTecDocCategories ProductTecDocCategory[]
+
+  @@index([slug])
+  @@index([displayId])
+  @@index([tecdocCategoryId])
+  @@index([parentId])
+  @@map("tecdoc_categories")
+}
+
+// Relation many-to-many : Groupes de produits ↔ Catégories
+model ProductGroupCategory {
+  id               Int      @id @default(autoincrement())
+  productGroupId   Int      @map("product_group_id")
+  tecdocCategoryId Int      @map("tecdoc_category_id")
+  createdAt        DateTime @default(now()) @map("created_at")
+
+  productGroup ProductGroup   @relation(fields: [productGroupId], references: [id], onDelete: Cascade)
+  category     TecDocCategory @relation(fields: [tecdocCategoryId], references: [id], onDelete: Cascade)
+
+  @@unique([productGroupId, tecdocCategoryId])
+  @@index([productGroupId])
+  @@index([tecdocCategoryId])
+  @@map("product_group_categories")
+}
+
+// Table pour isoler 2 produits par productName
+model ProductSample {
+  id          Int      @id @default(autoincrement())
+  csvId       String?  @map("csv_id")
+  productName String?  @map("product_name")
+  createdAt   DateTime @default(now()) @map("created_at")
+  updatedAt   DateTime @updatedAt @map("updated_at")
+
+  @@index([productName])
+  @@index([csvId])
+  @@map("product_samples")
+}
+
+// Table pour stocker la hiérarchie InterCars (niveau 1, 2, 3, 4)
+model InterCarsHierarchy {
+  id               Int      @id @default(autoincrement())
+  genericArticleId String   @unique @map("generic_article_id") // Ex: "GenericArticle_3897"
+  level1Id         String   @map("level1_id")
+  level1Label      String   @map("level1_label")
+  level1LabelFr    String?  @map("level1_label_fr") // Traduction française
+  level2Id         String   @map("level2_id")
+  level2Label      String   @map("level2_label")
+  level2LabelFr    String?  @map("level2_label_fr") // Traduction française
+  level3Id         String   @map("level3_id")
+  level3Label      String   @map("level3_label")
+  level3LabelFr    String?  @map("level3_label_fr") // Traduction française
+  level4Id         String?  @map("level4_id") // Optionnel (si c'est un niveau 3, pas de level4)
+  level4Label      String?  @map("level4_label")
+  level4LabelFr    String?  @map("level4_label_fr") // Traduction française
+  url              String? // URL hiérarchique (ex: "/fuel-feed-system/pressure-accumulator-hoses/pressure-accumulator")
+  level1Url        String?  @map("level1_url") // URL du niveau 1 (ex: "/pieces-detachees/filtres-1")
+  level2Url        String?  @map("level2_url") // URL du niveau 2 (ex: "/pieces-detachees/filtre-a-huile-2")
+  level3Url        String?  @map("level3_url") // URL du niveau 3 (ex: "/pieces-detachees/filtre-a-huile-3")
+  level4Url        String?  @map("level4_url") // URL du niveau 4 (ex: "/pieces-detachees/filtre-a-huile-4")
+  childrenLevel2   String?  @map("children_level2") // Navigation: enfants de niveau 2 depuis niveau 1 (JSON stringifié)
+  childrenLevel3   String?  @map("children_level3") // Navigation: enfants de niveau 3 depuis niveau 2 (JSON stringifié)
+  childrenLevel4   String?  @map("children_level4") // Navigation: enfants de niveau 4 depuis niveau 3 (JSON stringifié)
+  createdAt        DateTime @default(now()) @map("created_at")
+  updatedAt        DateTime @updatedAt @map("updated_at")
+
+  categories InterCarsCategory[]
+
+  @@index([genericArticleId])
+  @@index([level1Id])
+  @@index([level2Id])
+  @@index([level3Id])
+  @@index([level4Id])
+  @@index([url])
+  @@map("intercars_hierarchy")
+}
+
+// Table pour stocker les correspondances productName => catégorie InterCars
+model InterCarsCategory {
+  id               Int      @id @default(autoincrement())
+  productName      String   @map("product_name")
+  csvId            String   @map("csv_id") // Le csvId utilisé pour l'appel API
+  genericArticleId String   @map("generic_article_id") // Ex: "GenericArticle_82"
+  categoryName     String?  @map("category_name") // Ex: "Brake disc"
+  isPrimary        Boolean  @default(false) @map("is_primary") // Si primary: true dans la réponse
+  apiResponse      String?  @map("api_response") // JSON de la réponse complète
+  hierarchyId      Int?     @map("hierarchy_id") // Lien vers InterCarsHierarchy
+  createdAt        DateTime @default(now()) @map("created_at")
+  updatedAt        DateTime @updatedAt @map("updated_at")
+
+  hierarchy InterCarsHierarchy?        @relation(fields: [hierarchyId], references: [id], onDelete: SetNull)
+  products  ProductInterCarsCategory[]
+
+  @@index([productName])
+  @@index([csvId])
+  @@index([genericArticleId])
+  @@index([productName, genericArticleId])
+  @@index([hierarchyId])
+  @@map("intercars_categories")
+}
+
+// Table de liaison Product -> TecDocCategory
+model ProductTecDocCategory {
+  id               Int      @id @default(autoincrement())
+  productId        Int      @map("product_id")
+  tecDocCategoryId Int      @map("tecdoc_category_id")
+  createdAt        DateTime @default(now()) @map("created_at")
+
+  product        Product        @relation(fields: [productId], references: [id], onDelete: Cascade)
+  tecDocCategory TecDocCategory @relation(fields: [tecDocCategoryId], references: [id], onDelete: Cascade)
+
+  @@unique([productId, tecDocCategoryId])
+  @@index([productId])
+  @@index([tecDocCategoryId])
+  @@map("product_tecdoc_categories")
+}
+
+// Table de liaison Product -> InterCarsCategory
+model ProductInterCarsCategory {
+  id                  Int      @id @default(autoincrement())
+  productId           Int      @map("product_id")
+  interCarsCategoryId Int      @map("intercars_category_id")
+  createdAt           DateTime @default(now()) @map("created_at")
+
+  product           Product           @relation(fields: [productId], references: [id], onDelete: Cascade)
+  interCarsCategory InterCarsCategory @relation(fields: [interCarsCategoryId], references: [id], onDelete: Cascade)
+
+  @@unique([productId, interCarsCategoryId])
+  @@index([productId])
+  @@index([interCarsCategoryId])
+  @@map("product_intercars_categories")
+}
+
+// Table pour stocker les images des catégories level 2
+model InterCarsLevel2Image {
+  id        Int      @id @default(autoincrement())
+  level2Id  String   @unique @map("level2_id")
+  imageUrl  String?  @map("image_url")
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  @@index([level2Id])
+  @@map("intercars_level2_images")
+}
+
+model SupplierLogo {
+  id           Int      @id @default(autoincrement())
+  supplierName String   @unique @map("supplier_name")
+  logoUrl      String?  @map("logo_url")
+  filename     String?  @map("filename")
+  createdAt    DateTime @default(now()) @map("created_at")
+  updatedAt    DateTime @updatedAt @map("updated_at")
+
+  @@index([supplierName])
+  @@map("supplier_logos")
+}

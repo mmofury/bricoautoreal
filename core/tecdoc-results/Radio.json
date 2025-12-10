@@ -1,0 +1,963 @@
+{
+  "productName": "Radio",
+  "searchText": "Radio",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-03T07:06:51.770Z",
+  "productId": 7863,
+  "arborescence": {
+    "Entraînement hybride/électrique": {
+      "categoryId": 706209,
+      "categoryName": "Entraînement hybride/électrique",
+      "level": 1,
+      "children": {
+        "Refroidissement": {
+          "categoryId": null,
+          "categoryName": "Refroidissement",
+          "level": 2,
+          "children": {
+            "Vanne régul. liquide refroidiss., refroidiss. batt. tract.": {
+              "categoryId": 706210,
+              "categoryName": "Cooling System",
+              "level": 2,
+              "children": {
+                "Radiateur pour batterie de traction": {
+                  "categoryId": null,
+                  "categoryName": "Radiateur pour batterie de traction",
+                  "level": 4,
+                  "children": {
+                    "Vanne régul. liquide refroidiss., refroidiss. batt. tract.": {
+                      "categoryId": 706212,
+                      "categoryName": "Radiator for traction battery",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60978
+                    }
+                  }
+                }
+              },
+              "productId": 60978
+            }
+          }
+        }
+      }
+    },
+    "Équipement intérieur": {
+      "categoryId": 100341,
+      "categoryName": "Équipement intérieur",
+      "level": 1,
+      "children": {
+        "Accessoires": {
+          "categoryId": null,
+          "categoryName": "Accessoires",
+          "level": 2,
+          "children": {
+            "Bouton de verrouillage": {
+              "categoryId": 100730,
+              "categoryName": "Accessories",
+              "level": 2,
+              "children": [],
+              "productId": 1646
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Mandrin d'arrêt, arbre à contrepoids d'équilibrage": {
+              "categoryId": 103129,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 8440
+            }
+          }
+        }
+      }
+    },
+    "Roues/Pneus": {
+      "categoryId": 103099,
+      "categoryName": "Roues/Pneus",
+      "level": 1,
+      "children": {
+        "Jantes": {
+          "categoryId": null,
+          "categoryName": "Jantes",
+          "level": 2,
+          "children": {
+            "Jeu de rayons, jante": {
+              "categoryId": 103101,
+              "categoryName": "Rims",
+              "level": 2,
+              "children": [],
+              "productId": 60586
+            },
+            "Raccord, rayon": {
+              "categoryId": 103101,
+              "categoryName": "Rims",
+              "level": 2,
+              "children": [],
+              "productId": 60591
+            },
+            "Rayon, jante": {
+              "categoryId": 103101,
+              "categoryName": "Rims",
+              "level": 2,
+              "children": [],
+              "productId": 60590
+            }
+          }
+        }
+      }
+    },
+    "Suspension/Amortissement": {
+      "categoryId": 100011,
+      "categoryName": "Suspension/Amortissement",
+      "level": 1,
+      "children": {
+        "Suspension sur ressorts à lames": {
+          "categoryId": null,
+          "categoryName": "Suspension sur ressorts à lames",
+          "level": 2,
+          "children": {
+            "Butée du ressort à lame, ressort additionnel": {
+              "categoryId": 100810,
+              "categoryName": "Leaf Spring Suspension",
+              "level": 2,
+              "children": [],
+              "productId": 3300
+            }
+          }
+        }
+      }
+    },
+    "Système d'information et de communication": {
+      "categoryId": 100339,
+      "categoryName": "Système d'information et de communication",
+      "level": 1,
+      "children": {
+        "Antennes": {
+          "categoryId": null,
+          "categoryName": "Antennes",
+          "level": 2,
+          "children": {
+            "Antenne": {
+              "categoryId": 100695,
+              "categoryName": "Aerial",
+              "level": 2,
+              "children": [],
+              "productId": 46
+            }
+          }
+        },
+        "Communication": {
+          "categoryId": null,
+          "categoryName": "Communication",
+          "level": 2,
+          "children": {
+            "Antenne": {
+              "categoryId": 100696,
+              "categoryName": "Communication",
+              "level": 2,
+              "children": [],
+              "productId": 46
+            }
+          }
+        },
+        "Navigation": {
+          "categoryId": null,
+          "categoryName": "Navigation",
+          "level": 2,
+          "children": {
+            "Combiné radio/système de navigation": {
+              "categoryId": 100697,
+              "categoryName": "Navigation",
+              "level": 2,
+              "children": [],
+              "productId": 2036
+            },
+            "Télécommande au volant, système de navigation /auto-radio": {
+              "categoryId": 100697,
+              "categoryName": "Navigation",
+              "level": 2,
+              "children": [],
+              "productId": 60325
+            }
+          }
+        },
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Kit d'outils de montage / démontage, radio": {
+              "categoryId": 105407,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 7130
+            },
+            "Outil de montage et de démontage, radio": {
+              "categoryId": 105407,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 7128
+            }
+          }
+        },
+        "Système audio": {
+          "categoryId": null,
+          "categoryName": "Système audio",
+          "level": 2,
+          "children": {
+            "Adaptateur DAB+, radio": {
+              "categoryId": 100694,
+              "categoryName": "Audio System",
+              "level": 2,
+              "children": [],
+              "productId": 60952
+            },
+            "Adaptateur, haut-parleur": {
+              "categoryId": 100694,
+              "categoryName": "Audio System",
+              "level": 2,
+              "children": [],
+              "productId": 60953
+            },
+            "Ampoule, écran radio": {
+              "categoryId": 100694,
+              "categoryName": "Audio System",
+              "level": 2,
+              "children": [],
+              "productId": 8271
+            },
+            "câble adaptateur, autoradio": {
+              "categoryId": 100694,
+              "categoryName": "Audio System",
+              "level": 2,
+              "children": [],
+              "productId": 60819
+            },
+            "Cadre adaptateur, autoradio": {
+              "categoryId": 100694,
+              "categoryName": "Audio System",
+              "level": 2,
+              "children": [],
+              "productId": 60820
+            },
+            "Combiné changeur radio-minidisque/CD": {
+              "categoryId": 100694,
+              "categoryName": "Audio System",
+              "level": 2,
+              "children": [],
+              "productId": 2035
+            },
+            "Combiné changeur radio/CD": {
+              "categoryId": 100694,
+              "categoryName": "Audio System",
+              "level": 2,
+              "children": [],
+              "productId": 2034
+            },
+            "Combiné radio/système de navigation": {
+              "categoryId": 100694,
+              "categoryName": "Audio System",
+              "level": 2,
+              "children": [],
+              "productId": 2036
+            },
+            "Condensateur, radio": {
+              "categoryId": 100694,
+              "categoryName": "Audio System",
+              "level": 2,
+              "children": [],
+              "productId": 8451
+            },
+            "Kit réparation de câble, haut-parleur": {
+              "categoryId": 100694,
+              "categoryName": "Audio System",
+              "level": 2,
+              "children": [],
+              "productId": 9860
+            },
+            "Radio-cassette": {
+              "categoryId": 100694,
+              "categoryName": "Audio System",
+              "level": 2,
+              "children": [],
+              "productId": 2031
+            },
+            "Radio-CD": {
+              "categoryId": 100694,
+              "categoryName": "Audio System",
+              "level": 2,
+              "children": [],
+              "productId": 2032
+            },
+            "Radio-Minidisque": {
+              "categoryId": 100694,
+              "categoryName": "Audio System",
+              "level": 2,
+              "children": [],
+              "productId": 2033
+            },
+            "Télécommande au volant, système de navigation /auto-radio": {
+              "categoryId": 100694,
+              "categoryName": "Audio System",
+              "level": 2,
+              "children": [],
+              "productId": 60325
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Instruments": {
+          "categoryId": null,
+          "categoryName": "Instruments",
+          "level": 2,
+          "children": {
+            "Kit réparation de câble, récepteur d’horloge radio": {
+              "categoryId": 100322,
+              "categoryName": "Instruments",
+              "level": 2,
+              "children": {
+                "Instruments indicateurs": {
+                  "categoryId": null,
+                  "categoryName": "Instruments indicateurs",
+                  "level": 4,
+                  "children": {
+                    "Kit réparation de câble, récepteur d’horloge radio": {
+                      "categoryId": 100555,
+                      "categoryName": "Gauges",
+                      "level": 3,
+                      "children": [],
+                      "productId": 9594
+                    }
+                  }
+                }
+              },
+              "productId": 9594
+            }
+          }
+        },
+        "Kit/pièces de câble": {
+          "categoryId": null,
+          "categoryName": "Kit/pièces de câble",
+          "level": 2,
+          "children": {
+            "Kit de montage, kit de câbles": {
+              "categoryId": 103066,
+              "categoryName": "Cable Set/individual parts",
+              "level": 2,
+              "children": [],
+              "productId": 4321
+            }
+          }
+        }
+      }
+    },
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Aide au stationnement/Alarme de marche arrière": {
+          "categoryId": null,
+          "categoryName": "Aide au stationnement/Alarme de marche arrière",
+          "level": 2,
+          "children": {
+            "Commande de silence radio, aide au stationnement": {
+              "categoryId": 100618,
+              "categoryName": "park distance control/Back-up Alarm",
+              "level": 2,
+              "children": [],
+              "productId": 1550
+            }
+          }
+        },
+        "Verrouillage central": {
+          "categoryId": null,
+          "categoryName": "Verrouillage central",
+          "level": 2,
+          "children": {
+            "Commande à distance, verrouillage central": {
+              "categoryId": 100617,
+              "categoryName": "Central Locking",
+              "level": 2,
+              "children": [],
+              "productId": 201
+            }
+          }
+        }
+      }
+    },
+    "Verrouillage": {
+      "categoryId": 100685,
+      "categoryName": "Verrouillage",
+      "level": 1,
+      "children": {
+        "Commande à distance, verrouillage central": {
+          "categoryId": null,
+          "categoryName": "Commande à distance, verrouillage central",
+          "level": 2,
+          "children": {
+            "Commande à distance, verrouillage central": {
+              "categoryId": 100819,
+              "categoryName": "Remote Control, central locking",
+              "level": 2,
+              "children": [],
+              "productId": 201
+            }
+          }
+        },
+        "Composants": {
+          "categoryId": null,
+          "categoryName": "Composants",
+          "level": 2,
+          "children": {
+            "Bouton de verrouillage": {
+              "categoryId": 100766,
+              "categoryName": "Parts",
+              "level": 2,
+              "children": [],
+              "productId": 1646
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Entraînement hybride/électrique [ID: 706209] (Niveau 1)\n│   └── Refroidissement (Niveau 2)\n│       └── Cooling System [ID: 706210] (Niveau 2) → ProductId: 60978\n│           └── Radiateur pour batterie de traction (Niveau 4)\n│               └── Radiator for traction battery [ID: 706212] (Niveau 3) → ProductId: 60978\n\n├── Équipement intérieur [ID: 100341] (Niveau 1)\n│   └── Accessoires (Niveau 2)\n│       └── Accessories [ID: 100730] (Niveau 2) → ProductId: 1646\n\n├── Moteur [ID: 100002] (Niveau 1)\n│   └── Outils (Niveau 2)\n│       └── Tools [ID: 103129] (Niveau 2) → ProductId: 8440\n\n├── Roues/Pneus [ID: 103099] (Niveau 1)\n│   └── Jantes (Niveau 2)\n│       ├── Rims [ID: 103101] (Niveau 2) → ProductId: 60586\n│       ├── Rims [ID: 103101] (Niveau 2) → ProductId: 60591\n│       └── Rims [ID: 103101] (Niveau 2) → ProductId: 60590\n\n├── Suspension/Amortissement [ID: 100011] (Niveau 1)\n│   └── Suspension sur ressorts à lames (Niveau 2)\n│       └── Leaf Spring Suspension [ID: 100810] (Niveau 2) → ProductId: 3300\n\n├── Système d'information et de communication [ID: 100339] (Niveau 1)\n│   ├── Antennes (Niveau 2)\n│   │   └── Aerial [ID: 100695] (Niveau 2) → ProductId: 46\n│   ├── Communication (Niveau 2)\n│   │   └── Communication [ID: 100696] (Niveau 2) → ProductId: 46\n│   ├── Navigation (Niveau 2)\n│   │   ├── Navigation [ID: 100697] (Niveau 2) → ProductId: 2036\n│   │   └── Navigation [ID: 100697] (Niveau 2) → ProductId: 60325\n│   ├── Outils (Niveau 2)\n│   │   ├── Tools [ID: 105407] (Niveau 2) → ProductId: 7130\n│   │   └── Tools [ID: 105407] (Niveau 2) → ProductId: 7128\n│   └── Système audio (Niveau 2)\n│       ├── Audio System [ID: 100694] (Niveau 2) → ProductId: 60952\n│       ├── Audio System [ID: 100694] (Niveau 2) → ProductId: 60953\n│       ├── Audio System [ID: 100694] (Niveau 2) → ProductId: 8271\n│       ├── Audio System [ID: 100694] (Niveau 2) → ProductId: 60819\n│       ├── Audio System [ID: 100694] (Niveau 2) → ProductId: 60820\n│       ├── Audio System [ID: 100694] (Niveau 2) → ProductId: 2035\n│       ├── Audio System [ID: 100694] (Niveau 2) → ProductId: 2034\n│       ├── Audio System [ID: 100694] (Niveau 2) → ProductId: 2036\n│       ├── Audio System [ID: 100694] (Niveau 2) → ProductId: 8451\n│       ├── Audio System [ID: 100694] (Niveau 2) → ProductId: 9860\n│       ├── Audio System [ID: 100694] (Niveau 2) → ProductId: 2031\n│       ├── Audio System [ID: 100694] (Niveau 2) → ProductId: 2032\n│       ├── Audio System [ID: 100694] (Niveau 2) → ProductId: 2033\n│       └── Audio System [ID: 100694] (Niveau 2) → ProductId: 60325\n\n├── Système électrique [ID: 100010] (Niveau 1)\n│   ├── Instruments (Niveau 2)\n│   │   └── Instruments [ID: 100322] (Niveau 2) → ProductId: 9594\n│   │       └── Instruments indicateurs (Niveau 4)\n│   │           └── Gauges [ID: 100555] (Niveau 3) → ProductId: 9594\n│   └── Kit/pièces de câble (Niveau 2)\n│       └── Cable Set/individual parts [ID: 103066] (Niveau 2) → ProductId: 4321\n\n├── Systèmes de confort [ID: 100335] (Niveau 1)\n│   ├── Aide au stationnement/Alarme de marche arrière (Niveau 2)\n│   │   └── park distance control/Back-up Alarm [ID: 100618] (Niveau 2) → ProductId: 1550\n│   └── Verrouillage central (Niveau 2)\n│       └── Central Locking [ID: 100617] (Niveau 2) → ProductId: 201\n\n└── Verrouillage [ID: 100685] (Niveau 1)\n    ├── Commande à distance, verrouillage central (Niveau 2)\n    │   └── Remote Control, central locking [ID: 100819] (Niveau 2) → ProductId: 201\n    └── Composants (Niveau 2)\n        └── Parts [ID: 100766] (Niveau 2) → ProductId: 1646",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement hybride/électrique",
+        "Refroidissement",
+        "Cooling System"
+      ],
+      "categoryIds": [
+        706209,
+        null,
+        706210
+      ],
+      "finalCategoryId": 706210,
+      "productId": 60978
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Accessoires",
+        "Accessories"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        100730
+      ],
+      "finalCategoryId": 100730,
+      "productId": 1646
+    },
+    {
+      "path": [
+        "Moteur",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        103129
+      ],
+      "finalCategoryId": 103129,
+      "productId": 8440
+    },
+    {
+      "path": [
+        "Roues/Pneus",
+        "Jantes",
+        "Rims"
+      ],
+      "categoryIds": [
+        103099,
+        null,
+        103101
+      ],
+      "finalCategoryId": 103101,
+      "productId": 60586
+    },
+    {
+      "path": [
+        "Roues/Pneus",
+        "Jantes",
+        "Rims"
+      ],
+      "categoryIds": [
+        103099,
+        null,
+        103101
+      ],
+      "finalCategoryId": 103101,
+      "productId": 60591
+    },
+    {
+      "path": [
+        "Roues/Pneus",
+        "Jantes",
+        "Rims"
+      ],
+      "categoryIds": [
+        103099,
+        null,
+        103101
+      ],
+      "finalCategoryId": 103101,
+      "productId": 60590
+    },
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Suspension sur ressorts à lames",
+        "Leaf Spring Suspension"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        100810
+      ],
+      "finalCategoryId": 100810,
+      "productId": 3300
+    },
+    {
+      "path": [
+        "Système d'information et de communication",
+        "Antennes",
+        "Aerial"
+      ],
+      "categoryIds": [
+        100339,
+        null,
+        100695
+      ],
+      "finalCategoryId": 100695,
+      "productId": 46
+    },
+    {
+      "path": [
+        "Système d'information et de communication",
+        "Communication",
+        "Communication"
+      ],
+      "categoryIds": [
+        100339,
+        null,
+        100696
+      ],
+      "finalCategoryId": 100696,
+      "productId": 46
+    },
+    {
+      "path": [
+        "Système d'information et de communication",
+        "Navigation",
+        "Navigation"
+      ],
+      "categoryIds": [
+        100339,
+        null,
+        100697
+      ],
+      "finalCategoryId": 100697,
+      "productId": 2036
+    },
+    {
+      "path": [
+        "Système d'information et de communication",
+        "Navigation",
+        "Navigation"
+      ],
+      "categoryIds": [
+        100339,
+        null,
+        100697
+      ],
+      "finalCategoryId": 100697,
+      "productId": 60325
+    },
+    {
+      "path": [
+        "Système d'information et de communication",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100339,
+        null,
+        105407
+      ],
+      "finalCategoryId": 105407,
+      "productId": 7130
+    },
+    {
+      "path": [
+        "Système d'information et de communication",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100339,
+        null,
+        105407
+      ],
+      "finalCategoryId": 105407,
+      "productId": 7128
+    },
+    {
+      "path": [
+        "Système d'information et de communication",
+        "Système audio",
+        "Audio System"
+      ],
+      "categoryIds": [
+        100339,
+        null,
+        100694
+      ],
+      "finalCategoryId": 100694,
+      "productId": 60952
+    },
+    {
+      "path": [
+        "Système d'information et de communication",
+        "Système audio",
+        "Audio System"
+      ],
+      "categoryIds": [
+        100339,
+        null,
+        100694
+      ],
+      "finalCategoryId": 100694,
+      "productId": 60953
+    },
+    {
+      "path": [
+        "Système d'information et de communication",
+        "Système audio",
+        "Audio System"
+      ],
+      "categoryIds": [
+        100339,
+        null,
+        100694
+      ],
+      "finalCategoryId": 100694,
+      "productId": 8271
+    },
+    {
+      "path": [
+        "Système d'information et de communication",
+        "Système audio",
+        "Audio System"
+      ],
+      "categoryIds": [
+        100339,
+        null,
+        100694
+      ],
+      "finalCategoryId": 100694,
+      "productId": 60819
+    },
+    {
+      "path": [
+        "Système d'information et de communication",
+        "Système audio",
+        "Audio System"
+      ],
+      "categoryIds": [
+        100339,
+        null,
+        100694
+      ],
+      "finalCategoryId": 100694,
+      "productId": 60820
+    },
+    {
+      "path": [
+        "Système d'information et de communication",
+        "Système audio",
+        "Audio System"
+      ],
+      "categoryIds": [
+        100339,
+        null,
+        100694
+      ],
+      "finalCategoryId": 100694,
+      "productId": 2035
+    },
+    {
+      "path": [
+        "Système d'information et de communication",
+        "Système audio",
+        "Audio System"
+      ],
+      "categoryIds": [
+        100339,
+        null,
+        100694
+      ],
+      "finalCategoryId": 100694,
+      "productId": 2034
+    },
+    {
+      "path": [
+        "Système d'information et de communication",
+        "Système audio",
+        "Audio System"
+      ],
+      "categoryIds": [
+        100339,
+        null,
+        100694
+      ],
+      "finalCategoryId": 100694,
+      "productId": 2036
+    },
+    {
+      "path": [
+        "Système d'information et de communication",
+        "Système audio",
+        "Audio System"
+      ],
+      "categoryIds": [
+        100339,
+        null,
+        100694
+      ],
+      "finalCategoryId": 100694,
+      "productId": 8451
+    },
+    {
+      "path": [
+        "Système d'information et de communication",
+        "Système audio",
+        "Audio System"
+      ],
+      "categoryIds": [
+        100339,
+        null,
+        100694
+      ],
+      "finalCategoryId": 100694,
+      "productId": 9860
+    },
+    {
+      "path": [
+        "Système d'information et de communication",
+        "Système audio",
+        "Audio System"
+      ],
+      "categoryIds": [
+        100339,
+        null,
+        100694
+      ],
+      "finalCategoryId": 100694,
+      "productId": 2031
+    },
+    {
+      "path": [
+        "Système d'information et de communication",
+        "Système audio",
+        "Audio System"
+      ],
+      "categoryIds": [
+        100339,
+        null,
+        100694
+      ],
+      "finalCategoryId": 100694,
+      "productId": 2032
+    },
+    {
+      "path": [
+        "Système d'information et de communication",
+        "Système audio",
+        "Audio System"
+      ],
+      "categoryIds": [
+        100339,
+        null,
+        100694
+      ],
+      "finalCategoryId": 100694,
+      "productId": 2033
+    },
+    {
+      "path": [
+        "Système d'information et de communication",
+        "Système audio",
+        "Audio System"
+      ],
+      "categoryIds": [
+        100339,
+        null,
+        100694
+      ],
+      "finalCategoryId": 100694,
+      "productId": 60325
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Instruments",
+        "Instruments"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100322
+      ],
+      "finalCategoryId": 100322,
+      "productId": 9594
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Kit/pièces de câble",
+        "Cable Set/individual parts"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        103066
+      ],
+      "finalCategoryId": 103066,
+      "productId": 4321
+    },
+    {
+      "path": [
+        "Systèmes de confort",
+        "Aide au stationnement/Alarme de marche arrière",
+        "park distance control/Back-up Alarm"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        100618
+      ],
+      "finalCategoryId": 100618,
+      "productId": 1550
+    },
+    {
+      "path": [
+        "Systèmes de confort",
+        "Verrouillage central",
+        "Central Locking"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        100617
+      ],
+      "finalCategoryId": 100617,
+      "productId": 201
+    },
+    {
+      "path": [
+        "Verrouillage",
+        "Commande à distance, verrouillage central",
+        "Remote Control, central locking"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100819
+      ],
+      "finalCategoryId": 100819,
+      "productId": 201
+    },
+    {
+      "path": [
+        "Verrouillage",
+        "Composants",
+        "Parts"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100766
+      ],
+      "finalCategoryId": 100766,
+      "productId": 1646
+    }
+  ],
+  "productIdsInArbo": [
+    46,
+    201,
+    1550,
+    1646,
+    2031,
+    2032,
+    2033,
+    2034,
+    2035,
+    2036,
+    3300,
+    4321,
+    7128,
+    7130,
+    8271,
+    8440,
+    8451,
+    9594,
+    9860,
+    60325,
+    60586,
+    60590,
+    60591,
+    60819,
+    60820,
+    60952,
+    60953,
+    60978
+  ],
+  "closestProductIds": [
+    {
+      "productId": 46,
+      "productName": "Antenne"
+    },
+    {
+      "productId": 201,
+      "productName": "Commande à distance, verrouillage central"
+    },
+    {
+      "productId": 1550,
+      "productName": "Commande de silence radio, aide au stationnement"
+    },
+    {
+      "productId": 1646,
+      "productName": "Bouton de verrouillage"
+    },
+    {
+      "productId": 2031,
+      "productName": "Radio-cassette"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Groupe hydraulique, freinage",
+  "searchText": "Groupe hydraulique, freinage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:44:06.284Z",
+  "productId": 415,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Réglage du comportement dynamique": {
+          "categoryId": null,
+          "categoryName": "Réglage du comportement dynamique",
+          "level": 2,
+          "children": {
+            "Groupe hydraulique, freinage": {
+              "categoryId": 100038,
+              "categoryName": "Drive Dynamics Control",
+              "level": 2,
+              "children": [],
+              "productId": 415
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif de freinage [ID: 100006] (Niveau 1)\n    └── Réglage du comportement dynamique (Niveau 2)\n        └── Drive Dynamics Control [ID: 100038] (Niveau 2) → ProductId: 415",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Réglage du comportement dynamique",
+        "Drive Dynamics Control"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100038
+      ],
+      "finalCategoryId": 100038,
+      "productId": 415
+    }
+  ],
+  "productIdsInArbo": [
+    415
+  ],
+  "matchedProductIds": [
+    415
+  ]
+}

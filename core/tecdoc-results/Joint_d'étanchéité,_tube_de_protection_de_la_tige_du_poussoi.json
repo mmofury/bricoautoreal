@@ -1,0 +1,141 @@
+{
+  "productName": "Joint d'étanchéité, tube de protection de la tige du poussoi",
+  "searchText": "Joint d'étanchéité, tube de protection de la tige du poussoi",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:53:45.306Z",
+  "productId": 563,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Distribution moteur": {
+          "categoryId": null,
+          "categoryName": "Distribution moteur",
+          "level": 2,
+          "children": {
+            "Joint d'étanchéité, tube de protection de la tige du poussoi": {
+              "categoryId": 100003,
+              "categoryName": "Engine Timing",
+              "level": 2,
+              "children": {
+                "Poussoir /tige/ tuyau de protection": {
+                  "categoryId": null,
+                  "categoryName": "Poussoir /tige/ tuyau de protection",
+                  "level": 4,
+                  "children": {
+                    "Joint d'étanchéité, tube de protection de la tige du poussoi": {
+                      "categoryId": 100399,
+                      "categoryName": "Tappet/Push Rod/Push Rod Protection Tube",
+                      "level": 3,
+                      "children": [],
+                      "productId": 563
+                    }
+                  }
+                },
+                "Soupape / réglage de soupape": {
+                  "categoryId": null,
+                  "categoryName": "Soupape / réglage de soupape",
+                  "level": 4,
+                  "children": {
+                    "Joint d'étanchéité, tube de protection de la tige du poussoi": {
+                      "categoryId": 100422,
+                      "categoryName": "Valve Train",
+                      "level": 3,
+                      "children": {
+                        "Réglage de soupape": {
+                          "categoryId": null,
+                          "categoryName": "Réglage de soupape",
+                          "level": 6,
+                          "children": {
+                            "Joint d'étanchéité, tube de protection de la tige du poussoi": {
+                              "categoryId": 100424,
+                              "categoryName": "Valve Actuation",
+                              "level": 4,
+                              "children": [],
+                              "productId": 563
+                            }
+                          }
+                        }
+                      },
+                      "productId": 563
+                    }
+                  }
+                }
+              },
+              "productId": 563
+            }
+          }
+        },
+        "Joints": {
+          "categoryId": null,
+          "categoryName": "Joints",
+          "level": 2,
+          "children": {
+            "Joint d'étanchéité, tube de protection de la tige du poussoi": {
+              "categoryId": 100223,
+              "categoryName": "Gaskets",
+              "level": 2,
+              "children": {
+                "Joint de carter de distribution": {
+                  "categoryId": null,
+                  "categoryName": "Joint de carter de distribution",
+                  "level": 4,
+                  "children": {
+                    "Joint d'étanchéité, tube de protection de la tige du poussoi": {
+                      "categoryId": 100235,
+                      "categoryName": "Timing Case Gasket",
+                      "level": 3,
+                      "children": [],
+                      "productId": 563
+                    }
+                  }
+                }
+              },
+              "productId": 563
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    ├── Distribution moteur (Niveau 2)\n    │   └── Engine Timing [ID: 100003] (Niveau 2) → ProductId: 563\n    │       ├── Poussoir /tige/ tuyau de protection (Niveau 4)\n    │       │   └── Tappet/Push Rod/Push Rod Protection Tube [ID: 100399] (Niveau 3) → ProductId: 563\n    │       └── Soupape / réglage de soupape (Niveau 4)\n    │           └── Valve Train [ID: 100422] (Niveau 3) → ProductId: 563\n    │               └── Réglage de soupape (Niveau 6)\n    │                   └── Valve Actuation [ID: 100424] (Niveau 4) → ProductId: 563\n    └── Joints (Niveau 2)\n        └── Gaskets [ID: 100223] (Niveau 2) → ProductId: 563\n            └── Joint de carter de distribution (Niveau 4)\n                └── Timing Case Gasket [ID: 100235] (Niveau 3) → ProductId: 563",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Distribution moteur",
+        "Engine Timing"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100003
+      ],
+      "finalCategoryId": 100003,
+      "productId": 563
+    },
+    {
+      "path": [
+        "Moteur",
+        "Joints",
+        "Gaskets"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100223
+      ],
+      "finalCategoryId": 100223,
+      "productId": 563
+    }
+  ],
+  "productIdsInArbo": [
+    563
+  ],
+  "matchedProductIds": [
+    563
+  ]
+}

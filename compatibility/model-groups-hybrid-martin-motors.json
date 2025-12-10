@@ -1,0 +1,79 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.402Z",
+  "manufacturer": "MARTIN MOTORS",
+  "countGroups": 4,
+  "groups": [
+    {
+      "manufacturerId": 5170,
+      "manufacturerName": "MARTIN MOTORS",
+      "groupKey": "BUBBLE",
+      "displayName": "BUBBLE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39166,
+          "modelName": "BUBBLE",
+          "modelYearFrom": "2007-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5170,
+      "manufacturerName": "MARTIN MOTORS",
+      "groupKey": "CEO",
+      "displayName": "CEO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39168,
+          "modelName": "CEO",
+          "modelYearFrom": "2007-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5170,
+      "manufacturerName": "MARTIN MOTORS",
+      "groupKey": "COOL",
+      "displayName": "COOL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39174,
+          "modelName": "COOL CAR",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5170,
+      "manufacturerName": "MARTIN MOTORS",
+      "groupKey": "MM",
+      "displayName": "MM",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39169,
+          "modelName": "MM 520 Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2009-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39171,
+          "modelName": "MM 520 A trois volumes",
+          "modelYearFrom": "2009-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39173,
+          "modelName": "MM 620 A trois volumes",
+          "modelYearFrom": "2011-12-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.193Z",
+  "manufacturer": "BORGWARD",
+  "countGroups": 6,
+  "groups": [
+    {
+      "manufacturerId": 136,
+      "manufacturerName": "BORGWARD",
+      "groupKey": "BX3",
+      "displayName": "BX3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40261,
+          "modelName": "BX3",
+          "modelYearFrom": "2019-12-01",
+          "modelYearTo": "2021-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 136,
+      "manufacturerName": "BORGWARD",
+      "groupKey": "BX5",
+      "displayName": "BX5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37993,
+          "modelName": "BX5",
+          "modelYearFrom": "2017-03-01",
+          "modelYearTo": "2021-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 136,
+      "manufacturerName": "BORGWARD",
+      "groupKey": "BX6",
+      "displayName": "BX6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38700,
+          "modelName": "BX6",
+          "modelYearFrom": "2018-05-01",
+          "modelYearTo": "2020-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 136,
+      "manufacturerName": "BORGWARD",
+      "groupKey": "BX7",
+      "displayName": "BX7",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36724,
+          "modelName": "BX7",
+          "modelYearFrom": "2016-04-01",
+          "modelYearTo": "2021-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 136,
+      "manufacturerName": "BORGWARD",
+      "groupKey": "BXI7",
+      "displayName": "BXI7",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40945,
+          "modelName": "BXi7",
+          "modelYearFrom": "2018-05-01",
+          "modelYearTo": "2021-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 136,
+      "manufacturerName": "BORGWARD",
+      "groupKey": "ISABELLA",
+      "displayName": "ISABELLA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 2055,
+          "modelName": "ISABELLA",
+          "modelYearFrom": "1954-06-01",
+          "modelYearTo": "1962-02-01"
+        },
+        {
+          "modelId": 37568,
+          "modelName": "ISABELLA Décapotable",
+          "modelYearFrom": "1955-09-01",
+          "modelYearTo": "1961-09-01"
+        },
+        {
+          "modelId": 37569,
+          "modelName": "ISABELLA Break",
+          "modelYearFrom": "1954-06-01",
+          "modelYearTo": "1961-09-01"
+        },
+        {
+          "modelId": 44195,
+          "modelName": "ISABELLA Coupé",
+          "modelYearFrom": "1957-01-01",
+          "modelYearTo": "1961-09-01"
+        }
+      ]
+    }
+  ]
+}

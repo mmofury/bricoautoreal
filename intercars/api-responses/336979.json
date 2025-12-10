@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "336979",
+      "index": "HAZ 4766-1",
+      "tecDoc": "4766-1",
+      "tecDocProd": "4808",
+      "articleNumber": "4766-1",
+      "brand": "HAZET",
+      "shortDescription": "Sockets",
+      "description": "Socket for spark plugs 3/8 inch, wrench / tool type: socket Hexagonal, socket size: 16 mm, inch size: 5/8",
+      "customsCode": "82042000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4499",
+          "primary": false,
+          "name": {
+            "en": "Spark plugs wrench"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_4744",
+          "primary": true,
+          "name": {
+            "en": "Sockets"
+          }
+        }
+      ]
+    }
+  ]
+}

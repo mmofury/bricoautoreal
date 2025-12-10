@@ -1,0 +1,3037 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.239Z",
+  "manufacturer": "DODGE",
+  "countGroups": 94,
+  "groups": [
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "1500",
+      "displayName": "1500",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10899,
+          "modelName": "1500",
+          "modelYearFrom": "1971-04-01",
+          "modelYearTo": "1988-11-01"
+        },
+        {
+          "modelId": 10900,
+          "modelName": "1500 Break",
+          "modelYearFrom": "1971-01-01",
+          "modelYearTo": "1990-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "1800",
+      "displayName": "1800",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13063,
+          "modelName": "1800",
+          "modelYearFrom": "1973-03-01",
+          "modelYearTo": "1976-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "2000",
+      "displayName": "2000",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31044,
+          "modelName": "2000 GTX A trois volumes",
+          "modelYearFrom": "1988-09-01",
+          "modelYearTo": "1990-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "330",
+      "displayName": "330",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31045,
+          "modelName": "330 A trois volumes",
+          "modelYearFrom": "1962-09-01",
+          "modelYearTo": "1964-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "400",
+      "displayName": "400",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31046,
+          "modelName": "400 Décapotable",
+          "modelYearFrom": "1981-09-01",
+          "modelYearTo": "1983-12-01"
+        },
+        {
+          "modelId": 31047,
+          "modelName": "400 Coupé",
+          "modelYearFrom": "1981-09-01",
+          "modelYearTo": "1983-12-01"
+        },
+        {
+          "modelId": 31048,
+          "modelName": "400 A trois volumes",
+          "modelYearFrom": "1981-09-01",
+          "modelYearTo": "1983-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "440",
+      "displayName": "440",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31049,
+          "modelName": "440 A trois volumes",
+          "modelYearFrom": "1962-09-01",
+          "modelYearTo": "1964-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "600",
+      "displayName": "600",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31050,
+          "modelName": "600 Décapotable",
+          "modelYearFrom": "1983-09-01",
+          "modelYearTo": "1986-12-01"
+        },
+        {
+          "modelId": 31051,
+          "modelName": "600 Coupé",
+          "modelYearFrom": "1983-09-01",
+          "modelYearTo": "1986-12-01"
+        },
+        {
+          "modelId": 31052,
+          "modelName": "600 A trois volumes",
+          "modelYearFrom": "1982-09-01",
+          "modelYearTo": "1988-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "880",
+      "displayName": "880",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31053,
+          "modelName": "880 A trois volumes",
+          "modelYearFrom": "1962-09-01",
+          "modelYearTo": "1964-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "A100",
+      "displayName": "A100",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31054,
+          "modelName": "A100 Pick-up",
+          "modelYearFrom": "1963-09-01",
+          "modelYearTo": "1970-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "ARIES",
+      "displayName": "ARIES",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31056,
+          "modelName": "ARIES Coupé",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1989-12-01"
+        },
+        {
+          "modelId": 31057,
+          "modelName": "ARIES A trois volumes",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1989-12-01"
+        },
+        {
+          "modelId": 31058,
+          "modelName": "ARIES Break",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1988-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "AS",
+      "displayName": "AS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41788,
+          "modelName": "AS 250 II Pick-up",
+          "modelYearFrom": "1993-09-01",
+          "modelYearTo": "2002-09-01"
+        },
+        {
+          "modelId": 41789,
+          "modelName": "AS 250 II Camion plate-forme/Châssis",
+          "modelYearFrom": "1993-09-01",
+          "modelYearTo": "2002-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "ASPEN",
+      "displayName": "ASPEN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31059,
+          "modelName": "ASPEN Coupé",
+          "modelYearFrom": "1975-09-01",
+          "modelYearTo": "1982-12-01"
+        },
+        {
+          "modelId": 31060,
+          "modelName": "ASPEN A trois volumes",
+          "modelYearFrom": "1975-09-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 31061,
+          "modelName": "ASPEN Break",
+          "modelYearFrom": "1975-09-01",
+          "modelYearTo": "1980-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "ATOS",
+      "displayName": "ATOS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10022,
+          "modelName": "ATOS",
+          "modelYearFrom": "2000-08-01",
+          "modelYearTo": "2012-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "ATTITDE",
+      "displayName": "ATTITDE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 90150,
+          "modelName": "ATTITDE",
+          "modelYearFrom": "2024-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "ATTITUDE",
+      "displayName": "ATTITUDE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9902,
+          "modelName": "ATTITUDE",
+          "modelYearFrom": "2006-01-01",
+          "modelYearTo": "2011-12-01"
+        },
+        {
+          "modelId": 10280,
+          "modelName": "ATTITUDE",
+          "modelYearFrom": "2010-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42449,
+          "modelName": "ATTITUDE (LA)",
+          "modelYearFrom": "2014-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "AVENGER",
+      "displayName": "AVENGER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6410,
+          "modelName": "AVENGER",
+          "modelYearFrom": "2007-06-01",
+          "modelYearTo": "2014-12-01"
+        },
+        {
+          "modelId": 31062,
+          "modelName": "AVENGER Coupé",
+          "modelYearFrom": "1994-09-01",
+          "modelYearTo": "2000-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "B100",
+      "displayName": "B100",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 35075,
+          "modelName": "B100 Standard Passenger Van",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 35077,
+          "modelName": "B100 Standard Cargo Van",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1978-12-01"
+        },
+        {
+          "modelId": 35078,
+          "modelName": "B100 Standard Cargo Van",
+          "modelYearFrom": "1978-09-01",
+          "modelYearTo": "1980-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "B150",
+      "displayName": "B150",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 35079,
+          "modelName": "B150 Standard Passenger Van",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 35080,
+          "modelName": "B150 Standard Cargo Van",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1993-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "B1500",
+      "displayName": "B1500",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 35081,
+          "modelName": "B1500 Standard Passenger Van",
+          "modelYearFrom": "1993-09-01",
+          "modelYearTo": "1998-12-01"
+        },
+        {
+          "modelId": 35082,
+          "modelName": "B1500 Extended Cargo Van",
+          "modelYearFrom": "1993-09-01",
+          "modelYearTo": "1998-12-01"
+        },
+        {
+          "modelId": 36187,
+          "modelName": "B1500 Standard Cargo Van",
+          "modelYearFrom": "1993-09-01",
+          "modelYearTo": "2003-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "B200",
+      "displayName": "B200",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14996,
+          "modelName": "B200 Standard Passenger Van",
+          "modelYearFrom": "1978-09-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 14997,
+          "modelName": "B200 Extended Passenger Van",
+          "modelYearFrom": "1978-09-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 31073,
+          "modelName": "B200 Standard Cargo Van",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1978-12-01"
+        },
+        {
+          "modelId": 35083,
+          "modelName": "B200 Autobus/Autocar",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1978-12-01"
+        },
+        {
+          "modelId": 35084,
+          "modelName": "B200 Autobus/Autocar",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1978-12-01"
+        },
+        {
+          "modelId": 35085,
+          "modelName": "B200 Extended Cargo Van",
+          "modelYearFrom": "1978-09-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 35086,
+          "modelName": "B200 Standard Cargo Van",
+          "modelYearFrom": "1978-09-01",
+          "modelYearTo": "1993-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "B250",
+      "displayName": "B250",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 35087,
+          "modelName": "B250 Extended Passenger Van",
+          "modelYearFrom": "1981-09-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 35088,
+          "modelName": "B250 Extended Cargo Van",
+          "modelYearFrom": "1981-09-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 35848,
+          "modelName": "B250 Standard Cargo Van",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 35849,
+          "modelName": "B250 Standard Passenger Van",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1993-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "B2500",
+      "displayName": "B2500",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14573,
+          "modelName": "B2500 Standard Passenger Van",
+          "modelYearFrom": "1993-09-01",
+          "modelYearTo": "2003-12-01"
+        },
+        {
+          "modelId": 35089,
+          "modelName": "B2500 Extended Cargo Van",
+          "modelYearFrom": "1993-09-01",
+          "modelYearTo": "2003-12-01"
+        },
+        {
+          "modelId": 35090,
+          "modelName": "B2500 Extended Passenger Van",
+          "modelYearFrom": "1993-09-01",
+          "modelYearTo": "2003-12-01"
+        },
+        {
+          "modelId": 36186,
+          "modelName": "B2500 Standard Cargo Van",
+          "modelYearFrom": "1993-09-01",
+          "modelYearTo": "2003-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "B300",
+      "displayName": "B300",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14999,
+          "modelName": "B300 Extended Cargo Van",
+          "modelYearFrom": "1978-09-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 31085,
+          "modelName": "B300 Extended Cargo Van",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1978-12-01"
+        },
+        {
+          "modelId": 31087,
+          "modelName": "B300 Standard Cargo Van",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1979-12-01"
+        },
+        {
+          "modelId": 35091,
+          "modelName": "B300 Cutaway Van",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1978-12-01"
+        },
+        {
+          "modelId": 35092,
+          "modelName": "B300 Extended Passenger Van",
+          "modelYearFrom": "1979-09-01",
+          "modelYearTo": "1980-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "B350",
+      "displayName": "B350",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 35093,
+          "modelName": "B350 Extended Passenger Van",
+          "modelYearFrom": "1979-09-01",
+          "modelYearTo": "1994-12-01"
+        },
+        {
+          "modelId": 35094,
+          "modelName": "B350 Extended Cargo Van",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1994-12-01"
+        },
+        {
+          "modelId": 36188,
+          "modelName": "B350 Standard Passenger Van",
+          "modelYearFrom": "1979-09-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 36189,
+          "modelName": "B350 Standard Cargo Van",
+          "modelYearFrom": "1979-09-01",
+          "modelYearTo": "1993-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "B3500",
+      "displayName": "B3500",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 35095,
+          "modelName": "B3500 Extended Passenger Van",
+          "modelYearFrom": "1993-09-01",
+          "modelYearTo": "2003-12-01"
+        },
+        {
+          "modelId": 35096,
+          "modelName": "B3500 Extended Cargo Van",
+          "modelYearFrom": "1993-09-01",
+          "modelYearTo": "2003-12-01"
+        },
+        {
+          "modelId": 36184,
+          "modelName": "B3500 Standard Passenger Van",
+          "modelYearFrom": "1993-09-01",
+          "modelYearTo": "2003-12-01"
+        },
+        {
+          "modelId": 36185,
+          "modelName": "B3500 Standard Cargo Van",
+          "modelYearFrom": "1993-09-01",
+          "modelYearTo": "2003-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "BRISA",
+      "displayName": "BRISA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37263,
+          "modelName": "BRISA Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2001-09-01",
+          "modelYearTo": "2007-03-01"
+        },
+        {
+          "modelId": 37264,
+          "modelName": "BRISA A trois volumes",
+          "modelYearFrom": "2001-09-01",
+          "modelYearTo": "2007-03-01"
+        },
+        {
+          "modelId": 39101,
+          "modelName": "BRISA Coupé",
+          "modelYearFrom": "2001-09-01",
+          "modelYearTo": "2007-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "CALIBER",
+      "displayName": "CALIBER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5628,
+          "modelName": "CALIBER",
+          "modelYearFrom": "2006-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "CARAVAN",
+      "displayName": "CARAVAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4859,
+          "modelName": "CARAVAN",
+          "modelYearFrom": "1995-01-01",
+          "modelYearTo": "2001-03-01"
+        },
+        {
+          "modelId": 4864,
+          "modelName": "CARAVAN (RG_)",
+          "modelYearFrom": "2000-02-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 7415,
+          "modelName": "CARAVAN",
+          "modelYearFrom": "1983-09-01",
+          "modelYearTo": "1990-09-01"
+        },
+        {
+          "modelId": 7416,
+          "modelName": "CARAVAN",
+          "modelYearFrom": "1990-09-01",
+          "modelYearTo": "1995-12-01"
+        },
+        {
+          "modelId": 31099,
+          "modelName": "CARAVAN Mini Cargo Van",
+          "modelYearFrom": "1983-09-01",
+          "modelYearTo": "1990-12-01"
+        },
+        {
+          "modelId": 35100,
+          "modelName": "CARAVAN Mini Cargo Van",
+          "modelYearFrom": "1990-09-01",
+          "modelYearTo": "1995-12-01"
+        },
+        {
+          "modelId": 35101,
+          "modelName": "CARAVAN Mini Cargo Van",
+          "modelYearFrom": "2000-09-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 41685,
+          "modelName": "CARAVAN VAN (NS)",
+          "modelYearFrom": "1995-01-01",
+          "modelYearTo": "2001-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "CB300",
+      "displayName": "CB300",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31102,
+          "modelName": "CB300 Cutaway Van",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1980-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "CHALLENGER",
+      "displayName": "CHALLENGER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10273,
+          "modelName": "CHALLENGER Coupé",
+          "modelYearFrom": "2007-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14310,
+          "modelName": "CHALLENGER Décapotable",
+          "modelYearFrom": "1969-09-01",
+          "modelYearTo": "1974-12-01"
+        },
+        {
+          "modelId": 31103,
+          "modelName": "CHALLENGER Hardtop",
+          "modelYearFrom": "1969-09-01",
+          "modelYearTo": "1974-12-01"
+        },
+        {
+          "modelId": 31104,
+          "modelName": "CHALLENGER Coupé",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1983-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "CHARGER",
+      "displayName": "CHARGER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6794,
+          "modelName": "CHARGER",
+          "modelYearFrom": "2005-06-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 10272,
+          "modelName": "CHARGER",
+          "modelYearFrom": "2010-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14211,
+          "modelName": "CHARGER Hardtop",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1974-12-01"
+        },
+        {
+          "modelId": 14213,
+          "modelName": "CHARGER Hardtop",
+          "modelYearFrom": "1967-09-01",
+          "modelYearTo": "1970-12-01"
+        },
+        {
+          "modelId": 31105,
+          "modelName": "CHARGER Coupé",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1974-12-01"
+        },
+        {
+          "modelId": 31106,
+          "modelName": "CHARGER Coupé",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 31107,
+          "modelName": "CHARGER Hardtop",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1978-12-01"
+        },
+        {
+          "modelId": 31108,
+          "modelName": "CHARGER Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1982-09-01",
+          "modelYearTo": "1987-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "COLT",
+      "displayName": "COLT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10394,
+          "modelName": "COLT A trois volumes",
+          "modelYearFrom": "1976-09-01",
+          "modelYearTo": "1979-12-01"
+        },
+        {
+          "modelId": 10395,
+          "modelName": "COLT Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1988-09-01",
+          "modelYearTo": "1992-12-01"
+        },
+        {
+          "modelId": 14304,
+          "modelName": "COLT A trois volumes",
+          "modelYearFrom": "1986-09-01",
+          "modelYearTo": "1992-12-01"
+        },
+        {
+          "modelId": 14626,
+          "modelName": "COLT Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1992-09-01",
+          "modelYearTo": "1995-12-01"
+        },
+        {
+          "modelId": 31110,
+          "modelName": "COLT A trois volumes",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1974-12-01"
+        },
+        {
+          "modelId": 31111,
+          "modelName": "COLT Coupé",
+          "modelYearFrom": "1973-09-01",
+          "modelYearTo": "1979-12-01"
+        },
+        {
+          "modelId": 31112,
+          "modelName": "COLT Hardtop",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 31113,
+          "modelName": "COLT Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1978-09-01",
+          "modelYearTo": "1984-12-01"
+        },
+        {
+          "modelId": 31114,
+          "modelName": "COLT A trois volumes",
+          "modelYearFrom": "1973-09-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 31115,
+          "modelName": "COLT Break",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 35102,
+          "modelName": "COLT Break",
+          "modelYearFrom": "1978-09-01",
+          "modelYearTo": "1984-12-01"
+        },
+        {
+          "modelId": 35103,
+          "modelName": "COLT Break",
+          "modelYearFrom": "1983-09-01",
+          "modelYearTo": "1992-12-01"
+        },
+        {
+          "modelId": 35104,
+          "modelName": "COLT Break",
+          "modelYearFrom": "1988-09-01",
+          "modelYearTo": "1994-12-01"
+        },
+        {
+          "modelId": 35105,
+          "modelName": "COLT Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1992-12-01"
+        },
+        {
+          "modelId": 35106,
+          "modelName": "COLT A trois volumes",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1988-12-01"
+        },
+        {
+          "modelId": 35107,
+          "modelName": "COLT A trois volumes",
+          "modelYearFrom": "1992-09-01",
+          "modelYearTo": "1995-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "CONQUEST",
+      "displayName": "CONQUEST",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31116,
+          "modelName": "CONQUEST Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1983-09-01",
+          "modelYearTo": "1986-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "CORONET",
+      "displayName": "CORONET",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31117,
+          "modelName": "CORONET A trois volumes",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1976-12-01"
+        },
+        {
+          "modelId": 31118,
+          "modelName": "CORONET Coupé",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1975-12-01"
+        },
+        {
+          "modelId": 31119,
+          "modelName": "CORONET A trois volumes",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1976-12-01"
+        },
+        {
+          "modelId": 31120,
+          "modelName": "CORONET Break",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1976-12-01"
+        },
+        {
+          "modelId": 37445,
+          "modelName": "CORONET Break",
+          "modelYearFrom": "1970-09-01",
+          "modelYearTo": "1976-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "D100",
+      "displayName": "D100",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31124,
+          "modelName": "D100 Cab & Chassis",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 31127,
+          "modelName": "D100 Standard Cab Pickup",
+          "modelYearFrom": "1967-09-01",
+          "modelYearTo": "1975-12-01"
+        },
+        {
+          "modelId": 35108,
+          "modelName": "D100 Extended Cab Pickup",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 35109,
+          "modelName": "D100 Standard Cab Pickup",
+          "modelYearFrom": "1971-09-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 36183,
+          "modelName": "D100 Standard Cab Pickup",
+          "modelYearFrom": "1978-09-01",
+          "modelYearTo": "1993-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "D150",
+      "displayName": "D150",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14133,
+          "modelName": "D150 Camion plate-forme/Châssis",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 31129,
+          "modelName": "D150 Cab & Chassis",
+          "modelYearFrom": "1976-09-01",
+          "modelYearTo": "1978-12-01"
+        },
+        {
+          "modelId": 31130,
+          "modelName": "D150 Extended Cab Pickup",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 31131,
+          "modelName": "D150 Standard Cab Pickup",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 35110,
+          "modelName": "D150 Extended Cab Pickup",
+          "modelYearFrom": "1976-09-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 35111,
+          "modelName": "D150 Standard Cab Pickup",
+          "modelYearFrom": "1971-09-01",
+          "modelYearTo": "1980-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "D200",
+      "displayName": "D200",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31132,
+          "modelName": "D200 Cab & Chassis",
+          "modelYearFrom": "1971-09-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 31136,
+          "modelName": "D200 Standard Cab Pickup",
+          "modelYearFrom": "1964-09-01",
+          "modelYearTo": "1971-12-01"
+        },
+        {
+          "modelId": 35112,
+          "modelName": "D200 Crew Cab Pickup",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 36259,
+          "modelName": "D200 Standard Cab Pickup",
+          "modelYearFrom": "1971-09-01",
+          "modelYearTo": "1980-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "D250",
+      "displayName": "D250",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14134,
+          "modelName": "D250 Extended Cab Pickup",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 31138,
+          "modelName": "D250 Cab & Chassis",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 31141,
+          "modelName": "D250 Standard Cab Pickup",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 35113,
+          "modelName": "D250 Crew Cab Pickup",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1993-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "D300",
+      "displayName": "D300",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 12747,
+          "modelName": "D300 Cab & Chassis",
+          "modelYearFrom": "1971-09-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 31146,
+          "modelName": "D300 Standard Cab Pickup",
+          "modelYearFrom": "1967-09-01",
+          "modelYearTo": "1971-12-01"
+        },
+        {
+          "modelId": 35948,
+          "modelName": "D300 Crew Cab Pickup",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 35949,
+          "modelName": "D300 Extended Cab Pickup",
+          "modelYearFrom": "1979-09-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 35950,
+          "modelName": "D300 Standard Cab Pickup",
+          "modelYearFrom": "1971-09-01",
+          "modelYearTo": "1980-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "D350",
+      "displayName": "D350",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31148,
+          "modelName": "D350 Cab & Chassis",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 35115,
+          "modelName": "D350 Crew Cab Pickup",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 35951,
+          "modelName": "D350 Standard Cab Pickup",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1993-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "D400",
+      "displayName": "D400",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31152,
+          "modelName": "D400 Cab & Chassis",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1981-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "D450",
+      "displayName": "D450",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31153,
+          "modelName": "D450 Cab & Chassis",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1981-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "D50",
+      "displayName": "D50",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 35116,
+          "modelName": "D50 Standard Cab Pickup",
+          "modelYearFrom": "1978-09-01",
+          "modelYearTo": "1986-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "DAKOTA",
+      "displayName": "DAKOTA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6795,
+          "modelName": "DAKOTA",
+          "modelYearFrom": "1989-10-01",
+          "modelYearTo": "1995-09-01"
+        },
+        {
+          "modelId": 6796,
+          "modelName": "DAKOTA",
+          "modelYearFrom": "1995-10-01",
+          "modelYearTo": "2005-02-01"
+        },
+        {
+          "modelId": 6797,
+          "modelName": "DAKOTA",
+          "modelYearFrom": "2003-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11392,
+          "modelName": "DAKOTA Crew Cab Pickup",
+          "modelYearFrom": "2004-09-01",
+          "modelYearTo": "2011-12-01"
+        },
+        {
+          "modelId": 11393,
+          "modelName": "DAKOTA Extended Cab Pickup",
+          "modelYearFrom": "1996-09-01",
+          "modelYearTo": "2004-12-01"
+        },
+        {
+          "modelId": 11625,
+          "modelName": "DAKOTA Standard Cab Pickup",
+          "modelYearFrom": "1996-09-01",
+          "modelYearTo": "2004-12-01"
+        },
+        {
+          "modelId": 14298,
+          "modelName": "DAKOTA Extended Cab Pickup",
+          "modelYearFrom": "2004-09-01",
+          "modelYearTo": "2011-12-01"
+        },
+        {
+          "modelId": 31158,
+          "modelName": "DAKOTA Décapotable",
+          "modelYearFrom": "1989-09-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 31160,
+          "modelName": "DAKOTA Extended Cab Pickup",
+          "modelYearFrom": "1986-09-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 31161,
+          "modelName": "DAKOTA Standard Cab Pickup",
+          "modelYearFrom": "1986-09-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 35118,
+          "modelName": "DAKOTA Crew Cab Pickup",
+          "modelYearFrom": "1996-09-01",
+          "modelYearTo": "2004-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "DART",
+      "displayName": "DART",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10270,
+          "modelName": "DART",
+          "modelYearFrom": "2012-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 12746,
+          "modelName": "DART",
+          "modelYearFrom": "1969-01-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 14125,
+          "modelName": "DART Break",
+          "modelYearFrom": "1976-09-01",
+          "modelYearTo": "1988-12-01"
+        },
+        {
+          "modelId": 14127,
+          "modelName": "DART Coupé",
+          "modelYearFrom": "1982-09-01",
+          "modelYearTo": "1988-12-01"
+        },
+        {
+          "modelId": 14129,
+          "modelName": "DART A trois volumes",
+          "modelYearFrom": "1982-09-01",
+          "modelYearTo": "1989-12-01"
+        },
+        {
+          "modelId": 31162,
+          "modelName": "DART A trois volumes",
+          "modelYearFrom": "1959-09-01",
+          "modelYearTo": "1974-12-01"
+        },
+        {
+          "modelId": 31163,
+          "modelName": "DART Coupé",
+          "modelYearFrom": "1969-09-01",
+          "modelYearTo": "1976-12-01"
+        },
+        {
+          "modelId": 31164,
+          "modelName": "DART A trois volumes",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1976-12-01"
+        },
+        {
+          "modelId": 37289,
+          "modelName": "DART Coupé",
+          "modelYearFrom": "1966-09-01",
+          "modelYearTo": "1969-12-01"
+        },
+        {
+          "modelId": 38241,
+          "modelName": "DART Décapotable",
+          "modelYearFrom": "1966-09-01",
+          "modelYearTo": "1969-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "DAYTONA",
+      "displayName": "DAYTONA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31165,
+          "modelName": "DAYTONA Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1983-09-01",
+          "modelYearTo": "1993-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "DELUXE",
+      "displayName": "DELUXE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31166,
+          "modelName": "DELUXE A trois volumes",
+          "modelYearFrom": "1945-09-01",
+          "modelYearTo": "1948-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "DIPLOMAT",
+      "displayName": "DIPLOMAT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31169,
+          "modelName": "DIPLOMAT Coupé",
+          "modelYearFrom": "1976-09-01",
+          "modelYearTo": "1981-12-01"
+        },
+        {
+          "modelId": 31170,
+          "modelName": "DIPLOMAT A trois volumes",
+          "modelYearFrom": "1976-09-01",
+          "modelYearTo": "1989-12-01"
+        },
+        {
+          "modelId": 31171,
+          "modelName": "DIPLOMAT Break",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1989-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "DM",
+      "displayName": "DM",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14769,
+          "modelName": "DM 350 Stripped Chassis",
+          "modelYearFrom": "1990-09-01",
+          "modelYearTo": "1991-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "DURANGO",
+      "displayName": "DURANGO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6798,
+          "modelName": "DURANGO (HB)",
+          "modelYearFrom": "2003-09-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 9978,
+          "modelName": "DURANGO (DN)",
+          "modelYearFrom": "1997-09-01",
+          "modelYearTo": "2003-12-01"
+        },
+        {
+          "modelId": 10275,
+          "modelName": "DURANGO (WD)",
+          "modelYearFrom": "2010-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "DYNASTY",
+      "displayName": "DYNASTY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31173,
+          "modelName": "DYNASTY A trois volumes",
+          "modelYearFrom": "1987-09-01",
+          "modelYearTo": "1993-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "FORZA",
+      "displayName": "FORZA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37295,
+          "modelName": "FORZA",
+          "modelYearFrom": "2013-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "GRAND",
+      "displayName": "GRAND",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7417,
+          "modelName": "GRAND CARAVAN",
+          "modelYearFrom": "2007-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14493,
+          "modelName": "GRAND CARAVAN Mini Cargo Van",
+          "modelYearFrom": "2007-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 31174,
+          "modelName": "GRAND CARAVAN Mini Cargo Van",
+          "modelYearFrom": "2000-09-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 31175,
+          "modelName": "GRAND CARAVAN Mini Passenger Van",
+          "modelYearFrom": "1983-09-01",
+          "modelYearTo": "1990-12-01"
+        },
+        {
+          "modelId": 35122,
+          "modelName": "GRAND CARAVAN Mini Passenger Van",
+          "modelYearFrom": "1989-09-01",
+          "modelYearTo": "1995-12-01"
+        },
+        {
+          "modelId": 35123,
+          "modelName": "GRAND CARAVAN Mini Passenger Van",
+          "modelYearFrom": "1994-09-01",
+          "modelYearTo": "2000-12-01"
+        },
+        {
+          "modelId": 35124,
+          "modelName": "GRAND CARAVAN Mini Passenger Van",
+          "modelYearFrom": "2000-08-01",
+          "modelYearTo": "2007-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "H100",
+      "displayName": "H100",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10279,
+          "modelName": "H100 Autobus/Autocar",
+          "modelYearFrom": "2009-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10282,
+          "modelName": "H100 Fourgon",
+          "modelYearFrom": "2007-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10929,
+          "modelName": "H100 Camion plate-forme/Châssis",
+          "modelYearFrom": "2007-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 34337,
+          "modelName": "H100 Standard Cab Pickup",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": "2011-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "HORNET",
+      "displayName": "HORNET",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44185,
+          "modelName": "HORNET (GG)",
+          "modelYearFrom": "2022-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "I",
+      "displayName": "I",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10281,
+          "modelName": "i 10",
+          "modelYearFrom": "2007-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "INTREPID",
+      "displayName": "INTREPID",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6799,
+          "modelName": "INTREPID",
+          "modelYearFrom": "1992-04-01",
+          "modelYearTo": "1998-12-01"
+        },
+        {
+          "modelId": 6800,
+          "modelName": "INTREPID",
+          "modelYearFrom": "1996-08-01",
+          "modelYearTo": "2004-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "JOURNEY",
+      "displayName": "JOURNEY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7572,
+          "modelName": "JOURNEY",
+          "modelYearFrom": "2008-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41686,
+          "modelName": "JOURNEY VAN (JC)",
+          "modelYearFrom": "2008-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42658,
+          "modelName": "JOURNEY (GS_)",
+          "modelYearFrom": "2022-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "LANCER",
+      "displayName": "LANCER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31177,
+          "modelName": "LANCER A trois volumes",
+          "modelYearFrom": "1960-09-01",
+          "modelYearTo": "1962-12-01"
+        },
+        {
+          "modelId": 31178,
+          "modelName": "LANCER Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1984-09-01",
+          "modelYearTo": "1989-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "MAGNUM",
+      "displayName": "MAGNUM",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13297,
+          "modelName": "MAGNUM Coupé",
+          "modelYearFrom": "1982-09-01",
+          "modelYearTo": "1988-12-01"
+        },
+        {
+          "modelId": 14132,
+          "modelName": "MAGNUM Coupé",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1982-12-01"
+        },
+        {
+          "modelId": 31181,
+          "modelName": "MAGNUM Coupé",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1979-12-01"
+        },
+        {
+          "modelId": 31182,
+          "modelName": "MAGNUM Break",
+          "modelYearFrom": "2004-09-01",
+          "modelYearTo": "2008-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "MINI",
+      "displayName": "MINI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31185,
+          "modelName": "MINI RAM Mini Cargo Van",
+          "modelYearFrom": "1983-09-01",
+          "modelYearTo": "1988-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "MIRADA",
+      "displayName": "MIRADA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31187,
+          "modelName": "MIRADA Hardtop",
+          "modelYearFrom": "1979-09-01",
+          "modelYearTo": "1983-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "MONACO",
+      "displayName": "MONACO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31190,
+          "modelName": "MONACO A trois volumes",
+          "modelYearFrom": "1964-09-01",
+          "modelYearTo": "1974-12-01"
+        },
+        {
+          "modelId": 31191,
+          "modelName": "MONACO Hardtop",
+          "modelYearFrom": "1973-09-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 31192,
+          "modelName": "MONACO A trois volumes",
+          "modelYearFrom": "1973-09-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 31193,
+          "modelName": "MONACO Break",
+          "modelYearFrom": "1973-09-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 35125,
+          "modelName": "MONACO A trois volumes",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1978-12-01"
+        },
+        {
+          "modelId": 35126,
+          "modelName": "MONACO A trois volumes",
+          "modelYearFrom": "1989-09-01",
+          "modelYearTo": "1992-12-01"
+        },
+        {
+          "modelId": 35127,
+          "modelName": "MONACO Break",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1978-12-01"
+        },
+        {
+          "modelId": 35128,
+          "modelName": "MONACO Hardtop",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1978-12-01"
+        },
+        {
+          "modelId": 37448,
+          "modelName": "MONACO Coupé",
+          "modelYearFrom": "1968-09-01",
+          "modelYearTo": "1973-12-01"
+        },
+        {
+          "modelId": 37450,
+          "modelName": "MONACO Break",
+          "modelYearFrom": "1968-09-01",
+          "modelYearTo": "1973-12-01"
+        },
+        {
+          "modelId": 37458,
+          "modelName": "MONACO Coupé",
+          "modelYearFrom": "1973-09-01",
+          "modelYearTo": "1977-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "NEON",
+      "displayName": "NEON",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4848,
+          "modelName": "NEON",
+          "modelYearFrom": "1994-05-01",
+          "modelYearTo": "1999-08-01"
+        },
+        {
+          "modelId": 4855,
+          "modelName": "NEON II",
+          "modelYearFrom": "1999-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 6801,
+          "modelName": "NEON Coupé",
+          "modelYearFrom": "1994-01-01",
+          "modelYearTo": "1999-09-01"
+        },
+        {
+          "modelId": 36901,
+          "modelName": "NEON",
+          "modelYearFrom": "2016-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "NITRO",
+      "displayName": "NITRO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7573,
+          "modelName": "NITRO",
+          "modelYearFrom": "2006-09-01",
+          "modelYearTo": "2012-12-01"
+        },
+        {
+          "modelId": 41681,
+          "modelName": "NITRO VAN (KA)",
+          "modelYearFrom": "2006-09-01",
+          "modelYearTo": "2011-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "OMNI",
+      "displayName": "OMNI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31196,
+          "modelName": "OMNI Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1990-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "P200",
+      "displayName": "P200",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31198,
+          "modelName": "P200 A trois volumes",
+          "modelYearFrom": "1967-09-01",
+          "modelYearTo": "1972-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "P300",
+      "displayName": "P300",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31199,
+          "modelName": "P300 A trois volumes",
+          "modelYearFrom": "1967-09-01",
+          "modelYearTo": "1972-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "PHOENIX",
+      "displayName": "PHOENIX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13030,
+          "modelName": "PHOENIX Hardtop",
+          "modelYearFrom": "1967-01-01",
+          "modelYearTo": "1973-01-01"
+        },
+        {
+          "modelId": 13032,
+          "modelName": "PHOENIX A trois volumes",
+          "modelYearFrom": "1960-01-01",
+          "modelYearTo": "1973-01-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "POLARA",
+      "displayName": "POLARA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10933,
+          "modelName": "POLARA Coupé",
+          "modelYearFrom": "1976-09-01",
+          "modelYearTo": "1981-12-01"
+        },
+        {
+          "modelId": 31201,
+          "modelName": "POLARA A trois volumes",
+          "modelYearFrom": "1961-09-01",
+          "modelYearTo": "1964-12-01"
+        },
+        {
+          "modelId": 37453,
+          "modelName": "POLARA Coupé",
+          "modelYearFrom": "1968-09-01",
+          "modelYearTo": "1973-12-01"
+        },
+        {
+          "modelId": 37454,
+          "modelName": "POLARA A trois volumes",
+          "modelYearFrom": "1968-09-01",
+          "modelYearTo": "1973-12-01"
+        },
+        {
+          "modelId": 37455,
+          "modelName": "POLARA Break",
+          "modelYearFrom": "1968-09-01",
+          "modelYearTo": "1973-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "POWER",
+      "displayName": "POWER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31202,
+          "modelName": "POWER RAM 50 Standard Cab Pickup",
+          "modelYearFrom": "1982-09-01",
+          "modelYearTo": "1986-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "RAIDER",
+      "displayName": "RAIDER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31203,
+          "modelName": "RAIDER SUV",
+          "modelYearFrom": "1986-09-01",
+          "modelYearTo": "1989-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "RAM",
+      "displayName": "RAM",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6804,
+          "modelName": "RAM Autobus/Autocar",
+          "modelYearFrom": "1985-10-01",
+          "modelYearTo": "1993-09-01"
+        },
+        {
+          "modelId": 6805,
+          "modelName": "RAM Van",
+          "modelYearFrom": "1993-08-01",
+          "modelYearTo": "2003-09-01"
+        },
+        {
+          "modelId": 9775,
+          "modelName": "RAM Van",
+          "modelYearFrom": "1995-06-01",
+          "modelYearTo": "2005-12-01"
+        },
+        {
+          "modelId": 10903,
+          "modelName": "RAM 2500 Pick-up (DJ, DS)",
+          "modelYearFrom": "2008-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10910,
+          "modelName": "RAM 4000 Camion plate-forme/Châssis (DR, D1, DC, DM, DH)",
+          "modelYearFrom": "2005-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10947,
+          "modelName": "RAM 350 Pick-up",
+          "modelYearFrom": "1980-06-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 10948,
+          "modelName": "RAM 250 Pick-up",
+          "modelYearFrom": "1980-06-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 10949,
+          "modelName": "RAM 150 Pick-up",
+          "modelYearFrom": "1980-06-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 10950,
+          "modelName": "RAM 1500 Pick-up (DJ, DS)",
+          "modelYearFrom": "2008-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 10951,
+          "modelName": "RAM 1500 Pick-up (D1, DC, DH, DM, DR)",
+          "modelYearFrom": "2001-06-01",
+          "modelYearTo": "2008-09-01"
+        },
+        {
+          "modelId": 10952,
+          "modelName": "RAM 1500 Pick-up (BE, BR)",
+          "modelYearFrom": "1991-04-01",
+          "modelYearTo": "2002-08-01"
+        },
+        {
+          "modelId": 11117,
+          "modelName": "RAM 2500 Pick-up (BE, BR)",
+          "modelYearFrom": "1993-01-01",
+          "modelYearTo": "2002-12-01"
+        },
+        {
+          "modelId": 11120,
+          "modelName": "RAM 2500 Pick-up (D1, DC, DH, DM, DR)",
+          "modelYearFrom": "2001-09-01",
+          "modelYearTo": "2009-12-01"
+        },
+        {
+          "modelId": 11338,
+          "modelName": "RAM 3500 Pick-up (BR, BE)",
+          "modelYearFrom": "1993-01-01",
+          "modelYearTo": "2002-12-01"
+        },
+        {
+          "modelId": 11339,
+          "modelName": "RAM 3500 Pick-up (DR, DH, D1, DC, DM)",
+          "modelYearFrom": "2002-01-01",
+          "modelYearTo": "2009-12-01"
+        },
+        {
+          "modelId": 11341,
+          "modelName": "RAM 4000 Camion plate-forme/Châssis (DH, DR, D1, DC, DM)",
+          "modelYearFrom": "2005-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11632,
+          "modelName": "RAM 1500 Extended Cab Pickup",
+          "modelYearFrom": "1993-09-01",
+          "modelYearTo": "2001-12-01"
+        },
+        {
+          "modelId": 11633,
+          "modelName": "RAM 1500 Standard Cab Pickup",
+          "modelYearFrom": "1993-09-01",
+          "modelYearTo": "2001-12-01"
+        },
+        {
+          "modelId": 11636,
+          "modelName": "RAM 2500 Cab & Chassis",
+          "modelYearFrom": "2001-09-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 11640,
+          "modelName": "RAM 2500 Standard Cab Pickup",
+          "modelYearFrom": "1993-09-01",
+          "modelYearTo": "2001-12-01"
+        },
+        {
+          "modelId": 11643,
+          "modelName": "RAM 3500 Cab & Chassis",
+          "modelYearFrom": "2001-09-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 11645,
+          "modelName": "RAM 3500 Extended Cab Pickup",
+          "modelYearFrom": "1992-09-01",
+          "modelYearTo": "2002-12-01"
+        },
+        {
+          "modelId": 11646,
+          "modelName": "RAM 3500 Standard Cab Pickup",
+          "modelYearFrom": "1992-09-01",
+          "modelYearTo": "2001-12-01"
+        },
+        {
+          "modelId": 12972,
+          "modelName": "RAM 2500 Crew Cab Pickup",
+          "modelYearFrom": "1993-09-01",
+          "modelYearTo": "2001-12-01"
+        },
+        {
+          "modelId": 12974,
+          "modelName": "RAM 2500 Standard Cab Pickup (DJ)",
+          "modelYearFrom": "2008-09-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 12975,
+          "modelName": "RAM 3500 Standard Cab Pickup (D2)",
+          "modelYearFrom": "2008-09-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 13122,
+          "modelName": "RAM 3500 Cab & Chassis (DD)",
+          "modelYearFrom": "2008-09-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 13123,
+          "modelName": "RAM 2500 Crew Cab Pickup (DJ)",
+          "modelYearFrom": "2008-09-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 13124,
+          "modelName": "RAM 2500 Extended Crew Cab Pickup",
+          "modelYearFrom": "2008-09-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 13125,
+          "modelName": "RAM 1500 Standard Cab Pickup",
+          "modelYearFrom": "2008-09-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 13126,
+          "modelName": "RAM 1500 Extended Cab Pickup",
+          "modelYearFrom": "2008-09-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 13130,
+          "modelName": "RAM 3500 Crew Cab Pickup (D2)",
+          "modelYearFrom": "2008-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13131,
+          "modelName": "RAM 3500 Extended Crew Cab Pickup",
+          "modelYearFrom": "2008-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13525,
+          "modelName": "RAM 50 Standard Cab Pickup",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1986-12-01"
+        },
+        {
+          "modelId": 14299,
+          "modelName": "RAM 4000 Standard Cab Pickup",
+          "modelYearFrom": "1992-09-01",
+          "modelYearTo": "2002-12-01"
+        },
+        {
+          "modelId": 14301,
+          "modelName": "RAM 3500 VAN Standard Passenger Van",
+          "modelYearFrom": "1993-09-01",
+          "modelYearTo": "2003-12-01"
+        },
+        {
+          "modelId": 14467,
+          "modelName": "RAM Van",
+          "modelYearFrom": "2002-03-01",
+          "modelYearTo": "2005-12-01"
+        },
+        {
+          "modelId": 31211,
+          "modelName": "RAM 1500 VAN Standard Passenger Van",
+          "modelYearFrom": "1994-09-01",
+          "modelYearTo": "2003-12-01"
+        },
+        {
+          "modelId": 31213,
+          "modelName": "RAM 2500 Cab & Chassis",
+          "modelYearFrom": "1993-09-01",
+          "modelYearTo": "2001-12-01"
+        },
+        {
+          "modelId": 31220,
+          "modelName": "RAM 2500 VAN Standard Passenger Van",
+          "modelYearFrom": "1998-09-01",
+          "modelYearTo": "2003-12-01"
+        },
+        {
+          "modelId": 31222,
+          "modelName": "RAM 3500 Cab & Chassis",
+          "modelYearFrom": "1993-09-01",
+          "modelYearTo": "2001-12-01"
+        },
+        {
+          "modelId": 31227,
+          "modelName": "RAM 3500 VAN Extended Passenger Van",
+          "modelYearFrom": "1993-09-01",
+          "modelYearTo": "2003-12-01"
+        },
+        {
+          "modelId": 31231,
+          "modelName": "RAM 50 Standard Cab Pickup",
+          "modelYearFrom": "1986-09-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 35130,
+          "modelName": "RAM 1500 VAN Extended Cargo Van",
+          "modelYearFrom": "1993-09-01",
+          "modelYearTo": "2003-12-01"
+        },
+        {
+          "modelId": 35131,
+          "modelName": "RAM 1500 Crew Cab Pickup",
+          "modelYearFrom": "2001-09-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 35132,
+          "modelName": "RAM 1500 Extended Crew Cab Pickup",
+          "modelYearFrom": "2001-09-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 35133,
+          "modelName": "RAM 2500 Extended Cab Pickup",
+          "modelYearFrom": "1993-09-01",
+          "modelYearTo": "2001-12-01"
+        },
+        {
+          "modelId": 35134,
+          "modelName": "RAM 2500 Standard Cab Pickup",
+          "modelYearFrom": "2001-09-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 35135,
+          "modelName": "RAM 2500 VAN Extended Cargo Van",
+          "modelYearFrom": "1994-09-01",
+          "modelYearTo": "2003-12-01"
+        },
+        {
+          "modelId": 35136,
+          "modelName": "RAM 3500 VAN Standard Cargo Van",
+          "modelYearFrom": "1993-09-01",
+          "modelYearTo": "2003-12-01"
+        },
+        {
+          "modelId": 35137,
+          "modelName": "RAM 3500 Crew Cab Pickup",
+          "modelYearFrom": "1992-09-01",
+          "modelYearTo": "2001-12-01"
+        },
+        {
+          "modelId": 35138,
+          "modelName": "RAM 3500 Standard Cab Pickup",
+          "modelYearFrom": "2001-09-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 35139,
+          "modelName": "RAM 4000 Standard Cab Pickup",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 35140,
+          "modelName": "RAM 50 Extended Cab Pickup",
+          "modelYearFrom": "1982-09-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 35954,
+          "modelName": "RAM 1500 Crew Cab Pickup",
+          "modelYearFrom": "2008-09-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 35956,
+          "modelName": "RAM 1500 Standard Cab Pickup",
+          "modelYearFrom": "2001-09-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 35958,
+          "modelName": "RAM 1500 VAN Standard Cargo Van",
+          "modelYearFrom": "1995-09-01",
+          "modelYearTo": "2003-12-01"
+        },
+        {
+          "modelId": 35959,
+          "modelName": "RAM 2500 Crew Cab Pickup",
+          "modelYearFrom": "2001-09-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 35960,
+          "modelName": "RAM 2500 Extended Crew Cab Pickup",
+          "modelYearFrom": "2001-09-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 35961,
+          "modelName": "RAM 2500 VAN Standard Cargo Van",
+          "modelYearFrom": "1995-09-01",
+          "modelYearTo": "2003-12-01"
+        },
+        {
+          "modelId": 35962,
+          "modelName": "RAM 3500 Crew Cab Pickup",
+          "modelYearFrom": "2001-09-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 35963,
+          "modelName": "RAM 3500 Extended Crew Cab Pickup",
+          "modelYearFrom": "2001-09-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 36083,
+          "modelName": "RAM 3500 VAN Extended Cargo Van",
+          "modelYearFrom": "1993-09-01",
+          "modelYearTo": "2003-12-01"
+        },
+        {
+          "modelId": 36162,
+          "modelName": "RAM 4500 Cab & Chassis (DM)",
+          "modelYearFrom": "2008-09-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 36163,
+          "modelName": "RAM 5500 Cab & Chassis (DM)",
+          "modelYearFrom": "2008-09-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 36936,
+          "modelName": "RAM Autobus/Autocar",
+          "modelYearFrom": "1993-01-01",
+          "modelYearTo": "2003-12-01"
+        },
+        {
+          "modelId": 39666,
+          "modelName": "RAM 4000 Camion plate-forme/Châssis",
+          "modelYearFrom": "1992-09-01",
+          "modelYearTo": "2002-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "RAMCHARGER",
+      "displayName": "RAMCHARGER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6806,
+          "modelName": "RAMCHARGER",
+          "modelYearFrom": "1980-01-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 9653,
+          "modelName": "RAMCHARGER II",
+          "modelYearFrom": "1999-01-01",
+          "modelYearTo": "2001-12-01"
+        },
+        {
+          "modelId": 31233,
+          "modelName": "RAMCHARGER",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1980-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "RAMPAGE",
+      "displayName": "RAMPAGE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31234,
+          "modelName": "RAMPAGE Standard Cab Pickup",
+          "modelYearFrom": "1981-09-01",
+          "modelYearTo": "1984-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "RD200",
+      "displayName": "RD200",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31235,
+          "modelName": "RD200 Cab & Chassis",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1978-12-01"
+        },
+        {
+          "modelId": 31236,
+          "modelName": "RD200 Crew Cab Pickup",
+          "modelYearFrom": "1978-09-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 31237,
+          "modelName": "RD200 Extended Cab Pickup",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 31238,
+          "modelName": "RD200 Standard Cab Pickup",
+          "modelYearFrom": "1977-09-01",
+          "modelYearTo": "1980-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "ROYAL",
+      "displayName": "ROYAL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31239,
+          "modelName": "ROYAL MINI RAM Standard Cargo Van",
+          "modelYearFrom": "1983-09-01",
+          "modelYearTo": "1987-12-01"
+        },
+        {
+          "modelId": 31240,
+          "modelName": "ROYAL MONACO Hardtop",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 31241,
+          "modelName": "ROYAL MONACO A trois volumes",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 31242,
+          "modelName": "ROYAL MONACO Break",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1977-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "SHADOW",
+      "displayName": "SHADOW",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9977,
+          "modelName": "SHADOW",
+          "modelYearFrom": "1986-09-01",
+          "modelYearTo": "1997-12-01"
+        },
+        {
+          "modelId": 31245,
+          "modelName": "SHADOW Décapotable",
+          "modelYearFrom": "1990-09-01",
+          "modelYearTo": "1994-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "SPIRIT",
+      "displayName": "SPIRIT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9976,
+          "modelName": "SPIRIT",
+          "modelYearFrom": "1988-02-01",
+          "modelYearTo": "1996-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "SPRINTER",
+      "displayName": "SPRINTER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31249,
+          "modelName": "SPRINTER 2500 Cab & Chassis",
+          "modelYearFrom": "1994-09-01",
+          "modelYearTo": "2007-12-01"
+        },
+        {
+          "modelId": 31251,
+          "modelName": "SPRINTER 2500 Standard Passenger Van",
+          "modelYearFrom": "1992-09-01",
+          "modelYearTo": "2006-12-01"
+        },
+        {
+          "modelId": 31253,
+          "modelName": "SPRINTER 3500 Standard Cargo Van",
+          "modelYearFrom": "1992-09-01",
+          "modelYearTo": "2006-12-01"
+        },
+        {
+          "modelId": 34846,
+          "modelName": "SPRINTER 2500 Standard Passenger Van",
+          "modelYearFrom": "2006-09-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 34847,
+          "modelName": "SPRINTER 2500 Standard Cargo Van",
+          "modelYearFrom": "2005-09-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 34848,
+          "modelName": "SPRINTER 3500 Standard Cargo Van",
+          "modelYearFrom": "2006-09-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 34849,
+          "modelName": "SPRINTER 3500 Cab & Chassis",
+          "modelYearFrom": "2006-09-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 34850,
+          "modelName": "SPRINTER 3500 Standard Passenger Van",
+          "modelYearFrom": "2006-09-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 37290,
+          "modelName": "SPRINTER 3500 Cab & Chassis",
+          "modelYearFrom": "1992-09-01",
+          "modelYearTo": "2006-12-01"
+        },
+        {
+          "modelId": 38258,
+          "modelName": "SPRINTER 2500 Standard Cargo Van (VA)",
+          "modelYearFrom": "1992-09-01",
+          "modelYearTo": "2006-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "ST",
+      "displayName": "ST",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31255,
+          "modelName": "ST. REGIS A trois volumes",
+          "modelYearFrom": "1978-09-01",
+          "modelYearTo": "1981-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "STEALTH",
+      "displayName": "STEALTH",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31256,
+          "modelName": "STEALTH Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1990-09-01",
+          "modelYearTo": "1996-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "STRATUS",
+      "displayName": "STRATUS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4857,
+          "modelName": "STRATUS",
+          "modelYearFrom": "1994-09-01",
+          "modelYearTo": "2001-04-01"
+        },
+        {
+          "modelId": 11312,
+          "modelName": "STRATUS II",
+          "modelYearFrom": "2000-10-01",
+          "modelYearTo": "2006-10-01"
+        },
+        {
+          "modelId": 31257,
+          "modelName": "STRATUS Coupé",
+          "modelYearFrom": "2000-09-01",
+          "modelYearTo": "2005-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "SX",
+      "displayName": "SX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 34343,
+          "modelName": "SX A trois volumes",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": "2005-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "TRUCK",
+      "displayName": "TRUCK",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31259,
+          "modelName": "TRUCK Standard Cab Pickup",
+          "modelYearFrom": "1952-09-01",
+          "modelYearTo": "1960-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "VERNA",
+      "displayName": "VERNA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10893,
+          "modelName": "VERNA Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2002-10-01",
+          "modelYearTo": "2006-08-01"
+        },
+        {
+          "modelId": 10894,
+          "modelName": "VERNA A trois volumes",
+          "modelYearFrom": "2002-10-01",
+          "modelYearTo": "2006-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "VIPER",
+      "displayName": "VIPER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5094,
+          "modelName": "VIPER Décapotable",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": "2017-12-01"
+        },
+        {
+          "modelId": 6808,
+          "modelName": "VIPER Décapotable",
+          "modelYearFrom": "1991-10-01",
+          "modelYearTo": "2002-09-01"
+        },
+        {
+          "modelId": 6809,
+          "modelName": "VIPER Coupé",
+          "modelYearFrom": "1991-10-01",
+          "modelYearTo": "2002-09-01"
+        },
+        {
+          "modelId": 10277,
+          "modelName": "VIPER Coupé",
+          "modelYearFrom": "2003-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 13203,
+          "modelName": "VIPER Coupé",
+          "modelYearFrom": "2002-09-01",
+          "modelYearTo": "2010-12-01"
+        },
+        {
+          "modelId": 13204,
+          "modelName": "VIPER Coupé",
+          "modelYearFrom": "2012-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "VISION",
+      "displayName": "VISION",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14206,
+          "modelName": "VISION A trois volumes",
+          "modelYearFrom": "2014-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "W100",
+      "displayName": "W100",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11136,
+          "modelName": "W100 Standard Cab Pickup",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 31263,
+          "modelName": "W100 Cab & Chassis",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1977-12-01"
+        },
+        {
+          "modelId": 31265,
+          "modelName": "W100 Standard Cab Pickup",
+          "modelYearFrom": "1971-09-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 31266,
+          "modelName": "W100 Standard Cab Pickup",
+          "modelYearFrom": "1967-09-01",
+          "modelYearTo": "1971-12-01"
+        },
+        {
+          "modelId": 35146,
+          "modelName": "W100 Extended Cab Pickup",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1980-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "W150",
+      "displayName": "W150",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31268,
+          "modelName": "W150 Cab & Chassis",
+          "modelYearFrom": "1976-09-01",
+          "modelYearTo": "1978-12-01"
+        },
+        {
+          "modelId": 31270,
+          "modelName": "W150 Standard Cab Pickup",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 35148,
+          "modelName": "W150 Extended Cab Pickup",
+          "modelYearFrom": "1976-09-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 36182,
+          "modelName": "W150 Extended Cab Pickup",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 39098,
+          "modelName": "W150 Standard Cab Pickup",
+          "modelYearFrom": "1971-09-01",
+          "modelYearTo": "1980-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "W200",
+      "displayName": "W200",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31271,
+          "modelName": "W200 Cab & Chassis",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1978-12-01"
+        },
+        {
+          "modelId": 31274,
+          "modelName": "W200 Standard Cab Pickup",
+          "modelYearFrom": "1972-09-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 31275,
+          "modelName": "W200 Standard Cab Pickup",
+          "modelYearFrom": "1968-09-01",
+          "modelYearTo": "1973-12-01"
+        },
+        {
+          "modelId": 35150,
+          "modelName": "W200 Crew Cab Pickup",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 36196,
+          "modelName": "W200 Extended Cab Pickup",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1980-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "W250",
+      "displayName": "W250",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11649,
+          "modelName": "W250 Extended Cab Pickup",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 31277,
+          "modelName": "W250 Cab & Chassis",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 35151,
+          "modelName": "W250 Crew Cab Pickup",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 36085,
+          "modelName": "W250 Standard Cab Pickup",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1993-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "W300",
+      "displayName": "W300",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 31281,
+          "modelName": "W300 Cab & Chassis",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 31282,
+          "modelName": "W300 Standard Cab Pickup",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1975-12-01"
+        },
+        {
+          "modelId": 31283,
+          "modelName": "W300 Standard Cab Pickup",
+          "modelYearFrom": "1967-09-01",
+          "modelYearTo": "1971-12-01"
+        },
+        {
+          "modelId": 31284,
+          "modelName": "W300 Pick-up",
+          "modelYearFrom": "1959-09-01",
+          "modelYearTo": "1967-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 29,
+      "manufacturerName": "DODGE",
+      "groupKey": "W350",
+      "displayName": "W350",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11650,
+          "modelName": "W350 Extended Cab Pickup",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 31285,
+          "modelName": "W350 Cab & Chassis",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 35152,
+          "modelName": "W350 Standard Cab Pickup",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1993-12-01"
+        },
+        {
+          "modelId": 36218,
+          "modelName": "W350 Crew Cab Pickup",
+          "modelYearFrom": "1980-09-01",
+          "modelYearTo": "1993-12-01"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "productName": "Elément insertable, grille de radiateur",
+  "searchText": "Elément insertable, grille de radiateur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:35:39.924Z",
+  "productId": 2981,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Avant du véhicule": {
+          "categoryId": null,
+          "categoryName": "Avant du véhicule",
+          "level": 2,
+          "children": {
+            "Elément insertable, grille de radiateur": {
+              "categoryId": 101648,
+              "categoryName": "Vehicle Front",
+              "level": 2,
+              "children": {
+                "Composants/suppléments": {
+                  "categoryId": null,
+                  "categoryName": "Composants/suppléments",
+                  "level": 4,
+                  "children": {
+                    "Elément insertable, grille de radiateur": {
+                      "categoryId": 101673,
+                      "categoryName": "Parts",
+                      "level": 3,
+                      "children": {
+                        "Recouvrement/radiateur": {
+                          "categoryId": null,
+                          "categoryName": "Recouvrement/radiateur",
+                          "level": 6,
+                          "children": {
+                            "Elément insertable, grille de radiateur": {
+                              "categoryId": 101675,
+                              "categoryName": "Front Fairing/ Grille",
+                              "level": 4,
+                              "children": [],
+                              "productId": 2981
+                            }
+                          }
+                        }
+                      },
+                      "productId": 2981
+                    }
+                  }
+                }
+              },
+              "productId": 2981
+            }
+          }
+        },
+        "Pièces de carrosserie/ailes/pares-chocs": {
+          "categoryId": null,
+          "categoryName": "Pièces de carrosserie/ailes/pares-chocs",
+          "level": 2,
+          "children": {
+            "Elément insertable, grille de radiateur": {
+              "categoryId": 100743,
+              "categoryName": "Body Parts/Wing/Bumper",
+              "level": 2,
+              "children": {
+                "Revêtement / grille avant": {
+                  "categoryId": null,
+                  "categoryName": "Revêtement / grille avant",
+                  "level": 4,
+                  "children": {
+                    "Elément insertable, grille de radiateur": {
+                      "categoryId": 100191,
+                      "categoryName": "Radiator Support/Grille",
+                      "level": 3,
+                      "children": [],
+                      "productId": 2981
+                    }
+                  }
+                }
+              },
+              "productId": 2981
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    ├── Avant du véhicule (Niveau 2)\n    │   └── Vehicle Front [ID: 101648] (Niveau 2) → ProductId: 2981\n    │       └── Composants/suppléments (Niveau 4)\n    │           └── Parts [ID: 101673] (Niveau 3) → ProductId: 2981\n    │               └── Recouvrement/radiateur (Niveau 6)\n    │                   └── Front Fairing/ Grille [ID: 101675] (Niveau 4) → ProductId: 2981\n    └── Pièces de carrosserie/ailes/pares-chocs (Niveau 2)\n        └── Body Parts/Wing/Bumper [ID: 100743] (Niveau 2) → ProductId: 2981\n            └── Revêtement / grille avant (Niveau 4)\n                └── Radiator Support/Grille [ID: 100191] (Niveau 3) → ProductId: 2981",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Avant du véhicule",
+        "Vehicle Front"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101648
+      ],
+      "finalCategoryId": 101648,
+      "productId": 2981
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Pièces de carrosserie/ailes/pares-chocs",
+        "Body Parts/Wing/Bumper"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100743
+      ],
+      "finalCategoryId": 100743,
+      "productId": 2981
+    }
+  ],
+  "productIdsInArbo": [
+    2981
+  ],
+  "matchedProductIds": [
+    2981
+  ]
+}

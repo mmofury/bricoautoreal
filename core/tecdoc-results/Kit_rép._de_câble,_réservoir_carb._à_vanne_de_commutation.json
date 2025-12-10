@@ -1,0 +1,82 @@
+{
+  "productName": "Kit rép. de câble, réservoir carb. à vanne de commutation",
+  "searchText": "Kit rép. de câble, réservoir carb. à vanne de commutation",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:08:50.677Z",
+  "productId": 8992,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Réservoir de carburant / accessoires": {
+          "categoryId": null,
+          "categoryName": "Réservoir de carburant / accessoires",
+          "level": 2,
+          "children": {
+            "Kit rép. de câble, réservoir carb. à vanne de commutation": {
+              "categoryId": 100250,
+              "categoryName": "Fuel Tank/Accessories",
+              "level": 2,
+              "children": [],
+              "productId": 8992
+            }
+          }
+        },
+        "Soupapes": {
+          "categoryId": null,
+          "categoryName": "Soupapes",
+          "level": 2,
+          "children": {
+            "Kit rép. de câble, réservoir carb. à vanne de commutation": {
+              "categoryId": 100252,
+              "categoryName": "Valves",
+              "level": 2,
+              "children": [],
+              "productId": 8992
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Alimentation carburant [ID: 100214] (Niveau 1)\n    ├── Réservoir de carburant / accessoires (Niveau 2)\n    │   └── Fuel Tank/Accessories [ID: 100250] (Niveau 2) → ProductId: 8992\n    └── Soupapes (Niveau 2)\n        └── Valves [ID: 100252] (Niveau 2) → ProductId: 8992",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Réservoir de carburant / accessoires",
+        "Fuel Tank/Accessories"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100250
+      ],
+      "finalCategoryId": 100250,
+      "productId": 8992
+    },
+    {
+      "path": [
+        "Alimentation carburant",
+        "Soupapes",
+        "Valves"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100252
+      ],
+      "finalCategoryId": 100252,
+      "productId": 8992
+    }
+  ],
+  "productIdsInArbo": [
+    8992
+  ],
+  "matchedProductIds": [
+    8992
+  ]
+}

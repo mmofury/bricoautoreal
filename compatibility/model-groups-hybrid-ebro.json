@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.249Z",
+  "manufacturer": "EBRO",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 142,
+      "manufacturerName": "EBRO",
+      "groupKey": "PATROL",
+      "displayName": "PATROL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11217,
+          "modelName": "PATROL",
+          "modelYearFrom": "1979-11-01",
+          "modelYearTo": "1985-01-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 142,
+      "manufacturerName": "EBRO",
+      "groupKey": "S700",
+      "displayName": "S700",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 46120,
+          "modelName": "S700",
+          "modelYearFrom": "2024-06-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 142,
+      "manufacturerName": "EBRO",
+      "groupKey": "S800",
+      "displayName": "S800",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 46121,
+          "modelName": "S800",
+          "modelYearFrom": "2024-06-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

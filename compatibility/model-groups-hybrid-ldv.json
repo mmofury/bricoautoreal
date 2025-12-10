@@ -1,0 +1,376 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.381Z",
+  "manufacturer": "LDV",
+  "countGroups": 15,
+  "groups": [
+    {
+      "manufacturerId": 1380,
+      "manufacturerName": "LDV",
+      "groupKey": "200",
+      "displayName": "200",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7658,
+          "modelName": "200 Camion plate-forme/Châssis",
+          "modelYearFrom": "1989-04-01",
+          "modelYearTo": "1996-03-01"
+        },
+        {
+          "modelId": 7659,
+          "modelName": "200 Fourgon",
+          "modelYearFrom": "1989-04-01",
+          "modelYearTo": "1996-03-01"
+        },
+        {
+          "modelId": 37729,
+          "modelName": "200 Autobus/Autocar",
+          "modelYearFrom": "1989-04-01",
+          "modelYearTo": "1996-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1380,
+      "manufacturerName": "LDV",
+      "groupKey": "400",
+      "displayName": "400",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4167,
+          "modelName": "400 Camion plate-forme/Châssis",
+          "modelYearFrom": "1995-11-01",
+          "modelYearTo": "1996-10-01"
+        },
+        {
+          "modelId": 4171,
+          "modelName": "400 Autobus/Autocar",
+          "modelYearFrom": "1995-11-01",
+          "modelYearTo": "1998-10-01"
+        },
+        {
+          "modelId": 7655,
+          "modelName": "400 Camion plate-forme/Châssis",
+          "modelYearFrom": "1986-11-01",
+          "modelYearTo": "1996-10-01"
+        },
+        {
+          "modelId": 7656,
+          "modelName": "400 Fourgon",
+          "modelYearFrom": "1986-11-01",
+          "modelYearTo": "1996-12-01"
+        },
+        {
+          "modelId": 7657,
+          "modelName": "400 Autobus/Autocar",
+          "modelYearFrom": "1989-04-01",
+          "modelYearTo": "1996-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1380,
+      "manufacturerName": "LDV",
+      "groupKey": "CONVOY",
+      "displayName": "CONVOY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4169,
+          "modelName": "CONVOY Fourgon",
+          "modelYearFrom": "1996-04-01",
+          "modelYearTo": "2009-04-01"
+        },
+        {
+          "modelId": 4170,
+          "modelName": "CONVOY Camion plate-forme/Châssis",
+          "modelYearFrom": "1996-04-01",
+          "modelYearTo": "2009-04-01"
+        },
+        {
+          "modelId": 7653,
+          "modelName": "CONVOY Autobus/Autocar",
+          "modelYearFrom": "1996-04-01",
+          "modelYearTo": "2009-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1380,
+      "manufacturerName": "LDV",
+      "groupKey": "CUB",
+      "displayName": "CUB",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5440,
+          "modelName": "CUB",
+          "modelYearFrom": "1998-08-01",
+          "modelYearTo": "2001-09-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1380,
+      "manufacturerName": "LDV",
+      "groupKey": "D90",
+      "displayName": "D90",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38378,
+          "modelName": "D90 SUV",
+          "modelYearFrom": "2017-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1380,
+      "manufacturerName": "LDV",
+      "groupKey": "DELIVER",
+      "displayName": "DELIVER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41557,
+          "modelName": "DELIVER 9 Fourgon",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41558,
+          "modelName": "DELIVER 9 Autobus/Autocar",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 41559,
+          "modelName": "DELIVER 9 Camion plate-forme/Châssis",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1380,
+      "manufacturerName": "LDV",
+      "groupKey": "EDELIVER",
+      "displayName": "EDELIVER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45182,
+          "modelName": "eDELIVER 7 Fourgon",
+          "modelYearFrom": "2023-08-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 90024,
+          "modelName": "eDELIVER 3 Fourgon",
+          "modelYearFrom": "2020-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1380,
+      "manufacturerName": "LDV",
+      "groupKey": "FREIGHT",
+      "displayName": "FREIGHT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10564,
+          "modelName": "FREIGHT ROVER SHERPA Autobus/Autocar",
+          "modelYearFrom": "1984-07-01",
+          "modelYearTo": "1989-03-01"
+        },
+        {
+          "modelId": 10835,
+          "modelName": "FREIGHT ROVER SHERPA Fourgon",
+          "modelYearFrom": "1984-07-01",
+          "modelYearTo": "1989-03-01"
+        },
+        {
+          "modelId": 39158,
+          "modelName": "FREIGHT ROVER SHERPA Camion plate-forme/Châssis (ZK)",
+          "modelYearFrom": "1984-07-01",
+          "modelYearTo": "1989-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1380,
+      "manufacturerName": "LDV",
+      "groupKey": "G10",
+      "displayName": "G10",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14789,
+          "modelName": "G10 Autobus/Autocar",
+          "modelYearFrom": "2015-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14790,
+          "modelName": "G10 Fourgon",
+          "modelYearFrom": "2015-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1380,
+      "manufacturerName": "LDV",
+      "groupKey": "MAXUS",
+      "displayName": "MAXUS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5557,
+          "modelName": "MAXUS Autobus/Autocar",
+          "modelYearFrom": "2005-02-01",
+          "modelYearTo": "2009-12-01"
+        },
+        {
+          "modelId": 5558,
+          "modelName": "MAXUS Fourgon",
+          "modelYearFrom": "2005-02-01",
+          "modelYearTo": "2009-12-01"
+        },
+        {
+          "modelId": 8074,
+          "modelName": "MAXUS Camion plate-forme/Châssis",
+          "modelYearFrom": "2005-02-01",
+          "modelYearTo": "2009-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1380,
+      "manufacturerName": "LDV",
+      "groupKey": "MIFA",
+      "displayName": "MIFA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43917,
+          "modelName": "MIFA Monospace",
+          "modelYearFrom": "2022-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1380,
+      "manufacturerName": "LDV",
+      "groupKey": "PILOT",
+      "displayName": "PILOT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 7649,
+          "modelName": "PILOT Autobus/Autocar",
+          "modelYearFrom": "1996-04-01",
+          "modelYearTo": "2005-10-01"
+        },
+        {
+          "modelId": 7650,
+          "modelName": "PILOT Camion plate-forme/Châssis",
+          "modelYearFrom": "1996-04-01",
+          "modelYearTo": "2005-10-01"
+        },
+        {
+          "modelId": 7651,
+          "modelName": "PILOT Fourgon",
+          "modelYearFrom": "1996-04-01",
+          "modelYearTo": "2005-10-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1380,
+      "manufacturerName": "LDV",
+      "groupKey": "SHERPA",
+      "displayName": "SHERPA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 4915,
+          "modelName": "SHERPA Autobus/Autocar (AS)",
+          "modelYearFrom": "1974-03-01",
+          "modelYearTo": "1982-12-01"
+        },
+        {
+          "modelId": 4916,
+          "modelName": "SHERPA Autobus/Autocar (FR)",
+          "modelYearFrom": "1983-01-01",
+          "modelYearTo": "1988-09-01"
+        },
+        {
+          "modelId": 7647,
+          "modelName": "SHERPA Camion plate-forme/Châssis",
+          "modelYearFrom": "1974-07-01",
+          "modelYearTo": "1989-03-01"
+        },
+        {
+          "modelId": 7648,
+          "modelName": "SHERPA Fourgon",
+          "modelYearFrom": "1974-06-01",
+          "modelYearTo": "1989-03-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1380,
+      "manufacturerName": "LDV",
+      "groupKey": "T60",
+      "displayName": "T60",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38271,
+          "modelName": "T60 Pick-up",
+          "modelYearFrom": "2017-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 45216,
+          "modelName": "T60 Camion plate-forme/Châssis (SK8C)",
+          "modelYearFrom": "2017-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 1380,
+      "manufacturerName": "LDV",
+      "groupKey": "V80",
+      "displayName": "V80",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14786,
+          "modelName": "V80 Fourgon",
+          "modelYearFrom": "2013-02-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14787,
+          "modelName": "V80 Autobus/Autocar",
+          "modelYearFrom": "2015-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 14788,
+          "modelName": "V80 Camion plate-forme/Châssis",
+          "modelYearFrom": "2015-07-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

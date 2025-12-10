@@ -1,0 +1,89 @@
+{
+  "productName": "Filtre à huile, différentiel",
+  "searchText": "Filtre à huile, différentiel",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:39:59.848Z",
+  "productId": 3502,
+  "arborescence": {
+    "Entraînement des essieux": {
+      "categoryId": 100400,
+      "categoryName": "Entraînement des essieux",
+      "level": 1,
+      "children": {
+        "Différentiel": {
+          "categoryId": null,
+          "categoryName": "Différentiel",
+          "level": 2,
+          "children": {
+            "Filtre à huile, différentiel": {
+              "categoryId": 100415,
+              "categoryName": "Differential",
+              "level": 2,
+              "children": [],
+              "productId": 3502
+            }
+          }
+        }
+      }
+    },
+    "Filtre": {
+      "categoryId": 100005,
+      "categoryName": "Filtre",
+      "level": 1,
+      "children": {
+        "Filtre à huile": {
+          "categoryId": null,
+          "categoryName": "Filtre à huile",
+          "level": 2,
+          "children": {
+            "Filtre à huile, différentiel": {
+              "categoryId": 100259,
+              "categoryName": "Oil Filter",
+              "level": 2,
+              "children": [],
+              "productId": 3502
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Entraînement des essieux [ID: 100400] (Niveau 1)\n│   └── Différentiel (Niveau 2)\n│       └── Differential [ID: 100415] (Niveau 2) → ProductId: 3502\n\n└── Filtre [ID: 100005] (Niveau 1)\n    └── Filtre à huile (Niveau 2)\n        └── Oil Filter [ID: 100259] (Niveau 2) → ProductId: 3502",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement des essieux",
+        "Différentiel",
+        "Differential"
+      ],
+      "categoryIds": [
+        100400,
+        null,
+        100415
+      ],
+      "finalCategoryId": 100415,
+      "productId": 3502
+    },
+    {
+      "path": [
+        "Filtre",
+        "Filtre à huile",
+        "Oil Filter"
+      ],
+      "categoryIds": [
+        100005,
+        null,
+        100259
+      ],
+      "finalCategoryId": 100259,
+      "productId": 3502
+    }
+  ],
+  "productIdsInArbo": [
+    3502
+  ],
+  "matchedProductIds": [
+    3502
+  ]
+}

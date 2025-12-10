@@ -1,0 +1,72 @@
+{
+  "productName": "Couronne, engrenage planétaire",
+  "searchText": "Couronne, engrenage planétaire",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T20:25:42.843Z",
+  "productId": 4082,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Démarreur": {
+          "categoryId": null,
+          "categoryName": "Démarreur",
+          "level": 2,
+          "children": {
+            "Couronne, engrenage planétaire (démarreur)": {
+              "categoryId": 100353,
+              "categoryName": "Starter System",
+              "level": 2,
+              "children": {
+                "Composants du démarreur": {
+                  "categoryId": null,
+                  "categoryName": "Composants du démarreur",
+                  "level": 4,
+                  "children": {
+                    "Couronne, engrenage planétaire (démarreur)": {
+                      "categoryId": 100040,
+                      "categoryName": "Starter Parts",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4997
+                    }
+                  }
+                }
+              },
+              "productId": 4997
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Démarreur (Niveau 2)\n        └── Starter System [ID: 100353] (Niveau 2) → ProductId: 4997\n            └── Composants du démarreur (Niveau 4)\n                └── Starter Parts [ID: 100040] (Niveau 3) → ProductId: 4997",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Démarreur",
+        "Starter System"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100353
+      ],
+      "finalCategoryId": 100353,
+      "productId": 4997
+    }
+  ],
+  "productIdsInArbo": [
+    4997
+  ],
+  "closestProductIds": [
+    {
+      "productId": 4997,
+      "productName": "Couronne, engrenage planétaire (démarreur)"
+    }
+  ]
+}

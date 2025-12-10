@@ -1,0 +1,240 @@
+{
+  "productName": "Vérin de hayon, de coffre",
+  "searchText": "Vérin de hayon, de coffre",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:35:57.818Z",
+  "productId": 219,
+  "arborescence": {
+    "Accessoires": {
+      "categoryId": 100733,
+      "categoryName": "Accessoires",
+      "level": 1,
+      "children": {
+        "Coffre/chargement/plateau de chargement": {
+          "categoryId": null,
+          "categoryName": "Coffre/chargement/plateau de chargement",
+          "level": 2,
+          "children": {
+            "Vérin de hayon, de coffre": {
+              "categoryId": 100862,
+              "categoryName": "Boot/Cargo Area/Loading surface",
+              "level": 2,
+              "children": [],
+              "productId": 219
+            }
+          }
+        }
+      }
+    },
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Arrière de la voiture": {
+          "categoryId": null,
+          "categoryName": "Arrière de la voiture",
+          "level": 2,
+          "children": {
+            "Vérin de hayon, de coffre": {
+              "categoryId": 101705,
+              "categoryName": "Vehicle Rear",
+              "level": 2,
+              "children": {
+                "Composants/suppléments": {
+                  "categoryId": null,
+                  "categoryName": "Composants/suppléments",
+                  "level": 4,
+                  "children": {
+                    "Vérin de hayon, de coffre": {
+                      "categoryId": 101745,
+                      "categoryName": "Parts",
+                      "level": 3,
+                      "children": {
+                        "Ressorts pneumatiques": {
+                          "categoryId": null,
+                          "categoryName": "Ressorts pneumatiques",
+                          "level": 6,
+                          "children": {
+                            "Vérin de hayon, de coffre": {
+                              "categoryId": 101752,
+                              "categoryName": "Gas Springs",
+                              "level": 4,
+                              "children": [],
+                              "productId": 219
+                            }
+                          }
+                        }
+                      },
+                      "productId": 219
+                    }
+                  }
+                }
+              },
+              "productId": 219
+            }
+          }
+        },
+        "Habitacle": {
+          "categoryId": null,
+          "categoryName": "Habitacle",
+          "level": 2,
+          "children": {
+            "Vérin de hayon, de coffre": {
+              "categoryId": 101690,
+              "categoryName": "Passenger Cabin",
+              "level": 2,
+              "children": {
+                "Composants/suppléments": {
+                  "categoryId": null,
+                  "categoryName": "Composants/suppléments",
+                  "level": 4,
+                  "children": {
+                    "Vérin de hayon, de coffre": {
+                      "categoryId": 101700,
+                      "categoryName": "Parts",
+                      "level": 3,
+                      "children": {
+                        "Ressorts pneumatiques": {
+                          "categoryId": null,
+                          "categoryName": "Ressorts pneumatiques",
+                          "level": 6,
+                          "children": {
+                            "Vérin de hayon, de coffre": {
+                              "categoryId": 101703,
+                              "categoryName": "Gas Springs",
+                              "level": 4,
+                              "children": [],
+                              "productId": 219
+                            }
+                          }
+                        }
+                      },
+                      "productId": 219
+                    }
+                  }
+                }
+              },
+              "productId": 219
+            }
+          }
+        },
+        "Ressorts pneumatiques": {
+          "categoryId": null,
+          "categoryName": "Ressorts pneumatiques",
+          "level": 2,
+          "children": {
+            "Vérin de hayon, de coffre": {
+              "categoryId": 100826,
+              "categoryName": "Gas Springs",
+              "level": 2,
+              "children": [],
+              "productId": 219
+            }
+          }
+        }
+      }
+    },
+    "Équipement intérieur": {
+      "categoryId": 100341,
+      "categoryName": "Équipement intérieur",
+      "level": 1,
+      "children": {
+        "Coffre à bagages / compartiment de chargement": {
+          "categoryId": null,
+          "categoryName": "Coffre à bagages / compartiment de chargement",
+          "level": 2,
+          "children": {
+            "Vérin de hayon, de coffre": {
+              "categoryId": 102697,
+              "categoryName": "Boot",
+              "level": 2,
+              "children": [],
+              "productId": 219
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Accessoires [ID: 100733] (Niveau 1)\n│   └── Coffre/chargement/plateau de chargement (Niveau 2)\n│       └── Boot/Cargo Area/Loading surface [ID: 100862] (Niveau 2) → ProductId: 219\n\n├── Carrosserie [ID: 100001] (Niveau 1)\n│   ├── Arrière de la voiture (Niveau 2)\n│   │   └── Vehicle Rear [ID: 101705] (Niveau 2) → ProductId: 219\n│   │       └── Composants/suppléments (Niveau 4)\n│   │           └── Parts [ID: 101745] (Niveau 3) → ProductId: 219\n│   │               └── Ressorts pneumatiques (Niveau 6)\n│   │                   └── Gas Springs [ID: 101752] (Niveau 4) → ProductId: 219\n│   ├── Habitacle (Niveau 2)\n│   │   └── Passenger Cabin [ID: 101690] (Niveau 2) → ProductId: 219\n│   │       └── Composants/suppléments (Niveau 4)\n│   │           └── Parts [ID: 101700] (Niveau 3) → ProductId: 219\n│   │               └── Ressorts pneumatiques (Niveau 6)\n│   │                   └── Gas Springs [ID: 101703] (Niveau 4) → ProductId: 219\n│   └── Ressorts pneumatiques (Niveau 2)\n│       └── Gas Springs [ID: 100826] (Niveau 2) → ProductId: 219\n\n└── Équipement intérieur [ID: 100341] (Niveau 1)\n    └── Coffre à bagages / compartiment de chargement (Niveau 2)\n        └── Boot [ID: 102697] (Niveau 2) → ProductId: 219",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Accessoires",
+        "Coffre/chargement/plateau de chargement",
+        "Boot/Cargo Area/Loading surface"
+      ],
+      "categoryIds": [
+        100733,
+        null,
+        100862
+      ],
+      "finalCategoryId": 100862,
+      "productId": 219
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Arrière de la voiture",
+        "Vehicle Rear"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101705
+      ],
+      "finalCategoryId": 101705,
+      "productId": 219
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Habitacle",
+        "Passenger Cabin"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101690
+      ],
+      "finalCategoryId": 101690,
+      "productId": 219
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Ressorts pneumatiques",
+        "Gas Springs"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100826
+      ],
+      "finalCategoryId": 100826,
+      "productId": 219
+    },
+    {
+      "path": [
+        "Équipement intérieur",
+        "Coffre à bagages / compartiment de chargement",
+        "Boot"
+      ],
+      "categoryIds": [
+        100341,
+        null,
+        102697
+      ],
+      "finalCategoryId": 102697,
+      "productId": 219
+    }
+  ],
+  "productIdsInArbo": [
+    219
+  ],
+  "matchedProductIds": [
+    219
+  ]
+}

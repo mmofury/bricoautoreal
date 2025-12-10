@@ -1,0 +1,69 @@
+{
+  "productName": "Bague d'étanchéité système S.P.I, boîte du tachymètre",
+  "searchText": "Bague d'étanchéité système S.P.I, boîte du tachymètre",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:02:36.312Z",
+  "productId": 3425,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Instruments": {
+          "categoryId": null,
+          "categoryName": "Instruments",
+          "level": 2,
+          "children": {
+            "Bague d'étanchéité système S.P.I, boîte du tachymètre": {
+              "categoryId": 100322,
+              "categoryName": "Instruments",
+              "level": 2,
+              "children": {
+                "Flexible de compteur de vitesse": {
+                  "categoryId": null,
+                  "categoryName": "Flexible de compteur de vitesse",
+                  "level": 4,
+                  "children": {
+                    "Bague d'étanchéité système S.P.I, boîte du tachymètre": {
+                      "categoryId": 100561,
+                      "categoryName": "Speedometer Cable",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3425
+                    }
+                  }
+                }
+              },
+              "productId": 3425
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système électrique [ID: 100010] (Niveau 1)\n    └── Instruments (Niveau 2)\n        └── Instruments [ID: 100322] (Niveau 2) → ProductId: 3425\n            └── Flexible de compteur de vitesse (Niveau 4)\n                └── Speedometer Cable [ID: 100561] (Niveau 3) → ProductId: 3425",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Instruments",
+        "Instruments"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100322
+      ],
+      "finalCategoryId": 100322,
+      "productId": 3425
+    }
+  ],
+  "productIdsInArbo": [
+    3425
+  ],
+  "matchedProductIds": [
+    3425
+  ]
+}

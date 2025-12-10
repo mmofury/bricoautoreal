@@ -1,0 +1,43 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "E5F32A",
+      "index": "FE101172",
+      "tecDoc": "101172",
+      "tecDocProd": "101",
+      "articleNumber": "101172",
+      "brand": "FEBI",
+      "shortDescription": "Manual Transmission Oil",
+      "description": "MTF oil (0,85L) (Haldex) , AUDI G 055 175 A1, FORD AWD-2, OPEL 19 40 057, VOLVO 1161641, VOLVO 30759648, VOLVO 31325136, VOLVO 31367940, VOLVO 31367941, VW TL 521 75",
+      "gtuCode": "GTU_03",
+      "eans": [
+        "4054224011720"
+      ],
+      "packageWeight": "0,804",
+      "packageWidth": "6,400",
+      "packageDepth": "11,200",
+      "packageHeight": "22,200",
+      "customsCode": "27101987",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3225",
+          "primary": true,
+          "name": {
+            "en": "Manual Transmission Oil"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_5685",
+          "primary": false,
+          "name": {
+            "en": "Oil, multi-plate clutch (all-wheel drive)"
+          }
+        }
+      ]
+    }
+  ]
+}

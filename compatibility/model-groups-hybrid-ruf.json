@@ -1,0 +1,184 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.471Z",
+  "manufacturer": "RUF",
+  "countGroups": 9,
+  "groups": [
+    {
+      "manufacturerId": 4152,
+      "manufacturerName": "RUF",
+      "groupKey": "3800",
+      "displayName": "3800",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 12819,
+          "modelName": "3800 Coupé",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 12820,
+          "modelName": "3800 Roadster",
+          "modelYearFrom": "2013-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4152,
+      "manufacturerName": "RUF",
+      "groupKey": "CTR",
+      "displayName": "CTR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 12815,
+          "modelName": "CTR 3 Coupé",
+          "modelYearFrom": "2007-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38969,
+          "modelName": "CTR",
+          "modelYearFrom": "2017-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4152,
+      "manufacturerName": "RUF",
+      "groupKey": "RCT",
+      "displayName": "RCT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39003,
+          "modelName": "RCT",
+          "modelYearFrom": "1994-01-01",
+          "modelYearTo": "2016-01-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4152,
+      "manufacturerName": "RUF",
+      "groupKey": "RGT",
+      "displayName": "RGT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39011,
+          "modelName": "RGT MK I",
+          "modelYearFrom": "2000-01-01",
+          "modelYearTo": "2004-12-01"
+        },
+        {
+          "modelId": 39012,
+          "modelName": "RGT MK II",
+          "modelYearFrom": "2005-01-01",
+          "modelYearTo": "2011-12-01"
+        },
+        {
+          "modelId": 39013,
+          "modelName": "RGT MK III",
+          "modelYearFrom": "2012-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4152,
+      "manufacturerName": "RUF",
+      "groupKey": "RT",
+      "displayName": "RT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 12816,
+          "modelName": "Rt 12 Coupé",
+          "modelYearFrom": "2004-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 12817,
+          "modelName": "Rt 35 Coupé",
+          "modelYearFrom": "2012-07-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 12818,
+          "modelName": "Rt 35 Roadster",
+          "modelYearFrom": "2012-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4152,
+      "manufacturerName": "RUF",
+      "groupKey": "RTR",
+      "displayName": "RTR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39000,
+          "modelName": "RtR",
+          "modelYearFrom": "2015-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4152,
+      "manufacturerName": "RUF",
+      "groupKey": "SCR",
+      "displayName": "SCR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38964,
+          "modelName": "SCR",
+          "modelYearFrom": "2016-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4152,
+      "manufacturerName": "RUF",
+      "groupKey": "TURBO",
+      "displayName": "TURBO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38971,
+          "modelName": "TURBO FLORIO",
+          "modelYearFrom": "2015-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39002,
+          "modelName": "TURBO R",
+          "modelYearFrom": "1998-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4152,
+      "manufacturerName": "RUF",
+      "groupKey": "ULTIMATE",
+      "displayName": "ULTIMATE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39006,
+          "modelName": "ULTIMATE",
+          "modelYearFrom": "2016-02-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

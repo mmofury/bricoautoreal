@@ -1,0 +1,69 @@
+{
+  "productName": "Suspension, barre de connexion",
+  "searchText": "Suspension, barre de connexion",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:22:48.453Z",
+  "productId": 1542,
+  "arborescence": {
+    "Direction": {
+      "categoryId": 100012,
+      "categoryName": "Direction",
+      "level": 1,
+      "children": {
+        "Barre de connexion / composants": {
+          "categoryId": null,
+          "categoryName": "Barre de connexion / composants",
+          "level": 2,
+          "children": {
+            "Suspension, barre de connexion": {
+              "categoryId": 100601,
+              "categoryName": "Tie Rod Assembly/ Parts",
+              "level": 2,
+              "children": {
+                "Composants de barre de connexion": {
+                  "categoryId": null,
+                  "categoryName": "Composants de barre de connexion",
+                  "level": 4,
+                  "children": {
+                    "Suspension, barre de connexion": {
+                      "categoryId": 100603,
+                      "categoryName": "Parts, tie rod assy.",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1542
+                    }
+                  }
+                }
+              },
+              "productId": 1542
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Direction [ID: 100012] (Niveau 1)\n    └── Barre de connexion / composants (Niveau 2)\n        └── Tie Rod Assembly/ Parts [ID: 100601] (Niveau 2) → ProductId: 1542\n            └── Composants de barre de connexion (Niveau 4)\n                └── Parts, tie rod assy. [ID: 100603] (Niveau 3) → ProductId: 1542",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Direction",
+        "Barre de connexion / composants",
+        "Tie Rod Assembly/ Parts"
+      ],
+      "categoryIds": [
+        100012,
+        null,
+        100601
+      ],
+      "finalCategoryId": 100601,
+      "productId": 1542
+    }
+  ],
+  "productIdsInArbo": [
+    1542
+  ],
+  "matchedProductIds": [
+    1542
+  ]
+}

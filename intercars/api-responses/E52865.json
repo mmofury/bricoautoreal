@@ -1,0 +1,36 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "E52865",
+      "index": "370 0115 10",
+      "tecDoc": "370 0115 10",
+      "tecDocProd": "6",
+      "articleNumber": "370 0115 10",
+      "brand": "LUK",
+      "shortDescription": "Torsion Damper, clutch",
+      "description": "Torsion damper (diameter: 133mm, number of teeth: 30 pcs) fits: MASSEY FERGUSON",
+      "gtuCode": "GTU_07",
+      "customsCode": "87089390",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3463",
+          "primary": true,
+          "name": {
+            "en": "Torsion Damper, clutch"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_60376",
+          "primary": false,
+          "name": {
+            "en": "Torsional damper, power take-off"
+          }
+        }
+      ]
+    }
+  ]
+}

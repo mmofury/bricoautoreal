@@ -1,0 +1,54 @@
+{
+  "productName": "Tirette à câble, déverrouillage porte",
+  "searchText": "Tirette à câble, déverrouillage porte",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:26:29.445Z",
+  "productId": 4388,
+  "arborescence": {
+    "Verrouillage": {
+      "categoryId": 100685,
+      "categoryName": "Verrouillage",
+      "level": 1,
+      "children": {
+        "Poignées": {
+          "categoryId": null,
+          "categoryName": "Poignées",
+          "level": 2,
+          "children": {
+            "Tirette à câble, déverrouillage porte": {
+              "categoryId": 100691,
+              "categoryName": "Handles",
+              "level": 2,
+              "children": [],
+              "productId": 4388
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Verrouillage [ID: 100685] (Niveau 1)\n    └── Poignées (Niveau 2)\n        └── Handles [ID: 100691] (Niveau 2) → ProductId: 4388",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Verrouillage",
+        "Poignées",
+        "Handles"
+      ],
+      "categoryIds": [
+        100685,
+        null,
+        100691
+      ],
+      "finalCategoryId": 100691,
+      "productId": 4388
+    }
+  ],
+  "productIdsInArbo": [
+    4388
+  ],
+  "matchedProductIds": [
+    4388
+  ]
+}

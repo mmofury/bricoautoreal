@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G15O6C",
+      "index": "2233000COJ",
+      "tecDoc": "2233000",
+      "tecDocProd": "495",
+      "articleNumber": "2233000",
+      "brand": "COJALI",
+      "shortDescription": "Control Valve, trailer",
+      "description": "Control valve - trailer fits: MAN LION´S CITY, NL, NÜ, TGL I, TGM I, MERCEDES ACTROS, ACTROS MP2 / MP3, ATEGO, ATEGO 2, AXOR, AXOR 2, NG 09.75-",
+      "customsCode": "84812090",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_348",
+          "primary": true,
+          "name": {
+            "en": "Control Valve, trailer"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_2105",
+          "primary": false,
+          "name": {
+            "en": "Relay Valve, EBS"
+          }
+        }
+      ]
+    }
+  ]
+}

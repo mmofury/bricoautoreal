@@ -1,0 +1,84 @@
+{
+  "productName": "Entretoise, échappement",
+  "searchText": "Entretoise, échappement",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:37:18.288Z",
+  "productId": 4412,
+  "arborescence": {
+    "Échappement": {
+      "categoryId": 100004,
+      "categoryName": "Échappement",
+      "level": 1,
+      "children": {
+        "Pièces de montage": {
+          "categoryId": null,
+          "categoryName": "Pièces de montage",
+          "level": 2,
+          "children": {
+            "Entretoise, échappement": {
+              "categoryId": 100222,
+              "categoryName": "Assembly Parts",
+              "level": 2,
+              "children": {
+                "Pièces détachées de montage": {
+                  "categoryId": null,
+                  "categoryName": "Pièces détachées de montage",
+                  "level": 4,
+                  "children": {
+                    "Entretoise, échappement": {
+                      "categoryId": 100317,
+                      "categoryName": "Individual Assembly Parts",
+                      "level": 3,
+                      "children": {
+                        "Entretoise": {
+                          "categoryId": null,
+                          "categoryName": "Entretoise",
+                          "level": 6,
+                          "children": {
+                            "Entretoise, échappement": {
+                              "categoryId": 103111,
+                              "categoryName": "Spacer Sleeve",
+                              "level": 4,
+                              "children": [],
+                              "productId": 4412
+                            }
+                          }
+                        }
+                      },
+                      "productId": 4412
+                    }
+                  }
+                }
+              },
+              "productId": 4412
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Échappement [ID: 100004] (Niveau 1)\n    └── Pièces de montage (Niveau 2)\n        └── Assembly Parts [ID: 100222] (Niveau 2) → ProductId: 4412\n            └── Pièces détachées de montage (Niveau 4)\n                └── Individual Assembly Parts [ID: 100317] (Niveau 3) → ProductId: 4412\n                    └── Entretoise (Niveau 6)\n                        └── Spacer Sleeve [ID: 103111] (Niveau 4) → ProductId: 4412",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Échappement",
+        "Pièces de montage",
+        "Assembly Parts"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100222
+      ],
+      "finalCategoryId": 100222,
+      "productId": 4412
+    }
+  ],
+  "productIdsInArbo": [
+    4412
+  ],
+  "matchedProductIds": [
+    4412
+  ]
+}

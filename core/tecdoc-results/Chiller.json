@@ -1,0 +1,69 @@
+{
+  "productName": "Chiller",
+  "searchText": "Chiller",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:19:52.458Z",
+  "productId": 60914,
+  "arborescence": {
+    "Entraînement hybride/électrique": {
+      "categoryId": 706209,
+      "categoryName": "Entraînement hybride/électrique",
+      "level": 1,
+      "children": {
+        "Refroidissement": {
+          "categoryId": null,
+          "categoryName": "Refroidissement",
+          "level": 2,
+          "children": {
+            "Chiller": {
+              "categoryId": 706210,
+              "categoryName": "Cooling System",
+              "level": 2,
+              "children": {
+                "Radiateur pour batterie de traction": {
+                  "categoryId": null,
+                  "categoryName": "Radiateur pour batterie de traction",
+                  "level": 4,
+                  "children": {
+                    "Chiller": {
+                      "categoryId": 706212,
+                      "categoryName": "Radiator for traction battery",
+                      "level": 3,
+                      "children": [],
+                      "productId": 60914
+                    }
+                  }
+                }
+              },
+              "productId": 60914
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Entraînement hybride/électrique [ID: 706209] (Niveau 1)\n    └── Refroidissement (Niveau 2)\n        └── Cooling System [ID: 706210] (Niveau 2) → ProductId: 60914\n            └── Radiateur pour batterie de traction (Niveau 4)\n                └── Radiator for traction battery [ID: 706212] (Niveau 3) → ProductId: 60914",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement hybride/électrique",
+        "Refroidissement",
+        "Cooling System"
+      ],
+      "categoryIds": [
+        706209,
+        null,
+        706210
+      ],
+      "finalCategoryId": 706210,
+      "productId": 60914
+    }
+  ],
+  "productIdsInArbo": [
+    60914
+  ],
+  "matchedProductIds": [
+    60914
+  ]
+}

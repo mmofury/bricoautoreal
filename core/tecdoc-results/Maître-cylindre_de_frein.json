@@ -1,0 +1,288 @@
+{
+  "productName": "Maître-cylindre de frein",
+  "searchText": "Maître-cylindre de frein",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:14:41.989Z",
+  "productId": 258,
+  "arborescence": {
+    "Dispositif de freinage": {
+      "categoryId": 100006,
+      "categoryName": "Dispositif de freinage",
+      "level": 1,
+      "children": {
+        "Maître-cylindre de frein": {
+          "categoryId": null,
+          "categoryName": "Maître-cylindre de frein",
+          "level": 2,
+          "children": {
+            "Barre / boulons, maître-cylindre de frein": {
+              "categoryId": 100026,
+              "categoryName": "Brake Master Cylinder",
+              "level": 2,
+              "children": [],
+              "productId": 2251
+            },
+            "Capteur de pression, cylindre de freinage principal": {
+              "categoryId": 100026,
+              "categoryName": "Brake Master Cylinder",
+              "level": 2,
+              "children": [],
+              "productId": 8024
+            },
+            "Clapet de précompression, frein à tambour": {
+              "categoryId": 100026,
+              "categoryName": "Brake Master Cylinder",
+              "level": 2,
+              "children": [],
+              "productId": 165
+            },
+            "Kit de réparation, maître-cylindre de frein": {
+              "categoryId": 100026,
+              "categoryName": "Brake Master Cylinder",
+              "level": 2,
+              "children": [],
+              "productId": 276
+            },
+            "Maître-cylindre de frein": {
+              "categoryId": 100026,
+              "categoryName": "Brake Master Cylinder",
+              "level": 2,
+              "children": [],
+              "productId": 258
+            },
+            "Manchette, maître-cylindre de frein": {
+              "categoryId": 100026,
+              "categoryName": "Brake Master Cylinder",
+              "level": 2,
+              "children": [],
+              "productId": 2299
+            },
+            "Rondelle de buté, maître-cylindre de frein": {
+              "categoryId": 100026,
+              "categoryName": "Brake Master Cylinder",
+              "level": 2,
+              "children": [],
+              "productId": 2297
+            },
+            "Vis-bouchon, maître-cylindre de frein": {
+              "categoryId": 100026,
+              "categoryName": "Brake Master Cylinder",
+              "level": 2,
+              "children": [],
+              "productId": 982
+            }
+          }
+        },
+        "Outils": {
+          "categoryId": null,
+          "categoryName": "Outils",
+          "level": 2,
+          "children": {
+            "Jeu d’outils de purge, maître-cylindre": {
+              "categoryId": 103154,
+              "categoryName": "Tools",
+              "level": 2,
+              "children": [],
+              "productId": 9086
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Carter de vilebrequin": {
+          "categoryId": null,
+          "categoryName": "Carter de vilebrequin",
+          "level": 2,
+          "children": {
+            "Kit de réparation, ventilation du carter-moteur": {
+              "categoryId": 100514,
+              "categoryName": "Crankcase",
+              "level": 2,
+              "children": {
+                "Ventilation": {
+                  "categoryId": null,
+                  "categoryName": "Ventilation",
+                  "level": 4,
+                  "children": {
+                    "Kit de réparation, ventilation du carter-moteur": {
+                      "categoryId": 105862,
+                      "categoryName": "Breather",
+                      "level": 3,
+                      "children": [],
+                      "productId": 5160
+                    }
+                  }
+                }
+              },
+              "productId": 5160
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Dispositif de freinage [ID: 100006] (Niveau 1)\n│   ├── Maître-cylindre de frein (Niveau 2)\n│   │   ├── Brake Master Cylinder [ID: 100026] (Niveau 2) → ProductId: 2251\n│   │   ├── Brake Master Cylinder [ID: 100026] (Niveau 2) → ProductId: 8024\n│   │   ├── Brake Master Cylinder [ID: 100026] (Niveau 2) → ProductId: 165\n│   │   ├── Brake Master Cylinder [ID: 100026] (Niveau 2) → ProductId: 276\n│   │   ├── Brake Master Cylinder [ID: 100026] (Niveau 2) → ProductId: 258\n│   │   ├── Brake Master Cylinder [ID: 100026] (Niveau 2) → ProductId: 2299\n│   │   ├── Brake Master Cylinder [ID: 100026] (Niveau 2) → ProductId: 2297\n│   │   └── Brake Master Cylinder [ID: 100026] (Niveau 2) → ProductId: 982\n│   └── Outils (Niveau 2)\n│       └── Tools [ID: 103154] (Niveau 2) → ProductId: 9086\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Carter de vilebrequin (Niveau 2)\n        └── Crankcase [ID: 100514] (Niveau 2) → ProductId: 5160\n            └── Ventilation (Niveau 4)\n                └── Breather [ID: 105862] (Niveau 3) → ProductId: 5160",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Maître-cylindre de frein",
+        "Brake Master Cylinder"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100026
+      ],
+      "finalCategoryId": 100026,
+      "productId": 2251
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Maître-cylindre de frein",
+        "Brake Master Cylinder"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100026
+      ],
+      "finalCategoryId": 100026,
+      "productId": 8024
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Maître-cylindre de frein",
+        "Brake Master Cylinder"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100026
+      ],
+      "finalCategoryId": 100026,
+      "productId": 165
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Maître-cylindre de frein",
+        "Brake Master Cylinder"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100026
+      ],
+      "finalCategoryId": 100026,
+      "productId": 276
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Maître-cylindre de frein",
+        "Brake Master Cylinder"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100026
+      ],
+      "finalCategoryId": 100026,
+      "productId": 258
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Maître-cylindre de frein",
+        "Brake Master Cylinder"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100026
+      ],
+      "finalCategoryId": 100026,
+      "productId": 2299
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Maître-cylindre de frein",
+        "Brake Master Cylinder"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100026
+      ],
+      "finalCategoryId": 100026,
+      "productId": 2297
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Maître-cylindre de frein",
+        "Brake Master Cylinder"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        100026
+      ],
+      "finalCategoryId": 100026,
+      "productId": 982
+    },
+    {
+      "path": [
+        "Dispositif de freinage",
+        "Outils",
+        "Tools"
+      ],
+      "categoryIds": [
+        100006,
+        null,
+        103154
+      ],
+      "finalCategoryId": 103154,
+      "productId": 9086
+    },
+    {
+      "path": [
+        "Moteur",
+        "Carter de vilebrequin",
+        "Crankcase"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100514
+      ],
+      "finalCategoryId": 100514,
+      "productId": 5160
+    }
+  ],
+  "productIdsInArbo": [
+    165,
+    258,
+    276,
+    982,
+    2251,
+    2297,
+    2299,
+    5160,
+    8024,
+    9086
+  ],
+  "matchedProductIds": [
+    258
+  ]
+}

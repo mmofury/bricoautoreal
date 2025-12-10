@@ -1,0 +1,112 @@
+{
+  "productName": "Joint d'étanchéité, carter de collecteur d'admission",
+  "searchText": "Joint d'étanchéité, carter de collecteur d'admission",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:52:30.369Z",
+  "productId": 44,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Alimentation en air": {
+          "categoryId": null,
+          "categoryName": "Alimentation en air",
+          "level": 2,
+          "children": {
+            "Joint d'étanchéité, carter de collecteur d'admission": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Collecteur d'admission/Tuyau": {
+                  "categoryId": null,
+                  "categoryName": "Collecteur d'admission/Tuyau",
+                  "level": 4,
+                  "children": {
+                    "Joint d'étanchéité, carter de collecteur d'admission": {
+                      "categoryId": 100386,
+                      "categoryName": "Intake Manifold",
+                      "level": 3,
+                      "children": [],
+                      "productId": 44
+                    }
+                  }
+                }
+              },
+              "productId": 44
+            }
+          }
+        },
+        "Joints": {
+          "categoryId": null,
+          "categoryName": "Joints",
+          "level": 2,
+          "children": {
+            "Joint d'étanchéité, carter de collecteur d'admission": {
+              "categoryId": 100223,
+              "categoryName": "Gaskets",
+              "level": 2,
+              "children": {
+                "Joint de collecteur d'admission": {
+                  "categoryId": null,
+                  "categoryName": "Joint de collecteur d'admission",
+                  "level": 4,
+                  "children": {
+                    "Joint d'étanchéité, carter de collecteur d'admission": {
+                      "categoryId": 100229,
+                      "categoryName": "Intake Manifold Gasket",
+                      "level": 3,
+                      "children": [],
+                      "productId": 44
+                    }
+                  }
+                }
+              },
+              "productId": 44
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    ├── Alimentation en air (Niveau 2)\n    │   └── Air Supply [ID: 100383] (Niveau 2) → ProductId: 44\n    │       └── Collecteur d'admission/Tuyau (Niveau 4)\n    │           └── Intake Manifold [ID: 100386] (Niveau 3) → ProductId: 44\n    └── Joints (Niveau 2)\n        └── Gaskets [ID: 100223] (Niveau 2) → ProductId: 44\n            └── Joint de collecteur d'admission (Niveau 4)\n                └── Intake Manifold Gasket [ID: 100229] (Niveau 3) → ProductId: 44",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 44
+    },
+    {
+      "path": [
+        "Moteur",
+        "Joints",
+        "Gaskets"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100223
+      ],
+      "finalCategoryId": 100223,
+      "productId": 44
+    }
+  ],
+  "productIdsInArbo": [
+    44
+  ],
+  "matchedProductIds": [
+    44
+  ]
+}

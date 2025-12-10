@@ -1,0 +1,69 @@
+{
+  "productName": "Tringlerie de barre de torsion",
+  "searchText": "Tringlerie de barre de torsion",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:27:25.181Z",
+  "productId": 156,
+  "arborescence": {
+    "Suspension d'essieu/Guidage des roues/Roues": {
+      "categoryId": 100013,
+      "categoryName": "Suspension d'essieu/Guidage des roues/Roues",
+      "level": 1,
+      "children": {
+        "Pièce de stabilisateur / pièces de fixation": {
+          "categoryId": null,
+          "categoryName": "Pièce de stabilisateur / pièces de fixation",
+          "level": 2,
+          "children": {
+            "Tringlerie de barre de torsion": {
+              "categoryId": 100210,
+              "categoryName": "Stabiliser Bar/Fastening Parts",
+              "level": 2,
+              "children": {
+                "Tringlerie de stabilisateur": {
+                  "categoryId": null,
+                  "categoryName": "Tringlerie de stabilisateur",
+                  "level": 4,
+                  "children": {
+                    "Tringlerie de barre de torsion": {
+                      "categoryId": 100574,
+                      "categoryName": "Stabiliser Linkage",
+                      "level": 3,
+                      "children": [],
+                      "productId": 156
+                    }
+                  }
+                }
+              },
+              "productId": 156
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Suspension d'essieu/Guidage des roues/Roues [ID: 100013] (Niveau 1)\n    └── Pièce de stabilisateur / pièces de fixation (Niveau 2)\n        └── Stabiliser Bar/Fastening Parts [ID: 100210] (Niveau 2) → ProductId: 156\n            └── Tringlerie de stabilisateur (Niveau 4)\n                └── Stabiliser Linkage [ID: 100574] (Niveau 3) → ProductId: 156",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Pièce de stabilisateur / pièces de fixation",
+        "Stabiliser Bar/Fastening Parts"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        100210
+      ],
+      "finalCategoryId": 100210,
+      "productId": 156
+    }
+  ],
+  "productIdsInArbo": [
+    156
+  ],
+  "matchedProductIds": [
+    156
+  ]
+}

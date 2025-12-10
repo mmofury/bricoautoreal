@@ -1,0 +1,64 @@
+{
+  "productName": "Valve de commande de frein, frein de stationnement",
+  "productId": 355,
+  "searchText": "Valve de commande de frein, frein de stationnement",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Système pneumatique": {
+          "categoryId": 200059,
+          "categoryName": "Système pneumatique",
+          "level": 1,
+          "children": {
+            "Soupapes / Système d'air comprimé": {
+              "categoryId": null,
+              "categoryName": "Soupapes / Système d'air comprimé",
+              "level": 2,
+              "children": {
+                "Valve de commande de frein, frein de stationnement": {
+                  "categoryId": 200115,
+                  "categoryName": "Valves/compressed-air system",
+                  "level": 2,
+                  "children": {
+                    "Robinet de commande de frein, frein de stationnement": {
+                      "categoryId": null,
+                      "categoryName": "Robinet de commande de frein, frein de stationnement",
+                      "level": 4,
+                      "children": {
+                        "Valve de commande de frein, frein de stationnement": {
+                          "categoryId": 200906,
+                          "categoryName": "Brake Valve, handbrake",
+                          "level": 3,
+                          "children": [],
+                          "productId": 355
+                        }
+                      }
+                    }
+                  },
+                  "productId": 355
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Système pneumatique [ID: 200059] (Niveau 1)\n    └── Soupapes / Système d'air comprimé (Niveau 2)\n        └── Valves/compressed-air system [ID: 200115] (Niveau 2) → ProductId: 355\n            └── Robinet de commande de frein, frein de stationnement (Niveau 4)\n                └── Brake Valve, handbrake [ID: 200906] (Niveau 3) → ProductId: 355",
+      "productIdsInArbo": [
+        355
+      ],
+      "matchedProductIds": [
+        355
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:44:47.601Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

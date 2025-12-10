@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "E5054D",
+      "index": "HAZ 1790-6",
+      "tecDoc": "1790-6",
+      "tecDocProd": "4808",
+      "articleNumber": "1790-6",
+      "brand": "HAZET",
+      "shortDescription": "Axle joints service",
+      "description": "Puller ball joints, max diam: 40mm",
+      "eans": [
+        "145478001"
+      ],
+      "packageWeight": "4,170",
+      "packageWidth": "20,000",
+      "packageDepth": "35,000",
+      "packageHeight": "9,000",
+      "customsCode": "82055980",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4550",
+          "primary": false,
+          "name": {
+            "en": "Puller, ball joint"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91786",
+          "primary": true,
+          "name": {
+            "en": "Axle joints service"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "productName": "Kit de réparation, palpeur des roues (contrôle press° pneus)",
+  "searchText": "Kit de réparation, palpeur des roues (contrôle press° pneus)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:05:40.760Z",
+  "productId": 3711,
+  "arborescence": {
+    "Roues/Pneus": {
+      "categoryId": 103099,
+      "categoryName": "Roues/Pneus",
+      "level": 1,
+      "children": {
+        "Contrôle de pression des pneumatiques": {
+          "categoryId": null,
+          "categoryName": "Contrôle de pression des pneumatiques",
+          "level": 2,
+          "children": {
+            "Kit de réparation, palpeur des roues (contrôle press° pneus)": {
+              "categoryId": 103479,
+              "categoryName": "Tyre-Pressure Monitoring System",
+              "level": 2,
+              "children": [],
+              "productId": 3711
+            }
+          }
+        }
+      }
+    },
+    "Suspension d'essieu/Guidage des roues/Roues": {
+      "categoryId": 100013,
+      "categoryName": "Suspension d'essieu/Guidage des roues/Roues",
+      "level": 1,
+      "children": {
+        "Contrôle de pression des pneumatiques": {
+          "categoryId": null,
+          "categoryName": "Contrôle de pression des pneumatiques",
+          "level": 2,
+          "children": {
+            "Kit de réparation, palpeur des roues (contrôle press° pneus)": {
+              "categoryId": 100834,
+              "categoryName": "Tyre-Pressure Monitoring System",
+              "level": 2,
+              "children": [],
+              "productId": 3711
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Roues/Pneus [ID: 103099] (Niveau 1)\n│   └── Contrôle de pression des pneumatiques (Niveau 2)\n│       └── Tyre-Pressure Monitoring System [ID: 103479] (Niveau 2) → ProductId: 3711\n\n└── Suspension d'essieu/Guidage des roues/Roues [ID: 100013] (Niveau 1)\n    └── Contrôle de pression des pneumatiques (Niveau 2)\n        └── Tyre-Pressure Monitoring System [ID: 100834] (Niveau 2) → ProductId: 3711",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Roues/Pneus",
+        "Contrôle de pression des pneumatiques",
+        "Tyre-Pressure Monitoring System"
+      ],
+      "categoryIds": [
+        103099,
+        null,
+        103479
+      ],
+      "finalCategoryId": 103479,
+      "productId": 3711
+    },
+    {
+      "path": [
+        "Suspension d'essieu/Guidage des roues/Roues",
+        "Contrôle de pression des pneumatiques",
+        "Tyre-Pressure Monitoring System"
+      ],
+      "categoryIds": [
+        100013,
+        null,
+        100834
+      ],
+      "finalCategoryId": 100834,
+      "productId": 3711
+    }
+  ],
+  "productIdsInArbo": [
+    3711
+  ],
+  "matchedProductIds": [
+    3711
+  ]
+}

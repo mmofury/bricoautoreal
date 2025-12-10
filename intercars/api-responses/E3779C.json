@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "E3779C",
+      "index": "HAZ 9040N-10",
+      "tecDoc": "9040N-10",
+      "tecDocProd": "4808",
+      "articleNumber": "9040N-10",
+      "brand": "HAZET",
+      "shortDescription": "Compressed-air Hose",
+      "description": "",
+      "eans": [
+        "4000896206445"
+      ],
+      "packageWeight": "8,620",
+      "packageWidth": "44,000",
+      "packageDepth": "47,000",
+      "packageHeight": "23,000",
+      "customsCode": "40094200",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_7347",
+          "primary": false,
+          "name": {
+            "en": "Hose Reel"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_5173",
+          "primary": true,
+          "name": {
+            "en": "Compressed-air Hose"
+          }
+        }
+      ]
+    }
+  ]
+}

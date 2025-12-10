@@ -1,0 +1,43 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "BB3961",
+      "index": "1.23259",
+      "tecDoc": "1.23259",
+      "tecDocProd": "355",
+      "articleNumber": "1.23259",
+      "brand": "DT SPARE PARTS",
+      "shortDescription": "Gas Spring, bonnet",
+      "description": "Gas spring engine bonnet 400N, L-685mm, stroke:300mm fits: SCANIA G I, P I, R I, T, TOURING 01.03-",
+      "gtuCode": "GTU_07",
+      "eans": [
+        "4047755316211"
+      ],
+      "packageWeight": "0,460",
+      "packageWidth": "2,000",
+      "packageDepth": "71,000",
+      "packageHeight": "2,000",
+      "customsCode": "87082990",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_3620",
+          "primary": false,
+          "name": {
+            "en": "Gas Spring, front panel"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_514",
+          "primary": true,
+          "name": {
+            "en": "Gas Spring, bonnet"
+          }
+        }
+      ]
+    }
+  ]
+}

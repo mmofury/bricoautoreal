@@ -1,0 +1,149 @@
+{
+  "productName": "Soupape, insufflation d'air secondaire",
+  "searchText": "Soupape, insufflation d'air secondaire",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:17:55.427Z",
+  "productId": 904,
+  "arborescence": {
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Épuration des gaz d'échappement": {
+          "categoryId": null,
+          "categoryName": "Épuration des gaz d'échappement",
+          "level": 2,
+          "children": {
+            "Soupape, insufflation d'air secondaire": {
+              "categoryId": 100790,
+              "categoryName": "Exhaust Emission Control",
+              "level": 2,
+              "children": {
+                "Injection d'air secondaire": {
+                  "categoryId": null,
+                  "categoryName": "Injection d'air secondaire",
+                  "level": 4,
+                  "children": {
+                    "Soupape, insufflation d'air secondaire": {
+                      "categoryId": 100792,
+                      "categoryName": "Secondary Air Injection",
+                      "level": 3,
+                      "children": {
+                        "Soupape d'air secondaire": {
+                          "categoryId": null,
+                          "categoryName": "Soupape d'air secondaire",
+                          "level": 6,
+                          "children": {
+                            "Soupape, insufflation d'air secondaire": {
+                              "categoryId": 100822,
+                              "categoryName": "Secondary Air Valve",
+                              "level": 4,
+                              "children": [],
+                              "productId": 904
+                            }
+                          }
+                        }
+                      },
+                      "productId": 904
+                    }
+                  }
+                }
+              },
+              "productId": 904
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Épuration des gaz d'échappement": {
+          "categoryId": null,
+          "categoryName": "Épuration des gaz d'échappement",
+          "level": 2,
+          "children": {
+            "Soupape, insufflation d'air secondaire": {
+              "categoryId": 100541,
+              "categoryName": "Exhaust Emission Control",
+              "level": 2,
+              "children": {
+                "Injection d'air secondaire": {
+                  "categoryId": null,
+                  "categoryName": "Injection d'air secondaire",
+                  "level": 4,
+                  "children": {
+                    "Soupape, insufflation d'air secondaire": {
+                      "categoryId": 100552,
+                      "categoryName": "Secondary Air Injection",
+                      "level": 3,
+                      "children": {
+                        "Soupape d'air secondaire": {
+                          "categoryId": null,
+                          "categoryName": "Soupape d'air secondaire",
+                          "level": 6,
+                          "children": {
+                            "Soupape, insufflation d'air secondaire": {
+                              "categoryId": 100556,
+                              "categoryName": "Secondary Air Valve",
+                              "level": 4,
+                              "children": [],
+                              "productId": 904
+                            }
+                          }
+                        }
+                      },
+                      "productId": 904
+                    }
+                  }
+                }
+              },
+              "productId": 904
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Carburation [ID: 100254] (Niveau 1)\n│   └── Épuration des gaz d'échappement (Niveau 2)\n│       └── Exhaust Emission Control [ID: 100790] (Niveau 2) → ProductId: 904\n│           └── Injection d'air secondaire (Niveau 4)\n│               └── Secondary Air Injection [ID: 100792] (Niveau 3) → ProductId: 904\n│                   └── Soupape d'air secondaire (Niveau 6)\n│                       └── Secondary Air Valve [ID: 100822] (Niveau 4) → ProductId: 904\n\n└── Moteur [ID: 100002] (Niveau 1)\n    └── Épuration des gaz d'échappement (Niveau 2)\n        └── Exhaust Emission Control [ID: 100541] (Niveau 2) → ProductId: 904\n            └── Injection d'air secondaire (Niveau 4)\n                └── Secondary Air Injection [ID: 100552] (Niveau 3) → ProductId: 904\n                    └── Soupape d'air secondaire (Niveau 6)\n                        └── Secondary Air Valve [ID: 100556] (Niveau 4) → ProductId: 904",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carburation",
+        "Épuration des gaz d'échappement",
+        "Exhaust Emission Control"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        100790
+      ],
+      "finalCategoryId": 100790,
+      "productId": 904
+    },
+    {
+      "path": [
+        "Moteur",
+        "Épuration des gaz d'échappement",
+        "Exhaust Emission Control"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100541
+      ],
+      "finalCategoryId": 100541,
+      "productId": 904
+    }
+  ],
+  "productIdsInArbo": [
+    904
+  ],
+  "matchedProductIds": [
+    904
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Siège de soupape, compresseur d'air",
+  "searchText": "Siège de soupape, compresseur d'air",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:16:18.195Z",
+  "productId": 3315,
+  "arborescence": {
+    "Suspension/Amortissement": {
+      "categoryId": 100011,
+      "categoryName": "Suspension/Amortissement",
+      "level": 1,
+      "children": {
+        "Suspension pneumatique": {
+          "categoryId": null,
+          "categoryName": "Suspension pneumatique",
+          "level": 2,
+          "children": {
+            "Siège de soupape, compresseur d'air": {
+              "categoryId": 101884,
+              "categoryName": "Air Suspension",
+              "level": 2,
+              "children": [],
+              "productId": 3315
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Suspension/Amortissement [ID: 100011] (Niveau 1)\n    └── Suspension pneumatique (Niveau 2)\n        └── Air Suspension [ID: 101884] (Niveau 2) → ProductId: 3315",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Suspension pneumatique",
+        "Air Suspension"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        101884
+      ],
+      "finalCategoryId": 101884,
+      "productId": 3315
+    }
+  ],
+  "productIdsInArbo": [
+    3315
+  ],
+  "matchedProductIds": [
+    3315
+  ]
+}

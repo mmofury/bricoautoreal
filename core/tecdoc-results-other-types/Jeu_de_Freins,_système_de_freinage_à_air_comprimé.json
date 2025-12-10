@@ -1,0 +1,93 @@
+{
+  "productName": "Jeu de Freins, système de freinage à air comprimé",
+  "productId": 60654,
+  "searchText": "Jeu de Freins, système de freinage à air comprimé",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Dispositif de freinage": {
+          "categoryId": 200058,
+          "categoryName": "Dispositif de freinage",
+          "level": 1,
+          "children": {
+            "Frein à disque": {
+              "categoryId": null,
+              "categoryName": "Frein à disque",
+              "level": 2,
+              "children": {
+                "Jeu de Freins, système de freinage à air comprimé": {
+                  "categoryId": 200097,
+                  "categoryName": "Disc Brake",
+                  "level": 2,
+                  "children": {
+                    "Kit de freins": {
+                      "categoryId": null,
+                      "categoryName": "Kit de freins",
+                      "level": 4,
+                      "children": {
+                        "Jeu de Freins, système de freinage à air comprimé": {
+                          "categoryId": 202245,
+                          "categoryName": "Brake Kit",
+                          "level": 3,
+                          "children": [],
+                          "productId": 60654
+                        }
+                      }
+                    }
+                  },
+                  "productId": 60654
+                }
+              }
+            },
+            "Frein à tambour": {
+              "categoryId": null,
+              "categoryName": "Frein à tambour",
+              "level": 2,
+              "children": {
+                "Jeu de Freins, système de freinage à air comprimé": {
+                  "categoryId": 200098,
+                  "categoryName": "Drum Brake",
+                  "level": 2,
+                  "children": {
+                    "Kit de freins": {
+                      "categoryId": null,
+                      "categoryName": "Kit de freins",
+                      "level": 4,
+                      "children": {
+                        "Jeu de Freins, système de freinage à air comprimé": {
+                          "categoryId": 202764,
+                          "categoryName": "Brake Kit",
+                          "level": 3,
+                          "children": [],
+                          "productId": 60654
+                        }
+                      }
+                    }
+                  },
+                  "productId": 60654
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Dispositif de freinage [ID: 200058] (Niveau 1)\n    ├── Frein à disque (Niveau 2)\n    │   └── Disc Brake [ID: 200097] (Niveau 2) → ProductId: 60654\n    │       └── Kit de freins (Niveau 4)\n    │           └── Brake Kit [ID: 202245] (Niveau 3) → ProductId: 60654\n    └── Frein à tambour (Niveau 2)\n        └── Drum Brake [ID: 200098] (Niveau 2) → ProductId: 60654\n            └── Kit de freins (Niveau 4)\n                └── Brake Kit [ID: 202764] (Niveau 3) → ProductId: 60654",
+      "productIdsInArbo": [
+        60654
+      ],
+      "matchedProductIds": [
+        60654
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:38:36.910Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

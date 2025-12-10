@@ -1,0 +1,283 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.266Z",
+  "manufacturer": "FAW (TIANJIN)",
+  "countGroups": 12,
+  "groups": [
+    {
+      "manufacturerId": 2890,
+      "manufacturerName": "FAW (TIANJIN)",
+      "groupKey": "A",
+      "displayName": "A",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13433,
+          "modelName": "A+ A trois volumes",
+          "modelYearFrom": "2005-01-01",
+          "modelYearTo": "2012-12-01"
+        },
+        {
+          "modelId": 14341,
+          "modelName": "A+ Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2005-01-01",
+          "modelYearTo": "2012-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2890,
+      "manufacturerName": "FAW (TIANJIN)",
+      "groupKey": "JUNPAI",
+      "displayName": "JUNPAI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13310,
+          "modelName": "JUNPAI D60",
+          "modelYearFrom": "2014-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 37176,
+          "modelName": "JUNPAI A70",
+          "modelYearFrom": "2016-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38572,
+          "modelName": "JUNPAI A50",
+          "modelYearFrom": "2018-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38702,
+          "modelName": "JUNPAI CX65",
+          "modelYearFrom": "2018-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39097,
+          "modelName": "JUNPAI D80",
+          "modelYearFrom": "2018-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2890,
+      "manufacturerName": "FAW (TIANJIN)",
+      "groupKey": "JUNYA",
+      "displayName": "JUNYA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6347,
+          "modelName": "JUNYA",
+          "modelYearFrom": "2002-06-01",
+          "modelYearTo": "2010-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2890,
+      "manufacturerName": "FAW (TIANJIN)",
+      "groupKey": "N3",
+      "displayName": "N3",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6348,
+          "modelName": "N3 Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2004-04-01",
+          "modelYearTo": "2011-12-01"
+        },
+        {
+          "modelId": 6349,
+          "modelName": "N3 A trois volumes",
+          "modelYearFrom": "2004-01-01",
+          "modelYearTo": "2011-12-01"
+        },
+        {
+          "modelId": 9986,
+          "modelName": "N3+ Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2006-01-01",
+          "modelYearTo": "2012-12-01"
+        },
+        {
+          "modelId": 9987,
+          "modelName": "N3+ A trois volumes",
+          "modelYearFrom": "2006-01-01",
+          "modelYearTo": "2012-12-01"
+        },
+        {
+          "modelId": 37133,
+          "modelName": "N3 Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2012-05-01",
+          "modelYearTo": "2015-12-01"
+        },
+        {
+          "modelId": 37134,
+          "modelName": "N3 A trois volumes",
+          "modelYearFrom": "2012-05-01",
+          "modelYearTo": "2015-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2890,
+      "manufacturerName": "FAW (TIANJIN)",
+      "groupKey": "N5",
+      "displayName": "N5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 9991,
+          "modelName": "N5",
+          "modelYearFrom": "2009-11-01",
+          "modelYearTo": "2018-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2890,
+      "manufacturerName": "FAW (TIANJIN)",
+      "groupKey": "N7",
+      "displayName": "N7",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11621,
+          "modelName": "N7",
+          "modelYearFrom": "2013-03-01",
+          "modelYearTo": "2018-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2890,
+      "manufacturerName": "FAW (TIANJIN)",
+      "groupKey": "R7",
+      "displayName": "R7",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40139,
+          "modelName": "R7",
+          "modelYearFrom": "2017-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2890,
+      "manufacturerName": "FAW (TIANJIN)",
+      "groupKey": "SHENYA",
+      "displayName": "SHENYA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6346,
+          "modelName": "SHENYA",
+          "modelYearFrom": "2002-06-01",
+          "modelYearTo": "2010-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2890,
+      "manufacturerName": "FAW (TIANJIN)",
+      "groupKey": "VELA",
+      "displayName": "VELA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6350,
+          "modelName": "VELA",
+          "modelYearFrom": "2002-07-01",
+          "modelYearTo": "2013-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2890,
+      "manufacturerName": "FAW (TIANJIN)",
+      "groupKey": "VIZI",
+      "displayName": "VIZI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6351,
+          "modelName": "VIZI",
+          "modelYearFrom": "2002-07-01",
+          "modelYearTo": "2012-01-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2890,
+      "manufacturerName": "FAW (TIANJIN)",
+      "groupKey": "WEIZHI",
+      "displayName": "WEIZHI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6971,
+          "modelName": "WEIZHI Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2006-01-01",
+          "modelYearTo": "2018-04-01"
+        },
+        {
+          "modelId": 6972,
+          "modelName": "WEIZHI A trois volumes",
+          "modelYearFrom": "2007-01-01",
+          "modelYearTo": "2015-01-01"
+        },
+        {
+          "modelId": 13165,
+          "modelName": "WEIZHI V2",
+          "modelYearFrom": "2009-01-01",
+          "modelYearTo": "2018-04-01"
+        },
+        {
+          "modelId": 13166,
+          "modelName": "WEIZHI V2 CROSS",
+          "modelYearFrom": "2012-01-01",
+          "modelYearTo": "2018-04-01"
+        },
+        {
+          "modelId": 13168,
+          "modelName": "WEIZHI V5",
+          "modelYearFrom": "2012-04-01",
+          "modelYearTo": "2018-04-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2890,
+      "manufacturerName": "FAW (TIANJIN)",
+      "groupKey": "XIALI",
+      "displayName": "XIALI",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6973,
+          "modelName": "XIALI Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "1997-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 6974,
+          "modelName": "XIALI A trois volumes",
+          "modelYearFrom": "1997-01-01",
+          "modelYearTo": "2010-01-01"
+        },
+        {
+          "modelId": 6975,
+          "modelName": "XIALI 2000",
+          "modelYearFrom": "2000-12-01",
+          "modelYearTo": "2003-12-01"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "productName": "Vanne d'inversion, ventilateur",
+  "searchText": "Vanne d'inversion, ventilateur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:32:21.301Z",
+  "productId": 3557,
+  "arborescence": {
+    "Chauffage / Ventilation": {
+      "categoryId": 100241,
+      "categoryName": "Chauffage / Ventilation",
+      "level": 1,
+      "children": {
+        "Régulation/soupapes": {
+          "categoryId": null,
+          "categoryName": "Régulation/soupapes",
+          "level": 2,
+          "children": {
+            "Vanne d'inversion, ventilateur": {
+              "categoryId": 102219,
+              "categoryName": "Valves/Controls",
+              "level": 2,
+              "children": [],
+              "productId": 3557
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Chauffage / Ventilation [ID: 100241] (Niveau 1)\n    └── Régulation/soupapes (Niveau 2)\n        └── Valves/Controls [ID: 102219] (Niveau 2) → ProductId: 3557",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Chauffage / Ventilation",
+        "Régulation/soupapes",
+        "Valves/Controls"
+      ],
+      "categoryIds": [
+        100241,
+        null,
+        102219
+      ],
+      "finalCategoryId": 102219,
+      "productId": 3557
+    }
+  ],
+  "productIdsInArbo": [
+    3557
+  ],
+  "matchedProductIds": [
+    3557
+  ]
+}

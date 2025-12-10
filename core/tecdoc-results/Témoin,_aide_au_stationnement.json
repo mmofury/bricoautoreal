@@ -1,0 +1,54 @@
+{
+  "productName": "Témoin, aide au stationnement",
+  "searchText": "Témoin, aide au stationnement",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:29:40.203Z",
+  "productId": 4383,
+  "arborescence": {
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Aide au stationnement/Alarme de marche arrière": {
+          "categoryId": null,
+          "categoryName": "Aide au stationnement/Alarme de marche arrière",
+          "level": 2,
+          "children": {
+            "Témoin, aide au stationnement": {
+              "categoryId": 100618,
+              "categoryName": "park distance control/Back-up Alarm",
+              "level": 2,
+              "children": [],
+              "productId": 4383
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Systèmes de confort [ID: 100335] (Niveau 1)\n    └── Aide au stationnement/Alarme de marche arrière (Niveau 2)\n        └── park distance control/Back-up Alarm [ID: 100618] (Niveau 2) → ProductId: 4383",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Systèmes de confort",
+        "Aide au stationnement/Alarme de marche arrière",
+        "park distance control/Back-up Alarm"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        100618
+      ],
+      "finalCategoryId": 100618,
+      "productId": 4383
+    }
+  ],
+  "productIdsInArbo": [
+    4383
+  ],
+  "matchedProductIds": [
+    4383
+  ]
+}

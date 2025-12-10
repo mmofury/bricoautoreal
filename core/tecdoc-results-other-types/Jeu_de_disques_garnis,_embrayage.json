@@ -1,0 +1,69 @@
+{
+  "productName": "Jeu de disques garnis, embrayage",
+  "productId": 5363,
+  "searchText": "Jeu de disques garnis, embrayage",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 3,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Moto": {
+          "categoryId": 103671,
+          "categoryName": "Moto",
+          "level": 1,
+          "children": {
+            "Embrayage / composants": {
+              "categoryId": null,
+              "categoryName": "Embrayage / composants",
+              "level": 2,
+              "children": {
+                "Jeu de disques garnis, embrayage": {
+                  "categoryId": 103712,
+                  "categoryName": "Clutch/Attachment Parts",
+                  "level": 2,
+                  "children": {
+                    "Disques garnis (rondelles en acier)": {
+                      "categoryId": null,
+                      "categoryName": "Disques garnis (rondelles en acier)",
+                      "level": 4,
+                      "children": {
+                        "Jeu de disques garnis, embrayage": {
+                          "categoryId": 103714,
+                          "categoryName": "Steel Lining Discs",
+                          "level": 3,
+                          "children": [],
+                          "productId": 5363
+                        }
+                      }
+                    }
+                  },
+                  "productId": 5363
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Moto [ID: 103671] (Niveau 1)\n    └── Embrayage / composants (Niveau 2)\n        └── Clutch/Attachment Parts [ID: 103712] (Niveau 2) → ProductId: 5363\n            └── Disques garnis (rondelles en acier) (Niveau 4)\n                └── Steel Lining Discs [ID: 103714] (Niveau 3) → ProductId: 5363",
+      "productIdsInArbo": [
+        5363
+      ],
+      "matchedProductIds": [
+        5363
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T10:38:32.758Z",
+  "bestMatch": {
+    "typeId": 3,
+    "found": true,
+    "hasMatch": true
+  }
+}

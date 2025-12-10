@@ -1,0 +1,40 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G0LBRK",
+      "index": "7.92471",
+      "tecDoc": "7.92471",
+      "tecDocProd": "355",
+      "articleNumber": "7.92471",
+      "brand": "DT SPARE PARTS",
+      "shortDescription": "Repair Kit, automatic adjustment",
+      "description": "Brake shoe fitting set fits: IVECO DAILY I, DAILY II 01.78-05.99",
+      "gtuCode": "GTU_07",
+      "packageWeight": "0,229",
+      "packageWidth": "3,700",
+      "packageDepth": "12,700",
+      "packageHeight": "12,700",
+      "customsCode": "87083099",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_781",
+          "primary": true,
+          "name": {
+            "en": "Repair Kit, automatic adjustment"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_1502",
+          "primary": false,
+          "name": {
+            "en": "Accessory Kit, brake shoes"
+          }
+        }
+      ]
+    }
+  ]
+}

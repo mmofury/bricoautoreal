@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "G0OTO2",
+      "index": "HAZ 4970-7",
+      "tecDoc": "4970-7",
+      "tecDocProd": "4808",
+      "articleNumber": "4970-7",
+      "brand": "HAZET",
+      "shortDescription": "Brake system handling tools",
+      "description": "Adaptor for reversing, intended use: brake calipers",
+      "customsCode": "82055980",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4572",
+          "primary": false,
+          "name": {
+            "en": "Turn/Reset Tool, brake caliper piston"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91783",
+          "primary": true,
+          "name": {
+            "en": "Brake system handling tools"
+          }
+        }
+      ]
+    }
+  ]
+}

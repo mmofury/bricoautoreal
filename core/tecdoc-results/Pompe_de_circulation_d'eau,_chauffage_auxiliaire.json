@@ -1,0 +1,82 @@
+{
+  "productName": "Pompe de circulation d'eau, chauffage auxiliaire",
+  "searchText": "Pompe de circulation d'eau, chauffage auxiliaire",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:01:05.685Z",
+  "productId": 999,
+  "arborescence": {
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Chauffage auxiliaire": {
+          "categoryId": null,
+          "categoryName": "Chauffage auxiliaire",
+          "level": 2,
+          "children": {
+            "Pompe de circulation d'eau, chauffage auxiliaire": {
+              "categoryId": 100614,
+              "categoryName": "Parking Heater",
+              "level": 2,
+              "children": [],
+              "productId": 999
+            }
+          }
+        },
+        "Pompes": {
+          "categoryId": null,
+          "categoryName": "Pompes",
+          "level": 2,
+          "children": {
+            "Pompe de circulation d'eau, chauffage auxiliaire": {
+              "categoryId": 100625,
+              "categoryName": "Pumps",
+              "level": 2,
+              "children": [],
+              "productId": 999
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Systèmes de confort [ID: 100335] (Niveau 1)\n    ├── Chauffage auxiliaire (Niveau 2)\n    │   └── Parking Heater [ID: 100614] (Niveau 2) → ProductId: 999\n    └── Pompes (Niveau 2)\n        └── Pumps [ID: 100625] (Niveau 2) → ProductId: 999",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Systèmes de confort",
+        "Chauffage auxiliaire",
+        "Parking Heater"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        100614
+      ],
+      "finalCategoryId": 100614,
+      "productId": 999
+    },
+    {
+      "path": [
+        "Systèmes de confort",
+        "Pompes",
+        "Pumps"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        100625
+      ],
+      "finalCategoryId": 100625,
+      "productId": 999
+    }
+  ],
+  "productIdsInArbo": [
+    999
+  ],
+  "matchedProductIds": [
+    999
+  ]
+}

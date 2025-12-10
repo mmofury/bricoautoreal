@@ -1,0 +1,67 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.549Z",
+  "manufacturer": "YUDO",
+  "countGroups": 4,
+  "groups": [
+    {
+      "manufacturerId": 4764,
+      "manufacturerName": "YUDO",
+      "groupKey": "V01L",
+      "displayName": "V01L",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41043,
+          "modelName": "V01L",
+          "modelYearFrom": "2020-08-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4764,
+      "manufacturerName": "YUDO",
+      "groupKey": "YUNTU",
+      "displayName": "YUNTU",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44065,
+          "modelName": "YUNTU",
+          "modelYearFrom": "2023-02-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4764,
+      "manufacturerName": "YUDO",
+      "groupKey": "Π1",
+      "displayName": "Π1",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 38255,
+          "modelName": "π1",
+          "modelYearFrom": "2017-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 4764,
+      "manufacturerName": "YUDO",
+      "groupKey": "Π3",
+      "displayName": "Π3",
+      "confidence": "ai",
+      "models": [
+        {
+          "modelId": 38621,
+          "modelName": "π3",
+          "modelYearFrom": "2018-03-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

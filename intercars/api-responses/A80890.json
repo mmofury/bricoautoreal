@@ -1,0 +1,36 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "A80890",
+      "index": "076.969-30",
+      "tecDoc": "076.969-30A",
+      "tecDocProd": "63",
+      "articleNumber": "076.969-30A",
+      "brand": "PETERS",
+      "shortDescription": "Socket",
+      "description": "PE adapter (15 pin-N / S jack)",
+      "packageWeight": "0,570",
+      "customsCode": "85443000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_825",
+          "primary": true,
+          "name": {
+            "en": "Socket"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_2239",
+          "primary": false,
+          "name": {
+            "en": "Socket Adapter"
+          }
+        }
+      ]
+    }
+  ]
+}

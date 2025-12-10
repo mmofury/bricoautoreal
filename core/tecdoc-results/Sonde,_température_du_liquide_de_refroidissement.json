@@ -1,0 +1,340 @@
+{
+  "productName": "Sonde, température du liquide de refroidissement",
+  "searchText": "Sonde, température du liquide de refroidissement",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:16:34.880Z",
+  "productId": 830,
+  "arborescence": {
+    "Allumage / préchauffage": {
+      "categoryId": 100008,
+      "categoryName": "Allumage / préchauffage",
+      "level": 1,
+      "children": {
+        "Appareil de commande / relais": {
+          "categoryId": null,
+          "categoryName": "Appareil de commande / relais",
+          "level": 2,
+          "children": {
+            "Sonde, température du liquide de refroidissement": {
+              "categoryId": 100247,
+              "categoryName": "Control Unit/Relay/Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 2394
+            }
+          }
+        }
+      }
+    },
+    "Carburation": {
+      "categoryId": 100254,
+      "categoryName": "Carburation",
+      "level": 1,
+      "children": {
+        "Mélange air-carburant": {
+          "categoryId": null,
+          "categoryName": "Mélange air-carburant",
+          "level": 2,
+          "children": {
+            "Sonde, température du liquide de refroidissement": {
+              "categoryId": 102793,
+              "categoryName": "Mixture Formation",
+              "level": 2,
+              "children": {
+                "Capteur/sonde lambda": {
+                  "categoryId": null,
+                  "categoryName": "Capteur/sonde lambda",
+                  "level": 4,
+                  "children": {
+                    "Sonde, température du liquide de refroidissement": {
+                      "categoryId": 102809,
+                      "categoryName": "Sensor/Probe",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3944
+                    }
+                  }
+                }
+              },
+              "productId": 3944
+            }
+          }
+        }
+      }
+    },
+    "Climatisation": {
+      "categoryId": 100243,
+      "categoryName": "Climatisation",
+      "level": 1,
+      "children": {
+        "Capteurs": {
+          "categoryId": null,
+          "categoryName": "Capteurs",
+          "level": 2,
+          "children": {
+            "Sonde, température du liquide de refroidissement": {
+              "categoryId": 100794,
+              "categoryName": "Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 2055
+            }
+          }
+        }
+      }
+    },
+    "Entraînement hybride/électrique": {
+      "categoryId": 706209,
+      "categoryName": "Entraînement hybride/électrique",
+      "level": 1,
+      "children": {
+        "Refroidissement": {
+          "categoryId": null,
+          "categoryName": "Refroidissement",
+          "level": 2,
+          "children": {
+            "Sonde, température du liquide de refroidissement": {
+              "categoryId": 706210,
+              "categoryName": "Cooling System",
+              "level": 2,
+              "children": {
+                "Capteurs": {
+                  "categoryId": null,
+                  "categoryName": "Capteurs",
+                  "level": 4,
+                  "children": {
+                    "Sonde, température du liquide de refroidissement": {
+                      "categoryId": 706816,
+                      "categoryName": "Sensors",
+                      "level": 3,
+                      "children": [],
+                      "productId": 830
+                    }
+                  }
+                }
+              },
+              "productId": 830
+            }
+          }
+        }
+      }
+    },
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Circuit électrique du moteur": {
+          "categoryId": null,
+          "categoryName": "Circuit électrique du moteur",
+          "level": 2,
+          "children": {
+            "Sonde, température du liquide de refroidissement": {
+              "categoryId": 100754,
+              "categoryName": "Engine Electrics",
+              "level": 2,
+              "children": [],
+              "productId": 830
+            }
+          }
+        }
+      }
+    },
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Interrupteur / capteur": {
+          "categoryId": null,
+          "categoryName": "Interrupteur / capteur",
+          "level": 2,
+          "children": {
+            "Sonde, température du liquide de refroidissement": {
+              "categoryId": 100334,
+              "categoryName": "Switch/Sensor",
+              "level": 2,
+              "children": [],
+              "productId": 830
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Capteurs": {
+          "categoryId": null,
+          "categoryName": "Capteurs",
+          "level": 2,
+          "children": {
+            "Sonde, température du liquide de refroidissement": {
+              "categoryId": 102747,
+              "categoryName": "Sensors",
+              "level": 2,
+              "children": [],
+              "productId": 3944
+            }
+          }
+        },
+        "Instruments": {
+          "categoryId": null,
+          "categoryName": "Instruments",
+          "level": 2,
+          "children": {
+            "Sonde, température du liquide de refroidissement": {
+              "categoryId": 100322,
+              "categoryName": "Instruments",
+              "level": 2,
+              "children": {
+                "Capteurs/Conatct": {
+                  "categoryId": null,
+                  "categoryName": "Capteurs/Conatct",
+                  "level": 4,
+                  "children": {
+                    "Sonde, température du liquide de refroidissement": {
+                      "categoryId": 100553,
+                      "categoryName": "Sensors/Switches",
+                      "level": 3,
+                      "children": [],
+                      "productId": 830
+                    }
+                  }
+                }
+              },
+              "productId": 830
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Allumage / préchauffage [ID: 100008] (Niveau 1)\n│   └── Appareil de commande / relais (Niveau 2)\n│       └── Control Unit/Relay/Sensors [ID: 100247] (Niveau 2) → ProductId: 2394\n\n├── Carburation [ID: 100254] (Niveau 1)\n│   └── Mélange air-carburant (Niveau 2)\n│       └── Mixture Formation [ID: 102793] (Niveau 2) → ProductId: 3944\n│           └── Capteur/sonde lambda (Niveau 4)\n│               └── Sensor/Probe [ID: 102809] (Niveau 3) → ProductId: 3944\n\n├── Climatisation [ID: 100243] (Niveau 1)\n│   └── Capteurs (Niveau 2)\n│       └── Sensors [ID: 100794] (Niveau 2) → ProductId: 2055\n\n├── Entraînement hybride/électrique [ID: 706209] (Niveau 1)\n│   └── Refroidissement (Niveau 2)\n│       └── Cooling System [ID: 706210] (Niveau 2) → ProductId: 830\n│           └── Capteurs (Niveau 4)\n│               └── Sensors [ID: 706816] (Niveau 3) → ProductId: 830\n\n├── Moteur [ID: 100002] (Niveau 1)\n│   └── Circuit électrique du moteur (Niveau 2)\n│       └── Engine Electrics [ID: 100754] (Niveau 2) → ProductId: 830\n\n├── Refroidissement [ID: 100007] (Niveau 1)\n│   └── Interrupteur / capteur (Niveau 2)\n│       └── Switch/Sensor [ID: 100334] (Niveau 2) → ProductId: 830\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    ├── Capteurs (Niveau 2)\n    │   └── Sensors [ID: 102747] (Niveau 2) → ProductId: 3944\n    └── Instruments (Niveau 2)\n        └── Instruments [ID: 100322] (Niveau 2) → ProductId: 830\n            └── Capteurs/Conatct (Niveau 4)\n                └── Sensors/Switches [ID: 100553] (Niveau 3) → ProductId: 830",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Allumage / préchauffage",
+        "Appareil de commande / relais",
+        "Control Unit/Relay/Sensors"
+      ],
+      "categoryIds": [
+        100008,
+        null,
+        100247
+      ],
+      "finalCategoryId": 100247,
+      "productId": 2394
+    },
+    {
+      "path": [
+        "Carburation",
+        "Mélange air-carburant",
+        "Mixture Formation"
+      ],
+      "categoryIds": [
+        100254,
+        null,
+        102793
+      ],
+      "finalCategoryId": 102793,
+      "productId": 3944
+    },
+    {
+      "path": [
+        "Climatisation",
+        "Capteurs",
+        "Sensors"
+      ],
+      "categoryIds": [
+        100243,
+        null,
+        100794
+      ],
+      "finalCategoryId": 100794,
+      "productId": 2055
+    },
+    {
+      "path": [
+        "Entraînement hybride/électrique",
+        "Refroidissement",
+        "Cooling System"
+      ],
+      "categoryIds": [
+        706209,
+        null,
+        706210
+      ],
+      "finalCategoryId": 706210,
+      "productId": 830
+    },
+    {
+      "path": [
+        "Moteur",
+        "Circuit électrique du moteur",
+        "Engine Electrics"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100754
+      ],
+      "finalCategoryId": 100754,
+      "productId": 830
+    },
+    {
+      "path": [
+        "Refroidissement",
+        "Interrupteur / capteur",
+        "Switch/Sensor"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100334
+      ],
+      "finalCategoryId": 100334,
+      "productId": 830
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Capteurs",
+        "Sensors"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        102747
+      ],
+      "finalCategoryId": 102747,
+      "productId": 3944
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Instruments",
+        "Instruments"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100322
+      ],
+      "finalCategoryId": 100322,
+      "productId": 830
+    }
+  ],
+  "productIdsInArbo": [
+    830,
+    2055,
+    2394,
+    3944
+  ],
+  "matchedProductIds": [
+    830
+  ]
+}

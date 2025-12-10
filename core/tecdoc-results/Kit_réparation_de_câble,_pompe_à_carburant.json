@@ -1,0 +1,69 @@
+{
+  "productName": "Kit réparation de câble, pompe à carburant",
+  "searchText": "Kit réparation de câble, pompe à carburant",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:10:24.943Z",
+  "productId": 7314,
+  "arborescence": {
+    "Alimentation carburant": {
+      "categoryId": 100214,
+      "categoryName": "Alimentation carburant",
+      "level": 1,
+      "children": {
+        "Pompe / accessoires": {
+          "categoryId": null,
+          "categoryName": "Pompe / accessoires",
+          "level": 2,
+          "children": {
+            "Kit réparation de câble, pompe à carburant": {
+              "categoryId": 100251,
+              "categoryName": "Pump/Accessories",
+              "level": 2,
+              "children": {
+                "Réparation": {
+                  "categoryId": null,
+                  "categoryName": "Réparation",
+                  "level": 4,
+                  "children": {
+                    "Kit réparation de câble, pompe à carburant": {
+                      "categoryId": 100719,
+                      "categoryName": "Repair Kit",
+                      "level": 3,
+                      "children": [],
+                      "productId": 7314
+                    }
+                  }
+                }
+              },
+              "productId": 7314
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Alimentation carburant [ID: 100214] (Niveau 1)\n    └── Pompe / accessoires (Niveau 2)\n        └── Pump/Accessories [ID: 100251] (Niveau 2) → ProductId: 7314\n            └── Réparation (Niveau 4)\n                └── Repair Kit [ID: 100719] (Niveau 3) → ProductId: 7314",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Alimentation carburant",
+        "Pompe / accessoires",
+        "Pump/Accessories"
+      ],
+      "categoryIds": [
+        100214,
+        null,
+        100251
+      ],
+      "finalCategoryId": 100251,
+      "productId": 7314
+    }
+  ],
+  "productIdsInArbo": [
+    7314
+  ],
+  "matchedProductIds": [
+    7314
+  ]
+}

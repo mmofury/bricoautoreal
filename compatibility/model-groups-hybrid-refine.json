@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.464Z",
+  "manufacturer": "REFINE",
+  "countGroups": 3,
+  "groups": [
+    {
+      "manufacturerId": 6057,
+      "manufacturerName": "REFINE",
+      "groupKey": "L5",
+      "displayName": "L5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42610,
+          "modelName": "L5",
+          "modelYearFrom": "2021-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6057,
+      "manufacturerName": "REFINE",
+      "groupKey": "L6",
+      "displayName": "L6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 41614,
+          "modelName": "L6 MAX",
+          "modelYearFrom": "2020-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 6057,
+      "manufacturerName": "REFINE",
+      "groupKey": "RF8",
+      "displayName": "RF8",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 45165,
+          "modelName": "RF8",
+          "modelYearFrom": "2024-01-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

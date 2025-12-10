@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "F442AE",
+      "index": "3.82331",
+      "tecDoc": "3.82331",
+      "tecDocProd": "355",
+      "articleNumber": "3.82331",
+      "brand": "DT SPARE PARTS",
+      "shortDescription": "Solenoid valve",
+      "description": "Magnetic valve (EGR)",
+      "packageWeight": "0,570",
+      "packageWidth": "9,600",
+      "packageDepth": "4,900",
+      "packageHeight": "15,100",
+      "customsCode": "84812090",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1323",
+          "primary": true,
+          "name": {
+            "en": "Solenoid valve"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_4906",
+          "primary": false,
+          "name": {
+            "en": "Solenoid Valve, air conditioning"
+          }
+        }
+      ]
+    }
+  ]
+}

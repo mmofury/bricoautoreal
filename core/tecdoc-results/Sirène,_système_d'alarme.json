@@ -1,0 +1,57 @@
+{
+  "productName": "Sirène, système d'alarme",
+  "searchText": "Sirène, système d'alarme",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-03T07:16:15.652Z",
+  "productId": 2195,
+  "arborescence": {
+    "Systèmes de sécurité": {
+      "categoryId": 100417,
+      "categoryName": "Systèmes de sécurité",
+      "level": 1,
+      "children": {
+        "Système d'alarme": {
+          "categoryId": null,
+          "categoryName": "Système d'alarme",
+          "level": 2,
+          "children": {
+            "Sirène, système d'alarme": {
+              "categoryId": 100419,
+              "categoryName": "Alarm System",
+              "level": 2,
+              "children": [],
+              "productId": 2196
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Systèmes de sécurité [ID: 100417] (Niveau 1)\n    └── Système d'alarme (Niveau 2)\n        └── Alarm System [ID: 100419] (Niveau 2) → ProductId: 2196",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Systèmes de sécurité",
+        "Système d'alarme",
+        "Alarm System"
+      ],
+      "categoryIds": [
+        100417,
+        null,
+        100419
+      ],
+      "finalCategoryId": 100419,
+      "productId": 2196
+    }
+  ],
+  "productIdsInArbo": [
+    2196
+  ],
+  "closestProductIds": [
+    {
+      "productId": 2196,
+      "productName": "Sirène, système d'alarme"
+    }
+  ]
+}

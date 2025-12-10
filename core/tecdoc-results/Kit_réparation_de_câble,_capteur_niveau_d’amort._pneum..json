@@ -1,0 +1,54 @@
+{
+  "productName": "Kit réparation de câble, capteur niveau d’amort. pneum.",
+  "searchText": "Kit réparation de câble, capteur niveau d’amort. pneum.",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:09:26.549Z",
+  "productId": 8534,
+  "arborescence": {
+    "Suspension/Amortissement": {
+      "categoryId": 100011,
+      "categoryName": "Suspension/Amortissement",
+      "level": 1,
+      "children": {
+        "Correcteur d'assiette / suspension pneumatique": {
+          "categoryId": null,
+          "categoryName": "Correcteur d'assiette / suspension pneumatique",
+          "level": 2,
+          "children": {
+            "Kit réparation de câble, capteur niveau d’amort. pneum.": {
+              "categoryId": 100340,
+              "categoryName": "Level Control/Suspension Hydraulics",
+              "level": 2,
+              "children": [],
+              "productId": 8534
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Suspension/Amortissement [ID: 100011] (Niveau 1)\n    └── Correcteur d'assiette / suspension pneumatique (Niveau 2)\n        └── Level Control/Suspension Hydraulics [ID: 100340] (Niveau 2) → ProductId: 8534",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Suspension/Amortissement",
+        "Correcteur d'assiette / suspension pneumatique",
+        "Level Control/Suspension Hydraulics"
+      ],
+      "categoryIds": [
+        100011,
+        null,
+        100340
+      ],
+      "finalCategoryId": 100340,
+      "productId": 8534
+    }
+  ],
+  "productIdsInArbo": [
+    8534
+  ],
+  "matchedProductIds": [
+    8534
+  ]
+}

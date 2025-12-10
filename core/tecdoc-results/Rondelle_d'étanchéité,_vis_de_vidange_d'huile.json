@@ -1,0 +1,176 @@
+{
+  "productName": "Rondelle d'étanchéité, vis de vidange d'huile",
+  "searchText": "Rondelle d'étanchéité, vis de vidange d'huile",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:11:17.199Z",
+  "productId": 135,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Joints": {
+          "categoryId": null,
+          "categoryName": "Joints",
+          "level": 2,
+          "children": {
+            "Rondelle d'étanchéité, vis de vidange d'huile": {
+              "categoryId": 100223,
+              "categoryName": "Gaskets",
+              "level": 2,
+              "children": {
+                "Joint du réservoir d'huile": {
+                  "categoryId": null,
+                  "categoryName": "Joint du réservoir d'huile",
+                  "level": 4,
+                  "children": {
+                    "Rondelle d'étanchéité, vis de vidange d'huile": {
+                      "categoryId": 100234,
+                      "categoryName": "Oil Sump Gasket",
+                      "level": 3,
+                      "children": [],
+                      "productId": 135
+                    }
+                  }
+                }
+              },
+              "productId": 135
+            }
+          }
+        },
+        "Lubrification": {
+          "categoryId": null,
+          "categoryName": "Lubrification",
+          "level": 2,
+          "children": {
+            "Rondelle d'étanchéité, vis de vidange d'huile": {
+              "categoryId": 100245,
+              "categoryName": "Lubrication",
+              "level": 2,
+              "children": {
+                "Carter d'huile et pièces de montage": {
+                  "categoryId": null,
+                  "categoryName": "Carter d'huile et pièces de montage",
+                  "level": 4,
+                  "children": {
+                    "Rondelle d'étanchéité, vis de vidange d'huile": {
+                      "categoryId": 100475,
+                      "categoryName": "Oil Sump/Attachment Parts",
+                      "level": 3,
+                      "children": {
+                        "Joint": {
+                          "categoryId": null,
+                          "categoryName": "Joint",
+                          "level": 6,
+                          "children": {
+                            "Rondelle d'étanchéité, vis de vidange d'huile": {
+                              "categoryId": 100490,
+                              "categoryName": "Seal",
+                              "level": 4,
+                              "children": [],
+                              "productId": 135
+                            }
+                          }
+                        },
+                        "Vis de vidange": {
+                          "categoryId": null,
+                          "categoryName": "Vis de vidange",
+                          "level": 6,
+                          "children": {
+                            "Rondelle d'étanchéité, vis de vidange d'huile": {
+                              "categoryId": 100491,
+                              "categoryName": "Drain Screw",
+                              "level": 4,
+                              "children": [],
+                              "productId": 135
+                            }
+                          }
+                        }
+                      },
+                      "productId": 135
+                    }
+                  }
+                }
+              },
+              "productId": 135
+            }
+          }
+        }
+      }
+    },
+    "Pièces de maintenance": {
+      "categoryId": 100019,
+      "categoryName": "Pièces de maintenance",
+      "level": 1,
+      "children": {
+        "Intervalle": {
+          "categoryId": null,
+          "categoryName": "Intervalle",
+          "level": 2,
+          "children": {
+            "Rondelle d'étanchéité, vis de vidange d'huile": {
+              "categoryId": 100597,
+              "categoryName": "Service Intervals",
+              "level": 2,
+              "children": [],
+              "productId": 135
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Moteur [ID: 100002] (Niveau 1)\n│   ├── Joints (Niveau 2)\n│   │   └── Gaskets [ID: 100223] (Niveau 2) → ProductId: 135\n│   │       └── Joint du réservoir d'huile (Niveau 4)\n│   │           └── Oil Sump Gasket [ID: 100234] (Niveau 3) → ProductId: 135\n│   └── Lubrification (Niveau 2)\n│       └── Lubrication [ID: 100245] (Niveau 2) → ProductId: 135\n│           └── Carter d'huile et pièces de montage (Niveau 4)\n│               └── Oil Sump/Attachment Parts [ID: 100475] (Niveau 3) → ProductId: 135\n│                   ├── Joint (Niveau 6)\n│                   │   └── Seal [ID: 100490] (Niveau 4) → ProductId: 135\n│                   └── Vis de vidange (Niveau 6)\n│                       └── Drain Screw [ID: 100491] (Niveau 4) → ProductId: 135\n\n└── Pièces de maintenance [ID: 100019] (Niveau 1)\n    └── Intervalle (Niveau 2)\n        └── Service Intervals [ID: 100597] (Niveau 2) → ProductId: 135",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Joints",
+        "Gaskets"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100223
+      ],
+      "finalCategoryId": 100223,
+      "productId": 135
+    },
+    {
+      "path": [
+        "Moteur",
+        "Lubrification",
+        "Lubrication"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100245
+      ],
+      "finalCategoryId": 100245,
+      "productId": 135
+    },
+    {
+      "path": [
+        "Pièces de maintenance",
+        "Intervalle",
+        "Service Intervals"
+      ],
+      "categoryIds": [
+        100019,
+        null,
+        100597
+      ],
+      "finalCategoryId": 100597,
+      "productId": 135
+    }
+  ],
+  "productIdsInArbo": [
+    135
+  ],
+  "matchedProductIds": [
+    135
+  ]
+}

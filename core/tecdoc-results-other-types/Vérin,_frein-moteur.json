@@ -1,0 +1,100 @@
+{
+  "productName": "Vérin, frein-moteur",
+  "productId": 3244,
+  "searchText": "Vérin, frein-moteur",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": true,
+      "arborescence": {
+        "Dispositif de freinage": {
+          "categoryId": 200058,
+          "categoryName": "Dispositif de freinage",
+          "level": 1,
+          "children": {
+            "Système de frein continu": {
+              "categoryId": null,
+              "categoryName": "Système de frein continu",
+              "level": 2,
+              "children": {
+                "Vérin, frein-moteur": {
+                  "categoryId": 200105,
+                  "categoryName": "Retarder Brake System",
+                  "level": 2,
+                  "children": {
+                    "Retardeur primaire": {
+                      "categoryId": null,
+                      "categoryName": "Retardeur primaire",
+                      "level": 4,
+                      "children": {
+                        "Vérin, frein-moteur": {
+                          "categoryId": 200418,
+                          "categoryName": "Primary Exhaust Brake",
+                          "level": 3,
+                          "children": [],
+                          "productId": 3244
+                        }
+                      }
+                    }
+                  },
+                  "productId": 3244
+                }
+              }
+            }
+          }
+        },
+        "Système pneumatique": {
+          "categoryId": 200059,
+          "categoryName": "Système pneumatique",
+          "level": 1,
+          "children": {
+            "Cylindres de frein/de travail": {
+              "categoryId": null,
+              "categoryName": "Cylindres de frein/de travail",
+              "level": 2,
+              "children": {
+                "Vérin, frein-moteur": {
+                  "categoryId": 200116,
+                  "categoryName": "Brake/Slave Cylinder",
+                  "level": 2,
+                  "children": {
+                    "Cylindre de travail": {
+                      "categoryId": null,
+                      "categoryName": "Cylindre de travail",
+                      "level": 4,
+                      "children": {
+                        "Vérin, frein-moteur": {
+                          "categoryId": 200503,
+                          "categoryName": "Slave Cylinder",
+                          "level": 3,
+                          "children": [],
+                          "productId": 3244
+                        }
+                      }
+                    }
+                  },
+                  "productId": 3244
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "├── Dispositif de freinage [ID: 200058] (Niveau 1)\n│   └── Système de frein continu (Niveau 2)\n│       └── Retarder Brake System [ID: 200105] (Niveau 2) → ProductId: 3244\n│           └── Retardeur primaire (Niveau 4)\n│               └── Primary Exhaust Brake [ID: 200418] (Niveau 3) → ProductId: 3244\n\n└── Système pneumatique [ID: 200059] (Niveau 1)\n    └── Cylindres de frein/de travail (Niveau 2)\n        └── Brake/Slave Cylinder [ID: 200116] (Niveau 2) → ProductId: 3244\n            └── Cylindre de travail (Niveau 4)\n                └── Slave Cylinder [ID: 200503] (Niveau 3) → ProductId: 3244",
+      "productIdsInArbo": [
+        3244
+      ],
+      "matchedProductIds": [
+        3244
+      ]
+    }
+  ],
+  "timestamp": "2025-12-03T11:47:22.281Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": true
+  }
+}

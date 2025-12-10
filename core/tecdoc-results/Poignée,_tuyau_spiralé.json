@@ -1,0 +1,54 @@
+{
+  "productName": "Poignée, tuyau spiralé",
+  "searchText": "Poignée, tuyau spiralé",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:00:33.627Z",
+  "productId": 5164,
+  "arborescence": {
+    "Système pneumatique": {
+      "categoryId": 103168,
+      "categoryName": "Système pneumatique",
+      "level": 1,
+      "children": {
+        "Connecteurs/Câbles": {
+          "categoryId": null,
+          "categoryName": "Connecteurs/Câbles",
+          "level": 2,
+          "children": {
+            "Poignée, tuyau spiralé": {
+              "categoryId": 103197,
+              "categoryName": "Hoses/Connector Pipes",
+              "level": 2,
+              "children": [],
+              "productId": 5164
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Système pneumatique [ID: 103168] (Niveau 1)\n    └── Connecteurs/Câbles (Niveau 2)\n        └── Hoses/Connector Pipes [ID: 103197] (Niveau 2) → ProductId: 5164",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système pneumatique",
+        "Connecteurs/Câbles",
+        "Hoses/Connector Pipes"
+      ],
+      "categoryIds": [
+        103168,
+        null,
+        103197
+      ],
+      "finalCategoryId": 103197,
+      "productId": 5164
+    }
+  ],
+  "productIdsInArbo": [
+    5164
+  ],
+  "matchedProductIds": [
+    5164
+  ]
+}

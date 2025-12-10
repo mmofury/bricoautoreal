@@ -1,0 +1,104 @@
+{
+  "productName": "Relais, chauffage de vitre arrière",
+  "searchText": "Relais, chauffage de vitre arrière",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:07:35.306Z",
+  "productId": 1290,
+  "arborescence": {
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Relais": {
+          "categoryId": null,
+          "categoryName": "Relais",
+          "level": 2,
+          "children": {
+            "Relais, chauffage de vitre arrière": {
+              "categoryId": 100785,
+              "categoryName": "Relay",
+              "level": 2,
+              "children": [],
+              "productId": 1290
+            }
+          }
+        }
+      }
+    },
+    "Systèmes de confort": {
+      "categoryId": 100335,
+      "categoryName": "Systèmes de confort",
+      "level": 1,
+      "children": {
+        "Moteur / Relais": {
+          "categoryId": null,
+          "categoryName": "Moteur / Relais",
+          "level": 2,
+          "children": {
+            "Relais, chauffage de vitre arrière": {
+              "categoryId": 104156,
+              "categoryName": "Motor/Relay/Switch",
+              "level": 2,
+              "children": {
+                "Lunette arrière": {
+                  "categoryId": null,
+                  "categoryName": "Lunette arrière",
+                  "level": 4,
+                  "children": {
+                    "Relais, chauffage de vitre arrière": {
+                      "categoryId": 104160,
+                      "categoryName": "Rear Window",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1290
+                    }
+                  }
+                }
+              },
+              "productId": 1290
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Système électrique [ID: 100010] (Niveau 1)\n│   └── Relais (Niveau 2)\n│       └── Relay [ID: 100785] (Niveau 2) → ProductId: 1290\n\n└── Systèmes de confort [ID: 100335] (Niveau 1)\n    └── Moteur / Relais (Niveau 2)\n        └── Motor/Relay/Switch [ID: 104156] (Niveau 2) → ProductId: 1290\n            └── Lunette arrière (Niveau 4)\n                └── Rear Window [ID: 104160] (Niveau 3) → ProductId: 1290",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Système électrique",
+        "Relais",
+        "Relay"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100785
+      ],
+      "finalCategoryId": 100785,
+      "productId": 1290
+    },
+    {
+      "path": [
+        "Systèmes de confort",
+        "Moteur / Relais",
+        "Motor/Relay/Switch"
+      ],
+      "categoryIds": [
+        100335,
+        null,
+        104156
+      ],
+      "finalCategoryId": 104156,
+      "productId": 1290
+    }
+  ],
+  "productIdsInArbo": [
+    1290
+  ],
+  "matchedProductIds": [
+    1290
+  ]
+}

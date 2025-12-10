@@ -1,0 +1,42 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "H14GZK",
+      "index": "ELB54100",
+      "tecDoc": "B54.100",
+      "tecDocProd": "10",
+      "articleNumber": "B54.100",
+      "brand": "ELRING",
+      "shortDescription": "Adhesives and epoxy resins",
+      "description": "Metal-metal glue",
+      "eans": [
+        "4067806075492"
+      ],
+      "packageWeight": "0,100",
+      "packageWidth": "5,000",
+      "packageDepth": "16,000",
+      "packageHeight": "3,000",
+      "customsCode": "32141010",
+      "blockedReturn": false,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_1829",
+          "primary": false,
+          "name": {
+            "en": "Epoxy Adhesive"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_92135",
+          "primary": true,
+          "name": {
+            "en": "Adhesives and epoxy resins"
+          }
+        }
+      ]
+    }
+  ]
+}

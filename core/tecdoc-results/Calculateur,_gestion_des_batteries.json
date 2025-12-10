@@ -1,0 +1,90 @@
+{
+  "productName": "Calculateur, gestion des batteries",
+  "searchText": "Calculateur, gestion des batteries",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:14:03.592Z",
+  "productId": 3972,
+  "arborescence": {
+    "Entraînement hybride/électrique": {
+      "categoryId": 706209,
+      "categoryName": "Entraînement hybride/électrique",
+      "level": 1,
+      "children": {
+        "Contrôle": {
+          "categoryId": null,
+          "categoryName": "Contrôle",
+          "level": 2,
+          "children": {
+            "Calculateur, gestion des batteries": {
+              "categoryId": 706565,
+              "categoryName": "Control Unit",
+              "level": 2,
+              "children": [],
+              "productId": 60173
+            }
+          }
+        }
+      }
+    },
+    "Système électrique": {
+      "categoryId": 100010,
+      "categoryName": "Système électrique",
+      "level": 1,
+      "children": {
+        "Appareils de commande": {
+          "categoryId": null,
+          "categoryName": "Appareils de commande",
+          "level": 2,
+          "children": {
+            "Calculateur, gestion des batteries": {
+              "categoryId": 100727,
+              "categoryName": "Control Units",
+              "level": 2,
+              "children": [],
+              "productId": 3972
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "├── Entraînement hybride/électrique [ID: 706209] (Niveau 1)\n│   └── Contrôle (Niveau 2)\n│       └── Control Unit [ID: 706565] (Niveau 2) → ProductId: 60173\n\n└── Système électrique [ID: 100010] (Niveau 1)\n    └── Appareils de commande (Niveau 2)\n        └── Control Units [ID: 100727] (Niveau 2) → ProductId: 3972",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Entraînement hybride/électrique",
+        "Contrôle",
+        "Control Unit"
+      ],
+      "categoryIds": [
+        706209,
+        null,
+        706565
+      ],
+      "finalCategoryId": 706565,
+      "productId": 60173
+    },
+    {
+      "path": [
+        "Système électrique",
+        "Appareils de commande",
+        "Control Units"
+      ],
+      "categoryIds": [
+        100010,
+        null,
+        100727
+      ],
+      "finalCategoryId": 100727,
+      "productId": 3972
+    }
+  ],
+  "productIdsInArbo": [
+    3972,
+    60173
+  ],
+  "matchedProductIds": [
+    3972
+  ]
+}

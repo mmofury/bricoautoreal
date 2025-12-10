@@ -1,0 +1,69 @@
+{
+  "productName": "Tuyau, ventilation de carter-moteur",
+  "searchText": "Tuyau, ventilation de carter-moteur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:29:12.557Z",
+  "productId": 1600,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Carter de vilebrequin": {
+          "categoryId": null,
+          "categoryName": "Carter de vilebrequin",
+          "level": 2,
+          "children": {
+            "Tuyau, ventilation de carter-moteur": {
+              "categoryId": 100514,
+              "categoryName": "Crankcase",
+              "level": 2,
+              "children": {
+                "Ventilation": {
+                  "categoryId": null,
+                  "categoryName": "Ventilation",
+                  "level": 4,
+                  "children": {
+                    "Tuyau, ventilation de carter-moteur": {
+                      "categoryId": 105862,
+                      "categoryName": "Breather",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1600
+                    }
+                  }
+                }
+              },
+              "productId": 1600
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    └── Carter de vilebrequin (Niveau 2)\n        └── Crankcase [ID: 100514] (Niveau 2) → ProductId: 1600\n            └── Ventilation (Niveau 4)\n                └── Breather [ID: 105862] (Niveau 3) → ProductId: 1600",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Carter de vilebrequin",
+        "Crankcase"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100514
+      ],
+      "finalCategoryId": 100514,
+      "productId": 1600
+    }
+  ],
+  "productIdsInArbo": [
+    1600
+  ],
+  "matchedProductIds": [
+    1600
+  ]
+}

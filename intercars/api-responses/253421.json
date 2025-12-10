@@ -1,0 +1,43 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "253421",
+      "index": "FE01449",
+      "tecDoc": "01449",
+      "tecDocProd": "101",
+      "articleNumber": "01449",
+      "brand": "FEBI",
+      "shortDescription": "Gas Spring, bonnet",
+      "description": "Gas spring engine bonnet L/R max length: 719,5mmx719,5mm, stroke:322,5mm fits: MAN E2000, F2000, F90, F90 UNTERFLUR, FOC, L2000, M 2000 M, M90 AUTOBUS-WYWROTKA 06.85-",
+      "gtuCode": "GTU_07",
+      "eans": [
+        "4027816014492"
+      ],
+      "packageWeight": "0,360",
+      "packageWidth": "3,000",
+      "packageDepth": "77,000",
+      "packageHeight": "3,000",
+      "customsCode": "87082990",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_514",
+          "primary": true,
+          "name": {
+            "en": "Gas Spring, bonnet"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_3620",
+          "primary": false,
+          "name": {
+            "en": "Gas Spring, front panel"
+          }
+        }
+      ]
+    }
+  ]
+}

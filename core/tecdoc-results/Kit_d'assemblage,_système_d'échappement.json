@@ -1,0 +1,69 @@
+{
+  "productName": "Kit d'assemblage, système d'échappement",
+  "searchText": "Kit d'assemblage, système d'échappement",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:58:32.122Z",
+  "productId": 1127,
+  "arborescence": {
+    "Échappement": {
+      "categoryId": 100004,
+      "categoryName": "Échappement",
+      "level": 1,
+      "children": {
+        "Pièces de montage": {
+          "categoryId": null,
+          "categoryName": "Pièces de montage",
+          "level": 2,
+          "children": {
+            "Kit d'assemblage, système d'échappement": {
+              "categoryId": 100222,
+              "categoryName": "Assembly Parts",
+              "level": 2,
+              "children": {
+                "Assortiment de montage": {
+                  "categoryId": null,
+                  "categoryName": "Assortiment de montage",
+                  "level": 4,
+                  "children": {
+                    "Kit d'assemblage, système d'échappement": {
+                      "categoryId": 100316,
+                      "categoryName": "Assembly Kit",
+                      "level": 3,
+                      "children": [],
+                      "productId": 1127
+                    }
+                  }
+                }
+              },
+              "productId": 1127
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Échappement [ID: 100004] (Niveau 1)\n    └── Pièces de montage (Niveau 2)\n        └── Assembly Parts [ID: 100222] (Niveau 2) → ProductId: 1127\n            └── Assortiment de montage (Niveau 4)\n                └── Assembly Kit [ID: 100316] (Niveau 3) → ProductId: 1127",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Échappement",
+        "Pièces de montage",
+        "Assembly Parts"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100222
+      ],
+      "finalCategoryId": 100222,
+      "productId": 1127
+    }
+  ],
+  "productIdsInArbo": [
+    1127
+  ],
+  "matchedProductIds": [
+    1127
+  ]
+}

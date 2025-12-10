@@ -1,0 +1,54 @@
+{
+  "productName": "Collecteur, système d'échappement",
+  "searchText": "Collecteur, système d'échappement",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:22:25.594Z",
+  "productId": 1543,
+  "arborescence": {
+    "Échappement": {
+      "categoryId": 100004,
+      "categoryName": "Échappement",
+      "level": 1,
+      "children": {
+        "Collecteur": {
+          "categoryId": null,
+          "categoryName": "Collecteur",
+          "level": 2,
+          "children": {
+            "Collecteur, système d'échappement": {
+              "categoryId": 100715,
+              "categoryName": "Manifold",
+              "level": 2,
+              "children": [],
+              "productId": 1543
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Échappement [ID: 100004] (Niveau 1)\n    └── Collecteur (Niveau 2)\n        └── Manifold [ID: 100715] (Niveau 2) → ProductId: 1543",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Échappement",
+        "Collecteur",
+        "Manifold"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100715
+      ],
+      "finalCategoryId": 100715,
+      "productId": 1543
+    }
+  ],
+  "productIdsInArbo": [
+    1543
+  ],
+  "matchedProductIds": [
+    1543
+  ]
+}

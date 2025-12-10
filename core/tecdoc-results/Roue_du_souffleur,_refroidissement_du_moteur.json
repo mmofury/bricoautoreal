@@ -1,0 +1,76 @@
+{
+  "productName": "Roue du souffleur, refroidissement du moteur",
+  "searchText": "Roue du souffleur, refroidissement du moteur",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:12:37.699Z",
+  "productId": 2092,
+  "arborescence": {
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Ventilateur": {
+          "categoryId": null,
+          "categoryName": "Ventilateur",
+          "level": 2,
+          "children": {
+            "Moyeu, Roue du souffleur - refroidissement du moteur": {
+              "categoryId": 100337,
+              "categoryName": "Radiator Fan",
+              "level": 2,
+              "children": [],
+              "productId": 4832
+            },
+            "Roue du souffleur, refroidissement du moteur": {
+              "categoryId": 100337,
+              "categoryName": "Radiator Fan",
+              "level": 2,
+              "children": [],
+              "productId": 2092
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Refroidissement [ID: 100007] (Niveau 1)\n    └── Ventilateur (Niveau 2)\n        ├── Radiator Fan [ID: 100337] (Niveau 2) → ProductId: 4832\n        └── Radiator Fan [ID: 100337] (Niveau 2) → ProductId: 2092",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Refroidissement",
+        "Ventilateur",
+        "Radiator Fan"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100337
+      ],
+      "finalCategoryId": 100337,
+      "productId": 4832
+    },
+    {
+      "path": [
+        "Refroidissement",
+        "Ventilateur",
+        "Radiator Fan"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100337
+      ],
+      "finalCategoryId": 100337,
+      "productId": 2092
+    }
+  ],
+  "productIdsInArbo": [
+    2092,
+    4832
+  ],
+  "matchedProductIds": [
+    2092
+  ]
+}

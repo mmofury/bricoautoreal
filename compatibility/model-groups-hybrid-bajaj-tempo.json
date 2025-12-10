@@ -1,0 +1,229 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.181Z",
+  "manufacturer": "BAJAJ TEMPO",
+  "countGroups": 14,
+  "groups": [
+    {
+      "manufacturerId": 2849,
+      "manufacturerName": "BAJAJ TEMPO",
+      "groupKey": "CHALLENGER",
+      "displayName": "CHALLENGER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5658,
+          "modelName": "CHALLENGER",
+          "modelYearFrom": "1987-04-01",
+          "modelYearTo": "1994-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2849,
+      "manufacturerName": "BAJAJ TEMPO",
+      "groupKey": "CRUISER",
+      "displayName": "CRUISER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5659,
+          "modelName": "CRUISER",
+          "modelYearFrom": "1987-04-01",
+          "modelYearTo": "1994-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2849,
+      "manufacturerName": "BAJAJ TEMPO",
+      "groupKey": "GAMA",
+      "displayName": "GAMA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5660,
+          "modelName": "GAMA / TRAX",
+          "modelYearFrom": "1987-04-01",
+          "modelYearTo": "1994-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2849,
+      "manufacturerName": "BAJAJ TEMPO",
+      "groupKey": "GC",
+      "displayName": "GC",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11391,
+          "modelName": "GC MAX Camion plate-forme/Châssis",
+          "modelYearFrom": "1997-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2849,
+      "manufacturerName": "BAJAJ TEMPO",
+      "groupKey": "GURKHA",
+      "displayName": "GURKHA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5661,
+          "modelName": "GURKHA",
+          "modelYearFrom": "1987-04-01",
+          "modelYearTo": "1994-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2849,
+      "manufacturerName": "BAJAJ TEMPO",
+      "groupKey": "HANSEAT",
+      "displayName": "HANSEAT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11402,
+          "modelName": "HANSEAT Camion plate-forme/Châssis",
+          "modelYearFrom": "1958-01-01",
+          "modelYearTo": "1988-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2849,
+      "manufacturerName": "BAJAJ TEMPO",
+      "groupKey": "JUDO",
+      "displayName": "JUDO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5662,
+          "modelName": "JUDO",
+          "modelYearFrom": "1987-04-01",
+          "modelYearTo": "1994-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2849,
+      "manufacturerName": "BAJAJ TEMPO",
+      "groupKey": "MASTER",
+      "displayName": "MASTER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5663,
+          "modelName": "MASTER",
+          "modelYearFrom": "1987-04-01",
+          "modelYearTo": "1994-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2849,
+      "manufacturerName": "BAJAJ TEMPO",
+      "groupKey": "MATADOR",
+      "displayName": "MATADOR",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5664,
+          "modelName": "MATADOR Camion plate-forme/Châssis",
+          "modelYearFrom": "1989-08-01",
+          "modelYearTo": "1994-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2849,
+      "manufacturerName": "BAJAJ TEMPO",
+      "groupKey": "MEGA",
+      "displayName": "MEGA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11397,
+          "modelName": "MEGA MAX Décapotable",
+          "modelYearFrom": "1997-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2849,
+      "manufacturerName": "BAJAJ TEMPO",
+      "groupKey": "PICK",
+      "displayName": "PICK",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5665,
+          "modelName": "PICK UP",
+          "modelYearFrom": "1987-04-01",
+          "modelYearTo": "1994-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2849,
+      "manufacturerName": "BAJAJ TEMPO",
+      "groupKey": "RE",
+      "displayName": "RE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 11399,
+          "modelName": "RE Décapotable",
+          "modelYearFrom": "1997-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2849,
+      "manufacturerName": "BAJAJ TEMPO",
+      "groupKey": "TEMPO",
+      "displayName": "TEMPO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5666,
+          "modelName": "TEMPO Pick-up",
+          "modelYearFrom": "1989-08-01",
+          "modelYearTo": "1994-12-01"
+        },
+        {
+          "modelId": 5667,
+          "modelName": "TEMPO Autobus/Autocar",
+          "modelYearFrom": "1989-08-01",
+          "modelYearTo": "1994-12-01"
+        },
+        {
+          "modelId": 5668,
+          "modelName": "TEMPO Fourgon",
+          "modelYearFrom": "1989-08-01",
+          "modelYearTo": "1994-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2849,
+      "manufacturerName": "BAJAJ TEMPO",
+      "groupKey": "VAN",
+      "displayName": "VAN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 5669,
+          "modelName": "VAN",
+          "modelYearFrom": "1987-04-01",
+          "modelYearTo": "1994-12-01"
+        }
+      ]
+    }
+  ]
+}

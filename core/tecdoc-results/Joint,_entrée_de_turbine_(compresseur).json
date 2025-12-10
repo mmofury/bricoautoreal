@@ -1,0 +1,127 @@
+{
+  "productName": "Joint, entrée de turbine (compresseur)",
+  "searchText": "Joint, entrée de turbine (compresseur)",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:55:37.863Z",
+  "productId": 3726,
+  "arborescence": {
+    "Moteur": {
+      "categoryId": 100002,
+      "categoryName": "Moteur",
+      "level": 1,
+      "children": {
+        "Alimentation en air": {
+          "categoryId": null,
+          "categoryName": "Alimentation en air",
+          "level": 2,
+          "children": {
+            "Joint, entrée de turbine (compresseur)": {
+              "categoryId": 100383,
+              "categoryName": "Air Supply",
+              "level": 2,
+              "children": {
+                "Suralimentation": {
+                  "categoryId": null,
+                  "categoryName": "Suralimentation",
+                  "level": 4,
+                  "children": {
+                    "Joint, entrée de turbine (compresseur)": {
+                      "categoryId": 100390,
+                      "categoryName": "Charging (supercharged/turbocharged)",
+                      "level": 3,
+                      "children": {
+                        "Joint de turbocompresseur": {
+                          "categoryId": null,
+                          "categoryName": "Joint de turbocompresseur",
+                          "level": 6,
+                          "children": {
+                            "Joint, entrée de turbine (compresseur)": {
+                              "categoryId": 100392,
+                              "categoryName": "Charger Gasket",
+                              "level": 4,
+                              "children": [],
+                              "productId": 3726
+                            }
+                          }
+                        }
+                      },
+                      "productId": 3726
+                    }
+                  }
+                }
+              },
+              "productId": 3726
+            }
+          }
+        },
+        "Joints": {
+          "categoryId": null,
+          "categoryName": "Joints",
+          "level": 2,
+          "children": {
+            "Joint, entrée de turbine (compresseur)": {
+              "categoryId": 100223,
+              "categoryName": "Gaskets",
+              "level": 2,
+              "children": {
+                "Joint de turbocompresseur": {
+                  "categoryId": null,
+                  "categoryName": "Joint de turbocompresseur",
+                  "level": 4,
+                  "children": {
+                    "Joint, entrée de turbine (compresseur)": {
+                      "categoryId": 100244,
+                      "categoryName": "Turbocharger Gasket",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3726
+                    }
+                  }
+                }
+              },
+              "productId": 3726
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Moteur [ID: 100002] (Niveau 1)\n    ├── Alimentation en air (Niveau 2)\n    │   └── Air Supply [ID: 100383] (Niveau 2) → ProductId: 3726\n    │       └── Suralimentation (Niveau 4)\n    │           └── Charging (supercharged/turbocharged) [ID: 100390] (Niveau 3) → ProductId: 3726\n    │               └── Joint de turbocompresseur (Niveau 6)\n    │                   └── Charger Gasket [ID: 100392] (Niveau 4) → ProductId: 3726\n    └── Joints (Niveau 2)\n        └── Gaskets [ID: 100223] (Niveau 2) → ProductId: 3726\n            └── Joint de turbocompresseur (Niveau 4)\n                └── Turbocharger Gasket [ID: 100244] (Niveau 3) → ProductId: 3726",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Moteur",
+        "Alimentation en air",
+        "Air Supply"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100383
+      ],
+      "finalCategoryId": 100383,
+      "productId": 3726
+    },
+    {
+      "path": [
+        "Moteur",
+        "Joints",
+        "Gaskets"
+      ],
+      "categoryIds": [
+        100002,
+        null,
+        100223
+      ],
+      "finalCategoryId": 100223,
+      "productId": 3726
+    }
+  ],
+  "productIdsInArbo": [
+    3726
+  ],
+  "matchedProductIds": [
+    3726
+  ]
+}

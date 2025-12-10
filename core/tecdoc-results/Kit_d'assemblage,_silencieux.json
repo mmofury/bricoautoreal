@@ -1,0 +1,69 @@
+{
+  "productName": "Kit d'assemblage, silencieux",
+  "searchText": "Kit d'assemblage, silencieux",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:58:29.955Z",
+  "productId": 519,
+  "arborescence": {
+    "Échappement": {
+      "categoryId": 100004,
+      "categoryName": "Échappement",
+      "level": 1,
+      "children": {
+        "Pièces de montage": {
+          "categoryId": null,
+          "categoryName": "Pièces de montage",
+          "level": 2,
+          "children": {
+            "Kit d'assemblage, silencieux": {
+              "categoryId": 100222,
+              "categoryName": "Assembly Parts",
+              "level": 2,
+              "children": {
+                "Assortiment de montage": {
+                  "categoryId": null,
+                  "categoryName": "Assortiment de montage",
+                  "level": 4,
+                  "children": {
+                    "Kit d'assemblage, silencieux": {
+                      "categoryId": 100316,
+                      "categoryName": "Assembly Kit",
+                      "level": 3,
+                      "children": [],
+                      "productId": 519
+                    }
+                  }
+                }
+              },
+              "productId": 519
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Échappement [ID: 100004] (Niveau 1)\n    └── Pièces de montage (Niveau 2)\n        └── Assembly Parts [ID: 100222] (Niveau 2) → ProductId: 519\n            └── Assortiment de montage (Niveau 4)\n                └── Assembly Kit [ID: 100316] (Niveau 3) → ProductId: 519",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Échappement",
+        "Pièces de montage",
+        "Assembly Parts"
+      ],
+      "categoryIds": [
+        100004,
+        null,
+        100222
+      ],
+      "finalCategoryId": 100222,
+      "productId": 519
+    }
+  ],
+  "productIdsInArbo": [
+    519
+  ],
+  "matchedProductIds": [
+    519
+  ]
+}

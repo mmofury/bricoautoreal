@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.150Z",
+  "manufacturer": "AIWAYS",
+  "countGroups": 2,
+  "groups": [
+    {
+      "manufacturerId": 5500,
+      "manufacturerName": "AIWAYS",
+      "groupKey": "U5",
+      "displayName": "U5",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40264,
+          "modelName": "U5",
+          "modelYearFrom": "2019-12-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 5500,
+      "manufacturerName": "AIWAYS",
+      "groupKey": "U6",
+      "displayName": "U6",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 43664,
+          "modelName": "U6",
+          "modelYearFrom": "2022-10-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

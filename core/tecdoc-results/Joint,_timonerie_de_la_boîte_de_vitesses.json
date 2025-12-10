@@ -1,0 +1,83 @@
+{
+  "productName": "Joint, timonerie de la boîte de vitesses",
+  "searchText": "Joint, timonerie de la boîte de vitesses",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:56:44.480Z",
+  "productId": 3685,
+  "arborescence": {
+    "Boîte de vitesses": {
+      "categoryId": 100238,
+      "categoryName": "Boîte de vitesses",
+      "level": 1,
+      "children": {
+        "Boîte de vitesses manuelle": {
+          "categoryId": null,
+          "categoryName": "Boîte de vitesses manuelle",
+          "level": 2,
+          "children": {
+            "Joint, timonerie de la boîte de vitesses": {
+              "categoryId": 100239,
+              "categoryName": "Manual Transmission",
+              "level": 2,
+              "children": {
+                "Commande de boîte de vitesses": {
+                  "categoryId": null,
+                  "categoryName": "Commande de boîte de vitesses",
+                  "level": 4,
+                  "children": {
+                    "Joint, timonerie de la boîte de vitesses": {
+                      "categoryId": 101808,
+                      "categoryName": "Transmission Control",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3685
+                    }
+                  }
+                },
+                "Joints": {
+                  "categoryId": null,
+                  "categoryName": "Joints",
+                  "level": 4,
+                  "children": {
+                    "Joint, timonerie de la boîte de vitesses": {
+                      "categoryId": 100769,
+                      "categoryName": "Gaskets/Seals",
+                      "level": 3,
+                      "children": [],
+                      "productId": 3685
+                    }
+                  }
+                }
+              },
+              "productId": 3685
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Boîte de vitesses [ID: 100238] (Niveau 1)\n    └── Boîte de vitesses manuelle (Niveau 2)\n        └── Manual Transmission [ID: 100239] (Niveau 2) → ProductId: 3685\n            ├── Commande de boîte de vitesses (Niveau 4)\n            │   └── Transmission Control [ID: 101808] (Niveau 3) → ProductId: 3685\n            └── Joints (Niveau 4)\n                └── Gaskets/Seals [ID: 100769] (Niveau 3) → ProductId: 3685",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Boîte de vitesses",
+        "Boîte de vitesses manuelle",
+        "Manual Transmission"
+      ],
+      "categoryIds": [
+        100238,
+        null,
+        100239
+      ],
+      "finalCategoryId": 100239,
+      "productId": 3685
+    }
+  ],
+  "productIdsInArbo": [
+    3685
+  ],
+  "matchedProductIds": [
+    3685
+  ]
+}

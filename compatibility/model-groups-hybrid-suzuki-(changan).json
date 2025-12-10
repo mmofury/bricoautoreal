@@ -1,0 +1,121 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.501Z",
+  "manufacturer": "SUZUKI (CHANGAN)",
+  "countGroups": 6,
+  "groups": [
+    {
+      "manufacturerId": 3143,
+      "manufacturerName": "SUZUKI (CHANGAN)",
+      "groupKey": "ALIVIO",
+      "displayName": "ALIVIO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 14504,
+          "modelName": "ALIVIO",
+          "modelYearFrom": "2015-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3143,
+      "manufacturerName": "SUZUKI (CHANGAN)",
+      "groupKey": "ALTO",
+      "displayName": "ALTO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6488,
+          "modelName": "ALTO (CA72)",
+          "modelYearFrom": "1992-01-01",
+          "modelYearTo": "2008-12-01"
+        },
+        {
+          "modelId": 8414,
+          "modelName": "ALTO",
+          "modelYearFrom": "2009-07-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3143,
+      "manufacturerName": "SUZUKI (CHANGAN)",
+      "groupKey": "GAZELLE",
+      "displayName": "GAZELLE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6489,
+          "modelName": "GAZELLE",
+          "modelYearFrom": "2001-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3143,
+      "manufacturerName": "SUZUKI (CHANGAN)",
+      "groupKey": "SWIFT",
+      "displayName": "SWIFT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6490,
+          "modelName": "SWIFT (EZ, MZ)",
+          "modelYearFrom": "2005-05-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11614,
+          "modelName": "SWIFT (NZ, FZ)",
+          "modelYearFrom": "2010-10-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3143,
+      "manufacturerName": "SUZUKI (CHANGAN)",
+      "groupKey": "SX4",
+      "displayName": "SX4",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 6491,
+          "modelName": "SX4 Berline bicorps trois ou cinq portes",
+          "modelYearFrom": "2007-04-01",
+          "modelYearTo": "2015-12-01"
+        },
+        {
+          "modelId": 6492,
+          "modelName": "SX4 A trois volumes",
+          "modelYearFrom": "2006-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 11736,
+          "modelName": "SX4 S-CROSS",
+          "modelYearFrom": "2013-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3143,
+      "manufacturerName": "SUZUKI (CHANGAN)",
+      "groupKey": "VITARA",
+      "displayName": "VITARA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37020,
+          "modelName": "VITARA (LY)",
+          "modelYearFrom": "2015-11-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

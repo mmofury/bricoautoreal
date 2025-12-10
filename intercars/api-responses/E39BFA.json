@@ -1,0 +1,35 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "E39BFA",
+      "index": "HAZ 4969-612",
+      "tecDoc": "4969-612",
+      "tecDocProd": "4808",
+      "articleNumber": "4969-612",
+      "brand": "HAZET",
+      "shortDescription": "Pneumatic system elements, fittings",
+      "description": "",
+      "customsCode": "74122000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_91641",
+          "primary": true,
+          "name": {
+            "en": "Pneumatic system elements, fittings"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_9196",
+          "primary": false,
+          "name": {
+            "en": "Release Tool, compressed air quick coupler"
+          }
+        }
+      ]
+    }
+  ]
+}

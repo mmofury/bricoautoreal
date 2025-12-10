@@ -1,0 +1,54 @@
+{
+  "productName": "Kit d'adaptation, dispositif d'attelage",
+  "searchText": "Kit d'adaptation, dispositif d'attelage",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T20:57:45.853Z",
+  "productId": 61032,
+  "arborescence": {
+    "Dispositif d'attelage/accessoires": {
+      "categoryId": 100015,
+      "categoryName": "Dispositif d'attelage/accessoires",
+      "level": 1,
+      "children": {
+        "Dispositif d'attelage/accessoires": {
+          "categoryId": null,
+          "categoryName": "Dispositif d'attelage/accessoires",
+          "level": 2,
+          "children": {
+            "Kit d'adaptation, dispositif d'attelage": {
+              "categoryId": 100607,
+              "categoryName": "Trailer Hitch",
+              "level": 2,
+              "children": [],
+              "productId": 61032
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Dispositif d'attelage/accessoires [ID: 100015] (Niveau 1)\n    └── Dispositif d'attelage/accessoires (Niveau 2)\n        └── Trailer Hitch [ID: 100607] (Niveau 2) → ProductId: 61032",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Dispositif d'attelage/accessoires",
+        "Dispositif d'attelage/accessoires",
+        "Trailer Hitch"
+      ],
+      "categoryIds": [
+        100015,
+        null,
+        100607
+      ],
+      "finalCategoryId": 100607,
+      "productId": 61032
+    }
+  ],
+  "productIdsInArbo": [
+    61032
+  ],
+  "matchedProductIds": [
+    61032
+  ]
+}

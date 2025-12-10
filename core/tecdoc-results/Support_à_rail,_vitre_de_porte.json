@@ -1,0 +1,127 @@
+{
+  "productName": "Support à rail, vitre de porte",
+  "searchText": "Support à rail, vitre de porte",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-03T07:20:29.599Z",
+  "productId": 8754,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Habitacle": {
+          "categoryId": null,
+          "categoryName": "Habitacle",
+          "level": 2,
+          "children": {
+            "Support à rail, vitre de porte": {
+              "categoryId": 101690,
+              "categoryName": "Passenger Cabin",
+              "level": 2,
+              "children": {
+                "Vitre de portière/vitre latérale": {
+                  "categoryId": null,
+                  "categoryName": "Vitre de portière/vitre latérale",
+                  "level": 4,
+                  "children": {
+                    "Support à rail, vitre de porte": {
+                      "categoryId": 101697,
+                      "categoryName": "Door Window/Side Window",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8754
+                    }
+                  }
+                }
+              },
+              "productId": 8754
+            }
+          }
+        },
+        "Vitrages/Miroirs": {
+          "categoryId": null,
+          "categoryName": "Vitrages/Miroirs",
+          "level": 2,
+          "children": {
+            "Support à rail, vitre de porte": {
+              "categoryId": 100744,
+              "categoryName": "Glazing/Mirrors",
+              "level": 2,
+              "children": {
+                "Vitrage": {
+                  "categoryId": null,
+                  "categoryName": "Vitrage",
+                  "level": 4,
+                  "children": {
+                    "Support à rail, vitre de porte": {
+                      "categoryId": 100745,
+                      "categoryName": "Glazing",
+                      "level": 3,
+                      "children": {
+                        "Vitres": {
+                          "categoryId": null,
+                          "categoryName": "Vitres",
+                          "level": 6,
+                          "children": {
+                            "Support à rail, vitre de porte": {
+                              "categoryId": 100567,
+                              "categoryName": "Windows",
+                              "level": 4,
+                              "children": [],
+                              "productId": 8754
+                            }
+                          }
+                        }
+                      },
+                      "productId": 8754
+                    }
+                  }
+                }
+              },
+              "productId": 8754
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    ├── Habitacle (Niveau 2)\n    │   └── Passenger Cabin [ID: 101690] (Niveau 2) → ProductId: 8754\n    │       └── Vitre de portière/vitre latérale (Niveau 4)\n    │           └── Door Window/Side Window [ID: 101697] (Niveau 3) → ProductId: 8754\n    └── Vitrages/Miroirs (Niveau 2)\n        └── Glazing/Mirrors [ID: 100744] (Niveau 2) → ProductId: 8754\n            └── Vitrage (Niveau 4)\n                └── Glazing [ID: 100745] (Niveau 3) → ProductId: 8754\n                    └── Vitres (Niveau 6)\n                        └── Windows [ID: 100567] (Niveau 4) → ProductId: 8754",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Habitacle",
+        "Passenger Cabin"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        101690
+      ],
+      "finalCategoryId": 101690,
+      "productId": 8754
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Vitrages/Miroirs",
+        "Glazing/Mirrors"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100744
+      ],
+      "finalCategoryId": 100744,
+      "productId": 8754
+    }
+  ],
+  "productIdsInArbo": [
+    8754
+  ],
+  "matchedProductIds": [
+    8754
+  ]
+}

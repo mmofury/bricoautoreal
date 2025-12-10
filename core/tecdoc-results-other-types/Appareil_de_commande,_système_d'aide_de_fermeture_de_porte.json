@@ -1,0 +1,136 @@
+{
+  "productName": "Appareil de commande, système d'aide de fermeture de porte",
+  "searchText": "Appareil de commande, système d'aide de fermeture de porte",
+  "originalFound": false,
+  "tests": [
+    {
+      "typeId": 2,
+      "found": true,
+      "hasMatch": false,
+      "arborescence": {
+        "Systèmes de confort": {
+          "categoryId": 200987,
+          "categoryName": "Systèmes de confort",
+          "level": 1,
+          "children": {
+            "Contrôle": {
+              "categoryId": null,
+              "categoryName": "Contrôle",
+              "level": 2,
+              "children": {
+                "Appareil de commande, système d'aide de fermeture de porte": {
+                  "categoryId": 706790,
+                  "categoryName": "Control Unit",
+                  "level": 2,
+                  "children": [],
+                  "productId": 2240
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Systèmes de confort [ID: 200987] (Niveau 1)\n    └── Contrôle (Niveau 2)\n        └── Control Unit [ID: 706790] (Niveau 2) → ProductId: 2240",
+      "productIdsInArbo": [
+        2240
+      ]
+    },
+    {
+      "typeId": 3,
+      "found": true,
+      "hasMatch": false,
+      "arborescence": {
+        "Systèmes de confort": {
+          "categoryId": 100335,
+          "categoryName": "Systèmes de confort",
+          "level": 1,
+          "children": {
+            "Aide de fermeture/commande de porte": {
+              "categoryId": null,
+              "categoryName": "Aide de fermeture/commande de porte",
+              "level": 2,
+              "children": {
+                "Appareil de commande, système d'aide de fermeture de porte": {
+                  "categoryId": 100836,
+                  "categoryName": "Door Closing Aid/Door Actuation",
+                  "level": 2,
+                  "children": [],
+                  "productId": 2240
+                }
+              }
+            },
+            "Contrôle": {
+              "categoryId": null,
+              "categoryName": "Contrôle",
+              "level": 2,
+              "children": {
+                "Appareil de commande, système d'aide de fermeture de porte": {
+                  "categoryId": 706789,
+                  "categoryName": "Control Unit",
+                  "level": 2,
+                  "children": [],
+                  "productId": 2240
+                }
+              }
+            }
+          }
+        }
+      },
+      "arborescenceText": "└── Systèmes de confort [ID: 100335] (Niveau 1)\n    ├── Aide de fermeture/commande de porte (Niveau 2)\n    │   └── Door Closing Aid/Door Actuation [ID: 100836] (Niveau 2) → ProductId: 2240\n    └── Contrôle (Niveau 2)\n        └── Control Unit [ID: 706789] (Niveau 2) → ProductId: 2240",
+      "productIdsInArbo": [
+        2240
+      ]
+    },
+    {
+      "typeId": 4,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 5,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 6,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 7,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 8,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 9,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 10,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 11,
+      "found": false,
+      "hasMatch": false
+    },
+    {
+      "typeId": 12,
+      "found": false,
+      "hasMatch": false
+    }
+  ],
+  "timestamp": "2025-12-03T09:42:44.192Z",
+  "bestMatch": {
+    "typeId": 2,
+    "found": true,
+    "hasMatch": false
+  }
+}

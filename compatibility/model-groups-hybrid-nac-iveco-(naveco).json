@@ -1,0 +1,172 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.429Z",
+  "manufacturer": "NAC IVECO (NAVECO)",
+  "countGroups": 7,
+  "groups": [
+    {
+      "manufacturerId": 3132,
+      "manufacturerName": "NAC IVECO (NAVECO)",
+      "groupKey": "DAILY",
+      "displayName": "DAILY",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38905,
+          "modelName": "DAILY Autobus/Autocar",
+          "modelYearFrom": "2018-09-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 38906,
+          "modelName": "DAILY Fourgon",
+          "modelYearFrom": "2018-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3132,
+      "manufacturerName": "NAC IVECO (NAVECO)",
+      "groupKey": "FIDATO",
+      "displayName": "FIDATO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 44500,
+          "modelName": "FIDATO Autobus/Autocar",
+          "modelYearFrom": "2023-06-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 44916,
+          "modelName": "FIDATO Fourgon",
+          "modelYearFrom": "2023-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3132,
+      "manufacturerName": "NAC IVECO (NAVECO)",
+      "groupKey": "OUBA",
+      "displayName": "OUBA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 42485,
+          "modelName": "OUBA",
+          "modelYearFrom": "2021-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 46030,
+          "modelName": "OUBA",
+          "modelYearFrom": "2024-11-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 46031,
+          "modelName": "OUBA",
+          "modelYearFrom": "2024-11-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3132,
+      "manufacturerName": "NAC IVECO (NAVECO)",
+      "groupKey": "POWER",
+      "displayName": "POWER",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 36964,
+          "modelName": "POWER DAILY Autobus/Autocar (A32, A36, A37, A39, A42, A42L,",
+          "modelYearFrom": "2005-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 42004,
+          "modelName": "POWER DAILY Camion plate-forme/Châssis",
+          "modelYearFrom": "2015-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3132,
+      "manufacturerName": "NAC IVECO (NAVECO)",
+      "groupKey": "TURBO",
+      "displayName": "TURBO",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13744,
+          "modelName": "TURBO DAILY Autobus/Autocar (A35, A40)",
+          "modelYearFrom": "1996-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39397,
+          "modelName": "TURBO DAILY Fourgon (V35, V40)",
+          "modelYearFrom": "1996-01-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 46327,
+          "modelName": "TURBO DAILY Autobus/Autocar",
+          "modelYearFrom": "2022-10-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 46343,
+          "modelName": "TURBO DAILY Fourgon",
+          "modelYearFrom": "2023-04-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 46347,
+          "modelName": "TURBO DAILY Camion plate-forme/Châssis",
+          "modelYearFrom": "2023-04-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3132,
+      "manufacturerName": "NAC IVECO (NAVECO)",
+      "groupKey": "TURIN",
+      "displayName": "TURIN",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 39841,
+          "modelName": "TURIN V Autobus/Autocar",
+          "modelYearFrom": "2004-03-01",
+          "modelYearTo": null
+        },
+        {
+          "modelId": 39883,
+          "modelName": "TURIN V Fourgon",
+          "modelYearFrom": "2004-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3132,
+      "manufacturerName": "NAC IVECO (NAVECO)",
+      "groupKey": "VENICE",
+      "displayName": "VENICE",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 13745,
+          "modelName": "VENICE Autobus/Autocar (A44, A45, A49, A59)",
+          "modelYearFrom": "2006-07-01",
+          "modelYearTo": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "totalResults": 1,
+  "hasNextPage": false,
+  "requestProcessingTime": 0,
+  "products": [
+    {
+      "sku": "9BCE02",
+      "index": "03.9314-5700.3",
+      "tecDoc": "03.9314-5700.3",
+      "tecDocProd": "3",
+      "articleNumber": "03.9314-5700.3",
+      "brand": "ATE",
+      "shortDescription": "Brake system handling tools",
+      "description": "Pliers for turning calipers, intended use: brake calipers",
+      "packageWeight": "0,460",
+      "packageWidth": "9,000",
+      "packageDepth": "2,600",
+      "packageHeight": "27,000",
+      "customsCode": "82032000",
+      "blockedReturn": true,
+      "genericArticleReferences": [
+        {
+          "genericArticleId": "GenericArticle_4192",
+          "primary": false,
+          "name": {
+            "en": "Universal pliers"
+          }
+        },
+        {
+          "genericArticleId": "GenericArticle_91783",
+          "primary": true,
+          "name": {
+            "en": "Brake system handling tools"
+          }
+        }
+      ]
+    }
+  ]
+}

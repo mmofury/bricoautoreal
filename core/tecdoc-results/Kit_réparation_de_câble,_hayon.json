@@ -1,0 +1,113 @@
+{
+  "productName": "Kit réparation de câble, hayon",
+  "searchText": "Kit réparation de câble, hayon",
+  "found": true,
+  "hasMatch": false,
+  "timestamp": "2025-12-02T21:10:06.429Z",
+  "productId": 8021,
+  "arborescence": {
+    "Carrosserie": {
+      "categoryId": 100001,
+      "categoryName": "Carrosserie",
+      "level": 1,
+      "children": {
+        "Trappes/capots/portes/toit coul./toit panoram./toit pliant": {
+          "categoryId": null,
+          "categoryName": "Trappes/capots/portes/toit coul./toit panoram./toit pliant",
+          "level": 2,
+          "children": {
+            "Kit réparation de câble, hayon": {
+              "categoryId": 100746,
+              "categoryName": "Hatches/Bonnets/Doors/Sunroof/Panoramic Roof",
+              "level": 2,
+              "children": {
+                "Clapet/couvercle de hayon/de coffre": {
+                  "categoryId": null,
+                  "categoryName": "Clapet/couvercle de hayon/de coffre",
+                  "level": 4,
+                  "children": {
+                    "Kit réparation de câble, hayon": {
+                      "categoryId": 100192,
+                      "categoryName": "Tailgate/Cargo Bay Hatch & Boot Lid/Cargo Bay Cover",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8431
+                    }
+                  }
+                }
+              },
+              "productId": 8431
+            },
+            "Kit réparation de câble, hayon de coffre": {
+              "categoryId": 100746,
+              "categoryName": "Hatches/Bonnets/Doors/Sunroof/Panoramic Roof",
+              "level": 2,
+              "children": {
+                "Clapet/couvercle de hayon/de coffre": {
+                  "categoryId": null,
+                  "categoryName": "Clapet/couvercle de hayon/de coffre",
+                  "level": 4,
+                  "children": {
+                    "Kit réparation de câble, hayon de coffre": {
+                      "categoryId": 100192,
+                      "categoryName": "Tailgate/Cargo Bay Hatch & Boot Lid/Cargo Bay Cover",
+                      "level": 3,
+                      "children": [],
+                      "productId": 8429
+                    }
+                  }
+                }
+              },
+              "productId": 8429
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Carrosserie [ID: 100001] (Niveau 1)\n    └── Trappes/capots/portes/toit coul./toit panoram./toit pliant (Niveau 2)\n        ├── Hatches/Bonnets/Doors/Sunroof/Panoramic Roof [ID: 100746] (Niveau 2) → ProductId: 8431\n        │   └── Clapet/couvercle de hayon/de coffre (Niveau 4)\n        │       └── Tailgate/Cargo Bay Hatch & Boot Lid/Cargo Bay Cover [ID: 100192] (Niveau 3) → ProductId: 8431\n        └── Hatches/Bonnets/Doors/Sunroof/Panoramic Roof [ID: 100746] (Niveau 2) → ProductId: 8429\n            └── Clapet/couvercle de hayon/de coffre (Niveau 4)\n                └── Tailgate/Cargo Bay Hatch & Boot Lid/Cargo Bay Cover [ID: 100192] (Niveau 3) → ProductId: 8429",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Carrosserie",
+        "Trappes/capots/portes/toit coul./toit panoram./toit pliant",
+        "Hatches/Bonnets/Doors/Sunroof/Panoramic Roof"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100746
+      ],
+      "finalCategoryId": 100746,
+      "productId": 8431
+    },
+    {
+      "path": [
+        "Carrosserie",
+        "Trappes/capots/portes/toit coul./toit panoram./toit pliant",
+        "Hatches/Bonnets/Doors/Sunroof/Panoramic Roof"
+      ],
+      "categoryIds": [
+        100001,
+        null,
+        100746
+      ],
+      "finalCategoryId": 100746,
+      "productId": 8429
+    }
+  ],
+  "productIdsInArbo": [
+    8429,
+    8431
+  ],
+  "closestProductIds": [
+    {
+      "productId": 8429,
+      "productName": "Kit réparation de câble, hayon de coffre"
+    },
+    {
+      "productId": 8431,
+      "productName": "Kit réparation de câble, hayon"
+    }
+  ]
+}

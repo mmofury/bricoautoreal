@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.341Z",
+  "manufacturer": "INTERNATIONAL",
+  "countGroups": 5,
+  "groups": [
+    {
+      "manufacturerId": 2460,
+      "manufacturerName": "INTERNATIONAL",
+      "groupKey": "150",
+      "displayName": "150",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 34283,
+          "modelName": "150 Cab & Chassis",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1975-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2460,
+      "manufacturerName": "INTERNATIONAL",
+      "groupKey": "200",
+      "displayName": "200",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 34515,
+          "modelName": "200 Pick-up",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1975-12-01"
+        },
+        {
+          "modelId": 35993,
+          "modelName": "200 Standard Cab Pickup",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1975-12-01"
+        },
+        {
+          "modelId": 35994,
+          "modelName": "200 Crew Cab Pickup",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1975-12-01"
+        },
+        {
+          "modelId": 36154,
+          "modelName": "200 Cab & Chassis",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1975-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2460,
+      "manufacturerName": "INTERNATIONAL",
+      "groupKey": "MS",
+      "displayName": "MS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 34516,
+          "modelName": "MS Delivery Van",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1975-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2460,
+      "manufacturerName": "INTERNATIONAL",
+      "groupKey": "SCOUT",
+      "displayName": "SCOUT",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 34517,
+          "modelName": "SCOUT II Véhicule tout terrain fermé",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 36193,
+          "modelName": "SCOUT II Standard Cab Pickup",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1980-12-01"
+        },
+        {
+          "modelId": 40522,
+          "modelName": "SCOUT 80 Véhicule tout terrain fermé",
+          "modelYearFrom": "1960-01-01",
+          "modelYearTo": "1965-12-01"
+        },
+        {
+          "modelId": 40523,
+          "modelName": "SCOUT 80 Véhicule tout terrain à carrosserie ouverte",
+          "modelYearFrom": "1960-01-01",
+          "modelYearTo": "1965-12-01"
+        },
+        {
+          "modelId": 40524,
+          "modelName": "SCOUT 80 Standard Cab Pickup",
+          "modelYearFrom": "1960-01-01",
+          "modelYearTo": "1965-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 2460,
+      "manufacturerName": "INTERNATIONAL",
+      "groupKey": "TRAVELALL",
+      "displayName": "TRAVELALL",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 35995,
+          "modelName": "TRAVELALL Véhicule tout terrain fermé",
+          "modelYearFrom": "1974-09-01",
+          "modelYearTo": "1975-12-01"
+        }
+      ]
+    }
+  ]
+}

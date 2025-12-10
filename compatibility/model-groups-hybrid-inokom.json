@@ -1,0 +1,160 @@
+{
+  "generatedAt": "2025-12-08T18:17:45.340Z",
+  "manufacturer": "INOKOM",
+  "countGroups": 9,
+  "groups": [
+    {
+      "manufacturerId": 3677,
+      "manufacturerName": "INOKOM",
+      "groupKey": "ATOS",
+      "displayName": "ATOS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 38733,
+          "modelName": "ATOS PRIMA (A5)",
+          "modelYearFrom": "2005-05-01",
+          "modelYearTo": "2009-06-01"
+        },
+        {
+          "modelId": 40553,
+          "modelName": "ATOS (A5)",
+          "modelYearFrom": "2002-07-01",
+          "modelYearTo": "2007-06-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3677,
+      "manufacturerName": "INOKOM",
+      "groupKey": "ELANTRA",
+      "displayName": "ELANTRA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37673,
+          "modelName": "ELANTRA A trois volumes (MD)",
+          "modelYearFrom": "2011-01-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3677,
+      "manufacturerName": "INOKOM",
+      "groupKey": "GETZ",
+      "displayName": "GETZ",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10471,
+          "modelName": "GETZ (TB)",
+          "modelYearFrom": "2006-07-01",
+          "modelYearTo": "2010-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3677,
+      "manufacturerName": "INOKOM",
+      "groupKey": "HD",
+      "displayName": "HD",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10473,
+          "modelName": "HD 5000 (AD3)",
+          "modelYearFrom": "2007-03-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3677,
+      "manufacturerName": "INOKOM",
+      "groupKey": "I10",
+      "displayName": "I10",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37674,
+          "modelName": "i10 (PA)",
+          "modelYearFrom": "2009-01-01",
+          "modelYearTo": "2015-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3677,
+      "manufacturerName": "INOKOM",
+      "groupKey": "LORIMAS",
+      "displayName": "LORIMAS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10472,
+          "modelName": "LORIMAS Camion plate-forme/Châssis (AU26)",
+          "modelYearFrom": "2000-09-01",
+          "modelYearTo": null
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3677,
+      "manufacturerName": "INOKOM",
+      "groupKey": "MATRIX",
+      "displayName": "MATRIX",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 37138,
+          "modelName": "MATRIX (FC)",
+          "modelYearFrom": "2003-06-01",
+          "modelYearTo": "2010-08-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3677,
+      "manufacturerName": "INOKOM",
+      "groupKey": "PERMAS",
+      "displayName": "PERMAS",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 40671,
+          "modelName": "PERMAS Fourgon (P41E, P42E)",
+          "modelYearFrom": "1999-01-01",
+          "modelYearTo": "2003-12-01"
+        },
+        {
+          "modelId": 40672,
+          "modelName": "PERMAS Autobus/Autocar (P45E, P46E)",
+          "modelYearFrom": "1999-01-01",
+          "modelYearTo": "2003-12-01"
+        }
+      ]
+    },
+    {
+      "manufacturerId": 3677,
+      "manufacturerName": "INOKOM",
+      "groupKey": "SANTA",
+      "displayName": "SANTA",
+      "confidence": "rule",
+      "models": [
+        {
+          "modelId": 10470,
+          "modelName": "SANTA FE (CM)",
+          "modelYearFrom": "2006-09-01",
+          "modelYearTo": "2012-12-01"
+        },
+        {
+          "modelId": 40727,
+          "modelName": "SANTA FE (DM)",
+          "modelYearFrom": "2013-01-01",
+          "modelYearTo": "2017-12-01"
+        }
+      ]
+    }
+  ]
+}

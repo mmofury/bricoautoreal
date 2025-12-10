@@ -1,0 +1,69 @@
+{
+  "productName": "Moyeu, pompe à eau",
+  "searchText": "Moyeu, pompe à eau",
+  "found": true,
+  "hasMatch": true,
+  "timestamp": "2025-12-02T21:16:09.992Z",
+  "productId": 4201,
+  "arborescence": {
+    "Refroidissement": {
+      "categoryId": 100007,
+      "categoryName": "Refroidissement",
+      "level": 1,
+      "children": {
+        "Pompe à eau / joint": {
+          "categoryId": null,
+          "categoryName": "Pompe à eau / joint",
+          "level": 2,
+          "children": {
+            "Moyeu, pompe à eau": {
+              "categoryId": 100088,
+              "categoryName": "Water Pump/Gasket",
+              "level": 2,
+              "children": {
+                "Moyeu": {
+                  "categoryId": null,
+                  "categoryName": "Moyeu",
+                  "level": 4,
+                  "children": {
+                    "Moyeu, pompe à eau": {
+                      "categoryId": 102984,
+                      "categoryName": "Crankshaft Gear",
+                      "level": 3,
+                      "children": [],
+                      "productId": 4201
+                    }
+                  }
+                }
+              },
+              "productId": 4201
+            }
+          }
+        }
+      }
+    }
+  },
+  "arborescenceText": "└── Refroidissement [ID: 100007] (Niveau 1)\n    └── Pompe à eau / joint (Niveau 2)\n        └── Water Pump/Gasket [ID: 100088] (Niveau 2) → ProductId: 4201\n            └── Moyeu (Niveau 4)\n                └── Crankshaft Gear [ID: 102984] (Niveau 3) → ProductId: 4201",
+  "arborescencePaths": [
+    {
+      "path": [
+        "Refroidissement",
+        "Pompe à eau / joint",
+        "Water Pump/Gasket"
+      ],
+      "categoryIds": [
+        100007,
+        null,
+        100088
+      ],
+      "finalCategoryId": 100088,
+      "productId": 4201
+    }
+  ],
+  "productIdsInArbo": [
+    4201
+  ],
+  "matchedProductIds": [
+    4201
+  ]
+}
