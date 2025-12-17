@@ -63,6 +63,6 @@ export const config = {
      * On ignore explicitement les assets statiques (images, polices, cartes, etc.)
      * pour éviter que le middleware withRoutes ne prenne la main et renvoie un 404.
      */
-    '/((?!api|admin|_next/static|_next/image|_vercel|favicon.ico|xmlsitemap.php|sitemap.xml|robots.txt|.*\\.(?:png|jpe?g|svg|gif|webp|ico|avif|bmp|txt|xml|json|map|woff2?|ttf|otf|eot)).*)',
+    '/((?!api|admin|_next/static|_next/image|_vercel|favicon.ico|xmlsitemap.php|sitemap.xml|robots.txt|.*\\.(?:png|jpe?g|svg|gif|webp|ico|avif|bmp|txt|xml|json|map|woff2?|ttf|otf|eot|js|css)).*)',
   ],
 };

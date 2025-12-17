@@ -34,15 +34,26 @@ export function VehicleSearchBar({ locale }: VehicleSearchBarProps) {
               <style jsx>{`
                 .vehicle-finder-yellow :global(select) {
                   width: 100%;
+                  height: 48px;
+                  min-height: 48px;
+                  max-height: 48px;
                   border-radius: 0.5rem;
                   background-color: white;
-                  padding: 0.75rem 1rem;
+                  padding: 0 1rem;
                   font-size: 0.875rem;
+                  line-height: 48px;
                   color: #373737;
                   outline: 2px solid #373737;
                   outline-offset: -2px;
                   transition: all 0.2s;
                   border: none;
+                  appearance: none;
+                  -webkit-appearance: none;
+                  -moz-appearance: none;
+                  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23373737' d='M6 9L1 4h10z'/%3E%3C/svg%3E");
+                  background-repeat: no-repeat;
+                  background-position: right 1rem center;
+                  padding-right: 2.5rem;
                 }
                 .vehicle-finder-yellow :global(select:hover) {
                   background-color: #f9fafb;
@@ -53,14 +64,20 @@ export function VehicleSearchBar({ locale }: VehicleSearchBarProps) {
                 }
                 .vehicle-finder-yellow :global(button) {
                   width: 100%;
+                  height: 48px;
+                  min-height: 48px;
+                  max-height: 48px;
                   border-radius: 0.5rem;
                   background-color: #1E1E1E;
-                  padding: 0.75rem 1rem;
+                  padding: 0 1rem;
                   font-size: 0.875rem;
                   font-weight: 700;
+                  line-height: 48px;
                   color: white;
                   transition: all 0.2s;
-                  margin-top: 0.5rem;
+                  margin-top: 0;
+                  border: none;
+                  cursor: pointer;
                 }
                 .vehicle-finder-yellow :global(button:hover:not(:disabled)) {
                   background-color: #373737;
@@ -70,12 +87,27 @@ export function VehicleSearchBar({ locale }: VehicleSearchBarProps) {
                   cursor: not-allowed;
                 }
                 .vehicle-finder-yellow :global(.space-y-3) {
-                  display: flex;
-                  flex-direction: column;
+                  display: grid;
+                  grid-template-columns: repeat(3, 1fr);
                   gap: 0.75rem;
                   background: transparent;
                   padding: 0;
                   box-shadow: none;
+                  align-items: start;
+                }
+                .vehicle-finder-yellow :global(.space-y-3 > *) {
+                  height: 48px;
+                  min-height: 48px;
+                  max-height: 48px;
+                }
+                .vehicle-finder-yellow :global(.space-y-3 > button) {
+                  grid-column: 1 / -1;
+                  margin-top: 0;
+                }
+                @media (max-width: 768px) {
+                  .vehicle-finder-yellow :global(.space-y-3) {
+                    grid-template-columns: 1fr;
+                  }
                 }
               `}</style>
               <VehicleFinder locale={locale} variant="embedded" />

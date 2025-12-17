@@ -44,6 +44,12 @@ interface ProductViewedEvent {
 }
 
 export async function sendVisitStartedEvent({ initiator, request }: VisitStartedEvent) {
+  // Skip analytics in development to avoid slow page loads
+  if (process.env.NODE_ENV === 'development') {
+    console.log('[ANALYTICS] Skipping VisitStarted in dev mode');
+    return { data: { analytics: { visitStartedEvent: { executed: true } } } };
+  }
+
   const input = { commonInput: preareCommonInput(initiator, request) };
 
   return client.fetch({
@@ -58,6 +64,12 @@ export async function sendProductViewedEvent({
   initiator,
   request,
 }: ProductViewedEvent) {
+  // Skip analytics in development to avoid slow page loads
+  if (process.env.NODE_ENV === 'development') {
+    console.log('[ANALYTICS] Skipping ProductViewed in dev mode');
+    return { data: { analytics: { productViewedEvent: { executed: true } } } };
+  }
+
   const input = {
     commonInput: preareCommonInput(initiator, request),
     productInput: { productEntityId: Number(productId) },

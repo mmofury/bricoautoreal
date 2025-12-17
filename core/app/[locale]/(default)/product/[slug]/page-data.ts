@@ -9,6 +9,38 @@ import { FeaturedProductsCarouselFragment } from '~/components/featured-products
 import { ProductSchemaFragment } from './_components/product-schema/fragment';
 import { ProductViewedFragment } from './_components/product-viewed/fragment';
 
+// Query to resolve SKU to entityId
+const ProductBySkuQuery = graphql(`
+  query ProductBySkuQuery($sku: String!) {
+    site {
+      products(filters: { skus: [$sku] }, first: 1) {
+        edges {
+          node {
+            entityId
+          }
+        }
+      }
+    }
+  }
+`);
+
+export const getProductIdBySku = cache(async (sku: string): Promise<number | null> => {
+  try {
+    const { data } = await client.fetch({
+      document: ProductBySkuQuery,
+      variables: { sku },
+      fetchOptions: { next: { revalidate } },
+    });
+
+    const product = data.site.products.edges[0]?.node;
+    return product?.entityId ?? null;
+  } catch (error) {
+    console.error('Error fetching product by SKU:', error);
+    return null;
+  }
+});
+
+
 const MultipleChoiceFieldFragment = graphql(`
   fragment MultipleChoiceFieldFragment on MultipleChoiceOption {
     entityId
@@ -177,7 +209,13 @@ const ProductQuery = graphql(
           path
           brand {
             name
+            path
+            defaultImage {
+                url(width: 200)
+                altText
+            }
           }
+          mpn
           reviewSummary {
             averageRating
           }

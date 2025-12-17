@@ -1,27 +1,23 @@
 import { removeEdgesAndNodes } from '@bigcommerce/catalyst-client';
+import { Battery, Disc, Droplet } from 'lucide-react';
 import { getFormatter, getTranslations, setRequestLocale } from 'next-intl/server';
-import Link from 'next/link';
 
 import { Streamable } from '@/vibes/soul/lib/streamable';
 import { FeaturedProductCarousel } from '@/vibes/soul/sections/featured-product-carousel';
 import { FeaturedProductList } from '@/vibes/soul/sections/featured-product-list';
 import { getSessionCustomerAccessToken } from '~/auth';
-import { Subscribe } from '~/components/subscribe';
-import { HeroSlider } from '~/components/hero-slider';
-import { VehicleFinder } from '~/components/vehicle-finder';
-import { PopularCategoriesTabs } from '~/components/popular-categories-tabs';
 import { HeroBannerPromo } from '~/components/hero-banner-promo';
-import { VehicleSearchBar } from '~/components/vehicle-search-bar';
-import { TopCategories } from '~/components/top-categories';
-import { ProductCarouselHorizontal } from '~/components/product-carousel-horizontal';
-import { PromotionalCards } from '~/components/promotional-cards';
+import { NewsletterBanner } from '~/components/newsletter-banner';
+import { PromoCards } from '~/components/promo-cards';
 import { ServicesSection } from '~/components/services-section';
-import { RecyclingBanner } from '~/components/recycling-banner';
+import { Subscribe } from '~/components/subscribe';
+import { TopCategoriesSection } from '~/components/top-categories-section';
+import { VehicleSelectorBanner } from '~/components/vehicle-selector-banner';
 import { productCardTransformer } from '~/data-transformers/product-card-transformer';
 import { getPreferredCurrencyCode } from '~/lib/currency';
-import { getInterCarsLevel1WithChildren } from '~/lib/db/intercars-queries';
-import { db } from '~/lib/db';
+import { getAllInterCarsCategoriesByLevel } from '~/lib/db/intercars-queries';
 
+import { Slideshow } from './_components/slideshow';
 import { getPageData } from './page-data';
 
 interface Props {
@@ -32,35 +28,6 @@ export default async function Home({ params }: Props) {
   const { locale } = await params;
 
   setRequestLocale(locale);
-
-  const sliderImages = ['/hero-1.png', '/hero-2.png', '/hero-3.png'];
-  const popularTabs = await getInterCarsLevel1WithChildren({ limitLevel1: 8, limitLevel2: 12 });
-  
-  // Récupérer les constructeurs les plus recherchés
-  const popularManufacturers = await db.manufacturer.findMany({
-    take: 12,
-    orderBy: {
-      name: 'asc',
-    },
-    where: {
-      name: {
-        in: [
-          'RENAULT',
-          'PEUGEOT',
-          'CITROËN',
-          'VOLKSWAGEN',
-          'OPEL',
-          'FORD',
-          'FIAT',
-          'BMW',
-          'MERCEDES-BENZ',
-          'AUDI',
-          'SEAT',
-          'NISSAN',
-        ],
-      },
-    },
-  });
 
   const t = await getTranslations('Home');
   const format = await getFormatter();
@@ -88,306 +55,215 @@ export default async function Home({ params }: Props) {
     return productCardTransformer(newestProducts, format);
   });
 
-  // Données pour le Hero Banner
-  const heroBannerData = {
-    title: "It's the 12 Days of Speed Perks!",
-    subtitle: 'Celebrate the season with savings!',
-    ctaText: 'Shop Now',
-    ctaLink: '/shop-all',
-    imageUrl: '/hero-promo.jpg',
-    promoCards: [
-      {
-        icon: (
-          <svg fill="currentColor" viewBox="0 0 24 24" className="h-8 w-8">
-            <path d="M12 2L4.5 20.29l.71.71L12 18l6.79 3 .71-.71L12 2z" />
-          </svg>
-        ),
-        title: 'FREE Carquest Standard Brake Pads',
-        description:
-          'When you buy 2 Carquest rotors. Upgrade to Premium Gold for $10 OR Professional Platinum pads for $20.',
-      },
-      {
-        icon: (
-          <svg fill="currentColor" viewBox="0 0 24 24" className="h-8 w-8">
-            <path d="M12 2c-4 0-8 .5-8 4v9.5C4 17.43 5.57 19 7.5 19L6 20.5v.5h2l2-2h4l2 2h2v-.5L16.5 19c1.93 0 3.5-1.57 3.5-3.5V6c0-3.5-4-4-8-4zM7.5 17c-.83 0-1.5-.67-1.5-1.5S6.67 14 7.5 14s1.5.67 1.5 1.5S8.33 17 7.5 17zm3-6H6V6h4.5v5zm5.5 6c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zm2.5-6H13V6h5.5v5z" />
-          </svg>
-        ),
-        title: 'Auto Batteries Starting At $89.99',
-        description: 'FREE Testing & Install with purchase. No appointment needed.*',
-      },
-      {
-        icon: (
-          <svg fill="currentColor" viewBox="0 0 24 24" className="h-8 w-8">
-            <path d="M12 2c-4 0-8 .5-8 4v3.5c0 1.93 1.57 3.5 3.5 3.5H9l-2 3v2h10v-2l-2-3h1.5c1.93 0 3.5-1.57 3.5-3.5V6c0-3.5-4-4-8-4z" />
-          </svg>
-        ),
-        title: 'Save Up To $20 + FREE Oil Filter',
-        description: '5 Quarts of Synthetic Motor Oil + ANY Oil Filter for FREE',
-      },
-    ],
+  // Données pour les cartes de promotions
+  const promoCards = [
+    {
+      icon: <Disc className="h-8 w-8 text-gray-900" />,
+      title: 'Plaquettes de frein Carquest GRATUITES',
+      description:
+        "Lorsque vous achetez 2 disques Carquest. Passez à Premium Gold pour 10€ OU aux plaquettes Professional Platinum pour 20€.",
+    },
+    {
+      icon: <Battery className="h-8 w-8 text-gray-900" />,
+      title: 'Batteries auto à partir de 89,99€',
+      description:
+        "Test et installation GRATUITS avec l'achat. Aucun rendez-vous nécessaire.*",
+    },
+    {
+      icon: <Droplet className="h-8 w-8 text-gray-900" />,
+      title: "Économisez jusqu'à 20€ + Filtre à huile GRATUIT",
+      description:
+        "5 litres d'huile moteur synthétique + N'IMPORTE QUEL filtre à huile GRATUIT",
+    },
+  ];
+
+  // Récupérer les vraies catégories de niveau 1 depuis la base de données
+  const level1Categories = await getAllInterCarsCategoriesByLevel(1);
+
+  // Mapping des catégories avec leurs images spécifiques
+  const categoryImageMap: Record<string, string> = {
+    'Système de freinage': '/Gemini_Generated_Image_1snzch1snzch1snz.png',
+    'Moteur': '/Gemini_Generated_Image_73u39b73u39b73u3-removebg-preview.png',
+    'Système de direction': '/Gemini_Generated_Image_4x1qmi4x1qmi4x1q-removebg-preview.png',
+    'Filtres': '/Gemini_Generated_Image_baci77baci77baci.png',
+    "Système d'alimentation en carburant": '/Gemini_Generated_Image_envydmenvydmenvy-removebg-preview.png',
+    'Transmission': '/Gemini_Generated_Image_rvxsq2rvxsq2rvxs.png',
   };
 
-  // Données pour les catégories
-  const categoriesData = [
-    {
-      id: '1',
-      name: 'Batteries',
-      imageUrl: '/categories/batteries.jpg',
-      href: '/category/batteries',
-    },
-    {
-      id: '2',
-      name: 'Winter Maintenance',
-      imageUrl: '/categories/winter.jpg',
-      href: '/category/winter',
-    },
-    {
-      id: '3',
-      name: 'Brake Pads & Shoes',
-      imageUrl: '/categories/brake-pads.jpg',
-      href: '/category/brake-pads',
-    },
-    {
-      id: '4',
-      name: 'Rotors & Drums',
-      imageUrl: '/categories/rotors.jpg',
-      href: '/category/rotors',
-    },
-    {
-      id: '5',
-      name: 'Oil Change Bundles',
-      imageUrl: '/categories/oil-change.jpg',
-      href: '/category/oil-change',
-    },
-    {
-      id: '6',
-      name: 'Oil Filters',
-      imageUrl: '/categories/oil-filters.jpg',
-      href: '/category/oil-filters',
-    },
+  // Catégories spécifiques avec leurs images
+  const topCategoriesNames = [
+    'Système de freinage',
+    'Moteur',
+    'Système de direction',
+    'Filtres',
+    "Système d'alimentation en carburant",
+    'Transmission',
   ];
 
-  // Données pour les produits
-  const recentlyViewedProducts = [
-    {
-      id: '1',
-      name: 'Antifreeze and Coolant: 50/50 Ready-to-Use',
-      brand: 'Prestone',
-      price: '$11.99',
-      rating: 5,
-      reviewCount: 904,
-      imageUrl: '/products/antifreeze.jpg',
-      href: '/product/antifreeze',
-    },
-    {
-      id: '2',
-      name: 'Oil Filter: Ideal for Synthetic Oil',
-      brand: 'Carquest Premium',
-      price: '$9.99',
-      rating: 5,
-      reviewCount: 1337,
-      imageUrl: '/products/oil-filter.jpg',
-      href: '/product/oil-filter',
-    },
-    {
-      id: '3',
-      name: 'Upper Cylinder Lube/Fuel Treatment',
-      brand: 'Lucas Oil Products',
-      price: '$6.99',
-      rating: 5,
-      reviewCount: 725,
-      imageUrl: '/products/fuel-treatment.jpg',
-      href: '/product/fuel-treatment',
-    },
-    {
-      id: '4',
-      name: 'De-Icer -30 Deg. F Windshield Washer Fluid, 1 Gal',
-      brand: 'Rain-X',
-      price: '$7.49',
-      rating: 5,
-      reviewCount: 70,
-      imageUrl: '/products/washer-fluid.jpg',
-      href: '/product/washer-fluid',
-    },
-  ];
+  console.log('[HOME PAGE] Toutes les catégories disponibles:', level1Categories.map(c => c.labelFr || c.label));
 
-  // Données pour les cartes promotionnelles
-  const promotionalCardsData = [
-    {
-      id: '1',
-      title: '$15 Gift Card + FREE Filter',
-      description:
-        '5 Quarts of Mobil 1 Advanced Clean Motor Oil + ANY Carquest OR FRAM Oil Filter',
-      imageUrl: '/promo/mobil-oil.jpg',
-      href: '/promo/mobil-oil',
-    },
-    {
-      id: '2',
-      title: 'Save $10',
-      description:
-        'When you buy 2 Rain-X Latitude Water Repellency Front Wiper Blades. Must buy 2.',
-      imageUrl: '/promo/wiper-blades.jpg',
-      href: '/promo/wiper-blades',
-    },
-    {
-      id: '3',
-      title: '2 For $12',
-      description: 'Rain-X All Season OR De-Icer washer fluid. Must buy 2.',
-      imageUrl: '/promo/washer-fluid.jpg',
-      href: '/promo/washer-fluid',
-    },
-    {
-      id: '4',
-      title: 'Holiday Gift Ideas',
-      description: 'Save more on DIY gifts that go the distance!',
-      imageUrl: '/promo/holiday-gifts.jpg',
-      href: '/promo/holiday-gifts',
-    },
-  ];
+  const topCategories = topCategoriesNames
+    .map((name) => {
+      const category = level1Categories.find((cat) => (cat.labelFr || cat.label) === name);
+      if (!category) {
+        console.log(`[HOME PAGE] ❌ Catégorie non trouvée: "${name}"`);
+        return null;
+      }
+      const imageUrl = categoryImageMap[name];
+      if (!imageUrl) {
+        console.log(`[HOME PAGE] ❌ Image non trouvée pour: "${name}"`);
+        return null;
+      }
+      console.log(`[HOME PAGE] ✅ Catégorie trouvée: "${name}" -> image: ${imageUrl}`);
+      return {
+        name: category.labelFr || category.label,
+        imageUrl,
+        href: category.url || `/pieces-detachees/${category.id}`,
+      };
+    })
+    .filter((cat): cat is NonNullable<typeof cat> => cat !== null);
 
-  // Données pour les services
-  const servicesData = [
+  console.log('[HOME PAGE] TOP CATEGORIES finales:', topCategories.length);
+
+  // Services en bas de page
+  const services = [
     {
-      id: '1',
       icon: (
-        <svg fill="currentColor" viewBox="0 0 24 24" className="h-6 w-6">
-          <path d="M12 2L4.5 20.29l.71.71L12 18l6.79 3 .71-.71L12 2z" />
+        <svg width="49" height="49" viewBox="0 0 49 49" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M24.833 47.1689C37.2594 47.1689 47.333 37.0954 47.333 24.6689C47.333 12.2425 37.2594 2.16895 24.833 2.16895C12.4066 2.16895 2.33301 12.2425 2.33301 24.6689C2.33301 37.0954 12.4066 47.1689 24.833 47.1689Z" fill="#1E1E1E" stroke="#FFCC00" strokeWidth="3" />
+          <path d="M24.833 13.3018L15.0674 17.6427C14.1636 18.0439 13.583 18.9366 13.583 19.9254V35.919H17.333V22.169H32.333V35.919H36.083V19.9254C36.083 18.9379 35.5024 18.0439 34.5986 17.6427L24.833 13.3018ZM19.833 24.669V35.919H23.583V33.419H26.083V35.919H29.833V24.669H19.833Z" fill="white" />
         </svg>
       ),
-      title: 'Free In Store Services',
-      description:
-        'Personalized care including battery testing and installation, oil recycling, wiper installation and more!',
+      title: 'Services Gratuits\nen Magasin',
+      description: 'Assistance personnalisée incluant test et installation de batterie, recyclage d\'huile, installation d\'essuie-glaces et plus encore !',
+      href: `/${locale}/services`,
     },
     {
-      id: '2',
       icon: (
-        <svg fill="currentColor" viewBox="0 0 24 24" className="h-6 w-6">
-          <path d="M18 8h-1V6c0-2.76-2.24-5-5-5S7 3.24 7 6v2H6c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V10c0-1.1-.9-2-2-2zm-6 9c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2zm3.1-9H8.9V6c0-1.71 1.39-3.1 3.1-3.1 1.71 0 3.1 1.39 3.1 3.1v2z" />
+        <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M23.9998 46.0904C36.1726 46.0904 46.0406 36.2224 46.0406 24.0496C46.0406 11.8768 36.1726 2.00879 23.9998 2.00879C11.827 2.00879 1.95898 11.8768 1.95898 24.0496C1.95898 36.2224 11.827 46.0904 23.9998 46.0904Z" fill="#1E1E1E" stroke="#FFCC00" strokeWidth="2.93878" />
         </svg>
       ),
-      title: 'Advance Same Day',
-      description: 'Free in store or curbside pickup. Plus delivery available in select markets.',
+      title: 'Livraison\nle Jour Même',
+      description: 'Retrait gratuit en magasin ou en drive. Livraison disponible dans certaines zones.',
+      href: `/${locale}/livraison`,
     },
     {
-      id: '3',
       icon: (
-        <svg fill="currentColor" viewBox="0 0 24 24" className="h-6 w-6">
-          <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z" />
+        <svg width="48" height="49" viewBox="0 0 48 49" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M24 47.0508C36.4264 47.0508 46.5 36.9772 46.5 24.5508C46.5 12.1244 36.4264 2.05078 24 2.05078C11.5736 2.05078 1.5 12.1244 1.5 24.5508C1.5 36.9772 11.5736 47.0508 24 47.0508Z" fill="#1E1E1E" stroke="#FFCC00" strokeWidth="3" />
         </svg>
       ),
-      title: 'Speed Perks',
-      description: 'Get points for every purchase. Redeem points for rewards.',
+      title: 'Programme\nde Fidélité',
+      description: 'Gagnez des points à chaque achat. Échangez vos points contre des récompenses.',
+      href: `/${locale}/fidelite`,
     },
     {
-      id: '4',
       icon: (
-        <svg fill="currentColor" viewBox="0 0 24 24" className="h-6 w-6">
-          <path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z" />
+        <svg width="49" height="49" viewBox="0 0 49 49" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M24.833 47.0508C37.2594 47.0508 47.333 36.9772 47.333 24.5508C47.333 12.1244 37.2594 2.05078 24.833 2.05078C12.4066 2.05078 2.33301 12.1244 2.33301 24.5508C2.33301 36.9772 12.4066 47.0508 24.833 47.0508Z" fill="#1E1E1E" stroke="#FFCC00" strokeWidth="3" />
+          <path fillRule="evenodd" clipRule="evenodd" d="M14.833 22.0508C14.833 16.528 19.3102 12.0508 24.833 12.0508C30.3559 12.0508 34.833 16.528 34.833 22.0508C34.833 26.7464 32.5534 28.5833 30.4283 30.2959C29.0346 31.419 27.7073 32.4885 27.133 34.2758L26.4955 36.2008C26.3168 36.7325 25.8057 37.0801 25.2455 37.0508H24.5455C23.9853 37.0801 23.4742 36.7325 23.2955 36.2008L22.658 34.2758C22.0607 32.4938 20.7148 31.4253 19.3048 30.3058C17.1443 28.5904 14.833 26.7554 14.833 22.0508Z" fill="white" />
         </svg>
       ),
-      title: 'Now Hiring 18 Year Old Drivers',
-      description: 'Advance your future today. Become a certified fleet driver. Apply now.',
+      title: 'Recrutement\nChauffeurs',
+      description: 'Avancez votre carrière dès aujourd\'hui. Devenez chauffeur certifié. Postulez maintenant.',
+      href: `/${locale}/carrieres`,
     },
     {
-      id: '5',
       icon: (
-        <svg fill="currentColor" viewBox="0 0 24 24" className="h-6 w-6">
-          <path d="M21 3H3c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 16H3V5h18v14zM11 12H9V9h2V7H7v10h2v-3h2z" />
+        <svg width="49" height="49" viewBox="0 0 49 49" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M24.333 47.1689C36.7594 47.1689 46.833 37.0954 46.833 24.6689C46.833 12.2425 36.7594 2.16895 24.333 2.16895C11.9066 2.16895 1.83301 12.2425 1.83301 24.6689C1.83301 37.0954 11.9066 47.1689 24.333 47.1689Z" fill="#1E1E1E" stroke="#FFCC00" strokeWidth="3" />
+          <path d="M24.333 12.1691C21.8607 12.1691 19.444 12.9022 17.3884 14.2757C15.3328 15.6492 13.7306 17.6015 12.7845 19.8855C11.8384 22.1696 11.5909 24.683 12.0732 27.1077C12.5555 29.5325 13.746 31.7598 15.4942 33.5079C17.2423 35.2561 19.4696 36.4466 21.8944 36.9289C24.3191 37.4112 26.8325 37.1637 29.1166 36.2176C31.4006 35.2715 33.3529 33.6693 34.7264 31.6137C36.0999 29.5581 36.833 27.1414 36.833 24.6691C36.8398 23.0257 36.5211 21.3971 35.8954 19.8775C35.2696 18.3579 34.3491 16.9772 33.187 15.8151C32.0249 14.653 30.6442 13.7325 29.1246 13.1067C27.6049 12.481 25.9764 12.1623 24.333 12.1691Z" fill="white" />
         </svg>
       ),
-      title: 'Rebates and Sweepstakes',
-      description:
-        'Find out about rebate and sweepstake offers, submit your rebate online and more!',
+      title: 'Remises et\nConcours',
+      description: 'Découvrez nos offres de remises et concours, soumettez votre remise en ligne et plus encore !',
+      href: `/${locale}/promotions`,
     },
     {
-      id: '6',
       icon: (
-        <svg fill="currentColor" viewBox="0 0 24 24" className="h-6 w-6">
-          <path d="M19.43 12.98c.04-.32.07-.64.07-.98s-.03-.66-.07-.98l2.11-1.65c.19-.15.24-.42.12-.64l-2-3.46c-.12-.22-.39-.3-.61-.22l-2.49 1c-.52-.4-1.08-.73-1.69-.98l-.38-2.65C14.46 2.18 14.25 2 14 2h-4c-.25 0-.46.18-.49.42l-.38 2.65c-.61.25-1.17.59-1.69.98l-2.49-1c-.23-.09-.49 0-.61.22l-2 3.46c-.13.22-.07.49.12.64l2.11 1.65c-.04.32-.07.65-.07.98s.03.66.07.98l-2.11 1.65c-.19.15-.24.42-.12.64l2 3.46c.12.22.39.3.61.22l2.49-1c.52.4 1.08.73 1.69.98l.38 2.65c.03.24.24.42.49.42h4c.25 0 .46-.18.49-.42l.38-2.65c.61-.25 1.17-.59 1.69-.98l2.49 1c.23.09.49 0 .61-.22l2-3.46c.12-.22.07-.49-.12-.64l-2.11-1.65zM12 15.5c-1.93 0-3.5-1.57-3.5-3.5s1.57-3.5 3.5-3.5 3.5 1.57 3.5 3.5-1.57 3.5-3.5 3.5z" />
+        <svg width="49" height="49" viewBox="0 0 49 49" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M24.833 47.0508C37.2594 47.0508 47.333 36.9772 47.333 24.5508C47.333 12.1244 37.2594 2.05078 24.833 2.05078C12.4066 2.05078 2.33301 12.1244 2.33301 24.5508C2.33301 36.9772 12.4066 47.0508 24.833 47.0508Z" fill="#1E1E1E" stroke="#FFCC00" strokeWidth="3" />
+          <path fillRule="evenodd" clipRule="evenodd" d="M14.833 22.0508C14.833 16.528 19.3102 12.0508 24.833 12.0508C30.3559 12.0508 34.833 16.528 34.833 22.0508C34.833 26.7464 32.5534 28.5833 30.4283 30.2959C29.0346 31.419 27.7073 32.4885 27.133 34.2758L26.4955 36.2008C26.3168 36.7325 25.8057 37.0801 25.2455 37.0508H24.5455C23.9853 37.0801 23.4742 36.7325 23.2955 36.2008L22.658 34.2758C22.0607 32.4938 20.7148 31.4253 19.3048 30.3058C17.1443 28.5904 14.833 26.7554 14.833 22.0508Z" fill="white" />
         </svg>
       ),
-      title: 'Need a Certified Technician?',
-      description: 'We have approved professionals to repair any problem you have.',
+      title: 'Besoin d\'un\nTechnicien Certifié ?',
+      description: 'Nous avons des professionnels agréés pour réparer tous vos problèmes.',
+      href: `/${locale}/techniciens`,
     },
   ];
 
   return (
     <>
-      {/* Hero Banner avec Promotions */}
-      <section className="mb-10">
-        <HeroBannerPromo {...heroBannerData} />
-      </section>
+      {/* Section Hero avec fond sombre */}
+      <div className="bg-gray-900 pb-16 pt-4">
+        <div className="container mx-auto px-4">
+          {/* Hero Banner */}
+          <div className="mb-6">
+            <HeroBannerPromo
+              ctaHref="/promotions"
+              ctaLabel="Acheter maintenant"
+              images={['/hero-slide-1.png', '/hero-slide-2.png', '/hero-slide-3.png']}
+              subtitle="Célébrez la saison avec des économies !"
+              title="C'est les 12 jours de Speed Perks !"
+            />
+          </div>
 
-      {/* Barre de recherche de véhicule */}
-      <section className="mb-16">
-        <VehicleSearchBar locale={locale} />
-      </section>
-
-      {/* Top Categories */}
-      <section className="mb-16 bg-[#FBFBFB] py-12">
-        <TopCategories categories={categoriesData} />
-      </section>
-
-      {/* Recently Viewed & More */}
-      <section className="mb-16 bg-[#F2F2F2] py-12">
-        <ProductCarouselHorizontal title="RECENTLY VIEWED & MORE" products={recentlyViewedProducts} />
-      </section>
-
-      {/* Under The Hood Savings */}
-      <section className="mb-16 bg-[#FBFBFB] py-12">
-        <PromotionalCards title="UNDER THE HOOD SAVINGS" cards={promotionalCardsData} />
-      </section>
-
-      {/* Top Sellers */}
-      <section className="mb-16 bg-[#F2F2F2] py-12">
-        <ProductCarouselHorizontal title="TOP SELLERS" products={recentlyViewedProducts} />
-      </section>
-
-      {/* May We Suggest */}
-      <section className="mb-16 bg-[#FBFBFB] py-12">
-        <ProductCarouselHorizontal title="MAY WE SUGGEST" products={recentlyViewedProducts} />
-      </section>
-
-      {/* Services Section */}
-      <section className="mb-16 bg-[#F2F2F2] py-12">
-        <ServicesSection services={servicesData} />
-      </section>
-
-      {/* Recycling Banner */}
-      <section className="mb-16">
-        <RecyclingBanner />
-      </section>
-
-      {/* Disclaimer */}
-      <section className="mb-10">
-        <div className="mx-auto max-w-[1408px] px-4 text-center md:px-8">
-          <p className="text-base text-black">
-            *Restrictions apply: See coupon and promotion offer details
-          </p>
+          {/* Cartes de promotions */}
+          <PromoCards cards={promoCards} />
         </div>
-      </section>
+      </div>
 
-      <FeaturedProductList
-        cta={{ label: t('FeaturedProducts.cta'), href: '/shop-all' }}
-        description={t('FeaturedProducts.description')}
-        emptyStateSubtitle={t('FeaturedProducts.emptyStateSubtitle')}
-        emptyStateTitle={t('FeaturedProducts.emptyStateTitle')}
-        products={streamableFeaturedProducts}
-        title={t('FeaturedProducts.title')}
-      />
+      {/* Sélecteur de véhicule */}
+      <div className="container mx-auto px-4">
+        <VehicleSelectorBanner locale={locale} />
+      </div>
 
-      <FeaturedProductCarousel
-        cta={{ label: t('NewestProducts.cta'), href: '/shop-all/?sort=newest' }}
-        description={t('NewestProducts.description')}
-        emptyStateSubtitle={t('NewestProducts.emptyStateSubtitle')}
-        emptyStateTitle={t('NewestProducts.emptyStateTitle')}
-        nextLabel={t('NewestProducts.nextProducts')}
-        previousLabel={t('NewestProducts.previousProducts')}
-        products={streamableNewestProducts}
-        title={t('NewestProducts.title')}
-      />
+      {/* Section TOP CATEGORIES avec fond gris */}
+      <div className="bg-gray-100 py-12">
+        <div className="container mx-auto px-4">
+          <TopCategoriesSection categories={topCategories} locale={locale} />
+        </div>
+      </div>
 
-      <Subscribe />
+      {/* Section Services */}
+      <ServicesSection services={services} />
+
+      {/* Produits en vedette */}
+      <div className="container mx-auto px-4">
+        <FeaturedProductList
+          cta={{ label: t('FeaturedProducts.cta'), href: '/shop-all' }}
+          description={t('FeaturedProducts.description')}
+          emptyStateSubtitle={t('FeaturedProducts.emptyStateSubtitle')}
+          emptyStateTitle={t('FeaturedProducts.emptyStateTitle')}
+          products={streamableFeaturedProducts}
+          title={t('FeaturedProducts.title')}
+        />
+      </div>
+
+      {/* Nouveaux produits */}
+      <div className="container mx-auto px-4">
+        <FeaturedProductCarousel
+          cta={{ label: t('NewestProducts.cta'), href: '/shop-all/?sort=newest' }}
+          description={t('NewestProducts.description')}
+          emptyStateSubtitle={t('NewestProducts.emptyStateSubtitle')}
+          emptyStateTitle={t('NewestProducts.emptyStateTitle')}
+          nextLabel={t('NewestProducts.nextProducts')}
+          previousLabel={t('NewestProducts.previousProducts')}
+          products={streamableNewestProducts}
+          title={t('NewestProducts.title')}
+        />
+      </div>
+
+      {/* Bannière Newsletter */}
+      <div className="container mx-auto px-4 py-12">
+        <NewsletterBanner locale={locale} />
+      </div>
+
+      {/* Newsletter */}
+      <div className="container mx-auto px-4">
+        <Subscribe />
+      </div>
     </>
   );
 }

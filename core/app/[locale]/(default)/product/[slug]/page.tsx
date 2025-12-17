@@ -2,7 +2,7 @@ import { removeEdgesAndNodes } from '@bigcommerce/catalyst-client';
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { getFormatter, getTranslations, setRequestLocale } from 'next-intl/server';
-import { SearchParams } from 'nuqs/server';
+import { SearchParams } from '~/lib/nuqs-mock';
 
 import { Stream, Streamable } from '@/vibes/soul/lib/streamable';
 import { FeaturedProductCarousel } from '@/vibes/soul/sections/featured-product-carousel';
@@ -23,10 +23,15 @@ import { WishlistButtonForm } from './_components/wishlist-button/form';
 import {
   getInventorySettingsQuery,
   getProduct,
+  getProductIdBySku,
   getProductPageMetadata,
   getProductPricingAndRelatedProducts,
   getStreamableProduct,
 } from './page-data';
+import { getProductBreadcrumb } from './get-product-breadcrumb';
+import { Breadcrumbs } from '@/vibes/soul/sections/breadcrumbs';
+import { ProductVehicleSelector } from './_components/product-vehicle-selector';
+import { ProductCompatibilityAccordion } from '@/vibes/soul/sections/product-detail/product-compatibility-accordion';
 
 interface Props {
   params: Promise<{ slug: string; locale: string }>;
@@ -37,7 +42,17 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const customerAccessToken = await getSessionCustomerAccessToken();
 
-  const productId = Number(slug);
+  // Try to parse as number first (entityId)
+  let productId = Number(slug);
+
+  // If not a number, try to resolve as SKU
+  if (Number.isNaN(productId)) {
+    const resolvedId = await getProductIdBySku(slug);
+    if (!resolvedId) {
+      return notFound();
+    }
+    productId = resolvedId;
+  }
 
   const product = await getProductPageMetadata(productId, customerAccessToken);
 
@@ -54,13 +69,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     keywords: metaKeywords ? metaKeywords.split(',') : null,
     openGraph: url
       ? {
-          images: [
-            {
-              url,
-              alt,
-            },
-          ],
-        }
+        images: [
+          {
+            url,
+            alt,
+          },
+        ],
+      }
       : null,
   };
 }
@@ -75,15 +90,28 @@ export default async function Product({ params, searchParams }: Props) {
   const t = await getTranslations('Product');
   const format = await getFormatter();
 
-  const productId = Number(slug);
+  // Try to parse as number first (entityId)
+  let productId = Number(slug);
 
+  // If not a number, try to resolve as SKU
+  if (Number.isNaN(productId)) {
+    const resolvedId = await getProductIdBySku(slug);
+    if (!resolvedId) {
+      return notFound();
+    }
+    productId = resolvedId;
+  }
+
+  console.time(`[Perf] getProduct(${productId})`);
   const baseProduct = await getProduct(productId, customerAccessToken);
+  console.timeEnd(`[Perf] getProduct(${productId})`);
 
   if (!baseProduct) {
     return notFound();
   }
 
   const streamableProduct = Streamable.from(async () => {
+    const start = performance.now();
     const options = await searchParams;
 
     const optionValueIds = Object.keys(options)
@@ -101,7 +129,9 @@ export default async function Product({ params, searchParams }: Props) {
       useDefaultOptionSelections: true,
     };
 
+    console.log(`[Perf] getStreamableProduct starting`);
     const product = await getStreamableProduct(variables, customerAccessToken);
+    console.log(`[Perf] getStreamableProduct finished in ${Math.round(performance.now() - start)}ms`);
 
     if (!product) {
       return notFound();
@@ -113,6 +143,7 @@ export default async function Product({ params, searchParams }: Props) {
   const streamableProductSku = Streamable.from(async () => (await streamableProduct).sku);
 
   const streamableProductPricingAndRelatedProducts = Streamable.from(async () => {
+    const start = performance.now();
     const options = await searchParams;
 
     const optionValueIds = Object.keys(options)
@@ -133,7 +164,10 @@ export default async function Product({ params, searchParams }: Props) {
       currencyCode,
     };
 
-    return await getProductPricingAndRelatedProducts(variables, customerAccessToken);
+    console.log(`[Perf] getProductPricingAndRelatedProducts starting`);
+    const result = await getProductPricingAndRelatedProducts(variables, customerAccessToken);
+    console.log(`[Perf] getProductPricingAndRelatedProducts finished in ${Math.round(performance.now() - start)}ms`);
+    return result;
   });
 
   const streamablePrices = Streamable.from(async () => {
@@ -265,35 +299,39 @@ export default async function Product({ params, searchParams }: Props) {
     return [
       ...(specifications.length
         ? [
-            {
-              title: t('ProductDetails.Accordions.specifications'),
-              content: (
-                <div className="prose @container">
-                  <dl className="flex flex-col gap-4">
-                    {specifications.map((field, index) => (
-                      <div className="grid grid-cols-1 gap-2 @lg:grid-cols-2" key={index}>
-                        <dt>
-                          <strong>{field.name}</strong>
-                        </dt>
-                        <dd>{field.value}</dd>
-                      </div>
-                    ))}
-                  </dl>
-                </div>
-              ),
-            },
-          ]
+          {
+            title: t('ProductDetails.Accordions.specifications'),
+            content: (
+              <div className="prose @container">
+                <dl className="flex flex-col gap-4">
+                  {specifications.map((field, index) => (
+                    <div className="grid grid-cols-1 gap-2 @lg:grid-cols-2" key={index}>
+                      <dt>
+                        <strong>{field.name}</strong>
+                      </dt>
+                      <dd>{field.value}</dd>
+                    </div>
+                  ))}
+                </dl>
+              </div>
+            ),
+          },
+        ]
         : []),
       ...(product.warranty
         ? [
-            {
-              title: t('ProductDetails.Accordions.warranty'),
-              content: (
-                <div className="prose" dangerouslySetInnerHTML={{ __html: product.warranty }} />
-              ),
-            },
-          ]
+          {
+            title: t('ProductDetails.Accordions.warranty'),
+            content: (
+              <div className="prose" dangerouslySetInnerHTML={{ __html: product.warranty }} />
+            ),
+          },
+        ]
         : []),
+      {
+        title: 'Compatibilité',
+        content: <ProductCompatibilityAccordion productId={productId} />,
+      },
     ];
   });
 
@@ -337,8 +375,32 @@ export default async function Product({ params, searchParams }: Props) {
     };
   });
 
+  // Fetch breadcrumb data
+  const breadcrumbData = await getProductBreadcrumb(productId, locale);
+
+  // Add product name to breadcrumb if available
+  const breadcrumbsWithProduct = breadcrumbData.productName
+    ? [...breadcrumbData.breadcrumbs, { label: breadcrumbData.productName, href: '#' }]
+    : breadcrumbData.breadcrumbs;
+
+  const breadcrumbs = Streamable.from(async () => breadcrumbsWithProduct);
+
   return (
     <>
+      {/* Breadcrumb Navigation */}
+      <div className="bg-gray-100 py-4">
+        <div className="mx-auto w-full max-w-screen-2xl px-4">
+          <Breadcrumbs breadcrumbs={breadcrumbs} />
+        </div>
+      </div>
+
+      {/* Vehicle Selector */}
+      <div className="bg-gray-100 pb-4">
+        <div className="mx-auto w-full max-w-screen-2xl px-4">
+          <ProductVehicleSelector />
+        </div>
+      </div>
+
       <ProductAnalyticsProvider data={streamableAnalyticsData}>
         <ProductDetail
           action={addToCart}
@@ -360,16 +422,18 @@ export default async function Product({ params, searchParams }: Props) {
           product={{
             id: baseProduct.entityId.toString(),
             title: baseProduct.name,
-            description: <div dangerouslySetInnerHTML={{ __html: baseProduct.description }} />,
+            // description: <div dangerouslySetInnerHTML={{ __html: baseProduct.description }} />, // Hidden - eBay HTML format
             href: baseProduct.path,
             images: streamableImages,
             price: streamablePrices,
             subtitle: baseProduct.brand?.name,
+            mpn: baseProduct.mpn,
             rating: baseProduct.reviewSummary.averageRating,
             accordions: streameableAccordions,
             minQuantity: streamableMinQuantity,
             maxQuantity: streamableMaxQuantity,
             stockLevelMessage: streamableStockLevelMessage,
+            brandImage: baseProduct.brand?.defaultImage,
           }}
           quantityLabel={t('ProductDetails.quantity')}
           thumbnailLabel={t('ProductDetails.thumbnail')}

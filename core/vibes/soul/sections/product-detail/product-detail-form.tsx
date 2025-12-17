@@ -10,7 +10,7 @@ import {
   useInputControl,
 } from '@conform-to/react';
 import { getZodConstraint, parseWithZod } from '@conform-to/zod';
-import { createSerializer, parseAsString, useQueryStates } from 'nuqs';
+import { createSerializer, parseAsString, useQueryStates } from '~/lib/nuqs-mock';
 import { ReactNode, startTransition, useActionState, useCallback, useEffect } from 'react';
 import { useFormStatus } from 'react-dom';
 import { z } from 'zod';
@@ -64,7 +64,7 @@ export function ProductDetailForm<F extends Field>({
   action,
   fields,
   productId,
-  ctaLabel = 'Add to cart',
+  ctaLabel = 'Ajouter au panier',
   quantityLabel = 'Quantity',
   incrementLabel = 'Increase quantity',
   decrementLabel = 'Decrease quantity',
@@ -148,9 +148,9 @@ export function ProductDetailForm<F extends Field>({
   return (
     <FormProvider context={form.context}>
       <FormStateInput />
-      <form {...getFormProps(form)} action={formAction} className="py-8">
+      <form {...getFormProps(form)} action={formAction} className="py-2">
         <input name="id" type="hidden" value={productId} />
-        <div className="space-y-6">
+        <div className="space-y-2">
           {fields.map((field) => {
             return (
               <FormField
@@ -169,7 +169,7 @@ export function ProductDetailForm<F extends Field>({
               {error}
             </FormStatus>
           ))}
-          <div className="flex gap-x-3 pt-3">
+          <div className="flex gap-x-3 pt-1">
             <NumberInput
               aria-label={quantityLabel}
               decrementLabel={decrementLabel}
@@ -196,15 +196,21 @@ function SubmitButton({ children, disabled }: { children: ReactNode; disabled?: 
   const { pending } = useFormStatus();
 
   return (
-    <Button
-      className="w-auto @xl:w-56"
-      disabled={disabled}
-      loading={pending}
-      size="medium"
+    <button
+      className="w-[268px] h-[48px] bg-[#0077C7] hover:bg-[#0066B3] active:bg-[#0066B3] text-white text-[14px] font-medium rounded-md border border-[#0077C7] hover:border-[#0066B3] transition-colors disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center"
+      style={{ fontFamily: 'Inter', lineHeight: '20px' }}
+      disabled={disabled || pending}
       type="submit"
     >
-      {children}
-    </Button>
+      {pending ? (
+        <svg className="animate-spin h-5 w-5" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+          <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+          <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+        </svg>
+      ) : (
+        children
+      )}
+    </button>
   );
 }
 

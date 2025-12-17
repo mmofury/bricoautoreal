@@ -11,17 +11,17 @@ export interface ProductGalleryProps {
   className?: string;
   thumbnailLabel?: string;
   aspectRatio?:
-    | '1:1'
-    | '4:5'
-    | '5:4'
-    | '3:4'
-    | '4:3'
-    | '2:3'
-    | '3:2'
-    | '16:9'
-    | '9:16'
-    | '5:6'
-    | '6:5';
+  | '1:1'
+  | '4:5'
+  | '5:4'
+  | '3:4'
+  | '4:3'
+  | '2:3'
+  | '3:2'
+  | '16:9'
+  | '9:16'
+  | '5:6'
+  | '6:5';
   fit?: 'contain' | 'cover';
 }
 
@@ -67,9 +67,9 @@ export function ProductGallery({
   };
 
   return (
-    <div className={clsx('sticky top-4 flex flex-col gap-2 @2xl:flex-row', className)}>
+    <div className={clsx('sticky top-4 flex flex-col gap-1 bg-white p-4 rounded-xl', className)}>
       <div
-        className="w-full overflow-hidden rounded-xl @xl:rounded-2xl @2xl:order-2"
+        className="w-full overflow-hidden rounded-xl @xl:rounded-2xl"
         ref={emblaRef}
       >
         <div className="flex">
@@ -96,7 +96,6 @@ export function ProductGallery({
               <Image
                 alt={image.alt}
                 className={clsx(
-                  'bg-[var(--product-gallery-image-background,hsl(var(--contrast-100)))]',
                   {
                     contain: 'object-contain',
                     cover: 'object-cover',
@@ -111,7 +110,7 @@ export function ProductGallery({
           ))}
         </div>
       </div>
-      <div className="flex max-w-full shrink-0 flex-row gap-2 overflow-x-auto p-1 @2xl:order-1 @2xl:flex-col">
+      <div className="flex max-w-full shrink-0 flex-row gap-2 overflow-x-auto p-1">
         {images.map((image, index) => (
           <button
             aria-label={`${thumbnailLabel} ${index + 1}`}

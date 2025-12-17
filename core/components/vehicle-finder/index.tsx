@@ -70,7 +70,7 @@ export function VehicleFinder({ locale, onSelected, variant = 'default' }: Vehic
   const [manufacturerId, setManufacturerId] = useState<number | null>(null);
   const [modelId, setModelId] = useState<number | null>(null);
   const [selectedVehicle, setSelectedVehicle] = useState<Vehicle | null>(null);
-  
+
   // États de recherche
   const [manufacturerSearch, setManufacturerSearch] = useState('');
   const [modelSearch, setModelSearch] = useState('');
@@ -271,7 +271,7 @@ export function VehicleFinder({ locale, onSelected, variant = 'default' }: Vehic
 
   if (embedded) {
     return (
-      <div className="space-y-3 rounded-lg bg-[#2f363f] p-3 text-[#e8ecf1] shadow-sm">
+      <div className="space-y-3">
         {error && (
           <div className="rounded-md border border-red-300 bg-red-50 px-3 py-2 text-xs text-red-800">
             {error}
@@ -279,7 +279,7 @@ export function VehicleFinder({ locale, onSelected, variant = 'default' }: Vehic
         )}
 
         <select
-          className="w-full rounded-md border border-[#4b5563] bg-[#2f363f] px-3 py-2 text-sm text-[#e8ecf1] disabled:opacity-50"
+          className="w-full rounded-lg border-2 border-gray-900 bg-white px-3 py-2.5 text-sm font-medium text-gray-700 transition-all focus:outline-none focus:ring-2 focus:ring-gray-900 disabled:opacity-50"
           value={manufacturerId ?? ''}
           onChange={(e) => {
             setManufacturerId(e.target.value ? Number(e.target.value) : null);
@@ -288,7 +288,7 @@ export function VehicleFinder({ locale, onSelected, variant = 'default' }: Vehic
           }}
           disabled={loadingManufacturers}
         >
-          <option value="">{loadingManufacturers ? 'Chargement...' : 'Marque'}</option>
+          <option value="">{loadingManufacturers ? 'Chargement...' : 'Constructeur'}</option>
           {popularManufacturers.map((m) => (
             <option key={m.id} value={m.id}>
               {m.name}
@@ -302,7 +302,7 @@ export function VehicleFinder({ locale, onSelected, variant = 'default' }: Vehic
         </select>
 
         <select
-          className="w-full rounded-md border border-[#4b5563] bg-[#2f363f] px-3 py-2 text-sm text-[#e8ecf1] disabled:opacity-50"
+          className="w-full rounded-lg border-2 border-gray-900 bg-white px-3 py-2.5 text-sm font-medium text-gray-700 transition-all focus:outline-none focus:ring-2 focus:ring-gray-900 disabled:opacity-50"
           value={modelId ?? ''}
           onChange={(e) => {
             setModelId(e.target.value ? Number(e.target.value) : null);
@@ -328,7 +328,7 @@ export function VehicleFinder({ locale, onSelected, variant = 'default' }: Vehic
         </select>
 
         <select
-          className="w-full rounded-md border border-[#4b5563] bg-[#2f363f] px-3 py-2 text-sm text-[#e8ecf1] disabled:opacity-50"
+          className="w-full rounded-lg border-2 border-gray-900 bg-white px-3 py-2.5 text-sm font-medium text-gray-700 transition-all focus:outline-none focus:ring-2 focus:ring-gray-900 disabled:opacity-50"
           value={selectedVehicle?.vehicleId ?? ''}
           onChange={(e) => {
             const v = filteredVehicles.find((veh) => veh.vehicleId === Number(e.target.value));
@@ -336,7 +336,7 @@ export function VehicleFinder({ locale, onSelected, variant = 'default' }: Vehic
           }}
           disabled={!modelId || loadingVehicles}
         >
-          <option value="">{loadingVehicles ? 'Chargement...' : 'Version / moteur'}</option>
+          <option value="">{loadingVehicles ? 'Chargement...' : 'Version'}</option>
           {filteredVehicles.map((v) => (
             <option key={v.vehicleId} value={v.vehicleId}>
               {v.typeEngineName || `Vehicule #${v.vehicleId}`}
@@ -347,7 +347,7 @@ export function VehicleFinder({ locale, onSelected, variant = 'default' }: Vehic
         <button
           onClick={handleSubmit}
           disabled={!canSubmit}
-          className="mt-1 inline-flex w-full items-center justify-center rounded-md bg-[#f36f21] px-3 py-2 text-sm font-semibold text-white transition hover:bg-[#d85f15] disabled:cursor-not-allowed disabled:opacity-60"
+          className="w-full rounded-lg bg-gray-900 px-8 py-2.5 text-sm font-bold text-white transition-all hover:bg-gray-800 disabled:opacity-50 disabled:cursor-not-allowed"
         >
           Valider
         </button>
@@ -367,98 +367,98 @@ export function VehicleFinder({ locale, onSelected, variant = 'default' }: Vehic
         <div className="mx-auto flex h-full w-full max-w-[1220px] items-stretch">
           <div className="flex w-full flex-col justify-center gap-4 rounded-lg border border-[#e2e8f0] bg-white px-4 py-4 shadow-sm">
             <div className="flex flex-col gap-4">
-            <div className="flex items-center gap-2">
+              <div className="flex items-center gap-2">
                 <span className="flex h-6 w-6 items-center justify-center rounded-full bg-[#e2e8f0] text-[11px] font-semibold text-[#0f172a]">
-                01
-              </span>
-              <select
-                className="h-11 w-full rounded-lg border border-[#cbd5e1] bg-transparent px-3 text-sm font-medium text-[#0f172a] shadow-sm focus:outline-none focus:ring-2 focus:ring-[#0067b2] disabled:opacity-60"
-                value={manufacturerId ?? ''}
-                onChange={(e) => {
-                  setManufacturerId(e.target.value ? Number(e.target.value) : null);
-                  setModelId(null);
-                  setSelectedVehicle(null);
-                }}
-                disabled={loadingManufacturers}
-              >
-                <option value="">{loadingManufacturers ? 'Chargement...' : 'Sélectionnez la marque'}</option>
-                {popularManufacturers.map((m) => (
-                  <option key={m.id} value={m.id}>
-                    {m.name}
-                  </option>
-                ))}
-                {otherManufacturers.map((m) => (
-                  <option key={m.id} value={m.id}>
-                    {m.name}
-                  </option>
-                ))}
-              </select>
-            </div>
+                  01
+                </span>
+                <select
+                  className="h-11 w-full rounded-lg border border-[#cbd5e1] bg-transparent px-3 text-sm font-medium text-[#0f172a] shadow-sm focus:outline-none focus:ring-2 focus:ring-[#0067b2] disabled:opacity-60"
+                  value={manufacturerId ?? ''}
+                  onChange={(e) => {
+                    setManufacturerId(e.target.value ? Number(e.target.value) : null);
+                    setModelId(null);
+                    setSelectedVehicle(null);
+                  }}
+                  disabled={loadingManufacturers}
+                >
+                  <option value="">{loadingManufacturers ? 'Chargement...' : 'Sélectionnez la marque'}</option>
+                  {popularManufacturers.map((m) => (
+                    <option key={m.id} value={m.id}>
+                      {m.name}
+                    </option>
+                  ))}
+                  {otherManufacturers.map((m) => (
+                    <option key={m.id} value={m.id}>
+                      {m.name}
+                    </option>
+                  ))}
+                </select>
+              </div>
 
-            <div className="flex items-center gap-2">
-              <span className="flex h-6 w-6 items-center justify-center rounded-full bg-[#e2e8f0] text-[11px] font-semibold text-[#0f172a]">
-                02
-              </span>
-              <select
-                className="h-11 w-full rounded-lg border border-[#cbd5e1] bg-transparent px-3 text-sm font-medium text-[#0f172a] shadow-sm focus:outline-none focus:ring-2 focus:ring-[#0067b2] disabled:bg-transparent disabled:text-[#94a3b8] disabled:opacity-80"
-                value={modelId ?? ''}
-                onChange={(e) => {
-                  setModelId(e.target.value ? Number(e.target.value) : null);
-                  setSelectedVehicle(null);
-                }}
-                disabled={!manufacturerId || loadingModels}
-              >
-                <option value="">
-                  {loadingModels ? 'Chargement...' : manufacturerId ? 'Sélectionnez le modèle' : "Sélectionnez d'abord la marque"}
-                </option>
-                {filteredModelGroups.map((group) => (
-                  <optgroup key={group.id} label={group.displayName}>
-                    {group.models.map((m) => (
-                      <option key={m.modelId} value={m.modelId}>
-                        {m.modelName}
-                      </option>
-                    ))}
-                  </optgroup>
-                ))}
-                {filteredUngroupedModels.map((m) => (
-                  <option key={m.modelId} value={m.modelId}>
-                    {m.modelName}
+              <div className="flex items-center gap-2">
+                <span className="flex h-6 w-6 items-center justify-center rounded-full bg-[#e2e8f0] text-[11px] font-semibold text-[#0f172a]">
+                  02
+                </span>
+                <select
+                  className="h-11 w-full rounded-lg border border-[#cbd5e1] bg-transparent px-3 text-sm font-medium text-[#0f172a] shadow-sm focus:outline-none focus:ring-2 focus:ring-[#0067b2] disabled:bg-transparent disabled:text-[#94a3b8] disabled:opacity-80"
+                  value={modelId ?? ''}
+                  onChange={(e) => {
+                    setModelId(e.target.value ? Number(e.target.value) : null);
+                    setSelectedVehicle(null);
+                  }}
+                  disabled={!manufacturerId || loadingModels}
+                >
+                  <option value="">
+                    {loadingModels ? 'Chargement...' : manufacturerId ? 'Sélectionnez le modèle' : "Sélectionnez d'abord la marque"}
                   </option>
-                ))}
-              </select>
-            </div>
+                  {filteredModelGroups.map((group) => (
+                    <optgroup key={group.id} label={group.displayName}>
+                      {group.models.map((m) => (
+                        <option key={m.modelId} value={m.modelId}>
+                          {m.modelName}
+                        </option>
+                      ))}
+                    </optgroup>
+                  ))}
+                  {filteredUngroupedModels.map((m) => (
+                    <option key={m.modelId} value={m.modelId}>
+                      {m.modelName}
+                    </option>
+                  ))}
+                </select>
+              </div>
 
-            <div className="flex items-center gap-2">
-              <span className="flex h-6 w-6 items-center justify-center rounded-full bg-[#e2e8f0] text-[11px] font-semibold text-[#0f172a]">
-                03
-              </span>
-              <select
-                className="h-11 w-full rounded-lg border border-[#cbd5e1] bg-transparent px-3 text-sm font-medium text-[#0f172a] shadow-sm focus:outline-none focus:ring-2 focus:ring-[#0067b2] disabled:bg-transparent disabled:text-[#94a3b8] disabled:opacity-80"
-                value={selectedVehicle?.vehicleId ?? ''}
-                onChange={(e) => {
-                  const v = filteredVehicles.find((veh) => veh.vehicleId === Number(e.target.value));
-                  setSelectedVehicle(v ?? null);
-                }}
-                disabled={!modelId || loadingVehicles}
-              >
-                <option value="">
-                  {loadingVehicles ? 'Chargement...' : modelId ? 'Sélectionnez le moteur / version' : 'Sélectionnez le modèle'}
-                </option>
-                {filteredVehicles.map((v) => (
-                  <option key={v.vehicleId} value={v.vehicleId}>
-                    {v.typeEngineName || `Vehicule #${v.vehicleId}`}
+              <div className="flex items-center gap-2">
+                <span className="flex h-6 w-6 items-center justify-center rounded-full bg-[#e2e8f0] text-[11px] font-semibold text-[#0f172a]">
+                  03
+                </span>
+                <select
+                  className="h-11 w-full rounded-lg border border-[#cbd5e1] bg-transparent px-3 text-sm font-medium text-[#0f172a] shadow-sm focus:outline-none focus:ring-2 focus:ring-[#0067b2] disabled:bg-transparent disabled:text-[#94a3b8] disabled:opacity-80"
+                  value={selectedVehicle?.vehicleId ?? ''}
+                  onChange={(e) => {
+                    const v = filteredVehicles.find((veh) => veh.vehicleId === Number(e.target.value));
+                    setSelectedVehicle(v ?? null);
+                  }}
+                  disabled={!modelId || loadingVehicles}
+                >
+                  <option value="">
+                    {loadingVehicles ? 'Chargement...' : modelId ? 'Sélectionnez le moteur / version' : 'Sélectionnez le modèle'}
                   </option>
-                ))}
-              </select>
-            </div>
+                  {filteredVehicles.map((v) => (
+                    <option key={v.vehicleId} value={v.vehicleId}>
+                      {v.typeEngineName || `Vehicule #${v.vehicleId}`}
+                    </option>
+                  ))}
+                </select>
+              </div>
 
-            <button
-              onClick={handleSubmit}
-              disabled={!canSubmit}
-              className="mt-1 inline-flex h-11 items-center justify-center rounded-lg bg-[#f36f21] px-5 text-sm font-semibold text-white transition hover:bg-[#d85f15] disabled:cursor-not-allowed disabled:opacity-60"
-            >
-              Trouver des pièces auto
-            </button>
+              <button
+                onClick={handleSubmit}
+                disabled={!canSubmit}
+                className="mt-1 inline-flex h-11 items-center justify-center rounded-lg bg-[#f36f21] px-5 text-sm font-semibold text-white transition hover:bg-[#d85f15] disabled:cursor-not-allowed disabled:opacity-60"
+              >
+                Trouver des pièces auto
+              </button>
             </div>
           </div>
         </div>

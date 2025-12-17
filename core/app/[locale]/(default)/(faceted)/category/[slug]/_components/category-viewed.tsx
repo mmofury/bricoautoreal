@@ -38,7 +38,7 @@ export const CategoryViewed = ({ category, products }: Props) => {
           name: p.name,
           brand: p.brand?.name,
           price: p.prices?.price.value,
-          categories: removeEdgesAndNodes(category.breadcrumbs).map(({ name }) => name),
+          categories: removeEdgesAndNodes(category.breadcrumbs).map(({ name }: any) => name),
         };
       }),
     });

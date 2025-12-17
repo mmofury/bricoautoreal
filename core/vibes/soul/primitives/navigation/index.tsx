@@ -34,6 +34,7 @@ import { Button } from '@/vibes/soul/primitives/button';
 import { Logo } from '@/vibes/soul/primitives/logo';
 import { Price } from '@/vibes/soul/primitives/price-label';
 import { ProductCard } from '@/vibes/soul/primitives/product-card';
+import { AccountDropdown } from './account-dropdown';
 import { Link } from '~/components/link';
 import { usePathname, useRouter } from '~/i18n/routing';
 import { useSearch } from '~/lib/search';
@@ -68,21 +69,21 @@ type Action<State, Payload> = (
 
 export type SearchResult =
   | {
-      type: 'products';
+    type: 'products';
+    title: string;
+    products: Array<{
+      id: string;
       title: string;
-      products: Array<{
-        id: string;
-        title: string;
-        href: string;
-        price?: Price;
-        image?: { src: string; alt: string };
-      }>;
-    }
+      href: string;
+      price?: Price;
+      image?: { src: string; alt: string };
+    }>;
+  }
   | {
-      type: 'links';
-      title: string;
-      links: Array<{ label: string; href: string }>;
-    };
+    type: 'links';
+    title: string;
+    links: Array<{ label: string; href: string }>;
+  };
 
 type CurrencyAction = Action<SubmissionResult | null, FormData>;
 type SearchAction<S extends SearchResult> = Action<
@@ -130,6 +131,8 @@ interface Props<S extends SearchResult> {
   giftCertificatesLabel?: string;
   giftCertificatesHref: string;
   giftCertificatesEnabled?: Streamable<boolean>;
+  isLoggedIn?: Streamable<boolean>;
+  logoutAction?: () => void | Promise<void>;
 }
 
 const MobileMenuButton = forwardRef<
@@ -300,6 +303,8 @@ export const Navigation = forwardRef(function Navigation<S extends SearchResult>
     giftCertificatesLabel = 'Gift Certificates',
     giftCertificatesHref,
     giftCertificatesEnabled: streamableGiftCertificatesEnabled,
+    isLoggedIn: streamableIsLoggedIn,
+    logoutAction,
   }: Props<S>,
   ref: Ref<HTMLDivElement>,
 ) {
@@ -587,9 +592,20 @@ export const Navigation = forwardRef(function Navigation<S extends SearchResult>
             </Link>
           )}
 
-          <Link aria-label={accountLabel} className={navButtonClassName} href={accountHref}>
-            <User size={20} strokeWidth={1} />
-          </Link>
+          <Stream fallback={
+            <Link aria-label={accountLabel} className={navButtonClassName} href={accountHref}>
+              <User size={20} strokeWidth={1} />
+            </Link>
+          } value={streamableIsLoggedIn}>
+            {(isLoggedIn) => (
+              <AccountDropdown
+                accountHref={accountHref}
+                accountLabel={accountLabel}
+                isLoggedIn={isLoggedIn ?? false}
+                logoutAction={logoutAction}
+              />
+            )}
+          </Stream>
           <Link aria-label={cartLabel} className={navButtonClassName} href={cartHref}>
             <ShoppingBag size={20} strokeWidth={1} />
             <Stream

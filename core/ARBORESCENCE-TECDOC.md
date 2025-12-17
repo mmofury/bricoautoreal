@@ -119,3 +119,4 @@ WHERE tc.tecdoc_category_id = 100382
 
 
 
+

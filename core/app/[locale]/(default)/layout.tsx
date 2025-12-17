@@ -5,6 +5,11 @@ import { Footer } from '~/components/footer';
 import { Header } from '~/components/header';
 import { PromoBanner } from '~/components/promo-banner';
 
+// Force static rendering to bypass streaming issues in dev
+// Force static rendering to bypass streaming issues in dev
+// export const dynamic = 'force-static';
+// export const revalidate = false;
+
 interface Props extends PropsWithChildren {
   params: Promise<{ locale: string }>;
 }
@@ -26,4 +31,5 @@ export default async function DefaultLayout({ params, children }: Props) {
   );
 }
 
-export const experimental_ppr = true;
+// PPR causes slow page loads in dev - disabled
+// export const experimental_ppr = true;

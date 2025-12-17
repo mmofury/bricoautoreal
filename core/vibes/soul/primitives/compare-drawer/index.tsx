@@ -2,7 +2,7 @@
 
 import * as Portal from '@radix-ui/react-portal';
 import { ArrowRight, X } from 'lucide-react';
-import { useQueryState } from 'nuqs';
+import { useQueryState } from '~/lib/nuqs-mock';
 import {
   createContext,
   ReactNode,
@@ -33,7 +33,7 @@ interface CompareDrawerContext {
 export const CompareDrawerContext = createContext<CompareDrawerContext>({
   optimisticItems: [],
   // eslint-disable-next-line @typescript-eslint/no-empty-function
-  setOptimisticItems: () => {},
+  setOptimisticItems: () => { },
   maxItems: 0,
 });
 
@@ -189,8 +189,8 @@ export function CompareDrawer({
                       startTransition(async () => {
                         setOptimisticItems({ type: 'remove', item });
 
-                        await setParam((prev) => {
-                          const next = prev?.filter((v) => v !== item.id) ?? [];
+                        await setParam((prev: any) => {
+                          const next = prev?.filter((v: any) => v !== item.id) ?? [];
 
                           return next.length > 0 ? next : null;
                         });

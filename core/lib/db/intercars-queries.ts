@@ -17,17 +17,17 @@ interface NavigationChild {
 function deduplicateChildren(children: NavigationChild[]): NavigationChild[] {
   const seen = new Set<string>();
   const result: NavigationChild[] = [];
-  
+
   for (const child of children) {
     // Créer des clés pour l'ID et l'URL
     const idKey = `id:${child.id}`;
     const urlKey = child.url ? `url:${child.url}` : null;
-    
+
     // Si on a déjà vu cet ID OU cette URL, on skip
     if (seen.has(idKey) || (urlKey && seen.has(urlKey))) {
       continue;
     }
-    
+
     // Ajouter cet enfant unique
     seen.add(idKey);
     if (urlKey) {
@@ -35,7 +35,7 @@ function deduplicateChildren(children: NavigationChild[]): NavigationChild[] {
     }
     result.push(child);
   }
-  
+
   return result;
 }
 
@@ -101,7 +101,7 @@ async function filterChildrenWithProducts(
   // Construire la condition pour trouver les hiérarchies qui correspondent aux enfants
   // et qui ont des produits
   const childIds = children.map((c) => c.id);
-  
+
   const childLevel = parentLevel + 1;
   const whereClause: Prisma.InterCarsHierarchyWhereInput = {
     categories: {
@@ -109,16 +109,16 @@ async function filterChildrenWithProducts(
         products: {
           some: vehicleId
             ? {
-                product: {
-                  compatibilities: {
-                    some: {
-                      vehicle: {
-                        vehicleId,
-                      },
+              product: {
+                compatibilities: {
+                  some: {
+                    vehicle: {
+                      vehicleId,
                     },
                   },
                 },
-              }
+              },
+            }
             : {}, // Au moins un produit associé
         },
       },
@@ -235,37 +235,37 @@ export async function getInterCarsCategoryByUrl(slug: string, level: number, veh
       const allChildren = hierarchy.childrenLevel2
         ? (JSON.parse(hierarchy.childrenLevel2) as NavigationChild[])
         : [];
-      
+
       // Dédupliquer les enfants par ID et URL
       const uniqueChildren = deduplicateChildren(allChildren);
-      
+
       const childrenWithProducts = await filterChildrenWithProducts(
         uniqueChildren,
         1,
         hierarchy.level1Id,
         vehicleId
       );
-      
+
       // Pour chaque enfant de niveau 2, récupérer ses enfants de niveau 3
       const childrenWithLevel3 = await Promise.all(
         childrenWithProducts.map(async (level2Child) => {
           // Extraire le slug du niveau 2 depuis son URL
           const level2Slug = level2Child.url?.replace('/pieces-detachees/', '').replace(/-2$/, '');
           if (!level2Slug) return level2Child;
-          
+
           // Récupérer la hiérarchie pour ce niveau 2
           const level2Hierarchy = await db.interCarsHierarchy.findFirst({
             where: { level2Url: `/pieces-detachees/${level2Slug}-2` },
           });
-          
+
           if (!level2Hierarchy || !level2Hierarchy.childrenLevel3) {
             return level2Child;
           }
-          
+
           // Parser et dédupliquer les enfants de niveau 3
           const level3Children = JSON.parse(level2Hierarchy.childrenLevel3) as NavigationChild[];
           const uniqueLevel3 = deduplicateChildren(level3Children);
-          
+
           // Filtrer ceux qui ont des produits
           const level3WithProducts = await filterChildrenWithProducts(
             uniqueLevel3,
@@ -273,14 +273,14 @@ export async function getInterCarsCategoryByUrl(slug: string, level: number, veh
             level2Hierarchy.level2Id,
             vehicleId
           );
-          
+
           return {
             ...level2Child,
             children: level3WithProducts,
           };
         })
       );
-      
+
       categoryInfo = {
         id: hierarchy.level1Id,
         label: hierarchy.level1Label,
@@ -295,17 +295,17 @@ export async function getInterCarsCategoryByUrl(slug: string, level: number, veh
       const allChildren = hierarchy.childrenLevel3
         ? (JSON.parse(hierarchy.childrenLevel3) as NavigationChild[])
         : [];
-      
+
       // Dédupliquer les enfants par ID et URL
       const uniqueChildren = deduplicateChildren(allChildren);
-      
+
       const childrenWithProducts = await filterChildrenWithProducts(
         uniqueChildren,
         2,
         hierarchy.level2Id,
         vehicleId
       );
-      
+
       categoryInfo = {
         id: hierarchy.level2Id,
         label: hierarchy.level2Label,
@@ -325,17 +325,17 @@ export async function getInterCarsCategoryByUrl(slug: string, level: number, veh
       const allChildren = hierarchy.childrenLevel4
         ? (JSON.parse(hierarchy.childrenLevel4) as NavigationChild[])
         : [];
-      
+
       // Dédupliquer les enfants par ID et URL
       const uniqueChildren = deduplicateChildren(allChildren);
-      
+
       const childrenWithProducts = await filterChildrenWithProducts(
         uniqueChildren,
         3,
         hierarchy.level3Id,
         vehicleId
       );
-      
+
       categoryInfo = {
         id: hierarchy.level3Id,
         label: hierarchy.level3Label,
@@ -386,7 +386,7 @@ export async function getProductsByInterCarsCategory(
 
   // D'abord, trouver la catégorie pour obtenir l'ID du niveau
   const categoryData = await getInterCarsCategoryByUrl(slug, level);
-  
+
   if (!categoryData || !categoryData.categoryInfo) {
     return {
       products: [],
@@ -463,8 +463,9 @@ export async function getProductsByInterCarsCategory(
 /**
  * Récupère toutes les catégories uniques d'un niveau donné qui ont au moins un produit
  * Utile pour afficher la liste complète des catégories de niveau 1
+ * OPTIMISÉ: Utilise le cache Next.js et limite les résultats
  */
-export async function getAllInterCarsCategoriesByLevel(level: number) {
+export async function getAllInterCarsCategoriesByLevel(level: number, limit?: number) {
   const distinctField =
     level === 1
       ? 'level1Id'
@@ -474,9 +475,6 @@ export async function getAllInterCarsCategoriesByLevel(level: number) {
           ? 'level3Id'
           : 'level4Id';
 
-  // Construire la condition WHERE pour filtrer par niveau ET par existence de produits
-  const levelCondition: Prisma.InterCarsHierarchyWhereInput = {};
-  
   // Joindre avec InterCarsCategory et ProductInterCarsCategory pour vérifier qu'il y a des produits
   const whereClause: Prisma.InterCarsHierarchyWhereInput = {
     categories: {
@@ -489,6 +487,7 @@ export async function getAllInterCarsCategoriesByLevel(level: number) {
   };
 
   // Récupérer toutes les hiérarchies distinctes qui ont des produits
+  // OPTIMISATION: Limiter les résultats pour éviter de charger toute la table
   const hierarchies = await db.interCarsHierarchy.findMany({
     where: whereClause,
     select: {
@@ -510,6 +509,8 @@ export async function getAllInterCarsCategoriesByLevel(level: number) {
       level4Url: true,
     },
     distinct: [distinctField],
+    // OPTIMISATION: Limiter le nombre de résultats
+    take: limit || 100,
   });
 
   // Extraire les catégories selon le niveau et éliminer les doublons
@@ -585,7 +586,7 @@ export async function getAllInterCarsCategoriesByLevel(level: number) {
  */
 async function getProductImagesForLevel2Categories(level2Ids: string[]): Promise<Map<string, string | null>> {
   const imageMap = new Map<string, string | null>();
-  
+
   if (level2Ids.length === 0) {
     return imageMap;
   }
@@ -715,7 +716,7 @@ export async function getInterCarsLevel1WithChildren(options?: { limitLevel1?: n
     // Récupérer les images pour toutes les catégories level 2 en une seule requête
     const level2Ids = sortedChildren.map(c => c.id);
     const imageMap = await getProductImagesForLevel2Categories(level2Ids);
-    
+
     const childrenWithImages = sortedChildren.map(({ productCount, ...child }) => ({
       ...child,
       imageUrl: imageMap.get(child.id) || null,
@@ -781,7 +782,7 @@ export async function getInterCarsCategoriesForVehicle(vehicleId: number) {
 
   // Dédupliquer et formater
   const categoryMap = new Map<string, { id: string; label: string; labelFr: string | null; url: string | null }>();
-  
+
   for (const h of hierarchies) {
     if (h.level1Id && !categoryMap.has(h.level1Id)) {
       categoryMap.set(h.level1Id, {

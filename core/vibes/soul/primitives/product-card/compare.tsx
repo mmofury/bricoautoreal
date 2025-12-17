@@ -1,6 +1,6 @@
 'use client';
 
-import { useQueryState } from 'nuqs';
+import { useQueryState } from '~/lib/nuqs-mock';
 import { startTransition } from 'react';
 
 import { Checkbox } from '@/vibes/soul/form/checkbox';
@@ -48,11 +48,11 @@ export const Compare = function Compare({
             item: product,
           });
 
-          await setParam((prev) => {
+          await setParam((prev: any) => {
             const next =
               value === true
                 ? [...(prev ?? []), product.id]
-                : (prev ?? []).filter((v) => v !== product.id);
+                : (prev ?? []).filter((v: any) => v !== product.id);
 
             return next.length > 0 ? next : null;
           });

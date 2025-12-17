@@ -54,13 +54,13 @@ function parseInterCarsUrl(
     categorySegments = slugSegments.slice(0, slugSegments.length - 4);
 
     const [brandSlug, groupSlug, modelSlug, vehicleSlug] = vehicleSegments;
-    const matchVehicle = vehicleSlug.match(/^([0-9]+)(?:-(.+))?$/);
-    if (matchVehicle) {
+    const matchVehicle = vehicleSlug?.match(/^([0-9]+)(?:-(.+))?$/);
+    if (matchVehicle && brandSlug && groupSlug && modelSlug) {
       vehicle = {
         brandSlug,
         groupSlug,
         modelSlug,
-        vehicleId: parseInt(matchVehicle[1], 10),
+        vehicleId: parseInt(matchVehicle[1]!, 10),
         engineSlug: matchVehicle[2],
       };
     }
@@ -68,29 +68,29 @@ function parseInterCarsUrl(
 
   // Rejoindre les segments de catégorie
   const fullSlug = categorySegments.join('/');
-  
+
   // Debug
   if (process.env.NODE_ENV === 'development') {
     console.log('[InterCars] Parsing URL segments:', slugSegments);
     console.log('[InterCars] Category slug:', fullSlug);
     console.log('[InterCars] Vehicle context:', vehicle);
   }
-  
+
   // Chercher le pattern -[1-4] à la fin
   const match = fullSlug.match(/^(.+)-([1-4])$/);
-  
+
   if (!match) {
     return null;
   }
 
   const [, slug, levelStr] = match;
-  const level = parseInt(levelStr, 10);
+  const level = parseInt(levelStr!, 10);
 
   if (isNaN(level) || level < 1 || level > 4) {
     return null;
   }
 
-  return { slug, level, vehicle, supplierSlug };
+  return { slug: slug!, level, vehicle, supplierSlug };
 }
 
 export const getInterCarsPageData = cache(
@@ -148,18 +148,18 @@ export const getInterCarsPageData = cache(
 
     // Récupérer les produits avec pagination
     const offset = (page - 1) * pageSize;
-    
+
     if (process.env.NODE_ENV === 'development') {
       console.log('[InterCars] Fetching products with vehicleId:', vehicle?.vehicleId);
     }
-    
+
     const { products, totalCount } = await getProductsByInterCarsCategory(slug, level, {
       limit: pageSize,
       offset,
       vehicleId: vehicle?.vehicleId,
       supplierName,
     });
-    
+
     if (process.env.NODE_ENV === 'development') {
       console.log('[InterCars] Products found:', totalCount);
     }
@@ -174,15 +174,14 @@ export const getInterCarsPageData = cache(
       JOIN intercars_categories icc ON icc.id = pic.intercars_category_id
       JOIN intercars_hierarchy h ON h.id = icc.hierarchy_id
       WHERE p.supplier_name IS NOT NULL AND p.supplier_name != ''
-        AND ${
-          level === 1
-            ? Prisma.sql`h.level1_id = ${categoryData.categoryInfo.id}`
-            : level === 2
-              ? Prisma.sql`h.level2_id = ${categoryData.categoryInfo.id}`
-              : level === 3
-                ? Prisma.sql`h.level3_id = ${categoryData.categoryInfo.id}`
-                : Prisma.sql`h.level4_id = ${categoryData.categoryInfo.id}`
-        }
+        AND ${level === 1
+        ? Prisma.sql`h.level1_id = ${categoryData.categoryInfo.id}`
+        : level === 2
+          ? Prisma.sql`h.level2_id = ${categoryData.categoryInfo.id}`
+          : level === 3
+            ? Prisma.sql`h.level3_id = ${categoryData.categoryInfo.id}`
+            : Prisma.sql`h.level4_id = ${categoryData.categoryInfo.id}`
+      }
         ${vehicle?.vehicleId ? Prisma.sql`AND p.id IN (
             SELECT pc.product_id
             FROM product_compatibilities pc
@@ -198,14 +197,14 @@ export const getInterCarsPageData = cache(
 
     const supplierLogos = supplierNamesDistinct.length
       ? await db.$queryRaw<Array<{ supplier_name: string; filename: string | null; logo_url: string | null }>>(
-          Prisma.sql`
+        Prisma.sql`
             SELECT supplier_name, filename, logo_url
             FROM supplier_logos
             WHERE LOWER(supplier_name) IN (${Prisma.join(
-              supplierNamesDistinct.map((n) => n.toLowerCase()),
-            )})
+          supplierNamesDistinct.map((n) => n.toLowerCase()),
+        )})
           `,
-        )
+      )
       : [];
 
     const totalPages = Math.ceil(totalCount / pageSize);

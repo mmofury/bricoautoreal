@@ -194,7 +194,7 @@ export default async function Brand(props: Props) {
 
     const products = await getCompareProductsData(compareIds, customerAccessToken);
 
-    return products.map((product) => ({
+    return products.map((product: any) => ({
       id: product.entityId.toString(),
       title: product.name,
       image: product.defaultImage

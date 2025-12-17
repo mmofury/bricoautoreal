@@ -52,7 +52,7 @@ export default async function Register({ params }: Props) {
 
   const fields = transformFieldsToLayout(
     [
-      ...addressFields.map((field) => {
+      ...addressFields.map((field: any) => {
         if (!field.isBuiltIn) {
           return {
             ...field,
@@ -62,7 +62,7 @@ export default async function Register({ params }: Props) {
 
         return field;
       }),
-      ...customerFields.map((field) => {
+      ...customerFields.map((field: any) => {
         if (!field.isBuiltIn) {
           return {
             ...field,
@@ -72,10 +72,10 @@ export default async function Register({ params }: Props) {
 
         return field;
       }),
-    ].filter((field) => !CUSTOMER_FIELDS_TO_EXCLUDE.includes(field.entityId)),
+    ].filter((field: any) => !CUSTOMER_FIELDS_TO_EXCLUDE.includes(field.entityId)),
     REGISTER_CUSTOMER_FORM_LAYOUT,
   )
-    .map((field) => {
+    .map((field: any) => {
       if (Array.isArray(field)) {
         return field.map(formFieldTransformer).filter(exists);
       }
@@ -83,9 +83,9 @@ export default async function Register({ params }: Props) {
       return formFieldTransformer(field);
     })
     .filter(exists)
-    .map((field) => {
+    .map((field: any) => {
       if (Array.isArray(field)) {
-        return field.map((f) => injectCountryCodeOptions(f, countries ?? []));
+        return field.map((f: any) => injectCountryCodeOptions(f, countries ?? []));
       }
 
       return injectCountryCodeOptions(field, countries ?? []);

@@ -100,10 +100,10 @@ export default async function VehicleCompatibilityPage(props: Props) {
             {ctx.categories.map((category) => {
               const categorySlug = getCategorySlug(category.url);
               if (!categorySlug) return null;
-              
+
               const categoryUrl = `${baseCategoryUrl}/${categorySlug}-1/${brand}/${group}/${model}/${vehicleSlugForCategory}`;
               const label = category.labelFr || category.label;
-              
+
               return (
                 <a
                   key={category.id}

@@ -1,5 +1,5 @@
 import { getTranslations } from 'next-intl/server';
-import { SearchParams } from 'nuqs';
+import { SearchParams } from '~/lib/nuqs-mock';
 
 import { Streamable } from '@/vibes/soul/lib/streamable';
 

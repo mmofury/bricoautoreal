@@ -185,3 +185,4 @@ JOIN manufacturers m ON vm.manufacturer_id = m.id;
 
 
 
+

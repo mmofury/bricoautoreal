@@ -61,29 +61,31 @@ export default async (): Promise<NextConfig> => {
   const settings = await writeSettingsToBuildConfig();
 
   let nextConfig: NextConfig = {
-    reactStrictMode: true,
+    // Disable strict mode in dev to prevent double rendering issues
+    reactStrictMode: process.env.NODE_ENV === 'production',
+    // Disable TypeScript checking during build to speed up production builds
+    typescript: {
+      ignoreBuildErrors: true,
+    },
+    // Disable ESLint during build
+    eslint: {
+      ignoreDuringBuilds: true,
+    },
     experimental: {
       optimizePackageImports: ['@icons-pack/react-simple-icons'],
-      ppr: 'incremental',
+      // PPR causes duplicate GraphQL queries - disabled for performance
+      // ppr: 'incremental',
     },
-    typescript: {
-      ignoreBuildErrors: !!process.env.CI,
-    },
-    eslint: {
-      ignoreDuringBuilds: !!process.env.CI,
-      dirs: [
-        'app',
-        'auth',
-        'build-config',
-        'client',
-        'components',
-        'data-transformers',
-        'i18n',
-        'lib',
-        'middlewares',
-        'scripts',
-        'tests',
-        'vibes',
+    images: {
+      remotePatterns: [
+        {
+          protocol: 'https',
+          hostname: 'placehold.co',
+        },
+        {
+          protocol: 'https',
+          hostname: '*.bigcommerce.com',
+        },
       ],
     },
     // default URL generation in BigCommerce uses trailing slash

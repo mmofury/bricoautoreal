@@ -35,7 +35,6 @@ export function PromotionalCards({ title, cards }: PromotionalCardsProps) {
             href={card.href}
             className="group overflow-hidden rounded-lg bg-white shadow-lg transition hover:shadow-xl"
           >
-            {/* Card Image */}
             <div className="relative h-[250px] w-full overflow-hidden">
               <Image
                 src={card.imageUrl}
@@ -45,7 +44,6 @@ export function PromotionalCards({ title, cards }: PromotionalCardsProps) {
               />
             </div>
 
-            {/* Card Content */}
             <div className="p-6 text-center">
               <h3 className="mb-3 text-2xl font-bold text-[#373737]">{card.title}</h3>
               <p className="text-xl leading-relaxed text-[#373737]">{card.description}</p>

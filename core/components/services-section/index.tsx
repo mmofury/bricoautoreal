@@ -1,8 +1,10 @@
+import Link from 'next/link';
+
 interface Service {
-  id: string;
-  icon: React.ReactNode;
+  icon: JSX.Element;
   title: string;
   description: string;
+  href: string;
 }
 
 interface ServicesSectionProps {
@@ -11,29 +13,34 @@ interface ServicesSectionProps {
 
 export function ServicesSection({ services }: ServicesSectionProps) {
   return (
-    <div className="mx-auto max-w-[1408px] px-4 md:px-8">
-      <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-6">
-        {services.map((service) => (
-          <div
-            key={service.id}
-            className="rounded-t-lg border-b-4 border-[#FFCC00] bg-[#1E1E1E] p-6 shadow-lg"
+    <div className="container mx-auto overflow-hidden px-4 py-12">
+      <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-6">
+        {services.map((service, index) => (
+          <Link
+            key={index}
+            href={service.href}
+            className="group relative flex flex-col bg-[#1E1E1E] rounded-t-lg shadow-[0px_4px_8px_0px_rgba(55,55,55,0.16)] border-b-4 border-[#FFCC00] transition-transform hover:scale-105"
           >
-            {/* Icon */}
-            <div className="mb-6 flex h-12 w-12 items-center justify-center rounded-full bg-[#1E1E1E] text-white outline outline-[3px] outline-[#FFCC00]">
-              {service.icon}
+            {/* Contenu décalé vers le haut */}
+            <div className="relative -mt-6 px-4 pb-6 pt-0">
+              {/* Icône avec cercle */}
+              <div className="mb-4">
+                {service.icon}
+              </div>
+
+              {/* Titre */}
+              <h3 className="mb-3 text-xl font-bold leading-7 text-[#FFCC00]">
+                {service.title}
+              </h3>
+
+              {/* Description */}
+              <p className="text-sm font-light leading-5 text-white">
+                {service.description}
+              </p>
             </div>
-
-            {/* Title */}
-            <h3 className="mb-4 text-xl font-bold leading-tight text-[#FFCC00]">
-              {service.title}
-            </h3>
-
-            {/* Description */}
-            <p className="text-sm font-light leading-relaxed text-white">{service.description}</p>
-          </div>
+          </Link>
         ))}
       </div>
     </div>
   );
 }
-

@@ -181,3 +181,4 @@ curl "http://localhost:3000/api/products/by-article/00-216-1912L"
 
 
 
+

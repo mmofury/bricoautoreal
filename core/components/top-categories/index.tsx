@@ -20,7 +20,7 @@ export function TopCategories({ categories }: TopCategoriesProps) {
 
   const scroll = (direction: 'left' | 'right') => {
     if (scrollContainerRef.current) {
-      const scrollAmount = 236; // 220px width + 16px gap
+      const scrollAmount = 236;
       const newScrollLeft =
         scrollContainerRef.current.scrollLeft +
         (direction === 'left' ? -scrollAmount : scrollAmount);
@@ -45,7 +45,6 @@ export function TopCategories({ categories }: TopCategoriesProps) {
       </div>
 
       <div className="relative">
-        {/* Scroll Left Button */}
         <button
           onClick={() => scroll('left')}
           className="absolute left-0 top-1/2 z-10 -translate-y-1/2 rounded-full bg-white p-2 shadow-lg transition hover:bg-gray-100"
@@ -56,7 +55,6 @@ export function TopCategories({ categories }: TopCategoriesProps) {
           </svg>
         </button>
 
-        {/* Categories Container */}
         <div
           ref={scrollContainerRef}
           className="flex gap-4 overflow-x-auto pb-4 scrollbar-hide"
@@ -85,7 +83,6 @@ export function TopCategories({ categories }: TopCategoriesProps) {
           ))}
         </div>
 
-        {/* Scroll Right Button */}
         <button
           onClick={() => scroll('right')}
           className="absolute right-0 top-1/2 z-10 -translate-y-1/2 rounded-full bg-white p-2 shadow-lg transition hover:bg-gray-100"

@@ -43,12 +43,14 @@ export function Breadcrumbs({ breadcrumbs: streamableBreadcrumbs, className }: B
           <nav aria-label="breadcrumb" className={clsx(className)}>
             <ol className="flex flex-wrap items-center gap-x-1.5 text-sm @xl:text-base">
               {breadcrumbs.map(({ label, href }, index) => {
+                const formattedLabel = label.charAt(0).toUpperCase() + label.slice(1).toLowerCase();
+
                 if (index < breadcrumbs.length - 1) {
                   return (
                     <li className="inline-flex items-center gap-x-1.5" key={index}>
                       <Link className="group/underline focus:outline-none" href={href}>
                         <AnimatedUnderline className="font-[family-name:var(--breadcrumbs-font-family,var(--font-family-body))] text-[var(--breadcrumbs-primary-text,hsl(var(--foreground)))] [background:linear-gradient(0deg,var(--breadcrumbs-hover,hsl(var(--primary))),var(--breadcrumbs-hover,hsl(var(--primary))))_no-repeat_left_bottom_/_0_2px]">
-                          {label}
+                          {formattedLabel}
                         </AnimatedUnderline>
                       </Link>
                       <ChevronRight
@@ -67,7 +69,7 @@ export function Breadcrumbs({ breadcrumbs: streamableBreadcrumbs, className }: B
                     key={index}
                   >
                     <span aria-current="page" aria-disabled="true" role="link">
-                      {label}
+                      {formattedLabel}
                     </span>
                   </li>
                 );

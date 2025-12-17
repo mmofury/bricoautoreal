@@ -107,51 +107,71 @@ export function VehicleBadge({ locale }: VehicleBadgeProps) {
   };
 
   return (
-    <div className="rounded-xl bg-[#2f363f] p-3">
-      <VehicleFinder
-        locale={locale}
-        onSelected={(payload) => {
-          handleVehicleSelected();
-          handleVehicleSelectedWithHistory({
-            vehicleId: payload.vehicleId,
-            label: payload.label,
-            url: payload.url,
-            manufacturerId: payload.manufacturerId,
-            manufacturerName: payload.manufacturerName,
-            modelId: payload.modelId,
-            modelName: payload.modelName,
-            versionLabel: payload.versionLabel,
-          });
-        }}
-        variant="embedded"
-      />
+    <div className="space-y-4">
+      {/* Bloc principal avec fond jaune */}
+      <div className="rounded-lg bg-[#FFCC00] p-6">
+        <div className="mb-4">
+          <h2 className="text-xl font-bold text-[#2F3740]">Tout commence ici</h2>
+          <p className="text-sm text-gray-700">
+            Ajoutez votre véhicule pour voir les pièces compatibles
+          </p>
+        </div>
 
+        <VehicleFinder
+          locale={locale}
+          onSelected={(payload) => {
+            handleVehicleSelected();
+            handleVehicleSelectedWithHistory({
+              vehicleId: payload.vehicleId,
+              label: payload.label,
+              url: payload.url,
+              manufacturerId: payload.manufacturerId,
+              manufacturerName: payload.manufacturerName,
+              modelId: payload.modelId,
+              modelName: payload.modelName,
+              versionLabel: payload.versionLabel,
+            });
+          }}
+          variant="embedded"
+        />
+      </div>
+
+      {/* Véhicule sélectionné */}
       {vehicleContext && (
-        <div className="mt-3 flex items-center justify-between rounded-lg border border-[#3f4754] bg-[#323a44] px-3 py-2 text-sm text-white">
-          <span className="truncate">
-            Véhicule : {vehicleContext.brandSlug} {vehicleContext.groupSlug} {vehicleContext.modelSlug}
-            {vehicleContext.engineSlug ? ` – ${vehicleContext.engineSlug}` : ''}
-          </span>
-          <button
-            onClick={handleClear}
-            className="ml-3 whitespace-nowrap rounded-full bg-[#fca5a5] px-3 py-1 text-xs font-semibold text-[#1f2937] transition hover:bg-[#f87171]"
-          >
-            Réinitialiser
-          </button>
+        <div className="rounded-lg border border-gray-200 bg-white p-4 shadow-sm">
+          <div className="mb-2 text-xs font-semibold uppercase tracking-wide text-gray-500">
+            Véhicule sélectionné
+          </div>
+          <div className="flex items-center justify-between">
+            <span className="truncate text-sm font-medium text-[#2F3740]">
+              {vehicleContext.brandSlug} {vehicleContext.groupSlug} {vehicleContext.modelSlug}
+              {vehicleContext.engineSlug ? ` – ${vehicleContext.engineSlug}` : ''}
+            </span>
+            <button
+              onClick={handleClear}
+              className="ml-3 whitespace-nowrap rounded-lg bg-red-100 px-3 py-1.5 text-xs font-semibold text-red-700 transition hover:bg-red-200"
+            >
+              Réinitialiser
+            </button>
+          </div>
         </div>
       )}
 
+      {/* Historique */}
       {history.length > 0 && (
-        <div className="mt-4 space-y-2">
-          <div className="text-xs font-semibold text-[#cbd5e1]">Historique</div>
+        <div className="space-y-3">
+          <div className="text-sm font-bold text-[#2F3740]">Historique récent</div>
           <div className="flex flex-col gap-2">
             {history.map((item) => (
               <button
                 key={item.vehicleId}
                 onClick={() => router.push(item.url)}
-                className="flex items-start gap-2 rounded-xl border border-[#3f4754] bg-[#323a44] px-3 py-2 text-left text-sm font-semibold text-white transition hover:-translate-y-[1px] hover:border-[#4a5563] hover:bg-[#3a414c] hover:shadow-md w-full"
+                className="flex items-start gap-2 rounded-lg border border-gray-200 bg-white px-4 py-3 text-left text-sm font-medium text-[#2F3740] shadow-sm transition hover:border-[#FFCC00] hover:shadow-md w-full"
               >
-                <span className="text-[13px] font-semibold truncate">{item.label}</span>
+                <svg className="mt-0.5 h-4 w-4 flex-shrink-0 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                </svg>
+                <span className="truncate">{item.label}</span>
               </button>
             ))}
             <button
@@ -159,9 +179,9 @@ export function VehicleBadge({ locale }: VehicleBadgeProps) {
                 setHistory([]);
                 localStorage.removeItem(VEHICLE_HISTORY_KEY);
               }}
-              className="rounded-full bg-[#3a414c] px-3 py-1.5 text-xs font-medium text-[#fca5a5] ring-1 ring-[#4b5563] transition hover:bg-[#4a5563]"
+              className="rounded-lg bg-gray-100 px-4 py-2 text-sm font-medium text-gray-700 transition hover:bg-gray-200"
             >
-              Vider
+              Vider l'historique
             </button>
           </div>
         </div>
@@ -169,8 +189,3 @@ export function VehicleBadge({ locale }: VehicleBadgeProps) {
     </div>
   );
 }
-
-
-
-
-

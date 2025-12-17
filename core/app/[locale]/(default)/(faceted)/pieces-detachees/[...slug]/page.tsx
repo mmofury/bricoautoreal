@@ -11,6 +11,7 @@ import { Breadcrumbs } from '@/vibes/soul/sections/breadcrumbs';
 import { VehicleSelector } from '~/components/vehicle-selector';
 import { VehicleBadgeLauncher } from '~/components/vehicle-badge/launcher';
 import { VehicleCompatBanner } from '~/components/vehicle-compat-banner';
+import { VehicleSelectorBanner } from '~/components/vehicle-selector-banner';
 import { db } from '~/lib/db';
 import { preserveVehicleContextInCategoryUrl, removeVehicleContextFromUrl, type VehicleContext } from '~/lib/utils/vehicle-context';
 import { getInterCarsPageData } from './page-data';
@@ -74,11 +75,11 @@ export async function generateMetadata(props: Props): Promise<Metadata> {
 
   const title = pageData.categoryInfo.labelFr || pageData.categoryInfo.label;
   const page = searchParams.page ? parseInt(searchParams.page, 10) : 1;
-  
+
   // URL canonique (toujours pointer vers la page 1 sans pagination)
   const baseUrl = `/${locale}/pieces-detachees/${slugSegments.join('/')}`;
   const canonicalUrl = `https://bricoauto.com${baseUrl}`;
-  
+
   // URLs prev/next pour la pagination
   const prevUrl = page > 2 ? `https://bricoauto.com${baseUrl}?page=${page - 1}` : page === 2 ? canonicalUrl : undefined;
   const nextUrl = page < pageData.totalPages ? `https://bricoauto.com${baseUrl}?page=${page + 1}` : undefined;
@@ -104,13 +105,13 @@ export default async function InterCarsCategoryPage(props: Props) {
   const t = await getTranslations('Faceted');
 
   const page = searchParams.page ? parseInt(searchParams.page, 10) : 1;
-  
+
   // Debug
   if (process.env.NODE_ENV === 'development') {
     console.log('[InterCars Page] Slug segments:', slugSegments);
     console.log('[InterCars Page] Locale:', locale);
   }
-  
+
   const pageData = await getInterCarsPageData(slugSegments, page);
 
   if (!pageData.categoryInfo) {
@@ -168,17 +169,17 @@ export default async function InterCarsCategoryPage(props: Props) {
   // Construire le contexte véhicule pour les URLs
   const vehicleContext: VehicleContext | null = vehicle
     ? {
-        brandSlug: vehicle.brandSlug,
-        groupSlug: vehicle.groupSlug,
-        modelSlug: vehicle.modelSlug,
-        vehicleId: vehicle.vehicleId,
-        engineSlug: vehicle.engineSlug,
-      }
+      brandSlug: vehicle.brandSlug,
+      groupSlug: vehicle.groupSlug,
+      modelSlug: vehicle.modelSlug,
+      vehicleId: vehicle.vehicleId,
+      engineSlug: vehicle.engineSlug,
+    }
     : null;
 
   // Construire le breadcrumb
   const breadcrumbs: Array<{ label: string; href: string }> = [];
-  
+
   // Ajouter "Accueil" et "Pièces détachées"
   breadcrumbs.push({ label: 'Accueil', href: `/${locale}` });
   const piecesDetacheesUrl = `/${locale}/pieces-detachees`;
@@ -207,23 +208,25 @@ export default async function InterCarsCategoryPage(props: Props) {
   const streamableProducts = Streamable.from(async () => {
     const format = await getFormatter();
 
-    return pageData.products.map((product) => ({
-      id: product.id.toString(),
-      title: product.productName || product.articleNo,
-      href: `/${locale}/product/${product.articleNo}`,
-      image: product.images[0]
-        ? {
+    return pageData.products
+      .map((product) => ({
+        id: product.id.toString(),
+        title: product.productName || product.articleNo,
+        // Use articleNo as slug - the product page will resolve it to entityId via SKU lookup
+        href: `/${locale}/product/${product.articleNo}`,
+        image: product.images[0]
+          ? {
             src: product.images[0].imageUrl || '',
             alt: product.productName || product.articleNo,
           }
-        : undefined,
-      price: {
-        // TODO: Intégrer avec BigCommerce pour récupérer les prix réels
-        currencyCode: 'EUR',
-        value: 0,
-      },
-      subtitle: product.supplierName || undefined,
-    }));
+          : undefined,
+        price: {
+          // TODO: Intégrer avec BigCommerce pour récupérer les prix réels
+          currencyCode: 'EUR',
+          value: 0,
+        },
+        subtitle: product.supplierName || undefined,
+      }));
   });
 
   const streamableTotalCount = Streamable.from(async () => {
@@ -269,7 +272,6 @@ export default async function InterCarsCategoryPage(props: Props) {
   const breadcrumbsStream = Streamable.from(async () => breadcrumbs);
   const heroImage =
     pageData.products[0]?.images?.[0]?.imageUrl ||
-    pageData.products[0]?.images?.[0]?.image_url || // safety if snake_case
     placeholderHero;
 
   const baseCategoryUrl = preserveVehicleContextInCategoryUrl(
@@ -285,7 +287,7 @@ export default async function InterCarsCategoryPage(props: Props) {
   const altSuppliers =
     pageData.suppliersForCategory
       ?.filter((s) => s.supplier_name && s.supplier_name !== currentSupplier)
-      .slice(0, 8)
+      .slice(0, 24)
       .map((s) => {
         const logo = pageData.supplierLogos?.find(
           (l) => l.supplier_name.toLowerCase() === s.supplier_name.toLowerCase(),
@@ -317,14 +319,13 @@ export default async function InterCarsCategoryPage(props: Props) {
     JOIN vehicles v ON v.id = pvc.vehicle_id
     JOIN vehicle_models vm ON vm.id = v.model_id
     JOIN manufacturers m ON m.id = vm.manufacturer_id
-    WHERE ${
-      pageData.level === 1
-        ? Prisma.sql`h.level1_id = ${categoryInfo.id}`
-        : pageData.level === 2
-          ? Prisma.sql`h.level2_id = ${categoryInfo.id}`
-          : pageData.level === 3
-            ? Prisma.sql`h.level3_id = ${categoryInfo.id}`
-            : Prisma.sql`h.level4_id = ${categoryInfo.id}`
+    WHERE ${pageData.level === 1
+      ? Prisma.sql`h.level1_id = ${categoryInfo.id}`
+      : pageData.level === 2
+        ? Prisma.sql`h.level2_id = ${categoryInfo.id}`
+        : pageData.level === 3
+          ? Prisma.sql`h.level3_id = ${categoryInfo.id}`
+          : Prisma.sql`h.level4_id = ${categoryInfo.id}`
     }
     GROUP BY m.name
     ORDER BY product_count DESC, m.name
@@ -335,9 +336,9 @@ export default async function InterCarsCategoryPage(props: Props) {
   const uniqueManufacturers = Array.from(
     new Map(manufacturers.map(m => [m.name, m])).values()
   );
-  
-  const popularManufacturers = uniqueManufacturers.slice(0, 8);
-  const moreManufacturers = uniqueManufacturers.slice(8);
+
+  const popularManufacturers = uniqueManufacturers.slice(0, 12);
+  const moreManufacturers = uniqueManufacturers.slice(12);
 
   // Récupérer les modèles de véhicules avec le plus de produits compatibles
   const vehicleModelsRaw = await db.$queryRaw<
@@ -359,18 +360,17 @@ export default async function InterCarsCategoryPage(props: Props) {
     JOIN vehicles v ON v.id = pvc.vehicle_id
     JOIN vehicle_models vm ON vm.id = v.model_id
     JOIN manufacturers m ON m.id = vm.manufacturer_id
-    WHERE ${
-      pageData.level === 1
-        ? Prisma.sql`h.level1_id = ${categoryInfo.id}`
-        : pageData.level === 2
-          ? Prisma.sql`h.level2_id = ${categoryInfo.id}`
-          : pageData.level === 3
-            ? Prisma.sql`h.level3_id = ${categoryInfo.id}`
-            : Prisma.sql`h.level4_id = ${categoryInfo.id}`
+    WHERE ${pageData.level === 1
+      ? Prisma.sql`h.level1_id = ${categoryInfo.id}`
+      : pageData.level === 2
+        ? Prisma.sql`h.level2_id = ${categoryInfo.id}`
+        : pageData.level === 3
+          ? Prisma.sql`h.level3_id = ${categoryInfo.id}`
+          : Prisma.sql`h.level4_id = ${categoryInfo.id}`
     }
     GROUP BY m.name, vm.model_name
     ORDER BY product_count DESC, m.name, vm.model_name
-    LIMIT 12
+    LIMIT 24
   `);
 
   // Générer les slugs pour les modèles
@@ -396,451 +396,459 @@ export default async function InterCarsCategoryPage(props: Props) {
       )}
       <link rel="canonical" href={`https://bricoauto.com${baseUrlForPagination}`} />
 
+      {/* Sélecteur véhicule en bandeau */}
+      <div className="bg-gray-100 py-4">
+        <div className="container mx-auto px-4">
+          <VehicleSelectorBanner locale={locale} variant="inline" />
+        </div>
+      </div>
+
       {/* Hero / Breadcrumbs */}
-      <div className="bg-white py-6">
+      <div className="bg-gray-100 py-6">
         <div className="mx-auto w-full max-w-screen-2xl px-4">
           <Breadcrumbs breadcrumbs={breadcrumbsStream} />
-          <div className="mt-4 flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
-            <div>
-              <h1 className="text-3xl font-bold text-[#0f172a]">
-                {title}
-                {currentSupplier ? ` ${currentSupplier}` : ''}
-              </h1>
-              {currentSupplier && (
-                <div className="mt-2 inline-flex items-center gap-3 rounded-md border border-[#dfe3e8] bg-[#f8fafc] px-3 py-2 text-sm text-[#0f172a]">
-                  <span>Marque sélectionnée : {currentSupplier}</span>
-                  <Link
-                    href={baseCategoryUrl}
-                    className="text-[#0077c7] underline hover:text-[#0f172a]"
-                  >
-                    Réinitialiser la marque
-                  </Link>
-                </div>
-              )}
-              {vehicleContext && (
-                <div className="mt-3">
-                  <VehicleSelector vehicleContext={vehicleContext} />
-                </div>
-              )}
-            </div>
-            <div className="flex items-center justify-center">
-              <img
-                src={heroImage}
-                alt={title}
-                className="max-h-32 w-auto rounded-lg border border-[#e5e7eb] bg-white p-2 object-contain"
-              />
-              <div className="ml-4">
-                <VehicleBadgeLauncher variant="default" />
+
+          <div className="mt-4">
+            {currentSupplier && (
+              <div className="mt-2 inline-flex items-center gap-3 rounded-md border border-[#dfe3e8] bg-white px-3 py-2 text-sm text-gray-900">
+                <span>Marque sélectionnée : {currentSupplier}</span>
+                <Link
+                  href={baseCategoryUrl}
+                  className="text-[#0077c7] underline hover:text-gray-900"
+                >
+                  Réinitialiser la marque
+                </Link>
               </div>
-            </div>
+            )}
+            {vehicleContext && (
+              <div className="mt-3">
+                <VehicleSelector vehicleContext={vehicleContext} />
+              </div>
+            )}
           </div>
         </div>
       </div>
 
-      {/* Sélecteur véhicule complet (compact) */}
-      <div className="mx-auto w-full max-w-screen-2xl px-4">
-        <VehicleCompatBanner
-          locale={locale}
-          title="Sélectionnez votre véhicule pour vérifier la compatibilité"
-          subtitle="Choisissez marque, modèle et version pour filtrer les produits."
-        />
-      </div>
+      {/* Layout pleine largeur */}
+      <div className="bg-gray-100">
+        <div className="mx-auto w-full max-w-screen-2xl px-4 py-6">
 
-      {/* Layout spécial pour les catégories de niveau 1 */}
-      {isLevel1 && (
-        <>
-          {/* Toutes les catégories de niveau 2 avec leurs sous-catégories niveau 3 */}
-          {categoryInfo.children.length > 0 && (
-            <div className="bg-white py-8">
-              <div className="mx-auto w-full max-w-screen-2xl px-4">
-                <h2 className="text-2xl font-bold text-[#0f172a] mb-6">
-                  Toutes les catégories {title.toLowerCase()}
-                </h2>
-                <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
+          {/* CONTENU PRINCIPAL */}
+          <div className="space-y-6">
+
+            {/* TITRE DE LA CATÉGORIE */}
+            <div
+              className="rounded-lg bg-gray-100 p-6 shadow-sm"
+              style={{ clipPath: 'polygon(0 20px, 20px 0, 100% 0, 100% 100%, 0 100%)' }}
+            >
+              <h1 className="text-3xl font-bold text-gray-900">
+                {title}
+              </h1>
+              <p className="mt-2 text-sm text-gray-600">
+                Découvrez notre sélection de {title.toLowerCase()} de qualité
+              </p>
+            </div>
+
+            {/* CATÉGORIES NIVEAU 2 pour level 1 */}
+            {isLevel1 && categoryInfo.children.length > 0 && (
+              <div className="p-6">
+                <div className="mb-6">
+                  <h2 className="text-2xl font-bold text-gray-900 mb-2">
+                    Acheter et remplacer : {title} pour votre véhicule
+                  </h2>
+                  <div className="flex items-center gap-0">
+                    <div className="h-1 w-20 rounded bg-[#FFCC00]" />
+                    <div className="h-1 flex-1 rounded bg-gray-300" />
+                  </div>
+                </div>
+                <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
                   {categoryInfo.children.map((level2) => (
                     <div
                       key={level2.id}
-                      className="rounded-lg border border-[#e2e8f0] bg-white p-4"
+                      className="group relative overflow-hidden rounded-lg bg-white shadow-sm transition-all duration-300 hover:bg-[#1E1E1E] hover:shadow-xl"
+                      style={{ clipPath: 'polygon(0 20px, 20px 0, 100% 0, 100% 100%, 0 100%)' }}
                     >
-                      {/* Catégorie niveau 2 avec image */}
-                      <Link
-                        href={preserveVehicleContextInCategoryUrl(normalizeCategoryUrl(level2.url, locale), vehicleContext)}
-                        className="group mb-3 flex items-center gap-3"
-                      >
-                        {level2.imageUrl && (
-                          <img
-                            src={level2.imageUrl}
-                            alt={level2.labelFr || level2.label}
-                            className="h-12 w-12 flex-shrink-0 object-contain"
-                            loading="lazy"
-                            onError={(e) => {
-                              e.currentTarget.style.display = 'none';
-                            }}
-                          />
+
+
+                      <div className="relative p-5">
+                        {/* Catégorie niveau 2 avec image */}
+                        <Link
+                          href={preserveVehicleContextInCategoryUrl(normalizeCategoryUrl(level2.url, locale), vehicleContext)}
+                          className="mb-4 flex items-center gap-4"
+                        >
+                          {level2.imageUrl && (
+                            <div className="flex h-16 w-16 flex-shrink-0 items-center justify-center rounded-lg bg-gray-50 p-2 transition-colors group-hover:bg-white/10">
+                              <img
+                                src={level2.imageUrl}
+                                alt={level2.labelFr || level2.label}
+                                className="h-full w-full object-contain transition-all group-hover:brightness-0 group-hover:invert"
+                                loading="lazy"
+                                onError={(e) => {
+                                  e.currentTarget.style.display = 'none';
+                                }}
+                              />
+                            </div>
+                          )}
+                          <h3 className="flex-1 text-lg font-bold text-gray-900 transition-colors group-hover:text-[#FFCC00]">
+                            {level2.labelFr || level2.label}
+                          </h3>
+                        </Link>
+
+                        {/* Sous-catégories niveau 3 */}
+                        {level2.children && level2.children.length > 0 && (
+                          <div className="border-t border-gray-100 pt-3 transition-colors group-hover:border-white/20">
+                            <ul className="grid grid-cols-1 gap-2">
+                              {level2.children.slice(0, 6).map((level3) => (
+                                <li key={level3.id}>
+                                  <Link
+                                    href={preserveVehicleContextInCategoryUrl(normalizeCategoryUrl(level3.url, locale), vehicleContext)}
+                                    className="flex items-center text-sm text-gray-600 transition-colors group-hover:text-white hover:text-[#FFCC00]"
+                                  >
+                                    <span className="mr-2 text-[#FFCC00]">→</span>
+                                    {level3.labelFr || level3.label}
+                                  </Link>
+                                </li>
+                              ))}
+                              {level2.children.length > 6 && (
+                                <li className="text-sm font-medium text-gray-400 transition-colors group-hover:text-gray-500">
+                                  +{level2.children.length - 6} autres...
+                                </li>
+                              )}
+                            </ul>
+                          </div>
                         )}
-                        <h3 className="text-base font-semibold text-[#0f172a] group-hover:text-[#0077c7]">
-                          {level2.labelFr || level2.label}
-                        </h3>
-                      </Link>
-                      
-                      {/* Sous-catégories niveau 3 */}
-                      {level2.children && level2.children.length > 0 && (
-                        <ul className="space-y-1.5">
-                          {level2.children.map((level3) => (
-                            <li key={level3.id}>
-                              <Link
-                                href={preserveVehicleContextInCategoryUrl(normalizeCategoryUrl(level3.url, locale), vehicleContext)}
-                                className="text-sm text-[#475569] hover:text-[#0077c7] hover:underline"
-                              >
-                                {level3.labelFr || level3.label}
-                              </Link>
-                            </li>
-                          ))}
-                        </ul>
-                      )}
+                      </div>
                     </div>
                   ))}
                 </div>
               </div>
-            </div>
-          )}
+            )}
 
-        </>
-      )}
-
-      {/* Bloc "Quel est le prix" avec modèles populaires (pour niveau 2+) */}
-      {!isLevel1 && vehicleModels.length > 0 && (
-        <div className="bg-white py-6">
-          <div className="mx-auto w-full max-w-screen-2xl px-4">
-            <h2 className="text-xl font-semibold text-[#0f172a] mb-1">
-              Quel est le prix : {title} ? Recherchez votre modèle :
-            </h2>
-            <div className="mt-3 grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6">
-              {vehicleModels.map((model) => (
-                <Link
-                  key={`${model.manufacturer_slug}-${model.model_slug}`}
-                  href={`/${locale}/pieces-auto/${model.manufacturer_slug}/${model.model_slug}`}
-                  className="flex flex-col items-center justify-center rounded-lg border border-[#e2e8f0] bg-[#f8fafc] px-3 py-3 text-center transition hover:border-[#0077c7] hover:shadow-md"
-                >
-                  <div className="text-sm font-semibold text-[#0f172a]">
-                    {model.manufacturer_name}
+            {/* SOUS-CATÉGORIES pour level 2+ */}
+            {!isLevel1 && categoryInfo.children.length > 0 && (
+              <div className="pb-2">
+                <div className="mb-4">
+                  <h2 className="text-2xl font-bold text-gray-900 mb-2">
+                    {pageData.level === 2 ? 'Sous-catégories' : 'Catégories'}
+                  </h2>
+                  <div className="flex items-center gap-0">
+                    <div className="h-1 w-20 rounded bg-[#FFCC00]" />
+                    <div className="h-1 flex-1 rounded bg-gray-300" />
                   </div>
-                  <div className="text-xs text-[#475569] mt-0.5">
-                    {model.model_name}
-                  </div>
-                  <div className="text-xs text-[#94a3b8] mt-1">
-                    {Number(model.product_count)} produits
-                  </div>
-                </Link>
-              ))}
-            </div>
-          </div>
-        </div>
-      )}
-
-      {/* Bloc catégories niveau 3 façon AutoDoc (pour niveau 2) */}
-      {!isLevel1 && pageData.level === 2 && categoryInfo.children.length > 0 && (
-        <div className="bg-white py-6">
-          <div className="mx-auto w-full max-w-screen-2xl px-4">
-            <h2 className="text-xl font-semibold text-[#0f172a]">
-              Des prix bas pour {title.toLowerCase()} et autres pièces et accessoires
-            </h2>
-            <div className="mt-3 flex flex-wrap gap-2">
-              {categoryInfo.children.map((child) => (
-                <Link
-                  key={child.id}
-                  href={preserveVehicleContextInCategoryUrl(normalizeCategoryUrl(child.url, locale), vehicleContext)}
-                  className="rounded-full border border-[#e2e8f0] bg-[#f8fafc] px-3 py-1.5 text-sm text-[#0f172a] transition hover:border-[#0077c7] hover:text-[#0077c7]"
-                >
-                  {child.labelFr || child.label}
-                </Link>
-              ))}
-            </div>
-          </div>
-        </div>
-      )}
-
-      {/* Section "Autres produits qui pourraient vous intéresser" (pour niveau 3) */}
-      {pageData.level === 3 && categoryInfo.parent && (
-        <div className="bg-white py-6">
-          <div className="mx-auto w-full max-w-screen-2xl px-4">
-            <h2 className="text-xl font-semibold text-[#0f172a] mb-4">
-              Autres produits qui pourraient vous intéresser
-            </h2>
-            <Stream
-              value={Streamable.from(async () => {
-                // Récupérer la catégorie parent (niveau 2) avec tous ses enfants (niveau 3)
-                const parentSlug = categoryInfo.parent?.url?.replace('/pieces-detachees/', '').replace(/-2$/, '');
-                if (!parentSlug) return [];
-                
-                const parentCategory = await getInterCarsCategoryByUrl(parentSlug, 2, vehicle?.vehicleId);
-                if (!parentCategory?.categoryInfo) return [];
-                
-                // Filtrer pour exclure la catégorie actuelle
-                return parentCategory.categoryInfo.children.filter(
-                  (child) => child.id !== categoryInfo.id
-                );
-              })}
-              fallback={
-                <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
-                  {Array.from({ length: 8 }).map((_, i) => (
-                    <div key={i} className="h-24 animate-pulse rounded-lg bg-[#f1f5f9]" />
-                  ))}
                 </div>
-              }
-            >
-              {(siblings) => {
-                if (siblings.length === 0) return null;
-                
-                return (
-                  <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
-                    {siblings.map((sibling) => (
+                <div className="relative overflow-x-auto">
+                  <div className="flex gap-3 pb-2">
+                    {categoryInfo.children.map((child) => (
                       <Link
-                        key={sibling.id}
-                        href={preserveVehicleContextInCategoryUrl(normalizeCategoryUrl(sibling.url, locale), vehicleContext)}
-                        className="group flex flex-col items-center rounded-lg border border-[#e2e8f0] bg-white p-4 text-center transition hover:border-[#0077c7] hover:shadow-md"
+                        key={child.id}
+                        href={preserveVehicleContextInCategoryUrl(normalizeCategoryUrl(child.url, locale), vehicleContext)}
+                        className="group flex flex-shrink-0 items-center justify-center rounded-lg bg-white px-6 py-3 shadow-sm transition-all hover:shadow-md hover:scale-105 whitespace-nowrap"
+                        style={{ clipPath: 'polygon(0 15px, 15px 0, 100% 0, 100% 100%, 0 100%)' }}
                       >
-                        {sibling.imageUrl && (
-                          <img
-                            src={sibling.imageUrl}
-                            alt={sibling.labelFr || sibling.label}
-                            className="mb-2 h-16 w-16 object-contain"
-                            loading="lazy"
-                            onError={(e) => {
-                              e.currentTarget.style.display = 'none';
-                            }}
-                          />
-                        )}
-                        <div className="text-sm font-medium text-[#0f172a] group-hover:text-[#0077c7]">
-                          {((sibling.labelFr || sibling.label).charAt(0).toUpperCase() + (sibling.labelFr || sibling.label).slice(1))}
+                        <div className="text-sm font-bold text-gray-900 group-hover:text-[#FFCC00] transition-colors first-letter:uppercase lowercase">
+                          {child.labelFr || child.label}
                         </div>
                       </Link>
                     ))}
                   </div>
-                );
-              }}
-            </Stream>
-          </div>
-        </div>
-      )}
-
-      {/* Marques alternatives */}
-      {altSuppliers.length > 0 && (
-        <div className="bg-white py-4">
-          <div className="mx-auto w-full max-w-screen-2xl px-4">
-            <h2 className="mb-3 text-lg font-semibold text-[#0f172a]">
-              Meilleures marques pour {title.toLowerCase()} – fabricants d&apos;équipement d&apos;origine
-            </h2>
-            <div className="flex flex-wrap gap-3">
-              {altSuppliers.map((s) => (
-                <Link
-                  key={s.name}
-                  href={`/${locale}/${(categoryInfo.url || '')
-                    .replace(/^\/?fr\//i, '')
-                    .replace(/^\/+/, '')}/marque/${s.slug}`}
-                  className="flex items-center gap-2 rounded-md border border-[#e5e7eb] bg-[#f8fafc] px-3 py-2 hover:border-[#0077c7] hover:text-[#0077c7] transition"
-                >
-                  <div className="h-8 w-16 flex items-center justify-center overflow-hidden">
-                    {s.logo ? (
-                      <img
-                        src={s.logo}
-                        alt={s.name}
-                        className="max-h-8 max-w-[64px] object-contain"
-                        loading="lazy"
-                      />
-                    ) : (
-                      <span className="text-xs text-[#94a3b8]">Logo</span>
-                    )}
-                  </div>
-                  <div className="text-sm text-[#0f172a]">
-                    {s.name} ({s.productCount.toLocaleString()})
-                  </div>
-                </Link>
-              ))}
-            </div>
-          </div>
-        </div>
-      )}
-
-      {/* Marques constructeurs compatibles */}
-      {manufacturers.length > 0 && (
-        <div className="bg-white py-6">
-          <div className="mx-auto w-full max-w-screen-2xl px-4">
-            <h2 className="mb-3 text-lg font-semibold text-[#0f172a]">
-              Acheter et remplacer : {title.toLowerCase()} pour votre marque de voiture
-            </h2>
-            <div className="flex flex-wrap gap-2">
-              {popularManufacturers.map((m) => (
-                <span
-                  key={m.name}
-                  className="rounded-full border border-[#e2e8f0] bg-[#f8fafc] px-3 py-1.5 text-sm text-[#0f172a]"
-                >
-                  {m.name} ({Number(m.product_count)})
-                </span>
-              ))}
-              {moreManufacturers.length > 0 && (
-                <details className="rounded-md border border-dashed border-[#cbd5e1] px-3 py-2 text-sm text-[#0f172a]">
-                  <summary className="cursor-pointer select-none text-[#0077c7]">Plus</summary>
-                  <div className="mt-2 flex flex-wrap gap-2">
-                    {moreManufacturers.map((m) => (
-                      <span
-                        key={m.name}
-                        className="rounded-full border border-[#e2e8f0] bg-[#f8fafc] px-3 py-1.5 text-sm text-[#0f172a]"
-                      >
-                        {m.name} ({Number(m.product_count)})
-                      </span>
-                    ))}
-                  </div>
-                </details>
-              )}
-            </div>
-          </div>
-        </div>
-      )}
-
-      {/* Section produits avec carousel et pagination */}
-      <div className="bg-white py-8">
-        <div className="mx-auto w-full max-w-screen-2xl px-4">
-          <div className="mb-6 flex items-center justify-between">
-            <h2 className="text-2xl font-bold text-[#0f172a]">
-              Catalogue de pièces auto et accessoires : {title}
-            </h2>
-            <Stream value={streamableTotalCount}>
-              {(count) => (
-                <span className="text-sm text-[#475569]">{count} produits</span>
-              )}
-            </Stream>
-          </div>
-
-          <ProductCarousel
-            products={streamableProducts}
-            emptyStateTitle="Aucun produit trouvé"
-            emptyStateSubtitle="Essayez de modifier vos filtres ou de retirer le véhicule sélectionné."
-            showButtons={true}
-            showScrollbar={true}
-            placeholderCount={20}
-          />
-
-          {/* Pagination style Oscaro */}
-          <Stream value={streamablePagination}>
-            {(pagination) => {
-              if (!pagination.hasNextPage && !pagination.hasPreviousPage) return null;
-              
-              const currentPage = pageData.page;
-              const totalPages = pageData.totalPages;
-              const maxPagesToShow = 7;
-              
-              let startPage = Math.max(1, currentPage - Math.floor(maxPagesToShow / 2));
-              let endPage = Math.min(totalPages, startPage + maxPagesToShow - 1);
-              
-              if (endPage - startPage + 1 < maxPagesToShow) {
-                startPage = Math.max(1, endPage - maxPagesToShow + 1);
-              }
-              
-              const pages = Array.from(
-                { length: endPage - startPage + 1 },
-                (_, i) => startPage + i
-              );
-
-              // Construire l'URL de base pour la pagination
-              const basePaginationUrl = `/${locale}/pieces-detachees/${slugSegments.join('/')}`;
-
-              return (
-                <div className="mt-8 flex items-center justify-center gap-2">
-                  {pagination.hasPreviousPage && (
-                    <Link
-                      href={`${basePaginationUrl}?page=${currentPage - 1}`}
-                      className="rounded-md border border-[#e2e8f0] bg-white px-4 py-2 text-sm font-medium text-[#0f172a] transition hover:border-[#0077c7] hover:text-[#0077c7]"
-                    >
-                      Précédent
-                    </Link>
-                  )}
-                  
-                  {startPage > 1 && (
-                    <>
-                      <Link
-                        href={`${basePaginationUrl}?page=1`}
-                        className="rounded-md border border-[#e2e8f0] bg-white px-3 py-2 text-sm font-medium text-[#0f172a] transition hover:border-[#0077c7] hover:text-[#0077c7]"
-                      >
-                        1
-                      </Link>
-                      {startPage > 2 && (
-                        <span className="px-2 text-[#94a3b8]">...</span>
-                      )}
-                    </>
-                  )}
-                  
-                  {pages.map((pageNum) => (
-                    <Link
-                      key={pageNum}
-                      href={pageNum === 1 ? basePaginationUrl : `${basePaginationUrl}?page=${pageNum}`}
-                      className={`rounded-md border px-3 py-2 text-sm font-medium transition ${
-                        pageNum === currentPage
-                          ? 'border-[#0077c7] bg-[#0077c7] text-white'
-                          : 'border-[#e2e8f0] bg-white text-[#0f172a] hover:border-[#0077c7] hover:text-[#0077c7]'
-                      }`}
-                    >
-                      {pageNum}
-                    </Link>
-                  ))}
-                  
-                  {endPage < totalPages && (
-                    <>
-                      {endPage < totalPages - 1 && (
-                        <span className="px-2 text-[#94a3b8]">...</span>
-                      )}
-                      <Link
-                        href={`${basePaginationUrl}?page=${totalPages}`}
-                        className="rounded-md border border-[#e2e8f0] bg-white px-3 py-2 text-sm font-medium text-[#0f172a] transition hover:border-[#0077c7] hover:text-[#0077c7]"
-                      >
-                        {totalPages}
-                      </Link>
-                    </>
-                  )}
-                  
-                  {pagination.hasNextPage && (
-                    <Link
-                      href={`${basePaginationUrl}?page=${currentPage + 1}`}
-                      className="rounded-md border border-[#e2e8f0] bg-white px-4 py-2 text-sm font-medium text-[#0f172a] transition hover:border-[#0077c7] hover:text-[#0077c7]"
-                    >
-                      Suivant
-                    </Link>
-                  )}
                 </div>
-              );
-            }}
-          </Stream>
+              </div>
+            )}
+
+            {/* SECTION PRODUITS */}
+            <div className="rounded-lg bg-white p-6 shadow-sm">
+              <Stream value={streamableTotalCount}>
+                {(count) => (
+                  <h2 className="mb-6 text-2xl font-bold text-gray-900">
+                    {count} produits pour {title}
+                  </h2>
+                )}
+              </Stream>
+
+              <ProductCarousel
+                products={streamableProducts}
+                emptyStateTitle="Aucun produit trouvé"
+                emptyStateSubtitle="Essayez de modifier vos filtres ou de retirer le véhicule sélectionné."
+                showButtons={true}
+                showScrollbar={true}
+                placeholderCount={20}
+              />
+
+              {/* Pagination */}
+              <Stream value={streamablePagination}>
+                {(pagination) => {
+                  if (!pagination.hasNextPage && !pagination.hasPreviousPage) return null;
+
+                  const currentPage = pageData.page;
+                  const totalPages = pageData.totalPages;
+                  const maxPagesToShow = 7;
+
+                  let startPage = Math.max(1, currentPage - Math.floor(maxPagesToShow / 2));
+                  let endPage = Math.min(totalPages, startPage + maxPagesToShow - 1);
+
+                  if (endPage - startPage + 1 < maxPagesToShow) {
+                    startPage = Math.max(1, endPage - maxPagesToShow + 1);
+                  }
+
+                  const pages = Array.from(
+                    { length: endPage - startPage + 1 },
+                    (_, i) => startPage + i
+                  );
+
+                  const basePaginationUrl = `/${locale}/pieces-detachees/${slugSegments.join('/')}`;
+
+                  return (
+                    <div className="mt-8 flex items-center justify-center gap-2">
+                      {pagination.hasPreviousPage && (
+                        <Link
+                          href={`${basePaginationUrl}?page=${currentPage - 1}`}
+                          className="rounded-md border border-gray-300 bg-white px-4 py-2 text-sm font-medium text-[gray-900] transition hover:border-[#FFCC00] hover:text-[#FFCC00]"
+                        >
+                          Précédent
+                        </Link>
+                      )}
+
+                      {startPage > 1 && (
+                        <>
+                          <Link
+                            href={`${basePaginationUrl}?page=1`}
+                            className="rounded-md border border-gray-300 bg-white px-3 py-2 text-sm font-medium text-[gray-900] transition hover:border-[#FFCC00] hover:text-[#FFCC00]"
+                          >
+                            1
+                          </Link>
+                          {startPage > 2 && (
+                            <span className="px-2 text-gray-400">...</span>
+                          )}
+                        </>
+                      )}
+
+                      {pages.map((pageNum) => (
+                        <Link
+                          key={pageNum}
+                          href={pageNum === 1 ? basePaginationUrl : `${basePaginationUrl}?page=${pageNum}`}
+                          className={`rounded-md border px-3 py-2 text-sm font-medium transition ${pageNum === currentPage
+                            ? 'border-[#FFCC00] bg-[#FFCC00] text-[gray-900]'
+                            : 'border-gray-300 bg-white text-[gray-900] hover:border-[#FFCC00] hover:text-[#FFCC00]'
+                            }`}
+                        >
+                          {pageNum}
+                        </Link>
+                      ))}
+
+                      {endPage < totalPages && (
+                        <>
+                          {endPage < totalPages - 1 && (
+                            <span className="px-2 text-gray-400">...</span>
+                          )}
+                          <Link
+                            href={`${basePaginationUrl}?page=${totalPages}`}
+                            className="rounded-md border border-gray-300 bg-white px-3 py-2 text-sm font-medium text-[gray-900] transition hover:border-[#FFCC00] hover:text-[#FFCC00]"
+                          >
+                            {totalPages}
+                          </Link>
+                        </>
+                      )}
+
+                      {pagination.hasNextPage && (
+                        <Link
+                          href={`${basePaginationUrl}?page=${currentPage + 1}`}
+                          className="rounded-md border border-gray-300 bg-white px-4 py-2 text-sm font-medium text-[gray-900] transition hover:border-[#FFCC00] hover:text-[#FFCC00]"
+                        >
+                          Suivant
+                        </Link>
+                      )}
+                    </div>
+                  );
+                }}
+              </Stream>
+            </div>
+
+          </div>
         </div>
       </div>
 
-      {/* Bloc SEO : Contenu textuel en bas de page */}
-      {vehicleModels.length > 0 && (
-        <div className="bg-white py-8 border-t border-[#e5e7eb]">
-          <div className="mx-auto w-full max-w-screen-2xl px-4">
-            <h2 className="text-2xl font-bold text-[#0f172a] mb-2">
-              {title} de voiture : en savoir plus !
-            </h2>
-            <p className="text-base text-[#475569] mb-6">
-              Comment bien faire son choix, quand faire le changement et combien ça coûte ?
-            </p>
 
-            <h3 className="text-lg font-semibold text-[#0f172a] mb-4">
-              {title} pour des modèles de voitures populaires
-            </h3>
-            <div className="grid grid-cols-1 gap-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
-              {vehicleModels.map((model) => (
-                <Link
-                  key={`${model.manufacturer_slug}-${model.model_slug}`}
-                  href={`/${locale}/pieces-auto/${model.manufacturer_slug}/${model.model_slug}`}
-                  className="text-[#0077c7] hover:underline text-sm"
-                >
-                  {title} pour {model.manufacturer_name} {model.model_name}
-                </Link>
-              ))}
+
+      {/* Section "Autres produits qui pourraient vous intéresser" (pour niveau 3) */}
+      {
+        pageData.level === 3 && categoryInfo.parent && (
+          <div className="bg-white py-6">
+            <div className="mx-auto w-full max-w-screen-2xl px-4">
+              <h2 className="text-xl font-semibold text-[#0f172a] mb-4">
+                Autres produits qui pourraient vous intéresser
+              </h2>
+              <Stream
+                value={Streamable.from(async () => {
+                  // Récupérer la catégorie parent (niveau 2) avec tous ses enfants (niveau 3)
+                  const parentSlug = categoryInfo.parent?.url?.replace('/pieces-detachees/', '').replace(/-2$/, '');
+                  if (!parentSlug) return [];
+
+                  const parentCategory = await getInterCarsCategoryByUrl(parentSlug, 2, vehicle?.vehicleId);
+                  if (!parentCategory?.categoryInfo) return [];
+
+                  // Filtrer pour exclure la catégorie actuelle
+                  return parentCategory.categoryInfo.children.filter(
+                    (child) => child.id !== categoryInfo.id
+                  );
+                })}
+                fallback={
+                  <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
+                    {Array.from({ length: 8 }).map((_, i) => (
+                      <div key={i} className="h-24 animate-pulse rounded-lg bg-[#f1f5f9]" />
+                    ))}
+                  </div>
+                }
+              >
+                {(siblings) => {
+                  if (siblings.length === 0) return null;
+
+                  return (
+                    <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
+                      {siblings.map((sibling) => (
+                        <Link
+                          key={sibling.id}
+                          href={preserveVehicleContextInCategoryUrl(normalizeCategoryUrl(sibling.url, locale), vehicleContext)}
+                          className="group flex flex-col items-center rounded-lg border border-[#e2e8f0] bg-white p-4 text-center transition hover:border-[#0077c7] hover:shadow-md"
+                        >
+                          {sibling.imageUrl && (
+                            <img
+                              src={sibling.imageUrl}
+                              alt={sibling.labelFr || sibling.label}
+                              className="mb-2 h-16 w-16 object-contain"
+                              loading="lazy"
+                              onError={(e) => {
+                                e.currentTarget.style.display = 'none';
+                              }}
+                            />
+                          )}
+                          <div className="text-sm font-medium text-[#0f172a] group-hover:text-[#0077c7]">
+                            {((sibling.labelFr || sibling.label).charAt(0).toUpperCase() + (sibling.labelFr || sibling.label).slice(1))}
+                          </div>
+                        </Link>
+                      ))}
+                    </div>
+                  );
+                }}
+              </Stream>
             </div>
           </div>
-        </div>
-      )}
+        )
+      }
+
+      {/* Marques alternatives */}
+      {
+        altSuppliers.length > 0 && (
+          <div className="bg-gray-100 py-6">
+            <div className="mx-auto w-full max-w-screen-2xl px-4">
+              <div className="mb-4">
+                <h2 className="text-2xl font-bold text-[gray-900] mb-2">
+                  Meilleures marques : {title.charAt(0).toUpperCase() + title.slice(1).toLowerCase()}
+                </h2>
+                <div className="flex items-center gap-0">
+                  <div className="h-1 w-20 rounded bg-[#FFCC00]" />
+                  <div className="h-1 flex-1 rounded bg-gray-300" />
+                </div>
+              </div>
+              <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6">
+                {altSuppliers.map((s) => (
+                  <Link
+                    key={s.name}
+                    href={`/${locale}/${(categoryInfo.url || '')
+                      .replace(/^\/?fr\//i, '')
+                      .replace(/^\/+/, '')}/marque/${s.slug}`}
+                    className="group flex flex-col items-center justify-center rounded-lg bg-white p-3 shadow-sm transition-all hover:shadow-md hover:scale-105"
+                    style={{ clipPath: 'polygon(0 15px, 15px 0, 100% 0, 100% 100%, 0 100%)' }}
+                  >
+                    <div className="h-12 w-full flex items-center justify-center overflow-hidden mb-2">
+                      {s.logo ? (
+                        <img
+                          src={s.logo}
+                          alt={s.name}
+                          className="max-h-12 max-w-full object-contain"
+                          loading="lazy"
+                        />
+                      ) : (
+                        <span className="text-sm font-bold text-[gray-900] group-hover:text-[#FFCC00] transition-colors text-center">
+                          {s.name}
+                        </span>
+                      )}
+                    </div>
+
+                  </Link>
+                ))}
+              </div>
+            </div>
+          </div>
+        )
+      }
+
+      {/* Marques constructeurs compatibles */}
+      {
+        manufacturers.length > 0 && (
+          <div className="bg-gray-100 py-6">
+            <div className="mx-auto w-full max-w-screen-2xl px-4">
+              <div className="mb-4">
+                <h2 className="text-2xl font-bold text-gray-900 mb-2">
+                  Marques de véhicules populaires
+                </h2>
+                <div className="flex items-center gap-0">
+                  <div className="h-1 w-20 rounded bg-[#FFCC00]" />
+                  <div className="h-1 flex-1 rounded bg-gray-300" />
+                </div>
+              </div>
+
+              <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6">
+                {popularManufacturers.slice(0, 12).map((m) => (
+                  <Link
+                    key={m.name}
+                    href={`${normalizeCategoryUrl(categoryInfo.url, locale)}/${slugify(m.name)}`}
+                    className="flex items-center justify-center rounded-lg border border-gray-200 bg-white px-4 py-4 text-center transition-all hover:border-[#FFCC00] hover:shadow-md"
+                  >
+                    <span className="text-sm font-medium text-gray-900">
+                      {m.name}
+                    </span>
+                  </Link>
+                ))}
+              </div>
+
+
+            </div>
+          </div>
+        )
+      }
+
+
+
+      {/* Bloc SEO : Contenu textuel en bas de page */}
+      {
+        vehicleModels.length > 0 && (
+          <div className="bg-white py-8 border-t border-[#e5e7eb]">
+            <div className="mx-auto w-full max-w-screen-2xl px-4">
+              <h2 className="text-2xl font-bold text-[#0f172a] mb-2">
+                {title} de voiture : en savoir plus !
+              </h2>
+              <p className="text-base text-[#475569] mb-6">
+                Comment bien faire son choix, quand faire le changement et combien ça coûte ?
+              </p>
+
+              <h3 className="text-lg font-semibold text-[#0f172a] mb-4">
+                {title} pour des modèles de voitures populaires
+              </h3>
+              <div className="grid grid-cols-1 gap-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
+                {vehicleModels.map((model) => (
+                  <Link
+                    key={`${model.manufacturer_slug}-${model.model_slug}`}
+                    href={`/${locale}/pieces-auto/${model.manufacturer_slug}/${model.model_slug}`}
+                    className="text-[#0077c7] hover:underline text-sm"
+                  >
+                    {title} pour {model.manufacturer_name} {model.model_name}
+                  </Link>
+                ))}
+              </div>
+            </div>
+          </div>
+        )
+      }
     </>
   );
 }

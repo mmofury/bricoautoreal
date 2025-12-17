@@ -8,6 +8,21 @@ import * as Skeleton from '@/vibes/soul/primitives/skeleton';
 import { type Breadcrumb, Breadcrumbs } from '@/vibes/soul/sections/breadcrumbs';
 import { ProductGallery } from '@/vibes/soul/sections/product-detail/product-gallery';
 
+import { CouponApplyButton } from './coupon-apply-button';
+import { CompatibilityPreview } from './compatibility-preview';
+import { ProductCompatibilityAccordion } from './product-compatibility-accordion';
+import { ProductSpecifications } from './product-specifications';
+import { ProductBadges } from './product-badges';
+import { CompatibilityAlert } from './compatibility-alert';
+import { ShippingInfo } from './shipping-info';
+import { USPCards } from './usp-cards';
+import { QuickSpecsContainer } from './quick-specs-container';
+import { OEMNumbersSection } from './oem-numbers-section';
+import { RelatedProductsSection } from './related-products-section';
+import { ProductQuestionForm } from './product-question-form';
+import { CompatibilityBrandsList } from './compatibility-brands-list';
+import { BrandLogo } from './brand-logo';
+import { CompatibilitySectionTitle } from './compatibility-section-title';
 import { ProductDetailForm, ProductDetailFormAction } from './product-detail-form';
 import { Field } from './schema';
 
@@ -18,6 +33,7 @@ interface ProductDetailProduct {
   images: Streamable<Array<{ src: string; alt: string }>>;
   price?: Streamable<Price | null>;
   subtitle?: string;
+  mpn?: string;
   badge?: string;
   rating?: Streamable<number | null>;
   summary?: Streamable<string>;
@@ -31,6 +47,7 @@ interface ProductDetailProduct {
   minQuantity?: Streamable<number | null>;
   maxQuantity?: Streamable<number | null>;
   stockLevelMessage?: Streamable<string | null>;
+  brandImage?: { url: string; altText: string | null } | null;
 }
 
 export interface ProductDetailProps<F extends Field> {
@@ -82,7 +99,7 @@ export function ProductDetail<F extends Field>({
   additionalActions,
 }: ProductDetailProps<F>) {
   return (
-    <section className="@container">
+    <section className="@container" style={{ backgroundColor: '#F8F9F9' }}>
       <div className="group/product-detail mx-auto w-full max-w-screen-2xl px-4 py-10 @xl:px-6 @xl:py-14 @4xl:px-8 @4xl:py-20">
         {breadcrumbs && (
           <div className="group/breadcrumbs mb-6">
@@ -92,129 +109,204 @@ export function ProductDetail<F extends Field>({
         <Stream fallback={<ProductDetailSkeleton />} value={streamableProduct}>
           {(product) =>
             product && (
-              <div className="grid grid-cols-1 items-stretch gap-x-8 gap-y-8 @2xl:grid-cols-2 @5xl:gap-x-12">
-                <div className="group/product-gallery hidden @2xl:block">
-                  <Stream fallback={<ProductGallerySkeleton />} value={product.images}>
-                    {(images) => <ProductGallery images={images} />}
-                  </Stream>
-                </div>
-                {/* Product Details */}
-                <div className="text-[var(--product-detail-primary-text,hsl(var(--foreground)))]">
-                  {Boolean(product.subtitle) && (
-                    <p className="font-[family-name:var(--product-detail-subtitle-font-family,var(--font-family-mono))] text-sm uppercase">
-                      {product.subtitle}
-                    </p>
-                  )}
-                  <h1 className="mb-3 mt-2 font-[family-name:var(--product-detail-title-font-family,var(--font-family-heading))] text-2xl font-medium leading-none @xl:mb-4 @xl:text-3xl @4xl:text-4xl">
-                    {product.title}
-                  </h1>
-                  <div className="group/product-rating">
-                    <Stream fallback={<RatingSkeleton />} value={product.rating}>
-                      {(rating) => <Rating rating={rating ?? 0} />}
-                    </Stream>
-                  </div>
-                  <div className="group/product-price">
-                    <Stream fallback={<PriceLabelSkeleton />} value={product.price}>
-                      {(price) => (
-                        <PriceLabel className="my-3 text-xl @xl:text-2xl" price={price ?? ''} />
-                      )}
-                    </Stream>
-                  </div>
-                  <div className="group/product-stock-level mb-8 sm:mb-2 md:mb-0">
-                    <Stream fallback={<ProductStockSkeleton />} value={product.stockLevelMessage}>
-                      {(stockLevelMessage) =>
-                        Boolean(stockLevelMessage) && (
-                          <p className="text-sm text-[var(--product-detail-secondary-text,hsl(var(--contrast-500)))]">
-                            {stockLevelMessage}
-                          </p>
-                        )
-                      }
-                    </Stream>
-                  </div>
-                  <div className="group/product-gallery mb-8 @2xl:hidden">
+              <>
+                <div className="grid grid-cols-1 items-stretch gap-x-4 gap-y-8 @2xl:grid-cols-2 @5xl:gap-x-6">
+                  <div className="group/product-gallery hidden @2xl:block relative">
                     <Stream fallback={<ProductGallerySkeleton />} value={product.images}>
                       {(images) => (
-                        <ProductGallery images={images} thumbnailLabel={thumbnailLabel} />
+                        <div className="relative max-w-xl">
+                          <ProductBadges
+                            brandName={product.subtitle}
+                            brandImageUrl={product.brandImage?.url}
+                            isPremium={product.badge === 'Premium'}
+                          />
+                          <BrandLogo supplierName={product.subtitle || ''} />
+                          <ProductGallery images={images} aspectRatio="1:1" />
+                        </div>
                       )}
                     </Stream>
                   </div>
-                  <div className="group/product-summary">
-                    <Stream fallback={<ProductSummarySkeleton />} value={product.summary}>
-                      {(summary) =>
-                        Boolean(summary) && (
-                          <p className="text-[var(--product-detail-secondary-text,hsl(var(--contrast-500)))]">
-                            {summary}
-                          </p>
-                        )
-                      }
-                    </Stream>
-                  </div>
-                  <div className="group/product-detail-form">
-                    <Stream
-                      fallback={<ProductDetailFormSkeleton />}
-                      value={Streamable.all([
-                        streamableFields,
-                        streamableCtaLabel,
-                        streamableCtaDisabled,
-                        product.minQuantity,
-                        product.maxQuantity,
-                      ])}
-                    >
-                      {([fields, ctaLabel, ctaDisabled, minQuantity, maxQuantity]) => (
-                        <ProductDetailForm
-                          action={action}
-                          additionalActions={additionalActions}
-                          ctaDisabled={ctaDisabled ?? undefined}
-                          ctaLabel={ctaLabel ?? undefined}
-                          decrementLabel={decrementLabel}
-                          emptySelectPlaceholder={emptySelectPlaceholder}
-                          fields={fields}
-                          incrementLabel={incrementLabel}
-                          maxQuantity={maxQuantity ?? undefined}
-                          minQuantity={minQuantity ?? undefined}
-                          prefetch={prefetch}
-                          productId={product.id}
-                          quantityLabel={quantityLabel}
-                        />
-                      )}
-                    </Stream>
-                  </div>
-                  <div className="group/product-description">
-                    <Stream fallback={<ProductDescriptionSkeleton />} value={product.description}>
-                      {(description) =>
-                        Boolean(description) && (
-                          <div className="prose prose-sm max-w-none border-t border-[var(--product-detail-border,hsl(var(--contrast-100)))] py-8 [&>div>*:first-child]:mt-0 [&>div>*:last-child]:mb-0">
-                            {description}
-                          </div>
-                        )
-                      }
-                    </Stream>
-                  </div>
-                  <h2 className="sr-only">{additionalInformationTitle}</h2>
-                  <div className="group/product-accordion">
-                    <Stream fallback={<ProductAccordionsSkeleton />} value={product.accordions}>
-                      {(accordions) =>
-                        accordions && (
-                          <Accordion
-                            className="border-t border-[var(--product-detail-border,hsl(var(--contrast-100)))] pt-4"
-                            type="multiple"
-                          >
-                            {accordions.map((accordion, index) => (
-                              <AccordionItem
-                                key={index}
-                                title={accordion.title}
-                                value={index.toString()}
-                              >
-                                {accordion.content}
-                              </AccordionItem>
-                            ))}
-                          </Accordion>
-                        )
-                      }
-                    </Stream>
+                  {/* Product Details */}
+                  <div className="text-[var(--product-detail-primary-text,hsl(var(--foreground)))]">
+                    <h1 className="text-[#212B36] text-[28px] font-semibold leading-[40px]" style={{ fontFamily: 'Inter', wordWrap: 'break-word' }}>
+                      {product.title}
+                    </h1>
+                    {/* Compatibility Brands List */}
+                    <div>
+                      <CompatibilityBrandsList productId={Number(product.id)} />
+                    </div>
+                    {/* Product ID */}
+                    <div className="mb-1">
+                      <span className="text-[13px] text-[#637381] font-normal" style={{ fontFamily: 'Inter', lineHeight: '20px' }}>
+                        Identifiant: {product.id}
+                      </span>
+                    </div>
+                    <div className="group/product-price mb-1">
+                      <Stream fallback={<PriceLabelSkeleton />} value={product.price}>
+                        {(price) => {
+                          if (!price) return null;
+
+                          let priceString = '';
+                          if (typeof price === 'string') {
+                            priceString = price;
+                          } else if (price.type === 'sale') {
+                            priceString = price.currentValue;
+                          } else if (price.type === 'range') {
+                            priceString = price.minValue;
+                          }
+
+                          return (
+                            <div>
+                              <div className="text-[#DE3618] text-[32px] font-medium leading-[20px]" style={{ fontFamily: 'Inter' }}>
+                                {priceString}
+                              </div>
+                              <div className="mt-2 text-[#637381] text-[13px] font-normal leading-[20px]" style={{ fontFamily: 'Inter' }}>
+                                TVA incluse 20%
+                              </div>
+                            </div>
+                          );
+                        }}
+                      </Stream>
+                    </div>
+                    <div className="group/product-stock-level mb-1">
+                      <Stream fallback={<ProductStockSkeleton />} value={product.stockLevelMessage}>
+                        {(stockLevelMessage) =>
+                          Boolean(stockLevelMessage) && (
+                            <p className="text-sm text-[var(--product-detail-secondary-text,hsl(var(--contrast-500)))]">
+                              {stockLevelMessage}
+                            </p>
+                          )
+                        }
+                      </Stream>
+                    </div>
+                    <div className="group/product-gallery mb-8 @2xl:hidden">
+                      <Stream fallback={<ProductGallerySkeleton />} value={product.images}>
+                        {(images) => (
+                          <ProductGallery images={images} thumbnailLabel={thumbnailLabel} />
+                        )}
+                      </Stream>
+                    </div>
+                    <div className="group/product-summary">
+                      <Stream fallback={<ProductSummarySkeleton />} value={product.summary}>
+                        {(summary) =>
+                          Boolean(summary) && (
+                            <p className="text-[var(--product-detail-secondary-text,hsl(var(--contrast-500)))]">
+                              {summary}
+                            </p>
+                          )
+                        }
+                      </Stream>
+                    </div>
+                    <div className="group/product-detail-form">
+                      <Stream
+                        fallback={<ProductDetailFormSkeleton />}
+                        value={Streamable.all([
+                          streamableFields,
+                          streamableCtaLabel,
+                          streamableCtaDisabled,
+                          product.minQuantity,
+                          product.maxQuantity,
+                        ])}
+                      >
+                        {([fields, ctaLabel, ctaDisabled, minQuantity, maxQuantity]) => (
+                          <ProductDetailForm
+                            action={action}
+                            additionalActions={additionalActions}
+                            ctaDisabled={ctaDisabled ?? undefined}
+                            ctaLabel={ctaLabel ?? undefined}
+                            decrementLabel={decrementLabel}
+                            emptySelectPlaceholder={emptySelectPlaceholder}
+                            fields={fields}
+                            incrementLabel={incrementLabel}
+                            maxQuantity={maxQuantity ?? undefined}
+                            minQuantity={minQuantity ?? undefined}
+                            prefetch={prefetch}
+                            productId={product.id}
+                            quantityLabel={quantityLabel}
+                          />
+                        )}
+                      </Stream>
+                    </div>
+
+                    {/* Compatibility Alert */}
+                    <div className="mt-4">
+                      <CompatibilityAlert />
+                    </div>
+
+                    {/* Stock Status */}
+                    <div className="mt-4 border-b border-[#DFE3E8] pb-4">
+                      <Stream fallback={<ProductStockSkeleton />} value={product.stockLevelMessage}>
+                        {(stockLevelMessage) =>
+                          Boolean(stockLevelMessage) && (
+                            <div className="flex items-center gap-2">
+                              <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+                                <path d="M1 7H15V13H1V7Z" stroke="#212B36" strokeWidth="1.5" />
+                                <path d="M4 4L8 1L12 4" stroke="#212B36" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+                              </svg>
+                              <span className="text-[#212B36] text-[13px] font-medium" style={{ fontFamily: 'Inter' }}>
+                                {stockLevelMessage}
+                              </span>
+                              <span className="text-[#212B36] text-[13px] font-normal" style={{ fontFamily: 'Inter' }}>
+                                Prix valable: {new Date().toLocaleDateString('fr-FR')}
+                              </span>
+                            </div>
+                          )
+                        }
+                      </Stream>
+                    </div>
+
+                    {/* Shipping Info */}
+                    <ShippingInfo />
+
+                    {/* Quick Specs */}
+                    <div className="mt-6 pb-6 border-b border-[#DFE3E8]">
+                      <QuickSpecsContainer productId={Number(product.id)} />
+                    </div>
+
+                    <div className="group/product-description">
+                      <Stream fallback={<ProductDescriptionSkeleton />} value={product.description}>
+                        {(description) =>
+                          Boolean(description) && (
+                            <div className="prose prose-sm max-w-none border-t border-[var(--product-detail-border,hsl(var(--contrast-100)))] py-8 [&>div>*:first-child]:mt-0 [&>div>*:last-child]:mb-0">
+                              {description}
+                            </div>
+                          )
+                        }
+                      </Stream>
+                    </div>
                   </div>
                 </div>
-              </div>
+
+                {/* USP Cards */}
+                <USPCards />
+
+                {/* Compatibility Section - First */}
+                <div id="compatibility-section" className="mt-8 scroll-mt-8">
+                  <CompatibilitySectionTitle productId={Number(product.id)} />
+                  <ProductCompatibilityAccordion productId={Number(product.id)} />
+                </div>
+
+                {/* Technical Specifications Section - Second */}
+                <div id="specifications-section" className="mt-6 scroll-mt-8">
+                  <ProductSpecifications
+                    productId={Number(product.id)}
+                    productName={product.title}
+                  />
+                </div>
+
+                {/* OEM Numbers Section - Third */}
+                <div id="oem-section" className="mt-8 scroll-mt-8">
+                  <OEMNumbersSection productId={Number(product.id)} />
+                </div>
+
+                {/* Product Question Form - Fifth */}
+                <div id="question-form-section" className="scroll-mt-8">
+                  <ProductQuestionForm
+                    productName={product.title}
+                    productId={Number(product.id)}
+                  />
+                </div>
+              </>
             )
           }
         </Stream>

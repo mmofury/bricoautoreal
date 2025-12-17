@@ -1,7 +1,7 @@
 'use client';
 
 import { useSearchParams } from 'next/navigation';
-import { SearchParams } from 'nuqs';
+import { SearchParams } from '~/lib/nuqs-mock';
 import { useEffect } from 'react';
 
 import { useRouter } from '~/i18n/routing';

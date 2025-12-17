@@ -25,7 +25,7 @@ const getLocale = async () => {
   }
 };
 
-export const client = createClient({
+const baseClient = createClient({
   storefrontToken: process.env.BIGCOMMERCE_STOREFRONT_TOKEN ?? '',
   storeHash: process.env.BIGCOMMERCE_STORE_HASH ?? '',
   channelId: process.env.BIGCOMMERCE_CHANNEL_ID,
@@ -67,3 +67,38 @@ export const client = createClient({
     }
   },
 });
+
+export const client = {
+  ...baseClient,
+  fetch: async <T>(args: any): Promise<any> => {
+    const start = performance.now();
+    try {
+      const response = await baseClient.fetch<T>(args);
+      const duration = Math.round(performance.now() - start);
+
+      // Try to extract query name if possible
+      let queryName = 'GraphQL Query';
+      try {
+        if (args.document && typeof args.document === 'object' && 'definitions' in args.document) {
+          const operation = args.document.definitions.find((def: any) => def.kind === 'OperationDefinition');
+          if (operation && operation.name) {
+            queryName = operation.name.value;
+          }
+        } else if (typeof args.document === 'string') {
+          // Basic regex to find query name
+          const match = args.document.match(/(query|mutation)\s+(\w+)/);
+          if (match) queryName = match[2];
+        }
+      } catch (e) {
+        // ignore parsing error
+      }
+
+      console.log(`[GRAPHQL] ${queryName} – ${duration}ms – vars: ${JSON.stringify(args.variables)}`);
+      return response;
+    } catch (error) {
+      const duration = Math.round(performance.now() - start);
+      console.error(`[GRAPHQL] FAILED – ${duration}ms`, error);
+      throw error;
+    }
+  }
+};

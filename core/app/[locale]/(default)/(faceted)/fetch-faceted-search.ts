@@ -192,13 +192,13 @@ const getProductSearchResults = cache(
 
     const searchResults = site.search.searchProducts;
 
-    const items = removeEdgesAndNodes(searchResults.products).map((product) => ({
+    const items = removeEdgesAndNodes(searchResults.products).map((product: any) => ({
       ...product,
     }));
 
     return {
       facets: {
-        items: removeEdgesAndNodes(searchResults.filters).map((node) => {
+        items: removeEdgesAndNodes(searchResults.filters).map((node: any) => {
           switch (node.__typename) {
             case 'BrandSearchFilter':
               return {
@@ -379,17 +379,17 @@ export const PublicToPrivateParams = PublicSearchParamsSchema.catchall(SearchPar
         price:
           minPrice || maxPrice
             ? {
-                maxPrice,
-                minPrice,
-              }
+              maxPrice,
+              minPrice,
+            }
             : undefined,
         productAttributes,
         rating:
           minRating || maxRating
             ? {
-                maxRating,
-                minRating,
-              }
+              maxRating,
+              minRating,
+            }
             : undefined,
         searchTerm: term,
       },

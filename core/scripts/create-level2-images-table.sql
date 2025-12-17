@@ -12,3 +12,4 @@ CREATE INDEX IF NOT EXISTS idx_intercars_level2_images_level2_id ON intercars_le
 
 
 
+

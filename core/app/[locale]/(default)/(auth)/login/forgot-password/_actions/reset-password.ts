@@ -55,7 +55,7 @@ export const resetPassword = async (
 
     if (result.errors.length > 0) {
       return {
-        lastResult: submission.reply({ formErrors: result.errors.map((error) => error.message) }),
+        lastResult: submission.reply({ formErrors: result.errors.map((error: { message: string }) => error.message) }),
       };
     }
 

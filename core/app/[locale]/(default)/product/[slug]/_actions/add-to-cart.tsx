@@ -9,8 +9,9 @@ import { ReactNode } from 'react';
 import { Field, schema } from '@/vibes/soul/sections/product-detail/schema';
 import { graphql } from '~/client/graphql';
 import { Link } from '~/components/link';
-import { addToOrCreateCart } from '~/lib/cart';
+import { addToOrCreateCart, getCartId } from '~/lib/cart';
 import { MissingCartError } from '~/lib/cart/error';
+import { applyCoupon } from '~/lib/cart/apply-coupon';
 
 type CartSelectedOptionsInput = ReturnType<typeof graphql.scalar<'CartSelectedOptionsInput'>>;
 
@@ -78,9 +79,9 @@ export const addToCart = async (
           optionValueEntityId:
             optionValueEntityId === 'true'
               ? // @ts-expect-error Types from custom fields are not yet available, pending fix
-                Number(field.checkedValue)
+              Number(field.checkedValue)
               : // @ts-expect-error Types from custom fields are not yet available, pending fix
-                Number(field.uncheckedValue),
+              Number(field.uncheckedValue),
         };
 
         if (accum.checkboxes) {
@@ -161,6 +162,16 @@ export const addToCart = async (
         },
       ],
     });
+
+    // Try applying the BRICOAUTO coupon
+    try {
+      const cartId = await getCartId();
+      if (cartId) {
+        await applyCoupon(cartId, 'BRICOAUTO');
+      }
+    } catch (e) {
+      console.error('Failed to auto-apply coupon:', e);
+    }
 
     return {
       lastResult: submission.reply(),

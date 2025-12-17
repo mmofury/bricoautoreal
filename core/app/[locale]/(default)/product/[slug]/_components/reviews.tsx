@@ -1,6 +1,5 @@
 import { removeEdgesAndNodes } from '@bigcommerce/catalyst-client';
 import { getFormatter, getTranslations } from 'next-intl/server';
-import { createLoader, parseAsString, SearchParams } from 'nuqs/server';
 import { cache } from 'react';
 
 import { Stream, Streamable } from '@/vibes/soul/lib/streamable';
@@ -8,7 +7,7 @@ import { Reviews as ReviewsSection } from '@/vibes/soul/sections/reviews';
 import { auth } from '~/auth';
 import { client } from '~/client';
 import { PaginationFragment } from '~/client/fragments/pagination';
-import { graphql } from '~/client/graphql';
+import { graphql, ResultOf } from '~/client/graphql';
 import { revalidate } from '~/client/revalidate-target';
 import { defaultPageInfo, pageInfoTransformer } from '~/data-transformers/page-info-transformer';
 
@@ -18,15 +17,12 @@ import { getStreamableProduct } from '../page-data';
 import { ProductReviewSchemaFragment } from './product-review-schema/fragment';
 import { ProductReviewSchema } from './product-review-schema/product-review-schema';
 
+type SearchParams = { [key: string]: string | string[] | undefined };
+
 const PaginationSearchParamNames = {
   BEFORE: 'reviews_before',
   AFTER: 'reviews_after',
 } as const;
-
-const loadReviewsPaginationSearchParams = createLoader({
-  [PaginationSearchParamNames.BEFORE]: parseAsString,
-  [PaginationSearchParamNames.AFTER]: parseAsString,
-});
 
 const ReviewsQuery = graphql(
   `
@@ -68,7 +64,7 @@ const getReviews = cache(async (productId: number, paginationArgs: object) => {
     document: ReviewsQuery,
     variables: { ...paginationArgs, entityId: productId },
     fetchOptions: { next: { revalidate } },
-  });
+  }) as any;
 
   return data.site.product;
 });
@@ -89,12 +85,11 @@ export const Reviews = async ({
   const t = await getTranslations('Product.Reviews');
 
   const streamableReviewsData = Streamable.from(async () => {
-    const paginationSearchParams = await loadReviewsPaginationSearchParams(searchParams);
+    // Manually parse search params to avoid nuqs localStorage error
+    const params = await searchParams;
+    const after = params[PaginationSearchParamNames.AFTER] as string | undefined;
+    const before = params[PaginationSearchParamNames.BEFORE] as string | undefined;
 
-    const {
-      [PaginationSearchParamNames.AFTER]: after,
-      [PaginationSearchParamNames.BEFORE]: before,
-    } = paginationSearchParams;
     const paginationArgs = before == null ? { first: 5, after } : { last: 5, before };
 
     return getReviews(productId, paginationArgs);
@@ -108,7 +103,7 @@ export const Reviews = async ({
       return [];
     }
 
-    return removeEdgesAndNodes(product.reviews).map((review) => ({
+    return removeEdgesAndNodes(product.reviews).map((review: any) => ({
       id: review.entityId.toString(),
       rating: review.rating,
       review: review.text,

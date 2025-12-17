@@ -1,87 +1,88 @@
+'use client';
+
 import Image from 'next/image';
 import Link from 'next/link';
-
-interface PromoCard {
-  icon: React.ReactNode;
-  title: string;
-  description: string;
-}
+import { useEffect, useState } from 'react';
 
 interface HeroBannerPromoProps {
   title: string;
   subtitle: string;
-  ctaText: string;
-  ctaLink: string;
-  imageUrl: string;
-  promoCards: PromoCard[];
+  ctaLabel: string;
+  ctaHref: string;
+  images: string[];
+  imageAlt?: string;
 }
 
 export function HeroBannerPromo({
   title,
   subtitle,
-  ctaText,
-  ctaLink,
-  imageUrl,
-  promoCards,
+  ctaLabel,
+  ctaHref,
+  images,
+  imageAlt = 'Promotion banner',
 }: HeroBannerPromoProps) {
-  return (
-    <div className="bg-[#1E1E1E] rounded-b-2xl pb-10">
-      <div className="mx-auto max-w-[1440px] px-4 md:px-8">
-        {/* Hero Banner */}
-        <div className="pt-4">
-          <div className="relative overflow-hidden rounded-lg bg-white">
-            <div className="grid lg:grid-cols-2">
-              {/* Left Content */}
-              <div className="flex flex-col justify-center p-5 lg:p-8">
-                <h1 className="mb-4 text-4xl font-bold leading-tight text-[#1E1E1E] lg:text-5xl">
-                  {title}
-                </h1>
-                <p className="mb-6 text-xl font-bold text-[#1E1E1E]">{subtitle}</p>
-                <Link
-                  href={ctaLink}
-                  className="inline-flex w-fit items-center justify-center rounded-lg bg-[#FFCC00] px-10 py-3 text-sm font-bold text-[#1E1E1E] outline outline-2 outline-[#FFCC00] transition hover:bg-[#FFD700]"
-                >
-                  {ctaText}
-                </Link>
-              </div>
+  const [currentImageIndex, setCurrentImageIndex] = useState(0);
 
-              {/* Right Image */}
-              <div className="relative h-[305px] overflow-hidden rounded-r-lg bg-black">
-                <Image
-                  src={imageUrl}
-                  alt={title}
-                  fill
-                  className="object-cover"
-                  priority
-                />
-              </div>
-            </div>
-          </div>
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setCurrentImageIndex((prevIndex) => (prevIndex + 1) % images.length);
+    }, 8000); // Change d'image toutes les 8 secondes
+
+    return () => clearInterval(interval);
+  }, [images.length]);
+
+  return (
+    <div className="relative overflow-hidden rounded-lg shadow-sm">
+      <div className="grid grid-cols-1 md:grid-cols-2 bg-white">
+        {/* Contenu texte */}
+        <div className="flex flex-col justify-center p-5 md:p-8">
+          <h2 className="mb-4 text-3xl font-bold leading-tight text-[#2F3740] md:text-4xl lg:text-5xl">
+            {title}
+          </h2>
+          <p className="mb-6 text-lg font-bold text-[#2F3740] md:text-xl">{subtitle}</p>
+          <Link
+            className="inline-flex w-fit items-center justify-center rounded-lg bg-[#FFCC00] px-8 py-3 text-sm font-bold text-[#2F3740] transition-all hover:bg-[#FFD633] focus:outline-none focus:ring-2 focus:ring-[#FFCC00] focus:ring-offset-2"
+            href={ctaHref}
+          >
+            {ctaLabel}
+          </Link>
         </div>
 
-        {/* Promo Cards */}
-        <div className="mt-6 grid gap-4 md:grid-cols-3">
-          {promoCards.map((card, index) => (
+        {/* Slider d'images */}
+        <div className="relative h-80 md:h-[400px] lg:h-[500px] bg-[#2F3740]">
+          {images.map((image, index) => (
             <div
               key={index}
-              className="rounded-lg bg-white p-4 outline outline-1 outline-[#DADADA]"
+              className={`absolute inset-0 transition-opacity duration-1000 ${index === currentImageIndex ? 'opacity-100' : 'opacity-0'
+                }`}
             >
-              <div className="flex items-start gap-3">
-                <div className="flex h-8 w-8 flex-shrink-0 items-center justify-center text-[#1E1E1E]">
-                  {card.icon}
-                </div>
-                <div className="flex-1">
-                  <h3 className="mb-2 text-xl font-bold leading-tight text-[#1E1E1E]">
-                    {card.title}
-                  </h3>
-                  <p className="text-sm leading-relaxed text-[#373737]">{card.description}</p>
-                </div>
-              </div>
+              <Image
+                alt={`${imageAlt} ${index + 1}`}
+                className="rounded-br-lg rounded-tr-lg object-contain"
+                fill
+                priority={index === 0}
+                src={image}
+              />
             </div>
           ))}
+
+          {/* Indicateurs de slides */}
+          <div className="absolute bottom-4 left-1/2 z-10 flex -translate-x-1/2 gap-2">
+            {images.map((_, index) => (
+              <button
+                key={index}
+                aria-label={`Aller à l'image ${index + 1}`}
+                className={`h-2 w-2 rounded-full transition-all ${index === currentImageIndex
+                    ? 'w-8 bg-[#FFCC00]'
+                    : 'bg-white/50 hover:bg-white/75'
+                  }`}
+                onClick={() => setCurrentImageIndex(index)}
+                type="button"
+              />
+            ))}
+          </div>
         </div>
       </div>
     </div>
   );
 }
-

@@ -25,7 +25,7 @@ export function ProductCarouselHorizontal({ title, products }: ProductCarouselHo
 
   const scroll = (direction: 'left' | 'right') => {
     if (scrollContainerRef.current) {
-      const scrollAmount = 336; // 320px width + 16px gap
+      const scrollAmount = 336;
       const newScrollLeft =
         scrollContainerRef.current.scrollLeft +
         (direction === 'left' ? -scrollAmount : scrollAmount);
@@ -39,9 +39,7 @@ export function ProductCarouselHorizontal({ title, products }: ProductCarouselHo
   const renderStars = (rating: number) => {
     return (
       <div className="relative flex items-center">
-        {/* Background stars (gray) */}
         <div className="text-[#DADADA]">★★★★★</div>
-        {/* Foreground stars (yellow) - with overflow hidden to show partial stars */}
         <div
           className="absolute left-0 top-0 overflow-hidden text-[#FFCC00]"
           style={{ width: `${(rating / 5) * 100}%` }}
@@ -66,7 +64,6 @@ export function ProductCarouselHorizontal({ title, products }: ProductCarouselHo
       </div>
 
       <div className="relative">
-        {/* Scroll Left Button */}
         <button
           onClick={() => scroll('left')}
           className="absolute left-0 top-1/2 z-10 -translate-y-1/2 rounded-full bg-white p-2 shadow-lg transition hover:bg-gray-100"
@@ -77,7 +74,6 @@ export function ProductCarouselHorizontal({ title, products }: ProductCarouselHo
           </svg>
         </button>
 
-        {/* Products Container */}
         <div
           ref={scrollContainerRef}
           className="flex gap-4 overflow-x-auto pb-4 scrollbar-hide"
@@ -90,7 +86,6 @@ export function ProductCarouselHorizontal({ title, products }: ProductCarouselHo
               className="group flex-shrink-0"
             >
               <div className="flex h-[124px] w-[320px] gap-3 rounded bg-white p-3 outline outline-2 outline-white transition hover:shadow-lg">
-                {/* Product Image */}
                 <div className="relative h-[70px] w-[70px] flex-shrink-0">
                   <Image
                     src={product.imageUrl}
@@ -100,9 +95,7 @@ export function ProductCarouselHorizontal({ title, products }: ProductCarouselHo
                   />
                 </div>
 
-                {/* Product Info */}
                 <div className="flex flex-1 flex-col">
-                  {/* Price and Add to Cart */}
                   <div className="mb-2 flex items-center justify-between">
                     <span className="text-base font-extrabold text-[#CC0033]">
                       {product.price}
@@ -117,7 +110,6 @@ export function ProductCarouselHorizontal({ title, products }: ProductCarouselHo
                     </button>
                   </div>
 
-                  {/* Rating */}
                   <div className="mb-2 flex items-center gap-2 text-[13.8px] leading-none tracking-wider">
                     {renderStars(product.rating)}
                     <span className="text-xs font-light text-[#666666]">
@@ -125,7 +117,6 @@ export function ProductCarouselHorizontal({ title, products }: ProductCarouselHo
                     </span>
                   </div>
 
-                  {/* Product Name */}
                   <div className="line-clamp-2 text-sm leading-snug text-[#666666]">
                     <span className="font-bold">{product.brand} </span>
                     <span className="font-light">{product.name}</span>
@@ -136,7 +127,6 @@ export function ProductCarouselHorizontal({ title, products }: ProductCarouselHo
           ))}
         </div>
 
-        {/* Scroll Right Button */}
         <button
           onClick={() => scroll('right')}
           className="absolute right-0 top-1/2 z-10 -translate-y-1/2 rounded-full bg-white p-2 shadow-lg transition hover:bg-gray-100"

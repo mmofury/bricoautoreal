@@ -108,7 +108,7 @@ export default async function Category(props: Props) {
     return notFound();
   }
 
-  const breadcrumbs = removeEdgesAndNodes(category.breadcrumbs).map(({ name, path }) => ({
+  const breadcrumbs = removeEdgesAndNodes(category.breadcrumbs).map(({ name, path }: any) => ({
     label: name,
     href: path ?? '#',
   }));
@@ -202,15 +202,15 @@ export default async function Category(props: Props) {
       tree == null || tree.children.length === 0
         ? []
         : [
-            {
-              type: 'link-group' as const,
-              label: t('Category.subCategories'),
-              links: tree.children.map((child) => ({
-                label: child.name,
-                href: child.path,
-              })),
-            },
-          ];
+          {
+            type: 'link-group' as const,
+            label: t('Category.subCategories'),
+            links: tree.children.map((child: any) => ({
+              label: child.name,
+              href: child.path,
+            })),
+          },
+        ];
 
     return [...subCategoriesFilters, ...filters];
   });
@@ -228,7 +228,7 @@ export default async function Category(props: Props) {
 
     const products = await getCompareProducts(compareIds, customerAccessToken);
 
-    return products.map((product) => ({
+    return products.map((product: any) => ({
       id: product.entityId.toString(),
       title: product.name,
       image: product.defaultImage

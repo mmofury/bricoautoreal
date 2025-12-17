@@ -5,8 +5,9 @@ import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { NextIntlClientProvider } from 'next-intl';
 import { setRequestLocale } from 'next-intl/server';
-import { NuqsAdapter } from 'nuqs/adapters/next/app';
 import { cache, PropsWithChildren } from 'react';
+
+import { NuqsAdapter } from '~/lib/nuqs-mock';
 
 import '../../globals.css';
 
@@ -24,6 +25,9 @@ import { ContainerQueryPolyfill } from '~/components/polyfills/container-query';
 import { scriptsTransformer } from '~/data-transformers/scripts-transformer';
 import { routing } from '~/i18n/routing';
 import { getToastNotification } from '~/lib/server-toast';
+
+// Force dynamic rendering to prevent streaming issues causing multiple RootLayoutMetadataQuery
+export const dynamic = 'force-dynamic';
 
 const RootLayoutMetadataQuery = graphql(
   `
