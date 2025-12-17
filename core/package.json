@@ -6,9 +6,10 @@
   "scripts": {
     "dev": "next dev",
     "generate": "node ./scripts/generate.cjs",
-    "build": "npm run generate && next build",
+    "build": "npx prisma generate && npm run generate && next build",
     "build:analyze": "ANALYZE=true npm run build",
     "start": "next start",
+    "postinstall": "npx prisma generate",
     "prelint": "next typegen",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
     "typecheck": "tsc --noEmit",
