@@ -4,10 +4,13 @@ packages:
 
 onlyBuiltDependencies:
   - '@parcel/watcher'
+  - '@prisma/client'
+  - '@prisma/engines'
   - '@swc/core'
   - '@vercel/speed-insights'
   - esbuild
   - msw
+  - prisma
   - protobufjs
   - puppeteer
   - sharp
